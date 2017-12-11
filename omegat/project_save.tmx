@@ -1820,6 +1820,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PLANS/BUILDINGS IN DETAIL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T113218Z" creationid="nakahodo" creationdate="20171211T113218Z">
+        <seg>プラン/建物の詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POPULAR OPINION</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094324Z" creationid="nakahodo" creationdate="20171001T094236Z">
