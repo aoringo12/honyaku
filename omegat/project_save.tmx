@@ -415,6 +415,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Pick Up Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135114Z" creationid="nakahodo" creationdate="20171127T135114Z">
@@ -832,6 +840,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BUILDER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110844Z" creationid="nakahodo" creationdate="20171211T110844Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bean is not placed
 and Country Token
 is turned over.</seg>
@@ -879,6 +895,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124553Z" creationid="nakahodo" creationdate="20171001T124553Z">
         <seg>コーヒーの礼儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CROWDFUNDER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110845Z" creationid="nakahodo" creationdate="20171211T110845Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -1564,6 +1588,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEADERSHIP COUNCIL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110837Z" creationid="nakahodo" creationdate="20171211T110514Z">
+        <seg>注意：既にそのプレイヤーがスタートプレイヤートークンを持っている場合、これを保持し続けるためにLeadership Councilを使用することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110329Z" creationid="nakahodo" creationdate="20171211T110329Z">
@@ -1657,6 +1689,16 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092609Z" creationid="aorin" creationdate="20171116T092609Z">
         <seg>悪くない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: If a player already has the Starting Player Token,
+they may use Leadership Council to retain it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110729Z" creationid="nakahodo" creationdate="20171211T110729Z">
+        <seg>LEADERSHIP COUNCIL
+プレイヤーは、スタートプレイヤートークンを現在の保持者から得る。彼はまたミントサプライから●も得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1755,6 +1797,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094324Z" creationid="nakahodo" creationdate="20171001T094236Z">
         <seg>人気評価</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111219Z" creationid="nakahodo" creationdate="20171211T111219Z">
+        <seg>アップキープフェイズ時、このロケーションに任意の●が配置されている場合、オーナーはミントサプライから●●を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2015,6 +2065,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SUPPLIER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111235Z" creationid="nakahodo" creationdate="20171211T111235Z">
+        <seg>RECYCLER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Separate the 90
 coffee beans by color and place them in piles as noted
 on the bottom of the World Map, arranged by Color
@@ -2267,11 +2325,28 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of placed is
+determined by the desired Plan’s Cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111231Z" creationid="nakahodo" creationdate="20171211T111231Z">
+        <seg>プレイヤーはミントサプライから●●を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The only restriction is that all players must contribute at
 least one bean.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124153Z" creationid="nakahodo" creationdate="20171001T124153Z">
         <seg>唯一の制限は、全てのプレイヤーたちが少なくとも1つの豆を提供しなければならないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player builds one Plan in their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110841Z" creationid="nakahodo" creationdate="20171211T110455Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -2289,6 +2364,44 @@ takes the first turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072531Z" creationid="nakahodo" creationdate="20171209T072531Z">
         <seg>現在スタートプレイヤートークンを持つプレイヤーから最初にターンを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player gains a Plan from the Plan Supply into
+their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111223Z" creationid="nakahodo" creationdate="20171211T111223Z">
+        <seg>PRODUCER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player gains from the Mint Supply,
+then each other player gains from the Mint
+Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110844Z" creationid="nakahodo" creationdate="20171211T110844Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player gains from the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111145Z" creationid="nakahodo" creationdate="20171211T111145Z">
+        <seg>LOTTO
+プレイヤーは自身の近所にプランデッキにある一番上のカード1枚を得る。彼がこれを建築する決定をするまで、カードを公開する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player gains the Starting Player Token from its
+current holder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110538Z" creationid="nakahodo" creationdate="20171211T110538Z">
+        <seg>BUULDER
+自身の近所のプラン1枚を建築する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2563,16 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135056Z" creationid="nakahodo" creationdate="20171127T135056Z">
         <seg>これらパワーはドラゴンが現在いるスペースのアイテムには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They also gain from the Mint
+Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110634Z" creationid="nakahodo" creationdate="20171211T110634Z">
+        <seg>CROWDFUNDER
+プレイヤーはミントサプライから●●●を得て、その後、他の各プレイヤーはミントサプライから1●を得る。</seg>
       </tuv>
     </tu>
     <tu>
