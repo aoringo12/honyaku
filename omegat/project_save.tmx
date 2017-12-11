@@ -1109,6 +1109,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each game round consists of 5 phases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
+        <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player has 3 Blend Markers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214557Z" creationid="aorin" creationdate="20171024T214557Z">
@@ -1439,6 +1447,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132052Z" creationid="nakahodo" creationdate="20171127T132052Z">
         <seg>あなたが他プレイヤーのいるスペースに入るか、プレイヤー1人があなたのスペースに入ったら自動的に攻撃が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you manage that you’ll have truly proven yourself a great Pixie (still small in stature though).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083630Z" creationid="nakahodo" creationdate="20171211T083630Z">
+        <seg>あなたがそうするようにマネジメントできているなら、あなた自身が本当に素晴らしい妖精であることを実証することでしょう（とはいってもやはり背は小さいのですが）。</seg>
       </tuv>
     </tu>
     <tu>
