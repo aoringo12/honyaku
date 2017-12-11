@@ -6,6 +6,32 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>-
+mum of 20 even with 5 players)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070635Z" creationid="nakahodo" creationdate="20171211T070635Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Fill the Black Mining Bag with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070435Z" creationid="nakahodo" creationdate="20171211T070435Z">
+        <seg>15.黒の採掘バッグを次で満たします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Place 1 Apple, Bread, Honey and a Silver bar
+on the Special Offering field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070413Z" creationid="nakahodo" creationdate="20171211T070413Z">
+        <seg>14.りんご、パン、ハチミツ、シルバーの延べ棒を1枚ずつ、特別提供フィールドに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Place all Reward Tiles for Golden Rings on
 the appropriate fields, in descending order.</seg>
       </tuv>
@@ -92,6 +118,16 @@ looking at them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070258Z" creationid="nakahodo" creationdate="20171211T070241Z">
         <seg>13.ラウンドタイル9枚をランダムに裏向きシャッフルし、内容を見ずに適切なフィールドに分けて、7枚配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- The remaining Apples, Bread, Honey, and
+Silver and Gold bars are placed next to the
+board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070707Z" creationid="nakahodo" creationdate="20171211T070707Z">
+        <seg>16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -617,6 +653,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B 10 x Gold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070451Z" creationid="nakahodo" creationdate="20171211T070451Z">
+        <seg>•ゴールド×10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B 2 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000254Z" creationid="nakahodo" creationdate="20171211T000254Z">
@@ -633,6 +677,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B 30 x Silver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070444Z" creationid="nakahodo" creationdate="20171211T070444Z">
+        <seg>•シルバー×30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B 4 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000241Z" creationid="nakahodo" creationdate="20171211T000241Z">
@@ -645,6 +697,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000222Z" creationid="nakahodo" creationdate="20171211T000222Z">
         <seg>•5プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B 5 x Rocks for each player (with a maxi</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070633Z" creationid="nakahodo" creationdate="20171211T070633Z">
+        <seg>•岩×プレイヤー人数ごとに5枚（最大プレイヤー5人で20枚）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,6 +1968,16 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 2 remaining Tiles are
+returned to the game box without looking at
+them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070321Z" creationid="nakahodo" creationdate="20171211T070321Z">
+        <seg>残った二枚のタイルは内容を見ずに箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Best-
 Seller List</seg>
       </tuv>
@@ -2261,6 +2331,16 @@ region in which they place their Field Researcher.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100336Z" creationid="nakahodo" creationdate="20171001T100336Z">
         <seg>これは重要です。なぜならプレイヤーたちは、フィールド研究者を配置する場所の地域によって各ラウンドでチームにわけられるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the general supply, which is
+limited! Also stack the extra Reward Tiles
+here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070834Z" creationid="nakahodo" creationdate="20171211T070834Z">
+        <seg>これは</seg>
       </tuv>
     </tu>
     <tu>
