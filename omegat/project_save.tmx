@@ -15,6 +15,24 @@ mum of 20 even with 5 players)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- All 10 Permanent Ability Tiles are shuffled
+and 6 are randomly drawn and placed face up
+on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071043Z" creationid="nakahodo" creationdate="20171211T071043Z">
+        <seg>17.永続能力タイル10枚全てを、シャッフルして6枚ランダムに引き、ボード上に表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Each player receives:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071429Z" creationid="nakahodo" creationdate="20171211T071429Z">
+        <seg>4.各プレイヤーは次を受け取ります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Fill the Black Mining Bag with:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070435Z" creationid="nakahodo" creationdate="20171211T070435Z">
@@ -118,6 +136,18 @@ looking at them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070258Z" creationid="nakahodo" creationdate="20171211T070241Z">
         <seg>13.ラウンドタイル9枚をランダムに裏向きシャッフルし、内容を見ずに適切なフィールドに分けて、7枚配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Starting with the last player (according to
+the turn order track), each player chooses 1
+Permanent Ability Tile from the board and
+places it on the appropriate field with the
+corresponding symbol on their player screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071317Z" creationid="nakahodo" creationdate="20171211T071137Z">
+        <seg>18.最後手番のプレイヤーから始まり（ターン順番トラックに従って）、各プレイヤーはボードから永続能力タイル1枚を選択し、自身のプレイヤースクリーンにあるシンボルと一致する、適切なフィールドへとこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +632,15 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also stack the extra Reward Tiles
+here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070938Z" creationid="nakahodo" creationdate="20171211T070938Z">
+        <seg>また、ここに追加報酬タイルをスタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, a Bold Blend of white beans would
 be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
@@ -653,10 +692,27 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B 1 player screen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071434Z" creationid="nakahodo" creationdate="20171211T071434Z">
+        <seg>•プレイヤースクリーン1枚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B 10 x Gold</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070451Z" creationid="nakahodo" creationdate="20171211T070451Z">
         <seg>•ゴールド×10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B 2 Apples, 2 Bread, 2 Silver bars and 2 Gold
+bars</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071510Z" creationid="nakahodo" creationdate="20171211T071510Z">
+        <seg>•りんご2、パン2，シルバーの延べ棒2、ゴールドの延べ棒2</seg>
       </tuv>
     </tu>
     <tu>
@@ -681,6 +737,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070444Z" creationid="nakahodo" creationdate="20171211T070444Z">
         <seg>•シルバー×30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B 4 Action Discs in the player’s colour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071544Z" creationid="nakahodo" creationdate="20171211T071544Z">
+        <seg>B 4 Action Discs in the player’s colour</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,6 +888,16 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092522Z" creationid="aorin" creationdate="20171116T092441Z">
         <seg>シェリリンはさらに白豆を持っています―が、TCも貢献しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing a Permanent Ability Tile is only
+performed once all players understand the
+rules of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071406Z" creationid="nakahodo" creationdate="20171211T071406Z">
+        <seg>選択した永続能力タイルは、全てのプレイヤーがゲームのルールを理解した後にのみ、実行されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1880,15 @@ in a Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put the remaining 4 back into
+the game box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071054Z" creationid="nakahodo" creationdate="20171211T071054Z">
+        <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research
 Markers should be placed at
 the start of each Research Track.</seg>
@@ -1855,6 +1938,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092947Z" creationid="nakahodo" creationdate="20171001T092947Z">
         <seg>プレイの流れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071411Z" creationid="nakahodo" creationdate="20171211T071411Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -2331,6 +2422,15 @@ region in which they place their Field Researcher.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100336Z" creationid="nakahodo" creationdate="20171001T100336Z">
         <seg>これは重要です。なぜならプレイヤーたちは、フィールド研究者を配置する場所の地域によって各ラウンドでチームにわけられるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the general supply, which is
+limited!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070927Z" creationid="nakahodo" creationdate="20171211T070927Z">
+        <seg>これは共通サプライで、この数によって制限されます！</seg>
       </tuv>
     </tu>
     <tu>
