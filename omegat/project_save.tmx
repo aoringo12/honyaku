@@ -2749,6 +2749,16 @@ degrading and remains in the Stale position for the entire game.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Location functions identically to the Producer
+with the following exception:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112950Z" creationid="nakahodo" creationdate="20171211T112950Z">
+        <seg>このロケーションは次を除いてProcucerと完全に同様に機能します：
+アップキープフェイズ時、このロケーションに任意の●が配置されていた場合、オーナーはミントサプライから●を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Woodland Alliance will seek to strengthen their presence by building hideouts and launching missions to subvert the rule of the cats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
