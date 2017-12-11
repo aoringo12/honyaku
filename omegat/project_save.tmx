@@ -519,6 +519,15 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Location must have at least one occupied space in
+order to be targeted by the Temp Agency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112159Z" creationid="nakahodo" creationdate="20171211T112159Z">
+        <seg>プレイヤーは、自身の近所から任意の建物[または]プラン1枚を取り、プランサプライにこれを配置できる。その後、サプライからプラン1枚を取り、自身の近所にこれを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player cannot show what’s in a
 Roaster unless a card, action or rule
 requires it.</seg>
@@ -1122,6 +1131,16 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Upkeep phase, if there are any placed
+on this Location, the owner gains from the
+Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111930Z" creationid="nakahodo" creationdate="20171211T111930Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Starter Slate
 has a column of 5
 beans of specific
@@ -1604,6 +1623,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOTTO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111931Z" creationid="nakahodo" creationdate="20171211T111931Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leder Games invites you and your family to explore the fantastic world of Root!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154950Z" creationid="nakahodo" creationdate="20171103T154950Z">
@@ -1873,6 +1900,26 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placing here allows the player to take any one Building
+or Plan from their Neighborhood and place it at the
+bottom of the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111735Z" creationid="nakahodo" creationdate="20171211T111735Z">
+        <seg>プレイヤーは、自身の近所から任意のプラン[または]建物1つを取り、プランデッキの一番下にこれを配置するために使用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing here allows the player to take any one Building
+or Plan from their Neighborhood and place it into the
+Plan Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112556Z" creationid="nakahodo" creationdate="20171211T112556Z">
+        <seg>プレイヤーは別の場所の能力を、そのロケーションに配置したかのように使用できます。配置するのに必要な●の数は、模範するロケーションのコストに＋1した数になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plan</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071931Z" creationid="nakahodo" creationdate="20171209T071931Z">
@@ -2011,6 +2058,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T071054Z" creationid="nakahodo" creationdate="20171211T071054Z">
         <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RECYCLER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111748Z" creationid="nakahodo" creationdate="20171211T111748Z">
+        <seg>SUPPLIER</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2213,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEMP AGENCY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112207Z" creationid="nakahodo" creationdate="20171211T112207Z">
+        <seg>TEMP AGENCY</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,6 +2469,24 @@ current holder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player gains the top card from the Plan Deck into
+their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111929Z" creationid="nakahodo" creationdate="20171211T111819Z">
+        <seg>プレイヤーは自身の近所に、プランサプライからプラン1枚を得る。プランのコストで決定される数の●を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player may utilize another Location’s ability as
+though they had placed on that Location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111945Z" creationid="nakahodo" creationdate="20171211T111945Z">
+        <seg>ロケーションの続き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player with
 their large cube closest to the castle is called
 the Queen’s Favorite and will be the starting
@@ -2442,6 +2523,15 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073704Z" creationid="nakahodo" creationdate="20171209T073704Z">
         <seg>プレイヤーのターンを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The required number of to be placed is one (1)
+plus the desired Location’s cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111951Z" creationid="nakahodo" creationdate="20171211T111951Z">
+        <seg>SWAP MEET</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,6 +2671,24 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124224Z" creationid="nakahodo" creationdate="20171001T124224Z">
         <seg>それ以上を貢献する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They do not have to reveal this
+card until they decide to build it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111929Z" creationid="nakahodo" creationdate="20171211T111929Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They gain from the Mint Supply equal to the sum
+of the Plan’s printed cost and value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111740Z" creationid="nakahodo" creationdate="20171211T111740Z">
+        <seg>彼はそのプランの●コストと★値を合計した数と同じだけ、ミントサプライから●を得る。</seg>
       </tuv>
     </tu>
     <tu>
