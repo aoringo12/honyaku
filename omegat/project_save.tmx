@@ -6,11 +6,29 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- Place all Reward Tiles for Golden Rings on
+the appropriate fields, in descending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070132Z" creationid="nakahodo" creationdate="20171211T070132Z">
+        <seg>12.ゴールデンリング報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Place all Reward Tiles for Special Offering on
 the appropriate fields, in ascending order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T065638Z" creationid="nakahodo" creationdate="20171211T002259Z">
-        <seg>10.test</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070022Z" creationid="nakahodo" creationdate="20171211T002259Z">
+        <seg>10.特別な提供の報酬タイルを全て、適切なフィールドに昇順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Place all the Loyal Servant Reward Tiles on
+the appropriate fields, in descending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070044Z" creationid="nakahodo" creationdate="20171211T070044Z">
+        <seg>11.忠実な使用人報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,6 +82,16 @@ order tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171210T134229Z" creationid="nakahodo" creationdate="20171210T134229Z">
         <seg>3.ターンオーダートラックに小さなキューブと大きなキューブを1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Randomize the 9 Round Tiles face down and
+distribute 7 on the appropriate fields without
+looking at them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T070258Z" creationid="nakahodo" creationdate="20171211T070241Z">
+        <seg>13.ラウンドタイル9枚をランダムに裏向きシャッフルし、内容を見ずに適切なフィールドに分けて、7枚配置します。</seg>
       </tuv>
     </tu>
     <tu>
