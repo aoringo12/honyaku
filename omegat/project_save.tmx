@@ -2128,6 +2128,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SWAP MEET</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112619Z" creationid="nakahodo" creationdate="20171211T112619Z">
+        <seg>WHOLESALER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Separate the 90
 coffee beans by color and place them in piles as noted
 on the bottom of the World Map, arranged by Color
@@ -2610,6 +2618,15 @@ the Upkeep phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073308Z" creationid="nakahodo" creationdate="20171209T073308Z">
         <seg>その後、アップキープフェイズを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then they gain one Plan from the Supply
+and place it into their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112616Z" creationid="nakahodo" creationdate="20171211T112606Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
