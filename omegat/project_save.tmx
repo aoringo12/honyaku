@@ -25,6 +25,14 @@ on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Each player places their Pixies in their mine:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T082801Z" creationid="nakahodo" creationdate="20171211T082801Z">
+        <seg>5.各プレイヤーは自身の炭鉱に自身の妖精を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Each player receives:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T071429Z" creationid="nakahodo" creationdate="20171211T071429Z">
@@ -725,6 +733,16 @@ bars</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B 3 Pixies if playing with 5 players
+Any remaining Pixies are returned to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T082905Z" creationid="nakahodo" creationdate="20171211T082905Z">
+        <seg>•5プレイヤーの場合は妖精3つ
+任意の残った妖精たちは、箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B 3 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000249Z" creationid="nakahodo" creationdate="20171211T000249Z">
@@ -743,8 +761,16 @@ bars</seg>
       <tuv lang="EN-US">
         <seg>B 4 Action Discs in the player’s colour</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T071544Z" creationid="nakahodo" creationdate="20171211T071544Z">
-        <seg>B 4 Action Discs in the player’s colour</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T082500Z" creationid="nakahodo" creationdate="20171211T071544Z">
+        <seg>•プレイヤーの色のアクションディスク4つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B 4 Pixies if playing with 4 players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T082834Z" creationid="nakahodo" creationdate="20171211T082834Z">
+        <seg>•4プレイヤーの場合は妖精4つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -753,6 +779,14 @@ bars</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000241Z" creationid="nakahodo" creationdate="20171211T000241Z">
         <seg>•4プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B 5 Pixies if playing with 2 or 3 players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T082827Z" creationid="nakahodo" creationdate="20171211T082827Z">
+        <seg>•2、3プレイヤーの場合は妖精5つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,6 +803,15 @@ bars</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070633Z" creationid="nakahodo" creationdate="20171211T070633Z">
         <seg>•岩×プレイヤー人数ごとに5枚（最大プレイヤー5人で20枚）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B Apart from the starting player, all players
+also receive 2 Honey pots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T082731Z" creationid="nakahodo" creationdate="20171211T082731Z">
+        <seg>•スタートプレイヤー以外、全てのプレイヤーはハニーポットを2つ受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1692,6 +1735,15 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Penalty Points are negative and are immediately recorded on the score track, by moving
+the marker clockwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083117Z" creationid="nakahodo" creationdate="20171211T083117Z">
+        <seg>ペナルティポイントはマイナスで、マーカーを時計回りに動かすことで、直ちにスコアトラックに記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -1889,12 +1941,28 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Receive as few Penalty Points as possible from the Queen while collecting Reward Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083012Z" creationid="nakahodo" creationdate="20171211T083012Z">
+        <seg>報酬ポイントを集めながら、クイーンからのペナルティポイントをできるだけ少なく受け取りようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research
 Markers should be placed at
 the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T091913Z" creationid="nakahodo" creationdate="20170924T091913Z">
         <seg>研究マーカーを各研究トラックの開始位置に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward Points are positive, but are only added to the score track at the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083151Z" creationid="nakahodo" creationdate="20171211T083151Z">
+        <seg>報酬ぽんとはプラスですが、ゲーム終了時にのみ、スコアトラックに追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2297,6 +2365,15 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134752Z" creationid="nakahodo" creationdate="20171127T134752Z">
         <seg>ドラゴンがいるタイルには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winner is the player with the highest overall score, but be aware that getting on the
+positive part of the score track is difficult!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083453Z" creationid="nakahodo" creationdate="20171211T083453Z">
+        <seg>合計得点が最も高いプレイヤーが勝者となりますが、スコアトラックのプラス側を維持できるのは難しいことに注意してください！</seg>
       </tuv>
     </tu>
     <tu>
