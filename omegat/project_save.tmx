@@ -1564,6 +1564,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCATIONS IN DETAIL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110329Z" creationid="nakahodo" creationdate="20171211T110329Z">
+        <seg>ロケーション詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leder Games invites you and your family to explore the fantastic world of Root!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154950Z" creationid="nakahodo" creationdate="20171103T154950Z">
