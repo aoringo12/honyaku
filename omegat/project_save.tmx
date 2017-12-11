@@ -849,6 +849,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BRIDGE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T131635Z" creationid="nakahodo" creationdate="20171211T131635Z">
+        <seg>BRIDGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BUILDER</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110844Z" creationid="nakahodo" creationdate="20171211T110844Z">
@@ -1045,6 +1053,15 @@ chosen through majority vote.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113304Z" creationid="nakahodo" creationdate="20171001T113304Z">
         <seg>各チームの投票を数え、各チームの多数決アクションを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Counts as two (2) Buildings in all scenarios,
+including, but not limited to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T131550Z" creationid="nakahodo" creationdate="20171211T131550Z">
+        <seg>ASSEMBLER</seg>
       </tuv>
     </tu>
     <tu>
@@ -1700,6 +1717,15 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
         <seg>それに加えて、あなたはそこで食料にありつけたため、食料1つを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Museum, Obelisk,
+Corporate HQ and Tiebreakers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171211T131630Z" creationid="nakahodo" creationdate="20171211T131630Z">
+        <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
       </tuv>
     </tu>
     <tu>
