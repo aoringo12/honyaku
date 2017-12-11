@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--A Flame Wall placed on the Entrance will prevent the Thief from stashing treasures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134219Z" creationid="nakahodo" creationdate="20171127T134219Z">
+        <seg>――エントランスに炎の壁を配置するとシーフがトレジャーをスタッシュするのを防ぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Flame Wall affects players only when the enter the space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134017Z" creationid="nakahodo" creationdate="20171127T134017Z">
+        <seg>――炎の壁はスペースに入る時にのみプレイヤーたちへ影響を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Flame reveals only tiles that were on the map when the die roll was first made.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T133135Z" creationid="nakahodo" creationdate="20171127T133135Z">
+        <seg>――フレイムは最初にダイスをロールする時にあるマップのタイルのみを明らかにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--If a Flame Wall is placed on the Entrance tile, and the Thief appears there at the start of his turn (after dying), he is unharmed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134634Z" creationid="nakahodo" creationdate="20171127T134634Z">
+        <seg>――炎の壁がエントランスタイルに配置され、シーフがターン開始時に（死ぬことにより）そこで復活した場合、彼は無傷です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Scorch reveals only tiles that were on the map when it was first activated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134850Z" creationid="nakahodo" creationdate="20171127T134809Z">
+        <seg>――閃光は、最初にアクティブにされた時にマップに配置されていたタイルのみを明らかにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Scorch reveals surrounding tiles only.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134740Z" creationid="nakahodo" creationdate="20171127T134740Z">
+        <seg>――閃光は周囲タイルのみ明らかにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--The target must be in an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135031Z" creationid="nakahodo" creationdate="20171127T135031Z">
+        <seg>――ターゲットは隣接スペースでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Dragon abilities that can attack the Thief (Claw, Scratch, Flame Wall) ignore Stealth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T133052Z" creationid="nakahodo" creationdate="20171127T133052Z">
+        <seg>―ドラゴンのアビリティ（クロウ、叩き潰す、炎の壁）はシーフのステルスを無視して攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Flame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T133100Z" creationid="nakahodo" creationdate="20171127T133100Z">
+        <seg>―フレイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Flame Wall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T133346Z" creationid="nakahodo" creationdate="20171127T133346Z">
+        <seg>―炎の壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-In games without a Goblins player, the Dragon cannot eat Goblins even if it uses Claw, Scratch, or Hiss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135934Z" creationid="nakahodo" creationdate="20171127T135934Z">
+        <seg>―ゴブリンプレイヤーがゲームにいない時、ドラゴンはクロウ、叩き潰す、ヒスを使用してもゴブリンを食べられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Increased Armor caused by adding cubes to the Wakefulness track is effective immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141108Z" creationid="nakahodo" creationdate="20171127T141000Z">
+        <seg>―覚醒トラックにキューブを追加することにより、直ちにアーマーは増加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Increased Spirit applies only at the end of your turn when replacing your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141053Z" creationid="nakahodo" creationdate="20171127T141053Z">
+        <seg>―増加したスピリットは、あなたのターン終了時の手札の入れ替え時にのみ適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Once awakened, the Dragon must end its turn on a Crystal tile in order to surface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141337Z" creationid="nakahodo" creationdate="20171127T141337Z">
+        <seg>―覚醒すると、ドラゴンは出現するためにターン終了時にクリスタルタイルにいる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Picking up Treasure is a discrete part of the turn that occurs only after all movements have been made and all powers have been used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135622Z" creationid="nakahodo" creationdate="20171127T135622Z">
+        <seg>―トレジャーを拾うのは、全ての移動とパワーの使用を終えた後にのみ、ターンの一部として別途発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Pride contains three separate categories that do not share Sloth cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T140621Z" creationid="nakahodo" creationdate="20171127T140559Z">
+        <seg>―プライドには怠惰キューブを共有しない3つのカテゴリがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Scorch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134715Z" creationid="nakahodo" creationdate="20171127T134715Z">
+        <seg>―閃光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Slap/Swat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135011Z" creationid="nakahodo" creationdate="20171127T135011Z">
+        <seg>―放り投げ／はたく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-The Armor and Spirit values shown on each row of the Wakefulness track apply as soon as the first cube is placed in that row.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T140905Z" creationid="nakahodo" creationdate="20171127T140905Z">
+        <seg>―アーマーとスピリット値は、覚醒トラックにあるその行にキューブが配置されるとすぐに、そこに示される値になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-The Dragon may surface on any Crystal tile, even if the Crystal token has been smashed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141545Z" creationid="nakahodo" creationdate="20171127T141545Z">
+        <seg>―ドラゴンは、たとえクリスタルトークンが砕かれていたとしても、出現できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-The top row of the Wakefulness track contains only a single space (1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141250Z" creationid="nakahodo" creationdate="20171127T141104Z">
+        <seg>―覚醒トラックの一番上の行は1つのスペースのみがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Walls do not block the use of Powers or affect them in any way, except where noted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T132742Z" creationid="nakahodo" creationdate="20171127T132742Z">
+        <seg>―壁は別途記載がない限り、パワーの使用を防いだり、何らかの影響をあたえることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-When moving, you must complete each individual movement before using Powers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T132150Z" creationid="nakahodo" creationdate="20171127T132150Z">
+        <seg>―移動する時、あなたパワーを使用する前に個々の移動を完了する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-While on the surface, you must obey all walls while moving, and cannot enter Dark tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T131958Z" creationid="nakahodo" creationdate="20171127T131958Z">
+        <seg>―出現している間、あなたは移動時に全ての壁に従い、ダークタイルには入れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-While underground, the Dragon ignores all walls, Dark tiles, and other players when moving, whether using the standard movement for the turn or a Wing card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T131821Z" creationid="nakahodo" creationdate="20171127T131821Z">
+        <seg>―地下にいる間、ドラゴンはターンでの基本移動やウイングカードを使用しての移動で、全ての壁、ダークタイル、他プレイヤーを無視する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1) Move and Use Powers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T131718Z" creationid="nakahodo" creationdate="20171127T131718Z">
+        <seg>1）移動とパワーの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2) Pick Up Treasure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135114Z" creationid="nakahodo" creationdate="20171127T135114Z">
+        <seg>2）トレジャーを拾う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4
+SET UP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T065758Z" creationid="nakahodo" creationdate="20171209T065758Z">
+        <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Bold Blend Blend Rank Scale
+with a Black Bean kicker would be higher ranked than a Red
+Bean Kicker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095511Z" creationid="nakahodo" creationdate="20171002T095511Z">
+        <seg>キッカーに黒豆を持つBoldブレンドのランクはキッカーに赤豆を持つものよりも高くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player cannot show what’s in a
+Roaster unless a card, action or rule
+requires it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T125435Z" creationid="nakahodo" creationdate="20171001T125411Z">
+        <seg>プレイヤーはカード、アクション、ルールに記述がない限り、ロースターの中を見せることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player may never have more than one Marker on a single
+Blend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T215955Z" creationid="aorin" creationdate="20171024T215955Z">
+        <seg>プレイヤーは1つのブレンドにマーカー複数を持つことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A team’s action is determined by a majority vote.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T112457Z" creationid="nakahodo" creationdate="20171001T112457Z">
+        <seg>チームのアクションは多数決によって決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADDITIONS FOR GAMES WITH 3-5 PLAYERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T093951Z" creationid="nakahodo" creationdate="20170924T093951Z">
+        <seg> 3-5プレイヤーゲームでの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADDITIONS FOR GAMES WITH 3-6 PLAYERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T092256Z" creationid="nakahodo" creationdate="20170924T092256Z">
+        <seg>3-6プレイヤーゲームでの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After Blending, each player receives 1 RP to distribute on
+their own Research Lab Ability Tracks!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T214547Z" creationid="aorin" creationdate="20171024T214547Z">
+        <seg>ブレンドした後、各プレイヤーは1RPを受け取り、自身の研究所能力トラックに分配します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After all
+players have contributed
+one bean, they may pull
+a bean or pass until all
+players have passed or the
+Blend Slate is full.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124531Z" creationid="nakahodo" creationdate="20171001T124531Z">
+        <seg>全てのプレイヤーたちがブレンドスレートが満たされるかパスするまで、プレイヤー全員は1つの豆を提供した後でパスか豆を1つ引くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All
+beans on the Slate are returned to The Fields, and all markers
+are returned to players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T214154Z" creationid="aorin" creationdate="20171024T214154Z">
+        <seg>スレートの全ての豆はフィールドに戻され、全てのマーカーはプレイヤーに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All inferior Blends are moved to the left on the List and the
+new Blend is inserted to the right of any Blend it outranks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T213826Z" creationid="aorin" creationdate="20171024T213826Z">
+        <seg>全ての下位ブレンドはリストの左側に移動し、新しいブレンドは任意の上位ブレンドの右に挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All ties result in a Research action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T113336Z" creationid="nakahodo" creationdate="20171001T113336Z">
+        <seg>タイの場合、研究アクションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, a Bold Blend of white beans would
+be higher-ranked than a Regular Blend of black beans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095407Z" creationid="nakahodo" creationdate="20171002T095407Z">
+        <seg>また、白豆のBoldブレンドは黒豆のRegularブレンドよりも高いランクになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any Token that is revealed with Blend face-up is a vote for the team to
+Blend, and any Token with Research is a vote for the team to Research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T113155Z" creationid="nakahodo" creationdate="20171001T113155Z">
+        <seg>ブレンドが多く表向きに公開されたチームはブレンドに、研究が多く公開されたチームは研究になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any extra “kicker” beans are used to break ties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095424Z" creationid="nakahodo" creationdate="20171002T095424Z">
+        <seg>追加の「キッカー」豆はタイブレイクに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking or being attacked by another player is option.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
+        <seg>攻撃や他プレイヤーからの攻撃はオプションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Awakening and Surfacing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135628Z" creationid="nakahodo" creationdate="20171127T135628Z">
+        <seg>目覚めと出現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BLEND</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T114551Z" creationid="nakahodo" creationdate="20171001T114551Z">
+        <seg>ブレンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BLEND/RESEARCH</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T093709Z" creationid="nakahodo" creationdate="20171001T093709Z">
+        <seg>ブレンド/研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bean is not placed
+and Country Token
+is turned over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T093447Z" creationid="nakahodo" creationdate="20170924T093447Z">
+        <seg>豆は配置されず、国トークンは裏返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend (continued)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T094755Z" creationid="nakahodo" creationdate="20171002T094755Z">
+        <seg>ブレンド（続き）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blends are ranked and placed onto the Best-Seller List based first on
+the ranking of the combination, then on the color of the blend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095206Z" creationid="nakahodo" creationdate="20171002T095206Z">
+        <seg>ブレンドはランク付けされ、まず組み合わせのランクに基づいて、次にブレンドの色に基づいてベストセラーリストに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blends then “degrade” and weaken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T094825Z" creationid="nakahodo" creationdate="20171001T094825Z">
+        <seg>その後、ブレンドは"劣化"し、衰退します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COFFEE PROTOCOL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124553Z" creationid="nakahodo" creationdate="20171001T124553Z">
+        <seg>コーヒーの礼儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T134005Z" creationid="nakahodo" creationdate="20171124T134005Z">
+        <seg>キャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camping allows you to restore health and sometimes morale, as well as use certain skills and equipment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T134924Z" creationid="nakahodo" creationdate="20171124T134924Z">
+        <seg>キャンプはヘルスと士気を同時に回復し、特定のスキルと装備の使用を許可します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cards that require you to pay food still need to be paid for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T135206Z" creationid="nakahodo" creationdate="20171124T135206Z">
+        <seg>カードがあなたに食料の消費を必要とする場合、まだ支払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cherilyn goes next and pulls a
+white bean - things are suddenly
+looking better!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092405Z" creationid="aorin" creationdate="20171116T092405Z">
+        <seg>シェリリンが次に行い、白豆を引き出します―運が向いてきたかもしれない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cherilyn has more white beans, but T.C. must
+contribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092522Z" creationid="aorin" creationdate="20171116T092441Z">
+        <seg>シェリリンはさらに白豆を持っています―が、TCも貢献しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chris pulls one more a time - it’s
+a white bean.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092107Z" creationid="aorin" creationdate="20171116T092107Z">
+        <seg>クリスはもう一度引き出します―これは白豆でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chris reaches into his Roaster and pulls out a
+yellow bean, placing it onto the Blend Slate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T091933Z" creationid="aorin" creationdate="20171116T091933Z">
+        <seg>クリスは彼のロースターに到達し、黄豆を取り出してブレンドスレートに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chris says he has the
+best chance to give the team three-of-a-kind in
+yellow beans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T091637Z" creationid="aorin" creationdate="20171116T091637Z">
+        <seg>クリスはチームに黄豆のスリーオブアカインドを与えるチャンスだと言いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chris, Cherilyn and T.C.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T223531Z" creationid="aorin" creationdate="20171024T223531Z">
+        <seg>クリス、シェリリン、TCは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chris, Cherilyn and T.C. are all in the same region
+and have decided to Blend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T223618Z" creationid="aorin" creationdate="20171024T223547Z">
+        <seg>クリス、シェリリン、TCは全員同じ地域に居て、ブレンドする決定をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Count the votes on each team, and determine which action each team has collectively
+chosen through majority vote.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T113304Z" creationid="nakahodo" creationdate="20171001T113304Z">
+        <seg>各チームの投票を数え、各チームの多数決アクションを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created Blends are ranked by
+a simple poker scale and placed onto the Best-Seller List to score points, hopefully over the course of several rounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T115203Z" creationid="nakahodo" creationdate="20171001T115157Z">
+        <seg>作成されたブレンドは単純なポーカー基準でランク付けされ、ベストセラーリストに配置され、うまく行けば複数ラウンドで得点されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark tiles that are added to fill open edges are not revealed, even if they are placed in spaces that would have been affected by the initial roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T133341Z" creationid="nakahodo" creationdate="20171127T133341Z">
+        <seg>これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark tiles that are added to fill open edges are not revealed, even if they are placed in surrounding spaces that would have been affected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134813Z" creationid="nakahodo" creationdate="20171127T134813Z">
+        <seg>これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determine Turn Order
+The player with the lowest score on the Performance
+Track will go first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T100939Z" creationid="nakahodo" creationdate="20171001T100939Z">
+        <seg>ターン順番の決定
+業績トラックの最も低い得点のプレイヤーが最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not place Sloth cubes on the Shield icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141311Z" creationid="nakahodo" creationdate="20171127T141311Z">
+        <seg>盾アイコンに怠惰キューブは配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drat!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092125Z" creationid="aorin" creationdate="20171116T092125Z">
+        <seg>ちぇっ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During set-up in a game
+with 3 to 5 players, place the
+Coffee* Slate in the Stale
+position on the Best-Seller List.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T092917Z" creationid="nakahodo" creationdate="20171001T092917Z">
+        <seg>3から5プレイヤーゲームのセットアップ時に、ベストセラーリストの古い場所にコーヒースレートが配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Starter Slate
+has a column of 5
+beans of specific
+colors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T090913Z" creationid="nakahodo" creationdate="20170924T090913Z">
+        <seg>各スタータースレートは特定色の5つの豆の行を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player has 3 Blend Markers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T214557Z" creationid="aorin" creationdate="20171024T214557Z">
+        <seg>各プレイヤーは3ブレンドマーカーを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player, in turn order, places their Field Researchers onto a
+Country on the World Map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T103328Z" creationid="nakahodo" creationdate="20171001T103328Z">
+        <seg>各プレイヤーはターン順にて、ワールドマップ上の国に自身のフィールド研究者たちを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each symbol
+listed on the Tokens represents a positive action (marked in dark brown)
+or a negative action (marked in red).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T103742Z" creationid="nakahodo" creationdate="20171001T103742Z">
+        <seg>トークンに記述される各シンボルは（暗い茶）ポジティブアクションか、（赤）ネガティブアクションで表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each team takes the Blend Slate above their region on the World
+Map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T121516Z" creationid="nakahodo" creationdate="20171001T121516Z">
+        <seg>各チームはワールドマップの自身の地域上部にあるブレンドスレートを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example of Blending</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T223252Z" creationid="aorin" creationdate="20171024T223252Z">
+        <seg>ブレンドの例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For
+example, a Bold Blend of black beans would be ranked higher than a
+Bold Blend of white beans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095343Z" creationid="nakahodo" creationdate="20171002T095343Z">
+        <seg>例えば、黒豆のBoldブレンドは白豆のBoldブレンドよりもランクが高いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For additions to game play for 3-4 players,
+please see page 13.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T094937Z" creationid="nakahodo" creationdate="20171001T094937Z">
+        <seg>さらに3から4プレイヤーでのゲームプレイは、ページ13を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information about specific Country Token abilities
+and effects, see Appendix A on page 16.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T110856Z" creationid="nakahodo" creationdate="20171001T110856Z">
+        <seg>特別な国トークンの能力と効果の詳細はページ16にある付録Aを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free Bean Space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T130311Z" creationid="nakahodo" creationdate="20171001T130311Z">
+        <seg>フリー豆スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free Bean Space
+Some Blend Slates have one bean space filled
+in with a specific color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T125636Z" creationid="nakahodo" creationdate="20171001T125636Z">
+        <seg>フリー豆スペース
+いくつかのブレンドスレートは特定の色で塗りつぶされた1つの豆スペースがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Set-up
+Unfold the World Map and Performance Track and
+place them on the table as shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T084755Z" creationid="nakahodo" creationdate="20170924T084755Z">
+        <seg>ゲームセットアップ
+ワールドマップと業績トラックを広げ、それらをテーブルに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give each player a set of pieces in
+the player’s color, a Roaster bag,
+and a Research Lab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T091847Z" creationid="nakahodo" creationdate="20170924T091737Z">
+        <seg>各プレイヤーに、プレイヤー色の各コンポーネント、ロースターバッグ、研究ラボのセットを渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He closes his eyes, reaches into his
+Roaster...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092538Z" creationid="aorin" creationdate="20171116T092538Z">
+        <seg>彼は目を閉じ、自身のロースターに手を入れ・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is killed as he enters the space, so any Treasures or Gems he was carrying are dropped on that space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134247Z" creationid="nakahodo" creationdate="20171127T134247Z">
+        <seg>彼がスペースに入ると殺され、運んでいたジェムやトレジャーをそのスペースに落とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if two or more exact Blends are created
+simultaneously, the Blend with the team member who has
+the highest turn order is placed higher on the List.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095713Z" creationid="nakahodo" creationdate="20171002T095713Z">
+        <seg>ただし、2つ以上の完全に同じブレンドが同時に作成された場合は、チームメンバーのターン順番で最も高いプレイヤーがリストの上位に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN THE FIELD</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T093538Z" creationid="nakahodo" creationdate="20171001T093538Z">
+        <seg>フィールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INVESTMENT TOKENS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T114045Z" creationid="nakahodo" creationdate="20171001T114045Z">
+        <seg>投資トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Flame Wall is placed on a space that already contains a player, that player is unaffected unless they leave the tile and reenter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134100Z" creationid="nakahodo" creationdate="20171127T134100Z">
+        <seg>炎の壁がプレイヤーが既に存在するスペースに配置された場合、彼らがそのタイルから出てまた入るまで影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a new Blend is exactly the same as a Blend already
+on the List, the old Blend is considered inferior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T223247Z" creationid="aorin" creationdate="20171024T223247Z">
+        <seg>新しいブレンドが、既にリストにあるブレンドと全く同じ場合、古いブレンドは下位の物だと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player needs to place
+a fourth Marker, that player removes a Marker from another
+blend or doesn’t add a Marker to a Blend created this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T215909Z" creationid="aorin" creationdate="20171024T215909Z">
+        <seg>プレイヤーが4つめのマーカーを配置する必要がある場合、そのプレイヤーは、そのプレイヤーは他のブレンドからマーカーを取り除く[または]このラウンドに作成されたブレンドにマーカーを追加しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any player(s) has an Investment Token, the Brewmaster should stop play immediately after the Vote is complete and
+offer a brief opportunity to place an Investment Token onto a Blend at this time. (see pg. 18 Invest)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T114546Z" creationid="nakahodo" creationdate="20171001T114546Z">
+        <seg>いずれかのプレイヤー（たち）が投資トークンを持つ場合、醸造長は投票が完了した後に直ちにプレイを止めて、この時点でブレンドに投資トークンを配置する機会を提供します（ページ18の投資を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If for any reason, a new or existing Blend does not rank high
+enough to place onto the list, it is removed from play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T214013Z" creationid="aorin" creationdate="20171024T214013Z">
+        <seg>何らかの理由で、新しい[または]現存のブレンドがリストへと配置するために十分ランクが高くない場合は、プレイから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no beans of that type in the Fields,
+players cannot use this ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T094747Z" creationid="nakahodo" creationdate="20171002T094747Z">
+        <seg>その種類の豆がフィールドにない場合、プレイヤーたちはこの能力を使用することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is ever no unanimous decision, players on a team must pull
+one single bean at a time
+in turn order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124350Z" creationid="nakahodo" creationdate="20171001T124350Z">
+        <seg>全員の意見が統一できない場合、チームのプレイヤーたちはターン順番で一度に1つの豆を引く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is tie, as shown in the
+example to the right, the player on the top of the
+stack is first in turn order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T102704Z" creationid="nakahodo" creationdate="20171001T102704Z">
+        <seg>タイの場合、右の例に示されるように、スタックの一番上プレイヤーがターン順番最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are in a safe house (light blue zones), you can choose to gain either an additional 1 health or 1 morale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T135007Z" creationid="nakahodo" creationdate="20171124T135007Z">
+        <seg>あなたがセーフハウスにいる場合（水色ゾーン）、あなたは追加の1ヘルスか1士気回復するののいずれかを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you enter a space with another player or a player enters your space, an attack occurs automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T132052Z" creationid="nakahodo" creationdate="20171127T132052Z">
+        <seg>あなたが他プレイヤーのいるスペースに入るか、プレイヤー1人があなたのスペースに入ったら自動的に攻撃が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Root, the players drive the narrative, and the differences among the roles create unparalleled interaction and replayability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
+        <seg>ルートは、プレイヤーたちを物語へと誘い込み、それぞれの異なる役割は今までにない作用とリプレイ性を生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Turn Order, players place their
+Field Researcher pawns on the
+World Map and collect beans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T093652Z" creationid="nakahodo" creationdate="20171001T093652Z">
+        <seg>ターン順番にて、プレイヤーたちは自身のフィールド研究者ポーンをワールドマップと豆の収集に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In all subsequent turns, red negative actions must be taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
+        <seg>その後に続く全てのターンにて、ネガティブアクションらは実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games of 3 to 6 players, countries that are flipped to the ● side
+cannot be chosen, unless a special action would allow it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T110813Z" creationid="nakahodo" creationdate="20171001T110813Z">
+        <seg>3から6プレイヤーゲームでは、特別アクションで許可されない限り、●側に返された国を選択することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with 3 to
+5 players, the Stale portion of the Best-Seller List is dominated by the Coffee* Blend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T092821Z" creationid="nakahodo" creationdate="20171001T092821Z">
+        <seg>3から5プレイヤーゲームでは、ベストセラーリストの古い場所はコーヒーブレンドが占めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to move Hunger cubes to Wakefulness you must first use Slither to transfer them to different Sloth tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T140603Z" creationid="nakahodo" creationdate="20171127T140514Z">
+        <seg>覚醒に飢えのキューブを移動するためには、這い寄るを使用して異なる怠惰トラックにキューブをまず移動させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In set-up and during
+the game when Blend Slates are placed above the regions on the World Map, a special symbol on each Blend Slate
+indicates an action that must be performed for a specific Country in that region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T093421Z" creationid="nakahodo" creationdate="20170924T093421Z">
+        <seg>ワールドマップの地域上部にブレンドスレートがゲーム中やセットアップ時に配置されている時、各ブレンドスレートの特別なシンボルはその地域の特定の国に実行しなければならないアクションを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this effort, the Alliance may enlist the help of the Vagabonds, who are able to move through the more dangerous woodland paths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T152328Z" creationid="nakahodo" creationdate="20171103T152245Z">
+        <seg>この尽力の中で、同盟はウッドランドのより危険な道を進むことのできる、ヴァガボンドの助けを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investment Tokens on the Slate are
+returned to the general supply (see page 18).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T214330Z" creationid="aorin" creationdate="20171024T214330Z">
+        <seg>スレートの投資トークンは共通サプライに戻されます（ページ18を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is up to the players to decide which group will ultimately take root.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T153637Z" creationid="nakahodo" creationdate="20171103T153637Z">
+        <seg>どのグループが最終的に根ざす（root）のかはプレイヤー達によって決められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s time for the team to work together to create a Blend to top the Best-Seller List.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T114845Z" creationid="nakahodo" creationdate="20171001T114845Z">
+        <seg>ベストセラーリストトップにブレンドを作成するためにチームで協力する時間です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leder Games invites you and your family to explore the fantastic world of Root!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T154950Z" creationid="nakahodo" creationdate="20171103T154950Z">
+        <seg>Leder Games はあなたと、あなたの家族をルートの素晴らしい世界の探索へと招待します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like in Vast: the Crystal Caverns, each player in Root has unique capabilities and a different victory condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T153848Z" creationid="nakahodo" creationdate="20171103T153848Z">
+        <seg>ヴァストのように、ルートでの各プレイヤーたちは独自の能力と異なる勝利条件を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loud debating, advertising, and negotiation are encouraged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T112638Z" creationid="nakahodo" creationdate="20171001T112638Z">
+        <seg>盛大な議論、喧伝、交渉が推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a Blend</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
+        <seg>ブレンドの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander whom they hope will lead their faction to reclaim their ancient birthright.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
+        <seg>一方、地域の一角では誇り高きアイリーは新しい司令官を見つけ、自身らの種族が持っていた権利を取り戻そうとしていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, you do not need to pay 1 food to be considered fed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
+        <seg>それに加えて、あなたはそこで食料にありつけたため、食料1つを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not bad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092609Z" creationid="aorin" creationdate="20171116T092609Z">
+        <seg>悪くない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, with the aid of gorgeous, multi-use cards, a truly asymmetric design has never been more accessible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T154311Z" creationid="nakahodo" creationdate="20171103T154311Z">
+        <seg>ゴージャスなエイド、多用途なカード、真に非対称なデザインはかつてないほど遊びやすくなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the first round of the game, players ignore penalties if they place their Field Researcher on a country that
+contains a red negative action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T110952Z" creationid="nakahodo" creationdate="20171001T110952Z">
+        <seg>ゲームの最初のラウンドにて、プレイヤーたちが自身のフィールド研究者を赤いネガティブアクションのある国に配置した場合、そのペナルティを無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once a country is chosen
+no other player can choose that same Country.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T110720Z" creationid="nakahodo" creationdate="20171001T110720Z">
+        <seg>国が選択されると、他のプレイヤーは同じ国を選択することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once all Blending teams are done,
+all new Blends are simultaneously placed into position on
+the Best-Seller List according to the Roast Ranking that is
+shown on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T212926Z" creationid="aorin" creationdate="20171024T212926Z">
+        <seg>全てのブレンドするチームが完了すると、ボードに示されたローストランキングに従い、新しいブレンドは全てベストセラーリストの位置へと同時に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the Blend is complete, each player places a Blend Marker
+of his color onto the Slate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095953Z" creationid="nakahodo" creationdate="20171002T095953Z">
+        <seg>ブレンドが完成すると、各プレイヤーは自身の色のブレンドマーカー1つをスレートに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One player starts by shaking his roaster, randomly
+pulling a bean and placing it on the Blend Slate in one of the five
+bean spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T122138Z" creationid="nakahodo" creationdate="20171001T122138Z">
+        <seg>プレイヤー1人が自身のロースターを混ぜ、ランダムに豆1つを引いて、このブレンドスペースにある豆スペース5つのうち1つに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other players don't need to be camping; however?Athey need to agree for you to be able to affect them (unless the card states otherwise?Afor example cards with a ?N symbol).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
+        <seg>他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POPULAR OPINION</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T094324Z" creationid="nakahodo" creationdate="20171001T094236Z">
+        <seg>人気評価</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Beans
+from The
+Fields onto
+the Country
+Crop spaces
+connected to the
+Countries below
+them, based
+on the color
+represented in
+the circles on the
+Blend Slates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T091604Z" creationid="nakahodo" creationdate="20170924T091604Z">
+        <seg>ブレンドスレートのサークルに表された色の対応した、国の下にある国の作物スペースへと、豆をフィールドから配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Field Researchers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T102926Z" creationid="nakahodo" creationdate="20171001T102926Z">
+        <seg>フィールド研究者を配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place on the Best-Seller List</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T095905Z" creationid="nakahodo" creationdate="20171002T095905Z">
+        <seg>ベストセラーリストに配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place on the Best-Seller List
+Once the Blend is complete, each player places a Blend Marker
+of his color onto the Slate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171024T212120Z" creationid="aorin" creationdate="20171024T212120Z">
+        <seg>ベストセラーに配置されたブレンドが完了すると、各プレイヤーはスレートに自身の色のブレンドマーカー1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players add new Blends to the
+Best-Seller List and calculate scores.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T094711Z" creationid="nakahodo" creationdate="20171001T094636Z">
+        <seg>プレイヤーたちはベストセラーリストに新しいブレンドを追加し、得点を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players break into teams and either
+Blend (combine beans to score) or
+Research (gain abilities).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T094218Z" creationid="nakahodo" creationdate="20171001T094218Z">
+        <seg>プレイヤーたちはブレンド（得点のために豆を混ぜる）か研究（能力を得る）のいずれかのチームに別れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players continue placing Field Researchers in turn order until all players have chosen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T110652Z" creationid="nakahodo" creationdate="20171001T110652Z">
+        <seg>全てのプレイヤーたちが選択し終えるまで、ターン順でフィールド研究者たちを配置し続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players may and are encouraged to tell (or not tell) their intentions and
+strategize before placing a Field Researcher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T100147Z" creationid="nakahodo" creationdate="20171001T100147Z">
+        <seg>プレイヤーたちはフィールド研究者を配置する前に、自身の意思や戦略を伝えること（もしくは伝えない）ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players may make promises, but nothing may be exchanged, no
+deals are binding, and a player can never show the contents of their Roaster unless a card, action or rule requires it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T100707Z" creationid="nakahodo" creationdate="20171001T100707Z">
+        <seg>プレイヤーたちは約束を交わすことができますが、なのかを交換することはできず、取引に拘束力はなく、アクションやルールで必要とされない限り自身のロースターカードの内容を見せることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players should designate one player as the
+“Brewmaster,” who will control the assignment of
+Turn Order Tokens, movement of the Scoring Tokens
+on the Performance Track, and make sure each round
+is running cmoothly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T090714Z" creationid="nakahodo" creationdate="20170924T090714Z">
+        <seg>プレイヤーたちはプレイヤー1人を「醸造長」に指名してターンオーダートークンを割り当て、業績トラックの得点トークンを移動させ、各ラウンドが正常にプレイされているかどうか確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players split into three teams (Americas, Africa, or Asia region) and
+decide together whether they will Blend or Research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T112104Z" creationid="nakahodo" creationdate="20171001T112002Z">
+        <seg>プレイヤーたちは3つに分かれ（アメリカ、アフリカ、アジア地域）て、ブレンド[または]研究のいずれをするか決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players take 2 white beans
+and 1 yellow bean from The
+Fields and place them into their
+Roasters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T092018Z" creationid="nakahodo" creationdate="20170924T092018Z">
+        <seg>プレイヤーたちはフィールドから黄色豆1つと白豆2つを取り、自身のロースターに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Positive actions are optional, whereas negative actions must be performed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T103822Z" creationid="nakahodo" creationdate="20171001T103822Z">
+        <seg>ポジティブアクションは任意であるのに対して、ネガティブアクションは実行シなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T132303Z" creationid="nakahodo" creationdate="20171127T132303Z">
+        <seg>パワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pull
+them out one at a
+time and stack on
+the Performance
+Track according to
+number of
+players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T085908Z" creationid="nakahodo" creationdate="20170924T085908Z">
+        <seg>プレイヤーの人数に従い、業績トラックに一度に1つずつこれらを配置してスタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put Score Tokens
+in a Roaster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T085515Z" creationid="nakahodo" creationdate="20170924T085515Z">
+        <seg>ロースターに得点トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research
+Markers should be placed at
+the start of each Research Track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T091913Z" creationid="nakahodo" creationdate="20170924T091913Z">
+        <seg>研究マーカーを各研究トラックの開始位置に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
+        <seg>ルートには2つのルールブックが含まれていて、それはこのルールリファレンスとプレイ学習ガイドになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root is designed by Cole Wehrle (Pax Pamir, An Infamous Traffic, and John Company) and brought to life by master illustrator Kyle Ferrin (Vast: The Crystal Caverns, Vast: The Fearsome Foes, Stitches).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T155150Z" creationid="nakahodo" creationdate="20171103T155150Z">
+        <seg>ルートのデザインはCole Wehrle（Pax Pamir, An Infamous Traffic, and John Company）、マスターイラストレーターKyle Ferrin（Vast: The Crystal Caverns, Vast: The Fearsome Foes, Stitches）によって生み出されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root is the next step in our development of asymmetric design.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T153728Z" creationid="nakahodo" creationdate="20171103T153728Z">
+        <seg>ルートは我々がデベロップする非対称設計の次のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate the 90
+coffee beans by color and place them in piles as noted
+on the bottom of the World Map, arranged by Color
+Rank.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T084852Z" creationid="nakahodo" creationdate="20170924T084852Z">
+        <seg>コーヒー豆を色ごとに分け、ワールドマップの下にカラーランクで並べてまとめて配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sequence of Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T092947Z" creationid="nakahodo" creationdate="20171001T092947Z">
+        <seg>プレイの流れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle Blend Slates,
+draw 3 and fill the
+spaces above
+the World
+Map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T090313Z" creationid="nakahodo" creationdate="20170924T090313Z">
+        <seg>ブレンドスレートを3枚ドローし、ワールドマップ上部スペースを満たすように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the
+9 Country Tokens
+with special actions
+and randomly place
+them on the World
+Map in the round
+Country spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T091704Z" creationid="nakahodo" creationdate="20170924T091704Z">
+        <seg>スペシャルアクションをもつ国トークン9つをシャッフルし、ワールドマップの国スペースにランダムで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the
+Blend Slates and place them near the Western side of
+the World Map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T085457Z" creationid="nakahodo" creationdate="20170924T085457Z">
+        <seg>ブレンドスレートをシャッフルし、ワールドマップの西側近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So far, so good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T091945Z" creationid="aorin" creationdate="20171116T091945Z">
+        <seg>ここまでは順調です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some Blend Slates have one bean space filled
+in with a specific color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T130335Z" creationid="nakahodo" creationdate="20171001T130335Z">
+        <seg>いくつかのブレンドスレートは特定の色で塗りつぶされた1つの豆スペースがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE BREWMASTER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T090458Z" creationid="nakahodo" creationdate="20170924T090458Z">
+        <seg>醸造長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE DRAGON</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T131705Z" creationid="nakahodo" creationdate="20171127T131705Z">
+        <seg>ドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE VOTE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T113350Z" creationid="nakahodo" creationdate="20171001T113350Z">
+        <seg>研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take beans
+of the appropriate
+color from The
+Fields and add
+them to the
+Slates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T090943Z" creationid="nakahodo" creationdate="20170924T090943Z">
+        <seg>フィールドから対応した色の豆を取り、スレートにそれらを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk about it, lie about it,
+be detailed in your descriptions, but
+do not show what’s in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T125520Z" creationid="nakahodo" creationdate="20171001T125432Z">
+        <seg>それについて話す、嘘をつく、詳しく説明することはできますが、それについては皆に見せることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Best-
+Seller List</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092621Z" creationid="aorin" creationdate="20171116T092621Z">
+        <seg>ベストセラーリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Blend
+Slate does not need to be filled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124239Z" creationid="nakahodo" creationdate="20171001T124239Z">
+        <seg>ブレンドスレートを満たす必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Blend Rank scale lists the possible ranking of a five-bean Blend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T094856Z" creationid="nakahodo" creationdate="20171002T094856Z">
+        <seg>ブレンドランクのスケールリストは可能な5つの豆によるブレンドのらランキングになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Brewmaster gathers
+all players’ Turn Order Tokens and places them on
+the Turn Order Track in proper order for the Round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T102912Z" creationid="nakahodo" creationdate="20171001T102912Z">
+        <seg>醸造長は全てのプレイヤーのターン順番トークンを集めてラウンドの適切な順番にターン順トラックにこれらを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Brewmaster should make sure that no team proceeds with Blend or Research actions until the vote is complete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T113947Z" creationid="nakahodo" creationdate="20171001T113947Z">
+        <seg>醸造長は、投票が完了するまで、ブレンド[または]研究をチームが開始しないように監視してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The World Map is split into three coffee-rich regions
+(Americas, Africa, and Asia) each with its own
+Country Crop space and action that players will
+explore by placing their Field Researcher pawns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
+        <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following details how to play VivaJava with 5-8 players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T094909Z" creationid="nakahodo" creationdate="20171001T094909Z">
+        <seg>5から8プレイヤーのビバジャワのプレイ方法に細部は従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T151439Z" creationid="nakahodo" creationdate="20171103T151439Z">
+        <seg>極悪なマーキス・ド・キャットは豊かな収穫をもたらす偉大なる森林地帯を奪った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only restriction is that all players must contribute at
+least one bean.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124153Z" creationid="nakahodo" creationdate="20171001T124153Z">
+        <seg>唯一の制限は、全てのプレイヤーたちが少なくとも1つの豆を提供しなければならないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The row does not need to be filled first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T140919Z" creationid="nakahodo" creationdate="20171127T140919Z">
+        <seg>行を満たす必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules reference
+is intended to be a concise, authoritative, and complete reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T064826Z" creationid="nakahodo" creationdate="20171209T064826Z">
+        <seg>ルールリファレンスは簡潔で信頼できる完全な目録を目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stage is set for a contest that will decide the fate of the great woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T153538Z" creationid="nakahodo" creationdate="20171103T153538Z">
+        <seg>舞台は今、偉大なるウッドランドの運命を左右するために整えられたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The team
+now has an Americano Blend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092603Z" creationid="aorin" creationdate="20171116T092603Z">
+        <seg>チームはアメリカーノブレンドを作りだしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The team lets Chris to pull again
+- another yellow bean!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092039Z" creationid="aorin" creationdate="20171116T092039Z">
+        <seg>チームは、クリスへと再度引き出させる―別の黄豆でした！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The team unanimously decides in which order players will pull beans
+from Roasters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T121912Z" creationid="nakahodo" creationdate="20171001T121912Z">
+        <seg>チームは全員でロースターから豆を引き出すプレイヤーたちを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tile the Dragon is on is unaffected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T134752Z" creationid="nakahodo" creationdate="20171127T134752Z">
+        <seg>ドラゴンがいるタイルには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the team decides which player pulls the next bean
+until all five spaces have been filled or the team unanimously decides
+to stop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124017Z" creationid="nakahodo" creationdate="20171001T124017Z">
+        <seg>その後、チームは5つの豆スペースが埋まるかチーム全員で止めると決定するまで、次の豆を引くプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are five spaces for beans on each Blend Slate and these
+will be filled by randomly pulling beans from each player’s Roaster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T121736Z" creationid="nakahodo" creationdate="20171001T121736Z">
+        <seg>各ブレンドスレートには5つの豆スペースがあり、これらが各プレイヤーのロースターからランダムに惹かれて満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are considered attacks:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T124803Z" creationid="nakahodo" creationdate="20171127T124803Z">
+        <seg>これらが攻撃だと考えられます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These beans represent The Fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T085204Z" creationid="nakahodo" creationdate="20170924T085204Z">
+        <seg>これらの豆はフィールドを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These powers cannot affect items in the Dragon’s current space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T135056Z" creationid="nakahodo" creationdate="20171127T135056Z">
+        <seg>これらパワーはドラゴンが現在いるスペースのアイテムには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are not required to contribute more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T124224Z" creationid="nakahodo" creationdate="20171001T124224Z">
+        <seg>それ以上を貢献する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This
+is important to keep the simultaneous actions from becoming chaotic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T114034Z" creationid="nakahodo" creationdate="20171001T114034Z">
+        <seg>これは混乱させるために同時アクションを保つのに重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Blend Slate
+cannot be moved
+nor removed by
+any means during
+the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T092943Z" creationid="nakahodo" creationdate="20171001T092943Z">
+        <seg>このブレンドスレートはゲーム中に取り除かれたり移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Blend is immune to
+degrading and remains in the Stale position for the entire game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T092847Z" creationid="nakahodo" creationdate="20171001T092847Z">
+        <seg>このブレンドはゲーム全体の古い場所に残り、劣化しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Woodland Alliance will seek to strengthen their presence by building hideouts and launching missions to subvert the rule of the cats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
+        <seg>このウッドランド同盟では、隠れ家を建築して、猫達によるルールを打ち破るために作戦を実行して彼らの影響力を強くしようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes when
+using the Hiding Spots secrets card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T125102Z" creationid="nakahodo" creationdate="20171127T125102Z">
+        <seg>これはハイディングスポットシークレットカードを使用する時も含まれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is key, because players will split into teams each round based on the
+region in which they place their Field Researcher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T100336Z" creationid="nakahodo" creationdate="20171001T100336Z">
+        <seg>これは重要です。なぜならプレイヤーたちは、フィールド研究者を配置する場所の地域によって各ラウンドでチームにわけられるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This symbol shows that the
+players should not place a bean
+in the Country Crop space,
+and the Country Token in that
+location should be flipped to
+the ● side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T093926Z" creationid="nakahodo" creationdate="20170924T093926Z">
+        <seg>このシンボルは、国の作物スペースに豆を配置せず、その地域の国トークンを●側に裏返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though some may sympathize with the Alliance’s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T152913Z" creationid="nakahodo" creationdate="20171103T152913Z">
+        <seg>いくつかは同盟の希望と夢に同調してくれるかもしれませんが、彼ら放浪者はウッドランドをかつて支配していた偉大なる鳥たちのことを覚えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To vote, each player
+takes the Blend/Research Token in their hand and secretly chooses a
+side to place face-up on the table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T112603Z" creationid="nakahodo" creationdate="20171001T112603Z">
+        <seg>投票するには、各プレイヤーは自身の手札のブレンド/研究トークンを取り、秘密裏にいずれかの側を選択してテーブルに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trusting him, Cherilyn and T.C. let
+Chris Blend first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T091720Z" creationid="aorin" creationdate="20171116T091720Z">
+        <seg>彼を信じ、シェリリンとTCはまずクリスのブレンドを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, this should be either
+the owner of the game, or the person who has played
+the most.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T090813Z" creationid="nakahodo" creationdate="20170924T090813Z">
+        <seg>通常、ゲームの所有者か最もプレイしたことのある人になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under her iron rule, the many creatures of the forest have banded together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171103T151558Z" creationid="nakahodo" creationdate="20171103T151558Z">
+        <seg>鋼の掟の下で、森の多くの生き物たちは協力しあっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using This Book</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T064339Z" creationid="nakahodo" creationdate="20171209T064321Z">
+        <seg>この本を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 1
+GENERAL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T124633Z" creationid="nakahodo" creationdate="20171127T124633Z">
+        <seg>ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
+基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 7
+DRAGON</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T131537Z" creationid="nakahodo" creationdate="20171127T131537Z">
+        <seg>ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
+基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VivaJava is, at it’s heart, a social game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T095543Z" creationid="nakahodo" creationdate="20171001T095543Z">
+        <seg>ビバジャワの中心は社会的ゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VivaJava scales easily for 3 to 6 players with only a few modifications to set-up and game play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20170924T092521Z" creationid="nakahodo" creationdate="20170924T092521Z">
+        <seg>ビバジャワはセットアップに少しの変更を加えることによって、簡単に3~6プレイヤーに拡張して遊ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VivaJava: The Coffee Game is played over several rounds with each round broken down into three distinct phases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T093528Z" creationid="nakahodo" creationdate="20171001T093054Z">
+        <seg>ビバジャワ：コーヒーゲームは各ラウンドが3つのフェイズに別れた、複数のラウンドによってされます： </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is and isn’t considered an “Attack”?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T124757Z" creationid="nakahodo" creationdate="20171127T124757Z">
+        <seg>何が「攻撃」かそうではないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a player chooses a Country, they
+must immediately resolve the action represented on the Country
+Token and then take the bean from the corresponding Country Crop
+space below (if available) and place it into their Roaster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T103536Z" creationid="nakahodo" creationdate="20171001T103536Z">
+        <seg>プレイヤー1人が国1つを選択する時、国トークン上に表されるアクションを直ちに解決し、（可能なら）該当する国の作物スペース下から豆1つを取り、自身のロースターに配置する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When everyone is ready, The Brewmaster will signal all players to reveal their Tokens
+simultaneously;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T112731Z" creationid="nakahodo" creationdate="20171001T112731Z">
+        <seg>全員の準備ができると、醸造長はプレイヤーたち全員に同時に自身のトークンを公開するように指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When fewer Field Researchers scour The Fields for valuable beans, the VivaJava CoffeeCo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T075828Z" creationid="nakahodo" creationdate="20171001T075828Z">
+        <seg>フィールドの探索者が少なくなる時、ビバジャワの貴重な豆のフィールドが精査されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When fewer Field Researchers scour The Fields for valuable beans, the VivaJava CoffeeCo. will often release a
+generic Blend into the market to maintain a healthy - if not terribly flavorful - bottom line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171001T081621Z" creationid="nakahodo" creationdate="20171001T081621Z">
+        <seg>少ないフィールド研究者が貴重な豆のためにフィールドを探索すると、ビバジャワは最低限のバランスを維持するために（それがあまり良い風味ではなくても）一般的なブレンドを市場にリリースするでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the other 4 bean
+spaces on the Blend are filled by a team (and
+all players have contributed at least one bean
+to the Blend), a bean of the specified color may
+be added to the Blend Slate from the Fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171002T094702Z" creationid="nakahodo" creationdate="20171002T094702Z">
+        <seg>チームによってブレンドにある他4つのスペースが満たされた時（そして全てのプレイヤーがブレンドに少なくとも1つの豆を提供したら）、特定の色の豆1つがフィールドからブレンドスレートに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this occurs, it is considered surfaced immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T141512Z" creationid="nakahodo" creationdate="20171127T141512Z">
+        <seg>これが発生すると、直ちに出現したと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While camping you may offer to use skills or equipment (that have relevant abilities) on other players, out of generosity or in exchange for items, food, ammo, future favours, and so on (note that trading still occurs only in the trade phase).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T135542Z" creationid="nakahodo" creationdate="20171124T135542Z">
+        <seg>あなたがキャンプする特に他プレイヤーに（関係ある）装備かスキルの使用を申し出る時、善意から、もしくはアイテム、食料、弾丸、将来の融通などと交換してできます（取引自体はトレードフェイズでのみで発生することに注意してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While camping,you gain 2 health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171124T134936Z" creationid="nakahodo" creationdate="20171124T134936Z">
+        <seg>キャンプする時、あなたは2ヘルス得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While experienced gamers
+will be able to learn the game from the rules reference, those newer to the hobby should start
+with the learn-to-play guide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T065329Z" creationid="nakahodo" creationdate="20171209T065329Z">
+        <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can remove only a single cube from the entire Pride section per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T140745Z" creationid="nakahodo" creationdate="20171127T140745Z">
+        <seg>ターン毎にプライド全体から1つのキューブのみを取り除くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot move one space, use a power, than move another space as part of the same movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T132635Z" creationid="nakahodo" creationdate="20171127T132635Z">
+        <seg>1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must use Slither to move a cube from one category to another within Pride.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T140719Z" creationid="nakahodo" creationdate="20171127T140719Z">
+        <seg>あなたはプライド間でキューブを移動させたい時、這い寄るを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and pulls out a white bean!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171116T092545Z" creationid="aorin" creationdate="20171116T092545Z">
+        <seg>引き出し、白豆を取り出した！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>» All Plans are shuffled and stacked face down near the
+Locations forming the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T070557Z" creationid="nakahodo" creationdate="20171209T070557Z">
+        <seg>•全てのプランをシャッフルしてスタックし、ロケーションの近くにプランデッキとして裏向きに配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>» Optional: Two (2) Advanced Locations are selected at
+random and placed next to the Core Locations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T070512Z" creationid="nakahodo" creationdate="20171209T070415Z">
+        <seg>•オプション：2枚のアドバンスドロケーションをランダムに選択して、コアロケーションの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>» The Mint Tokens are placed near the Plan Supply</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T070818Z" creationid="nakahodo" creationdate="20171209T070818Z">
+        <seg>•ミントトークンをプランサプライ近くに配置してミントサプライを形成する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>» The four (4) Core Locations are placed on the table
+granting easy access to all players, showing the side
+corresponding to the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T070018Z" creationid="nakahodo" creationdate="20171209T065913Z">
+        <seg>•4枚のコアロケーションを全てのプレイヤーから手が届きやすいように、プレイヤー人数に対応した面を上にしてテーブルに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>» The two (2) Deed Locations are placed next to the Core</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T070515Z" creationid="nakahodo" creationdate="20171209T070015Z">
+        <seg>•2枚のディードロケーションはコアロケーションの横に、「閉鎖」側を表にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>» Three (3) Plans are drawn from and placed face up
+next to the Plan Deck forming the Plan Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171209T070634Z" creationid="nakahodo" creationdate="20171209T070634Z">
+        <seg>•3枚のプランをドローし、プランデッキの横に表向きで配置してプラサプライを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The Dragon using Claw or Scratch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T125139Z" creationid="nakahodo" creationdate="20171127T125139Z">
+        <seg>- ドラゴンがクロウかスクラッチを使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The Goblins attacking via an Ambush.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T125126Z" creationid="nakahodo" creationdate="20171127T125126Z">
+        <seg>- ゴブリンのアンブッシュによる攻撃も含まれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The Goblins using the Attack action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T125007Z" creationid="nakahodo" creationdate="20171127T125007Z">
+        <seg>- ゴブリンが攻撃アクションを使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The Knight Encountering an opposing player (or Crystal)
+in the same tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171127T124959Z" creationid="nakahodo" creationdate="20171127T124959Z">
+        <seg>- ナイトが同じタイルにいる対戦相手プレイヤー（またはクリスタル）とエンカウントする。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,327 @@
+Official FAQ v0.9
+Last updated 04-04-17
+Q: What’s the best way to use this document? Do I need to read and memorize this entire thing in order to play the game properly?
+A: No! This is intended and designed only as a reference tool for those situations where players might need a little bit more specific detail on something that’s already in the rulebook, or when they need help with a peculiar interaction or an edge case that might not be immediately obvious from the rules. As such, you should not even attempt to memorize this document, and even reading it cover to cover should not be necessary. If you expect to have a need for this FAQ during a gaming session, just keep the PDF copy handy on your laptop, tablet, phone, etc., or print out a copy and tuck it into the bottom of the box so you can look things up in this document only if you actually need it.
+
+This entire document is subdivided into sections following the same approximate order that they appear in the rulebook, so (for example) if you needed a clarification on a particular Monster, skip ahead to the portion on Goblins and find the section for Monsters. If you’re using the PDF, you can use whatever “Find” or “Search” functions are available in your viewer of choice to quickly find what you need.
+
+Q: Why isn’t the vast majority of this “FAQ” setup using the traditional question & answer format?
+A: While the standard Q&A format provides for a more organic way to address specific questions, presenting that same information in the format you’re seeing allows it to be provided in a far more detailed and efficient way. Individual entries also take up less space, and makes it possible to more directly address fine details, nuances, and any strange edge cases that the traditional question format can miss.
+
+GETTING STARTED & COMPONENTS
+Role Setup
+-Turn order is always the same even if players are not seated in order as intended. If seated out of order, refer to the number shown in the upper right corner of each player board for the correct sequence, starting with the lowest number in play (Knight = 1, Goblins = 2, etc.).
+
+Cave Setup
+-The four tiles set adjacent to the Entrance tile during setup do not need to show different Goblin Tribe symbols. Due to the random draw, only two of the symbols or even just one may be visible. This is okay. While the lack of one or more symbols may have a minor effect on the Goblin player’s very first turn, it will not affect the overall outcome of the game in any meaningful way.
+-When dividing up tiles into three separate stacks, those stacks will not be perfectly equal in size, but should still be kept as close as possible. After adding the Crystal (and Vault and/or Ghost) tiles, the three stacks may be stacked in any order, unless noted otherwise in a variant.
+-Many of the pieces used in the game have cardboard, wooden, and/or plastic (miniature) versions available. The game was first designed to use cardboard pieces, wooden versions were unlocked as stretch goals during the original Kickstarter campaign for the game, and miniatures were added as of the second Kickstarter. You may mix and match the different pieces as desired.
+-A comparison guide for the cardboard and wooden pieces can be found at BoardGameGeek, here: www.boardgamegeek.com/filepage/135750
+
+GENERAL RULES
+Note: First edition copies of Vast: The Crystal Caverns did not include a General Rules section in the rulebook. This was added in subsequent printings to help better clarify certain aspects of the game and to provide a single area for the most commonly used rules, rather than having them listed only under the individual roles where they first appeared or were most relevant. The addition of this section does not change any fundamental rules to the game, except for the Forced Movement rules specifically noted below.
+
+You can download a PDF of the latest rules here: http://tinyurl.com/VastPublicPNP
+
+Revealing Dark Tiles
+-Prior to the start of the collapse, the open edges on Lit tiles are always filled immediately with Dark tiles, no matter which player revealed the tiles or how those tiles were revealed.
+-Once the collapse has begun, open edges are never filled.
+-The Dark tiles used to fill open edges are always provided by the Cave player if present; if there is no Cave player, the player that created the open edge(s) draws the Dark tiles from the top of the stack.
+-When a Lit tile is revealed by any player, it must be oriented to connect back to the Entrance tile through other Lit tiles, if possible. If a connection cannot be made to the Entrance, the tile can be oriented in any direction chosen by the player that revealed the tile.
+
+The Collapse
+-The Collapse begins the turn immediately after the last tile is placed. If tiles are removed by an ability or effect on the same turn that the last tile was placed, all non-Crystal tiles are placed in the stack normally. If they are not returned to the map immediately to fill open edges and are not placed later in the same turn, the Collapse will not begin on the next player’s turn.
+-If the only eligible tiles to collapse are occupied by player pieces that cannot be moved, or they cannot be removed for some other reason, those tiles are skipped and tiles that would become eligible next are collapsed instead.
+
+Connecting the Map
+-Tiles are slid together only when the map is split into two or more completely separate sections. You do not slide tiles to close up holes or gaps if all tiles are still connected in some way.
+-When tiles do need to be slid together, the player that caused the map to split may choose to slide an entire disconnected section either horizontally or vertically on the table until a connection is made.
+-Any open edges created by the split are filled AFTER the separate sections of the map are slid together.
+
+Forced Movement [ERRATA]
+-The Forced Movement rules added in the second printing of the game are intended to replace the effects of all other previous rules and abilities that could cause the movement of player pieces. (This includes but is not limited to: Wisp, Claw, Slap, Giant Bats)
+-These rules apply only when a piece is moved by a player other than the player controlling it, or when a piece is forced to move due to the removal of a tile (typically during the Collapse). These rules do not apply when a player piece is moving voluntarily using its own normal movement or actions.
+-When a player is forced to leave a tile that is being removed, they must move the shortest possible distance to reach a legal space. If there are two or more possible destination, the current player chooses which is used.
+-If two or more characters are forced to move at the same time (for example, when tiles are removed by Wrath), they move one at a time, following turn order, starting with the Knight.
+-For reference, the full set of updated movement rules are as follows:
+● Nothing can be moved onto open spaces.
+● The Knight cannot be moved through wall, onto Dark tiles, or onto spaces with other players. If she enters a space with an Event token, she must stop. (On her next turn, she must resolve the Event token as an Encounter, and must do so before moving.)
+● Goblin Tribes cannot be moved through wall or onto spaces with other players. When forced to move, they do not lose population by leaving tiles.
+● The Dragon, while underground, cannot be moved onto spaces with other players. When on the surface, the Dragon cannot be moved through walls, onto Dark tiles, or onto spaces with other players.
+● The Thief cannot be moved through walls or onto spaces with other players.
+● Treasure tokens and Dragon Gems cannot be moved through walls. They may enter spaces with player pieces, but cannot end their movement on these spaces.
+● Crystal, Event, Bomb, Vault, Rockslide, and Flame Wall tokens cannot be moved.
+-Effects caused by entering spaces, such as Terrain tile or a space with a Flame Wall, still apply normally when moved by another player.
+
+Attacks
+-Various player abilities and effects refer specifically to “attacks” and only apply when that occurs.
+-The following are considered attacks:
+--The Knight Encountering an opposing player (or Crystal) in the same space.
+--The Goblins using the Attack action. This includes using the Hiding Spots Secrets card.
+--The Goblins attacking the Knight via an Ambush.
+--The Dragon using Claw or Scratch.
+--The Thief using Pickpocket or Backstab (including with the Hand Crossbow upgrade).
+-The following are not considered attacks:
+--Any player taking a Treasure token or Dragon Gem from the map.
+--The Knight using her Bow or the Enchanted Bow.
+--The Goblins using Hex or Cave-In.
+--The Dragon using Hiss, Slap, Flame Wall, or Wrath.
+---Any player entering a Flame Wall for any reason.
+--Any harm caused by taking a trapped Dragon Gem.
+--The Cave using Soporific Spores or Giant Bats.
+-Specific instances:
+--The Goblins may use Trap to increase the difficulty of being attacked (Encountered) by the Knight, but it does not apply to Ambushes or when shot.
+--The Thief may use Unnatural Evasion when attacked (Encountered) by the Knight, when targeted by an Attack action from the Goblins, or when hit by the Dragon’s Claw or Scratch powers. He cannot use it when shot by the Knight’s Enchanted Bow, when targeted with the Goblins’ Hex, or when targeted with the Cave’s Soporific Spores.
+
+THE KNIGHT
+1) Pick up Hero Cubes
+-The leftmost spaces of the Movement, Perception, and Strength tracks (with the boot, torch, and fist icons) on the Knight’s player board are used only to indicate her base stats. Cubes are added starting with the first open spaces to the right of those spots.
+-The Knight can never be reduced below her starting two cubes.
+-If you have only two cubes available, any opposing abilities or effects that would cause you to remove or discard cubes are ignored. (Poison)
+-Treasures and other abilities or effects that normally allow you to discard cubes cannot be used if you have only two cubes available. (Mighty Axe, Potion Kit, Light)
+-Hero cubes that have been discarded can only be recovered by the Cave Bread Event. For all other intents and purposes, they are out of the game.
+-If a Hero cube is assigned to a Treasure that is later discarded or lost, without also discarding the cube, set that cube aside. It cannot be reassigned until your next turn when you pick up all available Hero cubes again.
+
+2) Move and Act
+-The Knight must always reveal Dark tiles that she enters.
+-When the Knight reveals a tile, Dark tiles are placed on open edges as needed before resolving the tile that was revealed, and before interacting with any other player pieces or tokens on the tile.
+-The Knight interacts with a tile only when it is revealed by entering it. Tiles revealed in some other way (Flare, Vantage Point) are marked with tokens as needed, but do not affect the Knight directly unless she later moves and enters them.
+-When the Knight enters a previously-revealed tile, she may ignore any Crystal tokens, Treasure tokens, or Dragon Gems in that space, as well as the Dragon if it is still underground, and the Thief. She must interact with Event tokens and/or Goblin Tribes in the space, as an Encounter.
+-If the Knight begins her turn on a space with an Event token, she must Encounter it before moving away.
+-The Knight can move only if she has at least one unused Encounter remaining, regardless of how many movement points may still be available.
+-After using your last Encounter and/or movement, Equipment, Treasures, and other abilities or effects that do not require Encounters or movement may still be used even if the Knight has no Encounters remaining. (Bomb, Bow, Javelin, etc.)
+-Ambush tiles only apply when first revealed by entering the tile. Ambushes that are revealed in other ways (Vantage Point, Flare) or that were previously revealed have no effect.
+-If you enter or reveal a tile with a Treasure token but do not take it, then return to the tile later, you must spend an Encounter to take that Treasure.
+-If you enter a space with two or more Treasures you may take all as a single Encounter, but you must resolve each individually, one at a time. The Cave player draws 2 new cards and chooses 1 for the first Treasure, you choose whether to keep it or discard it for Grit, then the Cave draws 2 new cards and chooses 1 for the next Treasure, and so on.
+-When you encounter an Ambush, you may add Hero cubes to Strength before resolving it. If using the Goblin Infestation variant and Monsters, you may do this after you draw a Monster and view its Strength value.
+
+Attacking the Dragon
+-You must be in the same space as the Dragon to attack with a Bomb.
+-While the Dragon is underground...
+--Before the Collapse, a Bomb is required to attack, and only one attack is allowed per turn.
+--During the Collapse, a Bomb is not required, and only one attack is allowed per turn.
+-While the Dragon is on the surface…
+--A Bomb is not required, and multiple attacks are allowed (1 per Encounter).
+Attacking the Thief
+-After killing the Thief, you may pick up any Treasure tokens he was carrying as part of the same Encounter.
+
+Sidequests
+-Sidequests can be revealed only during your own turn, even if the conditions required to reveal one occur during another player’s turn.
+-Sidequests that refer to Attacks require the Knight to Encounter the specified player by entering their tile. Encountering Ambushes or using a Bow does not count unless specifically noted on the Sidequest.
+-You are not required to reveal a Sidequest when the conditions for it are first met. However, you will not gain Grit until it is revealed, and if the Sidequest refers to something specific happening, such as attacking another player, you cannot reveal it until it happens again the future.
+-When you draw a new Sidequest, if the conditions for revealing it are currently met, you may reveal it immediately.
+-If a Sidequest requires performing a task two or more times within a single turn, you reveal it only after it is entirely complete.
+-Bedecked
+--To complete this Sidequest, two or more Treasures must be face up near your player board at the same time. Treasures do not count if they were discarded for Grit, previously removed to use an effect (Mighty Axe, Potion Kit, Treasure Trove), or discarded (Pickpocket, Gnome).
+-Cunning
+--You may complete this Sidequest simply by attempting to pick up a Dragon Gem. The result of the die roll is irrelevant.
+-Daring, Fearless, and Stalwart
+--If you attack a Tribe that has a population of 3 or greater and/or that was on a Dark tile and/or has a Monster, you may complete any or all of these Sidequests simultaneously as part of the same attack.
+-Eagle-Eyed
+--This Sidequest can be completed only if the shot damages the target in some way. Simply placing a Hero cube on the Bow or Enchanted Bow with a potential target nearby is insufficient.
+--In certain role combinations, the Enchanted Bow will be required to complete this Sidequest because there will be no available targets for the standard Bow.
+-Persistent
+--All smashed Crystals count toward this Sidequest, regardless of which player smashed them.
+
+Grit
+-Grit earned for revealing a Dark tile is gained after the tile is resolved, but before interacting with any other players or tokens on the tile, as part of the same Encounter.
+-When you gain Grit, you gain the Hero cube when the Grit marker moves into a white space.
+-When you lose Grit, you return a Hero cube when the Grit marker moves below a white space.
+-If the loss of Grit forces you to return a cube, you must return an unused cube if possible. If you must return a cube that has already been placed, your turn ends immediately after returning it.
+-The top (45+) space on the Grit chart is an upper limit. Any Grit that would be gained beyond that is ignored. After reaching that space, any Grit that is later lost is deducted starting from that space.
+
+Equipment
+-Ancient Map
+--When you pass through a wall into a Dark tile, that tile is revealed normally. When orienting that tile, it may be placed with a wall on the edge you entered from (back-to-back with the wall you just passed through).
+--You cannot pass through a wall into an open (no tile) space. Ancient Map will not prompt placement of Dark tiles, so there must be an existing tile on the opposite side of the wall you wish to pass through.
+-Bomb
+--If you use a Bomb to destroy a wall you cannot also attack the Dragon underground (or viceversa) during the same turn.
+--A wall that has been destroyed by a Bomb is treated as an open edge for all purposes until the end of the game, unless the token is removed or a Rockslide is placed to restore the wall. Other players may pass through the opening freely, and it does not block visibility.
+--Bomb tokens are limited. Once all three have been placed, the Knight can no longer remove walls, even if one or more of the tokens have been removed from the map.
+--If you use a Bomb on a wall that connects to an open (no tile) space prior to the Collapse, it creates an open edge which is immediately filled with a Dark tile.
+-Bow
+--You can shoot only in the four cardinal directions. You cannot shoot diagonally or at any other angles, even if there are no walls or Dark tiles blocking visibility to the target. 
+Treasures
+-Enchanted Bow
+--Visibility is not required. The Enchanted Bow may be used to shoot through walls, dark tiles, and underground.
+--You can shoot only in the four cardinal directions. You cannot shoot diagonally or at any other angles, even if there are no walls or Dark tiles blocking visibility to the target.
+-Mighty Axe
+--The Strength boost (only) may be used without discarding the Hero cube.
+--If sufficient Hero cubes remain after discarding a cube, the Knight can place another cube on this Treasure, use another Encounter to make a second attack, and then discard that cube to cause additional damage a second time.
+--The initial attack must hit in order to use the secondary effect for additional damage.
+-Silver Gauntlet
+--The secondary effect that causes the target to lose cards or you to gain Grit applies in addition to the normal damage caused by the attack, not instead of it.
+-Treasure Trove
+--Removing this card while at the Entrance tile is a free action. An Encounter is not required.
+Events
+-Cave Bread
+--If you gain the highest-numbered Hero cube on the Grit chart from Cave Bread, you do not gain an additional cube for passing that number later.
+--If your Grit is later reduced below that space after passing it, you must return a cube normally.
+-Rats
+--The Grit loss caused by Rats is applied immediately, before gaining Grit for exploring the tile (if plicable). If Rats forces the removal of a Hero cube that has already been placed, your turn ds immediately even if you would regain that cube from the Grit for revealing the tile.
+-Vantage Point
+--Vantage Point reveals only tiles that were on the map when it was first activated. Dark tiles that are added to fill open edges are not revealed, even if they are placed in surrounding spaces that would have been affected.
+
+THE GOBLINS
+1) Choose War Card
+-You will always be able to draw at least 1 War card each turn. If your Rage is 0 at the beginning of your turn, increase it to 1 before drawing.
+2) Populate Tribes
+-A Tribe can never have more than 4 (green) Population discs on it. If a Tribe would exceed 4 discs, add only enough to reach 4. The components are limited so that all three Tribes can have exactly 4 green discs at the same time.
+-Add discs to all three Tribes before resolving overpopulation.
+-If you spend Rage to prevent adding discs to a Tribe, it blocks all discs that would have been added, regardless of the number shown on the War card or the Tribe’s current Population.
+-If the populations of two or more Tribes would exceed 4, you must spend a Rage for each of the affected Tribes to avoid the effects of overpopulation.
+-When overpopulation occurs, only one Tribe must scatter no matter how many overpopulated. The Tribe that scatters does not have to be a Tribe that overpopulated.
+-Overpopulation must be completely resolved before drawing Monsters or Secrets.
+3) Assign Monsters
+-Monster cards are never kept in your hand. Discard any Monsters that you do not or cannot assign, and any previous Monsters that were replaced by new ones.
+
+Monsters
+-The Ambush text on the bottom of each Monster card and the two Monster tokens (Ogre and Troll) are used only in games with no Goblins player, when the Knight has the Goblin Infestation variant card. When there is a player controlling the Goblins, that text and those tokens have no effect and should be ignored.
+-Bright Beetles
+--When attacked by the Dragon’s Claw or Scratch, or if you choose to discard this Monster when targeted with Hiss, the number of Goblins eaten by the Dragon is reduced by 1.
+-Ogre
+--(AMBUSH) The Ogre card is returned to the discard pile only when defeated. If it hits the Knight and the Ogre token is placed on the map, the card is placed nearby until defeated later.
+-Pet Frog
+--A Tribe with Pet Frog will not trigger overpopulation, but can still be scattered if another Tribe overpopulates.
+-Troll
+--(AMBUSH) The Troll card is returned to the discard pile only when defeated. If it hits the Knight and the Troll token is placed on the map, the card is placed nearby until defeated later.
+-Underworm
+--A Tribe may move normally before and after using the Underworm to move diagonally.
+--(AMBUSH) Always move to the nearest Dark tile in one of the four diagonal directions. If two or more are equally far away, you may choose which to move to.
+--(AMBUSH) If there are no Dark tiles in any of the four diagonal directions, place one in the nearest open space, then move to it. If two or more are equally far away, you choose which.
+-Wisp
+--Wisp may be used at any time during the Tribe’s movement.
+4) Draw Secrets
+-Secrets may be kept hidden from other players until used.
+
+Secrets
+-Cave-In
+--You may remove any tiles from the map, except tiles occupied by other players or tiles with (unsmashed) Crystal tokens. The normal Collapse rule for removing tiles based on the number of exposed edges does not apply.
+--After removing tiles, if the Collapse has not begun, open edges are filled in immediately with Dark tiles.
+-Hiding Spots
+--Walls do not block the use of this card.
+-Poison
+--The Knight regains the Hero cube(s) immediately and automatically when she enters the Entrance tile. It does not cost an Encounter to pick them up.
+-Trap
+--If the Knight’s Strength does not exceed a Tribe’s total Strength (Population + Strength Discs + Trap), she cannot enter that Tribe’s space.
+--If the Thief’s Stealth does not exceed a Tribe’s total Perception (Population + 1 + Trap), he cannot target the Tribe with a Pickpocket or Backstab action.
+--Trap does not apply to Ambushes and has no effect when shot by the Knight’s Bow.
+--Using Trap to ignore a Dragon’s power is optional. If you choose to use Trap, the Dragon’s power is still activated normally and can affect other players, but has no effect on any Tribe and the Dragon does not eat any Goblins.
+5) Activate Tribes
+-Tribes may be activated in any order.
+-A Tribe cannot Move, Attack, Plunder, Explore or use a Special Action on the same turn that it Reveals, because those require separate activations.
+-A Tribe must be on the map (Revealed) to use a Special Action.
+-A Tribe on the map may move before using a Special Action.
+-If a Tribe enters the map in a Lurking position, it must use its activation to move on to an adjacent tile. However, if a tile is placed under the Lurking Tribe before it is activated, it may move normally.
+-When moving through Lit tiles, the number of tiles exited is cumulative during the entire movement, no matter how many Dark tiles may be crossed in between..
+-If a Tribe begins its movement on a Lit tile, leaving that tile counts as one of the two tiles necessary to lose Population.
+-When using the Ash Dragon variant card, Goblins may attack the Dragon at any time. The added armor offsets the extra Hero cube that the Knight would have needed for a Bomb.
+-Tribes cannot Ambush the Dragon.
+
+Rage
+-Rage decreases only by 1 when smashing a Crystal, even though the attack requires two Tribes.
+-If two or more Tribes are hit by a single attack (such as Claw), you gain 1 Rage for each affected Tribe.
+
+THE DRAGON
+1) Move and Use Powers
+-While underground, the Dragon ignores all walls, Dark tiles, and other players when moving, whether using the standard movement for the turn or a Wing card. Attacking or being attacked by another player is option.
+-While on the surface, you must obey all walls while moving, and cannot enter Dark tiles. If you enter a space with another player or a player enters your space, an attack occurs automatically.
+-When moving, you must complete each individual movement before using Powers. You cannot move one space, use a power, than move another space as part of the same movement.
+Powers
+-Walls do not block the use of Powers or affect them in any way, except where noted.
+-Dragon abilities that can attack the Thief (Claw, Scratch, Flame Wall) ignore Stealth.
+-Flame
+--Flame reveals only tiles that were on the map when the die roll was first made. Dark tiles that are added to fill open edges are not revealed, even if they are placed in spaces that would have been affected by the initial roll.
+-Flame Wall
+--Flame Wall affects players only when the enter the space. If Flame Wall is placed on a space that already contains a player, that player is unaffected unless they leave the tile and reenter.
+--A Flame Wall placed on the Entrance will prevent the Thief from stashing treasures. He is killed as he enters the space, so any Treasures or Gems he was carrying are dropped on that space.
+--If a Flame Wall is placed on the Entrance tile, and the Thief appears there at the start of his turn (after dying), he is unharmed.
+-Scorch
+--Scorch reveals surrounding tiles only. The tile the Dragon is on is unaffected.
+--Scorch reveals only tiles that were on the map when it was first activated. Dark tiles that are added to fill open edges are not revealed, even if they are placed in surrounding spaces that would have been affected.
+-Slap/Swat
+--The target must be in an adjacent space. These powers cannot affect items in the Dragon’s current space.
+2) Pick Up Treasure
+-Picking up Treasure is a discrete part of the turn that occurs only after all movements have been made and all powers have been used.
+
+Awakening and Surfacing
+-In games without a Goblins player, the Dragon cannot eat Goblins even if it uses Claw, Scratch, or Hiss. In order to move Hunger cubes to Wakefulness you must first use Slither to transfer them to different Sloth tracks.
+-Pride contains three separate categories that do not share Sloth cubes. You must use Slither to move a cube from one category to another within Pride. You can remove only a single cube from the entire Pride section per turn.
+-The Armor and Spirit values shown on each row of the Wakefulness track apply as soon as the first cube is placed in that row. The row does not need to be filled first.
+-Increased Armor caused by adding cubes to the Wakefulness track is effective immediately.
+-Increased Spirit applies only at the end of your turn when replacing your hand.
+-The top row of the Wakefulness track contains only a single space (1). Do not place Sloth cubes on the Shield icon.
+-Once awakened, the Dragon must end its turn on a Crystal tile in order to surface. When this occurs, it is considered surfaced immediately.
+-The Dragon may surface on any Crystal tile, even if the Crystal token has been smashed. 
+
+THE CAVE
+1) Collect Omen Tokens
+-This phase of your turn always occurs first, even before using any previously-acquired Omen tokens.
+-Once Omens have been collected, you may spend your Omen tokens before and/or after any other phases of your turn.
+
+Omens
+-Each Omen may be used multiple times per turn, provided you have sufficient Omen tokens to pay the costs.
+-Tiles and Treasures placed using Omens follow all of the same requirements as those placed during the Shape the Cave and Place Treasure phases of your turn. Crystal tiles must be placed before other tiles, and Treasures must be placed on Dark tiles that do not contain player pieces or Treasure tokens.
+-Crystal Curse
+--When rotating tiles using this Omen you do not need to obey the rule about connecting tiles to the Entrance. That applies only when tiles are first revealed.
+--You may reset an Event in the Knight’s current tile. If you do, she must resolve that Event as an Encounter during her turn before moving away.
+-Past Plunder & Hatred
+--The cost for using these Omens increases only when used multiple times during a single turn. The cost resets to the lowest value each turn.
+--If either of these Omens are used more than three times in a single turn, all subsequent uses cost the highest value listed. The cost does not continue to increase beyond the maximum.
+-Rockslide
+--Rockslide tokens cannot be placed on an edge between two Dark tiles. At least one of the tiles must be revealed, and the tile cannot already show a wall on the intended edge.
+--Revealing a Dark tile does not automatically remove a Rockslide token on its edge, unless that tile is oriented so that a wall is on the same edge as the token.
+--If a Rockslide token is placed on a wall with a Bomb token, both remain on the tile. If the Rockslide is moved later in the game, the wall once again becomes open.
+-Soporific Spores
+--When you target Goblins, that player chooses the Tribe affected. They must choose a Tribe that can be reduced, if possible.
+--When you target the Thief, the removed token is placed off to the side. There is no specific location provided, so ensure that it is not mixed with any other placed or carried Treasure tokens.
+
+Treasures & Events
+-Refer to the Knight’s section above for details on specific Treasures and Events.
+2) Shape the Cave
+-There is no specific in-game mechanism to ensure that the Cave player always places Crystal tiles first during their turn. New or inexperienced should be reminded of this rule so it is not missed by accident, and players who are prone to cheat by breaking this rule intentionally should not be allowed to play as the Cave (or at all).
+-When placing multiple tiles at the same time (typically during the turns of other players), you always place one tile, draw one tile, then place one tile, draw one tile, etc.
+-Vault placement is not required or restricted in any way. You may place them like any other nonCrystal tile as desired.
+3) Place Treasure
+-Treasure tokens are limited. When playing without the Thief, only 10 Treasures are available. When playing with the Thief, 12 are available. Once all have been placed, no additional Treasures can be added until others are picked up by other players.
+
+THE THIEF
+-Place the Thief piece on the map just prior to your own turn, not at the beginning of the game.
+-You may mix actions and movement freely, and (unlike the Knight) may continue using either even if the other is depleted.
+-When Pickpocketing the Knight or Goblins, you may choose a revealed card, or take a random unrevealed card.
+-When the Thief Pickpockets a Secrets card from the Goblins, that card is discarded and the Thief takes a Treasure token. He does not keep the card.
+-Reducing Stealth to 0 (or lower) does not harm the Thief or allow other players to attack for free. They must still use an Encounter or action normally.
+-All Upgrades from stashing Treasures, particularly stat increases, are effective immediately and may be used during the same turn if applicable.
+-The Hand Crossbow can attack only in the four cardinal directions. You cannot shoot diagonally or at any other angles, even if there are no walls or Dark tiles blocking visibility to the target.
+-Unnatural Evasion only functions when targeted with an attack. It does not apply when shot at, or when targeted with most abilities. Refer to the Attacks section for more details on what does and does not count as an attack.
+-The Loot Drop Level resets only when a Treasure or Gem is stashed. It does not change when killed.
+
+TERRAIN VARIANT
+-Canyon
+-Players cannot enter the impassable spaces on this tile without the use of an ability that allows it. Specifically, the Dragon may use a Wing card while on the surface to pass completely over either space in a straight line, or the Thief may use Climb to pass through either space provided he ends his movement in valid space.
+-Magma
+-The effects of Magma apply only at the end of a player’s own turn. If forced onto Magma by another player they will not suffer the effects unless they choose to remain there.
+-Mushroom Forest
+-The Mushroom Forest protects only players inside, not itself. If hit by Wrath, players inside are affected normally (Goblins Scatter).
+-Pits
+-Using a Pit to travel to another requires a minimum of 3 movement: 1 to enter the tile, 1 to travel to another Pit, and 1 to exit the second Pit. If a player is unable to complete this entire movement during their turn, they cannot enter the first Pit.
+-The Dragon requires two separate movements to use a Pit, either as his standard move plus a Wing card, or as two Wing cards. One movement is used to enter the Pit and another is used to exit. The 1 additional movement needed to travel from one Pit to another may be taken from the second space of either movement.
+
+ROLE VARIANTS
+-In games without a Cave player, a player with the Past Plunder card should place the Treasure token after placing the Dark tile at the end of their turn. The Treasure may be placed on that tile.
+-In games without a Cave player, the normal rule during the Collapse is for each player to remove 3 tiles at the end of their turn. In games with more than 3 players this can accelerate the end of the game more quickly than desired, so we recommend that each player removes only a single tile each turn.
+-Alone in the Dark replaces the normal end of turn tile placement used in games without a Cave player. When removing tiles, the requirements based on tile types apply in addition to the standard rules based on the number of exposed edges.
+-In games without a Cave player, everyone loses if the Cave collapses. The likelihood of this happening can vary significantly based on the roles in use and the strategies used by the players.
+-In games without a Knight player, Ambush tiles have no effect. The Goblins cannot use them to attack other players.
+-The Flare card can be used by the Knight only once per turn. It may be used by each Goblin Tribe once per turn, allowing the Goblins player a maximum of three total uses per turn if all Tribes were on the map. The Thief may use it any number of times he wishes, provided he spends an Action for each use.
+
+DIFFICULTY VARIANTS
+-The “Standard” difficulty levels for all roles match the setup and victory conditions used throughout the rulebook and listed on their player boards. They should be assumed as the default setup for most games unless players agree to adjust difficulties before starting. If all players are using the standard setting, the Difficulty cards are not needed.
+
+Knight and Goblin Difficulty
+-When using the Hard or Expert difficulties to increase the starting Health of your target, give the card to that player so they can use the additional spaces provided on the card.
+
+Cave Difficulty
+-When using the Easy (Spillway) or Easiest (Lava Tube) difficulties, remove tiles from all of the following types: Ambush, Crystal, Event, Treasure, Vault. Do not remove the Entrance tile or any Terrain tiles.
+-When using the Hard (Great Cave) or Expert (Grand Cave) difficulties, you may use any tokens or markers you have available as Hatred tokens (no components are included specifically for this purpose). We recommend using the duplicate (cardboard/wooden) Treasure or Crystal tokens.
+-If the Cave player does not remove all Hatred tokens it will not prevent the Collapse from starting, but they will prevent the Cave from winning until they are removed, even if 5 or more Crystal tiles are collapsed first.
