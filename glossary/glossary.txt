@@ -61,7 +61,6 @@ Starting Player Token	スタートプレイヤートークン
 appropriate	適切
 Mercy Tile	慈悲タイル
 Look into the Bag Tile	バッグの中を見るタイル
-Double Offering Tile	2倍提供タイル
 ascending	上昇
 ascending order	昇順
 Loyal Servant	忠実な使用人
@@ -116,3 +115,4 @@ Offering phase	提供フェイズ
 Everybody	誰でも、全員
 peculiar	独自、奇妙、特有
 diet	ダイエット、食生活
+Double Offering Tile	ダブル提供タイル
