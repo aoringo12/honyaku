@@ -1200,6 +1200,14 @@ Buildings in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Count the total number of each player earns from Buildings in their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030621Z" creationid="aorin" creationdate="20171212T030621Z">
+        <seg>各プレイヤーは、自身の近所の建物の合計★を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Count the votes on each team, and determine which action each team has collectively
 chosen through majority vote.</seg>
       </tuv>
@@ -1333,6 +1341,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player gains .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030600Z" creationid="aorin" creationdate="20171212T030548Z">
+        <seg>各プレイヤーは●1つを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1631,6 +1647,14 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are any on Deed Locations, the Owners of those Locations gain the indicated amount of from the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030453Z" creationid="aorin" creationdate="20171212T030453Z">
+        <seg>ディードロケーションに任意の●がある場合、その場所の所有者たちは、ミントサプライから指示された●を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are no beans of that type in the Fields,
 players cannot use this ability.</seg>
       </tuv>
@@ -1676,6 +1700,14 @@ most wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is still a tie, the tied player with the most wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030656Z" creationid="aorin" creationdate="20171212T030656Z">
+        <seg>まだタイの場合、最も●を持つプレイヤーが勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is tie, as shown in the
 example to the right, the player on the top of the
 stack is first in turn order.</seg>
@@ -1692,6 +1724,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075509Z" creationid="nakahodo" creationdate="20171209T075509Z">
         <seg>二人以上のプレイヤーが一位タイになった場合、タイプレイヤー間で最小の近所を持つプレイヤーが勝利します（つまり、建物とプランの最も少ない）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If two or more players are tied for first place, the tied player with the smallest Neighborhood (i.e. fewest total Buildings and Plans) wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030651Z" creationid="aorin" creationdate="20171212T030651Z">
+        <seg>二人以上のプレイヤーが1位タイになった場合、タイプレイヤー間で最小の近所を持つプレイヤーが勝利します（つまり、建物とプランの最も少ない）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2385,6 +2425,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proceed to the next Development phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030605Z" creationid="aorin" creationdate="20171212T030605Z">
+        <seg>次の開発フェイズに進みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080040Z" creationid="nakahodo" creationdate="20171209T080040Z">
@@ -2460,6 +2508,22 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve all “Upkeep” effects on Buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030433Z" creationid="aorin" creationdate="20171212T030433Z">
+        <seg>全ての「アップキープ」効果を持つ建物を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return all on Locations to the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
+        <seg>ロケーションにある●を全てをミントサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reward Points are positive, but are only added to the score track at the end of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083151Z" creationid="nakahodo" creationdate="20171211T083151Z">
@@ -2488,6 +2552,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153728Z" creationid="nakahodo" creationdate="20171103T153728Z">
         <seg>ルートは我々がデベロップする非対称設計の次のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCORING</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030606Z" creationid="aorin" creationdate="20171212T030606Z">
+        <seg>得点計算</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,8 +2678,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Still tied?</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
-        <seg>二人以上のプレイヤーが一位タイになった場合、タイプレイヤー間で最小の近所を持つプレイヤーが勝利します（つまり、建物とプランの最も少ない）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030704Z" creationid="aorin" creationdate="20171212T025227Z">
+        <seg>まだタイですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,8 +3070,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>The player with the most has the finest Neighborhood and wins!</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
-        <seg>最も●を持つプレイヤーが見事な近所を作り、勝利します！</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030633Z" creationid="aorin" creationdate="20171212T025227Z">
+        <seg>最も★を持つプレイヤーが見事な近隣を作ったこととなり、勝利します！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3175,14 @@ the Upkeep phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030318Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>その後、アップキープフェイズに進みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then the tied player whose age is closest to 42 wins!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030729Z" creationid="aorin" creationdate="20171212T030729Z">
+        <seg>タイプレイヤー間で最も42歳に近い年齢プレイヤーが勝利します！</seg>
       </tuv>
     </tu>
     <tu>
