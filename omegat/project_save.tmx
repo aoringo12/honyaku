@@ -1527,6 +1527,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain for each Plan (face down) in the same Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034823Z" creationid="aorin" creationdate="20171212T034823Z">
+        <seg>同じ近所にあるプラン（裏向き）ごとに★★を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gallery has equal to the number of placed upon it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034410Z" creationid="aorin" creationdate="20171212T034410Z">
@@ -2258,6 +2266,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034106Z" creationid="aorin" creationdate="20171212T034106Z">
         <seg>Builderでプランを建築する時、1少なく○を支払ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay one (1) fewer when buying Plans at the Supplier, to a minimum of one (1) .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034759Z" creationid="aorin" creationdate="20171212T034759Z">
+        <seg>Supplierからプランを購入する時、○を1少なく支払います。最小は1です。</seg>
       </tuv>
     </tu>
     <tu>
