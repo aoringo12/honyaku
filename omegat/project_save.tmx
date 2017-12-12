@@ -3597,6 +3597,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should a player collect 60 Penalty Points throughout the game, they disappoint the Queen so badly that She has that player thrown into the Pit of Oblivion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173316Z" creationid="aorin" creationdate="20171212T173316Z">
+        <seg>ゲームを通して60ペナルティポイントを集めてしまったプレイヤーは、クイーンを失望させ、忘却の穴へと彼女によって投げ入れることになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle Blend Slates,
 draw 3 and fill the
 spaces above
@@ -3993,6 +4001,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075823Z" creationid="nakahodo" creationdate="20171209T075823Z">
         <seg>ゲームにはプレイヤーに対して4つの異なるAI対戦相手が用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game ends immediately for this player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173350Z" creationid="aorin" creationdate="20171212T173350Z">
+        <seg>ゲームはこのプレイヤーにより直ちに終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5139,6 +5155,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140719Z" creationid="nakahodo" creationdate="20171127T140719Z">
         <seg>あなたはプライド間でキューブを移動させたい時、這い寄るを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You worthless Pixie!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173441Z" creationid="aorin" creationdate="20171212T173402Z">
+        <seg>あなたはもはや、存在してはならない無価値の妖精だ！</seg>
       </tuv>
     </tu>
     <tu>
