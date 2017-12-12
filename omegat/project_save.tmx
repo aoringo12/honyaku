@@ -2133,6 +2133,22 @@ stack is first in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this happens during the Reward phase (IV), do as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164436Z" creationid="aorin" creationdate="20171212T164436Z">
+        <seg>報酬フェイズ（Ⅳ）時にこれが発生した場合、次を行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this is done during the action phase (II) by performing the Promotion action, do as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164656Z" creationid="aorin" creationdate="20171212T164656Z">
+        <seg>アクションフェイズ（Ⅱ）時に昇進アクションを実行することでこれが発生する場合、次を行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If two or more players are tied for first place, the tied
 player with the smallest Neighborhood (i.e. fewest total
 Buildings and Plans) wins.</seg>
@@ -2770,6 +2786,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094324Z" creationid="nakahodo" creationdate="20171001T094236Z">
         <seg>人気評価</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay 1 additional Apple from your personal supply to demote the opponent’s Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164541Z" creationid="aorin" creationdate="20171212T164541Z">
+        <seg>降格させる対戦相手の妖精へと、あなたの個人サプライから追加のリンゴ1つを支払う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,6 +3535,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap both Pixies on the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164552Z" creationid="aorin" creationdate="20171212T164552Z">
+        <seg>ゲームボードの妖精両方の位置を交換する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4595,6 +4627,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151558Z" creationid="nakahodo" creationdate="20171103T151558Z">
         <seg>鋼の掟の下で、森の多くの生き物たちは協力しあっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use 1 offered Food to perform the promotion step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164505Z" creationid="aorin" creationdate="20171212T164505Z">
+        <seg>報酬ステップを実行するために提供した食料の1つを使用する。</seg>
       </tuv>
     </tu>
     <tu>
