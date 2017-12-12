@@ -266,6 +266,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--Randomize the 9 Round Tiles face down and distribute 7 on the appropriate fields without looking at them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093651Z" creationid="aorin" creationdate="20171212T093651Z">
+        <seg>13.ラウンドタイル9枚をランダムに裏向きシャッフルし、内容を見ずに適切なフィールドに分けて、7枚配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Scorch reveals only tiles that were on the map when it was first activated.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134850Z" creationid="nakahodo" creationdate="20171127T134809Z">
@@ -512,22 +520,6 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>4/3/2</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T000258Z" creationid="nakahodo" creationdate="20171211T000258Z">
-        <seg>4/3/2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>4/4/3/2</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T000253Z" creationid="nakahodo" creationdate="20171211T000253Z">
-        <seg>4/4/3/2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>4/4/3/2 B 2 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
@@ -536,26 +528,10 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>4/4/3/3/2</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T000247Z" creationid="nakahodo" creationdate="20171211T000247Z">
-        <seg>4/4/3/3/2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>4/4/3/3/2 B 3 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
         <seg>•4プレイヤー：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>4/4/3/3/2/2</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T000238Z" creationid="nakahodo" creationdate="20171211T000238Z">
-        <seg>4/4/3/3/2/2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1397,6 +1373,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214557Z" creationid="aorin" creationdate="20171024T214557Z">
         <seg>各プレイヤーは3ブレンドマーカーを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player receives:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093444Z" creationid="aorin" creationdate="20171212T093444Z">
+        <seg>4.各プレイヤーは次を受け取ります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3038,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The large cubes are placed on their track in the same order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093409Z" creationid="aorin" creationdate="20171212T093409Z">
+        <seg>大きなキューブらは同じ順番でトラックに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151439Z" creationid="nakahodo" creationdate="20171103T151439Z">
@@ -3268,6 +3260,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030633Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>最も★を持つプレイヤーが見事な近隣を作ったこととなり、勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player with their large cube closest to the castle is called the Queen’s Favorite and will be the starting player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093433Z" creationid="aorin" creationdate="20171212T093433Z">
+        <seg>城に最も近い大きなキューブのプレイヤーがクイーンから最もファボられており、スタートプレイヤーになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4290,159 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 1 player screen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093449Z" creationid="aorin" creationdate="20171212T093449Z">
+        <seg>•プレイヤースクリーン1枚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 2 Apples, 2 Bread, 2 Silver bars and 2 Gold bars</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093451Z" creationid="aorin" creationdate="20171212T093451Z">
+        <seg>•りんご2、パン2，シルバーの延べ棒2、ゴールドの延べ棒2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 2 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093634Z" creationid="aorin" creationdate="20171212T093634Z">
+        <seg>•2プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 3 Pixies if playing with 5 players Any remaining Pixies are returned to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093553Z" creationid="aorin" creationdate="20171212T093553Z">
+        <seg>•5プレイヤーの場合は妖精3つ
+任意の残った妖精たちは、箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 3 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093627Z" creationid="aorin" creationdate="20171212T093627Z">
+        <seg>•3プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 4 Action Discs in the player’s colour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093452Z" creationid="aorin" creationdate="20171212T093452Z">
+        <seg>•プレイヤーの色のアクションディスク4つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 4 Pixies if playing with 4 players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093534Z" creationid="aorin" creationdate="20171212T093534Z">
+        <seg>•4プレイヤーの場合は妖精4つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 4 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093623Z" creationid="aorin" creationdate="20171212T093623Z">
+        <seg>•4プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 5 Pixies if playing with 2 or 3 players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093519Z" creationid="aorin" creationdate="20171212T093519Z">
+        <seg>•2、3プレイヤーの場合は妖精5つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 5 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093620Z" creationid="aorin" creationdate="20171212T093620Z">
+        <seg>•5プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Apart from the starting player, all players also receive 2 Honey pots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093453Z" creationid="aorin" creationdate="20171212T093453Z">
+        <seg>•スタートプレイヤー以外、全てのプレイヤーはハニーポットを2つ受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Each player places their Pixies in their mine:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093454Z" creationid="aorin" creationdate="20171212T093454Z">
+        <seg>5.各プレイヤーは自身の炭鉱に自身の妖精を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place all Reward Tiles for Golden Rings on the appropriate fields, in descending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093647Z" creationid="aorin" creationdate="20171212T093647Z">
+        <seg>12.ゴールデンリング報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place all Reward Tiles for Special Offering on the appropriate fields, in ascending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093644Z" creationid="aorin" creationdate="20171212T093644Z">
+        <seg>10.特別な提供の報酬タイルを全て、適切なフィールドに昇順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place all the Loyal Servant Reward Tiles on the appropriate fields, in descending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093646Z" creationid="aorin" creationdate="20171212T093646Z">
+        <seg>11.忠実な使用人報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place the Double Offering Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093639Z" creationid="aorin" creationdate="20171212T093639Z">
+        <seg>7.2倍提供タイルを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place the Food Tiles with values according to the amount of players on the appropriate space, with the highest value at the bottom:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093615Z" creationid="aorin" creationdate="20171212T093607Z">
+        <seg>6.食料タイルを、プレイヤー人数に合わせた枚数を適切なスペースに、大きな数字が下になるように配置します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place the Look into the Bag Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093641Z" creationid="aorin" creationdate="20171212T093641Z">
+        <seg>8.バッグの中を見るタイルを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place the Mercy Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093642Z" creationid="aorin" creationdate="20171212T093642Z">
+        <seg>9.慈悲タイルを配置します。</seg>
       </tuv>
     </tu>
     <tu>
