@@ -2564,6 +2564,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SOLITAIRE MODE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030731Z" creationid="aorin" creationdate="20171212T030731Z">
+        <seg>ソリティアモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOLITAIRE SETUP</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
