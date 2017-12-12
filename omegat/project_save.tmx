@@ -1494,6 +1494,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food Tiles also generate Food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094752Z" creationid="aorin" creationdate="20171212T094752Z">
+        <seg>食料タイルはまた食料を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For
 example, a Bold Blend of black beans would be ranked higher than a
 Bold Blend of white beans.</seg>
@@ -2391,6 +2399,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixies in mines are slaves and do not receive any resources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094744Z" creationid="aorin" creationdate="20171212T094744Z">
+        <seg>炭鉱の妖精は労働を強いられており、何のリソースも提供しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -2562,6 +2578,14 @@ strategize before placing a Field Researcher.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100147Z" creationid="nakahodo" creationdate="20171001T100147Z">
         <seg>プレイヤーたちはフィールド研究者を配置する前に、自身の意思や戦略を伝えること（もしくは伝えない）ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players may choose which type of food they receive, in an amount as depicted on the Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094925Z" creationid="aorin" creationdate="20171212T094925Z">
+        <seg>プレイヤーたちはまた、食料の種類を選択し、タイルに描かれた数だけ受け取ることができます。</seg>
       </tuv>
     </tu>
     <tu>
