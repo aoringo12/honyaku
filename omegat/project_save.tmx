@@ -1542,6 +1542,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exception:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103923Z" creationid="aorin" creationdate="20171212T103923Z">
+        <seg>例外：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face up Plan cards in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
@@ -2418,6 +2426,22 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030827Z" creationid="aorin" creationdate="20171212T030827Z">
         <seg>オプション：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or 1 disc on a double action space with a Pixie on the space depicting a hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104138Z" creationid="aorin" creationdate="20171212T104138Z">
+        <seg>または、手が描かれたスペースに妖精がいる、ダブルアクションスペースにディスク1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or 2 discs on a double action space that does not contain a Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104055Z" creationid="aorin" creationdate="20171212T104055Z">
+        <seg>または、妖精のいない、ダブルアクションスペースに2つのディスクを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +4427,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092545Z" creationid="aorin" creationdate="20171116T092545Z">
         <seg>引き出し、白豆を取り出した！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for the action Temporary Priority a player uses all their remaining Action Discs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104023Z" creationid="aorin" creationdate="20171212T104023Z">
+        <seg>一時的な優先度アクションでは、プレイヤーは残りのアクションディスク全てを使用します。</seg>
       </tuv>
     </tu>
     <tu>
