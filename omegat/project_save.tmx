@@ -1965,6 +1965,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the last player doesn’t have a promoted Pixie, or begs for mercy using the Mercy Single Use Tile, the second-to-last player on the Player Turn Order track (large cubes) must send a Pixie to the mines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125428Z" creationid="aorin" creationdate="20171212T125428Z">
+        <seg>最後のプレイヤーガ昇格した妖精を持っていない[または]一生に一度の命乞いタイルを使用して慈悲を求める場合、ターン順番トラック（大きなキューブ）の後ろから二番目のプレイヤーが炭鉱へと妖精を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there
 is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
@@ -2562,6 +2570,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031827Z" creationid="aorin" creationdate="20171212T031827Z">
         <seg>AIが現在購入できるプランのみを考慮します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only promoted Pixies that are currently on a double action space somewhere on the game board, can be demoted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125200Z" creationid="aorin" creationdate="20171212T125200Z">
+        <seg>ゲームボードの何れかのダブルアクションスペースに現在居る昇格した妖精のみが、降格できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5292,6 +5308,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124959Z" creationid="nakahodo" creationdate="20171127T124959Z">
         <seg>- ナイトが同じタイルにいる対戦相手プレイヤー（またはクリスタル）とエンカウントする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The player in last position on the Turn Order track (large cubes) must demote one of their Pixies to the mine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125049Z" creationid="aorin" creationdate="20171212T125010Z">
+        <seg>•ターン順番トラック（大きなキューブ）の最後の位置のプレイヤーは鉱山へと自身の妖精1体を降格させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
