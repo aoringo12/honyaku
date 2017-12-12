@@ -967,8 +967,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T165634Z" creationid="aorin" creationdate="20171212T165634Z">
-        <seg>各ラウンドの終わりに、妖精のクイーンは彼女の要求をあまりにも満たしていない怠け者を罰します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
+        <seg>各ラウンドの終わりに、妖精のクイーンは彼女の要求を満たしていない怠け者を、彼女の判断で罰します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,6 +1824,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T091847Z" creationid="nakahodo" creationdate="20170924T091737Z">
         <seg>各プレイヤーに、プレイヤー色の各コンポーネント、ロースターバッグ、研究ラボのセットを渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give penalty points in this order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T165711Z" creationid="aorin" creationdate="20171212T165711Z">
+        <seg>次の順番でペナルティポイントを配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4638,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152913Z" creationid="nakahodo" creationdate="20171103T152913Z">
         <seg>いくつかは同盟の希望と夢に同調してくれるかもしれませんが、彼ら放浪者はウッドランドをかつて支配していた偉大なる鳥たちのことを覚えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus She will punish all players!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T165851Z" creationid="aorin" creationdate="20171212T165659Z">
+        <seg>したがって、彼女は全てのプレイヤーを罰するでしょう！（（（ありがとうございます！）））</seg>
       </tuv>
     </tu>
     <tu>
