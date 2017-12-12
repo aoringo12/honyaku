@@ -809,6 +809,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players gather resources from their personal supply in a chosen amount, to hold in their hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T122852Z" creationid="aorin" creationdate="20171212T122852Z">
+        <seg>全てのプレイヤーたちは、自身の個人サプライからリソースら選んだ量のリソースを集め、自身の手に握ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All ties result in a Research action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113336Z" creationid="nakahodo" creationdate="20171001T113336Z">
@@ -2463,6 +2471,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030807Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手として、AIの内1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the Food resources will be depicted on it, determining which type of Food the Queen wants this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T120452Z" creationid="aorin" creationdate="20171212T120452Z">
+        <seg>食料リソースの1つが描かれており、このラウンドでクイーンが望む食料の種類が決定されます。</seg>
       </tuv>
     </tu>
     <tu>
