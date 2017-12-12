@@ -726,8 +726,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After completing one of these actions, the turn is passed clockwise to the next player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T030014Z" creationid="aorin" creationdate="20171212T030014Z">
-        <seg>それらアクションを1つ完了した後、ターンは次のプレイヤーに時計回りで渡されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030232Z" creationid="aorin" creationdate="20171212T030014Z">
+        <seg>それらアクションのうち1つを完了した後、ターンは次のプレイヤーに時計回りで渡されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,8 +1581,8 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       <tuv lang="EN-US">
         <seg>If any player has seven or more provided by Buildings in their Neighborhood, the game ends and Scoring takes place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
-        <seg>•いずれかのプレイヤーが7以上の●を持つ建物を近所に持つ場合、ゲームは終了し得点計算を行います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030413Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>いずれかのプレイヤーが7以上の●を持つ建物を近所に持つ場合、ゲームは終了し得点計算を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1609,6 +1609,14 @@ enough to place onto the list, it is removed from play.</seg>
 Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T074525Z" creationid="nakahodo" creationdate="20171209T074525Z">
+        <seg>プランサプライを十分に補充できない場合、ゲームは終了し得点計算を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it is not possible to completely fill the Plan Supply, the game ends and Scoring takes place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030428Z" creationid="aorin" creationdate="20171212T030428Z">
         <seg>プランサプライを十分に補充できない場合、ゲームは終了し得点計算を行います。</seg>
       </tuv>
     </tu>
@@ -2436,8 +2444,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Refill the Plan Supply to three face up cards from the Plan Deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
-        <seg>•プランデッキからカー3枚になるようにプランサプライを補充します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030415Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>プランデッキからカー3枚になるようにプランサプライを補充します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2741,8 +2749,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Development phase repeats until all players consecutively pass, ending the phase.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
-        <seg>それらアクションを1つ完了した後、ターンは次のプレイヤーに時計回りで渡されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030306Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>開発フェイズは全てのプレイヤーが連続してパスをするまで続けられてから、終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,6 +2846,14 @@ least one bean.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073649Z" creationid="nakahodo" creationdate="20171209T073649Z">
         <seg>プレイヤーは未占領のミントプレイスメントスペースを選択し、そこに必要な数の●を配置し、ロケーションの効果を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player chooses an unoccupied Mint Placement Space and places the required amount of on it, granting them the Location’s effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030400Z" creationid="aorin" creationdate="20171212T030400Z">
+        <seg>プレイヤーは未占領のミントプレイスメントスペースを選択し、そこに必要な数の●を配置して、ロケーションの効果を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3085,8 +3101,8 @@ the Upkeep phase.</seg>
       <tuv lang="EN-US">
         <seg>Then proceed to the Upkeep phase.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
-        <seg>開発フェイズは全てのプレイヤーが連続してパスをするまで続けてから、フェイズが終了します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030318Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>その後、アップキープフェイズに進みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,7 +3214,7 @@ either the Place or Pass action.</seg>
       <tuv lang="EN-US">
         <seg>They may choose either the Place or Pass action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030339Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
       </tuv>
     </tu>
