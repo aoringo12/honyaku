@@ -1052,6 +1052,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CO-OP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T080322Z" creationid="aorin" creationdate="20171212T080322Z">
+        <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COFFEE PROTOCOL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124553Z" creationid="nakahodo" creationdate="20171001T124553Z">
@@ -2437,6 +2445,22 @@ Research (gain abilities).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players create their own map by placing terrain tiles, beginning with the starting tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T080326Z" creationid="aorin" creationdate="20171212T080326Z">
+        <seg>
+
+
+
+
+
+
+
+Players create their own map by placing terrain tiles, beginning with the starting tile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players may and are encouraged to tell (or not tell) their intentions and
 strategize before placing a Field Researcher.</seg>
       </tuv>
@@ -2791,6 +2815,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TEMP AGENCY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T080321Z" creationid="aorin" creationdate="20171212T080321Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
