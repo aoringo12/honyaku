@@ -660,6 +660,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player’s Neighborhood is the area in front of that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025848Z" creationid="aorin" creationdate="20171212T025848Z">
+        <seg>プレイヤーの近所はそのプレイヤーの前にあるエリアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A team’s action is determined by a majority vote.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112457Z" creationid="nakahodo" creationdate="20171001T112457Z">
@@ -716,6 +724,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After completing one of these actions, the turn is passed clockwise to the next player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030014Z" creationid="aorin" creationdate="20171212T030014Z">
+        <seg>それらアクションを1つ完了した後、ターンは次のプレイヤーに時計回りで渡されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All
 beans on the Slate are returned to The Fields, and all markers
 are returned to players.</seg>
@@ -740,6 +756,14 @@ they own and have control over are considered to be
 in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071918Z" creationid="nakahodo" creationdate="20171209T071918Z">
+        <seg>彼が所有し制御するミントトークン、プラン、建物の全ては彼の「近所」だと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the Mint Tokens, Plans and Buildings they own and have control over are considered to be in their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025850Z" creationid="aorin" creationdate="20171212T025850Z">
         <seg>彼が所有し制御するミントトークン、プラン、建物の全ては彼の「近所」だと見なされます。</seg>
       </tuv>
     </tu>
@@ -807,8 +831,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Any lost are returned to the Mint Supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
-        <seg>プランが失われる時、プランデッキの下へと裏向きで配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030004Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>任意の○を失う時、ミントサプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,6 +1088,14 @@ the ranking of the combination, then on the color of the blend.</seg>
 in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072007Z" creationid="nakahodo" creationdate="20171209T072007Z">
+        <seg>プランデッキ、プランサプライ、プレイヤーの近所に裏向きになっているカードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cards in the Plan Deck, Plan Supply and face down in players’ Neighborhoods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025902Z" creationid="aorin" creationdate="20171212T025902Z">
         <seg>プランデッキ、プランサプライ、プレイヤーの近所に裏向きになっているカードです。</seg>
       </tuv>
     </tu>
@@ -1326,6 +1358,14 @@ Country on the World Map.</seg>
 by the Upkeep phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072419Z" creationid="nakahodo" creationdate="20171209T072419Z">
+        <seg>各ラウンドは、開発フェイズとそれに続くアップキープフェイズで構成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each round consists of the Development phase followed by the Upkeep phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T030007Z" creationid="aorin" creationdate="20171212T030007Z">
         <seg>各ラウンドは、開発フェイズとそれに続くアップキープフェイズで構成されます。</seg>
       </tuv>
     </tu>
@@ -1785,6 +1825,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KEYWORDS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025833Z" creationid="aorin" creationdate="20171212T025833Z">
+        <seg>キーワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LEADERSHIP COUNCIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110837Z" creationid="nakahodo" creationdate="20171211T110514Z">
@@ -1837,6 +1885,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080028Z" creationid="nakahodo" creationdate="20171209T080028Z">
         <seg>次の順序で並べます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025921Z" creationid="aorin" creationdate="20171212T025921Z">
+        <seg>失う</seg>
       </tuv>
     </tu>
     <tu>
@@ -3407,8 +3463,8 @@ of the Plan Deck.</seg>
       <tuv lang="EN-US">
         <seg>When a Plan is lost, it is put face down at the bottom of the Plan Deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
-        <seg>失う</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025939Z" creationid="aorin" creationdate="20171212T025225Z">
+        <seg>プランが失われる時、プランデッキの下に裏向きで配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,8 +3480,8 @@ becomes a Builiding.</seg>
       <tuv lang="EN-US">
         <seg>When a plan is built, it becomes a Builiding.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
-        <seg>プランデッキ、プランサプライ、プレイヤーの近所に裏向きになっているカードです。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025913Z" creationid="aorin" creationdate="20171212T025225Z">
+        <seg>プランが建築される時、それは建物になります。</seg>
       </tuv>
     </tu>
     <tu>
