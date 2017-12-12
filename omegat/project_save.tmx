@@ -2583,6 +2583,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perform the following steps in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T111050Z" creationid="aorin" creationdate="20171212T111050Z">
+        <seg>次の順番でステップを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permanent Ability Tile from the board and places it on the appropriate field with the corresponding symbol on their player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093825Z" creationid="aorin" creationdate="20171212T093825Z">
