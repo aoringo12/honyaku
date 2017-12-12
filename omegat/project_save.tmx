@@ -981,6 +981,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the highest level of a track a player even receives a Reward Point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T172942Z" creationid="aorin" creationdate="20171212T172913Z">
+        <seg>最も高い位置では、報酬ポイントがもらえることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking or being attacked by another player is option.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
@@ -1176,6 +1184,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094825Z" creationid="nakahodo" creationdate="20171001T094825Z">
         <seg>その後、ブレンドは"劣化"し、衰退します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both tracks score Penalty Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T172800Z" creationid="aorin" creationdate="20171212T172800Z">
+        <seg>両トラックそれぞれでペナルティポイントを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1453,6 +1469,14 @@ Track will go first.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100939Z" creationid="nakahodo" creationdate="20171001T100939Z">
         <seg>ターン順番の決定
 業績トラックの最も低い得点のプレイヤーが最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not advance on the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173004Z" creationid="aorin" creationdate="20171212T173004Z">
+        <seg>スコアトラックはトラックを越えて進行できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2399,6 +2423,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, take a Reward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173102Z" creationid="aorin" creationdate="20171212T173102Z">
+        <seg>変わりに、共通サプライから価値1の報酬ポイントタイルを取り、あなたのプレイヤースクリーンに隠し、ゲーム終了時に得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investment Tokens on the Slate are
 returned to the general supply (see page 18).</seg>
       </tuv>
@@ -2681,6 +2713,14 @@ contains a red negative action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T110952Z" creationid="nakahodo" creationdate="20171001T110952Z">
         <seg>ゲームの最初のラウンドにて、プレイヤーたちが自身のフィールド研究者を赤いネガティブアクションのある国に配置した場合、そのペナルティを無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the second highest level a player is no longer given Penalty Points for that track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T172855Z" creationid="aorin" creationdate="20171212T172855Z">
+        <seg>最上段2段目からは、どのトラックからペナルティポイントをもはや受け取らなくなります。</seg>
       </tuv>
     </tu>
     <tu>
