@@ -1989,6 +1989,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If multiple free locations are available on the next level, a player can choose which location they want to move their Pixie to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153954Z" creationid="aorin" creationdate="20171212T153954Z">
+        <seg>複数の空いた場所が次のレベルで利用可能な場合、プレイヤーは妖精をどちらに移動させるかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If nobody offered the right type of Food, the Queen is outraged by the lack of respect her subordinates have shown her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T124258Z" creationid="aorin" creationdate="20171212T124258Z">
@@ -4761,6 +4769,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T094702Z" creationid="nakahodo" creationdate="20171002T094702Z">
         <seg>チームによってブレンドにある他4つのスペースが満たされた時（そして全てのプレイヤーがブレンドに少なくとも1つの豆を提供したら）、特定の色の豆1つがフィールドからブレンドスレートに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When there are no free spaces available to promote any of your Pixies to and you don’t have an Apple to demote an opponent’s Pixie, you lose the remaining promotion steps and the offered food isn’t refunded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T154144Z" creationid="aorin" creationdate="20171212T154144Z">
+        <seg>あなたの妖精を昇進させるための任意の空いたスペースがなく、対戦相手の妖精を降格させるためにりんごを所持していない場合、あなたは残った昇進ステップを失い、提供した食料も返されません。</seg>
       </tuv>
     </tu>
     <tu>
