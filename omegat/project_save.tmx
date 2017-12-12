@@ -965,6 +965,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T165634Z" creationid="aorin" creationdate="20171212T165634Z">
+        <seg>各ラウンドの終わりに、妖精のクイーンは彼女の要求をあまりにも満たしていない怠け者を罰します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking or being attacked by another player is option.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
@@ -2850,6 +2858,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034936Z" creationid="aorin" creationdate="20171212T034759Z">
         <seg>Supplierからプランを購入する時、支払う○が1減少します。。最小は1です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Penalty Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T165431Z" creationid="aorin" creationdate="20171212T165431Z">
+        <seg>ペナルティフェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5467,6 +5483,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093713Z" creationid="aorin" creationdate="20171212T093713Z">
         <seg>•岩×プレイヤー人数ごとに5枚（最大プレイヤー5人で20枚）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• A Pixie that has attained the status of Loyal Servant can never be demoted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T165427Z" creationid="aorin" creationdate="20171212T165427Z">
+        <seg>•忠実な使用人の地位に到達した妖精は降格できません。</seg>
       </tuv>
     </tu>
     <tu>
