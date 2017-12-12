@@ -2200,6 +2200,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s not allowed to offer multiple types of resources, unless a player both owns and uses their Double Offering Tile, allowing that player to hold out 2 hands instead of just 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123312Z" creationid="aorin" creationdate="20171212T123312Z">
+        <seg>複数の種類のリソースを提供することはできません。ただし、ダブル提供タイルを所有しておりこれを使用する場合は、そのプレイヤーは1の代わりに2種類のリソースを保持することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s time for the team to work together to create a Blend to top the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114845Z" creationid="nakahodo" creationdate="20171001T114845Z">
@@ -5079,6 +5087,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• If someone shows an empty hand (thus offering nothing to the Queen) they immediately receive 5 Penalty Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123411Z" creationid="aorin" creationdate="20171212T123411Z">
+        <seg>•誰かが手になにも持っていなかった場合（つまりクイーンになにも提供しなかった場合）、そのプレイヤーは直ちに5ペナルティポイントを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Place 1 Apple, Bread, Honey and a Silver bar on the Special Offering field.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093656Z" creationid="aorin" creationdate="20171212T093656Z">
@@ -5218,8 +5234,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>• You must always offer 1 type of resource:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T123056Z" creationid="aorin" creationdate="20171212T123056Z">
-        <seg>•提供するリソースの種類は常に1つです：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123317Z" creationid="aorin" creationdate="20171212T123056Z">
+        <seg>•提供するリソースの種類は常に1です：</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
