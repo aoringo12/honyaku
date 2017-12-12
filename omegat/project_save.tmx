@@ -1955,6 +1955,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to avoiding penalties, there are three types of Reward Points to achieve:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T100855Z" creationid="aorin" creationdate="20171212T100825Z">
+        <seg>ペナルティを避けることに加えて、達成するべき報酬ポイントの種類は3つあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all subsequent turns, red negative actions must be taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
@@ -2806,6 +2814,22 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093851Z" creationid="nakahodo" creationdate="20171211T083151Z">
         <seg>報酬ポイントはプラスですが、ゲーム終了時にのみ、スコアトラックに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward Points for Special Offering:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T100910Z" creationid="aorin" creationdate="20171212T100910Z">
+        <seg>特別な提供からの報酬ポイント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T100727Z" creationid="aorin" creationdate="20171212T100727Z">
+        <seg>報酬タイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -3923,6 +3947,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064339Z" creationid="nakahodo" creationdate="20171209T064321Z">
         <seg>この本を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Special</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101026Z" creationid="aorin" creationdate="20171212T101026Z">
+        <seg>あなたが特別提供アクションを使用することにより、迅速に報酬ポイントを達成することができるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
