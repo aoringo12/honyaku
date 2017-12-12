@@ -4911,6 +4911,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You might want to do this if there is no free action space to promote to, or because the action space seems interesting to you, or just to annoy an opponent by swapping places with one of their Pixies …</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164411Z" creationid="aorin" creationdate="20171212T164411Z">
+        <seg>昇進するための空いたアクションスペースがない、そのアクションスペースに興味がある、妖精たちを交換して対戦相手を困らせたいと思うならば、そうすると良いでしょう・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must use Slither to move a cube from one category to another within Pride.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140719Z" creationid="nakahodo" creationdate="20171127T140719Z">
