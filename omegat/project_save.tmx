@@ -1332,6 +1332,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Reward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101236Z" creationid="aorin" creationdate="20171212T101210Z">
+        <seg>報酬フェイズ時に、あなたの妖精はクイーンの城勤めへと昇進できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Upkeep phase, gain for each Building in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033922Z" creationid="aorin" creationdate="20171212T033922Z">
@@ -1989,6 +1997,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to compete, you will have to offer the Food type that the Queen desires this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101328Z" creationid="aorin" creationdate="20171212T101328Z">
+        <seg>他と競うには、このラウンドでクイーンが望む食料の種類を提供しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to move Hunger cubes to Wakefulness you must first use Slither to transfer them to different Sloth tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140603Z" creationid="nakahodo" creationdate="20171127T140514Z">
@@ -2036,6 +2052,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153637Z" creationid="nakahodo" creationdate="20171103T153637Z">
         <seg>どのグループが最終的に根ざす（root）のかはプレイヤー達によって決められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It only takes you one action, but it’s also the most expensive way to get Reward Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101139Z" creationid="aorin" creationdate="20171212T101124Z">
+        <seg>アクション1つのみでできますが、報酬ポイントを得るためには最も費用がかかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,6 +2463,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phase, your Pixies can be promoted into the castle of the Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101238Z" creationid="aorin" creationdate="20171212T101238Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixies in mines are slaves and do not receive any resources.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094744Z" creationid="aorin" creationdate="20171212T094744Z">
@@ -2830,6 +2862,22 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093851Z" creationid="nakahodo" creationdate="20171211T083151Z">
         <seg>報酬ポイントはプラスですが、ゲーム終了時にのみ、スコアトラックに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward Points for Golden Rings:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101353Z" creationid="aorin" creationdate="20171212T101353Z">
+        <seg>ゴールデンリングからの報酬ポイント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward Points for Loyal Servants:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101152Z" creationid="aorin" creationdate="20171212T101152Z">
+        <seg>忠実な使用人からの報酬ポイント：</seg>
       </tuv>
     </tu>
     <tu>
