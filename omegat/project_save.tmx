@@ -762,6 +762,14 @@ Blend Slate is full.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all promotion steps have been performed, the Pixie that reached the Loyal Servant spot is moved to the Loyal Servant Reward Tile fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T163717Z" creationid="aorin" creationdate="20171212T163717Z">
+        <seg>全ての昇進ステップが実行された後、忠実な使用人ステップに到達した妖精は忠実な使用人報酬タイルフィールドに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After completing one
 of these actions, the turn is passed clockwise to the
 next player.</seg>
@@ -3554,6 +3562,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That Pixie remains there until all players have performed all promotion steps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
+        <seg>その妖精は全てのプレイヤーが昇進ステップの全てを実行するまで、そのままです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 2 remaining Tiles are
 returned to the game box without looking at
 them.</seg>
@@ -3963,6 +3979,14 @@ their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032148Z" creationid="aorin" creationdate="20171212T032102Z">
         <seg>プレイヤーはプランデッキ1番上のカードを得て、自身の近所に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player in question takes the leftmost available Reward Tile from the fields and places the Pixie on that space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T163910Z" creationid="aorin" creationdate="20171212T163910Z">
+        <seg>そのプレイヤーはフィールドから利用可能な報酬タイルの最も左のものを取り、そのスペースに妖精を配置します。</seg>
       </tuv>
     </tu>
     <tu>
