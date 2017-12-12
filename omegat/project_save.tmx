@@ -1518,6 +1518,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn, a player uses 1 or 2 Action Discs to immediately perform 1 action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
+        <seg>各ターン、プレイヤーはアクションディエスク1つ[または]2つを使用して、直ちにアクション1つを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either 1 disc on a circular action space with room to place only 1 Action Disc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103919Z" creationid="aorin" creationdate="20171212T103919Z">
+        <seg>1つのディスクを配置できるアクションスペースに、アクションディスク1つのみを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example of Blending</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223252Z" creationid="aorin" creationdate="20171024T223252Z">
