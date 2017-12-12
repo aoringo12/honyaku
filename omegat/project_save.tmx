@@ -640,6 +640,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player can never evade Penalty Points or getting chained to Rocks by putting slaves on the upper row of their mine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T171328Z" creationid="aorin" creationdate="20171212T171328Z">
+        <seg>プレイヤーはペナルティポイントを回避するためや、岩に繋ぐために意図的に自身の炭鉱の上行にドレイを配置することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player cannot show what’s in a
 Roaster unless a card, action or rule
 requires it.</seg>
@@ -4327,6 +4335,14 @@ the Upkeep phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then the Queen will check whether you offered enough Silver and Gold to Her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T171421Z" creationid="aorin" creationdate="20171212T171421Z">
+        <seg>その後、クイーンは十分なシルバーとゴールドを彼女に提供したかどうかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then the tied player whose age is closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030729Z" creationid="aorin" creationdate="20171212T030729Z">
@@ -5113,8 +5129,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>the two lowest slave positions in the mine are always the first ones to be filled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T171124Z" creationid="aorin" creationdate="20171212T171124Z">
-        <seg>炭鉱の最も低い場所にある2つのドレイの場所は、</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T171212Z" creationid="aorin" creationdate="20171212T171124Z">
+        <seg>炭鉱の最も低い場所にある2つのドレイの場所は、常に最初に満たされます。</seg>
       </tuv>
     </tu>
     <tu>
