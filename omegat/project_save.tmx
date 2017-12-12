@@ -3096,6 +3096,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat this process until a Pixie is sent to the mines or it reaches the Queen’s Favorite, who doesn’t have to send a Pixie to the mines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125705Z" creationid="aorin" creationdate="20171212T125705Z">
+        <seg>炭鉱に妖精1体が送られるか、クイーンからファボられているプレイヤーまで到達するか、誰も妖精を炭鉱に送れないかするまでこれを繰りします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research
 Markers should be placed at
 the start of each Research Track.</seg>
@@ -4301,6 +4309,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This phase only takes place if at least 1 player offered the right kind of Food during the offering phase (III).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125904Z" creationid="aorin" creationdate="20171212T125904Z">
+        <seg>提供フェイズ（Ⅲ）時に、少なくとも1人のプレイヤーガ適切な食料を提供できていた場合、このフェイズが実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This strategy requires you to obtain Gold and Silver, and to maintain a good position on the Silver and Gold tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101607Z" creationid="aorin" creationdate="20171212T101607Z">
@@ -5267,6 +5283,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T124929Z" creationid="aorin" creationdate="20171212T124929Z">
         <seg>•提供されたシルバーとゴールドは共通サプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Skip the entire Reward phase (IV) and move straight to the Penalty phase (V).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125731Z" creationid="aorin" creationdate="20171212T125523Z">
+        <seg>•報酬フェイズ（Ⅳ）全体をスキップし、直接ペナルティフェイズ（Ⅴ）に移動します。</seg>
       </tuv>
     </tu>
     <tu>
