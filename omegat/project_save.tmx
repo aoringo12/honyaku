@@ -1725,6 +1725,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However the Queen will punish you severely for your lack of trying; you receive 5 Penalty Points and you’re not permitted any more actions during this action phase!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T110330Z" creationid="aorin" creationdate="20171212T110330Z">
+        <seg>しかし、クイーンはあなたの努力が欠如しているとして、厳しく罰するでしょう。あなたはペナルティポイント5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if two or more exact Blends are created
 simultaneously, the Blend with the team member who has
 the highest turn order is placed higher on the List.</seg>
