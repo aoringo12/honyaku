@@ -833,6 +833,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players that offered Silver advance just 1 step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130416Z" creationid="aorin" creationdate="20171212T130416Z">
+        <seg>シルバーを提供したプレイヤー全員が1ステップのみ進行することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All players that offered Silver advance their disc 1 step on the Silver track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130005Z" creationid="aorin" creationdate="20171212T125954Z">
@@ -2167,6 +2175,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
         <seg>その後に続く全てのターンにて、ネガティブアクションらは実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of a tie, the additional step is not distributed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130401Z" creationid="aorin" creationdate="20171212T130401Z">
+        <seg>タイの場合、追加のステップ進行はありません。</seg>
       </tuv>
     </tu>
     <tu>
