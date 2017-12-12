@@ -774,6 +774,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All double action spaces with at least 1 Action Disc on it are considered to be occupied actions which can’t be chosen anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104500Z" creationid="aorin" creationdate="20171212T104500Z">
+        <seg>少なくとも1つのアクションディスクをもつダブルアクションスペースは、選択できない、占領されたアクションとしてみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All inferior Blends are moved to the left on the List and the
 new Blend is inserted to the right of any Blend it outranks.</seg>
       </tuv>
@@ -1759,6 +1767,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Pixie and Action Disc are next to each other, it sometimes occurs during the action phase that the Pixie leaves this spot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104333Z" creationid="aorin" creationdate="20171212T104333Z">
+        <seg>妖精とアクションディスクが互いに隣り合って配置されている場合、まれにアクションフェイズ中に妖精がこの場所を離れる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a new Blend is exactly the same as a Blend already
 on the List, the old Blend is considered inferior.</seg>
       </tuv>
@@ -2440,8 +2456,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Or 2 discs on a double action space that does not contain a Pixie.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T104055Z" creationid="aorin" creationdate="20171212T104055Z">
-        <seg>または、妖精のいない、ダブルアクションスペースに2つのディスクを配置する。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104144Z" creationid="aorin" creationdate="20171212T104055Z">
+        <seg>または、妖精のいない、ダブルアクションスペースにディスク2つを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3329,6 +3345,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Pixie helps you to perform the action regardless of its colour.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104219Z" creationid="aorin" creationdate="20171212T104219Z">
+        <seg>妖精はその色にかかわらず、アクションを実行するのにあなたを助けてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Pixies roam the village of Truro stealing Apples, Bread and Honey.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094524Z" creationid="aorin" creationdate="20171212T094458Z">
@@ -3996,6 +4020,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
         <seg>このウッドランド同盟では、隠れ家を建築して、猫達によるルールを打ち破るために作戦を実行して彼らの影響力を強くしようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This doesn’t mean that this action becomes available again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
+        <seg>これは、このアクションが再び利用可能になることを意味するものではありません。</seg>
       </tuv>
     </tu>
     <tu>
