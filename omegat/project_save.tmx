@@ -1906,8 +1906,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>LOCATIONS CONTINUED</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>プレイヤーはミントサプライから●●を得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032648Z" creationid="aorin" creationdate="20171212T032648Z">
+        <seg>ロケーション続き</seg>
       </tuv>
     </tu>
     <tu>
@@ -2332,8 +2332,8 @@ Plan Supply.</seg>
       <tuv lang="EN-US">
         <seg>Placing here allows the player to take any one Building or Plan from their Neighborhood and place it into the Plan Supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>プレイヤーは別の場所の能力を、そのロケーションに配置したかのように使用できます。配置するのに必要な●の数は、模範するロケーションのコストに＋1した数になります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032723Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーは自身の近所から建物[または]プラン1枚を取り、プランサプライにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,14 +2602,6 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>SWAP MEET</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112619Z" creationid="nakahodo" creationdate="20171211T112619Z">
-        <seg>WHOLESALER</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Separate the 90
 coffee beans by color and place them in piles as noted
 on the bottom of the World Map, arranged by Color
@@ -2711,14 +2703,6 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>TEMP AGENCY</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T112207Z" creationid="nakahodo" creationdate="20171211T112207Z">
-        <seg>TEMP AGENCY</seg>
       </tuv>
     </tu>
     <tu>
@@ -2951,6 +2935,14 @@ determined by the desired Plan’s Cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of placed is determined by the desired Plan’s Cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032640Z" creationid="aorin" creationdate="20171212T032640Z">
+        <seg>配置する必要がある○の数は、プランのコストによって決定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The only restriction is that all players must contribute at
 least one bean.</seg>
       </tuv>
@@ -3012,8 +3004,8 @@ their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>The player gains a Plan from the Plan Supply into their Neighborhood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T032605Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>プレイヤーはプランサプライからプラン1枚を得て、自身の近所に配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032802Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーはプランサプライからプラン1枚を得て、自身の近所にプラントして配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,8 +3082,8 @@ though they had placed on that Location.</seg>
       <tuv lang="EN-US">
         <seg>The player may utilize another Location’s ability as though they had placed on that Location.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>ロケーションの続き</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032911Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーは別のロケーションの能力を、そのロケーションに配置したかのように使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3260,6 +3252,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T112616Z" creationid="nakahodo" creationdate="20171211T112606Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then they gain one Plan from the Supply and place it into their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032807Z" creationid="aorin" creationdate="20171212T032757Z">
+        <seg>その後、プランサプライからプラン1枚を取り、自身の近所にこれをプランとして配置します。</seg>
       </tuv>
     </tu>
     <tu>
