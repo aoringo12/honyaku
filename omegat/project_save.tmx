@@ -2193,6 +2193,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to promote your Pixie to a space that is already occupied by another Pixie, you need to pay an Apple to the general supply in order to first demote that Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164110Z" creationid="aorin" creationdate="20171212T164110Z">
+        <seg>そのスペースにあなたの妖精を昇格させたいが、別の妖精に占領されている場合、あなたは妖精を降格させるために、共通サプライへとリンゴを支払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104712Z" creationid="aorin" creationdate="20171212T104712Z">
@@ -4420,6 +4428,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033133Z" creationid="aorin" creationdate="20171212T025229Z">
         <seg>このロケーションは次の例外を除いて、Producerと同じように機能します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Pixie is no longer available to that player for the rest of the game, as it is now working directly for the Queen in her palace …</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T164004Z" creationid="aorin" creationdate="20171212T164004Z">
+        <seg>この妖精はゲームの残りで、もはやそのプレイヤーには利用できず、その宮殿でクイーンのために働きます・・・。</seg>
       </tuv>
     </tu>
     <tu>
