@@ -684,6 +684,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action Discs, however, must be kept in front of your screen so everyone can see which player(s) can still perform an action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103417Z" creationid="aorin" creationdate="20171212T103417Z">
+        <seg>しかし、アクションディスクはスクリーンの前で保持し、どれだけアクションがまだ実行できるかをプレイヤーたちに見えるようにしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093920Z" creationid="aorin" creationdate="20171212T093920Z">
@@ -754,6 +762,14 @@ are returned to players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030917Z" creationid="aorin" creationdate="20171212T030917Z">
         <seg>全てのプランをシャッフルしてスタックし、ロケーションの近くにプランデッキとして裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All actions are explained starting on page 8 of this rulebook.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103243Z" creationid="aorin" creationdate="20171212T103243Z">
+        <seg>全てのアクションはこのルールブックの8ページから説明されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1402,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034340Z" creationid="aorin" creationdate="20171212T034340Z">
         <seg>アップキープフェイズ時、ミントサプライから○を取り、Galleryにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the action phase, players take turns choosing an action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103432Z" creationid="aorin" creationdate="20171212T103432Z">
+        <seg>アクションフェイズ時、プレイヤーたちはターンで行うアクション1つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2882,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resources are always kept behind the player screens, hidden from the other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103321Z" creationid="aorin" creationdate="20171212T103321Z">
+        <seg>リソースは常にプレイヤースクリーンの後ろに隠して保持され、他プレイヤーから見えないようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return all on Locations to the Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
@@ -3261,6 +3293,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094524Z" creationid="aorin" creationdate="20171212T094458Z">
         <seg>妖精はTruroの村を動き回り、りんごやパン、はちみつを盗んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen’s Favorite chooses first, followed by the second player on the turn order track (large cubes) and so on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103526Z" creationid="aorin" creationdate="20171212T103526Z">
+        <seg>クイーンにファボられているプレイヤーから始まり、ターン順番トラック（大きなキューブ）に従って選択していきます。</seg>
       </tuv>
     </tu>
     <tu>
