@@ -3933,6 +3933,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This strategy requires you to obtain Gold and Silver, and to maintain a good position on the Silver and Gold tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101607Z" creationid="aorin" creationdate="20171212T101607Z">
+        <seg>この戦略はゴールドとシルバーを獲得し、シルバーとゴールドトラックの良い位置を維持し続ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This symbol shows that the
 players should not place a bean
 in the Country Crop space,
@@ -4011,6 +4019,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064339Z" creationid="nakahodo" creationdate="20171209T064321Z">
         <seg>この本を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Golden Ring Action, you can forge a Golden Ring with the Gold you obtained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101724Z" creationid="aorin" creationdate="20171212T101724Z">
+        <seg>ゴールデンリングアクションを使用すると、獲得したゴールドでゴールデンリングを鍛造することができます。</seg>
       </tuv>
     </tu>
     <tu>
