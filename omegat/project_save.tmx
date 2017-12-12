@@ -2831,6 +2831,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players take back all of their Action Discs before continuing with the Offering phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T111025Z" creationid="aorin" creationdate="20171212T111025Z">
+        <seg>プレイヤーたちは提供フェイズ移行する前に、自身のアクションディスク全てを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players take the role of neighborhood planners working to develop the finest neighborhood in the city of Mintopia.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025555Z" creationid="aorin" creationdate="20171212T025555Z">
@@ -3312,6 +3320,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031802Z" creationid="aorin" creationdate="20171212T031802Z">
         <seg>AIは自身の仕入れ優先度に従いプランを購入しようとし、まず利用可能なプランのコストをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Action phase ends when all the Action Discs of all players are on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T110834Z" creationid="aorin" creationdate="20171212T110834Z">
+        <seg>プレイヤー全員のアクションディスク全てがボード上に配置されると、アクションフェイズが終了します。</seg>
       </tuv>
     </tu>
     <tu>
