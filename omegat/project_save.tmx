@@ -1382,6 +1382,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Pixie receives Food (obligatory!) according to the food icons depicted on the board at the Pixie’s position.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094653Z" creationid="aorin" creationdate="20171212T094653Z">
+        <seg>各妖精は、ボード上の妖精の位置に描かれた食料アイコンに従って、食料を受け取ります（必須です！）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Starter Slate
 has a column of 5
 beans of specific
@@ -1643,6 +1651,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095713Z" creationid="nakahodo" creationdate="20171002T095713Z">
         <seg>ただし、2つ以上の完全に同じブレンドが同時に作成された場合は、チームメンバーのターン順番で最も高いプレイヤーがリストの上位に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the large cubes will now be arranged to match the order of the small cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
+        <seg>その一方で、大きなキューブは小さなキューブの順番に合わせて変更されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3085,6 +3101,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031015Z" creationid="aorin" creationdate="20171212T031015Z">
         <seg>ミントトークン全てをプランサプライ近くに配置してミントサプライを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Pixies roam the village of Truro stealing Apples, Bread and Honey.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094524Z" creationid="aorin" creationdate="20171212T094458Z">
+        <seg>妖精はTruroの村を動き回り、りんごやパン、はちみつを盗んでいます。</seg>
       </tuv>
     </tu>
     <tu>
