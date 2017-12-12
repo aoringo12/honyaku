@@ -250,6 +250,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--All offers, except for the wrong kind of Food, are eagerly accepted by the Queen and are returned to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123804Z" creationid="aorin" creationdate="20171212T123804Z">
+        <seg>•間違った種類の食料を除いて、全ての提供はクイーンに熱烈に歓迎され、共通サプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Flame Wall affects players only when the enter the space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134017Z" creationid="nakahodo" creationdate="20171127T134017Z">
@@ -270,6 +278,14 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134634Z" creationid="nakahodo" creationdate="20171127T134634Z">
         <seg>――炎の壁がエントランスタイルに配置され、シーフがターン開始時に（死ぬことにより）そこで復活した場合、彼は無傷です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Offering Food the Queen does not want this turn is not allowed!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123642Z" creationid="aorin" creationdate="20171212T123526Z">
+        <seg>•クイーンがこのターンに望んでいない食べ物の提供は許されません！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1836,6 +1852,14 @@ on the List, the old Blend is considered inferior.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032058Z" creationid="aorin" creationdate="20171212T025228Z">
         <seg>このプレイヤーが既にスタートプレイヤートークンを所持している場合でも、これを保持するためにLeadership Councilを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player does offer a different kind of Food by mistake, that player immediately receives 5 Penalty Points and puts the offered Food back into their personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123630Z" creationid="aorin" creationdate="20171212T123630Z">
+        <seg>プレイヤーが誤って異なる種類の食料を提供した場合、そのプレイヤーは直ちに5ペナルティポイントを受け取り、自身の個人サプライに提供した食料を戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5089,8 +5113,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• If someone shows an empty hand (thus offering nothing to the Queen) they immediately receive 5 Penalty Points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T123411Z" creationid="aorin" creationdate="20171212T123411Z">
-        <seg>•誰かが手になにも持っていなかった場合（つまりクイーンになにも提供しなかった場合）、そのプレイヤーは直ちに5ペナルティポイントを受け取ります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123655Z" creationid="aorin" creationdate="20171212T123411Z">
+        <seg>•誰かが手になにも持っていなかった場合（つまりクイーンになにも提供しなかった場合）、そのプレイヤーたちは直ちに5ペナルティポイントを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
