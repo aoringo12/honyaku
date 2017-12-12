@@ -861,6 +861,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094038Z" creationid="aorin" creationdate="20171212T094038Z">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awakening and Surfacing</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135628Z" creationid="nakahodo" creationdate="20171127T135628Z">
