@@ -2228,6 +2228,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offering Action you can achieve Reward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101030Z" creationid="aorin" creationdate="20171212T101030Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offering phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093930Z" creationid="aorin" creationdate="20171212T093930Z">
@@ -2667,6 +2675,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025555Z" creationid="aorin" creationdate="20171212T025555Z">
         <seg>プレイヤーたちはミントピアの都市で最も優れた地域を開発するために働いている、近隣プランナーの役割を担います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Points very quickly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T101031Z" creationid="aorin" creationdate="20171212T101031Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
