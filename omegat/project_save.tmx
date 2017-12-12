@@ -2103,6 +2103,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the unlikely case that there is no possible action, or you no longer wish to perform any actions, you are allowed to pass (skip taking an action).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T110048Z" creationid="aorin" creationdate="20171212T110048Z">
+        <seg>万が一、実行可能なアクションがない場合や、もはやアクションの実行を望まない場合、あなたはパスをすることができます（アクションの実行をスキップ）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the unlikely event the Food supply is almost depleted, it’s important to perform the stealing phase using the new turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T095433Z" creationid="aorin" creationdate="20171212T095433Z">
@@ -4507,6 +4515,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094238Z" creationid="aorin" creationdate="20171212T094238Z">
         <seg>以前のラウンド時に大きなキューブを前に移動させた場合、そのプレイヤーは報酬フェイズとペナルティフェイズ時に一度限りの優位性を獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Temporary Priority action).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T105609Z" creationid="aorin" creationdate="20171212T105609Z">
+        <seg>一時的な優位性アクション）。</seg>
       </tuv>
     </tu>
     <tu>
