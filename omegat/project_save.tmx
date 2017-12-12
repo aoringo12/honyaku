@@ -2604,6 +2604,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SOLITARE-SPECIFIC RULES</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031134Z" creationid="aorin" creationdate="20171212T031134Z">
+        <seg>ソリティア-特別ルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SUPPLIER</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T111235Z" creationid="nakahodo" creationdate="20171211T111235Z">
@@ -3166,6 +3174,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The standard rules apply to the solitaire mode of Mint Works.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031235Z" creationid="aorin" creationdate="20171212T031208Z">
+        <seg>基本ルールはミントワークスのソリティアモードにも適応される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The team
 now has an Americano Blend.</seg>
       </tuv>
@@ -3259,6 +3275,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121736Z" creationid="nakahodo" creationdate="20171001T121736Z">
         <seg>各ブレンドスレートには5つの豆スペースがあり、これらが各プレイヤーのロースターからランダムに惹かれて満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are, however, a few exceptions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031219Z" creationid="aorin" creationdate="20171212T031219Z">
+        <seg>ただし、いくつかの例外があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3617,6 +3641,14 @@ of the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025939Z" creationid="aorin" creationdate="20171212T025225Z">
         <seg>プランが失われる時、プランデッキの下に裏向きで配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a Plan is taken from the Supplier and not replaced by another effect, immediately replace it with one (1) from the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031407Z" creationid="aorin" creationdate="20171212T031407Z">
+        <seg>プランがSupplierによって取られる時、別の効果によって補充されない場合、アップキープ時ではなく直ちにプランデッキから1枚を配置します。</seg>
       </tuv>
     </tu>
     <tu>
