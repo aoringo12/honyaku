@@ -1173,6 +1173,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check to see if at least 1 player offered the right type of Food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T124025Z" creationid="aorin" creationdate="20171212T124025Z">
+        <seg>少なくとも1人が適切な種類の食料を提供できたかどうかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cherilyn goes next and pulls a
 white bean - things are suddenly
 looking better!</seg>
@@ -5203,6 +5211,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093309Z" creationid="aorin" creationdate="20171212T093309Z">
         <seg>3.ターン順番トラックに小さなキューブと大きなキューブ1つずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Silver and Gold are always regarded as being useful offerings, even when a player is no longer able to move forward on the appropriate track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123933Z" creationid="aorin" creationdate="20171212T123933Z">
+        <seg>•シルバーとゴールドは、もはや該当するトラックをこれ以上進行できなかったとしても、有効な提供品としてみなされます。</seg>
       </tuv>
     </tu>
     <tu>
