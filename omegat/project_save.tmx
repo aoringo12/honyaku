@@ -833,6 +833,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players that offered Silver advance their disc 1 step on the Silver track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130005Z" creationid="aorin" creationdate="20171212T125954Z">
+        <seg>シルバーを提供した全てのプレイヤーはシルバートラックの自身のディスクを1ステップ進行させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All ties result in a Research action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113336Z" creationid="nakahodo" creationdate="20171001T113336Z">
@@ -1175,8 +1183,8 @@ in players’ Neighborhoods.</seg>
       <tuv lang="EN-US">
         <seg>Check to see if at least 1 player offered the right type of Food.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T124025Z" creationid="aorin" creationdate="20171212T124025Z">
-        <seg>少なくとも1人が適切な種類の食料を提供できたかどうかを確認します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125917Z" creationid="aorin" creationdate="20171212T124025Z">
+        <seg>少なくとも1人が適切な種類の食料（シルバーとゴールドは含まず）を提供できたかどうかを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3313,6 +3321,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Silver and Gold track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T125931Z" creationid="aorin" creationdate="20171212T125931Z">
+        <seg>シルバーとゴールドトラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So far, so good.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T091945Z" creationid="aorin" creationdate="20171116T091945Z">
@@ -3852,6 +3868,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032911Z" creationid="aorin" creationdate="20171212T025229Z">
         <seg>プレイヤーは別のロケーションの能力を、そのロケーションに配置したかのように使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player that offered the most Silver advances their disc 1 additional step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130319Z" creationid="aorin" creationdate="20171212T125955Z">
+        <seg>最もシルバーを提供したプレイヤーはさらに1ステップ、自身のディスクを進行させます。</seg>
       </tuv>
     </tu>
     <tu>
