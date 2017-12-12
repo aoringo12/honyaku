@@ -849,6 +849,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players that offered the correct type of Food to their Queen are allowed to promote Pixies on the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T133614Z" creationid="aorin" creationdate="20171212T133614Z">
+        <seg>クイーンに正しい種類の食料を提供できた全てのプレイヤーたちは、ゲームボード上で妖精を昇進させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All ties result in a Research action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113336Z" creationid="nakahodo" creationdate="20171001T113336Z">
@@ -1973,6 +1981,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If only 1 player offered Silver, they also offered the most Silver and thus advance 2 steps on the Silver track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130503Z" creationid="aorin" creationdate="20171212T130503Z">
+        <seg>プレイヤー1人のみがシルバーを提供していた場合、彼はまた最もシルバーを提供したことにもなり、したがって、シルバートラックを2ステップ進行させることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the AI is unable to use any Location, it chooses the Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
@@ -2405,6 +2421,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
         <seg>それに加えて、あなたはそこで食料にありつけたため、食料1つを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the disc(s) on the Gold track in exactly the same manner for players that offered Gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130618Z" creationid="aorin" creationdate="20171212T130618Z">
+        <seg>ゴールドを提供したプレイヤーたちも、上記と完全に同様にゴールドトラックのディスク（ら）を移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3036,6 +3060,14 @@ Roasters.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080040Z" creationid="nakahodo" creationdate="20171209T080040Z">
         <seg>
 Producer, Wholesaler, Builder, Supplier, Leadership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T130632Z" creationid="aorin" creationdate="20171212T130632Z">
+        <seg>昇進</seg>
       </tuv>
     </tu>
     <tu>
