@@ -3161,6 +3161,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Queen’s Favorite takes resources first, followed by the second in line, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T100723Z" creationid="aorin" creationdate="20171212T100723Z">
+        <seg>クイーンにファボられているプレイヤーガまずリソースを取り、ライン上の二番目以降につづいていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The World Map is split into three coffee-rich regions
 (Americas, Africa, and Asia) each with its own
 Country Crop space and action that players will
