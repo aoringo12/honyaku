@@ -1813,6 +1813,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hint:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153509Z" creationid="aorin" creationdate="20171212T153509Z">
+        <seg>ヒント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However the Queen will punish you severely for your lack of trying;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110353Z" creationid="aorin" creationdate="20171212T110353Z">
@@ -2348,6 +2356,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154950Z" creationid="nakahodo" creationdate="20171103T154950Z">
         <seg>Leder Games はあなたと、あなたの家族をルートの素晴らしい世界の探索へと招待します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level 1 has action spaces with 1 food icon, Level 2 has action spaces with 2 food icons, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153625Z" creationid="aorin" creationdate="20171212T153625Z">
+        <seg>レベル1のアクションスペースには食料アイコンが1つ、レベル2のアクションスペースには食料アイコンが2つといった具合です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4783,6 +4799,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can recognise the levels by the number of food icons depicted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153559Z" creationid="aorin" creationdate="20171212T153559Z">
+        <seg>描かれた食料アイコンの数によりレベルを認識することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can remove only a single cube from the entire Pride section per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140745Z" creationid="nakahodo" creationdate="20171127T140745Z">
@@ -4819,6 +4843,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092545Z" creationid="aorin" creationdate="20171116T092545Z">
         <seg>引き出し、白豆を取り出した！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contrary to the action phase, during the reward phase action spaces can only be occupied by Pixies, as the Action Discs were removed at the start of the Offering phase (III).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
+        <seg>アクションフェイズとは逆に、報酬フェイズ時、アクションスペースはピクシーでのみ占領でき、アクションディスクは提供フェイズ（Ⅲ）の開始時に取り除かれます。</seg>
       </tuv>
     </tu>
     <tu>
