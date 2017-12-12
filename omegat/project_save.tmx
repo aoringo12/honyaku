@@ -2017,6 +2017,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104712Z" creationid="aorin" creationdate="20171212T104712Z">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Root, the players drive the narrative, and the differences among the roles create unparalleled interaction and replayability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
@@ -2434,6 +2442,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031827Z" creationid="aorin" creationdate="20171212T031827Z">
         <seg>AIが現在購入できるプランのみを考慮します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the player playing with that specific colour is allowed to use that action space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104652Z" creationid="aorin" creationdate="20171212T104652Z">
+        <seg>指定された色のプレイヤーのみが、そのアクションスペースを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3162,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the circular action spaces are marked with pearls in a single colour and have a Pixie depicted on them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104628Z" creationid="aorin" creationdate="20171212T104628Z">
+        <seg>いくつかの円形アクションスペースは、1つの色の真珠と妖精が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Player Token</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
@@ -3392,6 +3416,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
         <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The chosen action has to be performed immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T104710Z" creationid="aorin" creationdate="20171212T104710Z">
+        <seg>選択されたアクションは直ちに実行されます。</seg>
       </tuv>
     </tu>
     <tu>
