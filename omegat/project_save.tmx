@@ -2222,14 +2222,6 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>PRODUCER</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111219Z" creationid="nakahodo" creationdate="20171211T111219Z">
-        <seg>アップキープフェイズ時、このロケーションに任意の●が配置されている場合、オーナーはミントサプライから●●を得る。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Penalty Points are negative and are immediately recorded on the score track, by moving
 the marker clockwise.</seg>
       </tuv>
@@ -2332,8 +2324,8 @@ Plan Supply.</seg>
       <tuv lang="EN-US">
         <seg>Placing here allows the player to take any one Building or Plan from their Neighborhood and place it at the bottom of the Plan Deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>プレイヤーは、自身の近所から任意のプラン[または]建物1つを取り、プランデッキの一番下にこれを配置するために使用できる。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032518Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーは自身の近所から任意の建物[または]プラン1枚を取り、プランデッキの下にこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,14 +2496,6 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>RECYCLER</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111748Z" creationid="nakahodo" creationdate="20171211T111748Z">
-        <seg>SUPPLIER</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Receive as few Penalty Points as possible from the Queen while collecting Reward Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083012Z" creationid="nakahodo" creationdate="20171211T083012Z">
@@ -2614,14 +2598,6 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031134Z" creationid="aorin" creationdate="20171212T031134Z">
         <seg>ソリティア-特別ルール</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>SUPPLIER</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111235Z" creationid="nakahodo" creationdate="20171211T111235Z">
-        <seg>RECYCLER</seg>
       </tuv>
     </tu>
     <tu>
@@ -3036,8 +3012,8 @@ their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>The player gains a Plan from the Plan Supply into their Neighborhood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>PRODUCER</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032605Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーはプランサプライからプラン1枚を得て、自身の近所に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,9 +3038,8 @@ Supply.</seg>
       <tuv lang="EN-US">
         <seg>The player gains from the Mint Supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111145Z" creationid="nakahodo" creationdate="20171211T111145Z">
-        <seg>LOTTO
-プレイヤーは自身の近所にプランデッキにある一番上のカード1枚を得る。彼がこれを建築する決定をするまで、カードを公開する必要はありません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032334Z" creationid="nakahodo" creationdate="20171211T111145Z">
+        <seg>プレイヤーはミントサプライから○○を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3352,8 +3327,8 @@ Supply.</seg>
       <tuv lang="EN-US">
         <seg>They also gain from the Mint Supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T032012Z" creationid="aorin" creationdate="20171212T032012Z">
-        <seg>彼はまたミントサプライから○もも得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032337Z" creationid="aorin" creationdate="20171212T032012Z">
+        <seg>彼はまたミントサプライから○も得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,6 +3363,14 @@ of the Plan’s printed cost and value.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T111740Z" creationid="nakahodo" creationdate="20171211T111740Z">
         <seg>彼はそのプランの●コストと★値を合計した数と同じだけ、ミントサプライから●を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They gain from the Mint Supply equal to the sum of the Plan’s printed cost and value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032531Z" creationid="aorin" creationdate="20171212T032531Z">
+        <seg>彼はそのプランの●コストと★値を合計した数と同じだけ、ミントサプライから●を得ます。</seg>
       </tuv>
     </tu>
     <tu>
