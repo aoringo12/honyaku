@@ -4127,6 +4127,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if someone moved their large cube to the front during the former round, that player received a one-time advantage during the Reward phase and Penalty phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094238Z" creationid="aorin" creationdate="20171212T094238Z">
+        <seg>以前のラウンド時に大きなキューブを前に移動させた場合、そのプレイヤーは報酬フェイズとペナルティフェイズ時に一度限りの優位性を獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030757Z" creationid="aorin" creationdate="20171212T030757Z">
