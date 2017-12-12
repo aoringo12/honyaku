@@ -4511,6 +4511,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>you may not choose an action if you’re unable to perform it (exception:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T105536Z" creationid="aorin" creationdate="20171212T105536Z">
+        <seg>あなたがそのアクションを実行dけいない場合、アクションを選択することはできません（例外：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030757Z" creationid="aorin" creationdate="20171212T030757Z">
