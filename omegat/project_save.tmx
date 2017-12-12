@@ -1318,6 +1318,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Upkeep phase, if there are any placed on this Location, the owner gains from the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032311Z" creationid="aorin" creationdate="20171212T032311Z">
+        <seg>アップキープフェイズ時、このロケーションに任意の○が配置されている場合、このロケーションの所有者はミントサプライから○を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Upkeep phase, if there are no on the Supplier before returning all to the Mint Supply, put the two (2) Plans in the Plan Supply at the bottom of the Plan Deck, and replace them with two (2) new Plans from the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031659Z" creationid="aorin" creationdate="20171212T031659Z">
@@ -1578,9 +1586,8 @@ on the List, the old Blend is considered inferior.</seg>
       <tuv lang="EN-US">
         <seg>If a player already has the Starting Player Token, they may use Leadership Council to retain it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
-        <seg>LEADERSHIP COUNCIL
-プレイヤーは、スタートプレイヤートークンを現在の保持者から得る。彼はまたミントサプライから●も得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032058Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>このプレイヤーが既にスタートプレイヤートークンを所持している場合でも、これを保持するためにLeadership Councilを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1913,14 +1920,6 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LOTTO</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T111931Z" creationid="nakahodo" creationdate="20171211T111931Z">
-        <seg>　</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Leder Games invites you and your family to explore the fantastic world of Root!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154950Z" creationid="nakahodo" creationdate="20171103T154950Z">
@@ -2045,9 +2044,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
-        <seg>CROWDFUNDER
-プレイヤーはミントサプライから●●●を得て、その後、他の各プレイヤーはミントサプライから1●を得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032015Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>注意：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3096,14 @@ their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player gains the top card from the Plan Deck into their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032148Z" creationid="aorin" creationdate="20171212T032102Z">
+        <seg>プレイヤーはプランデッキ1番上のカードを得て、自身の近所に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player may utilize another Location’s ability as
 though they had placed on that Location.</seg>
       </tuv>
@@ -3344,6 +3350,14 @@ Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They also gain from the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032012Z" creationid="aorin" creationdate="20171212T032012Z">
+        <seg>彼はまたミントサプライから○もも得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are not required to contribute more.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124224Z" creationid="nakahodo" creationdate="20171001T124224Z">
@@ -3363,8 +3377,8 @@ card until they decide to build it.</seg>
       <tuv lang="EN-US">
         <seg>They do not have to reveal this card until they decide to build it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>　</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032215Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>彼がその建築を決めるまで、このカードを公開する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
