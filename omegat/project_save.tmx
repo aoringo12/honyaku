@@ -1334,6 +1334,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Upkeep phase, if there are no on the Supplier before returning all to the Mint Supply, put the two (2) Plans in the Plan Supply at the bottom of the Plan Deck, and replace them with two (2) new Plans from the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031659Z" creationid="aorin" creationdate="20171212T031659Z">
+        <seg>アップキープフェイズ中、ミントサプライに●を全て戻す前でSupplierに●がない場合、プランサプライのプラン2枚をプランデッキの下に配置し、プランデッキから新しいプラン2枚を補充します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Starter Slate
 has a column of 5
 beans of specific
@@ -1642,6 +1650,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030428Z" creationid="aorin" creationdate="20171212T030428Z">
         <seg>プランサプライを十分に補充できない場合、ゲームは終了し得点計算を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the AI is unable to use any Location, it chooses the Pass action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
+        <seg>AIがどのロケーションも使用できない場合、パスアクションを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,6 +3754,22 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T081621Z" creationid="nakahodo" creationdate="20171001T081621Z">
         <seg>少ないフィールド研究者が貴重な豆のためにフィールドを探索すると、ビバジャワは最低限のバランスを維持するために（それがあまり良い風味ではなくても）一般的なブレンドを市場にリリースするでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When performing the Place action for the AI, place the required amount of from the AI’s Mints on the corresponding Mint Placement Space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031602Z" creationid="aorin" creationdate="20171212T031602Z">
+        <seg>AIがプレイスアクションを実行するとき、使用するミントプレイスメントスペースへと、AIのミントから必要な数●を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the AI performs the Place action, it will always place in the first available Mint Placement Space in the Location line that it can use, starting with the Producer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031509Z" creationid="aorin" creationdate="20171212T031509Z">
+        <seg>AIがプレイスアクションを実行する時、Producerから始まり、常に最初に使用できるロケーションラインのミントプレイスメントスペースへと配置されます。</seg>
       </tuv>
     </tu>
     <tu>
