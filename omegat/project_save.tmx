@@ -659,6 +659,14 @@ Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player performs all of their promotion steps before it’s the next player’s turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153300Z" creationid="aorin" creationdate="20171212T153258Z">
+        <seg>次のプレイヤーターンになる前に、自身の昇進ステップを全て実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player’s Neighborhood is the area in front of that
 player.</seg>
       </tuv>
@@ -3072,6 +3080,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promotion is always performed towards a free action space of the next level on the game board, by putting the Pixie on the action space depicting a hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153506Z" creationid="aorin" creationdate="20171212T153506Z">
+        <seg>昇進は手が印刷されたアクションスペースに妖精を配置することにより、ゲームボード上の次のレベルの空いたアクションスペースへと向かって常に実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provides for each Building in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034709Z" creationid="aorin" creationdate="20171212T034709Z">
@@ -3980,6 +3996,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073704Z" creationid="nakahodo" creationdate="20171209T073704Z">
         <seg>プレイヤーのターンを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The promotion is performed according to the current player turn order (large cubes).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153225Z" creationid="aorin" creationdate="20171212T153225Z">
+        <seg>昇進は現在のプレイヤーターン順番（大きなキューブ）に従って実行されます。</seg>
       </tuv>
     </tu>
     <tu>
