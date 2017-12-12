@@ -1,9 +1,11 @@
-ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
-基本
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 1
+GENERAL
 何が「攻撃」かそうではないか？
 これらが攻撃だと考えられます：
-- ナイトが同じタイルにいる対戦相手プレイヤー（またはクリスタル）とエンカウントする。
-- ゴブリンが攻撃アクションを使用する。これはハイディングスポットシークレットカードを使用する時も含まれる。
+• The Knight Encountering an opposing player (or Crystal)
+in the same tile.
+- ゴブリンが攻撃アクションを使用する。This includes when
+using the Hiding Spots secrets card.
 - ゴブリンのアンブッシュによる攻撃も含まれる。
 - ドラゴンがクロウかスクラッチを使用する。
 • The Thief using Pickpocket or Backstab (including with
@@ -40,7 +42,7 @@ referring to "attacks" require the Knight to attack
 (Encounter) another player during her own turn. Ambushes
 and using the Bow specifically do not count, unless the
 individual quest specifically says otherwise.
-INITIAL SETUP: Do the first 4 Dark tiles around the
+INITIAL SETUP:Do the first 4 Dark tiles around the
 Entrance need to show at least one of each Goblin Tribe
 symbol?
 The four tiles set adjacent to the Entrance tile during setup
@@ -50,7 +52,7 @@ may be visible. This is okay. While the lack of one or more
 symbols may have a minor effect on the Goblin player’s very
 first turn, it will not affect the overall outcome of the game
 in any meaningful way.
-FORCED MOVEMENT: Do characters take negative effects
+FORCED MOVEMENT:Do characters take negative effects
 from being forced to move into a dangerous tile?
 Effects caused by entering tiles, such as a Terrain tile or a
 space with a Flame Wall, still apply normally when moved by
@@ -59,7 +61,7 @@ However, Goblins do not lose population by leaving tiles
 (such as Lit tiles or Magma).
 And, if the Knight enters a space with an Event token, she
 must stop.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 2
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 2
 KNIGHT
 Is the Knight required to do anything when she enters a
 new tile?
@@ -85,7 +87,7 @@ The Grit is gained only after resolving the icon on the tile
 (Event, Ambush, etc), but before resolving any interaction
 with another character or token on the tile.
 What happens if a Knight gets more than 45 Grit, and then
-is forced to lose Grit? Do you keep tracking Grit over 45?
+is forced to lose Grit?Do you keep tracking Grit over 45?
 Grit is capped at 45, so if the Knight loses Grit while maxed
 out she subtracts from 45. All other players have hard caps
 to their skills, and no way to prevent harm from other
@@ -104,10 +106,10 @@ can add up over time, so as long as you're past that
 threshold, you can choose to reveal them at any time during
 your turn, even if you just drew the card after revealing a
 different Sidequest.
-CAVE BREAD: Earlier in the game, Cave Bread (Event) gave
+CAVE BREAD:Earlier in the game, Cave Bread (Event) gave
 the Knight the 35 level Grit cube. If the Knight currently
 has 33 Grit, then loses 2 Grit, does she give back the 35
-level Grit cube? Or does she only give it back if she went
+level Grit cube?Or does she only give it back if she went
 past 35 and then went back down?
 Under normal circumstances you gain the yellow cube as
 soon as the red tracking cube hits the white space. So, after
@@ -115,13 +117,13 @@ having Cave Bread, only if you move up to the empty 35 then
 fall back to a lower number must you return a cube.
 * SEE REVISED CAVE BREAD CARD FOR ALTERNATE RULES.
 SIDEQUESTS
-EAGLE-EYED: Can the Knight shoot with a Strength of 1
+EAGLE-EYED:Can the Knight shoot with a Strength of 1
 (dealing no damage) and satisfy this Sidequest?
 No, it has to produce a result of some sort. It's one of the
 easier quests to complete, but the Knight still needs to do
 more than just put a cube on the Bow space to qualify for it.
-PERSISTENT: Do Crystals smashed by Goblins or Dragon
-count? Is this the reason why Goblins should hand their
+PERSISTENT:Do Crystals smashed by Goblins or Dragon
+count?Is this the reason why Goblins should hand their
 Crystals to the Knight?
 All Crystals that are smashed count toward Persistent,
 regardless of who does it. If other players don't (or forget to)
@@ -137,7 +139,7 @@ before or after resolving the Ambush?
 The Ambush should be resolved completely before gaining
 the Grit.
 Does the Knight only resolve Ambush icons when she
-herself reveals the tile? When the Dragon or other player
+herself reveals the tile?When the Dragon or other player
 flips it, is it now considered an empty space?
 Yes. Goblins Ambush only when the Knight flips the Dark tile.
 If the Dragon or the Thief reveals the tile, the Goblins run
@@ -149,7 +151,7 @@ Knight entering a Dark tile with the symbol (or when she
 draws an Ambush Event card). They are ignored when
 revealed by Flare, Flame or any other effects that reveal
 tiles, and when passed through later.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 3
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 3
 ANCIENT MAP
 If the Knight uses the Ancient Map to move through a wall
 to a Dark tile, can she orient the newly revealed tile so that
@@ -159,7 +161,7 @@ Yes, when using the Ancient Map, the path is already closed
 off and placing a new wall back-to-back with the previous
 one doesn't change that.
 Can the Knight use the Ancient Map to move through a wall
-that leads into empty space? Does this force the Cave to
+that leads into empty space?Does this force the Cave to
 play a tile there for the Knight to go on?
 No, there must already be a tile in the destination space for
 her to enter.
@@ -197,7 +199,7 @@ Treasures are resolved individually, one at a time, so you
 have to decide whether to keep the first before seeing the
 second. (The Cave draws two and chooses one to give, then
 draws two more and choose one to give, etc.)
-ENCHANTED BOW: Does this weapon inflict damage when
+ENCHANTED BOW:Does this weapon inflict damage when
 hitting the Dragon or does the effect replace the usual
 effect of an attack?
 The Enchanted Bow only causes the Dragon to discard cards,
@@ -205,34 +207,34 @@ but does not cause it to lose Health. It kills the Thief because
 he has nothing else to lose.
 Note that the Knight cannot attack the Dragon or the Thief
 with the standard Bow.
-MIGHTY AXE: Can the Hero cube be discarded to remove
+MIGHTY AXE:Can the Hero cube be discarded to remove
 health if the initial attack did no damage?
 No, the initial attack must hit in order to use the secondary
 effect for additional damage.
-MIGHTY AXE: If the Knight has unspent Hero cubes, can
+MIGHTY AXE:If the Knight has unspent Hero cubes, can
 she use the Mighty Axe more than once in a single turn?
 If sufficient Hero cubes remain after discarding a cube, the
 Knight can place another cube on this Treasure, use another
 Encounter to make a second attack, and then discard that
 cube to cause additional damage a second time.
-JAVELIN / MIGHTY AXE: Can the Javelin be combined with
+JAVELIN / MIGHTY AXE:Can the Javelin be combined with
 the Mighty Axe?
 It is weird, but yes they can be combined. Think of the
 encounters more as several minutes of stalking and then a
 pitched battle more than just one moment of combat. All of
 the activated Treasures represent an advantage during that
 pitched battle.
-SILVER GAUNTLET: Does using the Silver Gauntlet’s special
+SILVER GAUNTLET:Does using the Silver Gauntlet’s special
 effect replace doing normal damage in the attack?
 The secondary effect that causes the target to lose cards or
 the Knight to gain Grit applies in addition to the normal
 damage caused by the attack, not instead of it.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017)
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017)
 4
 INTERACTING WITH THE GOBLINS
-POISON SECRET: Does it cost the Knight an Encounter to
-recover cubes? Does she stop moving to recover the cubes?
-Can she use the cubes that same turn? (I ask because my
+POISON SECRET:Does it cost the Knight an Encounter to
+recover cubes?Does she stop moving to recover the cubes?
+Can she use the cubes that same turn?(I ask because my
 poison did not slow her down at all.)
 No. She just has to move back there.
 INTERACTING WITH THE DRAGON
@@ -256,18 +258,18 @@ costs 1 encounter)
 INTERACTING WITH THE THIEF
 When the Knight attacks the Thief and he drops his
 Treasures/Dragon Gems, can the Knight automatically pick
-all of them up on the same Encounter? Or would she need
+all of them up on the same Encounter?Or would she need
 to spend an additional Encounter?
 Yes, it is intended that the Knight can loot things after
 attacks are resolved. After killing the Thief, she can loot the
 Thief.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 5
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 5
 GOBLINS
 WAR CARD
 If my Goblin stacks are 3/3/4 and I draw a card that shows
 1/1/2, I would not have enough pieces of wood to
 physically add more population to the last stack. Do I still
-overpopulate? Or else what is the intended reasoning for
+overpopulate?Or else what is the intended reasoning for
 having only 12 Goblin tokens?
 In your example, the first two Tribes would be fine but the
 third would hit 4 and then overpopulate, requiring one of the
@@ -279,7 +281,7 @@ immediately reduce that Tribe to four. Effectively, you only
 place the first four and then determine if overpopulation
 occurs or not.
 Can I add some Goblin discs to a Tribe and then spend 1
-Rage to stop adding more? For example, suppose Fangs are
+Rage to stop adding more?For example, suppose Fangs are
 currently at 3 Population, War card says to add 2 to Fangs.
 Can I add 1 Population to Fangs and then spend 1 Rage to
 not add more discs and thus not overpopulate?
@@ -303,29 +305,29 @@ add OR REPLACE any of them with new ones until the Tribe's
 Strength is once again equal to or greater than your number
 of Monsters.
 MONSTERS
-WISP: When is the Knight visible to the Goblin? Visibility
+WISP:When is the Knight visible to the Goblin?Visibility
 for the Knight and the Bow say that she can't see through
 Dark tiles, does this apply the other way around as well?
 Visibility works the same for the Wisp as it does for the Bow.
 It needs a straight (orthogonal) line, with no walls or Dark
 tiles in between. Player pieces do not block line of sight.
-WISP: Can the Wisp move the Knight 3 spaces only in a
+WISP:Can the Wisp move the Knight 3 spaces only in a
 straight line or can the Knight be moved two spaces in one
 direction then 1 space in another?
 Direction changes are allowed.
-WISP: Can Goblins use the Wisp any time during a move?
+WISP:Can Goblins use the Wisp any time during a move?
 i.e. Move some spaces to get into line of sight, slide the
 Knight, then move into the Knight's space and attack?
 Yes, it can be used in the middle of a move. It's a good way
 to reduce the number of Lit tiles between the Tribe and the
 Knight.
 SECRETS
-HIDING SPOTS: What happens if there is a wall between
+HIDING SPOTS:What happens if there is a wall between
 the Knight and the Ambush tile?
 Hiding Spots was intended to be used from an adjacent
 visible tile without an intervening wall. But you can play it as
 written and allow attacks through walls.
-CAVE-IN: When the Goblins collapse tiles, are they subject
+CAVE-IN:When the Goblins collapse tiles, are they subject
 to the same rule as the Cave (starting with tiles only
 touching another one) or can they pick any tile?
 When the Goblins use their Cave-In (Secrets) ability, they can
@@ -334,7 +336,7 @@ the card.
 In variants without a Cave player, all tiles Collapsed at the
 end of any player's turn follow the standard removal
 restrictions/requirements.
-TRAP: Trap says +1 Strength +1 Perception and implies the
+TRAP:Trap says +1 Strength +1 Perception and implies the
 ability to ignore a Dragon attack. To my understanding
 none of the Dragon attacks care at all about Strength or
 Perception of Goblin Tribes. What does this card do?
@@ -343,8 +345,8 @@ defend against the Knight and Thief. If the Knight or Thief
 successfully strike, the card is discarded.
 In addition, if a Dragon attack hits a Goblin Tribe, the card
 may be discarded to ignore the attack.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 6
-TRAP: Say the Knight's Strength is 4, the Goblin Tribe is 3,
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 6
+TRAP:Say the Knight's Strength is 4, the Goblin Tribe is 3,
 Knight moves onto tile to attack Goblin, Goblin discards
 Trap card. Does this mean that the attack fails since the
 Goblin's Strength is now equal to the Knight's Strength?
@@ -361,7 +363,7 @@ Goblins Strength 4, so the Knight cannot enter their space
 and no Rage is gained. The Knight would need to be
 Strength 5 to attack, and when she does, the Trap is then
 discarded and the Goblins gain 1 Rage.
-TRAP: Are you forced to discard a played Trap Secret when
+TRAP:Are you forced to discard a played Trap Secret when
 attacked by the Dragon, or can you choose to take the hit
 and keep the card?
 Discarding it to avoid an attack from the Dragon is optional.
@@ -416,28 +418,28 @@ Do the Goblins still gain Rage if the Dragon misses with
 Claw, of if they use Trap to avoid being hit?
 No, if the attack misses or fails, they don't scatter and don't
 gain Rage. However, if 2 Tribes are hit, they do gain 2 Rage.
-ASH DRAGON VARIANT: Can the Goblins attack the Dragon
-while it is not surfaced? Because the Knight requires bombs
+ASH DRAGON VARIANT:Can the Goblins attack the Dragon
+while it is not surfaced?Because the Knight requires bombs
 to do so.
 Yes, Goblins can attack at any time. That's why the Ash
 Dragon card is used – the armor boost offsets the extra cube
 that the Knight would have needed for a bomb.
-ASH DRAGON VARIANT: Because the Goblins are attacking
+ASH DRAGON VARIANT:Because the Goblins are attacking
 the Dragon for victory, can they Ambush the Dragon
 (Ambush tiles/Events, Hiding Spaces Secret card)?
 The Dragon doesn't interact with Ambushes in any way, so
 the tiles and the Hiding Spaces card have no effect. The
 Goblins have to take on the Dragon directly.
-ASH DRAGON VARIANT: Goblins do not have to attack
+ASH DRAGON VARIANT:Goblins do not have to attack
 when entering a tile with the Dragon. But, do Goblins have
 to attack if the Dragon enters their tile, or is it just an
-option? Since Tribes lose Rage and scatter immediately on
+option?Since Tribes lose Rage and scatter immediately on
 attacking, I could see a Goblin player wanting to wait until
 their turn to attack to keep Rage up and allow them to
 draw additional cards.
 Once the Dragon has surfaced, the attack is automatic.
-ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
-基本
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 7
+DRAGON
 If the Dragon is still underground, can other players move
 into/through the tile, ignoring the Dragon since he is
 technically below the floor?
@@ -449,30 +451,30 @@ Goblins must be stronger to pass through whether he’s
 underground or surfaced.
 The Thief can pass through freely whenever he wants.
 DRAGON CUBES
-PRIDE: The Dragon can only remove a Pride cube for “place
+PRIDE:The Dragon can only remove a Pride cube for “place
 a Dragon Gem” or “don’t move” once per game unless he
-chooses to use the Slither ability, correct? Can he move a
+chooses to use the Slither ability, correct?Can he move a
 cube from Pride (Events) to Pride (“don't move”)?
 Yes and yes. This was as intended. The two 1-cube Prides are
 a little bit easier so making them have a cost (cards) prices
 them correctly.
-GREED: If there is only 1 Greed cube remaining and the
+GREED:If there is only 1 Greed cube remaining and the
 Dragon picks up more than 1 Treasure token, are the others
-saved or immediately returned to the Cave? Can you save
+saved or immediately returned to the Cave?Can you save
 Treasures on board for cubes later moved by Slither?
 The Dragon can save as many Treasures as he has cubes
 remaining on the Greed track. Any excess Treasures should
 be returned to the Cave, unless he uses Slither immediately
 to add cubes to the Greed track to allow more.
-GREED: If the Dragon saves Treasures, when are they used?
+GREED:If the Dragon saves Treasures, when are they used?
 If the Dragon has one saved and picks up a Treasure the
-next turn, does he keep the saved Treasure? If that finishes
+next turn, does he keep the saved Treasure?If that finishes
 the Greed track, is the saved cube returned as well?
 When the Dragon saves a Treasure, he has to use it on his
 next turn. Any additional ones picked up in the meantime get
 saved and used on subsequent turns, until the Greed track is
 out of cubes.
-WAKEFULNESS: When the Dragon surfaces, are all the
+WAKEFULNESS:When the Dragon surfaces, are all the
 cubes from the Wakefulness track discarded?
 No, the Cubes stay there. Also, there is nothing preventing
 the Dragon from earning more.
@@ -495,7 +497,7 @@ another power, the 2nd space is lost.
 The Dragon turns says do these actions in this order:
 Move + Powers, Pickup Treasure, Place Gems, Refill Hand.
 Does this mean he can only pick up Treasure after he’s
-done moving and using powers? Can he use Wing and fly
+done moving and using powers?Can he use Wing and fly
 through a Treasure to pick it up on his way?
 Those parts of the Dragon's turn are discrete. The Dragon
 will need to stay on the Treasure or Swat them into a pile
@@ -504,12 +506,12 @@ otherwise. Pulling off 2 or more Treasures in one grab is a
 huge coup. I think I've only seen 3 Treasures picked up a
 handful of times.
 REVEALING TILES
-SCORCH: Does Scorch reveal the tile the Dragon is standing
+SCORCH:Does Scorch reveal the tile the Dragon is standing
 on, or only the ones surrounding it?
 Surrounding is the 8 spaces around the current tile. Scorch
 has no impact on his current tile. In a previous version, it
 used to hit all 9 tiles but it was a bit overpowered.
-SCORCH: The Dragon is on a tile that is not completely
+SCORCH:The Dragon is on a tile that is not completely
 surrounded and uses Scorch. Does he draw tiles to fill in all
 around him and then reveal them?
 Only the Dark tiles that were on the map when the Dragon
@@ -522,7 +524,7 @@ oriented to make a path back to the entrance, can it be
 placed any which way?
 If a tile cannot be connected to the entrance, the player that
 revealed it may turn it to any orientation they wish.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 8
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 8
 COLLAPSING TILES (WRATH)
 When the Dragon collapses tiles, is he subject to the same
 rule as the Cave (starting with tiles only touching another
@@ -532,14 +534,14 @@ In variants without a Cave player, all tiles Collapsed at the
 end of any player's turn follow the standard removal
 restrictions/requirements.
 If the dice roll for Wrath results such that a player has no
-legal way off the tile, what happens? Do all tiles except the
-"illegal" one collapse? Do you reroll? Or can you not use
+legal way off the tile, what happens?Do all tiles except the
+"illegal" one collapse?Do you reroll?Or can you not use
 Wrath if this is even a possibility?
 If there's no way for the player to move without prompting
 an attack or going into some other illegal space, the tile
 they're on is ignored and remains in place, but any other tiles
 hit by Wrath still get removed normally.
-Does the order of tile removal matter? i.e. Maybe the
+Does the order of tile removal matter?i.e. Maybe the
 Knight's space is bordered by walls on two sides, and
 maybe one open side faces the Dragon (so illegal) and the
 other open path is also destined to collapse (but has access
@@ -552,14 +554,14 @@ Needing to move through more than one tile is very rare, but
 in this example, the Knight would need to move through
 valid, adjacent tiles to the nearest one that isn't about to be
 removed.
-Does the Dragon choose where players move to? Other tile
+Does the Dragon choose where players move to?Other tile
 removal options seem to imply that the moving players get
 to choose.
 When there is more than one tile available to move into, the
 player being forced to move gets to choose.
 What happens if the Dragon’s Wrath affects the tile the
 Dragon is on, and he has already used up him movement
-for that turn? Does he not move, not remove the tile, and
+for that turn?Does he not move, not remove the tile, and
 reconnect his disconnected tile to the rest of the map?
 Normal Forced Movement rules apply, so the Dragon moves
 the fewest number of spaces to reach a legal space. It's free
@@ -574,7 +576,7 @@ When Swatting a Gem or Treasure token, can the Dragon
 Swat them into and through Dark tiles?
 The Dragon may swat Treasures and Gems through Dark
 tiles. They cannot pass through walls.
-PAST PLUNDER VARIANT: The Dragon has to place a Dark
+PAST PLUNDER VARIANT:The Dragon has to place a Dark
 tile and a Treasure at the end of his turn. Can he place the
 Dark tile first, THEN put the Treasure on it?
 Yes, the Dark tile should be placed first, then the Treasure
@@ -588,7 +590,7 @@ them?
 Yes. The tile must be adjacent, but it doesn't specify that it
 has to be visible.
 Can the Dragon Slap the Knight through walls or Dark tiles?
-Does it have to be a straight line? Our Dragon player
+Does it have to be a straight line?Our Dragon player
 slapped the Knight around corners like a pinball.
 The Knight cannot be moved through walls or into Dark tiles.
 The Knight can be slapped around corners. We assume with
@@ -601,7 +603,7 @@ The other player does get a free attack in that situation, if
 they're able. The Dragon is essentially making a vertical
 move into that "upper" Cave space instead of the usual
 horizontal.
-Note for the Dragon player: find a better place to surface.
+Note for the Dragon player:find a better place to surface.
 While surfaced, does the Dragon win immediately when he
 enters the Entrance tile if the Knight is already on that tile?
 If the Knight has enough Strength to hit the Dragon, she gets
@@ -610,7 +612,7 @@ less than the Dragon's Armor, she can't attack.
 It's just a single attack, not an Encounter or a full turn. So if
 that single attack doesn't kill the Dragon, he immediately
 escapes after the attack is resolved, and wins the game.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017)
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017)
 9
 INTERACTING WITH THE GOBLINS
 How does the Dragon eat Goblins when there is no Goblin
@@ -622,7 +624,7 @@ already, and doesn’t need the other 2 cubes to awaken.
 Also, the Dragon may still use his Slither power to move
 those other 2 Hunger cubes to another sloth track.
 INTERACTING WITH THE CAVE
-SOPORIFIC SPORES: If Soporific Spores cause the Dragon to
+SOPORIFIC SPORES:If Soporific Spores cause the Dragon to
 lose a level of Spirit, does the Dragon have to discard cards
 to meet the new hand size?
 No, Spirit only determines the number of cards drawn at the
@@ -639,17 +641,17 @@ entrance, does it kill him?
 No, Flame wall only does damage when a player MOVES
 INTO it. If the Thief start his turn in the space with a Flame
 wall, even as a respawn, it doesn't hurt him.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 10
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 10
 CAVE
 OMENS
 Can the Cave continue to use Omens after "Placing
 Treasure" (e.g. to move it into a location you couldn't
-normally put it or Collapse the tile)? Or does placing the
+normally put it or Collapse the tile)?Or does placing the
 Treasure effectively end the turn?
 Yes, you can keep going.
 TREASURE TOKENS
-Are the Treasure tokens finite? When the Knight finds
-Treasure do they hold on to the token? When the Dragon
+Are the Treasure tokens finite?When the Knight finds
+Treasure do they hold on to the token?When the Dragon
 finds Treasure it mentions returning these to the Cave
 supply, but not for the Knight.
 Yes, Treasures tokens are meant to be limited.
@@ -670,7 +672,7 @@ be placed on a Dark tile that does not contain a player piece
 or Treasure token.
 GIANT BATS
 Can the Cave target a player multiple times with Giant
-Bats? Or is it like the Thief who cannot target the same
+Bats?Or is it like the Thief who cannot target the same
 character multiple times with one ability?
 Yes, Giant Bats can be used multiple times on the same
 target as long as the Cave can pay the cost in Omens.
@@ -700,34 +702,34 @@ What happens if a Rockslide is placed on a Bomb token?
 Both tokens remain on the tile. If the Rockslide is moved later
 in the game, the wall once again becomes open.
 SOPORIFIC SPORES
-GOBLINS: Who chooses which Goblin Tribe gets reduced?
+GOBLINS:Who chooses which Goblin Tribe gets reduced?
 And does it have to be on the board?
 The Goblin player chooses the Tribe. It does have to be a
 Tribe that can be reduced, if possible – you can't dump it on
 a Tribe at 0 or 1 to negate the effect entirely.
-DRAGON: When the Dragon gains a sloth token, who
+DRAGON:When the Dragon gains a sloth token, who
 decides where that sloth token goes?
 The Dragon chooses where the sloth token goes.
-DRAGON: If the Spores cause the Dragon to lose a level of
+DRAGON:If the Spores cause the Dragon to lose a level of
 Spirit, does the Dragon have to discard cards to meet the
 new hand size?
 No, Spirit only determines the number of cards drawn. It's
 not a hand limit. That is one of the reasons why the Dragon
 draws at the end of his turn.
 In addition the Dragon cannot fall asleep again.
-THIEF: Where does the Thief put his removed Upgrade
-token? Does it go to the “unstashed” tokens space?
+THIEF:Where does the Thief put his removed Upgrade
+token?Does it go to the “unstashed” tokens space?
 There isn't a space on his board designated specifically for
 the Spored tokens, so he can place them anywhere on or
 nearby the board. Just make sure they don't get mistaken for
 other Upgrades or Treasures currently being carried.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 11
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 11
 PLACING TILES
 In the video rules regarding the way the Cave adds tiles into
 play, you insist on the fact that it's very important to place
 tiles one by one, drawing another one before placing the
 second tile. I had believed this was to limit the way the
-Cave can place the Crystal tiles, but the rules state: "Tiles
+Cave can place the Crystal tiles, but the rules state:"Tiles
 placed during other players' turns do not have to be Crystal
 tiles." So is this rule limited only to the Shaping The Cave
 and Hatred omen?
@@ -743,7 +745,7 @@ Is it the same with the Vault tiles (I'm pretty sure I've seen
 it in the video but can't find it in the rules)?
 Vaults are not restricted in any way, and can be placed as
 desired like any other non-Crystal tiles.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 12
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 12
 THIEF
 Setup says, “Before your first turn, place the Thief piece on
 the Entrance tile.” Does this mean at the start of the game,
@@ -751,7 +753,7 @@ or before his own first turn?
 The Thief gets placed on the entrance tile before his own
 turn, not at the very beginning of the game.
 MOVEMENT
-When does the Thief's turn end? If he has 2 cubes left to
+When does the Thief's turn end?If he has 2 cubes left to
 use but runs out of movement are those cubes lost?
 Likewise, if he had used up his cubes, can he still move?
 The Thief's turn ends when he runs out of things to do or
@@ -773,7 +775,7 @@ using the impassible terrain mode of his Climbing ability?
 Or is this only for the Terrain tiles variant?
 No. That sounds neat though, try it and get back to us?
 Can the Thief use Climb to move through a wall to an
-adjacent Dark tile? If yes, how is this tile placed when
+adjacent Dark tile?If yes, how is this tile placed when
 revealed?
 The Thief can Climb a wall to a Dark tile. It would remain
 Dark for the Thief unless he used his free peek/reveal at the
@@ -798,7 +800,7 @@ Remember that the more stuff he's hauling around the
 easier he is to attack because each Treasure or Gem carried
 reduces his Stealth by 1.
 If the Flame Wall is dropped on the Entrance and the Thief
-enters the tile, does he die before stashing his Treasure? If
+enters the tile, does he die before stashing his Treasure?If
 he dies, where does he drop the Treasure – on the Entrance
 or the adjacent tile he came from?
 He would die when he entered the Entrance tile, so any
@@ -824,10 +826,10 @@ It is permanent until the next Treasure is stashed.
 Does the Thief's Loot Drop level change at all upon death?
 No, it only changes when he stashes Treasure (resets to 3), or
 if he spends action cubes to reduce it.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 13
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 13
 INTERACTING WITH THE KNIGHT
-PICKPOCKET: Does the Knight or the Thief choose the
-Treasure? And does the Thief get to look at the Knight’s
+PICKPOCKET:Does the Knight or the Thief choose the
+Treasure?And does the Thief get to look at the Knight’s
 Facedown Treasure cards when choosing?
 The Thief can choose a revealed Treasure, or take a random
 Facedoown Treasure.
@@ -835,8 +837,8 @@ What does the Thief do with the Treasure card he
 pickpockets?
 The card goes to the bottom of the Treasure deck.
 INTERACTING WITH THE GOBLINS
-PICKPOCKET: Does the Goblin or the Thief choose the
-Secrets card? And does the Thief get to look at the Goblin’s
+PICKPOCKET:Does the Goblin or the Thief choose the
+Secrets card?And does the Thief get to look at the Goblin’s
 Secrets cards when choosing?
 The Thief chooses a random unrevealed secret from the
 Goblin’s hand, or he may take the Goblin Ruby if it’s face-up.
@@ -849,11 +851,11 @@ entrance, does it kill him?
 No, Flame wall only does damage when a player MOVES into
 it. If the Thief start his turn in the space with a Flame wall,
 even as a respawn, it doesn't hurt him.
-BACKSTAB: Does the Dragon get to look at and choose
+BACKSTAB:Does the Dragon get to look at and choose
 which Power cards to discard, or are they discarded
 randomly?
 The Dragon chooses which cards to discard.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 14
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 14
 TERRAIN
 CANYON
 Can the Dragon cross the Canyon’s outside spaces while
@@ -868,7 +870,7 @@ space for the Dragon to stop, even just for a moment.
 Would it be possible to use 2 Wings to fly over the space,
 then turn 90-degrees and exit a different side (as opposed
 to flying straight over), or would finishing a Wing move
-over the space be considered "ending movement"? This
+over the space be considered "ending movement"?This
 might also apply if the Dragon was approaching from 2 tiles
 away.
 The intention is that the Dragon would have to cross (fly)
@@ -880,7 +882,7 @@ The Thief (using Climb) isn't limited to straight-line moves, so
 he could make a 90° turn on the way through.
 MAGMA
 If a Goblin/Thief is pushed into Magma (and left there)
-using Giant Bats, is it scattered/killed? Does the Goblin
+using Giant Bats, is it scattered/killed?Does the Goblin
 lose Population if pushed through Magma?
 No. Magma is specific about players ending their turns
 there, so being pushed into there will not hurt anyone unless
@@ -892,7 +894,7 @@ turn?
 Yes.
 MUSHROOM FOREST
 If a Goblin Tribe is in the Forest when Wrath hits it, how
-would the Forest "protect" them? Would they be displaced
+would the Forest "protect" them?Would they be displaced
 to the nearest tile, would they be scattered (i.e. not
 protected at all), or would the tile simply not Collapse?
 Wrath targets the tile, not the players. It isn't an attack and
@@ -915,7 +917,7 @@ If the Dragon can’t make that second move to leave the Pit
 tile before the end of his entire movement, he is not allowed
 to enter the first Pit.
 Can the Dragon move in any direction before/after entering
-the Pit? e.g. use 1 move (out of 2) to travel between Pits,
+the Pit?e.g. use 1 move (out of 2) to travel between Pits,
 then move 1 tile in any direction… or, move from any
 adjacent tile onto a Pit, then move to another Pit to finish
 the move?
@@ -934,12 +936,12 @@ Pushing Goblins into any water reduces Population by 1.
 Once they're in the water, follow the rule for pushing them
 through Lit tiles which prevents them from losing any
 additional Population.
-VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 15
+VAST:THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 15
 COLLAPSING TERRAIN
 If Terrain is Collapsed with Goblin/Thief on it, can they exit
 the tile at an adjacent edge even if there isn't a tile there
 yet (and add one), or do they move to the nearest preexisting
-tile? Likewise, can Goblins/Thief be pushed off
+tile?Likewise, can Goblins/Thief be pushed off
 Terrain into an empty space (placing a new tile there)?
 Exiting terrain to an empty space requires active movement
 by the player, so if they're pushed or forced to leave because

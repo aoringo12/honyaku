@@ -11,7 +11,10 @@ initiative with the Eyrie birds of prey, rule over your subjects as the Marquise
 command the Woodland Alliance to create a new order. With creatures and cunning, you'll rule
 a fantastic forest kingdom in the ultimate asymmetric game of adventure and war.
 この本を使用する。
-ルートには2つのルールブックが含まれていて、それはこのルールリファレンスとプレイ学習ガイドになります。ルールリファレンスは簡潔で信頼できる完全な目録を目的としています。ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、The learn-to-play guide is written in a more conversational tone and
+ルートには2つのルールブックが含まれていて、それはこのルールリファレンスとプレイ学習ガイドになります。The rules reference
+is intended to be a concise, authoritative, and complete reference. While experienced gamers
+will be able to learn the game from the rules reference, those newer to the hobby should start
+with the learn-to-play guide. The learn-to-play guide is written in a more conversational tone and
 features many illustrated examples. It also contains setup instructions for the game’s many
 scenarios.
 Note for Print-and-Players
@@ -39,7 +42,7 @@ This kit includes files for all of the paper components in the game. In addition
 ● 25 cubes in three different colors (for the Marquise, Woodland Alliance, and Eyrie)
 ● A Vagabond pawn and a single cube in a matching color for the Vagabond’s score cube
 ● 15 tokens to represent wood.
-Setup
+セットアップ
 1. Assign​ ​Factions:​ ​Assign one faction to each player using any method.
 2. Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of
 cards, and set them aside. Shuffle the deck. Each player draws 3 cards.
@@ -48,9 +51,9 @@ victory card and the Chaos Victory special victory card to the box. Then, shuffl
 special victory cards into the deck and place it near the map.
 4. Place​ ​Ruins:​ In games with the Vagabond, shuffle the ruin tokens and place one, with
 the item side face down, on each red-bordered slot on the map. (The ruin tokens consist
-of the following items: <bag>, <boot>, <hammer>, and <sword>.)
+of the following items:<bag>, <boot>, <hammer>, and <sword>.)
 5. Set​ ​Up​ ​Factions:​ The players set up their factions as described below in the following
-order: Marquise de Cat, Eyrie Dynasties, Forest Alliance, Vagabond.
+order:Marquise de Cat, Eyrie Dynasties, Forest Alliance, Vagabond.
 Marquise de Cat Setup
 1. Place a warrior in each clearing, including the Keep.
 2. Place your Sawmills, Workshops, and Recruiters on the matching tracks of your faction
@@ -98,7 +101,7 @@ board. If your building is removed, return it to the rightmost empty space.
 If you are prompted to place wood, take it from the Marquise’s supply. If wood is removed,
 return it to the Marquise’s supply.
 If you are prompted to place your pieces but you cannot place the total number prompted, you
-must place the maximum number possible. Example: if the Marquise recruits warriors, but does
+must place the maximum number possible. Example:if the Marquise recruits warriors, but does
 not have enough warriors in her supply to place a warrior at each recruiter, then she may place
 as many as able.
 If you are prompted to remove your pieces but you cannot remove the total number prompted,
@@ -128,7 +131,7 @@ A piece is local if it is located in the same clearing as any of your pieces.
 Piece
 A piece​ of a faction is any component color-coded to it, so the Marquise’s pieces are all purple,
 the Alliance green, the Eyrie brown, and the Vagabond black or white.
-Most factions have two types of pieces: warriors​ and buildings​. The Marquise also has wood​.
+Most factions have two types of pieces:warriors​ and buildings​. The Marquise also has wood​.
 The Vagabond only has a pawn.​
 Play Area
 Some rules will prompt you to place a component in your play​ ​area​, which is the area above
@@ -145,7 +148,7 @@ Like in the previous section, all roles share certain concepts which are describ
 Clearings, Paths, and Forests
 The map of the Woodland is composed of clearings​, which are connected by a network of
 paths​. A clearing is adjacent to all other clearings linked to it by a path.
-Almost every clearing is aligned with one forest nation​: mouse, rabbit, or fox. The Keep of
+Almost every clearing is aligned with one forest nation​:mouse, rabbit, or fox. The Keep of
 Marquise de Cat is a clearing aligned with all nations.
 Areas on the map enclosed by paths and clearings are called forests​. A forest is adjacent to all
 clearings that touch it without crossing a path, and it is adjacent to all forests that are separated
@@ -158,7 +161,7 @@ the Vagabond explores a ruin and takes its token, the open slot can hold a build
 In games without the Vagabond, the red-bordered slots begin open.
 Multi-use Cards
 Root uses a single deck of multi-use cards. Each card has three uses:
-1. A​ ​suit​ matching one of the four forest nations: bird, fox, rabbit, and mouse. Each faction
+1. A​ ​suit​ matching one of the four forest nations:bird, fox, rabbit, and mouse. Each faction
 can spend cards of particular suits for different effects.
 2. A​ ​conspiracy,​ ​which the Alliance can complete by spending supporters to earn victory
 points, resources, and infrastructure improvements.
@@ -168,7 +171,7 @@ Special​ ​Victory​ ​Cards.​ ​Four cards in the deck are special​ �
 cards, you can spend a special victory card from your hand for its suit. For details on playing
 these cards, see Goals​ ​and​ ​Play​ ​(page XX).
 Birds​ ​Are​ ​Wild.​ ​The bird suit is wild—you can spend a bird card as any other suit, including if
-you must spend multiple cards of matching nation. This rule does not work in reverse: if you are
+you must spend multiple cards of matching nation. This rule does not work in reverse:if you are
 prompted to spend a bird card, you cannot instead spend a card of another suit.
 Cards​ ​Are​ ​Secret.​ ​You cannot reveal any cards in your hand to other players.
 Crafting
@@ -244,7 +247,7 @@ immediately.
 Roll both dice. The attacker will deal hits equal to the higher roll, and the defender will deal hits
 equal to the lower roll. If the rolls are equal, attacker and defender will deal the same number of
 hits.
-<Print-and-Play Note: A roll of “4” is considered a “0” so the four-sided dice only produces
+<Print-and-Play Note:A roll of “4” is considered a “0” so the four-sided dice only produces
 numbers 0-3. The game will have custom d12s included with an equivalent distribution.>
 The maximum number of hits you can deal from rolling equals the number of your warriors in the
 clearing of battle, whether you are the attacker or defender.
@@ -304,7 +307,7 @@ Keep of the Marquise de Cat. (Not playable by the Vagabond or Marquise.)
 Order of Play
 Play begins with the Marquise and then continues to the Eyrie, the Alliance, and the Vagabond.
 Turn Structure
-Each player’s turn consists of three phases: Birdsong, Daylight, and Evening.
+Each player’s turn consists of three phases:Birdsong, Daylight, and Evening.
 Marquise de Cat
 Victory Points
 The Marquise scores victory points each time she builds a building. She also scores victory
@@ -418,7 +421,7 @@ To place a card in a Hideout card slot, its matching Hideout must be on the map,
 must not have a card in it.
 If a Hideout is removed, discard any card in the matching Hideout card slot.
 Supporters
-Your faction board has three forest nation boxes: rabbit, fox, and mouse. Any warriors in your
+Your faction board has three forest nation boxes:rabbit, fox, and mouse. Any warriors in your
 forest nation boxes are called supporters​.
 If a Hideout is removed, also remove half (rounded up) of the supporters in the matching forest
 nation box.
@@ -483,17 +486,17 @@ clearing’s ruler. You must follow that faction’s rules for building a buildi
 have to spend wood to build a Marquise building. That building’s owner cannot stop you
 from building.
 Item Tokens
-<Torch>: Can exhaust to Battle, Repair, Steal, Aid, or Explore.
-<Boot>: Can exhaust to Move.
-<Hammer>: Can exhaust as part of Craft.
-<Crossbow>: Can exhaust to inflict a hit when you or your enemy retreats.
-<Bag>: If available during your Evening, your hand size is two cards higher.
-<Coin>: If available during the Marquise’s Birdsong, you draw another card.
+<Torch>:Can exhaust to Battle, Repair, Steal, Aid, or Explore.
+<Boot>:Can exhaust to Move.
+<Hammer>:Can exhaust as part of Craft.
+<Crossbow>:Can exhaust to inflict a hit when you or your enemy retreats.
+<Bag>:If available during your Evening, your hand size is two cards higher.
+<Coin>:If available during the Marquise’s Birdsong, you draw another card.
 Alignment
 Your faction board shows an alignment chart composed of many alignment boxes
 connected by black arrows. At any given time, this chart will hold an alignment marker
 from each faction in play.
-<Print-and-Play Note: Use a warrior cube from each other player as an alignment
+<Print-and-Play Note:Use a warrior cube from each other player as an alignment
 marker>
 Adjusting Alignment
 Whenever you fulfill the task listed on a black arrow connecting your current alignment
@@ -537,7 +540,7 @@ warriors remain, you take further hits.
 You cannot use Steal on an Ally!
 Nemesis Penalties
 While a faction’s alignment marker is on the final two negative spaces of the alignment
-chart, that faction is a Nemesis​. <PNP Note: This still might be named “Hostile” on the
+chart, that faction is a Nemesis​. <PNP Note:This still might be named “Hostile” on the
 faction board.>
 You must spend another <boot> to move into a clearing with any pieces owned by a
 Nemesis faction. These penalties stack, so moving into a clearing with two Nemesis

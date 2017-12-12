@@ -1,12 +1,12 @@
 Official FAQ v0.9
 Last updated 04-04-17
-Q: What’s the best way to use this document? Do I need to read and memorize this entire thing in order to play the game properly?
-A: No! This is intended and designed only as a reference tool for those situations where players might need a little bit more specific detail on something that’s already in the rulebook, or when they need help with a peculiar interaction or an edge case that might not be immediately obvious from the rules. As such, you should not even attempt to memorize this document, and even reading it cover to cover should not be necessary. If you expect to have a need for this FAQ during a gaming session, just keep the PDF copy handy on your laptop, tablet, phone, etc., or print out a copy and tuck it into the bottom of the box so you can look things up in this document only if you actually need it.
+Q:What’s the best way to use this document?Do I need to read and memorize this entire thing in order to play the game properly?
+A:No!This is intended and designed only as a reference tool for those situations where players might need a little bit more specific detail on something that’s already in the rulebook, or when they need help with a peculiar interaction or an edge case that might not be immediately obvious from the rules. As such, you should not even attempt to memorize this document, and even reading it cover to cover should not be necessary. If you expect to have a need for this FAQ during a gaming session, just keep the PDF copy handy on your laptop, tablet, phone, etc., or print out a copy and tuck it into the bottom of the box so you can look things up in this document only if you actually need it.
 
 This entire document is subdivided into sections following the same approximate order that they appear in the rulebook, so (for example) if you needed a clarification on a particular Monster, skip ahead to the portion on Goblins and find the section for Monsters. If you’re using the PDF, you can use whatever “Find” or “Search” functions are available in your viewer of choice to quickly find what you need.
 
-Q: Why isn’t the vast majority of this “FAQ” setup using the traditional question & answer format?
-A: While the standard Q&A format provides for a more organic way to address specific questions, presenting that same information in the format you’re seeing allows it to be provided in a far more detailed and efficient way. Individual entries also take up less space, and makes it possible to more directly address fine details, nuances, and any strange edge cases that the traditional question format can miss.
+Q:Why isn’t the vast majority of this “FAQ” setup using the traditional question & answer format?
+A:While the standard Q&A format provides for a more organic way to address specific questions, presenting that same information in the format you’re seeing allows it to be provided in a far more detailed and efficient way. Individual entries also take up less space, and makes it possible to more directly address fine details, nuances, and any strange edge cases that the traditional question format can miss.
 
 GETTING STARTED & COMPONENTS
 Role Setup
@@ -16,10 +16,10 @@ Cave Setup
 -The four tiles set adjacent to the Entrance tile during setup do not need to show different Goblin Tribe symbols. Due to the random draw, only two of the symbols or even just one may be visible. This is okay. While the lack of one or more symbols may have a minor effect on the Goblin player’s very first turn, it will not affect the overall outcome of the game in any meaningful way.
 -When dividing up tiles into three separate stacks, those stacks will not be perfectly equal in size, but should still be kept as close as possible. After adding the Crystal (and Vault and/or Ghost) tiles, the three stacks may be stacked in any order, unless noted otherwise in a variant.
 -Many of the pieces used in the game have cardboard, wooden, and/or plastic (miniature) versions available. The game was first designed to use cardboard pieces, wooden versions were unlocked as stretch goals during the original Kickstarter campaign for the game, and miniatures were added as of the second Kickstarter. You may mix and match the different pieces as desired.
--A comparison guide for the cardboard and wooden pieces can be found at BoardGameGeek, here: www.boardgamegeek.com/filepage/135750
+-A comparison guide for the cardboard and wooden pieces can be found at BoardGameGeek, here:www.boardgamegeek.com/filepage/135750
 
 GENERAL RULES
-Note: First edition copies of Vast: The Crystal Caverns did not include a General Rules section in the rulebook. This was added in subsequent printings to help better clarify certain aspects of the game and to provide a single area for the most commonly used rules, rather than having them listed only under the individual roles where they first appeared or were most relevant. The addition of this section does not change any fundamental rules to the game, except for the Forced Movement rules specifically noted below.
+注意：First edition copies of Vast:The Crystal Caverns did not include a General Rules section in the rulebook. This was added in subsequent printings to help better clarify certain aspects of the game and to provide a single area for the most commonly used rules, rather than having them listed only under the individual roles where they first appeared or were most relevant. The addition of this section does not change any fundamental rules to the game, except for the Forced Movement rules specifically noted below.
 
 You can download a PDF of the latest rules here: http://tinyurl.com/VastPublicPNP
 
@@ -39,7 +39,7 @@ Connecting the Map
 -Any open edges created by the split are filled AFTER the separate sections of the map are slid together.
 
 Forced Movement [ERRATA]
--The Forced Movement rules added in the second printing of the game are intended to replace the effects of all other previous rules and abilities that could cause the movement of player pieces. (This includes but is not limited to: Wisp, Claw, Slap, Giant Bats)
+-The Forced Movement rules added in the second printing of the game are intended to replace the effects of all other previous rules and abilities that could cause the movement of player pieces. (This includes but is not limited to:Wisp, Claw, Slap, Giant Bats)
 -These rules apply only when a piece is moved by a player other than the player controlling it, or when a piece is forced to move due to the removal of a tile (typically during the Collapse). These rules do not apply when a player piece is moving voluntarily using its own normal movement or actions.
 -When a player is forced to leave a tile that is being removed, they must move the shortest possible distance to reach a legal space. If there are two or more possible destination, the current player chooses which is used.
 -If two or more characters are forced to move at the same time (for example, when tiles are removed by Wrath), they move one at a time, following turn order, starting with the Knight.
@@ -82,7 +82,7 @@ THE KNIGHT
 -Hero cubes that have been discarded can only be recovered by the Cave Bread Event. For all other intents and purposes, they are out of the game.
 -If a Hero cube is assigned to a Treasure that is later discarded or lost, without also discarding the cube, set that cube aside. It cannot be reassigned until your next turn when you pick up all available Hero cubes again.
 
-2) Move and Act
+2)Move and Act
 -The Knight must always reveal Dark tiles that she enters.
 -When the Knight reveals a tile, Dark tiles are placed on open edges as needed before resolving the tile that was revealed, and before interacting with any other player pieces or tokens on the tile.
 -The Knight interacts with a tile only when it is revealed by entering it. Tiles revealed in some other way (Flare, Vantage Point) are marked with tokens as needed, but do not affect the Knight directly unless she later moves and enters them.
@@ -223,29 +223,29 @@ Rage
 -If two or more Tribes are hit by a single attack (such as Claw), you gain 1 Rage for each affected Tribe.
 
 ドラゴン
-1) Move and Use Powers
--While underground, the Dragon ignores all walls, Dark tiles, and other players when moving, whether using the standard movement for the turn or a Wing card. 攻撃や他プレイヤーからの攻撃はオプションです。
+1）移動とパワーの使用
+―地下にいる間、ドラゴンはターンでの基本移動やウイングカードを使用しての移動で、全ての壁、ダークタイル、他プレイヤーを無視する。攻撃や他プレイヤーからの攻撃はオプションです。
 ―出現している間、あなたは移動時に全ての壁に従い、ダークタイルには入れません。あなたが他プレイヤーのいるスペースに入るか、プレイヤー1人があなたのスペースに入ったら自動的に攻撃が発生します。
 ―移動する時、あなたパワーを使用する前に個々の移動を完了する必要があります。1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。
-Powers
--Walls do not block the use of Powers or affect them in any way, except where noted.
+パワー
+―壁は別途記載がない限り、パワーの使用を防いだり、何らかの影響をあたえることはありません。
 ―ドラゴンのアビリティ（クロウ、叩き潰す、炎の壁）はシーフのステルスを無視して攻撃できます。
--Flame
---Flame reveals only tiles that were on the map when the die roll was first made. これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。
--Flame Wall
---Flame Wall affects players only when the enter the space. 炎の壁がプレイヤーが既に存在するスペースに配置された場合、彼らがそのタイルから出てまた入るまで影響を与えません。
+―フレイム
+――フレイムは最初にダイスをロールする時にあるマップのタイルのみを明らかにします。これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。
+―炎の壁
+――炎の壁はスペースに入る時にのみプレイヤーたちへ影響を与えます。炎の壁がプレイヤーが既に存在するスペースに配置された場合、彼らがそのタイルから出てまた入るまで影響を与えません。
 ――エントランスに炎の壁を配置するとシーフがトレジャーをスタッシュするのを防ぎます。彼がスペースに入ると殺され、運んでいたジェムやトレジャーをそのスペースに落とします。
 ――炎の壁がエントランスタイルに配置され、シーフがターン開始時に（死ぬことにより）そこで復活した場合、彼は無傷です。
--Scorch
---Scorch reveals surrounding tiles only. ドラゴンがいるタイルには影響を与えません。
+―閃光
+――閃光は周囲タイルのみ明らかにします。ドラゴンがいるタイルには影響を与えません。
 ――閃光は、最初にアクティブにされた時にマップに配置されていたタイルのみを明らかにします。これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。
--Slap/Swat
---The target must be in an adjacent space. これらパワーはドラゴンが現在いるスペースのアイテムには影響を与えません。
-2) Pick Up Treasure
--Picking up Treasure is a discrete part of the turn that occurs only after all movements have been made and all powers have been used.
+―放り投げ／はたく
+――ターゲットは隣接スペースでなければなりません。これらパワーはドラゴンが現在いるスペースのアイテムには影響を与えません。
+2）トレジャーを拾う
+―トレジャーを拾うのは、全ての移動とパワーの使用を終えた後にのみ、ターンの一部として別途発生します。
 
-Awakening and Surfacing
--In games without a Goblins player, the Dragon cannot eat Goblins even if it uses Claw, Scratch, or Hiss. 覚醒に飢えのキューブを移動するためには、這い寄るを使用して異なる怠惰トラックにキューブをまず移動させる必要があります。
+目覚めと出現
+―ゴブリンプレイヤーがゲームにいない時、ドラゴンはクロウ、叩き潰す、ヒスを使用してもゴブリンを食べられません。覚醒に飢えのキューブを移動するためには、這い寄るを使用して異なる怠惰トラックにキューブをまず移動させる必要があります。
 ―プライドには怠惰キューブを共有しない3つのカテゴリがあります。あなたはプライド間でキューブを移動させたい時、這い寄るを使用する必要があります。ターン毎にプライド全体から1つのキューブのみを取り除くことができます。
 ―アーマーとスピリット値は、覚醒トラックにあるその行にキューブが配置されるとすぐに、そこに示される値になります。行を満たす必要はありません。
 ―覚醒トラックにキューブを追加することにより、直ちにアーマーは増加します。
@@ -304,7 +304,7 @@ TERRAIN VARIANT
 -Mushroom Forest
 -The Mushroom Forest protects only players inside, not itself. If hit by Wrath, players inside are affected normally (Goblins Scatter).
 -Pits
--Using a Pit to travel to another requires a minimum of 3 movement: 1 to enter the tile, 1 to travel to another Pit, and 1 to exit the second Pit. If a player is unable to complete this entire movement during their turn, they cannot enter the first Pit.
+-Using a Pit to travel to another requires a minimum of 3 movement:1 to enter the tile, 1 to travel to another Pit, and 1 to exit the second Pit. If a player is unable to complete this entire movement during their turn, they cannot enter the first Pit.
 -The Dragon requires two separate movements to use a Pit, either as his standard move plus a Wing card, or as two Wing cards. One movement is used to enter the Pit and another is used to exit. The 1 additional movement needed to travel from one Pit to another may be taken from the second space of either movement.
 
 ROLE VARIANTS
@@ -322,6 +322,6 @@ Knight and Goblin Difficulty
 -When using the Hard or Expert difficulties to increase the starting Health of your target, give the card to that player so they can use the additional spaces provided on the card.
 
 Cave Difficulty
--When using the Easy (Spillway) or Easiest (Lava Tube) difficulties, remove tiles from all of the following types: Ambush, Crystal, Event, Treasure, Vault. Do not remove the Entrance tile or any Terrain tiles.
+-When using the Easy (Spillway) or Easiest (Lava Tube) difficulties, remove tiles from all of the following types:Ambush, Crystal, Event, Treasure, Vault. Do not remove the Entrance tile or any Terrain tiles.
 -When using the Hard (Great Cave) or Expert (Grand Cave) difficulties, you may use any tokens or markers you have available as Hatred tokens (no components are included specifically for this purpose). We recommend using the duplicate (cardboard/wooden) Treasure or Crystal tokens.
 -If the Cave player does not remove all Hatred tokens it will not prevent the Collapse from starting, but they will prevent the Cave from winning until they are removed, even if 5 or more Crystal tiles are collapsed first.
