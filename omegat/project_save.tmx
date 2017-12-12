@@ -242,6 +242,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--All 10 Permanent Ability Tiles are shuffled and 6 are randomly drawn and placed face up on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093801Z" creationid="aorin" creationdate="20171212T093801Z">
+        <seg>17.永続能力タイル10枚全てを、シャッフルして6枚ランダムに引き、ボード上に表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Flame Wall affects players only when the enter the space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134017Z" creationid="nakahodo" creationdate="20171127T134017Z">
@@ -676,6 +684,22 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093920Z" creationid="aorin" creationdate="20171212T093920Z">
+        <seg>アクションフェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
+        <seg>小さなキューブの順番に大きなキューブの順番を合わせて、プレイヤーのターン順番を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After Blending, each player receives 1 RP to distribute on
 their own Research Lab Ability Tracks!</seg>
       </tuv>
@@ -780,8 +804,8 @@ here.</seg>
       <tuv lang="EN-US">
         <seg>Also stack the extra Reward Tiles here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T021850Z" creationid="aorin" creationdate="20171212T021850Z">
-        <seg>これは共通サプライで、この数によって制限されます！</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093745Z" creationid="aorin" creationdate="20171212T021850Z">
+        <seg>また、ここに追加報酬タイルをスタックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1109,6 +1133,14 @@ performed once all players understand the
 rules of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T071406Z" creationid="nakahodo" creationdate="20171211T071406Z">
+        <seg>選択した永続能力タイルは、全てのプレイヤーがゲームのルールを理解した後にのみ、実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing a Permanent Ability Tile is only performed once all players understand the rules of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093833Z" creationid="aorin" creationdate="20171212T093833Z">
         <seg>選択した永続能力タイルは、全てのプレイヤーがゲームのルールを理解した後にのみ、実行されます。</seg>
       </tuv>
     </tu>
@@ -1554,12 +1586,28 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game round</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093900Z" creationid="aorin" creationdate="20171212T093900Z">
+        <seg>ゲームラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give each player a set of pieces in
 the player’s color, a Roaster bag,
 and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T091847Z" creationid="nakahodo" creationdate="20170924T091737Z">
         <seg>各プレイヤーに、プレイヤー色の各コンポーネント、ロースターバッグ、研究ラボのセットを渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goal of the game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093837Z" creationid="aorin" creationdate="20171212T093837Z">
+        <seg>ゲームのゴール</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,6 +2164,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offering phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093930Z" creationid="aorin" creationdate="20171212T093930Z">
+        <seg>提供フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the first round of the game, players ignore penalties if they place their Field Researcher on a country that
 contains a red negative action.</seg>
       </tuv>
@@ -2291,6 +2347,22 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021852Z" creationid="aorin" creationdate="20171212T021852Z">
         <seg>ペナルティポイントはマイナスで、マーカーを時計回りに動かすことで、直ちにスコアトラックに記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Penalty phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093938Z" creationid="aorin" creationdate="20171212T093938Z">
+        <seg>ペナルティフェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permanent Ability Tile from the board and places it on the appropriate field with the corresponding symbol on their player screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093825Z" creationid="aorin" creationdate="20171212T093825Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,6 +2672,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put the remaining 4 back into the game box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093809Z" creationid="aorin" creationdate="20171212T093809Z">
+        <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Receive as few Penalty Points as possible from the Queen while collecting Reward Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083012Z" creationid="nakahodo" creationdate="20171211T083012Z">
@@ -2652,8 +2732,16 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Reward Points are positive, but are only added to the score track at the end of the game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T083151Z" creationid="nakahodo" creationdate="20171211T083151Z">
-        <seg>報酬ぽんとはプラスですが、ゲーム終了時にのみ、スコアトラックに追加されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093851Z" creationid="nakahodo" creationdate="20171211T083151Z">
+        <seg>報酬ポイントはプラスですが、ゲーム終了時にのみ、スコアトラックに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093934Z" creationid="aorin" creationdate="20171212T093934Z">
+        <seg>報酬フェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +2886,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
         <seg>スタートプレイヤートークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stealing phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093917Z" creationid="aorin" creationdate="20171212T093917Z">
+        <seg>窃盗フェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3374,6 +3470,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The winner is the player with the highest overall score, but be aware that getting on the positive part of the score track is difficult!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093854Z" creationid="aorin" creationdate="20171212T093854Z">
+        <seg>合計得点が最も高いプレイヤーが勝者となりますが、スコアトラックのプラス側を維持できるのは難しいことに注意してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then choose another player to gain from the mint supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033847Z" creationid="aorin" creationdate="20171212T033847Z">
@@ -3647,8 +3751,8 @@ here.</seg>
       <tuv lang="EN-US">
         <seg>This is the general supply, which is limited!</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T021839Z" creationid="aorin" creationdate="20171212T021839Z">
-        <seg>16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093739Z" creationid="aorin" creationdate="20171212T021839Z">
+        <seg>これは共通サプライで、この数によって制限されます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,6 +4406,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 10 x Gold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093706Z" creationid="aorin" creationdate="20171212T093706Z">
+        <seg>•ゴールド×10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• 2 Apples, 2 Bread, 2 Silver bars and 2 Gold bars</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093451Z" creationid="aorin" creationdate="20171212T093451Z">
@@ -4331,6 +4443,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093627Z" creationid="aorin" creationdate="20171212T093627Z">
         <seg>•3プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 30 x Silver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093704Z" creationid="aorin" creationdate="20171212T093704Z">
+        <seg>•シルバー×30</seg>
       </tuv>
     </tu>
     <tu>
@@ -4375,6 +4495,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 5 x Rocks for each player (with a maximum of 20 even with 5 players)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093713Z" creationid="aorin" creationdate="20171212T093713Z">
+        <seg>•岩×プレイヤー人数ごとに5枚（最大プレイヤー5人で20枚）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Apart from the starting player, all players also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093453Z" creationid="aorin" creationdate="20171212T093453Z">
@@ -4387,6 +4515,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093454Z" creationid="aorin" creationdate="20171212T093454Z">
         <seg>5.各プレイヤーは自身の炭鉱に自身の妖精を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Fill the Black Mining Bag with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093658Z" creationid="aorin" creationdate="20171212T093658Z">
+        <seg>15.黒の採掘バッグを次で満たします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Place 1 Apple, Bread, Honey and a Silver bar on the Special Offering field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093656Z" creationid="aorin" creationdate="20171212T093656Z">
+        <seg>14.りんご、パン、ハチミツ、シルバーの延べ棒を1枚ずつ、特別提供フィールドに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,6 +4615,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Starting with the last player (according to the turn order track), each player chooses 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093822Z" creationid="aorin" creationdate="20171212T093822Z">
+        <seg>18.最後手番のプレイヤーから始まり（ターン順番トラックに従って）、各プレイヤーはボードから永続能力タイル1枚を選択し、自身のプレイヤースクリーンにあるシンボルと一致する、適切なフィールドへとこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• The Dragon using Claw or Scratch.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T125139Z" creationid="nakahodo" creationdate="20171127T125139Z">
@@ -4500,6 +4652,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124959Z" creationid="nakahodo" creationdate="20171127T124959Z">
         <seg>- ナイトが同じタイルにいる対戦相手プレイヤー（またはクリスタル）とエンカウントする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The remaining Apples, Bread, Honey, and Silver and Gold bars are placed next to the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T093726Z" creationid="aorin" creationdate="20171212T093726Z">
+        <seg> 16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
