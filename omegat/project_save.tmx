@@ -495,6 +495,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>30 Mint Tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025253Z" creationid="aorin" creationdate="20171212T025253Z">
+        <seg>30ミントトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4
 SET UP</seg>
       </tuv>
@@ -797,6 +805,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any lost are returned to the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>プランが失われる時、プランデッキの下へと裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking or being attacked by another player is option.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
@@ -1004,6 +1020,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CO-OP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COFFEE PROTOCOL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124553Z" creationid="nakahodo" creationdate="20171001T124553Z">
@@ -1157,6 +1181,14 @@ chosen through majority vote.</seg>
 including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131550Z" creationid="nakahodo" creationdate="20171211T131550Z">
+        <seg>ASSEMBLER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Counts as two (2) Buildings in all scenarios, including, but not limited to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
         <seg>ASSEMBLER</seg>
       </tuv>
     </tu>
@@ -1488,12 +1520,29 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player already has the Starting Player Token, they may use Leadership Council to retain it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>LEADERSHIP COUNCIL
+プレイヤーは、スタートプレイヤートークンを現在の保持者から得る。彼はまたミントサプライから●も得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player needs to place
 a fourth Marker, that player removes a Marker from another
 blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T215909Z" creationid="aorin" creationdate="20171024T215909Z">
         <seg>プレイヤーが4つめのマーカーを配置する必要がある場合、そのプレイヤーは、そのプレイヤーは他のブレンドからマーカーを取り除く[または]このラウンドに作成されたブレンドにマーカーを追加しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any player has seven or more provided by Buildings in their Neighborhood, the game ends and Scoring takes place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>•いずれかのプレイヤーが7以上の●を持つ建物を近所に持つ場合、ゲームは終了し得点計算を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1557,6 +1606,14 @@ in turn order.</seg>
 the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T082554Z" creationid="nakahodo" creationdate="20171209T082554Z">
+        <seg>まだタイの場合、プランデッキに近いプランを購入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is still a tie, it will buy the Plan closest to the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
         <seg>まだタイの場合、プランデッキに近いプランを購入します。</seg>
       </tuv>
     </tu>
@@ -1728,6 +1785,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOCATIONS CONTINUED</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーはミントサプライから●●を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110329Z" creationid="nakahodo" creationdate="20171211T110329Z">
@@ -1809,6 +1874,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mint Works is a refreshingly light worker placement game for 1 to 4 players - easy to learn, with enough depth to keep you coming back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025450Z" creationid="aorin" creationdate="20171212T025450Z">
+        <seg>ミントワークスは1から4プレイヤーで行われる、軽く爽やかなワーカープレイスメントゲームです。簡単に把握でき、十分に深く、繰り返す遊ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, you do not need to pay 1 food to be considered fed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
@@ -1842,6 +1915,15 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>CROWDFUNDER
+プレイヤーはミントサプライから●●●を得て、その後、他の各プレイヤーはミントサプライから1●を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: If a player already has the Starting Player Token,
 they may use Leadership Council to retain it.</seg>
       </tuv>
@@ -1860,6 +1942,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OVERVIEW</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
+        <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the first round of the game, players ignore penalties if they place their Field Researcher on a country that
 contains a red negative action.</seg>
       </tuv>
@@ -1873,6 +1963,14 @@ contains a red negative action.</seg>
 have the chance to choose Place or Pass again.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073831Z" creationid="nakahodo" creationdate="20171209T073831Z">
+        <seg>彼の次のターンにて、再度プレイス[または]パスを選択する機会を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On their next turn they will have the chance to choose Place or Pass again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>彼の次のターンにて、再度プレイス[または]パスを選択する機会を持ちます。</seg>
       </tuv>
     </tu>
@@ -1907,6 +2005,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One (1) of the four (4) AIs is selected as your opponent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
+        <seg>•あなたの対戦相手として、4つのAIの内1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One player starts by shaking his roaster, randomly
 pulling a bean and placing it on the Blend Slate in one of the five
 bean spaces.</seg>
@@ -1930,6 +2036,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
         <seg>他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PASS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>パス</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2180,22 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placing here allows the player to take any one Building or Plan from their Neighborhood and place it at the bottom of the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーは、自身の近所から任意のプラン[または]建物1つを取り、プランデッキの一番下にこれを配置するために使用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing here allows the player to take any one Building or Plan from their Neighborhood and place it into the Plan Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーは別の場所の能力を、そのロケーションに配置したかのように使用できます。配置するのに必要な●の数は、模範するロケーションのコストに＋1した数になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plan</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071931Z" creationid="nakahodo" creationdate="20171209T071931Z">
@@ -2151,6 +2281,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players take the role of neighborhood planners working to develop the finest neighborhood in the city of Mintopia.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025555Z" creationid="aorin" creationdate="20171212T025555Z">
+        <seg>プレイヤーたちはミントピアの都市で最も優れた地域を開発するために働いている、近隣プランナーの役割を担います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Positive actions are optional, whereas negative actions must be performed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T103822Z" creationid="nakahodo" creationdate="20171001T103822Z">
@@ -2224,6 +2362,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refill the Plan Supply to three face up cards from the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>•プランデッキからカー3枚になるようにプランサプライを補充します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research
 Markers should be placed at
 the start of each Research Track.</seg>
@@ -2262,6 +2408,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153728Z" creationid="nakahodo" creationdate="20171103T153728Z">
         <seg>ルートは我々がデベロップする非対称設計の次のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOLITAIRE SETUP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
+        <seg>セットアップが全て済むと、プレイエリアは上の図のような状態になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,6 +2512,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T130335Z" creationid="nakahodo" creationdate="20171001T130335Z">
         <seg>いくつかのブレンドスレートは特定の色で塗りつぶされた1つの豆スペースがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting Player Token</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
+        <seg>スタートプレイヤートークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Still tied?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
+        <seg>二人以上のプレイヤーが一位タイになった場合、タイプレイヤー間で最小の近所を持つプレイヤーが勝利します（つまり、建物とプランの最も少ない）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2497,6 +2667,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Development phase repeats until all players consecutively pass, ending the phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>それらアクションを1つ完了した後、ターンは次のプレイヤーに時計回りで渡されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mint Supply is not limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071430Z" creationid="nakahodo" creationdate="20171209T071430Z">
@@ -2528,6 +2706,14 @@ explore by placing their Field Researcher pawns.</seg>
 includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075823Z" creationid="nakahodo" creationdate="20171209T075823Z">
+        <seg>ゲームにはプレイヤーに対して4つの異なるAI対戦相手が用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game includes four different AI opponents to play against.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>ゲームにはプレイヤーに対して4つの異なるAI対戦相手が用意されています。</seg>
       </tuv>
     </tu>
@@ -2593,10 +2779,26 @@ takes the first turn.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player currently holding the Starting Player Token takes the first turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>現在スタートプレイヤートークンを持つプレイヤーから最初にターンを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player gains a Plan from the Plan Supply into
 their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T111223Z" creationid="nakahodo" creationdate="20171211T111223Z">
+        <seg>PRODUCER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player gains a Plan from the Plan Supply into their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
         <seg>PRODUCER</seg>
       </tuv>
     </tu>
@@ -2607,6 +2809,14 @@ then each other player gains from the Mint
 Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110844Z" creationid="nakahodo" creationdate="20171211T110844Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player gains from the Mint Supply, then each other player gains from the Mint Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
         <seg>　</seg>
       </tuv>
     </tu>
@@ -2631,6 +2841,15 @@ current holder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player gains the Starting Player Token from its current holder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>BUULDER
+自身の近所のプラン1枚を建築する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player gains the top card from the Plan Deck into
 their Neighborhood.</seg>
       </tuv>
@@ -2644,6 +2863,14 @@ their Neighborhood.</seg>
 though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T111945Z" creationid="nakahodo" creationdate="20171211T111945Z">
+        <seg>ロケーションの続き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player may utilize another Location’s ability as though they had placed on that Location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
         <seg>ロケーションの続き</seg>
       </tuv>
     </tu>
@@ -2676,6 +2903,14 @@ player with the smallest Neighborhood (i.e. fewest total
 Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075254Z" creationid="nakahodo" creationdate="20171209T075254Z">
+        <seg>最も●を持つプレイヤーが見事な近所を作り、勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player with the most has the finest Neighborhood and wins!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>最も●を持つプレイヤーが見事な近所を作り、勝利します！</seg>
       </tuv>
     </tu>
@@ -2776,6 +3011,14 @@ the Upkeep phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then proceed to the Upkeep phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>開発フェイズは全てのプレイヤーが連続してパスをするまで続けてから、フェイズが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then they gain one Plan from the Supply
 and place it into their Neighborhood.</seg>
       </tuv>
@@ -2855,6 +3098,14 @@ card until they decide to build it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They do not have to reveal this card until they decide to build it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They gain from the Mint Supply equal to the sum
 of the Plan’s printed cost and value.</seg>
       </tuv>
@@ -2868,6 +3119,14 @@ of the Plan’s printed cost and value.</seg>
 either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073112Z" creationid="nakahodo" creationdate="20171209T073041Z">
+        <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They may choose either the Place or Pass action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
       </tuv>
     </tu>
@@ -2907,6 +3166,15 @@ degrading and remains in the Stale position for the entire game.</seg>
 with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T112950Z" creationid="nakahodo" creationdate="20171211T112950Z">
+        <seg>このロケーションは次を除いてProcucerと完全に同様に機能します：
+アップキープフェイズ時、このロケーションに任意の●が配置されていた場合、オーナーはミントサプライから●を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Location functions identically to the Producer with the following exception:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
         <seg>このロケーションは次を除いてProcucerと完全に同様に機能します：
 アップキープフェイズ時、このロケーションに任意の●が配置されていた場合、オーナーはミントサプライから●を得ます。</seg>
       </tuv>
@@ -3084,6 +3352,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WHOLESALER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>プレイヤーは、自身の近所から任意の建物[または]プラン1枚を取り、プランサプライにこれを配置できる。その後、サプライからプラン1枚を取り、自身の近所にこれを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WORKER PLACEMENT GAME
 13+
 Justin Blaske
@@ -3113,11 +3389,27 @@ of the Plan Deck.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a Plan is lost, it is put face down at the bottom of the Plan Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
+        <seg>失う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a plan is built, it
 becomes a Builiding.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072020Z" creationid="nakahodo" creationdate="20171209T072020Z">
         <seg>プランが建築されるとき、これは建築されたことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a plan is built, it becomes a Builiding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
+        <seg>プランデッキ、プランサプライ、プレイヤーの近所に裏向きになっているカードです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3143,6 +3435,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a player gains something, they take it from the respective supply and place it into their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
+        <seg>プレイヤーが何かを「得る」とき、それぞれのサプライからそれを取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When everyone is ready, The Brewmaster will signal all players to reveal their Tokens
 simultaneously;</seg>
       </tuv>
@@ -3156,6 +3456,14 @@ simultaneously;</seg>
 look something like the diagram above.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075715Z" creationid="nakahodo" creationdate="20171209T075715Z">
+        <seg>セットアップが全て済むと、プレイエリアは上の図のような状態になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When everything is set up, the play area should look something like the diagram above.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
         <seg>セットアップが全て済むと、プレイエリアは上の図のような状態になります。</seg>
       </tuv>
     </tu>
@@ -3499,6 +3807,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080657Z" creationid="nakahodo" creationdate="20171209T080657Z">
         <seg>•あなたの対戦相手の開始ミントトークンシェアの●に等しいだけ、ミントサプライから取り、彼の近所に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»»</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025241Z" creationid="aorin" creationdate="20171212T025226Z">
+        <seg>•</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» equal to your opponent’s Starting Mint Token Share are taken from the Mint Supply and placed into their Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
+        <seg>•●●●をミントサプライから取り、あなたの近所に追加します。</seg>
       </tuv>
     </tu>
     <tu>
