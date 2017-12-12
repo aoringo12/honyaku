@@ -25,6 +25,14 @@ on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- All 10 Permanent Ability Tiles are shuffled and 6 are randomly drawn and placed face up on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021850Z" creationid="aorin" creationdate="20171212T021850Z">
+        <seg>また、ここに追加報酬タイルをスタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Each player places their Pixies in their mine:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T082801Z" creationid="nakahodo" creationdate="20171211T082801Z">
@@ -58,10 +66,26 @@ on the Special Offering field.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Place 1 Apple, Bread, Honey and a Silver bar on the Special Offering field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021839Z" creationid="aorin" creationdate="20171212T021839Z">
+        <seg>14.りんご、パン、ハチミツ、シルバーの延べ棒を1枚ずつ、特別提供フィールドに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Place all Reward Tiles for Golden Rings on
 the appropriate fields, in descending order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070132Z" creationid="nakahodo" creationdate="20171211T070132Z">
+        <seg>12.ゴールデンリング報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Place all Reward Tiles for Golden Rings on the appropriate fields, in descending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021833Z" creationid="aorin" creationdate="20171212T021833Z">
         <seg>12.ゴールデンリング報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
       </tuv>
     </tu>
@@ -76,10 +100,26 @@ the appropriate fields, in ascending order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Place all Reward Tiles for Special Offering on the appropriate fields, in ascending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021832Z" creationid="aorin" creationdate="20171212T021832Z">
+        <seg>10.特別な提供の報酬タイルを全て、適切なフィールドに昇順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Place all the Loyal Servant Reward Tiles on
 the appropriate fields, in descending order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070044Z" creationid="nakahodo" creationdate="20171211T070044Z">
+        <seg>11.忠実な使用人報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Place all the Loyal Servant Reward Tiles on the appropriate fields, in descending order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021833Z" creationid="aorin" creationdate="20171212T021833Z">
         <seg>11.忠実な使用人報酬タイルを全て、適切なフィールドに降順で配置します。</seg>
       </tuv>
     </tu>
@@ -138,11 +178,27 @@ order tracks.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Put both a small and a large cube on the turn order tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021848Z" creationid="aorin" creationdate="20171212T021848Z">
+        <seg>2.白から最も離れたゴールドとシルバートラックのスペースに、小さなディスク1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Randomize the 9 Round Tiles face down and
 distribute 7 on the appropriate fields without
 looking at them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070258Z" creationid="nakahodo" creationdate="20171211T070241Z">
+        <seg>13.ラウンドタイル9枚をランダムに裏向きシャッフルし、内容を見ずに適切なフィールドに分けて、7枚配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Randomize the 9 Round Tiles face down and distribute 7 on the appropriate fields without looking at them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021838Z" creationid="aorin" creationdate="20171212T021838Z">
         <seg>13.ラウンドタイル9枚をランダムに裏向きシャッフルし、内容を見ずに適切なフィールドに分けて、7枚配置します。</seg>
       </tuv>
     </tu>
@@ -166,6 +222,14 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070707Z" creationid="nakahodo" creationdate="20171211T070707Z">
         <seg>16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- The remaining Apples, Bread, Honey, and Silver and Gold bars are placed next to the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021839Z" creationid="aorin" creationdate="20171212T021839Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -456,6 +520,14 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4/4/3/2 B 2 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
+        <seg>•4プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4/4/3/3/2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000247Z" creationid="nakahodo" creationdate="20171211T000247Z">
@@ -464,10 +536,26 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4/4/3/3/2 B 3 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
+        <seg>•4プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4/4/3/3/2/2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T000238Z" creationid="nakahodo" creationdate="20171211T000238Z">
         <seg>4/4/3/3/2/2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4/4/3/3/2/2 B 4 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
+        <seg>•4プレイヤー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +750,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070938Z" creationid="nakahodo" creationdate="20171211T070938Z">
         <seg>また、ここに追加報酬タイルをスタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also stack the extra Reward Tiles here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021850Z" creationid="aorin" creationdate="20171212T021850Z">
+        <seg>これは共通サプライで、この数によって制限されます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1879,6 +1975,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Penalty Points are negative and are immediately recorded on the score track, by moving the marker clockwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021852Z" creationid="aorin" creationdate="20171212T021852Z">
+        <seg>ペナルティポイントはマイナスで、マーカーを時計回りに動かすことで、直ちにスコアトラックに記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -1930,6 +2034,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171210T134310Z" creationid="nakahodo" creationdate="20171210T134310Z">
         <seg>ターン順番を決定するために、小さなキューブトラックに小さなキューブらをランダムに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the small cubes on the small cube track randomly to determine the turn order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021848Z" creationid="aorin" creationdate="20171212T021848Z">
+        <seg>3.ターンオーダートラックに小さなキューブと大きなキューブを1つずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2319,6 +2431,14 @@ returned to the game box without looking at
 them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070321Z" creationid="nakahodo" creationdate="20171211T070321Z">
+        <seg>残った二枚のタイルは内容を見ずに箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 2 remaining Tiles are returned to the game box without looking at them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021838Z" creationid="aorin" creationdate="20171212T021838Z">
         <seg>残った二枚のタイルは内容を見ずに箱に戻します。</seg>
       </tuv>
     </tu>
@@ -2834,6 +2954,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T070834Z" creationid="nakahodo" creationdate="20171211T070834Z">
         <seg>これは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the general supply, which is limited!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T021839Z" creationid="aorin" creationdate="20171212T021839Z">
+        <seg>16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
       </tuv>
     </tu>
     <tu>
