@@ -3540,6 +3540,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following rules apply:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123020Z" creationid="aorin" creationdate="20171212T123020Z">
+        <seg>次のルールが適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The four (4) Core Locations and two (2) Deed Locations are placed in a line on the table, ‘one player’ or ‘closed’ sides showing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030818Z" creationid="aorin" creationdate="20171212T030818Z">
@@ -4079,6 +4087,14 @@ of the Plan’s printed cost and value.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They hold out a closed fist and simultaneously open their hands to show which resources they decided to offer to their Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123012Z" creationid="aorin" creationdate="20171212T123012Z">
+        <seg>そして手を握って隠し、全員同時に開いてみせ、クイーンに提供するために決定したリソース量を公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They may choose
 either the Place or Pass action.</seg>
       </tuv>
@@ -4603,6 +4619,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092545Z" creationid="aorin" creationdate="20171116T092545Z">
         <seg>引き出し、白豆を取り出した！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>either the desired Food, or Silver, or Gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123107Z" creationid="aorin" creationdate="20171212T123107Z">
+        <seg>食料、シルバー、ゴールドのいずれか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,6 +5212,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093726Z" creationid="aorin" creationdate="20171212T093726Z">
         <seg> 16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• You must always offer 1 type of resource:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T123056Z" creationid="aorin" creationdate="20171212T123056Z">
+        <seg>•提供するリソースの種類は常に1つです：</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
