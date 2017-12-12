@@ -2670,6 +2670,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one Pixie per round can reach the Loyal Servant space at the entrance of the Queen’s castle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T163522Z" creationid="aorin" creationdate="20171212T163522Z">
+        <seg>ラウンドごとに、妖精1体のみがクイーンの城のエントランスにある忠実な使用人スペースに到達できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only promoted Pixies that are currently on a double action space somewhere on the game board, can be demoted.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125200Z" creationid="aorin" creationdate="20171212T125200Z">
