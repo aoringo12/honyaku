@@ -1826,6 +1826,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give each player Penalty Points as depicted on the Silver and Gold track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T171450Z" creationid="aorin" creationdate="20171212T171450Z">
+        <seg>各プレイヤーが受け取るペナルティポイントはシルバーとゴールドトラックに描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give each player a set of pieces in
 the player’s color, a Roaster bag,
 and a Research Lab.</seg>
