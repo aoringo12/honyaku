@@ -624,6 +624,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Location must have at least one occupied space in order to be targeted by the Temp Agency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T033048Z" creationid="aorin" creationdate="20171212T033048Z">
+        <seg>Temp Agencyの対象にするには、そのロケーションの少なくとも1つのスペースが占領されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player cannot show what’s in a
 Roaster unless a card, action or rule
 requires it.</seg>
@@ -2346,6 +2354,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plans bought from the Supplier are placed into this Neighborhood as Buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T033245Z" creationid="aorin" creationdate="20171212T033245Z">
+        <seg>Supplierから購入したプランは、近所に建物として配置されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players add new Blends to the
 Best-Seller List and calculate scores.</seg>
       </tuv>
@@ -3145,6 +3161,14 @@ plus the desired Location’s cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The required number of to be placed is one (1) plus the desired Location’s cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032952Z" creationid="aorin" creationdate="20171212T032952Z">
+        <seg>配置する必要がある○の数は、模範するロケーションのコストに1追加したものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The row does not need to be filled first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140919Z" creationid="nakahodo" creationdate="20171127T140919Z">
@@ -3434,9 +3458,8 @@ with the following exception:</seg>
       <tuv lang="EN-US">
         <seg>This Location functions identically to the Producer with the following exception:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>このロケーションは次を除いてProcucerと完全に同様に機能します：
-アップキープフェイズ時、このロケーションに任意の●が配置されていた場合、オーナーはミントサプライから●を得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T033133Z" creationid="aorin" creationdate="20171212T025229Z">
+        <seg>このロケーションは次の例外を除いて、Producerと同じように機能します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,14 +3639,6 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T093528Z" creationid="nakahodo" creationdate="20171001T093054Z">
         <seg>ビバジャワ：コーヒーゲームは各ラウンドが3つのフェイズに別れた、複数のラウンドによってされます： </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>WHOLESALER</seg>
-      </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>プレイヤーは、自身の近所から任意の建物[または]プラン1枚を取り、プランサプライにこれを配置できる。その後、サプライからプラン1枚を取り、自身の近所にこれを配置する。</seg>
       </tuv>
     </tu>
     <tu>
