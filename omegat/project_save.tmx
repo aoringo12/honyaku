@@ -1253,6 +1253,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check which step the player’s discs are at and look at the middle row (between both tracks) to see how many Penalty Points these levels correspond to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T172705Z" creationid="aorin" creationdate="20171212T172705Z">
+        <seg>プレイヤーのディスクがどの位置にあるのかを確認し、中央の列（両トラックの間）を見て、これらレベルに対応するペナルティポイントを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cherilyn goes next and pulls a
 white bean - things are suddenly
 looking better!</seg>
