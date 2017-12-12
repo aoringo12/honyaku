@@ -1350,6 +1350,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Upkeep phase, take from the Mint Supply and place it on Gallery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034340Z" creationid="aorin" creationdate="20171212T034340Z">
+        <seg>アップキープフェイズ時、ミントサプライから○を取り、Galleryにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Starter Slate
 has a column of 5
 beans of specific
@@ -1515,6 +1523,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072233Z" creationid="nakahodo" creationdate="20171209T072233Z">
         <seg>得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gallery has equal to the number of placed upon it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034410Z" creationid="aorin" creationdate="20171212T034410Z">
+        <seg>Galleryはその上に置かれた○の数に等しい★を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +2974,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The newly-available Location may now be used like any other Location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034307Z" creationid="aorin" creationdate="20171212T034307Z">
+        <seg>新しく利用可能となったロケーションは、他のロケーションと同じように使用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of placed is
 determined by the desired Plan’s Cost.</seg>
       </tuv>
@@ -3683,6 +3707,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124757Z" creationid="nakahodo" creationdate="20171127T124757Z">
         <seg>何が「攻撃」かそうではないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a Deed type Plan is built, the corresponding Location becomes open (flip it over to its ‘open’ side), the player with this deed is considered the Owner of that Location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034235Z" creationid="aorin" creationdate="20171212T034235Z">
+        <seg>ディードタイプのプランが建築される時、該当するロケーションをオープンします（「オープン」側に裏返します）。ディードを持つプレイヤーがそのロケーションの所有者とみなされます。</seg>
       </tuv>
     </tu>
     <tu>
