@@ -1382,6 +1382,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the first round of the game, players cannot steal Food as everyone starts in the mines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T095000Z" creationid="aorin" creationdate="20171212T095000Z">
+        <seg>ゲームの最初のラウンド時、プレイヤーたちは全員が炭鉱から始まるので、食料を盗むことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Pixie receives Food (obligatory!) according to the food icons depicted on the board at the Pixie’s position.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094653Z" creationid="aorin" creationdate="20171212T094653Z">
@@ -1712,6 +1720,14 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player has the Permanent Ability of stealing 1 Silver bar however, this player does receive 1 Silver bar from the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T095055Z" creationid="aorin" creationdate="20171212T095055Z">
+        <seg>ただし、プレイヤーガ永久アビリティの「シルバーの延べ棒1枚を盗む」を持っている場合、このプレイヤーは共通サプライからシルバーの延べ棒1つを受け取ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player needs to place
 a fourth Marker, that player removes a Marker from another
 blend or doesn’t add a Marker to a Blend created this round.</seg>
@@ -1979,6 +1995,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093421Z" creationid="nakahodo" creationdate="20170924T093421Z">
         <seg>ワールドマップの地域上部にブレンドスレートがゲーム中やセットアップ時に配置されている時、各ブレンドスレートの特別なシンボルはその地域の特定の国に実行しなければならないアクションを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the unlikely event the Food supply is almost depleted, it’s important to perform the stealing phase using the new turn order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T095433Z" creationid="aorin" creationdate="20171212T095433Z">
+        <seg>万が一、食料サプライが枯渇しかけている場合、新しいターン順番で窃盗フェイズが実行されることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
