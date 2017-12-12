@@ -1462,6 +1462,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Demoting a Pixie</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173456Z" creationid="aorin" creationdate="20171212T173456Z">
+        <seg>妖精の降格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determine Turn Order
 The player with the lowest score on the Performance
 Track will go first.</seg>
