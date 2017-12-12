@@ -4213,6 +4213,14 @@ Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can perform a number of promotion steps equal to the number of correct Food tokens offered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T153143Z" creationid="aorin" creationdate="20171212T153143Z">
+        <seg>提供した適切な食料の数に等しいだけ、妖精たちを昇進させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They do not have to reveal this
 card until they decide to build it.</seg>
       </tuv>
