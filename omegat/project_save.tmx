@@ -1001,14 +1001,6 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>BUILDER</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110844Z" creationid="nakahodo" creationdate="20171211T110844Z">
-        <seg>　</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Bean is not placed
 and Country Token
 is turned over.</seg>
@@ -1064,14 +1056,6 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124553Z" creationid="nakahodo" creationdate="20171001T124553Z">
         <seg>コーヒーの礼儀</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>CROWDFUNDER</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110845Z" creationid="nakahodo" creationdate="20171211T110845Z">
-        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -1688,6 +1672,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a tie for Cost, it then checks the Type of Plan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031811Z" creationid="aorin" creationdate="20171212T031811Z">
+        <seg>コストがタイの場合、プランの種類をチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is ever no unanimous decision, players on a team must pull
 one single bean at a time
 in turn order.</seg>
@@ -1709,8 +1701,8 @@ the Plan Deck.</seg>
       <tuv lang="EN-US">
         <seg>If there is still a tie, it will buy the Plan closest to the Plan Deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
-        <seg>まだタイの場合、プランデッキに近いプランを購入します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031818Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>まだタイの場合、プランデッキに近い方のプランを購入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1901,14 +1893,6 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025833Z" creationid="aorin" creationdate="20171212T025833Z">
         <seg>キーワード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LEADERSHIP COUNCIL</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110837Z" creationid="nakahodo" creationdate="20171211T110514Z">
-        <seg>注意：既にそのプレイヤーがスタートプレイヤートークンを持っている場合、これを保持し続けるためにLeadership Councilを使用することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2180,6 +2164,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T082626Z" creationid="nakahodo" creationdate="20171209T082626Z">
         <seg>AIが現在購入できるプランのみが考慮されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only Plans the AI can currently afford are taken into consideration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031827Z" creationid="aorin" creationdate="20171212T031827Z">
+        <seg>AIが現在購入できるプランのみを考慮します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,6 +2814,22 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The AI will always build the oldest Plan in its Neighborhood first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031709Z" creationid="aorin" creationdate="20171212T031709Z">
+        <seg>•AIは常に自身の近所にある、最も古いプランから建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AI will buy Plans based on their Supplier Priority, checking first for the Cost of available Plans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031802Z" creationid="aorin" creationdate="20171212T031802Z">
+        <seg>AIは自身の仕入れ優先度に従いプランを購入しようとし、まず利用可能なプランのコストをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Best-
 Seller List</seg>
       </tuv>
@@ -2980,8 +2988,8 @@ least one bean.</seg>
       <tuv lang="EN-US">
         <seg>The player builds one Plan in their Neighborhood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110841Z" creationid="nakahodo" creationdate="20171211T110455Z">
-        <seg>　</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031852Z" creationid="nakahodo" creationdate="20171211T110455Z">
+        <seg>プレイヤーは自身の近所のプラン1枚を建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3056,8 @@ Supply.</seg>
       <tuv lang="EN-US">
         <seg>The player gains from the Mint Supply, then each other player gains from the Mint Supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
-        <seg>　</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T031938Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>プレイヤーはミントサプライから○○○を得て、その後、他の各プレイヤーはミントサプライから○を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3075,9 +3083,8 @@ current holder.</seg>
       <tuv lang="EN-US">
         <seg>The player gains the Starting Player Token from its current holder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025228Z" creationid="aorin" creationdate="20171212T025228Z">
-        <seg>BUULDER
-自身の近所のプラン1枚を建築する。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T032000Z" creationid="aorin" creationdate="20171212T025228Z">
+        <seg>プレイヤーはスタートプレイヤートークンを現在の保持者から得ます。</seg>
       </tuv>
     </tu>
     <tu>
