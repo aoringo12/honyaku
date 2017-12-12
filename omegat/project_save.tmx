@@ -632,6 +632,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mine slave can be promoted to the first row of action fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T154259Z" creationid="aorin" creationdate="20171212T154223Z">
+        <seg>炭鉱のかわいそうな妖精は、アクションフィールドの最初の行に昇進できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player cannot show what’s in a
 Roaster unless a card, action or rule
 requires it.</seg>
@@ -2421,6 +2429,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
         <seg>ブレンドの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the slave is not chained to any Rocks (see “Mine” Action).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T154325Z" creationid="aorin" creationdate="20171212T154325Z">
+        <seg>ドレイがいわに繋がれていない事を確認してください（”炭鉱”アクションを参照）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4811,6 +4827,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T065329Z" creationid="nakahodo" creationdate="20171209T065329Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can never promote a Pixie to an action field on the same or on a lower level in the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
+        <seg>あなたはゲームボード上の同じ[または]それ以下の位置のアクションフィールドへと、妖精を昇進させることはできません。</seg>
       </tuv>
     </tu>
     <tu>
