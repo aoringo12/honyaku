@@ -1725,6 +1725,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However the Queen will punish you severely for your lack of trying;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T110353Z" creationid="aorin" creationdate="20171212T110353Z">
+        <seg>しかし、クイーンはあなたの努力が欠如しているとして、厳しく罰するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However the Queen will punish you severely for your lack of trying; you receive 5 Penalty Points and you’re not permitted any more actions during this action phase!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110330Z" creationid="aorin" creationdate="20171212T110330Z">
@@ -4503,6 +4511,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>all actions can only be performed once per turn, with the exception of the Silver into Gold action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T110655Z" creationid="aorin" creationdate="20171212T110655Z">
+        <seg>全てのアクションは、ゴールドの中のシルバーを除いて、ターン毎に一度のみ実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and pulls out a white bean!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092545Z" creationid="aorin" creationdate="20171116T092545Z">
@@ -4539,6 +4555,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T105536Z" creationid="aorin" creationdate="20171212T105536Z">
         <seg>あなたがそのアクションを実行dけいない場合、アクションを選択することはできません（例外：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you receive 5 Penalty Points and you’re not permitted any more actions during this action phase!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T110546Z" creationid="aorin" creationdate="20171212T110546Z">
+        <seg>あなたはペナルティポイント5を受け取り、このアクションフェイズではこれ以上のアクションができなくなります！</seg>
       </tuv>
     </tu>
     <tu>
