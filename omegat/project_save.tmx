@@ -877,6 +877,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apples, Honey or Bread.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T112721Z" creationid="aorin" creationdate="20171212T112715Z">
+        <seg>りんご、はちみつ、パン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking or being attacked by another player is option.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
@@ -1526,6 +1534,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn She will want 1 specific type of Food:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T112706Z" creationid="aorin" creationdate="20171212T112706Z">
+        <seg>各ターン、彼女は特定の種類の食料1つを望みます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn, a player uses 1 or 2 Action Discs to immediately perform 1 action:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
@@ -1538,6 +1554,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103919Z" creationid="aorin" creationdate="20171212T103919Z">
         <seg>1つのディスクを配置できるアクションスペースに、アクションディスク1つのみを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everybody makes an offer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
+        <seg>全員が提供する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3433,6 +3457,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Queen has a peculiar diet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T112627Z" creationid="aorin" creationdate="20171212T112617Z">
+        <seg>クイーンは独自の食生活を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Queen’s Favorite chooses first, followed by the second player on the turn order track (large cubes) and so on.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103526Z" creationid="aorin" creationdate="20171212T103526Z">
@@ -4201,6 +4233,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T091720Z" creationid="aorin" creationdate="20171116T091720Z">
         <seg>彼を信じ、シェリリンとTCはまずクリスのブレンドを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn the leftmost face-down Round Tile face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T120413Z" creationid="aorin" creationdate="20171212T120413Z">
+        <seg>ラウンドタイルの一番左のものを表向きにします。</seg>
       </tuv>
     </tu>
     <tu>
