@@ -3007,6 +3007,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pit of Oblivion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173125Z" creationid="aorin" creationdate="20171212T173125Z">
+        <seg>忘却の穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixies in mines are slaves and do not receive any resources.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094744Z" creationid="aorin" creationdate="20171212T094744Z">
@@ -3251,6 +3259,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025555Z" creationid="aorin" creationdate="20171212T025555Z">
         <seg>プレイヤーたちはミントピアの都市で最も優れた地域を開発するために働いている、近隣プランナーの役割を担います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point Tile of value 1 from the general supply and put it behind your player screen, to score at the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T173106Z" creationid="aorin" creationdate="20171212T173106Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
