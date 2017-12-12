@@ -3292,6 +3292,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The current round is finished by the players, after which the final points are calculated.Reward Tiles are kept secret behind the player screens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T103209Z" creationid="aorin" creationdate="20171212T103209Z">
+        <seg>現在のラウンドがプレイヤーたちにより終了したら、最終ポイントが計算されます。報酬タイルはプレイヤースクリーンの後ろに保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following details how to play VivaJava with 5-8 players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094909Z" creationid="nakahodo" creationdate="20171001T094909Z">
