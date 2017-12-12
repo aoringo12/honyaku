@@ -1228,8 +1228,8 @@ including, but not limited to:</seg>
       <tuv lang="EN-US">
         <seg>Counts as two (2) Buildings in all scenarios, including, but not limited to:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T025229Z" creationid="aorin" creationdate="20171212T025229Z">
-        <seg>ASSEMBLER</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T033751Z" creationid="aorin" creationdate="20171212T033324Z">
+        <seg>次を含む、全てのケースで○建物2つとしてカウントします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,6 +2021,14 @@ returned to the general supply (see page 18).</seg>
 Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131630Z" creationid="nakahodo" creationdate="20171211T131630Z">
+        <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Museum, Obelisk, Corporate HQ and Tiebreakers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T033330Z" creationid="aorin" creationdate="20171212T033330Z">
         <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
       </tuv>
     </tu>
