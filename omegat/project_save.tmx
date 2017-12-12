@@ -1682,6 +1682,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you run out of Mint Tokens, try taking a few from the Supplier without emptying any spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025832Z" creationid="aorin" creationdate="20171212T025832Z">
+        <seg>ミントトークンを使い切った場合、任意のスペースを空にしたりすることなく、「ファミマ」から幾つかミントを持ち込むと良いでしょう（または何かで代用してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Root, the players drive the narrative, and the differences among the roles create unparalleled interaction and replayability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
@@ -1895,6 +1903,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131630Z" creationid="nakahodo" creationdate="20171211T131630Z">
         <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T025607Z" creationid="aorin" creationdate="20171212T025607Z">
+        <seg>注意</seg>
       </tuv>
     </tu>
     <tu>
