@@ -1828,6 +1828,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give each player up to a maximum of 2 Penalty Points for any slaves still in that player’s mine:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T170003Z" creationid="aorin" creationdate="20171212T170003Z">
+        <seg>自身の炭鉱にて、まだ妖精が働いている各プレイヤーは、最大2ペナルティポイントまでを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give penalty points in this order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165711Z" creationid="aorin" creationdate="20171212T165711Z">
@@ -5103,6 +5111,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the two lowest slave positions in the mine are always the first ones to be filled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T171124Z" creationid="aorin" creationdate="20171212T171124Z">
+        <seg>炭鉱の最も低い場所にある2つのドレイの場所は、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>you may not choose an action if you’re unable to perform it (exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T105536Z" creationid="aorin" creationdate="20171212T105536Z">
@@ -5398,6 +5414,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 1 Penalty Point for 1 slave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T170044Z" creationid="aorin" creationdate="20171212T170017Z">
+        <seg>•1ドレイで1ペナルティポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• 1 player screen</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093449Z" creationid="aorin" creationdate="20171212T093449Z">
@@ -5418,6 +5442,15 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093451Z" creationid="aorin" creationdate="20171212T093451Z">
         <seg>•りんご2、パン2，シルバーの延べ棒2、ゴールドの延べ棒2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 2 Penalty Points for 2 or more slaves Important:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T170059Z" creationid="aorin" creationdate="20171212T170059Z">
+        <seg>•2以上のドレイで2ペナルティポイント
+注意：</seg>
       </tuv>
     </tu>
     <tu>
