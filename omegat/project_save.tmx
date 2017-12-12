@@ -1915,6 +1915,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If at least 1 player offered the right kind of Food, the Queen is satisfied and a reward phase is initiated (IV).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T124131Z" creationid="aorin" creationdate="20171212T124131Z">
+        <seg>提供できていた場合、クイーンは満足し、報酬フェイズ（Ⅳ）が開始されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If for any reason, a new or existing Blend does not rank high
 enough to place onto the list, it is removed from play.</seg>
       </tuv>
@@ -1937,6 +1945,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030428Z" creationid="aorin" creationdate="20171212T030428Z">
         <seg>プランサプライを十分に補充できない場合、ゲームは終了し得点計算を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If nobody offered the right type of Food, the Queen is outraged by the lack of respect her subordinates have shown her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T124258Z" creationid="aorin" creationdate="20171212T124258Z">
+        <seg>誰も提供できていなかった場合、クイーンは自身の部下の敬意のなさに激怒します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2667,6 +2683,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T111050Z" creationid="aorin" creationdate="20171212T111050Z">
         <seg>次の順番でステップを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T124303Z" creationid="aorin" creationdate="20171212T124303Z">
+        <seg>次を実行します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5219,6 +5243,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123933Z" creationid="aorin" creationdate="20171212T123933Z">
         <seg>•シルバーとゴールドは、もはや該当するトラックをこれ以上進行できなかったとしても、有効な提供品としてみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Silver and Gold that were offered are returned to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T124929Z" creationid="aorin" creationdate="20171212T124929Z">
+        <seg>•提供されたシルバーとゴールドは共通サプライに戻されます。</seg>
       </tuv>
     </tu>
     <tu>
