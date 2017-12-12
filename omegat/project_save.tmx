@@ -2512,6 +2512,22 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provides for each Building in the same Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034709Z" creationid="aorin" creationdate="20171212T034709Z">
+        <seg>同じ近所にある建物ごとに、★を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides for eachBuilding in the same Neighborhood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034631Z" creationid="aorin" creationdate="20171212T034631Z">
+        <seg>同じ近所にある○建物ごとに、★を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pull
 them out one at a
 time and stack on
@@ -2548,6 +2564,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083012Z" creationid="nakahodo" creationdate="20171211T083012Z">
         <seg>報酬ポイントを集めながら、クイーンからのペナルティポイントをできるだけ少なく受け取りようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduce the number of provided by each Building in the same Neighborhood by one (1), to a minimum of zero (0).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034637Z" creationid="aorin" creationdate="20171212T034557Z">
+        <seg>同じ近所にある各○建物は提供する★が1減少します。最小は0です。</seg>
       </tuv>
     </tu>
     <tu>
