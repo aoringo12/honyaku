@@ -2272,8 +2272,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Pay one (1) fewer when buying Plans at the Supplier, to a minimum of one (1) .</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171212T034759Z" creationid="aorin" creationdate="20171212T034759Z">
-        <seg>Supplierからプランを購入する時、○を1少なく支払います。最小は1です。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171212T034936Z" creationid="aorin" creationdate="20171212T034759Z">
+        <seg>Supplierからプランを購入する時、支払う○が1減少します。。最小は1です。</seg>
       </tuv>
     </tu>
     <tu>
