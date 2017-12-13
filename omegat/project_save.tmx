@@ -1950,6 +1950,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exchanging with a Tile of an opponent:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075259Z" creationid="aorin" creationdate="20171213T075259Z">
+        <seg>対戦相手のタイルと交換する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exchanging with a Tile on the game board:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075459Z" creationid="aorin" creationdate="20171213T075459Z">
+        <seg>ゲームボード上のタイルと交換する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face up Plan cards in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
@@ -2372,6 +2388,14 @@ on the List, the old Blend is considered inferior.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123630Z" creationid="aorin" creationdate="20171212T123630Z">
         <seg>プレイヤーが誤って異なる種類の食料を提供した場合、そのプレイヤーは直ちに5ペナルティポイントを受け取り、自身の個人サプライに提供した食料を戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player doesn’t own a Tile of a certain type, they can’t trade for Tiles of that type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075244Z" creationid="aorin" creationdate="20171213T075244Z">
+        <seg>プレイヤーガ特定の種類のタイルを所有していない場合、その種類のタイルは交換できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6841,6 +6865,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Just swap a Tile on your own player screen with a Tile of the same type on an opponent’s player screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075346Z" creationid="aorin" creationdate="20171213T075346Z">
+        <seg>•自身のプレイヤースクリーンにあるタイル1枚と、対戦相手のプレイヤースクリーンにある、同じ種類のタイル1枚とを交換する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Place 1 Apple, Bread, Honey and a Silver bar on the Special Offering field.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093656Z" creationid="aorin" creationdate="20171212T093656Z">
@@ -6998,6 +7030,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124959Z" creationid="nakahodo" creationdate="20171127T124959Z">
         <seg>- ナイトが同じタイルにいる対戦相手プレイヤー（またはクリスタル）とエンカウントする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The opponent may not refuse the exchange.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075407Z" creationid="aorin" creationdate="20171213T075407Z">
+        <seg>•対戦相手は交換を拒否することはできません。</seg>
       </tuv>
     </tu>
     <tu>
