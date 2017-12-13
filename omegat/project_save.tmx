@@ -1858,6 +1858,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game end</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032312Z" creationid="aorin" creationdate="20171213T032312Z">
+        <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game round</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093900Z" creationid="aorin" creationdate="20171212T093900Z">
@@ -4037,6 +4045,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The game ends when one of the following conditions is met:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032355Z" creationid="aorin" creationdate="20171213T032355Z">
+        <seg>次の条件の1つに合致する時、ゲームは終了します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
@@ -5712,6 +5728,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• As long as you are the Queen’s Favorite, you don’t have to demote a promoted Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032306Z" creationid="aorin" creationdate="20171213T032306Z">
+        <seg>•あなたがクイーンにファボられている限り、あなたは昇進済みの妖精を降格させなくても良いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Each player places their Pixies in their mine:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093454Z" creationid="aorin" creationdate="20171212T093454Z">
@@ -5756,6 +5780,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031848Z" creationid="aorin" creationdate="20171213T031848Z">
         <seg>•ゲームボード上にあなたの昇格している妖精が複数いる場合、あなたは降格する1体を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you own and use the Mercy Single Use Tile to beg for mercy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032146Z" creationid="aorin" creationdate="20171213T032143Z">
+        <seg>•あなたが一生に一度の命乞いタイルを持っていて使用し、慈悲を乞う。</seg>
       </tuv>
     </tu>
     <tu>
