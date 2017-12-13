@@ -266,6 +266,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--At the end of the Reward phase, the Queen’s Favorite places 1 Pixie of the Dummy Player one step up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131744Z" creationid="nakahodo" creationdate="20171213T131744Z">
+        <seg>•報酬フェイズが終了した後、クイーンからファボられているプレイヤーは、ダミープレイヤーの妖精1体を1ステップ昇格させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Flame Wall affects players only when the enter the space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134017Z" creationid="nakahodo" creationdate="20171127T134017Z">
@@ -2177,6 +2185,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From here on out, a player who has the Double Offering Tile is allowed to offer three different goods (Silver, Gold and the appropriate Food).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131600Z" creationid="nakahodo" creationdate="20171213T131600Z">
+        <seg>ここで、ダブル提供タイルを持っているプレイヤーは、3種の異なる物品を提供できる（シルバー、ゴールド、適切な食料）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From now on, this Tile will grant you 2, 3 or 4 Food of your choice during the stealing phase, in the amount as depicted on the Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
@@ -2853,6 +2869,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a situation where there are no free spots to perform the promotion, skip it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T132046Z" creationid="nakahodo" creationdate="20171213T132046Z">
+        <seg>昇格を実行するための空いたスポットがない場合、これをスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to avoiding penalties, there are three types of Reward Points to achieve:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T100855Z" creationid="aorin" creationdate="20171212T100825Z">
@@ -3333,6 +3357,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Apples can be paid to demote any Pixies at this time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131825Z" creationid="nakahodo" creationdate="20171213T131825Z">
+        <seg>この時、任意の妖精を降格させるためにリンゴを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not bad.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092609Z" creationid="aorin" creationdate="20171116T092609Z">
@@ -3387,6 +3419,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093930Z" creationid="aorin" creationdate="20171212T093930Z">
         <seg>提供フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offering phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131357Z" creationid="nakahodo" creationdate="20171213T131357Z">
+        <seg>提供フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3739,6 +3779,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permanent abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T132216Z" creationid="nakahodo" creationdate="20171213T132216Z">
+        <seg>永続アビリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phagius rolls 3 whips and gives 1 Penalty Point to Indigeaux and 2 Penalty Points to Firenze.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045537Z" creationid="aorin" creationdate="20171213T045537Z">
@@ -3767,6 +3815,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094744Z" creationid="aorin" creationdate="20171212T094744Z">
         <seg>炭鉱の妖精は労働を強いられており、何のリソースも提供しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixies of that colour on the mines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131349Z" creationid="nakahodo" creationdate="20171213T131349Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4282,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
         <seg>ロケーションにある●を全てをミントサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131604Z" creationid="nakahodo" creationdate="20171213T131604Z">
+        <seg>報酬フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6260,6 +6324,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When changing Silver into Gold, the player pays 1 less Silver than indicated by their position on the Silver track (but minimum 1 Silver).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133123Z" creationid="nakahodo" creationdate="20171213T133123Z">
+        <seg>ゴールドにシルバーを変換時、シルバートラックの位置に示されたシルバーを1少なくして支払える（最小1シルバー）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When choosing this action, the player rolls the Whip die and divides Penalty Points among his opponents, equal to the number of whips on the die.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045425Z" creationid="aorin" creationdate="20171213T045425Z">
@@ -7070,10 +7142,18 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Both players make double offerings each time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131455Z" creationid="nakahodo" creationdate="20171213T131455Z">
+        <seg>•両プレイヤーは毎回2倍提供を行う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Choose a third colour for a Dummy Player and place 5</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131303Z" creationid="nakahodo" creationdate="20171213T131303Z">
-        <seg>•</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131458Z" creationid="nakahodo" creationdate="20171213T131303Z">
+        <seg>•3番目の色を選択してダミープレイヤーとし、鉱山にその色の妖精5体を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,6 +7234,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075346Z" creationid="aorin" creationdate="20171213T075346Z">
         <seg>•自身のプレイヤースクリーンにあるタイル1枚と、対戦相手のプレイヤースクリーンにある、同じ種類のタイル1枚とを交換する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Pixies of the Dummy Player are allowed to be demoted using Apples whenever applicable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T132205Z" creationid="nakahodo" creationdate="20171213T132205Z">
+        <seg>•ダミープレイヤーの妖精は、該当する場合はリンゴを使用して降格させることができます。</seg>
       </tuv>
     </tu>
     <tu>
