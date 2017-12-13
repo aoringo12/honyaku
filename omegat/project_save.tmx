@@ -1697,6 +1697,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player screen has room for only three different Tiles:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043319Z" creationid="aorin" creationdate="20171213T043319Z">
+        <seg>各プレイヤースクリーンは3つの異なるタイルのスペースを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player, in turn order, places their Field Researchers onto a
 Country on the World Map.</seg>
       </tuv>
@@ -2164,6 +2172,14 @@ on the List, the old Blend is considered inferior.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223247Z" creationid="aorin" creationdate="20171024T223247Z">
         <seg>新しいブレンドが、既にリストにあるブレンドと全く同じ場合、古いブレンドは下位の物だと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player already has a Food Tile, the player is not allowed to choose this action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043120Z" creationid="aorin" creationdate="20171213T043120Z">
+        <seg>プレイヤーガ既に食料タイルを持っている場合、このアクションヲ選択することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5194,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043122Z" creationid="aorin" creationdate="20171213T043122Z">
+        <seg>タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To vote, each player
 takes the Blend/Research Token in their hand and secretly chooses a
 side to place face-up on the table.</seg>
@@ -5259,6 +5283,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151558Z" creationid="nakahodo" creationdate="20171103T151558Z">
         <seg>鋼の掟の下で、森の多くの生き物たちは協力しあっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until the last round, players keep acquiring the resources depicted on the Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043059Z" creationid="aorin" creationdate="20171213T043059Z">
+        <seg>最後のラウンドまで、タイルに描かれたリソースを獲得し続けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,6 +5553,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141512Z" creationid="nakahodo" creationdate="20171127T141512Z">
         <seg>これが発生すると、直ちに出現したと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you acquire a Food Tile, Permanent Ability Tile or Single Use Tile, you put it on your player screen immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043251Z" creationid="aorin" creationdate="20171213T043251Z">
+        <seg>あなたが食料タイル、永続能力タイル、一回使用タイルを獲得するたびに、あなたは直ちに、自身のプレイヤースクリーンにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
