@@ -362,6 +362,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--or 2 Silver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045858Z" creationid="aorin" creationdate="20171213T045858Z">
+        <seg>•または、2シルバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-Dragon abilities that can attack the Thief (Claw, Scratch, Flame Wall) ignore Stealth.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T133052Z" creationid="nakahodo" creationdate="20171127T133052Z">
@@ -1373,6 +1381,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Casino</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045814Z" creationid="aorin" creationdate="20171213T045814Z">
+        <seg>カジノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check to see if at least 1 player offered the right type of Food.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125917Z" creationid="aorin" creationdate="20171212T124025Z">
@@ -2148,6 +2164,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golden Ring</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045910Z" creationid="aorin" creationdate="20171213T045910Z">
+        <seg>ゴールデンリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -2828,6 +2852,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123312Z" creationid="aorin" creationdate="20171212T123312Z">
         <seg>複数の種類のリソースを提供することはできません。ただし、ダブル提供タイルを所有しておりこれを使用する場合は、そのプレイヤーは1の代わりに2種類のリソースを保持することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s not allowed to pay multiple times to advance multiple steps using only this 1 action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045810Z" creationid="aorin" creationdate="20171213T045810Z">
+        <seg>この1アクションで複数回の支払いを行い複数ステップ進めることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,6 +4816,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player rolls the Casino die and receives resources according to the die roll:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045839Z" creationid="aorin" creationdate="20171213T045839Z">
+        <seg>カジノダイスをロールし、ロールしたダイスに従ってリソースを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player that offered the most Silver advances their disc 1 additional step.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130319Z" creationid="aorin" creationdate="20171212T125955Z">
@@ -6294,6 +6334,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 1 Apple, 1 Honey and 1 Bread</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045852Z" creationid="aorin" creationdate="20171213T045852Z">
+        <seg>•りんご1、はちみつ1、パン1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• 1 Penalty Point for 1 slave</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T170044Z" creationid="aorin" creationdate="20171212T170017Z">
@@ -6701,6 +6749,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123317Z" creationid="aorin" creationdate="20171212T123056Z">
         <seg>•提供するリソースの種類は常に1です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• or 1 Gold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045906Z" creationid="aorin" creationdate="20171213T045906Z">
+        <seg>•または、1ゴールド</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
