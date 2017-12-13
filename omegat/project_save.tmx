@@ -1774,6 +1774,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, the Queen looks behind your player screen and sees all the resources you didn’t offer to her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T033515Z" creationid="aorin" creationdate="20171213T033515Z">
+        <seg>最後に、クイーンはあなたのプレイヤースクリーンの後ろを見て、彼女に提供されなかった全てのリソースを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food Tiles also generate Food.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094752Z" creationid="aorin" creationdate="20171212T094752Z">
@@ -1797,6 +1805,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094937Z" creationid="nakahodo" creationdate="20171001T094937Z">
         <seg>さらに3から4プレイヤーでのゲームプレイは、ページ13を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each Rock that remains in a player’s mine, that player receives 1 Penalty Point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T033137Z" creationid="aorin" creationdate="20171213T033137Z">
+        <seg>各プレイヤーの炭鉱に残っている岩ごとに、1ペナルティポイントを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2548,6 +2564,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025833Z" creationid="aorin" creationdate="20171212T025833Z">
         <seg>キーワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep in mind that even at this point Bread can be spent to remove Rocks (see “Mine” Action).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T033252Z" creationid="aorin" creationdate="20171213T033252Z">
+        <seg>この時点でも、岩を取り除くためにパンを消費できることを覚えておいてください（「炭鉱」アクション参照）。</seg>
       </tuv>
     </tu>
     <tu>
