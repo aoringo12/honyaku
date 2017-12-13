@@ -2513,6 +2513,14 @@ in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no opposing promoted Pixie on the game board, this action can’t be chosen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064229Z" creationid="aorin" creationdate="20171213T064229Z">
+        <seg>ゲームボードに対戦相手の昇進済み妖精がいない場合、このアクションは選択できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is still a tie, it will buy the Plan closest to
 the Plan Deck.</seg>
       </tuv>
