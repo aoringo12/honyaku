@@ -3342,6 +3342,22 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orienne has 4 Gold in total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063149Z" creationid="aorin" creationdate="20171213T063149Z">
+        <seg>オリアナは合計4ゴールドを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orienne has reached the 4th step on the Gold track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063054Z" creationid="aorin" creationdate="20171213T063054Z">
+        <seg>オリアナはゴールドトラックの4段目に到達しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other players don't need to be camping; however?Athey need to agree for you to be able to affect them (unless the card states otherwise?Afor example cards with a ?N symbol).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
@@ -4026,6 +4042,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rob a Pixie</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063301Z" creationid="aorin" creationdate="20171213T063256Z">
+        <seg>妖精強盗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
@@ -4105,6 +4129,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021642Z" creationid="nakahodo" creationdate="20171211T071411Z">
         <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She pays 2 Gold to forge 1 Golden Ring, as she is not allowed to forge more than one Ring with 1 action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063230Z" creationid="aorin" creationdate="20171213T063230Z">
+        <seg>彼女は1ゴールデンリングを鍛造するために2ゴールド支払います。1アクションで複数のリングを鍛造することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4684,6 +4716,14 @@ least one bean.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031852Z" creationid="nakahodo" creationdate="20171211T110455Z">
         <seg>プレイヤーは自身の近所のプラン1枚を建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player chooses an opposing Pixie on a double action space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063626Z" creationid="aorin" creationdate="20171213T063626Z">
+        <seg>プレイヤーはダブルアクションスペースにいる対戦相手の妖精1体を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5369,6 +5409,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043433Z" creationid="aorin" creationdate="20171213T043406Z">
         <seg>これは、そのプレイヤーが同じ種類のタイルを複数持つことはできないことを意味します（例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means the cost to forge a Golden Ring is 2 Gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063142Z" creationid="aorin" creationdate="20171213T063142Z">
+        <seg>これはゴールデンリングが2ゴールドのコストで鍛造できることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
