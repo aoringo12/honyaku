@@ -2558,6 +2558,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the received Penalty Points move the player’s score marker onto or over a slave symbol on the score track, the player must demote a Pixie to their mine immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T120138Z" creationid="nakahodo" creationdate="20171213T120011Z">
+        <seg>ペナルティポイントを受け取ることにより、スコアトラックのドレイシンボルにプレイヤーのスコアマーカーが乗るか超えて移動した場合、プレイヤーは直ちに自身の鉱山に妖精を降格させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the victim no longer possesses all of the resources which are to be stolen, the player only hands over the resources they have remaining.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064158Z" creationid="aorin" creationdate="20171213T064158Z">
