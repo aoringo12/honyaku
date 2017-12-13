@@ -2448,6 +2448,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can never be sent back to the mines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T031935Z" creationid="aorin" creationdate="20171213T031935Z">
+        <seg>彼は絶対に炭鉱に送られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is up to the players to decide which group will ultimately take root.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153637Z" creationid="nakahodo" creationdate="20171103T153637Z">
@@ -4482,6 +4490,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are a couple of ways in which you can prevent having to demote a Pixie:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032033Z" creationid="aorin" creationdate="20171213T032033Z">
+        <seg>妖精を降格させない方法はいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are five spaces for beans on each Blend Slate and these
 will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
@@ -5664,6 +5680,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• A Loyal Servant is set for life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T031914Z" creationid="aorin" creationdate="20171213T031914Z">
+        <seg>•忠実な使用人は一生安泰です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• A Pixie that has attained the status of Loyal Servant can never be demoted.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165427Z" creationid="aorin" creationdate="20171212T165427Z">
@@ -5704,6 +5728,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• If all of your Pixies are either Loyal Servants or slaves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032100Z" creationid="aorin" creationdate="20171213T032100Z">
+        <seg>•あなたの妖精全てが忠実な使用人[または]ドレイになっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• If someone shows an empty hand (thus offering nothing to the Queen) they immediately receive 5 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123655Z" creationid="aorin" creationdate="20171212T123411Z">
@@ -5716,6 +5748,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165342Z" creationid="aorin" creationdate="20171212T165342Z">
         <seg>•最初のレベルにいる妖精を降格させる時、場所を交換することなく、その妖精は彼の炭鉱へと戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you have more than one promoted Pixie on the game board, you can choose which one you demote.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T031848Z" creationid="aorin" creationdate="20171213T031848Z">
+        <seg>•ゲームボード上にあなたの昇格している妖精が複数いる場合、あなたは降格する1体を選択できます。</seg>
       </tuv>
     </tu>
     <tu>
