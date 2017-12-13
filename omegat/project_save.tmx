@@ -7058,6 +7058,22 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• When exchanging Food Tiles, the player first takes the top Tile from the Food Tile stack and then puts the old Tile back on top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075648Z" creationid="aorin" creationdate="20171213T075648Z">
+        <seg>•食料タイルを交換する時、食料タイルのスタックの一番上からまずタイルを取り、その後、古いタイルを一番上に置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• When trading a Single Use Tile, the player takes an available Single Use Tile of his choice on the game board and puts his Single Use Tile back on the appropriate space on the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075822Z" creationid="aorin" creationdate="20171213T075822Z">
+        <seg>•一回使用タイルを交換する時、ゲームボードにある自身が利用可能な一回使用タイルを取り、自身の一回使用タイルを適切なスペースに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• You must always offer 1 type of resource:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123317Z" creationid="aorin" creationdate="20171212T123056Z">
