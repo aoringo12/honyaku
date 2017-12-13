@@ -615,6 +615,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>30 Mint Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025253Z" creationid="aorin" creationdate="20171212T025253Z">
@@ -1999,6 +2007,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214557Z" creationid="aorin" creationdate="20171024T214557Z">
         <seg>各プレイヤーは3ブレンドマーカーを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player has a personal action space to perform this action once per round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T144116Z" creationid="nakahodo" creationdate="20171213T144116Z">
+        <seg>各プレイヤーはラウンドごとに一回、このアクションを実行するための個人アクションスペースを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5084,6 +5100,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040427Z" creationid="aorin" creationdate="20171213T040427Z">
         <seg>そのプレイヤーが勝者として宣言されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 1st player to choose this action each round immediately gets 1 Penalty Point, the</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T144214Z" creationid="nakahodo" creationdate="20171213T144214Z">
+        <seg>このアクションを選択した最初のプレイヤーは1ペナルティポイントを受け取り、二番目と三番目は2ペナルティポイント、4番目と5番目は3ペナルティポイントになります。</seg>
       </tuv>
     </tu>
     <tu>
