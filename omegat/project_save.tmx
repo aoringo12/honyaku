@@ -7070,6 +7070,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Choose a third colour for a Dummy Player and place 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131303Z" creationid="nakahodo" creationdate="20171213T131303Z">
+        <seg>•</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• EITHER remove up to 3 resources from the game (from your own supply).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T080638Z" creationid="aorin" creationdate="20171213T080638Z">
