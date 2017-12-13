@@ -538,6 +538,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Penalty Point for 1 slave, 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143837Z" creationid="nakahodo" creationdate="20171213T143837Z">
+        <seg>•1ドレイで1ペナルティポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 additional resource of your choice onto the Special Offering track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143008Z" creationid="nakahodo" creationdate="20171213T142834Z">
@@ -1053,6 +1061,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130005Z" creationid="aorin" creationdate="20171212T125954Z">
         <seg>シルバーを提供した全てのプレイヤーはシルバートラックの自身のディスクを1ステップ進行させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All players that offered Silver/Gold advance their disc 1 step on the appropriate track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143552Z" creationid="nakahodo" creationdate="20171213T143552Z">
+        <seg>シルバーまたはゴールドを提供できた全てのプレイヤーは、該当するトラックのディスクを1ステップ進めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,6 +2120,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everybody offers Silver, Gold OR the right type of Food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143423Z" creationid="nakahodo" creationdate="20171213T143423Z">
+        <seg>全員がシルバー、ゴールド、または適切な種類の食料を提供する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example of Blending</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223252Z" creationid="aorin" creationdate="20171024T223252Z">
@@ -2681,6 +2705,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114546Z" creationid="nakahodo" creationdate="20171001T114546Z">
         <seg>いずれかのプレイヤー（たち）が投資トークンを持つ場合、醸造長は投票が完了した後に直ちにプレイを止めて、この時点でブレンドに投資トークンを配置する機会を提供します（ページ18の投資を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If at least 1 player offered the right kind of Food during the offering phase, Perform the following steps in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143504Z" creationid="nakahodo" creationdate="20171213T143504Z">
+        <seg>少なくとも1人のプレイヤーが適切な種類の食料を提供フェイズ時に提供できた場合、次のステップに従い実行する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3931,6 +3963,15 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Penalty Points for 2 or more slaves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143838Z" creationid="nakahodo" creationdate="20171213T143838Z">
+        <seg>•2以上のドレイで2ペナルティポイント
+注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penalty phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093938Z" creationid="aorin" creationdate="20171212T093938Z">
@@ -4215,6 +4256,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100707Z" creationid="nakahodo" creationdate="20171001T100707Z">
         <seg>プレイヤーたちは約束を交わすことができますが、なのかを交換することはできず、取引に拘束力はなく、アクションやルールで必要とされない限り自身のロースターカードの内容を見せることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players promote their Pixies as many steps on the board as the amount of Food they each offered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143836Z" creationid="nakahodo" creationdate="20171213T143836Z">
+        <seg>提供した食料と同じ数だけ、ボード上にいる自身の妖精を昇進させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5649,6 +5698,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130319Z" creationid="aorin" creationdate="20171212T125955Z">
         <seg>最もシルバーを提供したプレイヤーはさらに1ステップ、自身のディスクを進行させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player that offered the most Silver/ Gold advances their disc 1 additional step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143724Z" creationid="nakahodo" creationdate="20171213T143724Z">
+        <seg>最もシルバーまたはゴールドそれぞれにて、最も提供できたプレイヤーは、自身のディスクをさらに1ステップ進めます。</seg>
       </tuv>
     </tu>
     <tu>
