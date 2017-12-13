@@ -522,6 +522,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Action Disc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141407Z" creationid="nakahodo" creationdate="20171213T141407Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Food Tile, 1 Permanent Ability Tile and 1</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043334Z" creationid="aorin" creationdate="20171213T043334Z">
@@ -1748,8 +1756,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Double offering</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T043935Z" creationid="aorin" creationdate="20171213T043935Z">
-        <seg>2倍提供</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141704Z" creationid="aorin" creationdate="20171213T043935Z">
+        <seg>ダブル提供</seg>
       </tuv>
     </tu>
     <tu>
@@ -2403,6 +2411,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033557Z" creationid="aorin" creationdate="20171213T033557Z">
         <seg>なんとまあずうずうしく卑しい妖精なのかしら？！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much Silver a player needs to receive 1 Gold depends on their position on the Silver track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141652Z" creationid="nakahodo" creationdate="20171213T141652Z">
+        <seg>1ゴールドを受け取るために必要なシルバーの量は、シルバートラックの自身の位置によって変わります。この交換は複数回できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +4438,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rob an opposing Pixie on a double action space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142032Z" creationid="nakahodo" creationdate="20171213T142032Z">
+        <seg>ダブルアクションスペースの対戦相手の妖精を恐喝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rocks are placed next to opposing Pixies in the mines on the provided spaces, chaining these Pixies into place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074317Z" creationid="aorin" creationdate="20171213T074317Z">
@@ -4602,6 +4626,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T071421Z" creationid="aorin" creationdate="20171213T071421Z">
         <seg>シルバーとゴールドの延べ棒は、自身のスクリーンに個人プールとして隠して保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver and Gold bars are added to your resource pool, rocks are placed next to opposing Pixies in the mines on the provided spaces, chaining these Pixies into place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142428Z" creationid="nakahodo" creationdate="20171213T142428Z">
+        <seg>シルバーとゴールドの延べ棒はあなたのサプライへ追加され、岩は対戦相手の鉱山の妖精の横にあるスペースへと配置してそれら妖精をつなぎとめます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4789,6 +4821,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the appropriate Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141721Z" creationid="nakahodo" creationdate="20171213T141721Z">
+        <seg>関連するタイルを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the leftmost Tile from the associated Reward Tiles and keep it behind your player screen until final scoring.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122914Z" creationid="nakahodo" creationdate="20171213T122914Z">
@@ -4801,6 +4841,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042847Z" creationid="aorin" creationdate="20171213T042847Z">
         <seg>食料タイルの1番上を取り、あなのプレイヤースクリーンの前にある適切なスポットにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Takes the cloth bag and pull as many resource cubes from it as there are Pixies present in your mine, with a minimum of 1 good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142323Z" creationid="nakahodo" creationdate="20171213T142323Z">
+        <seg>布バッグを取り、鉱山に存在するあなたの妖精と同じ数のリソースキューブを取る。最小1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5429,6 +5477,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player rolls the Casino die and receives resources according to the die roll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142014Z" creationid="nakahodo" creationdate="20171213T142014Z">
+        <seg>カジノダイスをロールし、ロールしたダイスに従ってリソースを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player rolls the Casino die and receives resources according to the die roll:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045839Z" creationid="aorin" creationdate="20171213T045839Z">
@@ -5925,6 +5981,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Pixie must give you resourcesaccording to the small Food icons above the action space it is on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142158Z" creationid="nakahodo" creationdate="20171213T142158Z">
+        <seg>この妖精は、そのアクションスペース上部にある小さな食料アイコンに該当するリソースをあなたに与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Woodland Alliance will seek to strengthen their presence by building hideouts and launching missions to subvert the rule of the cats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
@@ -6219,6 +6283,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn Silver into Gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141436Z" creationid="nakahodo" creationdate="20171213T141436Z">
+        <seg>シルバーをゴールドに変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the leftmost face-down Round Tile face up.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T120413Z" creationid="aorin" creationdate="20171212T120413Z">
@@ -6289,6 +6361,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164505Z" creationid="aorin" creationdate="20171212T164505Z">
         <seg>報酬ステップを実行するために提供した食料の1つを使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this Tile to perform a double offer during one of the subsequent offering phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141933Z" creationid="nakahodo" creationdate="20171213T141835Z">
+        <seg>今後の提供フェイズ時に、ダブル提供を実行するためにこのタイルを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6523,6 +6603,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T081621Z" creationid="nakahodo" creationdate="20171001T081621Z">
         <seg>少ないフィールド研究者が貴重な豆のためにフィールドを探索すると、ビバジャワは最低限のバランスを維持するために（それがあまり良い風味ではなくても）一般的なブレンドを市場にリリースするでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When performing a Mining action, choose the first 2 cubes from the bag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141954Z" creationid="nakahodo" creationdate="20171213T141954Z">
+        <seg>採掘アクションを実行する時、バッグからまず2つのキューブを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7482,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075346Z" creationid="aorin" creationdate="20171213T075346Z">
         <seg>•自身のプレイヤースクリーンにあるタイル1枚と、対戦相手のプレイヤースクリーンにある、同じ種類のタイル1枚とを交換する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Pay 1 Gold to advance 1 step on the Gold track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142002Z" creationid="nakahodo" creationdate="20171213T142002Z">
+        <seg>•ゴールドトラックを1ステップ進めるために1ゴールド支払う。</seg>
       </tuv>
     </tu>
     <tu>
