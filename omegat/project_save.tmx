@@ -4098,6 +4098,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rocks are placed next to opposing Pixies in the mines on the provided spaces, chaining these Pixies into place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074317Z" creationid="aorin" creationdate="20171213T074317Z">
+        <seg>岩は対戦相手の炭鉱にあるスペースの妖精の横に配置され、場所にいる妖精たちをつなぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
@@ -4229,6 +4237,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T085457Z" creationid="nakahodo" creationdate="20170924T085457Z">
         <seg>ブレンドスレートをシャッフルし、ワールドマップの西側近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver and Gold bars are added to the resource pool a player keeps behind their screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T071421Z" creationid="aorin" creationdate="20171213T071421Z">
+        <seg>シルバーとゴールドの延べ棒は、自身のスクリーンに個人プールとして隠して保持します。</seg>
       </tuv>
     </tu>
     <tu>
