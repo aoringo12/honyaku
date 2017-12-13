@@ -2928,6 +2928,15 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, take a Reward
+Point Tile of value 1 from the general supply and put it behind your player screen, to score at the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T115747Z" creationid="nakahodo" creationdate="20171213T115747Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investment Tokens on the Slate are
 returned to the general supply (see page 18).</seg>
       </tuv>
