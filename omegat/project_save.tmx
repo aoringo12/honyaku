@@ -1927,6 +1927,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From now on, this Tile will grant you 2, 3 or 4 Food of your choice during the stealing phase, in the amount as depicted on the Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
+        <seg>今後、窃盗フェイズ時にタイルに描かれた量だけ、あなたが選択する食料を得る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GAMEPLAY</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073314Z" creationid="nakahodo" creationdate="20171209T073314Z">
@@ -5699,6 +5707,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171212Z" creationid="aorin" creationdate="20171212T171124Z">
         <seg>炭鉱の最も低い場所にある2つのドレイの場所は、常に最初に満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whenever you acquire resources, it isn’t allowed to refuse any of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043043Z" creationid="aorin" creationdate="20171213T043043Z">
+        <seg>あなたがリソースを獲得するたびに、それらのいずれかを拒否することがはできません。</seg>
       </tuv>
     </tu>
     <tu>
