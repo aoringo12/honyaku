@@ -3424,6 +3424,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regardless of the phase in which it happens, whenever your score marker reaches or passes a slave symbol on the score track you immediately have to demote a promoted Pixie, which then becomes a slave in your mine again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T031521Z" creationid="aorin" creationdate="20171213T031521Z">
+        <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達[]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat this process until a Pixie is sent to the mines or it reaches the Queen’s Favorite, who doesn’t have to send a Pixie to the mines.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125705Z" creationid="aorin" creationdate="20171212T125705Z">
