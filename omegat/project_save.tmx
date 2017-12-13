@@ -3426,8 +3426,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Regardless of the phase in which it happens, whenever your score marker reaches or passes a slave symbol on the score track you immediately have to demote a promoted Pixie, which then becomes a slave in your mine again.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T031521Z" creationid="aorin" creationdate="20171213T031521Z">
-        <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達[]</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
+        <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達するか超えるとすぐに、あなたは直ちに昇進している妖精1体を降格させて、あなたの炭鉱へと再びドレイにさせなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
