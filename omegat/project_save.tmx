@@ -1356,6 +1356,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By choosing this action, a player can exchange 1 of their Tiles with a Tile of the same type on the game board OR on an opponent’s player screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075214Z" creationid="aorin" creationdate="20171213T075214Z">
+        <seg>このアクションを選択すると、自身のタイル1枚と、それと同じ種類のタイル1枚を、ゲームボード[または]対戦相手のプレイヤースクリーン上から交換する事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By placing an Action Disc on the appropriate action space, a player activates the Pixies in their mine.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064432Z" creationid="aorin" creationdate="20171213T064432Z">
@@ -1977,6 +1985,14 @@ Map.</seg>
         <seg>Food Tile</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042133Z" creationid="aorin" creationdate="20171213T042133Z">
+        <seg>食料タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074918Z" creationid="aorin" creationdate="20171213T074918Z">
         <seg>食料タイル</seg>
       </tuv>
     </tu>
@@ -3583,6 +3599,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permanent Ability Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074931Z" creationid="aorin" creationdate="20171213T074931Z">
+        <seg>永続能力タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phagius rolls 3 whips and gives 1 Penalty Point to Indigeaux and 2 Penalty Points to Firenze.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045537Z" creationid="aorin" creationdate="20171213T045537Z">
@@ -4301,6 +4325,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043336Z" creationid="aorin" creationdate="20171213T043336Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single Use Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074927Z" creationid="aorin" creationdate="20171213T074927Z">
+        <seg>一回使用タイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -5680,6 +5712,15 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041547Z" creationid="aorin" creationdate="20171213T041408Z">
         <seg>取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade Tiles here are 3 types of Tiles a player can exchange:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074916Z" creationid="aorin" creationdate="20171213T074916Z">
+        <seg>タイルの交換
+これは3種のタイルを交換することができます：</seg>
       </tuv>
     </tu>
     <tu>
