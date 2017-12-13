@@ -298,6 +298,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--OR Silver &amp; Gold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044237Z" creationid="aorin" creationdate="20171213T044237Z">
+        <seg>•または、シルバーとゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Offering Food the Queen does not want this turn is not allowed!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123642Z" creationid="aorin" creationdate="20171212T123526Z">
@@ -676,6 +684,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044033Z" creationid="aorin" creationdate="20171213T044033Z">
         <seg>プレイヤーは今後の提供フェイズ時にこのタイルを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player can use this Tile when performing a Mining action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044919Z" creationid="aorin" creationdate="20171213T044919Z">
+        <seg>採掘アクションを実行する時、このタイルを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,6 +2884,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164929Z" creationid="aorin" creationdate="20171212T164929Z">
         <seg>アクションディスク2つで占領されている場所は選択できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look into the bag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044250Z" creationid="aorin" creationdate="20171213T044250Z">
+        <seg>バッグを見る</seg>
       </tuv>
     </tu>
     <tu>
