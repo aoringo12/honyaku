@@ -1166,6 +1166,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the Reward phase, when all promotion steps are performed, the player performs an additional free promotion step, even if they did not offer the Food that was requested by the Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133449Z" creationid="nakahodo" creationdate="20171213T133449Z">
+        <seg>報酬フェイズ終わりに、全ての昇進ステップが実行された時、クイーンに必要な食料を提供していなかったとしても、無料の昇進ステップを追加で1回実行できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the highest level of a track a player even receives a Reward Point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172942Z" creationid="aorin" creationdate="20171212T172913Z">
@@ -5297,6 +5305,30 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T120510Z" creationid="nakahodo" creationdate="20171213T120510Z">
         <seg>このアクションを実行したプレイヤーは、このラウンド既に使用されたダブルアクションスペースの別のアクションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player receives 1 Silver during each stealing phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133243Z" creationid="nakahodo" creationdate="20171213T133243Z">
+        <seg>各窃盗フェイズ時に、1シルバーを受け取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player receives 2 extra Reward Points when forging a Golden Ring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133221Z" creationid="nakahodo" creationdate="20171213T133221Z">
+        <seg>ゴールデンリングを鍛造する時、追加の2報酬ポイントを受け取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player receives 2 extra Reward Points when promoting a Pixie to Loyal Servant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133200Z" creationid="nakahodo" creationdate="20171213T133200Z">
+        <seg>忠実な使用人に妖精を昇進させる時、追加の2報酬ポイントを受け取る。</seg>
       </tuv>
     </tu>
     <tu>
