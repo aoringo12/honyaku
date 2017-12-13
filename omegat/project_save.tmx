@@ -1545,6 +1545,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discarding Tiles (regardless of the type) is forbidden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043723Z" creationid="aorin" creationdate="20171213T043723Z">
+        <seg>タイルを破棄することは禁じられています（種類にかかわらず）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not advance on the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173004Z" creationid="aorin" creationdate="20171212T173004Z">
@@ -3079,6 +3087,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095953Z" creationid="nakahodo" creationdate="20171002T095953Z">
         <seg>ブレンドが完成すると、各プレイヤーは自身の色のブレンドマーカー1つをスレートに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once used, a player puts a Single Use Tile back on the appropriate space on the game board, where it immediately becomes available to all players again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043918Z" creationid="aorin" creationdate="20171213T043918Z">
+        <seg>一回使用タイルを使用すると、ゲームボード上の適切なスペースにこれを戻し、直ちに全てのプレイヤーに再び利用できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5230,6 +5246,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043122Z" creationid="aorin" creationdate="20171213T043122Z">
         <seg>タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiles can be exchanged by choosing the Exchange Tiles action (see page 10).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043746Z" creationid="aorin" creationdate="20171213T043746Z">
+        <seg>タイルはタイル交換アクションヲ選択することにより、交換できます（ペース10参照）。</seg>
       </tuv>
     </tu>
     <tu>
