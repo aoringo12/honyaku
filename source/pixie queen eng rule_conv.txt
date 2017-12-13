@@ -13,7 +13,8 @@ Each player receives:
 • Each player places their Pixies in their mine:
 • 5 Pixies if playing with 2 or 3 players
 • 4 Pixies if playing with 4 players
-• 3 Pixies if playing with 5 players Any remaining Pixies are returned to the box.
+• 3 Pixies if playing with 5 players
+Any remaining Pixies are returned to the box.
 
 • Place the Food Tiles with values according to the amount of players on the appropriate space, with the highest value at the bottom:
 • 5 players: 4/4/3/3/2/2
@@ -26,16 +27,15 @@ Each player receives:
 • Place all Reward Tiles for Special Offering on the appropriate fields, in ascending order.
 • Place all the Loyal Servant Reward Tiles on the appropriate fields, in descending order.
 • Place all Reward Tiles for Golden Rings on the appropriate fields, in descending order.
---Randomize the 9 Round Tiles face down and distribute 7 on the appropriate fields without looking at them. The 2 remaining Tiles are returned to the game box without looking at them.
+• Randomize the 9 Round Tiles face down and distribute 7 on the appropriate fields without looking at them. The 2 remaining Tiles are returned to the game box without looking at them.
 • Place 1 Apple, Bread, Honey and a Silver bar on the Special Offering field.
 • Fill the Black Mining Bag with:
 • 30 x Silver
 • 10 x Gold
 • 5 x Rocks for each player (with a maximum of 20 even with 5 players)
 • The remaining Apples, Bread, Honey, and Silver and Gold bars are placed next to the board. This is the general supply, which is limited! Also stack the extra Reward Tiles here.
---All 10 Permanent Ability Tiles are shuffled and 6 are randomly drawn and placed face up on the board. Put the remaining 4 back into the game box.
-• Starting with the last player (according to the turn order track), each player chooses 1
-Permanent Ability Tile from the board and places it on the appropriate field with the corresponding symbol on their player screen.
+• All 10 Permanent Ability Tiles are shuffled and 6 are randomly drawn and placed face up on the board. Put the remaining 4 back into the game box.
+• Starting with the last player (according to the turn order track), each player chooses 1 Permanent Ability Tile from the board and places it on the appropriate field with the corresponding symbol on their player screen.
 Choosing a Permanent Ability Tile is only performed once all players understand the rules of the game.
 
 Goal of the game
@@ -88,7 +88,8 @@ During the Reward
 Phase, your Pixies can be promoted into the castle of the Queen. In order to compete, you will have to offer the Food type that the Queen desires this round.
 Reward Points for Golden Rings:
 This strategy requires you to obtain Gold and Silver, and to maintain a good position on the Silver and Gold tracks.
-Using the Golden Ring Action, you can forge a Golden Ring with the Gold you obtained.
+Using the Golden Ring Action, you can forge a Golden
+Ring with the Gold you obtained.
 The Reward Tiles for Special Offering, Loyal Servants and Golden Rings are distributed from left to right.
 Reward Tiles for Golden Rings and Loyal Servants decrease in value whereas Reward Tiles for Special Offering increase in value.
 If all Reward Tiles with a golden number have been distributed (3 tracks, 5 Tiles per track), the end of the game is triggered. The current round is finished by the players, after which the final points are calculated.Reward Tiles are kept secret behind the player screens.
@@ -129,8 +130,8 @@ The following rules apply:
 • You must always offer 1 type of resource: either the desired Food, or Silver, or Gold. It’s not allowed to offer multiple types of resources, unless a player both owns and uses their Double Offering Tile, allowing that player to hold out 2 hands instead of just 1.
 
 • If someone shows an empty hand (thus offering nothing to the Queen) they immediately receive 5 Penalty Points.
---Offering Food the Queen does not want this turn is not allowed! If a player does offer a different kind of Food by mistake, that player immediately receives 5 Penalty Points and puts the offered Food back into their personal supply.
---All offers, except for the wrong kind of Food, are eagerly accepted by the Queen and are returned to the general supply.
+• Offering Food the Queen does not want this turn is not allowed! If a player does offer a different kind of Food by mistake, that player immediately receives 5 Penalty Points and puts the offered Food back into their personal supply.
+• All offers, except for the wrong kind of Food, are eagerly accepted by the Queen and are returned to the general supply.
 • Silver and Gold are always regarded as being useful offerings, even when a player is no longer able to move forward on the appropriate track.
 2. Check to see if at least 1 player offered the right type of Food.
 If at least 1 player offered the right kind of Food, the Queen is satisfied and a reward phase is initiated (IV).
@@ -165,7 +166,8 @@ If multiple free locations are available on the next level, a player can choose 
 When there are no free spaces available to promote any of your Pixies to and you don’t have an Apple to demote an opponent’s Pixie, you lose the remaining promotion steps and the offered food isn’t refunded.
 A mine slave can be promoted to the first row of action fields. Make sure the slave is not chained to any Rocks (see “Mine” Action).
 You can never promote a Pixie to an action field on the same or on a lower level in the game board.
-Only one Pixie per round can reach the Loyal Servant space at the entrance of the Queen’s castle. That Pixie remains there until all players have performed all promotion steps.
+Only one Pixie per round can reach the Loyal
+Servant space at the entrance of the Queen’s castle. That Pixie remains there until all players have performed all promotion steps.
 After all promotion steps have been performed, the Pixie that reached the Loyal Servant spot is moved to the Loyal Servant Reward Tile fields. The player in question takes the leftmost available Reward Tile from the fields and places the Pixie on that space. This Pixie is no longer available to that player for the rest of the game, as it is now working directly for the Queen in her palace …
 If you want to promote your Pixie to a space that is already occupied by another Pixie, you need to pay an Apple to the general supply in order to first demote that Pixie. You might want to do this if there is no free action space to promote to, or because the action space seems interesting to you, or just to annoy an opponent by swapping places with one of their Pixies …
 If this happens during the Reward phase (IV), do as follows:
@@ -173,8 +175,7 @@ If this happens during the Reward phase (IV), do as follows:
 2. Pay 1 additional Apple from your personal supply to demote the opponent’s Pixie.
 3. Swap both Pixies on the game board.
 If this is done during the action phase (II) by performing the Promotion action, do as follows:
-1. Promote your Pixie for free. Choose a location with a promoted Pixie of an opposing player’s colour. Locations containing 2
-Action Discs cannot be chosen.
+1. Promote your Pixie for free. Choose a location with a promoted Pixie of an opposing player’s colour. Locations containing 2 Action Discs cannot be chosen.
 2. Pay 1 Apple from your personal supply to demote the opponent’s Pixie.
 3. Swap both Pixies on the game board.
 Important:
@@ -189,11 +190,14 @@ At the end of each round the Pixie Queen punishes those who have not worked hard
 Give penalty points in this order:
 1. Give each player up to a maximum of 2 Penalty Points for any slaves still in that player’s mine:
 • 1 Penalty Point for 1 slave
-• 2 Penalty Points for 2 or more slaves Important: the two lowest slave positions in the mine are always the first ones to be filled. A player can never evade Penalty Points or getting chained to Rocks by putting slaves on the upper row of their mine.
-2. Then the Queen will check whether you offered enough Silver and Gold to Her.
+• 2 Penalty Points for 2 or more slaves
+Important: the two lowest slave positions in the mine are always the first ones to be filled. A player can never evade Penalty Points or getting chained to Rocks by putting slaves on the upper row of their mine.
+2. Then the Queen will check whether you offered enough
+Silver and Gold to Her.
 Give each player Penalty Points as depicted on the Silver and Gold track.
 Check which step the player’s discs are at and look at the middle row (between both tracks) to see how many Penalty Points these levels correspond to. Both tracks score Penalty Points.
-On the second highest level a player is no longer given Penalty Points for that track.
+On the second highest level a player is no longer given
+Penalty Points for that track.
 At the highest level of a track a player even receives a Reward Point. Do not advance on the score track.
 Instead, take a Reward
 Point Tile of value 1 from the general supply and put it behind your player screen, to score at the end of the game.
@@ -216,8 +220,11 @@ There are a couple of ways in which you can prevent having to demote a Pixie:
 
 Game end
 
-The game ends when one of the following conditions is met: --All Reward Tiles with golden numbers are taken (3 times 5 Tiles), OR
-• Seven rounds have been played as indicated by the Round Tiles.
+The game ends when one of the following conditions is met:
+• All Reward Tiles with golden numbers are taken (3 times 5 Tiles), OR
+• Seven rounds have been played as indicated by the Round
+
+Tiles.
 In both situations, the current round is finished by the players including the reward and penalty phases.
 Final scoring is performed in the following order:
 1. All acquired Penalty Points are preserved. You start counting reward points from this point on the score track.
@@ -241,7 +248,9 @@ Take 2 Silver from the general supply.
 All supplies are limited. Food, Silver or Gold which is no longer available from the general supply is not distributed.
 3. Promotion
 Move 1 of your Pixies up 1 row.
-This action cannot be used to perform the final promotion to Loyal Servant.
+This action cannot be used to perform the final promotion to
+
+Loyal Servant.
 Important: a Pixie can only move to an empty spot on the next row.
 Only the spot depicting a hand has to be empty though. It’s allowed to move a Pixie to such an empty spot even if there is 1 Action Disc on the spot next to it.
 During the action phase, it’s possible that all action spots are taken by multiple Pixies and/or Action Discs. It isn’t allowed to move Action Discs in order to make room for a moving Pixie.
@@ -268,14 +277,14 @@ If a player already has a Food Tile, the player is not allowed to choose this ac
 
 Tiles
 
-Whenever you acquire a Food Tile, Permanent Ability Tile or Single Use Tile, you put it on your player screen immediately. Each player screen has room for only three different Tiles: 1 Food Tile, 1 Permanent Ability Tile and 1
-
-Single Use Tile.
+Whenever you acquire a Food Tile, Permanent Ability
+Tile or Single Use Tile, you put it on your player screen immediately. Each player screen has room for only three different Tiles: 1 Food Tile, 1 Permanent Ability Tile and 1 Single Use Tile.
 This means that a player can never have more than 1 Tile of the same type (exception: the Permanent Ability Tile which grants extra room for a Food Tile or Single Use Tile).
 A player is not allowed to choose an action granting them a Tile if they don’t have room available to store it.
 Discarding Tiles (regardless of the type) is forbidden.
 Tiles can be exchanged by choosing the Exchange Tiles action (see page 10).
-Once used, a player puts a Single Use Tile back on the appropriate space on the game board, where it immediately becomes available to all players again.
+Once used, a player puts a Single Use
+Tile back on the appropriate space on the game board, where it immediately becomes available to all players again.
 
 7. Double offering
 
@@ -283,8 +292,8 @@ Take the appropriate
 Tile. A player can use this Tile during one of the subsequent offering phases.
 When used the player announces his double offering to the other players and uses both hands to offer not one, but two different resources to the Queen:
 • Food & Silver
---OR Food & Gold
---OR Silver & Gold
+• OR Food & Gold
+• OR Silver & Gold
 
 8. Look into the bag
 
@@ -297,15 +306,16 @@ Take the appropriate
 Tile. Whenever a player needs to demote one of their promoted Pixies to the mine, this Tile can be used to beg the Queen for mercy. Miraculously, it succeeds, and the player does not need to demote a Pixie.
 10. Penalty Points
 When choosing this action, the player rolls the Whip die and divides Penalty Points among his opponents, equal to the number of whips on the die.
-Example: Phagius rolls 3 whips and gives 1 Penalty Point to Indigeaux and 2 Penalty Points to Firenze. Firenze passes a slave symbol on the score track and has to demote a promoted Pixie to the mine immediately.
+Example: Phagius rolls 3 whips and gives 1 Penalty Point to
+Indigeaux and 2 Penalty Points to Firenze. Firenze passes a slave symbol on the score track and has to demote a promoted Pixie to the mine immediately.
 11. Gold & Silver track
---Pay 1 Gold to advance 1 step on the Gold track
---OR pay 1 Silver to advance 1 step on the Silver track.
+• Pay 1 Gold to advance 1 step on the Gold track
+• OR pay 1 Silver to advance 1 step on the Silver track.
 Important: Using 1 action a player can only advance 1 step on 1 track. It’s not allowed to pay multiple times to advance multiple steps using only this 1 action.
 12. Casino
 The player rolls the Casino die and receives resources according to the die roll:
 • 1 Apple, 1 Honey and 1 Bread
---or 2 Silver
+• or 2 Silver
 • or 1 Gold
 13. Golden Ring
 The player forges 1 Golden Ring by paying the amount of Gold depicted on their position on the Gold track.
@@ -347,7 +357,9 @@ Exchanging with a Tile on the game board:
 • When exchanging Food Tiles, the player first takes the top Tile from the Food Tile stack and then puts the old Tile back on top.
 • When trading a Single Use Tile, the player takes an available Single Use Tile of his choice on the game board and puts his Single Use Tile back on the appropriate space on the game board. e.g. A Mercy Tile goes back on the Mercy space and not on the space where you just took the other Single Use Tile from.
 • When trading a Permanent Ability Tile, the old Tile is placed on the location on the game board where the new Tile came from.
-17. Dump resources or take 1 Food This action is performed using a single Action Disc and is available 3 times each round.
+
+17. Dump resources or take 1 Food
+This action is performed using a single Action Disc and is available 3 times each round.
 A player can perform this action multiple times per round (1 time per turn) as long as there is an available action space.
 • EITHER remove up to 3 resources from the game (from your own supply).
 • OR take 1 Apple
@@ -355,8 +367,7 @@ A player can perform this action multiple times per round (1 time per turn) as l
 • OR take 1 Bread
 18. Copy action
 Each player has a personal action space to perform this action once per round.
-The 1st player to choose this action each round immediately gets 1 Penalty Point, the
-2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.
+The 1st player to choose this action each round immediately gets 1 Penalty Point, the 2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.
 If the received Penalty Points move the player’s score marker onto or over a slave symbol on the score track, the player must demote a Pixie to their mine immediately.
 The player performing this action chooses another action with double action spaces that has already been used this round.
 Unused actions as well as single space actions can NOT be copied.
@@ -381,13 +392,11 @@ Rules for a 2 Player Game
 
 Setup:
 • Take Food Tiles with values 4, 3 and 2 (three Tiles in total).
-• Choose a third colour for a Dummy Player and place 5
-Pixies of that colour on the mines.
+• Choose a third colour for a Dummy Player and place 5 Pixies of that colour on the mines.
 Offering phase:
 • Both players make double offerings each time. From here on out, a player who has the Double Offering Tile is allowed to offer three different goods (Silver, Gold and the appropriate Food).
-
 Reward Phase:
---At the end of the Reward phase, the Queen’s Favorite places 1 Pixie of the Dummy Player one step up. No Apples can be paid to demote any Pixies at this time. In a situation where there are no free spots to perform the promotion, skip it.
+• At the end of the Reward phase, the Queen’s Favorite places 1 Pixie of the Dummy Player one step up. No Apples can be paid to demote any Pixies at this time. In a situation where there are no free spots to perform the promotion, skip it.
 • Pixies of the Dummy Player are allowed to be demoted using Apples whenever applicable.
 
 
@@ -406,7 +415,9 @@ Whenever the player wishes to demote an opposing Pixie, they do not have to pay 
 Whenever the player wishes to remove
 Rocks that their slaves are chained to, they do not have to pay Bread.
 The player now has 1 extra location on their player screen to hold a Single Use or Food Tile.
-That Tile is placed on top of this Permanent Ability Tile.
+That Tile is placed on top of this Permanent
+
+Ability Tile.
 If this Permanent Ability Tile is exchanged, the Tile on top is exchanged with it.
 The player may copy any double action using the copy action (not just actions that were already taken).
 The player receives a maximum of 1
@@ -423,8 +434,7 @@ Adjust the player turn order by matching the order of the big cubes to the order
 II. Action phase
 
 Each turn, each player, in turn order, uses 1 or 2 Action Discs to immediately perform 1 action:
-1. Either 1 disc on a circular action space with room to place only
-1 Action Disc.
+1. Either 1 disc on a circular action space with room to place only 1 Action Disc.
 2. Or 2 discs on a double action space that does not contain a Pixie.
 3. Or 1 disc on a double action space with a Pixie on the space depicting a hand. The Pixie helps you to perform the action regardless of its colour.
 
@@ -456,7 +466,7 @@ When choosing this action, the player rolls the Whip die and divides Penalty Poi
 
 11. Gold & Silver track
 • Pay 1 Gold to advance 1 step on the Gold track
---OR pay 1 Silver to advance 1 step on the Silver track.
+• OR pay 1 Silver to advance 1 step on the Silver track.
 
 12. Casino
 The player rolls the Casino die and receives resources according to the die roll
@@ -477,17 +487,13 @@ Exchange a Food Tiles, Single Use Tile or Permanent Ability Tile with a Tile of 
 17. Dump resources or take 1
 
 Food
-EITHER remove up to 3 resources from your own supply, OR take 1
-Apple, OR take 1 Honey, OR take 1
-Bread
+EITHER remove up to 3 resources from your own supply, OR take 1 Apple, OR take 1 Honey, OR take 1 Bread
 18. Copy action
 Get a specified number of Penalty
 Points, and copy another action with double action spaces that has already been used this round.
 
 19. Special Offering
-Pay the resources located on the
-Special Offering track. Then place
-1 additional resource of your choice onto the Special Offering track. Take the leftmost Special Offering Tile.
+Pay the resources located on the Special Offering track. Then place 1 additional resource of your choice onto the Special Offering track. Take the leftmost Special Offering Tile.
 
 20. Alter play priority
 Pay the Queen 1 or more Honey pots and advance your small cube an equal amount of spaces to the left.
@@ -513,7 +519,6 @@ If at least 1 player offered the right kind of Food during the offering phase, P
 
 V. Penalty Phase
 
-1. Give each player up to a maximum of 2 Penalty Points for any slaves still in that player’s mine: 1 Penalty Point for 1 slave, 2
-Penalty Points for 2 or more slaves.
+1. Give each player up to a maximum of 2 Penalty Points for any slaves still in that player’s mine: 1 Penalty Point for 1 slave, 2 Penalty Points for 2 or more slaves.
 2. Give each player Penalty Points as depicted on the Silver and Gold track.
 
