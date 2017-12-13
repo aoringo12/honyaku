@@ -720,6 +720,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player can perform this action multiple times per round (1 time per turn) as long as there is an available action space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T080611Z" creationid="aorin" creationdate="20171213T080557Z">
+        <seg>プレイヤーはアクションスペースが利用可能な限り、ラウンドごとに複数回このアクションヲ実行できます（ターン毎に一回）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player can remove 1 or more Rocks at any time by paying 1 Bread for each Rock.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074755Z" creationid="aorin" creationdate="20171213T074755Z">
@@ -6814,6 +6822,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032306Z" creationid="aorin" creationdate="20171213T032306Z">
         <seg>•あなたがクイーンにファボられている限り、あなたは昇進済みの妖精を降格させなくても良いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• EITHER remove up to 3 resources from the game (from your own supply).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T080638Z" creationid="aorin" creationdate="20171213T080638Z">
+        <seg>•いずれか：ゲームから3リソースまでを取り除く（あなたの個人サプライから）。</seg>
       </tuv>
     </tu>
     <tu>
