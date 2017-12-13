@@ -3559,6 +3559,15 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay one (1) fewer when building Plans
+at the Builder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T115333Z" creationid="nakahodo" creationdate="20171213T115333Z">
+        <seg>Builderでプランを建築する時、1少なく○を支払ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay one (1) fewer when building Plans at the Builder.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034106Z" creationid="aorin" creationdate="20171212T034106Z">
@@ -4290,6 +4299,15 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021642Z" creationid="nakahodo" creationdate="20171211T071411Z">
         <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup
+Place the board in the middle of the table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T115630Z" creationid="nakahodo" creationdate="20171213T115630Z">
+        <seg>テーブル中央にボードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
