@@ -696,6 +696,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player always has to show their opponents which cubes were taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T071344Z" creationid="aorin" creationdate="20171213T071344Z">
+        <seg>プレイヤーはこれにより取ったキューブを常に見せなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player can never evade Penalty Points or getting chained to Rocks by putting slaves on the upper row of their mine.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171328Z" creationid="aorin" creationdate="20171212T171328Z">
@@ -2739,6 +2747,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case there are no more slaves in the mine, a player still takes 1 cube.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064610Z" creationid="aorin" creationdate="20171213T064610Z">
+        <seg>鉱山にドレイがいない場合、プレイヤーは1キューブのみ取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games of 3 to 6 players, countries that are flipped to the ● side
 cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
@@ -4593,6 +4609,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Single Use Tile, Look into the bag can be used when performing this action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
+        <seg>一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The World Map is split into three coffee-rich regions
 (Americas, Africa, and Asia) each with its own
 Country Crop space and action that players will
@@ -5405,6 +5429,14 @@ using the Hiding Spots secrets card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040135Z" creationid="aorin" creationdate="20171213T040135Z">
         <seg>これはリンゴ、はちみち、パン、シルバー、ゴールドで決定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is done without looking into the bag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064547Z" creationid="aorin" creationdate="20171213T064547Z">
+        <seg>バッグの中を見てはいけません。</seg>
       </tuv>
     </tu>
     <tu>
