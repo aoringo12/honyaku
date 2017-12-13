@@ -2977,6 +2977,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Miraculously, it succeeds, and the player does not need to demote a Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045307Z" creationid="aorin" creationdate="20171213T045307Z">
+        <seg>奇跡的なことに、これは成功し、プレイヤーは妖精を降格させる必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, you do not need to pay 1 food to be considered fed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
@@ -3346,6 +3354,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165431Z" creationid="aorin" creationdate="20171212T165431Z">
         <seg>ペナルティフェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Penalty Points</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045314Z" creationid="aorin" creationdate="20171213T045314Z">
+        <seg>ペナルティポイント</seg>
       </tuv>
     </tu>
     <tu>
@@ -5602,6 +5618,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
         <seg>プレイヤーが何かを「得る」とき、それぞれのサプライからそれを取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When choosing this action, the player rolls the Whip die and divides Penalty Points among his opponents, equal to the number of whips on the die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045425Z" creationid="aorin" creationdate="20171213T045425Z">
+        <seg>このアクションを選択する時、プレイヤーは鞭打ちダイスをロールし、ダイスの鞭の数に等しいだけ、対戦相手にペナルティポイントを配ります。</seg>
       </tuv>
     </tu>
     <tu>
