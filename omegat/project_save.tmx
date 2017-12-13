@@ -538,6 +538,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 additional resource of your choice onto the Special Offering track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143008Z" creationid="nakahodo" creationdate="20171213T142834Z">
+        <seg>その後、特別な提供トラックへと、あなたの選択したリソースを1つ追加するために配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1) Move and Use Powers</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131718Z" creationid="nakahodo" creationdate="20171127T131718Z">
@@ -1107,6 +1115,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alter play priority</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143042Z" creationid="nakahodo" creationdate="20171213T143042Z">
+        <seg>優位性の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alter play priority Pay the Queen 1 or more Honey pots (put them back in the general supply) and advance your small cube an equal amount of spaces to the left.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123317Z" creationid="nakahodo" creationdate="20171213T123317Z">
@@ -1154,6 +1170,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030004Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>任意の○を失う時、ミントサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apple, OR take 1 Honey, OR take 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142647Z" creationid="nakahodo" creationdate="20171213T142647Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,6 +1437,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bread</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142648Z" creationid="nakahodo" creationdate="20171213T142648Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072046Z" creationid="nakahodo" creationdate="20171209T072046Z">
@@ -1616,6 +1648,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142653Z" creationid="nakahodo" creationdate="20171213T142653Z">
+        <seg>模倣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Council, Lotto.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080047Z" creationid="nakahodo" creationdate="20171209T080047Z">
@@ -1738,6 +1778,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discs for this turn on the action space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143323Z" creationid="nakahodo" creationdate="20171213T143323Z">
+        <seg>このターンに残った全てのアクションディスクを、アクションスペースへと配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not advance on the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173004Z" creationid="aorin" creationdate="20171212T173004Z">
@@ -1766,6 +1814,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092125Z" creationid="aorin" creationdate="20171116T092125Z">
         <seg>ちぇっ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dump resources or take 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142600Z" creationid="nakahodo" creationdate="20171213T142547Z">
+        <seg>リソース破棄[または]食料1つを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -1876,6 +1932,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130755Z" creationid="nakahodo" creationdate="20171213T130755Z">
         <seg>しかし、次の窃盗フェイズ時は、小さなキューブトラックに一致するように大きなキューブトラックが変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EITHER remove up to 3 resources from your own supply, OR take 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142646Z" creationid="nakahodo" creationdate="20171213T142646Z">
+        <seg>いずれか：自身のサプライからリソース3つまでを取り除く、またはリンゴ1を取る、またははちみつ1つを取る、またはパン1つを取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,6 +2128,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exchange a Food Tiles, Single Use Tile or Permanent Ability Tile with a Tile of the same type on the game board OR on an opponent’s player screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142533Z" creationid="nakahodo" creationdate="20171213T142533Z">
+        <seg>食料タイル、一度使用タイル、永続能力タイル1つを、ゲームボート[または]対戦相手のプレイヤースクリーンにある、同じ種類のタイル1つと交換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exchanging with a Tile of an opponent:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075259Z" creationid="aorin" creationdate="20171213T075259Z">
@@ -2108,6 +2180,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045636Z" creationid="aorin" creationdate="20171213T045636Z">
         <seg>フィレンツェはスコアトラックのドレイシンボルを越えたので、彼は直ちに昇進済み妖精を炭鉱に降格させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142601Z" creationid="nakahodo" creationdate="20171213T142601Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,6 +2392,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T140620Z" creationid="nakahodo" creationdate="20171213T140620Z">
         <seg>ゲームプレイ概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get a specified number of Penalty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142701Z" creationid="nakahodo" creationdate="20171213T142701Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,6 +3476,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move your large cube to the front of the track immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143334Z" creationid="nakahodo" creationdate="20171213T143334Z">
+        <seg>直ちにトラックの一番前に大きなキューブを移動させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move your large cube to the front of the track of large cubes immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123819Z" creationid="nakahodo" creationdate="20171213T123819Z">
@@ -3778,6 +3874,22 @@ at the Builder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay the Queen 1 or more Honey pots and advance your small cube an equal amount of spaces to the left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143139Z" creationid="nakahodo" creationdate="20171213T143139Z">
+        <seg>クイーンへとはちみつポットを1つ以上支払い、その数と同じだけ、あなたの小さなキューブを左のスペースに進める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay the resources located on the</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142849Z" creationid="nakahodo" creationdate="20171213T142819Z">
+        <seg>特別な提供トラックの場所で指定されたリソースを支払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penalty Phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165431Z" creationid="aorin" creationdate="20171212T165431Z">
@@ -3930,6 +4042,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T102926Z" creationid="nakahodo" creationdate="20171001T102926Z">
         <seg>フィールド研究者を配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place all of your remaining Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -4167,6 +4287,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101031Z" creationid="aorin" creationdate="20171212T101031Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Points, and copy another action with double action spaces that has already been used this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142752Z" creationid="nakahodo" creationdate="20171213T142752Z">
+        <seg>指定された数のペナルティポイントを得て、このラウンド既に使用されたダブルアクションスペースの別のアクションを模倣する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4695,6 +4823,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special Offering track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142820Z" creationid="nakahodo" creationdate="20171213T142820Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Player Token</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
@@ -4825,6 +4961,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141721Z" creationid="nakahodo" creationdate="20171213T141721Z">
         <seg>関連するタイルを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the leftmost Special Offering Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143002Z" creationid="nakahodo" creationdate="20171213T143002Z">
+        <seg>最も左の特別な提供タイルを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,6 +5843,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then place</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142852Z" creationid="nakahodo" creationdate="20171213T142852Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then place 1 additional resource of your choice (Food, Silver or Gold) from your personal supply onto the Special Offering track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122622Z" creationid="nakahodo" creationdate="20171213T122622Z">
@@ -6029,6 +6181,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This action temporarily makes you ‘the Queen’s Favorite’ until the end of this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T143356Z" creationid="nakahodo" creationdate="20171213T143356Z">
+        <seg>このアクションは、このラウンドの終了まで「クイーンからのファボ」を一時的にあなたに与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be done anytime, e.g. when performing an action, a promotion, or even when calculating the final scoring.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074844Z" creationid="aorin" creationdate="20171213T074844Z">
@@ -6253,6 +6413,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041547Z" creationid="aorin" creationdate="20171213T041408Z">
         <seg>取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T142443Z" creationid="nakahodo" creationdate="20171213T142433Z">
+        <seg>タイル交換</seg>
       </tuv>
     </tu>
     <tu>
