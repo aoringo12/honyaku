@@ -1324,6 +1324,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By placing an Action Disc on the appropriate action space, a player activates the Pixies in their mine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064432Z" creationid="aorin" creationdate="20171213T064432Z">
+        <seg>アクションディスクを適切なアクションスペースに配置することにより、プレイヤーは自身の鉱山のピクシーをアクティブにできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CO-OP</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T080322Z" creationid="aorin" creationdate="20171212T080322Z">
@@ -3041,6 +3049,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064303Z" creationid="aorin" creationdate="20171213T064303Z">
+        <seg>炭鉱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mint Works can also be played solitaire.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075748Z" creationid="nakahodo" creationdate="20171209T075748Z">
@@ -4060,8 +4076,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Rob a Pixie</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T063301Z" creationid="aorin" creationdate="20171213T063256Z">
-        <seg>妖精強盗</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064243Z" creationid="aorin" creationdate="20171213T063256Z">
+        <seg>妖精を恐喝</seg>
       </tuv>
     </tu>
     <tu>
@@ -4896,6 +4912,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player takes the cloth bag and pulls as many resource cubes from it as there are Pixies present in their mine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064537Z" creationid="aorin" creationdate="20171213T064537Z">
+        <seg>プレイヤーは布袋を取り、自身の炭鉱にいる妖精と同数のリソースキューブを引きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player that offered the most Silver advances their disc 1 additional step.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130319Z" creationid="aorin" creationdate="20171212T125955Z">
@@ -5338,8 +5362,8 @@ with the following exception:</seg>
       <tuv lang="EN-US">
         <seg>This Pixie is robbed and must give resources to the stealing player according to the small Food icons above the action space it is on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T063723Z" creationid="aorin" creationdate="20171213T063723Z">
-        <seg>この妖精は強奪され、そのアクションスペース上部の小さな食料アイコンに従って強盗プレイヤーにリソースを与えます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064252Z" creationid="aorin" creationdate="20171213T063723Z">
+        <seg>この妖精は強盗にあい、そのアクションスペース上部の小さな食料アイコンに従って強盗プレイヤーにリソースを与えます。</seg>
       </tuv>
     </tu>
     <tu>
