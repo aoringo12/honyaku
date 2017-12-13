@@ -1697,6 +1697,15 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dump resources or take 1 Food This action is performed using a single Action Disc and is available 3 times each round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T080520Z" creationid="aorin" creationdate="20171213T080520Z">
+        <seg>リソースを捨てる[または]1食料を取る
+このアクションはアクションディスク1つで実行でき、各ラウンド3回利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During set-up in a game
 with 3 to 5 players, place the
 Coffee* Slate in the Stale
@@ -6272,6 +6281,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e.g. A Mercy Tile goes back on the Mercy space and not on the space where you just took the other Single Use Tile from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075928Z" creationid="aorin" creationdate="20171213T075928Z">
+        <seg>例えば、慈悲タイルは慈悲スペースに戻り、他の一回使用タイルのスペースには戻りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>either the desired Food, or Silver, or Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123107Z" creationid="aorin" creationdate="20171212T123107Z">
@@ -7066,10 +7083,18 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• When trading a Permanent Ability Tile, the old Tile is placed on the location on the game board where the new Tile came from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T080024Z" creationid="aorin" creationdate="20171213T080024Z">
+        <seg>•永続能力タイルを交換する時、古いタイルは、新しいタイルを獲得したゲームボー上のスペースに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• When trading a Single Use Tile, the player takes an available Single Use Tile of his choice on the game board and puts his Single Use Tile back on the appropriate space on the game board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T075822Z" creationid="aorin" creationdate="20171213T075822Z">
-        <seg>•一回使用タイルを交換する時、ゲームボードにある自身が利用可能な一回使用タイルを取り、自身の一回使用タイルを適切なスペースに配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T075946Z" creationid="aorin" creationdate="20171213T075822Z">
+        <seg>•一回使用タイルを交換する時、ゲームボードにある利用可能な一回使用タイルを取り、自身の一回使用タイルを適切なスペースに配置します。</seg>
       </tuv>
     </tu>
     <tu>
