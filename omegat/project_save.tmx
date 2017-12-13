@@ -474,6 +474,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Food Tile, 1 Permanent Ability Tile and 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043334Z" creationid="aorin" creationdate="20171213T043334Z">
+        <seg>食料タイル1、永続能力タイル1、一回使用タイル1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1) Move and Use Powers</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131718Z" creationid="nakahodo" creationdate="20171127T131718Z">
@@ -670,6 +678,14 @@ requires it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072624Z" creationid="nakahodo" creationdate="20171209T072624Z">
         <seg>プレイヤーは自身のターンに2つの選択肢があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player is not allowed to choose an action granting them a Tile if they don’t have room available to store it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043640Z" creationid="aorin" creationdate="20171213T043640Z">
+        <seg>プレイヤーはタイルを保持するスペースを保たない場合に、その種類のタイルを得るアクションを選択することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1699,8 +1715,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player screen has room for only three different Tiles:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T043319Z" creationid="aorin" creationdate="20171213T043319Z">
-        <seg>各プレイヤースクリーンは3つの異なるタイルのスペースを持ちます：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043419Z" creationid="aorin" creationdate="20171213T043319Z">
+        <seg>各プレイヤースクリーンは3種の異なるタイルのスペースを1つずつのみ、持ちます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,6 +3993,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Single Use Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043336Z" creationid="aorin" creationdate="20171213T043336Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So far, so good.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T091945Z" creationid="aorin" creationdate="20171116T091945Z">
@@ -5141,6 +5165,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that a player can never have more than 1 Tile of the same type (exception:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043433Z" creationid="aorin" creationdate="20171213T043406Z">
+        <seg>これは、そのプレイヤーが同じ種類のタイルを複数持つことはできないことを意味します（例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means the price for 1 Gold is 2 Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042033Z" creationid="aorin" creationdate="20171213T042033Z">
@@ -5731,6 +5763,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041633Z" creationid="aorin" creationdate="20171213T041633Z">
         <seg>オリアナは共通サプライにリンゴ5つを置き、共通サプライから5シルバーを取る交換をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Permanent Ability Tile which grants extra room for a Food Tile or Single Use Tile).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043542Z" creationid="aorin" creationdate="20171213T043542Z">
+        <seg>食料タイル[または]一回使用タイルの余分なスペースを得ることができる永続能力タイル）</seg>
       </tuv>
     </tu>
     <tu>
