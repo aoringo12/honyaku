@@ -306,10 +306,26 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--OR pay 1 Silver to advance 1 step on the Silver track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045722Z" creationid="aorin" creationdate="20171213T045722Z">
+        <seg>•または、シルバートラックを1ステップ進めるために1シルバー支払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Offering Food the Queen does not want this turn is not allowed!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123642Z" creationid="aorin" creationdate="20171212T123526Z">
         <seg>•クイーンがこのターンに望んでいない食べ物の提供は許されません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Pay 1 Gold to advance 1 step on the Gold track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045704Z" creationid="aorin" creationdate="20171213T045704Z">
+        <seg>•ゴールドトラックを1ステップ進めるために1ゴールド支払う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,6 +1910,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Firenze passes a slave symbol on the score track and has to demote a promoted Pixie to the mine immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045636Z" creationid="aorin" creationdate="20171213T045636Z">
+        <seg>フィレンツェはスコアトラックのドレイシンボルを越えたので、彼は直ちに昇進済み妖精を炭鉱に降格させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food Tile</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042133Z" creationid="aorin" creationdate="20171213T042133Z">
@@ -2104,6 +2128,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093837Z" creationid="aorin" creationdate="20171212T093837Z">
         <seg>ゲームのゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold &amp; Silver track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045645Z" creationid="aorin" creationdate="20171213T045645Z">
+        <seg>ゴールドとシルバートラック</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,6 +3443,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093825Z" creationid="aorin" creationdate="20171212T093825Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phagius rolls 3 whips and gives 1 Penalty Point to Indigeaux and 2 Penalty Points to Firenze.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045537Z" creationid="aorin" creationdate="20171213T045537Z">
+        <seg>ファーギスは3鞭をロールし、インディギウスにペナルティポイント1を、フィレンツェに2ペナルティポイントを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5451,6 +5491,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164505Z" creationid="aorin" creationdate="20171212T164505Z">
         <seg>報酬ステップを実行するために提供した食料の1つを使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using 1 action a player can only advance 1 step on 1 track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045746Z" creationid="aorin" creationdate="20171213T045746Z">
+        <seg>1アクションを使用してできるのは、1トラックの1ステップを進めることだけです。</seg>
       </tuv>
     </tu>
     <tu>
