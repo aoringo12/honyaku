@@ -101,7 +101,7 @@ board. If your building is removed, return it to the rightmost empty space.
 If you are prompted to place wood, take it from the Marquise’s supply. If wood is removed,
 return it to the Marquise’s supply.
 If you are prompted to place your pieces but you cannot place the total number prompted, you
-must place the maximum number possible. Example:if the Marquise recruits warriors, but does
+must place the maximum number possible. 例：if the Marquise recruits warriors, but does
 not have enough warriors in her supply to place a warrior at each recruiter, then she may place
 as many as able.
 If you are prompted to remove your pieces but you cannot remove the total number prompted,
@@ -116,7 +116,7 @@ Each time you take a hit, you must remove one of your warriors from the affected
 have no warriors, you must remove one of your other pieces of your choice from the affected
 clearing.
 Most often, players deal hits in battle. In battle, the affected clearing is the clearing of battle.
-Improvements and conspiracies can also deal hits; these effects specify the clearing from which
+Improvements and conspiracies can also deal hits;these effects specify the clearing from which
 pieces must be removed.
 Whenever you deal a hit that removes a building, you score one victory point.
 If you remove your last building from a clearing, you must also discard one improvement from

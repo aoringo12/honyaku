@@ -26,7 +26,7 @@ You can download a PDF of the latest rules here: http://tinyurl.com/VastPublicPN
 Revealing Dark Tiles
 -Prior to the start of the collapse, the open edges on Lit tiles are always filled immediately with Dark tiles, no matter which player revealed the tiles or how those tiles were revealed.
 -Once the collapse has begun, open edges are never filled.
--The Dark tiles used to fill open edges are always provided by the Cave player if present; if there is no Cave player, the player that created the open edge(s) draws the Dark tiles from the top of the stack.
+-The Dark tiles used to fill open edges are always provided by the Cave player if present;if there is no Cave player, the player that created the open edge(s) draws the Dark tiles from the top of the stack.
 -When a Lit tile is revealed by any player, it must be oriented to connect back to the Entrance tile through other Lit tiles, if possible. If a connection cannot be made to the Entrance, the tile can be oriented in any direction chosen by the player that revealed the tile.
 
 The Collapse

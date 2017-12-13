@@ -246,7 +246,7 @@ The required number of to be placed is one (1)
 plus the desired Location’s cost.
 A Location must have at least one occupied space in
 order to be targeted by the Temp Agency.
-TEMP AGENCY
+ 
 Placing here allows the player to take any one Building
 or Plan from their Neighborhood and place it into the
 Plan Supply. Then they gain one Plan from the Supply
@@ -269,7 +269,7 @@ CRANE
 During the Upkeep phase, gain from the Mint
 Supply. Then choose another player to gain from
 the mint supply.
-CO-OP
+Supplierから購入したプランは建物として近所に配置される。
 During the Upkeep phase, gain for each Building
 in the same Neighborhood.
 CORPORATE HQ

@@ -11,6 +11,14 @@ II
 .For a game of 2 or more players, remove cards
 from the starting items deck with a player number icon higher than the number of people playing. Also look through the events deck and remove the card named The Fortress. This card is used only in the solo game. If you are playing solo, refer to the Solo Game section (pg. 1 O) for solo play set-up.
 Shuffle each pile of cards and the terrain tiles. Lay them out in the indicated areas around and on the Central board.
+
+
+
+
+
+
+
+
 Players create their own map by placing terrain tiles, beginning with the starting tile. Take a starting tile and place it in front of you with the not-foraged (A6)symbol face up, and place 1 posthuman meeple of your colour on it. Then place the second posthuman meeple of the same colour on the starting position of the journey track.
 Players may choose to either all play as pre-made characters, or they all create custom characters. If you choose to play with pre-made characters, follow the setup below. If you would like to create your own character, skip to the Setup with Custom Characters (pg. 2).
 Setup with Pre-Made Cha?wacte?wS
@@ -50,7 +58,7 @@ Each player receives 1 Flare card from the equipment deck and 7 food which may b
 
 The player with the highest speed purchases first and play proceeds in order of speed. Ties are resolved using the mind stat. If there is still a tie, roll a die.
 On your turn, you may purchase 1 of the available items, or pass. The cost, in food, to buy an item is indicated on the top right corner of the cards, with the following icon:[l. After everyone has bought items they may exchange any number of food tokens for 2 ammo each.
-You may not pick multiple copies of the same item; however, you can buy any amount of ammo.
+You may not pick multiple copies of the same item;however, you can buy any amount of ammo.
 If you did not purchase any melee weapon, you automatically take the Lead Pipe card for free.
 Take your food and ammo and place them beside your character sheet.
 Place your character's starting items to the right of your character sheet-this is your inventory. Select up to 1 melee weapon and 1 ranged weapon from your inventory and place them on the left of your character sheet -these are your active weapons. You may swap them around with other items in your inventory any time before the first die in a combat is rolled.
@@ -182,7 +190,7 @@ All players select an action and place it face down on the table. Human players 
 Mutant players do not reveal their actions until they come into play as indicated on the card.
 Mutant players can choose to not play an action card or forfeit their chosen action card to perform 1 of the default actions listed on their mutant player card. See Mutant Player Action (pg. 6).
 Note that most mutant actions have requirements for them to be activated (for example, they can only be used on players on a specific terrain type). The mutant players must thus try to figure out what the human players will do, in order for their actions to be effective.
-Trade
+取引
 Players on terrain tiles with matching terrain type symbols may trade any items (equipment, weapons, etc.), food and ammo with each other. Followers may not be traded.
 Players may use their starting Flare or other items or skills that allow them to break the matching tile rule. Trading is done simultaneously and players may haggle and compete over items at leisure. Both items in play and in the players' hands may be traded. However, items received from a trade must be put into the inventory and not in the player's hand. See Inventory section (pg. 6).
 Action
@@ -190,7 +198,7 @@ Action
 キャンプはヘルスと士気を同時に回復し、特定のスキルと装備の使用を許可します。
 キャンプする時、あなたは2ヘルス得ます。あなたがセーフハウスにいる場合（水色ゾーン）、あなたは追加の1ヘルスか1士気回復するののいずれかを選択します。それに加えて、あなたはそこで食料にありつけたため、食料1つを支払う必要はありません。カードがあなたに食料の消費を必要とする場合、まだ支払う必要があります。
 あなたがキャンプする特に他プレイヤーに（関係ある）装備かスキルの使用を申し出る時、善意から、もしくはアイテム、食料、弾丸、将来の融通などと交換してできます（取引自体はトレードフェイズでのみで発生することに注意してください）。
-他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。Furthermore, players need to be on terrain tiles with matching terrain type symbols in order to use skills or equipment on other players.
+Other players don't need to be camping;however?Athey need to agree for you to be able to affect them (unless the card states otherwise?Afor example cards with a ?N symbol). Furthermore, players need to be on terrain tiles with matching terrain type symbols in order to use skills or equipment on other players.
 Forage
 Only completed tiles can be foraged and each tile can only be foraged once. After you have completed a tile and collected the supplies from it (in a previous move action), you may choose to take a forage action to draw 1 supply card (irrespective of the number of supply icons on the terrain tile) from the same terrain type you are on and
 as long as the terrain tile includes at least 1 supply icon
@@ -484,9 +492,9 @@ Inventory
 Take 1 flare from starting items deck and 7 food. Buy weapons or items.
 Buy ammo (cost:1 food for every 2 ammo).
 Markers
-Green Cube -Health marker; place on health track at strength+3. Yellow Cube -Morale marker; place on morale track at mind+3.
-Grey Cubes -Limit markers; place 1 space to the right of max health and max morale. Neutral Cubes -Inventory markers; fill slots according to equipment and weapon. Orange Cube -Hunger marker; place in rightmost slot.
-Red Cubes -Wound markers; place on combat encounter cards when opponent gets wounded.
+Green Cube -Health marker;place on health track at strength+3. Yellow Cube -Morale marker;place on morale track at mind+3.
+Grey Cubes -Limit markers;place 1 space to the right of max health and max morale. Neutral Cubes -Inventory markers;fill slots according to equipment and weapon. Orange Cube -Hunger marker;place in rightmost slot.
+Red Cubes -Wound markers;place on combat encounter cards when opponent gets wounded.
 Game Sequence
 . Event Resolution Starting player only.
 . Eating All players simultaneously.
@@ -561,7 +569,7 @@ tile. Gain 1 food and 1 morale. You may exchange any remaining health for morale
 
 If you exhaust both health and morale simultaneously, you start off with 1 in each. 
 
-Game end 
+ゲーム終了 
 
 The game ends when a human player reaches the fortress OR when all the players have 
 turned into mutants. If there are several players on the last zone of the journey track by 
