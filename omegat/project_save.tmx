@@ -732,6 +732,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acquired Reward Points are used to move a player’s score marker towards or even beyond the 0 on the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T033021Z" creationid="aorin" creationdate="20171213T033021Z">
+        <seg>獲得した報酬ポイントは、スコアトラックの0に向かう[または]超えるようにプレイヤーのスコアマーカーを移動させるのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action Discs cannot be chosen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164932Z" creationid="aorin" creationdate="20171212T164929Z">
@@ -826,6 +834,14 @@ are returned to players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030917Z" creationid="aorin" creationdate="20171212T030917Z">
         <seg>全てのプランをシャッフルしてスタックし、ロケーションの近くにプランデッキとして裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All acquired Penalty Points are preserved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032825Z" creationid="aorin" creationdate="20171213T032825Z">
+        <seg>獲得した全てのペナルティポイントは維持されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1762,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
         <seg>プレイヤーの近所に表向きになっているプランカードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final scoring is performed in the following order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032745Z" creationid="aorin" creationdate="20171213T032745Z">
+        <seg>最終得点は次の順番で実行されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5219,6 +5243,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140719Z" creationid="nakahodo" creationdate="20171127T140719Z">
         <seg>あなたはプライド間でキューブを移動させたい時、這い寄るを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You start counting reward points from this point on the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032858Z" creationid="aorin" creationdate="20171213T032858Z">
+        <seg>スコアトラックにある今の位置から、あなたの報酬ポイントのカウントが始まります。</seg>
       </tuv>
     </tu>
     <tu>
