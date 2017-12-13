@@ -290,6 +290,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--OR Food &amp; Gold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044227Z" creationid="aorin" creationdate="20171213T044227Z">
+        <seg>•または、食料とゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--Offering Food the Queen does not want this turn is not allowed!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123642Z" creationid="aorin" creationdate="20171212T123526Z">
@@ -660,6 +668,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171328Z" creationid="aorin" creationdate="20171212T171328Z">
         <seg>プレイヤーはペナルティポイントを回避するためや、岩に繋ぐために意図的に自身の炭鉱の上行にドレイを配置することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player can use this Tile during one of the subsequent offering phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044033Z" creationid="aorin" creationdate="20171213T044033Z">
+        <seg>プレイヤーは今後の提供フェイズ時にこのタイルを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,6 +1581,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141311Z" creationid="nakahodo" creationdate="20171127T141311Z">
         <seg>盾アイコンに怠惰キューブは配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double offering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043935Z" creationid="aorin" creationdate="20171213T043935Z">
+        <seg>2倍提供</seg>
       </tuv>
     </tu>
     <tu>
@@ -4160,6 +4184,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the appropriate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T043955Z" creationid="aorin" creationdate="20171213T043955Z">
+        <seg>該当するタイルを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the top Food Tile and put it in the appropriate spot in front of your player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042847Z" creationid="aorin" creationdate="20171213T042847Z">
@@ -5242,6 +5274,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044000Z" creationid="aorin" creationdate="20171213T044000Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tiles</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043122Z" creationid="aorin" creationdate="20171213T043122Z">
@@ -5609,6 +5649,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141512Z" creationid="nakahodo" creationdate="20171127T141512Z">
         <seg>これが発生すると、直ちに出現したと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When used the player announces his double offering to the other players and uses both hands to offer not one, but two different resources to the Queen:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044202Z" creationid="aorin" creationdate="20171213T044202Z">
+        <seg>使用したプレイヤーは他プレイヤーに2倍提供することを宣言し、片手ではなく両手を使用して、2種類のリソースをクイーンに提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6292,6 +6340,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093658Z" creationid="aorin" creationdate="20171212T093658Z">
         <seg>15.黒の採掘バッグを次で満たします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Food &amp; Silver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T044217Z" creationid="aorin" creationdate="20171213T044217Z">
+        <seg>•食料とシルバー</seg>
       </tuv>
     </tu>
     <tu>
