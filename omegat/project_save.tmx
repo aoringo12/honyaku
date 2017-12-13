@@ -1083,6 +1083,15 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alter play priority Pay the Queen 1 or more Honey pots (put them back in the general supply) and advance your small cube an equal amount of spaces to the left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T123317Z" creationid="nakahodo" creationdate="20171213T123317Z">
+        <seg>優位性の変更
+クイーンへと1以上のはちみつポットを支払い（共通サプライにこれらを配置）、それと同じ数だけ、あなたの小さなキューブを左のスペースへと進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -1457,6 +1466,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125917Z" creationid="aorin" creationdate="20171212T124025Z">
         <seg>少なくとも1人が適切な種類の食料（シルバーとゴールドは含まず）を提供できたかどうかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check which resources are located on the Special Offering track and offer those to the Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122501Z" creationid="nakahodo" creationdate="20171213T122501Z">
+        <seg>特別な提供トラックにあるリソースを確認し、クイーンに提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,6 +2121,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040042Z" creationid="aorin" creationdate="20171213T040042Z">
         <seg>リソースキューブの種類ごとに、個人サプライに残っているリソースが最も多いプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, whenever there is no longer a Single Use Tile available at an action spot, a player is not allowed to copy the action which grants that Single Use Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122354Z" creationid="nakahodo" creationdate="20171213T122354Z">
+        <seg>例えば、アクションスポットに利用可能な一回使用タイルがない場合に、プレイヤーは一回使用タイルを得るためにアクションの模倣をすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4446,6 +4471,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special Offering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
+        <seg>特別な提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Player Token</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
@@ -4568,6 +4601,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043955Z" creationid="aorin" creationdate="20171213T043955Z">
         <seg>該当するタイルを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the leftmost Tile from the associated Reward Tiles and keep it behind your player screen until final scoring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122914Z" creationid="nakahodo" creationdate="20171213T122914Z">
+        <seg>関連した報酬タイルから一番左のタイルを取り、最終得点計算まで自身のプレイヤースクリーンに隠して保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5322,6 +5363,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then place 1 additional resource of your choice (Food, Silver or Gold) from your personal supply onto the Special Offering track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122622Z" creationid="nakahodo" creationdate="20171213T122622Z">
+        <seg>その後、あなたの個人サプライから特別な提供トラックへと、あなたの選択したリソース（食料、シルバーゴールド）を追加で1つ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then proceed to
 the Upkeep phase.</seg>
       </tuv>
@@ -5693,6 +5742,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041914Z" creationid="aorin" creationdate="20171213T041914Z">
         <seg>これは、複数回実行しても1アクションになる唯一のアクションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes the action more and more expensive as the rounds progress.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122829Z" creationid="nakahodo" creationdate="20171213T122829Z">
+        <seg>これはラウンドが進行するにつれて、どんどん費用が高価になることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6296,6 +6353,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140719Z" creationid="nakahodo" creationdate="20171127T140719Z">
         <seg>あなたはプライド間でキューブを移動させたい時、這い寄るを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You pay these resources from your personal sypply to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122520Z" creationid="nakahodo" creationdate="20171213T122520Z">
+        <seg>あなたは自身のサプライから共通サプライへと、これらリソースを支払います。</seg>
       </tuv>
     </tu>
     <tu>
