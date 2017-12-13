@@ -4713,6 +4713,14 @@ takes the first turn.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player forges 1 Golden Ring by paying the amount of Gold depicted on their position on the Gold track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T062951Z" creationid="aorin" creationdate="20171213T062951Z">
+        <seg>ゴールドトラックにある自身の位置に描かれた数のゴールドを支払うことで、ゴールデンリング1つを鍛造します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player gains a Plan from the Plan Supply into
 their Neighborhood.</seg>
       </tuv>
