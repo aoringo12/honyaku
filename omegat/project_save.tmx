@@ -1835,6 +1835,14 @@ track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each type of resource cube, determine which player has the most cubes of that particular resource remaining in their personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040042Z" creationid="aorin" creationdate="20171213T040042Z">
+        <seg>リソースキューブの種類ごとに、個人サプライに残っているリソースが最も多いプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about specific Country Token abilities
 and effects, see Appendix A on page 16.</seg>
       </tuv>
