@@ -688,6 +688,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074447Z" creationid="aorin" creationdate="20171213T074447Z">
+        <seg>プレイヤーごとに最大ドレイ2体が、ドレイごとに最大3つの岩につながれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mine slave can be promoted to the first row of action fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T154259Z" creationid="aorin" creationdate="20171212T154223Z">
@@ -1287,6 +1295,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093447Z" creationid="nakahodo" creationdate="20170924T093447Z">
         <seg>豆は配置されず、国トークンは裏返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
+        <seg>これらが昇進時に炭鉱を離れる前、ドレイたちは自身につながれた岩を取り除く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2465,6 +2481,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125428Z" creationid="aorin" creationdate="20171212T125428Z">
         <seg>最後のプレイヤーガ昇格した妖精を持っていない[または]一生に一度の命乞いタイルを使用して慈悲を求める場合、ターン順番トラック（大きなキューブ）の後ろから二番目のプレイヤーが炭鉱へと妖精を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the only slaves that can still get Rocks are the player’s own slaves, the player is obliged to enchain their own slaves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074534Z" creationid="aorin" creationdate="20171213T074534Z">
+        <seg>岩に繋がれるドレイがプレイヤー自身のドレイのみだった場合、プレイヤーは自身のドレイを繋ぐ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
