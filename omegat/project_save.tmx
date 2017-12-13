@@ -1033,6 +1033,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All rules apply to the copied action as if the action itself was taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122237Z" creationid="nakahodo" creationdate="20171213T122237Z">
+        <seg>全てのルールは、そのアクション自体が適応されたように模倣アクションに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All supplies are limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040541Z" creationid="aorin" creationdate="20171213T040541Z">
