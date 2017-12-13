@@ -5108,6 +5108,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player performing this action chooses another action with double action spaces that has already been used this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T120510Z" creationid="nakahodo" creationdate="20171213T120510Z">
+        <seg>このアクションを実行したプレイヤーは、このラウンド既に使用されたダブルアクションスペースの別のアクションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player rolls the Casino die and receives resources according to the die roll:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045839Z" creationid="aorin" creationdate="20171213T045839Z">
@@ -5872,6 +5880,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043059Z" creationid="aorin" creationdate="20171213T043059Z">
         <seg>最後のラウンドまで、タイルに描かれたリソースを獲得し続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused actions as well as single space actions can NOT be copied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T122124Z" creationid="nakahodo" creationdate="20171213T122124Z">
+        <seg>未使用アクションもシングルアクションも模倣できません。</seg>
       </tuv>
     </tu>
     <tu>
