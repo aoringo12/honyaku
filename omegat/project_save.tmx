@@ -2453,6 +2453,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the victim no longer possesses all of the resources which are to be stolen, the player only hands over the resources they have remaining.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T064158Z" creationid="aorin" creationdate="20171213T064158Z">
+        <seg>犠牲者が盗まれるリソースの種類を必要分所持していなかった場合、残っているリソースのみを手渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there
 is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
@@ -5316,6 +5324,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164004Z" creationid="aorin" creationdate="20171212T164004Z">
         <seg>この妖精はゲームの残りで、もはやそのプレイヤーには利用できず、その宮殿でクイーンのために働きます・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Pixie is robbed and must give resources to the stealing player according to the small Food icons above the action space it is on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T063723Z" creationid="aorin" creationdate="20171213T063723Z">
+        <seg>この妖精は強奪され、そのアクションスペース上部の小さな食料アイコンに従って強盗プレイヤーにリソースを与えます。</seg>
       </tuv>
     </tu>
     <tu>
