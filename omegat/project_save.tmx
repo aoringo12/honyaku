@@ -1915,6 +1915,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player receives Food (obligatory!) as depicted on their Food Tile and according to the Food icons at their Pixies position on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141102Z" creationid="nakahodo" creationdate="20171213T141102Z">
+        <seg>各プレイヤーはボードにいる自身の妖精の位置の食料アイコンと、自身の食料タイルに描かれただけ食料を受け取ります（必須！）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player receives:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093444Z" creationid="aorin" creationdate="20171212T093444Z">
@@ -1988,6 +1996,22 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
         <seg>各ターン、プレイヤーはアクションディエスク1つ[または]2つを使用して、直ちにアクション1つを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each turn, each player, in turn order, uses 1 or 2 Action Discs to immediately perform 1 action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141327Z" creationid="nakahodo" creationdate="20171213T141327Z">
+        <seg>各ターン、各プレイヤーはターン順番で、1[または]2アクションディスクを使用して、直ちに1アクションを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either 1 disc on a circular action space with room to place only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T141404Z" creationid="nakahodo" creationdate="20171213T141404Z">
+        <seg>1つのディスクを配置できるアクションスペースに、アクションディスク1つのみを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,6 +2296,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093900Z" creationid="aorin" creationdate="20171212T093900Z">
         <seg>ゲームラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gameplay overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T140620Z" creationid="nakahodo" creationdate="20171213T140620Z">
+        <seg>ゲームプレイ概要</seg>
       </tuv>
     </tu>
     <tu>
