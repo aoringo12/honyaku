@@ -2055,6 +2055,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If 1 or more players passed onto the positive side of the score track, the player with the most Victory Points wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040326Z" creationid="aorin" creationdate="20171213T040326Z">
+        <seg>スコアトラックで1以上のプラス側にいるプレイヤーがいた場合、最も勝利ポイントを持っているプレイヤーが勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Flame Wall is placed on a space that already contains a player, that player is unaffected unless they leave the tile and reenter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134100Z" creationid="nakahodo" creationdate="20171127T134100Z">
@@ -2177,6 +2185,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153954Z" creationid="aorin" creationdate="20171212T153954Z">
         <seg>複数の空いた場所が次のレベルで利用可能な場合、プレイヤーは妖精をどちらに移動させるかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no player passed the 0 space and all players are in the negative points, the player who has the least Penalty Points wins the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040226Z" creationid="aorin" creationdate="20171213T040226Z">
+        <seg>誰もスコアトラックの0スペースを越えられず、マイナスポイントだった場合、最も少ないペナルティポイントのプレイヤーが勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2431,6 +2447,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032730Z" creationid="aorin" creationdate="20171213T032730Z">
         <seg>両方の状況で、現在のラウンドは終了します（報酬とペナルティフェイズも行います）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of a tie, all tied players receive 3 Penalty Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040119Z" creationid="aorin" creationdate="20171213T040119Z">
+        <seg>タイの場合、タイプレイヤー全員が3ペナルティポイントを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3315,6 +3339,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100707Z" creationid="nakahodo" creationdate="20171001T100707Z">
         <seg>プレイヤーたちは約束を交わすことができますが、なのかを交換することはできず、取引に拘束力はなく、アクションやルールで必要とされない限り自身のロースターカードの内容を見せることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players receive 3 Penalty Points for each resource type that they have the majority of.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040106Z" creationid="aorin" creationdate="20171213T040106Z">
+        <seg>リソース種類ごとに、最も多くリソースを持っているプレイヤーたちは3ペナルティポイントを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4805,6 +4837,14 @@ using the Hiding Spots secrets card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T125102Z" creationid="nakahodo" creationdate="20171127T125102Z">
         <seg>これはハイディングスポットシークレットカードを使用する時も含まれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is determined for Apples, Honey, Bread, Silver and Gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040135Z" creationid="aorin" creationdate="20171213T040135Z">
+        <seg>これはリンゴ、はちみち、パン、シルバー、ゴールドで決定されます。</seg>
       </tuv>
     </tu>
     <tu>
