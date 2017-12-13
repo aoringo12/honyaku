@@ -7711,6 +7711,30 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• OR take 1 Apple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T144036Z" creationid="nakahodo" creationdate="20171213T144017Z">
+        <seg>•または、1りんご取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• OR take 1 Bread</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T144032Z" creationid="nakahodo" creationdate="20171213T144032Z">
+        <seg>•または、1パン取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• OR take 1 Honey</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T144039Z" creationid="nakahodo" creationdate="20171213T144022Z">
+        <seg>•または、1はちみつ取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Pay 1 Gold to advance 1 step on the Gold track</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142002Z" creationid="nakahodo" creationdate="20171213T142002Z">
