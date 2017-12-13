@@ -2037,6 +2037,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However it is allowed to pay an Apple in order to swap your Pixie with one of another player on the next row.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041120Z" creationid="aorin" creationdate="20171213T041120Z">
+        <seg>しかし、次の行にいる他のプレイヤーの妖精1体を、あなたの妖精と交換するためにアップルを支払うことはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However the Queen will punish you severely for your lack of trying;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110353Z" creationid="aorin" creationdate="20171212T110353Z">
@@ -2283,6 +2291,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T094747Z" creationid="nakahodo" creationdate="20171002T094747Z">
         <seg>その種類の豆がフィールドにない場合、プレイヤーたちはこの能力を使用することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no empty spots available to move one of your Pixies to and you don’t have an Apple to demote an opponent’s Pixie, you can’t choose this action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041212Z" creationid="aorin" creationdate="20171213T041212Z">
+        <seg>あなたの妖精1体を移動させるために利用可能な空いたスポットがなく、対戦相手の妖精を降格させるためのリンゴがない場合、あなたはこのアクションを選択できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2612,6 +2628,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153637Z" creationid="nakahodo" creationdate="20171103T153637Z">
         <seg>どのグループが最終的に根ざす（root）のかはプレイヤー達によって決められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It isn’t allowed to move Action Discs in order to make room for a moving Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041047Z" creationid="aorin" creationdate="20171213T041047Z">
+        <seg>移動する妖精のスペースを作るために、アクションディスクを移動させることはできません。</seg>
       </tuv>
     </tu>
     <tu>
