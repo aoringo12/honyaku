@@ -2720,6 +2720,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Klaus chooses the Turn Silver into Gold action and decides to transform 6 pieces of Silver into 3 pieces of Gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T042126Z" creationid="aorin" creationdate="20171213T042126Z">
+        <seg>クラウスはシルバーをゴールドに変換アクションを選択肢、シルバー6つをゴールド3つに変換することにしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Klaus reached the 4th position on the Silver track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T042016Z" creationid="aorin" creationdate="20171213T042016Z">
+        <seg>クラウスはシルバートラックの4段目にいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCATIONS CONTINUED</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032648Z" creationid="aorin" creationdate="20171212T032648Z">
@@ -5077,6 +5093,22 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the only action a player can perform multiple times using just 1 action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041914Z" creationid="aorin" creationdate="20171213T041914Z">
+        <seg>これは、複数回実行しても1アクションになる唯一のアクションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means the price for 1 Gold is 2 Silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T042033Z" creationid="aorin" creationdate="20171213T042033Z">
+        <seg>これはゴールド1つが2シルバーの価格であることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This phase only takes place if at least 1 player offered the right kind of Food during the offering phase (III).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125904Z" creationid="aorin" creationdate="20171212T125904Z">
@@ -5499,6 +5531,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
         <seg>あなたはゲームボード上の同じ[または]それ以下の位置のアクションフィールドへと、妖精を昇進させることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can obtain multiple Gold bars as long as you can pay the required amount of Silver bars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041957Z" creationid="aorin" creationdate="20171213T041957Z">
+        <seg>あなたが必要なシルバーの延べ棒を支払えるなら、複数回ゴールドの延べ棒にすることができます。</seg>
       </tuv>
     </tu>
     <tu>
