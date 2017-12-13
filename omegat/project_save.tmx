@@ -1013,6 +1013,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aside from the above, all normal rules regarding a regular promotion in the Reward phase apply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041405Z" creationid="aorin" creationdate="20171213T041405Z">
+        <seg>上記以外にも、報酬フェイズの基本的な昇進に関するする通常ルール全てが適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
@@ -2039,8 +2047,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>However it is allowed to pay an Apple in order to swap your Pixie with one of another player on the next row.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171213T041120Z" creationid="aorin" creationdate="20171213T041120Z">
-        <seg>しかし、次の行にいる他のプレイヤーの妖精1体を、あなたの妖精と交換するためにアップルを支払うことはできます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041218Z" creationid="aorin" creationdate="20171213T041120Z">
+        <seg>しかし、次の行にいる他のプレイヤーの妖精1体を、あなたの妖精と交換するためにリンゴを支払うことはできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5088,6 +5096,22 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112603Z" creationid="nakahodo" creationdate="20171001T112603Z">
         <seg>投票するには、各プレイヤーは自身の手札のブレンド/研究トークンを取り、秘密裏にいずれかの側を選択してテーブルに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041408Z" creationid="aorin" creationdate="20171213T041408Z">
+        <seg>トレード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade up to 7 resources of 1 type for an equal amount of resources of 1 different type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T041529Z" creationid="aorin" creationdate="20171213T041529Z">
+        <seg>1種類7つまでのリソースを、同じ数の異なる1種類のリソースに交換することができます。</seg>
       </tuv>
     </tu>
     <tu>
