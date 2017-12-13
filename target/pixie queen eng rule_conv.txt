@@ -279,7 +279,7 @@ V. ペナルティフェイズ
 タイルはタイル交換アクションヲ選択することにより、交換できます（ペース10参照）。
 一回使用タイルを使用すると、ゲームボード上の適切なスペースにこれを戻し、直ちに全てのプレイヤーに再び利用できるようになります。
 
-7. 2倍提供
+7. ダブル提供
 
 該当するタイルを取ります。
 　プレイヤーは今後の提供フェイズ時にこのタイルを使用することができます。
@@ -310,123 +310,126 @@ V. ペナルティフェイズ
 •または、2シルバー
 •または、1ゴールド
 13. ゴールデンリング
-The player forges 1 Golden Ring by paying the amount of Gold depicted on their position on the Gold track.
-The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.
+ゴールドトラックにある自身の位置に描かれた数のゴールドを支払うことで、ゴールデンリング1つを鍛造します。
+ゴールデンリングは直ちにクイーンに提供され、プレイヤーはまだ獲得可能な最も高いゴールデンリング報酬タイルを獲得します。
 
-例：Orienne has reached the 4th step on the Gold track.
-This means the cost to forge a Golden Ring is 2 Gold. Orienne has 4 Gold in total. She pays 2 Gold to forge 1 Golden Ring, as she is not allowed to forge more than one Ring with 1 action.
-14. Rob a Pixie
-The player chooses an opposing Pixie on a double action space. This Pixie is robbed and must give resources to the stealing player according to the small Food icons above the action space it is on.
-If the victim no longer possesses all of the resources which are to be stolen, the player only hands over the resources they have remaining.
-If there is no opposing promoted Pixie on the game board, this action can’t be chosen.
+例：オリアナはゴールドトラックの4段目に到達しています。
+これはゴールデンリングが2ゴールドのコストで鍛造できることを意味します。オリアナは合計4ゴールドを持っています。彼女は1ゴールデンリングを鍛造するために2ゴールド支払います。1アクションで複数のリングを鍛造することはできません。
+14. 妖精を恐喝
+プレイヤーはダブルアクションスペースにいる対戦相手の妖精1体を選択します。この妖精は強盗にあい、そのアクションスペース上部の小さな食料アイコンに従って強盗プレイヤーにリソースを与えます。
+犠牲者が盗まれるリソースの種類を必要分所持していなかった場合、残っているリソースのみを手渡します。
+ゲームボードに対戦相手の昇進済み妖精がいない場合、このアクションは選択できません。
 
-15. Mine
-By placing an Action Disc on the appropriate action space, a player activates the Pixies in their mine.
-The player takes the cloth bag and pulls as many resource cubes from it as there are Pixies present in their mine. This is done without looking into the bag.
-In case there are no more slaves in the mine, a player still takes 1 cube.
-The Single Use Tile, Look into the bag can be used when performing this action.
-A player always has to show their opponents which cubes were taken.
-Silver and Gold bars are added to the resource pool a player keeps behind their screen.
-Rocks are placed next to opposing Pixies in the mines on the provided spaces, chaining these Pixies into place.
-Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.
-A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.
-If the only slaves that can still get Rocks are the player’s own slaves, the player is obliged to enchain their own slaves. If there are no slaves left or all have been chained with 3 Rocks, the Rocks pulled are removed from the game. They are not returned to the bag.
+15. 炭鉱
+アクションディスクを適切なアクションスペースに配置することにより、プレイヤーは自身の鉱山のピクシーをアクティブにできます。
+プレイヤーは布袋を取り、自身の炭鉱にいる妖精と同数のリソースキューブを引きます。バッグの中を見てはいけません。
+鉱山にドレイがいない場合、プレイヤーは1キューブのみ取ります。
+一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。
+プレイヤーはこれにより取ったキューブを常に見せなければなりません。
+シルバーとゴールドの延べ棒は、自身のスクリーンに個人プールとして隠して保持します。
+岩は対戦相手の炭鉱にあるスペースの妖精の横に配置され、場所にいる妖精たちをつなぎます。
+これらが昇進時に炭鉱を離れる前、ドレイたちは自身につながれた岩を取り除く必要があります。
+プレイヤーごとに最大ドレイ2体が、ドレイごとに最大3つの岩につながれます。
+岩に繋がれるドレイがプレイヤー自身のドレイのみだった場合、プレイヤーは自身のドレイを繋ぐ必要があります。ドレイがいない、または全てが3岩でつながれている場合、引かれた岩はゲームから除外します。これらはバッグに戻りません。
 
-The Queen will happily remove a Rock for each Bread that you give Her.
-A player can remove 1 or more Rocks at any time by paying 1 Bread for each Rock. The Bread is placed in the general supply and the removed Rock is removed from the game.
-This can be done anytime, e.g. when performing an action, a promotion, or even when calculating the final scoring.
+クイーンはパンをもらうごとに、岩を取り除いてくれます。
+プレイヤーはいつでも、岩ごとにパン1つを支払うごとで、岩を取り除くことができます。パンは共通サプライに配置され、岩はゲームから取り除かれます。
+これはいつでも可能です。つまり、アクション、昇進、最終得点計算を実行している時にもできます。
 
-16. Trade Tiles here are 3 types of Tiles a player can exchange:
-1. Food Tiles
-2. Single Use Tiles
-3. Permanent Ability Tiles
-By choosing this action, a player can exchange 1 of their Tiles with a Tile of the same type on the game board OR on an opponent’s player screen.
-If a player doesn’t own a Tile of a certain type, they can’t trade for Tiles of that type.
-Exchanging with a Tile of an opponent:
-• Just swap a Tile on your own player screen with a Tile of the same type on an opponent’s player screen.
-• The opponent may not refuse the exchange.
-Exchanging with a Tile on the game board:
-• When exchanging Food Tiles, the player first takes the top Tile from the Food Tile stack and then puts the old Tile back on top.
-• When trading a Single Use Tile, the player takes an available Single Use Tile of his choice on the game board and puts his Single Use Tile back on the appropriate space on the game board. e.g. A Mercy Tile goes back on the Mercy space and not on the space where you just took the other Single Use Tile from.
-• When trading a Permanent Ability Tile, the old Tile is placed on the location on the game board where the new Tile came from.
-17. Dump resources or take 1 Food This action is performed using a single Action Disc and is available 3 times each round.
-A player can perform this action multiple times per round (1 time per turn) as long as there is an available action space.
-• EITHER remove up to 3 resources from the game (from your own supply).
-• OR take 1 Apple
-• OR take 1 Honey
-• OR take 1 Bread
-18. Copy action
-Each player has a personal action space to perform this action once per round.
-The 1st player to choose this action each round immediately gets 1 Penalty Point, the
-2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.
-If the received Penalty Points move the player’s score marker onto or over a slave symbol on the score track, the player must demote a Pixie to their mine immediately.
-The player performing this action chooses another action with double action spaces that has already been used this round.
-Unused actions as well as single space actions can NOT be copied.
-All rules apply to the copied action as if the action itself was taken. For example, whenever there is no longer a Single Use Tile available at an action spot, a player is not allowed to copy the action which grants that Single Use Tile.
-19. Special Offering
-Check which resources are located on the Special Offering track and offer those to the Queen. You pay these resources from your personal sypply to the general supply. Then place 1 additional resource of your choice (Food, Silver or Gold) from your personal supply onto the Special Offering track.
-This makes the action more and more expensive as the rounds progress.
-Take the leftmost Tile from the associated Reward Tiles and keep it behind your player screen until final scoring.
-20. Alter play priority Pay the Queen 1 or more Honey pots (put them back in the general supply) and advance your small cube an equal amount of spaces to the left.
-The large cubes remain in place for the time being. Their position will only be altered at the start of the next stealing phase. The remainder of the turn is performed using the current order of the large cubes.
-21. Temporary priority
-This action can be chosen by any player, even the player whose large cube is already in first place.
+16. タイルの交換
+これは3種のタイルを交換することができます：
+1. 食料タイル
+2. 一回使用タイル
+3. 永続能力タイル
+このアクションを選択すると、自身のタイル1枚と、それと同じ種類のタイル1枚を、ゲームボード[または]対戦相手のプレイヤースクリーン上から交換する事ができます。
+プレイヤーガ特定の種類のタイルを所有していない場合、その種類のタイルは交換できません。
+対戦相手のタイルと交換する：
+•自身のプレイヤースクリーンにあるタイル1枚と、対戦相手のプレイヤースクリーンにある、同じ種類のタイル1枚とを交換する。
+•対戦相手は交換を拒否することはできません。
+ゲームボード上のタイルと交換する：
+•食料タイルを交換する時、食料タイルのスタックの一番上からまずタイルを取り、その後、古いタイルを一番上に置きます。
+•一回使用タイルを交換する時、ゲームボードにある利用可能な一回使用タイルを取り、自身の一回使用タイルを適切なスペースに配置します。例えば、慈悲タイルは慈悲スペースに戻り、他の一回使用タイルのスペースには戻りません。
+•永続能力タイルを交換する時、古いタイルは、新しいタイルを獲得したゲームボー上のスペースに配置します。
+17. リソースを捨てる[または]1食料を取る
+このアクションはアクションディスク1つで実行でき、各ラウンド3回利用できます。
+プレイヤーはアクションスペースが利用可能な限り、ラウンドごとに複数回このアクションヲ実行できます（ターン毎に一回）。
+•いずれか：ゲームから3リソースまでを取り除く（あなたの個人サプライから）。
+•または、1りんご取る。
+•または、1はちみつ取る
+•または、1パン取る。
+18. 模倣
+各プレイヤーはラウンドごとに一回、このアクションを実行するための個人アクションスペースを持ちます。
+このアクションを選択した最初のプレイヤーは1ペナルティポイントを受け取り、二番目と三番目は2ペナルティポイント、4番目と5番目は3ペナルティポイントになります。
+　
+ペナルティポイントを受け取ることにより、スコアトラックのドレイシンボルにプレイヤーのスコアマーカーが乗るか超えて移動した場合、プレイヤーは直ちに自身の鉱山に妖精を降格させる必要があります。
+このアクションを実行したプレイヤーは、このラウンド既に使用されたダブルアクションスペースの別のアクションを選択します。
+未使用アクションもシングルアクションも模倣できません。
+全てのルールは、そのアクション自体が適応されたように模倣アクションに適用されます。例えば、アクションスポットに利用可能な一回使用タイルがない場合に、プレイヤーは一回使用タイルを得るためにアクションの模倣をすることはできません。
+19. 特別な提供
+特別な提供トラックにあるリソースを確認し、クイーンに提供します。あなたは自身のサプライから共通サプライへと、これらリソースを支払います。その後、あなたの個人サプライから特別な提供トラックへと、あなたの選択したリソース（食料、シルバーゴールド）を追加で1つ配置します。
+これはラウンドが進行するにつれて、どんどん費用が高価になることを意味します。
+関連した報酬タイルから一番左のタイルを取り、最終得点計算まで自身のプレイヤースクリーンに隠して保持します。
+20. 優位性の変更
+クイーンへと1以上のはちみつポットを支払い（共通サプライにこれらを配置）、それと同じ数だけ、あなたの小さなキューブを左のスペースへと進めます。
+大きなキューブはまだその場に残ります。これらポジションは次の窃盗フェイズの開始時にのみ、変更されます。ターンの残りは、大きなキューブが現在ある順番を使用して進行します。
+21. 一時的な優位性
+このアクションは、大きなキューブが最初の場所に既にあるプレイヤーであっても、任意のプレイヤーによって選択できます。
 
-To perform this action, place ALL of your remaining Action Discs for this turn on the action space. The action phase ends immediately for the player who chooses this action.
-Move your large cube to the front of the track of large cubes immediately. Leave the small cube track untouched.
-This action temporarily makes you ‘the Queen’s Favorite’ during the remainder of the Action phase, the next Reward phase and the next Penalty phase.
-This means you will be allowed to carry out the promotion steps of your Pixies in the Reward phase first, and you won’t have to demote a Pixie to the mine if you pass a slave symbol or if no one offered the correct type of Food during the Offering phase.
-During the next Stealing phase however, the large cube track will be rearranged to match the small cubes track.
-After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.
+このアクションを実行するには、このターンに残っているあなたのアクションディスクを全て、アクションスペースに配置します。このアクションを選択したプレイヤーは直ちにアクションフェイズを終了します。
+直ちに、あなたの大きなキューブをトラックの前に移動させます。小さなキューブトラックはそのままにします。
+このアクションは、アクションフェイズの残り、次の報酬フェイズとペナルティフェイズで、あなたへの「クイーンからのファボ」を一時的に作り出します。
+これは、ドレイシンボルをパスしたり、提供フェイズ時に誰も適切な食料を提供できなかった場合でも、報酬フェイズであなたの妖精の昇格ステップを最初に行え、鉱山に妖精を降格させないで良いことを意味します。
+しかし、次の窃盗フェイズ時は、小さなキューブトラックに一致するように大きなキューブトラックが変更されます。
+あなたの大きなキューブが一時的な優位性アクションで移動した後、このアクションを選択する前にあなたのキューブぼうしろにいたプレイヤーから、アクションフェイズを続けます。
 
-Rules for a 2 Player Game
+2プレイヤーゲームのルール
 
-Setup:
-• Take Food Tiles with values 4, 3 and 2 (three Tiles in total).
-• Choose a third colour for a Dummy Player and place 5
-Pixies of that colour on the mines.
-Offering phase:
-• Both players make double offerings each time. From here on out, a player who has the Double Offering Tile is allowed to offer three different goods (Silver, Gold and the appropriate Food).
+セットアップ：
+•食料を取るタイルは4，3，2の値（合計3タイル）。
+•3番目の色を選択してダミープレイヤーとし、鉱山にその色の妖精5体を配置する。
+　
+提供フェイズ：
+•両プレイヤーは毎回2倍提供を行う。ここで、ダブル提供タイルを持っているプレイヤーは、3種の異なる物品を提供できる（シルバー、ゴールド、適切な食料）。
 
-Reward Phase:
---At the end of the Reward phase, the Queen’s Favorite places 1 Pixie of the Dummy Player one step up. No Apples can be paid to demote any Pixies at this time. In a situation where there are no free spots to perform the promotion, skip it.
-• Pixies of the Dummy Player are allowed to be demoted using Apples whenever applicable.
-
-
-Permanent abilities
-
-When changing Silver into Gold, the player pays 1 less Silver than indicated by their position on the Silver track (but minimum 1 Silver).
-
-The player receives 2 extra Reward Points when promoting a Pixie to Loyal Servant.
-The player receives 2 extra Reward Points when forging a Golden Ring.
-The player receives 1 Silver during each stealing phase.
-At the end of the Reward phase, when all promotion steps are performed, the player performs an additional free promotion step, even if they did not offer the Food that was requested by the Queen.
-This promotion can be the promotion to become a Loyal Servant. An Apple can be used to demote an opposing Pixie. This ability cannot be used if the Reward Phase was skipped.
-
-Whenever the player wishes to demote an opposing Pixie, they do not have to pay an Apple.
-
-Whenever the player wishes to remove
-Rocks that their slaves are chained to, they do not have to pay Bread.
-The player now has 1 extra location on their player screen to hold a Single Use or Food Tile.
-That Tile is placed on top of this Permanent Ability Tile.
-If this Permanent Ability Tile is exchanged, the Tile on top is exchanged with it.
-The player may copy any double action using the copy action (not just actions that were already taken).
-The player receives a maximum of 1
-Penalty Point instead of 2 for slaves still in their mine.
+報酬フェイズ：
+•報酬フェイズが終了した後、クイーンからファボられているプレイヤーは、ダミープレイヤーの妖精1体を1ステップ昇格させます。この時、任意の妖精を降格させるためにリンゴを支払う必要はありません。昇格を実行するための空いたスポットがない場合、これをスキップします。
+•ダミープレイヤーの妖精は、該当する場合はリンゴを使用して降格させることができます。
 
 
-Gameplay overview
+永続アビリティ
+
+ゴールドにシルバーを変換時、シルバートラックの位置に示されたシルバーを1少なくして支払える（最小1シルバー）。
+
+忠実な使用人に妖精を昇進させる時、追加の2報酬ポイントを受け取る。
+ゴールデンリングを鍛造する時、追加の2報酬ポイントを受け取る。
+各窃盗フェイズ時に、1シルバーを受け取る。
+報酬フェイズ終わりに、全ての昇進ステップが実行された時、クイーンに必要な食料を提供していなかったとしても、無料の昇進ステップを追加で1回実行できる。
+この昇進は忠実な使用人にするために実行できます。対戦相手の妖精を降格さえるために、リンゴ1つを使用できます。このアビリティは、報酬フェイズがスキップされた場合は使用できません。
+
+対戦相手の妖精を降格させるたびに、リンゴを支払う必要はありません。
+
+　
+自身のドレイがつながれている岩を取り除くプレイヤーは、パンを支払う必要はありません。
+プレイヤーは一回使用[または]食料タイル1つを保持するために、自身のプレイヤースクリーンに追加のスペース1つを持ちます。
+この永続能力タイルの上にそのタイルを配置します。
+この永続能力タイルが交換された場合、トップのタイルはそれと共に交換されます。
+プレイヤーは模倣アクションを使用して任意のダブルアクションを模倣できます（既に取られたアクションではなくても）。
+　
+自身の鉱山にドレイがいることにより受け取るペナルティポイントが、最大2の代わりに1になる。
+
+
+ゲームプレイ概要
 
 
 I. 窃盗フェイズ
-小さなキューブの順番に大きなキューブの順番を合わせて、プレイヤーのターン順番を調整します。Each player receives Food (obligatory!) as depicted on their Food Tile and according to the Food icons at their Pixies position on the board.
+小さなキューブの順番に大きなキューブの順番を合わせて、プレイヤーのターン順番を調整します。各プレイヤーはボードにいる自身の妖精の位置の食料アイコンと、自身の食料タイルに描かれただけ食料を受け取ります（必須！）。
 
 
 II. アクションフェイズ
 
-Each turn, each player, in turn order, uses 1 or 2 Action Discs to immediately perform 1 action:
-1. Either 1 disc on a circular action space with room to place only
-1 Action Disc.
+各ターン、各プレイヤーはターン順番で、1[または]2アクションディスクを使用して、直ちに1アクションを実行します：
+1. 1つのディスクを配置できるアクションスペースに、アクションディスク1つのみを配置する。
+　
 2. または、妖精のいない、ダブルアクションスペースにディスク2つを配置する。
 3. または、手が描かれたスペースに妖精がいる、ダブルアクションスペースにディスク1つを配置する。妖精はその色にかかわらず、アクションを実行するのにあなたを助けてくれます。
 
@@ -442,80 +445,81 @@ Each turn, each player, in turn order, uses 1 or 2 Action Discs to immediately p
 1種類7つまでのリソースを、同じ数の異なる1種類のリソースに交換することができます。
 
 5. シルバーをゴールドに変換
-Turn Silver into Gold. How much Silver a player needs to receive 1 Gold depends on their position on the Silver track.
+シルバーをゴールドに変換します。1ゴールドを受け取るために必要なシルバーの量は、シルバートラックの自身の位置によって変わります。この交換は複数回できます。
 6. 食料タイル
 食料タイルの1番上を取り、あなのプレイヤースクリーンの前にある適切なスポットにこれを配置します。
-7. 2倍提供
-Take the appropriate Tile. Use this Tile to perform a double offer during one of the subsequent offering phases.
+7. ダブル提供
+関連するタイルを取る。今後の提供フェイズ時に、ダブル提供を実行するためにこのタイルを使用できます。
 
 8. バッグを見る
-Take the appropriate Tile. When performing a Mining action, choose the first 2 cubes from the bag.
+関連するタイルを取る。採掘アクションを実行する時、バッグからまず2つのキューブを選択します。
 
 9. 慈悲
-Take the appropriate Tile. プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。
+関連するタイルを取る。プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。
 10. ペナルティポイント
 このアクションを選択する時、プレイヤーは鞭打ちダイスをロールし、ダイスの鞭の数に等しいだけ、対戦相手にペナルティポイントを配ります。
 
 11. ゴールドとシルバートラック
-• Pay 1 Gold to advance 1 step on the Gold track
+•ゴールドトラックを1ステップ進めるために1ゴールド支払う。
 •または、シルバートラックを1ステップ進めるために1シルバー支払う。
 
 12. カジノ
-The player rolls the Casino die and receives resources according to the die roll
+カジノダイスをロールし、ロールしたダイスに従ってリソースを受け取ります。
 
 13. ゴールデンリング
-The player forges 1 Golden Ring by paying the amount of Gold depicted on their position on the Gold track.
+ゴールドトラックにある自身の位置に描かれた数のゴールドを支払うことで、ゴールデンリング1つを鍛造します。
 
-14. Rob a Pixie
-Rob an opposing Pixie on a double action space. This Pixie must give you resourcesaccording to the small Food icons above the action space it is on.
+14. 妖精を恐喝
+ダブルアクションスペースの対戦相手の妖精を恐喝します。この妖精は、そのアクションスペース上部にある小さな食料アイコンに該当するリソースをあなたに与える。
 
-15. Mine
-Takes the cloth bag and pull as many resource cubes from it as there are Pixies present in your mine, with a minimum of 1 good.
-Silver and Gold bars are added to your resource pool, rocks are placed next to opposing Pixies in the mines on the provided spaces, chaining these Pixies into place.
+15. 炭鉱
+布バッグを取り、鉱山に存在するあなたの妖精と同じ数のリソースキューブを取る。最小1。
+シルバーとゴールドの延べ棒はあなたのサプライへ追加され、岩は対戦相手の鉱山の妖精の横にあるスペースへと配置してそれら妖精をつなぎとめます。
 
-16. Trade Tiles
-Exchange a Food Tiles, Single Use Tile or Permanent Ability Tile with a Tile of the same type on the game board OR on an opponent’s player screen.
+16. タイル交換
+食料タイル、一度使用タイル、永続能力タイル1つを、ゲームボート[または]対戦相手のプレイヤースクリーンにある、同じ種類のタイル1つと交換します。
 
-17. Dump resources or take 1
+17. リソース破棄[または]食料1つを取る
 
-Food
-EITHER remove up to 3 resources from your own supply, OR take 1
-Apple, OR take 1 Honey, OR take 1
-Bread
-18. Copy action
-Get a specified number of Penalty
-Points, and copy another action with double action spaces that has already been used this round.
+　
+いずれか：自身のサプライからリソース3つまでを取り除く、またはリンゴ1を取る、またははちみつ1つを取る、またはパン1つを取る。
+　
+　
+18. 模倣
+　
+指定された数のペナルティポイントを得て、このラウンド既に使用されたダブルアクションスペースの別のアクションを模倣する。
 
-19. Special Offering
+19. 特別な提供
 Pay the resources located on the
-Special Offering track. Then place
-1 additional resource of your choice onto the Special Offering track. Take the leftmost Special Offering Tile.
+Special Offering track. 　
+その後、特別な提供トラックへと、あなたの選択したリソースを1つ追加するために配置します。最も左の特別な提供タイルを取ります。
 
-20. Alter play priority
-Pay the Queen 1 or more Honey pots and advance your small cube an equal amount of spaces to the left.
+20. 優位性の変更
+クイーンへとはちみつポットを1つ以上支払い、その数と同じだけ、あなたの小さなキューブを左のスペースに進める。
 
-21. Temporary priority
-Place all of your remaining Action
-Discs for this turn on the action space.
-Move your large cube to the front of the track immediately. This action temporarily makes you ‘the Queen’s Favorite’ until the end of this round.
+21. 一時的な優位性
+　
+このターンに残った全てのアクションディスクを、アクションスペースへと配置する。
+直ちにトラックの一番前に大きなキューブを移動させる。このアクションは、このラウンドの終了まで「クイーンからのファボ」を一時的にあなたに与える。
 
 
 III. 提供フェイズ
 
-1. Everybody offers Silver, Gold OR the right type of Food.
+1. 全員がシルバー、ゴールド、または適切な種類の食料を提供する。
 2. 少なくとも1人が適切な種類の食料（シルバーとゴールドは含まず）を提供できたかどうかを確認します。
 
 
 IV. 報酬フェイズ
 
-If at least 1 player offered the right kind of Food during the offering phase, Perform the following steps in order:
-1. All players that offered Silver/Gold advance their disc 1 step on the appropriate track. The player that offered the most Silver/ Gold advances their disc 1 additional step.
-2. Players promote their Pixies as many steps on the board as the amount of Food they each offered.
+少なくとも1人のプレイヤーが適切な種類の食料を提供フェイズ時に提供できた場合、次のステップに従い実行する。
+1. シルバーまたはゴールドを提供できた全てのプレイヤーは、該当するトラックのディスクを1ステップ進めます。最もシルバーまたはゴールドそれぞれにて、最も提供できたプレイヤーは、自身のディスクをさらに1ステップ進めます。
+2. 提供した食料と同じ数だけ、ボード上にいる自身の妖精を昇進させる。
 
 
 V. ペナルティフェイズ
 
-1. 自身の炭鉱にて、まだ妖精が働いている各プレイヤーは、最大2ペナルティポイントまでを受け取ります。1 Penalty Point for 1 slave, 2
-Penalty Points for 2 or more slaves.
+1. 自身の炭鉱にて、まだ妖精が働いている各プレイヤーは、最大2ペナルティポイントまでを受け取ります。•1ドレイで1ペナルティポイント
+•2以上のドレイで2ペナルティポイント
+注意：
 2. 各プレイヤーが受け取るペナルティポイントはシルバーとゴールドトラックに描かれています。
 
