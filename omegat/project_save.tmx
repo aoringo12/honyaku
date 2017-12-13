@@ -1108,6 +1108,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An Apple can be used to demote an opposing Pixie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133556Z" creationid="nakahodo" creationdate="20171213T133556Z">
+        <seg>対戦相手の妖精を降格さえるために、リンゴ1つを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -5837,6 +5845,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This ability cannot be used if the Reward Phase was skipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133621Z" creationid="nakahodo" creationdate="20171213T133621Z">
+        <seg>このアビリティは、報酬フェイズがスキップされた場合は使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This action can be chosen by any player, even the player whose large cube is already in first place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123621Z" creationid="nakahodo" creationdate="20171213T123621Z">
@@ -5990,6 +6006,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125904Z" creationid="aorin" creationdate="20171212T125904Z">
         <seg>提供フェイズ（Ⅲ）時に、少なくとも1人のプレイヤーガ適切な食料を提供できていた場合、このフェイズが実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This promotion can be the promotion to become a Loyal Servant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133530Z" creationid="nakahodo" creationdate="20171213T133530Z">
+        <seg>この昇進は忠実な使用人にするために実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6479,6 +6503,22 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
         <seg>プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the player wishes to demote an opposing Pixie, they do not have to pay an Apple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T133656Z" creationid="nakahodo" creationdate="20171213T133656Z">
+        <seg>対戦相手の妖精を降格させるたびに、リンゴを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the player wishes to remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T135015Z" creationid="nakahodo" creationdate="20171213T135015Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
