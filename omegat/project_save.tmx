@@ -764,6 +764,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040439Z" creationid="aorin" creationdate="20171213T040439Z">
+        <seg>アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
@@ -917,6 +925,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T133614Z" creationid="aorin" creationdate="20171212T133614Z">
         <seg>クイーンに正しい種類の食料を提供できた全てのプレイヤーたちは、ゲームボード上で妖精を昇進させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All supplies are limited.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040541Z" creationid="aorin" creationdate="20171213T040541Z">
+        <seg>全てのサプライには上限があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1806,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food, Silver or Gold which is no longer available from the general supply is not distributed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040604Z" creationid="aorin" creationdate="20171213T040604Z">
+        <seg>食料、シルバー、ゴールドが共通サプライにない場合、もはやそれらを得ることができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For
 example, a Bold Blend of black beans would be ranked higher than a
 Bold Blend of white beans.</seg>
@@ -2290,6 +2314,14 @@ the Plan Deck.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is still a tie, look to see which of the tied players had a Loyal Servant first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040436Z" creationid="aorin" creationdate="20171213T040407Z">
+        <seg>まだタイの場合、タイプレイヤー間で忠実な使用人を最初に送ったプレイヤーを確認します。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is still a tie, the tied player with the
 most wins.</seg>
       </tuv>
@@ -2447,6 +2479,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032730Z" creationid="aorin" creationdate="20171213T032730Z">
         <seg>両方の状況で、現在のラウンドは終了します（報酬とペナルティフェイズも行います）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of a tie the player with the most Loyal Servants wins the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040342Z" creationid="aorin" creationdate="20171213T040342Z">
+        <seg>タイの場合、最も忠実な使用人を持つプレイヤーが勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,6 +3866,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steal Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040449Z" creationid="aorin" creationdate="20171213T040449Z">
+        <seg>食料を盗む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steal Silver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040521Z" creationid="aorin" creationdate="20171213T040521Z">
+        <seg>シルバーを盗む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stealing phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093917Z" creationid="aorin" creationdate="20171212T093917Z">
@@ -3891,6 +3947,22 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take 2 Apples, 2 Honey or 2 Bread from the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040514Z" creationid="aorin" creationdate="20171213T040514Z">
+        <seg>共通サプライからリンゴ2、はちみつ2、パン2のいずれかを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take 2 Silver from the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040529Z" creationid="aorin" creationdate="20171213T040529Z">
+        <seg>共通サプライからシルバーを2つ取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take beans
 of the appropriate
 color from The
@@ -3918,6 +3990,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
         <seg>その妖精は全てのプレイヤーが昇進ステップの全てを実行するまで、そのままです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That player is declared the winner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T040427Z" creationid="aorin" creationdate="20171213T040427Z">
+        <seg>そのプレイヤーが勝者として宣言されます。</seg>
       </tuv>
     </tu>
     <tu>
