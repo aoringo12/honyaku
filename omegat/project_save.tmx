@@ -2264,6 +2264,14 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player has no slaves or only 1 slave in the mine, that player is only allowed to choose 1 cube from the bag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045055Z" creationid="aorin" creationdate="20171213T045055Z">
+        <seg>炭鉱にドレイがいない[または]1体のみいる場合、そのプレイヤーはバッグからキューブを1つのみ選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player has the Permanent Ability of stealing 1 Silver bar however, this player does receive 1 Silver bar from the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T095055Z" creationid="aorin" creationdate="20171212T095055Z">
@@ -2941,6 +2949,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
         <seg>一方、地域の一角では誇り高きアイリーは新しい司令官を見つけ、自身らの種族が持っていた権利を取り戻そうとしていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mercy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045058Z" creationid="aorin" creationdate="20171213T045058Z">
+        <seg>慈悲</seg>
       </tuv>
     </tu>
     <tu>
@@ -5641,6 +5657,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When taking the first 2 cubes from the bag, the player is allowed to look inside the bag and choose which cubes they want.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045003Z" creationid="aorin" creationdate="20171213T045003Z">
+        <seg>最初にバッグからキューブ2つを取る時、バッグの中身を見て、望むキューブを選択することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the AI performs the Place action, it will always place in the first available Mint Placement Space in the Location line that it can use, starting with the Producer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031509Z" creationid="aorin" creationdate="20171212T031509Z">
@@ -5681,6 +5705,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044202Z" creationid="aorin" creationdate="20171213T044202Z">
         <seg>使用したプレイヤーは他プレイヤーに2倍提供することを宣言し、片手ではなく両手を使用して、2種類のリソースをクイーンに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a player needs to demote one of their promoted Pixies to the mine, this Tile can be used to beg the Queen for mercy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
+        <seg>プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。</seg>
       </tuv>
     </tu>
     <tu>
