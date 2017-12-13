@@ -720,6 +720,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player can remove 1 or more Rocks at any time by paying 1 Bread for each Rock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074755Z" creationid="aorin" creationdate="20171213T074755Z">
+        <seg>プレイヤーはいつでも、岩ごとにパン1つを支払うごとで、岩を取り除くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player can use this Tile during one of the subsequent offering phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044033Z" creationid="aorin" creationdate="20171213T044033Z">
@@ -2531,6 +2539,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041212Z" creationid="aorin" creationdate="20171213T041212Z">
         <seg>あなたの妖精1体を移動させるために利用可能な空いたスポットがなく、対戦相手の妖精を降格させるためのリンゴがない場合、あなたはこのアクションを選択できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no slaves left or all have been chained with 3 Rocks, the Rocks pulled are removed from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074618Z" creationid="aorin" creationdate="20171213T074618Z">
+        <seg>ドレイがいない、または全てが3岩でつながれている場合、引かれた岩はゲームから除外します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +4558,14 @@ Slate does not need to be filled.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Bread is placed in the general supply and the removed Rock is removed from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074809Z" creationid="aorin" creationdate="20171213T074809Z">
+        <seg>パンは共通サプライに配置され、岩はゲームから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Brewmaster gathers
 all players’ Turn Order Tokens and places them on
 the Turn Order Track in proper order for the Round.</seg>
@@ -4621,6 +4645,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112627Z" creationid="aorin" creationdate="20171212T112617Z">
         <seg>クイーンは独自の食生活を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen will happily remove a Rock for each Bread that you give Her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074709Z" creationid="aorin" creationdate="20171213T074709Z">
+        <seg>クイーンはパンをもらうごとに、岩を取り除いてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5301,6 +5333,14 @@ Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are not returned to the bag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074626Z" creationid="aorin" creationdate="20171213T074626Z">
+        <seg>これらはバッグに戻りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They can perform a number of promotion steps equal to the number of correct Food tokens offered.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153143Z" creationid="aorin" creationdate="20171212T153143Z">
@@ -5444,6 +5484,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040654Z" creationid="aorin" creationdate="20171213T040654Z">
         <seg>このアクションは昇進アクションに最終昇進させるために実行することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be done anytime, e.g. when performing an action, a promotion, or even when calculating the final scoring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T074844Z" creationid="aorin" creationdate="20171213T074844Z">
+        <seg>これはいつでも可能です。つまり、アクション、昇進、最終得点計算を実行している時にもできます。</seg>
       </tuv>
     </tu>
     <tu>
