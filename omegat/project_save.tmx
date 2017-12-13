@@ -4382,6 +4382,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rocks that their slaves are chained to, they do not have to pay Bread.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T135911Z" creationid="nakahodo" creationdate="20171213T135911Z">
+        <seg>自身のドレイがつながれている岩を取り除くプレイヤーは、パンを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
