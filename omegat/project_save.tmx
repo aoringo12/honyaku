@@ -932,6 +932,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
+        <seg>あなたの大きなキューブが一時的な優位性アクションで移動した後、このアクションを選択する前にあなたのキューブぼうしろにいたプレイヤーから、アクションフェイズを続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All
 beans on the Slate are returned to The Fields, and all markers
 are returned to players.</seg>
@@ -1828,6 +1836,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T095000Z" creationid="aorin" creationdate="20171212T095000Z">
         <seg>ゲームの最初のラウンド時、プレイヤーたちは全員が炭鉱から始まるので、食料を盗むことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the next Stealing phase however, the large cube track will be rearranged to match the small cubes track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T130755Z" creationid="nakahodo" creationdate="20171213T130755Z">
+        <seg>しかし、次の窃盗フェイズ時は、小さなキューブトラックに一致するように大きなキューブトラックが変更されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4310,6 +4326,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rules for a 2 Player Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131003Z" creationid="nakahodo" creationdate="20171213T131003Z">
+        <seg>2プレイヤーゲームのルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030606Z" creationid="aorin" creationdate="20171212T030606Z">
@@ -4374,6 +4398,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T115630Z" creationid="nakahodo" creationdate="20171213T115630Z">
         <seg>テーブル中央にボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131009Z" creationid="nakahodo" creationdate="20171213T131004Z">
+        <seg>セットアップ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7242,6 +7274,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093822Z" creationid="aorin" creationdate="20171212T093822Z">
         <seg>18.最後手番のプレイヤーから始まり（ターン順番トラックに従って）、各プレイヤーはボードから永続能力タイル1枚を選択し、自身のプレイヤースクリーンにあるシンボルと一致する、適切なフィールドへとこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Take Food Tiles with values 4, 3 and 2 (three Tiles in total).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171213T131300Z" creationid="nakahodo" creationdate="20171213T131300Z">
+        <seg>•食料を取るタイルは4，3，2の値（合計3タイル）。</seg>
       </tuv>
     </tu>
     <tu>
