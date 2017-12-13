@@ -250,6 +250,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--All Reward Tiles with golden numbers are taken (3 times 5 Tiles), OR</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032534Z" creationid="aorin" creationdate="20171213T032534Z">
+        <seg>•金の数字の報酬タイルが全て取られる（3種5枚ずつ）、または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--All offers, except for the wrong kind of Food, are eagerly accepted by the Queen and are returned to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123804Z" creationid="aorin" creationdate="20171212T123804Z">
@@ -2359,6 +2367,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
         <seg>その後に続く全てのターンにて、ネガティブアクションらは実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In both situations, the current round is finished by the players including the reward and penalty phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032730Z" creationid="aorin" creationdate="20171213T032730Z">
+        <seg>両方の状況で、現在のラウンドは終了します（報酬とペナルティフェイズも行います）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5876,6 +5892,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093309Z" creationid="aorin" creationdate="20171212T093309Z">
         <seg>3.ターン順番トラックに小さなキューブと大きなキューブ1つずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Seven rounds have been played as indicated by the Round Tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171213T032619Z" creationid="aorin" creationdate="20171213T032619Z">
+        <seg>•ラウンドタイルで表示される7ラウンドがプレイされた。</seg>
       </tuv>
     </tu>
     <tu>
