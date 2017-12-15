@@ -3299,6 +3299,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improvements and conspiracies can also deal hits;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151324Z" creationid="aorin" creationdate="20171215T151324Z">
+        <seg>改革と陰謀もまたヒットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Root, the players drive the narrative, and the differences among the roles create unparalleled interaction and replayability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
@@ -3337,6 +3345,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
         <seg>その後に続く全てのターンにて、ネガティブアクションらは実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In battle, the affected clearing is the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
+        <seg>戦闘では、影響を受けた空き地は空き地での戦闘になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,6 +3816,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
         <seg>それに加えて、あなたはそこで食料にありつけたため、食料1つを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most often, players deal hits in battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151111Z" creationid="aorin" creationdate="20171215T151111Z">
+        <seg>ほとんどの場合、戦闘によりヒットを受けます。</seg>
       </tuv>
     </tu>
     <tu>
