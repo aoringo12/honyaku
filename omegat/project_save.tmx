@@ -1678,8 +1678,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Because the attacker and defender take hits simultaneously, the Vagabond can exhaust and then damage the same &lt;sword&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T231636Z" creationid="aorin" creationdate="20171215T231636Z">
-        <seg>アタッカーとディフェンダーは同時にヒットを受けるので、ヴァガボンドの&lt;ソード&gt;は消耗と同時に壊れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231717Z" creationid="aorin" creationdate="20171215T231636Z">
+        <seg>アタッカーとディフェンダーは同時にヒットを受けるので、ヴァガボンドの&lt;ソード&gt;は消耗と同時に壊せます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,6 +2998,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goal and Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231840Z" creationid="aorin" creationdate="20171215T231840Z">
+        <seg>目標とプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goal of the game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093837Z" creationid="aorin" creationdate="20171212T093837Z">
@@ -3360,8 +3368,8 @@ enough to place onto the list, it is removed from play.</seg>
       <tuv lang="EN-US">
         <seg>If he has no available &lt;sword&gt; to exhaust, or if he chooses not to exhaust more &lt;sword&gt;, he cannot deal further hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T231513Z" creationid="aorin" creationdate="20171215T231513Z">
-        <seg>彼が消耗するために利用可能な&lt;ソード&gt;がない場合、またはそれ以上の&lt;ソード&gt;を消費しないと選択した場合、ヒットを与えることはできません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231832Z" creationid="aorin" creationdate="20171215T231513Z">
+        <seg>彼が消耗するために利用可能な&lt;ソード&gt;がない場合、またはそれ以上の&lt;ソード&gt;を消費しないと選択した場合、これ以上のヒットを処理できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3391,10 +3399,26 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no available items remain to damage, the Vagabond may damage an exhausted item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231707Z" creationid="aorin" creationdate="20171215T231707Z">
+        <seg>壊れるのに必要な利用可能なアイテムが残っていない場合、ヴァガボンドは消耗したアイテムを壊します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no player passed the 0 space and all players are in the negative points, the player who has the least Penalty Points wins the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040226Z" creationid="aorin" creationdate="20171213T040226Z">
         <seg>誰もスコアトラックの0スペースを越えられず、マイナスポイントだった場合、最も少ないペナルティポイントのプレイヤーが勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no undamaged items remain to damage, the Vagabond ignores any remaining hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231804Z" creationid="aorin" creationdate="20171215T231804Z">
+        <seg>壊すための壊れていないアイテムが残っていない場合、ヴァガボンドは残ったヒットを無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6778,6 +6802,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first player to reach 40 victory points immediately wins the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231918Z" creationid="aorin" creationdate="20171215T231918Z">
+        <seg>40勝利点に到達したプレイヤーがいたら、直ちに彼がゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following action can be used to turn Silver into Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041725Z" creationid="aorin" creationdate="20171213T041725Z">
@@ -8238,6 +8270,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223214Z" creationid="aorin" creationdate="20171215T223214Z">
         <seg>ヴァガボンドが撤退する。ヴァガボンドは撤退する時、撤退する戦士の数ではなく、所持する利用可能[そして]消耗したアイテムの合計数に基づいてヒットを受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Victory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231843Z" creationid="aorin" creationdate="20171215T231843Z">
+        <seg>勝利</seg>
       </tuv>
     </tu>
     <tu>
