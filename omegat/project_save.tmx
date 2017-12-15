@@ -2816,6 +2816,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find the leftmost building of that type remaining on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235339Z" creationid="aorin" creationdate="20171215T235339Z">
+        <seg>自身の派閥ボードにある、その種類の残った建物一番左を確認する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firenze passes a slave symbol on the score track and has to demote a promoted Pixie to the mine immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045636Z" creationid="aorin" creationdate="20171213T045636Z">
@@ -4757,6 +4765,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that building’s cost, listed at the top of its column.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235357Z" creationid="aorin" creationdate="20171215T235357Z">
+        <seg>建物のコストは、その行の上に記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032015Z" creationid="aorin" creationdate="20171212T025228Z">
@@ -5913,6 +5929,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
         <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達するか超えるとすぐに、あなたは直ちに昇進している妖精1体を降格させて、あなたの炭鉱へと再びドレイにさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove wood equal to the building’s cost from any clearings you rule that are adjacent to the chosen clearing or connected to the chosen clearing by any number of other clearings you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235744Z" creationid="aorin" creationdate="20171215T235744Z">
+        <seg>選択した空き地に隣接する自身が支配する空き地[または]選択した空き地から繋がった自身が支配する任意の数の別の空き地から、建物のコストと同数の木を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,6 +7762,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032807Z" creationid="aorin" creationdate="20171212T032757Z">
         <seg>その後、プランサプライからプラン1枚を取り、自身の近所にこれをプランとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, choose any clearing you rule with an empty slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235441Z" creationid="aorin" creationdate="20171215T235441Z">
+        <seg>その後、空いたスロットがある、自身が支配する任意の空き地をを選択します。</seg>
       </tuv>
     </tu>
     <tu>
