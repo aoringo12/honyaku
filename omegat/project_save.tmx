@@ -3151,6 +3151,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Vagabond crafts an improvement with an item, he may immediately put the crafted item into his exhausted items pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T214045Z" creationid="aorin" creationdate="20171215T214045Z">
+        <seg>ヴァガボンドがアイテム改良をクラフトする場合、彼は直ちに自身の消耗したアイテムプールにクラフトしたアイテムを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Vagabond is not playing, or if no matching item token remains, do not put the item token into your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T213952Z" creationid="aorin" creationdate="20171215T213952Z">
+        <seg>ヴァガボンドがゲームにいない、一致するアイテムトークンが残っていない場合は、プレイエリアにアイテムトークンを配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the last player doesn’t have a promoted Pixie, or begs for mercy using the Mercy Single Use Tile, the second-to-last player on the Player Turn Order track (large cubes) must send a Pixie to the mines.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125428Z" creationid="aorin" creationdate="20171212T125428Z">
@@ -9186,8 +9202,16 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>● If you crafted an improvement with a persistent or activated​ ​effect​, turn it sideways and put it into your play area above your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T213814Z" creationid="aorin" creationdate="20171215T213814Z">
-        <seg>•あなたが永続か発動効果の改良をクラフトする場合、これを横向きに回転させ、自身の派閥ボード上のプレイエリアに配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T213835Z" creationid="aorin" creationdate="20171215T213814Z">
+        <seg>•永続か発動効果の改良をクラフトする場合、これを横向きに回転させ、自身の派閥ボード上のプレイエリアに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● If you crafted an improvement with an item,​ take the matching item token from the supply and put it into your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T213905Z" creationid="aorin" creationdate="20171215T213832Z">
+        <seg>•アイテムの改良をクラフトする場合、一致するアイテムトークンをサプライから取り、自身のプレイエリアに配置します。</seg>
       </tuv>
     </tu>
     <tu>
