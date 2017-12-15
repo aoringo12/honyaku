@@ -2047,6 +2047,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defender Declares Ambush</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223249Z" creationid="aorin" creationdate="20171215T223249Z">
+        <seg>ディフェンダーのアンブッシュ宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defender Declares Retreat</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222422Z" creationid="aorin" creationdate="20171215T222422Z">
@@ -2351,6 +2359,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each played ambush card immediately deals two unpreventable hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223353Z" creationid="aorin" creationdate="20171215T223353Z">
+        <seg>プレイされたアンブッシュカードごとに、直ちに不可避の2ヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,6 +3168,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220124Z" creationid="aorin" creationdate="20171215T220124Z">
         <seg>効果が複数回の移動を与える場合、あなたは同じ[または]別々に戦士のグループを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any attacking warriors remain after taking hits, continue to step 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223846Z" creationid="aorin" creationdate="20171215T223846Z">
+        <seg>ヒットを与えた後でアタッカーの戦士が残っていた場合、ステップ3に続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6471,6 +6495,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
+        <seg>ヴァガボンドは任意の隣接空き地[または]森に撤退できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond only has a pawn.​</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152643Z" creationid="aorin" creationdate="20171215T152643Z">
@@ -6526,6 +6558,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103209Z" creationid="aorin" creationdate="20171212T103209Z">
         <seg>現在のラウンドがプレイヤーたちにより終了したら、最終ポイントが計算されます。報酬タイルはプレイヤースクリーンの後ろに保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The defender may play ambush cards matching the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223315Z" creationid="aorin" creationdate="20171215T223315Z">
+        <seg>ディフェンダーは戦闘地に一致するアンブッシュカード一枚以上をプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
