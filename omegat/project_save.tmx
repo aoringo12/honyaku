@@ -3153,6 +3153,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to place a piece at​ a building, place it in the clearing with that building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150646Z" creationid="aorin" creationdate="20171215T150646Z">
+        <seg>建物1つを配置するように指示された場合、その建物を空き地に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to place a warrior, take it from your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145927Z" creationid="aorin" creationdate="20171215T145927Z">
@@ -3173,6 +3181,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150348Z" creationid="aorin" creationdate="20171215T150348Z">
         <seg>コンポーネントを配置されるよう指示されたが配置できない場合、可能なかぎりだけ配置するようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to remove your pieces but you cannot remove the total number prompted, you must remove the maximum number possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150607Z" creationid="aorin" creationdate="20171215T150607Z">
+        <seg>コンポーネントを取り除く指示をされたが、その数だけ取り除けない場合、可能な限り取り除くようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,6 +7682,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094238Z" creationid="aorin" creationdate="20171212T094238Z">
         <seg>以前のラウンド時に大きなキューブを前に移動させた場合、そのプレイヤーは報酬フェイズとペナルティフェイズ時に一度限りの優位性を獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if the Marquise recruits warriors, but does not have enough warriors in her supply to place a warrior at each recruiter, then she may place as many as able.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150518Z" creationid="aorin" creationdate="20171215T150518Z">
+        <seg>マルキスが戦士を雇用するが、各雇用所に戦士1体を配置するだけの戦士が彼女のサプライにない場合、可能な数だけそうします。</seg>
       </tuv>
     </tu>
     <tu>
