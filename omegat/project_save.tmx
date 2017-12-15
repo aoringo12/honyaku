@@ -711,6 +711,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Game of Woodland Might and Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130657Z" creationid="aorin" creationdate="20171215T130657Z">
+        <seg>ウッドランドにおける力と正義のゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Location must have at least one occupied space in
 order to be targeted by the Temp Agency.</seg>
       </tuv>
@@ -3226,6 +3234,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130705Z" creationid="aorin" creationdate="20171215T130705Z">
+        <seg>イントロダクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investment Tokens on the Slate are
 returned to the general supply (see page 18).</seg>
       </tuv>
@@ -4481,6 +4497,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093809Z" creationid="aorin" creationdate="20171212T093809Z">
         <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ROOT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130426Z" creationid="aorin" creationdate="20171215T130426Z">
+        <seg>ルート</seg>
       </tuv>
     </tu>
     <tu>
