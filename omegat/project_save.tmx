@@ -2504,6 +2504,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End the battle immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222912Z" creationid="aorin" creationdate="20171215T222912Z">
+        <seg>直ちに、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -7958,6 +7966,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145010Z" creationid="aorin" creationdate="20171215T145010Z">
         <seg>ヴァガボンドセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond​ ​Retreat.​ ​The Vagabond takes hits when retreating based on his total number of available and exhausted items, rather than number of retreating warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223214Z" creationid="aorin" creationdate="20171215T223214Z">
+        <seg>ヴァガボンドが撤退する。ヴァガボンドは撤退する時、撤退する戦士の数ではなく、所持する利用可能[そして]消耗したアイテムの合計数に基づいてヒットを受けます。</seg>
       </tuv>
     </tu>
     <tu>
