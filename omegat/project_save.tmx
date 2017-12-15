@@ -4713,6 +4713,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, end the battle immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223858Z" creationid="aorin" creationdate="20171215T223858Z">
+        <seg>そうでないなら、直ちに戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PASS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
@@ -5711,6 +5719,22 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll Dice and Count Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223905Z" creationid="aorin" creationdate="20171215T223905Z">
+        <seg>ダイスロールとヒットのカウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roll both dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223914Z" creationid="aorin" creationdate="20171215T223914Z">
+        <seg>両者ダイスを振ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll​ ​dice​ ​and​ ​count​ ​hits​ to both attacker and defender, who can modify hits with other effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221726Z" creationid="aorin" creationdate="20171215T221726Z">
@@ -6534,6 +6558,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221209Z" creationid="aorin" creationdate="20171215T221209Z">
         <seg>アタッカーは取り除く建物1つごとに、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attacker will deal hits equal to the higher roll, and the defender will deal hits equal to the lower roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224054Z" creationid="aorin" creationdate="20171215T224054Z">
+        <seg>アタッカーは高いロールに等しいヒットを与え、ディフェンダーは低いヒットに等しいヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
