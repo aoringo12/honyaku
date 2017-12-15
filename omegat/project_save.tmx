@@ -757,6 +757,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Print-and-Play Note:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224128Z" creationid="aorin" creationdate="20171215T224128Z">
+        <seg>&lt;プリトアンドプレイ注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;bag&gt;, &lt;boot&gt;, &lt;hammer&gt;, and &lt;sword&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133205Z" creationid="aorin" creationdate="20171215T133205Z">
@@ -976,6 +984,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025848Z" creationid="aorin" creationdate="20171212T025848Z">
         <seg>プレイヤーの近所はそのプレイヤーの前にあるエリアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A roll of “4” is considered a “0” so the four-sided dice only produces numbers 0-3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224252Z" creationid="aorin" creationdate="20171215T224244Z">
+        <seg>4面ダイスの「4」は「0」と見なし、0-3の結果のみを生み出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3363,6 +3379,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T120138Z" creationid="nakahodo" creationdate="20171213T120011Z">
         <seg>ペナルティポイントを受け取ることにより、スコアトラックのドレイシンボルにプレイヤーのスコアマーカーが乗るか超えて移動した場合、プレイヤーは直ちに自身の鉱山に妖精を降格させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the rolls are equal, attacker and defender will deal the same number of hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224116Z" creationid="aorin" creationdate="20171215T224116Z">
+        <seg>同値の場合、アタッカーとディフェンダーは同じ数のヒットを与え合います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6687,6 +6711,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>ゲームにはプレイヤーに対して4つの異なるAI対戦相手が用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game will have custom d12s included with an equivalent distribution.&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224345Z" creationid="aorin" creationdate="20171215T224345Z">
+        <seg>実際のゲームにはカスタムされた12面の同等のものが含まれる予定です&gt;</seg>
       </tuv>
     </tu>
     <tu>
