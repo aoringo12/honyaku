@@ -2911,6 +2911,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If text in the learn to play conflicts with text in this rules reference, this rules reference takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145812Z" creationid="aorin" creationdate="20171215T145812Z">
+        <seg>このルールリファレンスのテキストと、学習プレイのテキストが矛盾した場合、このルールリファレンスが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If text on a card or faction board conflicts with text in this rules reference, the card or faction board takes precedence.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145735Z" creationid="aorin" creationdate="20171215T145735Z">
@@ -3129,6 +3137,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to place a warrior, take it from your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145927Z" creationid="aorin" creationdate="20171215T145927Z">
+        <seg>戦士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you enter a space with another player or a player enters your space, an attack occurs automatically.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132052Z" creationid="nakahodo" creationdate="20171127T132052Z">
@@ -3175,6 +3191,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
         <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your warrior is removed, return it to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145942Z" creationid="aorin" creationdate="20171215T145942Z">
+        <seg>戦士を取り除く倍、自身のサプライにこれを返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4447,6 +4471,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133122Z" creationid="aorin" creationdate="20171215T133122Z">
         <seg>遺跡の配置：ヴァガボンドがゲームにいる場合、遺跡トークンをシャッフルして、マップの赤い枠のスロットごとに、1つずつアイテム側を下にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing and Removing Pieces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150105Z" creationid="aorin" creationdate="20171215T145835Z">
+        <seg>コンポーネントの配置と排除</seg>
       </tuv>
     </tu>
     <tu>
