@@ -1116,6 +1116,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After counting these hits, the attacker and defender can add hits by using special abilities or other effects in their areas of play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224649Z" creationid="aorin" creationdate="20171215T224649Z">
+        <seg>これらヒットをカウントした後に、アタッカーとディフェンダーは、自身のプレイエリアにある特別アビリティや他の効果を使用してヒットを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
@@ -6760,6 +6768,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
         <seg>ウッドランドのマップは空き地で構成され、道のネットワークによってつながっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum number of hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224610Z" creationid="aorin" creationdate="20171215T224610Z">
+        <seg>ロールによって与えられるヒットの最大数は、あなたがアタッカーかディフェンダーかに関わらず、戦闘地にいるあなたの戦士の数に等しいです。</seg>
       </tuv>
     </tu>
     <tu>
