@@ -1108,6 +1108,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the defender takes hits, the attacker may play one ambush card matching the clearing of battle to immediately deal one unpreventable hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222757Z" creationid="aorin" creationdate="20171215T222749Z">
+        <seg>ディファンダーがヒットを受けた後、アタッカーはその戦闘地に一致するアンブッシュカード1枚をプレイして、不可避なヒット1を直ちに与えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All
 beans on the Slate are returned to The Fields, and all markers
 are returned to players.</seg>
@@ -2592,6 +2600,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, the defender must move all remaining warriors to one adjacent clearing he rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222904Z" creationid="aorin" creationdate="20171215T222754Z">
+        <seg>最後に、ディフェンダーは自身が支配する隣接空き地1つに、残っている戦士全てを移動させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firenze passes a slave symbol on the score track and has to demote a promoted Pixie to the mine immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045636Z" creationid="aorin" creationdate="20171213T045636Z">
@@ -2931,6 +2947,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150829Z" creationid="aorin" creationdate="20171215T150829Z">
         <seg>ヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits 0 1 2 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222631Z" creationid="aorin" creationdate="20171215T222631Z">
+        <seg>ヒット	0	1	2	3</seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,6 +5563,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103321Z" creationid="aorin" creationdate="20171212T103321Z">
         <seg>リソースは常にプレイヤースクリーンの後ろに隠して保持され、他プレイヤーから見えないようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retreating Warriors 1–2 3–4 5–6 7+</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222623Z" creationid="aorin" creationdate="20171215T222623Z">
+        <seg>撤退する戦士	1-2 3-4	5-6	7+</seg>
       </tuv>
     </tu>
     <tu>
