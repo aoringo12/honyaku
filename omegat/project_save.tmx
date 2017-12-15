@@ -2203,6 +2203,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each crafting building can be exhausted only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211704Z" creationid="aorin" creationdate="20171215T211704Z">
+        <seg>各クラフト建物はターン毎に一度のみ、消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each faction can craft cards in their hand into improvements​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210654Z" creationid="aorin" creationdate="20171215T210654Z">
