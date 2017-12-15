@@ -2800,6 +2800,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, place the chosen building on the chosen clearing, and score the victory points listed on the space under the building removed from your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235852Z" creationid="aorin" creationdate="20171215T235852Z">
+        <seg>最後に、選択した空き地に選択した建物を配置し、自身の派閥ボードから取り除いた建物があったスペースに記述された勝利ポイントを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, the Queen looks behind your player screen and sees all the resources you didn’t offer to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033515Z" creationid="aorin" creationdate="20171213T033515Z">
