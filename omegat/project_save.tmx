@@ -1230,6 +1230,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign​ ​Factions:​ ​Assign one faction to each player using any method.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132624Z" creationid="aorin" creationdate="20171215T132624Z">
+        <seg>派閥を割り当てる：任意の方法を使用して、各プレイヤー1人の派閥を割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
@@ -1850,6 +1858,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of cards, and set them aside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
+        <seg>開始手札のドロー：カードのデッキから特別勝利条件カード4枚を取り除き、そばに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dump resources or take 1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142600Z" creationid="nakahodo" creationdate="20171213T142547Z">
@@ -1999,6 +2015,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player draws 3 cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132743Z" creationid="aorin" creationdate="20171215T132743Z">
+        <seg>各プレイヤー、3枚ドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4436,6 +4460,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prepare​ ​Deck:​ ​If playing with three or fewer players, return the Coalition Victory special victory card and the Chaos Victory special victory card to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132926Z" creationid="aorin" creationdate="20171215T132926Z">
+        <seg>デッキの準備：3か4人でプレイしている場合、連合勝利特別勝利カードとカオス勝利特別勝利カードを箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proceed to the next Development phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030605Z" creationid="aorin" creationdate="20171212T030605Z">
@@ -4883,6 +4915,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T085457Z" creationid="nakahodo" creationdate="20170924T085457Z">
         <seg>ブレンドスレートをシャッフルし、ワールドマップの西側近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132733Z" creationid="aorin" creationdate="20171215T132733Z">
+        <seg>デッキをシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6866,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131934Z" creationid="aorin" creationdate="20171215T131934Z">
         <seg>私たちはプレイテスター/エディターを必要としていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What You Need to Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132545Z" creationid="aorin" creationdate="20171215T132545Z">
+        <seg>プレイに必要なもの</seg>
       </tuv>
     </tu>
     <tu>
