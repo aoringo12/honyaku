@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(These warriors are referred to as supporters.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145005Z" creationid="aorin" creationdate="20171215T145005Z">
+        <seg>（これら戦士はサポーターと呼称します。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(This warrior is referred to as the outrage marker.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144931Z" creationid="aorin" creationdate="20171215T144931Z">
+        <seg>（この戦士を暴動マーカーと呼称します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-
 mum of 20 even with 5 players)</seg>
       </tuv>
@@ -4180,6 +4196,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a character card, then place the items listed on your character card in the Available pool shown by your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145133Z" creationid="aorin" creationdate="20171215T145133Z">
+        <seg>キャラクターカードを選択肢、その後、あなたの派閥ボードの利用可能プールに指示を見て、キャラクターカードに記述されたアイテムを配置してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pit of Oblivion</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173125Z" creationid="aorin" creationdate="20171212T173125Z">
@@ -4259,6 +4283,22 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133525Z" creationid="aorin" creationdate="20171215T133525Z">
         <seg>キープを含む、クリーニングごとに、戦士1体ずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in each forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144955Z" creationid="aorin" creationdate="20171215T144955Z">
+        <seg>各森の国家ボックスに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior on the leftmost space of the outrage track on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144908Z" creationid="aorin" creationdate="20171215T144908Z">
+        <seg>あなたの派閥ボードの暴動トラックの一番左のスペースに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6998,6 +7038,14 @@ DRAGON</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131537Z" creationid="nakahodo" creationdate="20171127T131537Z">
         <seg>ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
 基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145010Z" creationid="aorin" creationdate="20171215T145010Z">
+        <seg>ヴァガボンドセットアップ</seg>
       </tuv>
     </tu>
     <tu>
