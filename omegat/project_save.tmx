@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Ensure that you place the Hideout matching the chosen clearing.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144823Z" creationid="aorin" creationdate="20171215T144823Z">
+        <seg>（選択した空き地に一致する隠れ家を配置してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The ruin tokens consist of the following items:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
+        <seg>（遺跡トークンには次のアイテムが含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(These warriors are referred to as alignment markers)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145337Z" creationid="aorin" creationdate="20171215T145337Z">
+        <seg>（これら戦士は協力マーカーと呼称します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(These warriors are referred to as supporters.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145005Z" creationid="aorin" creationdate="20171215T145005Z">
+        <seg>（これら戦士はサポーターと呼称します。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(This warrior is referred to as the outrage marker.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144931Z" creationid="aorin" creationdate="20171215T144931Z">
+        <seg>（この戦士を暴動マーカーと呼称します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-
 mum of 20 even with 5 players)</seg>
       </tuv>
@@ -701,12 +741,28 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;bag&gt;, &lt;boot&gt;, &lt;hammer&gt;, and &lt;sword&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133205Z" creationid="aorin" creationdate="20171215T133205Z">
+        <seg>&lt;バッグ&gt;、&lt;ブーツ&gt;、&lt;ハンマー&gt;、&lt;ソード&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Bold Blend Blend Rank Scale
 with a Black Bean kicker would be higher ranked than a Red
 Bean Kicker.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095511Z" creationid="nakahodo" creationdate="20171002T095511Z">
         <seg>キッカーに黒豆を持つBoldブレンドのランクはキッカーに赤豆を持つものよりも高くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Game of Woodland Might and Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130657Z" creationid="aorin" creationdate="20171215T130657Z">
+        <seg>ウッドランドにおける力と正義のゲーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,6 +796,22 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T154259Z" creationid="aorin" creationdate="20171212T154223Z">
         <seg>炭鉱のかわいそうな妖精は、アクションフィールドの最初の行に昇進できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A piece is local if it is located in the same clearing as any of your pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152511Z" creationid="aorin" creationdate="20171215T152511Z">
+        <seg>ピース1つがあなたのピースと同じ空き地に位置する場合、そのピースはローカルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A piece​ of a faction is any component color-coded to it, so the Marquise’s pieces are all purple, the Alliance green, the Eyrie brown, and the Vagabond black or white.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152606Z" creationid="aorin" creationdate="20171215T152606Z">
+        <seg>派閥のピースは、その色の任意のコンポーネントです。マルキスのピースは紫、連合は緑、鷲は茶、ヴァガボンドは白です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +878,14 @@ requires it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072624Z" creationid="nakahodo" creationdate="20171209T072624Z">
         <seg>プレイヤーは自身のターンに2つの選択肢があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player is local if any of their pieces are located in any clearing with any of your pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152433Z" creationid="aorin" creationdate="20171215T152342Z">
+        <seg>プレイヤー1人のピースがあなたのピースと共に空き地に位置する場合、そのプレイヤーはローカルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1302,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign​ ​Factions:​ ​Assign one faction to each player using any method.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132624Z" creationid="aorin" creationdate="20171215T132624Z">
+        <seg>派閥を割り当てる：任意の方法を使用して、各プレイヤー1人の派閥を割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
@@ -1609,6 +1697,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose one of the four Eyrie leaders and place it on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
+        <seg>鷲のリーダー4体から1体を選択し、あなたの派閥ボードにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choosing a Permanent Ability Tile is only
 performed once all players understand the
 rules of the game.</seg>
@@ -1668,6 +1764,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223618Z" creationid="aorin" creationdate="20171024T223547Z">
         <seg>クリス、シェリリン、TCは全員同じ地域に居て、ブレンドする決定をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clearings, Paths, and Forests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154440Z" creationid="aorin" creationdate="20171215T154440Z">
+        <seg>空き地、道、森</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1946,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of cards, and set them aside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
+        <seg>開始手札のドロー：カードのデッキから特別勝利条件カード4枚を取り除き、そばに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dump resources or take 1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142600Z" creationid="nakahodo" creationdate="20171213T142547Z">
@@ -1995,6 +2107,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player draws 3 cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132743Z" creationid="aorin" creationdate="20171215T132743Z">
+        <seg>各プレイヤー、3枚ドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player gains .</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030600Z" creationid="aorin" creationdate="20171212T030548Z">
@@ -2084,6 +2204,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121516Z" creationid="nakahodo" creationdate="20171001T121516Z">
         <seg>各チームはワールドマップの自身の地域上部にあるブレンドスレートを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time you take a hit, you must remove one of your warriors from the affected clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150943Z" creationid="aorin" creationdate="20171215T150943Z">
+        <seg>あなたがヒットを受けるごとに、影響を受けた空き地からあなたの戦士1体を取り除く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2188,6 +2316,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075459Z" creationid="aorin" creationdate="20171213T075459Z">
         <seg>ゲームボード上のタイルと交換する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyrie Dynasties Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133851Z" creationid="aorin" creationdate="20171215T133851Z">
+        <seg>鷲王のセットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2646,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golden Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145343Z" creationid="aorin" creationdate="20171215T145343Z">
+        <seg>ゴールデンルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -2531,6 +2675,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153509Z" creationid="aorin" creationdate="20171212T153509Z">
         <seg>ヒント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150829Z" creationid="aorin" creationdate="20171215T150829Z">
+        <seg>ヒット</seg>
       </tuv>
     </tu>
     <tu>
@@ -2571,6 +2723,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110330Z" creationid="aorin" creationdate="20171212T110330Z">
         <seg>しかし、クイーンはあなたの努力が欠如しているとして、厳しく罰するでしょう。あなたはペナルティポイント5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, all factions share certain terms which are described in this section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150826Z" creationid="aorin" creationdate="20171215T150826Z">
+        <seg>しかし、全ての種族はこのセクションで説明されている特定の用語を共有します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2799,6 +2959,30 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If playing with three, we recommend that you play without the Vagabond, though you may substitute the Vagabond for the Woodland Alliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132301Z" creationid="aorin" creationdate="20171215T132301Z">
+        <seg>3人でプレイする場合、ヴァガボンドなしでプレイするのを推奨し、ウッドランド連合をヴァガボンドの変わりにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If text in the learn to play conflicts with text in this rules reference, this rules reference takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145812Z" creationid="aorin" creationdate="20171215T145812Z">
+        <seg>このルールリファレンスのテキストと、学習プレイのテキストが矛盾した場合、このルールリファレンスが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If text on a card or faction board conflicts with text in this rules reference, the card or faction board takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145735Z" creationid="aorin" creationdate="20171215T145735Z">
+        <seg>ルールリファレンスのテキストと、派閥ボードやカードテキストが矛盾した場合、カードまたは派閥ボードが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the AI is unable to use any Location, it chooses the Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
@@ -2877,6 +3061,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074618Z" creationid="aorin" creationdate="20171213T074618Z">
         <seg>ドレイがいない、または全てが3岩でつながれている場合、引かれた岩はゲームから除外します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a tie between two players, no one is the ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154007Z" creationid="aorin" creationdate="20171215T154007Z">
+        <seg>これらが2人のプレイヤーの間でタイの場合、支配者はいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3001,10 +3193,66 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If wood is removed, return it to the Marquise’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150301Z" creationid="aorin" creationdate="20171215T150301Z">
+        <seg>木を取り除く場合、マルキスのサプライにこれを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in a safe house (light blue zones), you can choose to gain either an additional 1 health or 1 morale.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135007Z" creationid="nakahodo" creationdate="20171124T135007Z">
         <seg>あなたがセーフハウスにいる場合（水色ゾーン）、あなたは追加の1ヘルスか1士気回復するののいずれかを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place a building, take the leftmost building from its track on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150152Z" creationid="aorin" creationdate="20171215T150152Z">
+        <seg>建物1つ配置するように指示された場合、自身の派閥ボードの指定されたトラックにある、一番左の建物を取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place a piece at​ a building, place it in the clearing with that building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150646Z" creationid="aorin" creationdate="20171215T150646Z">
+        <seg>建物1つを配置するように指示された場合、その建物を空き地に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place a warrior, take it from your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145927Z" creationid="aorin" creationdate="20171215T145927Z">
+        <seg>戦士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place wood, take it from the Marquise’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150247Z" creationid="aorin" creationdate="20171215T150247Z">
+        <seg>木を配置するように指示された場合、マルキスのサプライからこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place your pieces but you cannot place the total number prompted, you must place the maximum number possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150348Z" creationid="aorin" creationdate="20171215T150348Z">
+        <seg>コンポーネントを配置されるよう指示されたが配置できない場合、可能なかぎりだけ配置するようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to remove your pieces but you cannot remove the total number prompted, you must remove the maximum number possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150607Z" creationid="aorin" creationdate="20171215T150607Z">
+        <seg>コンポーネントを取り除く指示をされたが、その数だけ取り除けない場合、可能な限り取り除くようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3017,10 +3265,26 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have no warriors, you must remove one of your other pieces of your choice from the affected clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151044Z" creationid="aorin" creationdate="20171215T151044Z">
+        <seg>戦士をもたない場合、影響を受けた空き地からあなたの選択した別のあなたのコンポーネント1つを取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you manage that you’ll have truly proven yourself a great Pixie (still small in stature though).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083630Z" creationid="nakahodo" creationdate="20171211T083630Z">
         <seg>あなたがそうするようにマネジメントできているなら、あなた自身が本当に素晴らしい妖精であることを実証することでしょう（とはいってもやはり背は小さいのですが）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you remove your last building from a clearing, you must also discard one improvement from your play area, if able.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151636Z" creationid="aorin" creationdate="20171215T151636Z">
+        <seg>空き地からあなたの最後の建物を取り除いた場合、可能であれば、プレイエリアから改良地1つを取り除く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3051,10 +3315,42 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish to explore the two-player game, we advise that you play the Marquise against the Eyrie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
+        <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your building is removed, return it to the rightmost empty space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
+        <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your warrior is removed, return it to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145942Z" creationid="aorin" creationdate="20171215T145942Z">
+        <seg>戦士を取り除く倍、自身のサプライにこれを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104712Z" creationid="aorin" creationdate="20171212T104712Z">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improvements and conspiracies can also deal hits;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151858Z" creationid="aorin" creationdate="20171215T151324Z">
+        <seg>改良と策略もまたヒットします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,6 +3393,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
         <seg>その後に続く全てのターンにて、ネガティブアクションらは実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In battle, the affected clearing is the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
+        <seg>戦闘では、影響を受けた空き地は空き地での戦闘になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,11 +3530,27 @@ Point Tile of value 1 from the general supply and put it behind your player scre
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130705Z" creationid="aorin" creationdate="20171215T130705Z">
+        <seg>イントロダクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investment Tokens on the Slate are
 returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214330Z" creationid="aorin" creationdate="20171024T214330Z">
         <seg>スレートの投資トークンは共通サプライに戻されます（ページ18を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also contains setup instructions for the game’s many scenarios.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131831Z" creationid="aorin" creationdate="20171215T131831Z">
+        <seg>また、ゲームにおける多くの状況を指示するセットアップが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3323,6 +3643,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Concepts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154329Z" creationid="aorin" creationdate="20171215T154329Z">
+        <seg>主なコンセプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Terms</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150657Z" creationid="aorin" creationdate="20171215T150657Z">
+        <seg>主な用語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Klaus chooses the Turn Silver into Gold action and decides to transform 6 pieces of Silver into 3 pieces of Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042126Z" creationid="aorin" creationdate="20171213T042126Z">
@@ -3387,10 +3723,34 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like in the previous section, all roles share certain concepts which are described in this section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154428Z" creationid="aorin" creationdate="20171215T154428Z">
+        <seg>前のセクションのように、全ての役割はこのセクションで説明する特定の概念を共有します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like other Leder Games, each faction in Root is played differently and has different goals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150750Z" creationid="aorin" creationdate="20171215T150750Z">
+        <seg>他のリーダーゲームのものと同様に、ルートの各種族は、異なるゲームルールと異なる目的を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line them up in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080028Z" creationid="nakahodo" creationdate="20171209T080028Z">
         <seg>次の順序で並べます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152137Z" creationid="aorin" creationdate="20171215T152137Z">
+        <seg>ローカル</seg>
       </tuv>
     </tu>
     <tu>
@@ -3403,10 +3763,26 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lone​ ​Wanderer.​ ​The Vagabond pawn is not a warrior, so he cannot be the ruler of a clearing or cause another player to cease being ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154320Z" creationid="aorin" creationdate="20171215T154320Z">
+        <seg>孤独の放浪者であるヴァガボンドのポーンは戦士ではないので、空き地の支配者になれず、別のプレイヤーが支配者になるのを止めることもできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Look into the bag</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044250Z" creationid="aorin" creationdate="20171213T044250Z">
         <seg>バッグを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lords​ ​of​ ​the​ ​Forest.​ The Eyrie is the ruler of a clearing when tied for most combined warriors and buildings there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154138Z" creationid="aorin" creationdate="20171215T154138Z">
+        <seg>森の王である鷲は、これら空き地での建物と戦士の最大合計数でタイの場合、支配者になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3448,6 +3824,30 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T154325Z" creationid="aorin" creationdate="20171212T154325Z">
         <seg>ドレイがいわに繋がれていない事を確認してください（”炭鉱”アクションを参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many effects in Root deal hits​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150854Z" creationid="aorin" creationdate="20171215T150854Z">
+        <seg>ルートの多くの効果は「ヒット」します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marquise de Cat Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133422Z" creationid="aorin" creationdate="20171215T133422Z">
+        <seg>マルキス・デ・キャットのセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marquise de Cat, Eyrie Dynasties, Forest Alliance, Vagabond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133532Z" creationid="aorin" creationdate="20171215T133402Z">
+        <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3504,6 +3904,22 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135126Z" creationid="nakahodo" creationdate="20171124T135126Z">
         <seg>それに加えて、あなたはそこで食料にありつけたため、食料1つを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most factions have two types of pieces:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152625Z" creationid="aorin" creationdate="20171215T152619Z">
+        <seg>多くの派閥は2種のピースを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most often, players deal hits in battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151111Z" creationid="aorin" creationdate="20171215T151111Z">
+        <seg>ほとんどの場合、戦闘によりヒットを受けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3585,6 +4001,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092609Z" creationid="aorin" creationdate="20171116T092609Z">
         <seg>悪くない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note for Print-and-Players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131843Z" creationid="aorin" creationdate="20171215T131843Z">
+        <seg>プリントアンドプレイの注意</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,6 +4476,22 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a character card, then place the items listed on your character card in the Available pool shown by your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145133Z" creationid="aorin" creationdate="20171215T145133Z">
+        <seg>キャラクターカードを選択肢、その後、あなたの派閥ボードの利用可能プールに指示を見て、キャラクターカードに記述されたアイテムを配置してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piece</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152513Z" creationid="aorin" creationdate="20171215T152513Z">
+        <seg>ピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pit of Oblivion</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173125Z" creationid="aorin" creationdate="20171212T173125Z">
@@ -4103,6 +4543,54 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Hideout and one warrior on any clearing with an empty slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144748Z" creationid="aorin" creationdate="20171215T144744Z">
+        <seg>空いたスロットのある任意の空き地に、隠れ家1つと戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Roost and six warriors on the Eyrie Homeland (the red fox clearing in the bottom-right corner of the map).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134431Z" creationid="aorin" creationdate="20171215T134431Z">
+        <seg>鷲のホームランドに戦士6体と止まり木1つを配置します（マップ右下角の赤狐の空き）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Sawmill on the Keep, place a Recruiter on any clearing adjacent to the Keep, and place a Workshop on any other clearing adjacent to the Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133806Z" creationid="aorin" creationdate="20171215T133806Z">
+        <seg>キープに製材所を配置し、キープに隣接する任意のクリーニングに雇用所を配置し、キープに隣接する別のクリーニングに作業場を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in each clearing, including the Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133525Z" creationid="aorin" creationdate="20171215T133525Z">
+        <seg>キープを含む、クリーニングごとに、戦士1体ずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in each forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144955Z" creationid="aorin" creationdate="20171215T144955Z">
+        <seg>各森の国家ボックスに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior on the leftmost space of the outrage track on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144908Z" creationid="aorin" creationdate="20171215T144908Z">
+        <seg>あなたの派閥ボードの暴動トラックの一番左のスペースに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place all of your remaining Action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
@@ -4137,6 +4625,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the remaining leaders face up near your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134537Z" creationid="aorin" creationdate="20171215T134537Z">
+        <seg>残ったリーダーたちは、表向きであなたの派閥ボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the small cubes on the
 small cube track randomly to determine the
 turn order.</seg>
@@ -4151,6 +4647,78 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093349Z" creationid="aorin" creationdate="20171212T021848Z">
         <seg>ターン順番を決定するために、小さなキューブトラックに小さなキューブをランダムに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the wood tokens near your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133710Z" creationid="aorin" creationdate="20171215T133710Z">
+        <seg>あなたの派閥ボードの近くに、木トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your Roosts on the matching track of your faction board, matching Roosts with and without stars to the matching spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134306Z" creationid="aorin" creationdate="20171215T134306Z">
+        <seg>あなたの派閥ボードの一致するトラックと、止まり木があり、星が無いスペースに止まり木を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your Sawmills, Workshops, and Recruiters on the matching tracks of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133654Z" creationid="aorin" creationdate="20171215T133654Z">
+        <seg>あなた派閥ボードの一致するトラックに、製材所、作業場、雇用所を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your Strongholds and Hideouts on the matching tracks on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144710Z" creationid="aorin" creationdate="20171215T144710Z">
+        <seg>あなた派閥ボードの一致するトラックに、砦、隠れ家を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your character pawn on any forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145157Z" creationid="aorin" creationdate="20171215T145157Z">
+        <seg>任意の森にあなたのキャラクターポーンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your score marker on the “0” space of the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133841Z" creationid="aorin" creationdate="20171215T133841Z">
+        <seg>スコアトラックの「0」スペースにあなたのスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your two Loyal Vizier cards on the matching Decree spaces of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134711Z" creationid="aorin" creationdate="20171215T134711Z">
+        <seg>あなたの派閥ボードの法令スペースに一致する、王家大臣カード2枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place​ ​Ruins:​ In games with the Vagabond, shuffle the ruin tokens and place one, with the item side face down, on each red-bordered slot on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133122Z" creationid="aorin" creationdate="20171215T133122Z">
+        <seg>遺跡の配置：ヴァガボンドがゲームにいる場合、遺跡トークンをシャッフルして、マップの赤い枠のスロットごとに、1つずつアイテム側を下にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing and Removing Pieces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150105Z" creationid="aorin" creationdate="20171215T145835Z">
+        <seg>コンポーネントの配置と排除</seg>
       </tuv>
     </tu>
     <tu>
@@ -4203,6 +4771,22 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033245Z" creationid="aorin" creationdate="20171212T033245Z">
         <seg>Supplierから購入したプランは、近所に建物として配置されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play Area</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152645Z" creationid="aorin" creationdate="20171215T152645Z">
+        <seg>プレイエリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player Scaling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
+        <seg>プレイヤースケーリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -4380,6 +4964,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prepare​ ​Deck:​ ​If playing with three or fewer players, return the Coalition Victory special victory card and the Chaos Victory special victory card to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132926Z" creationid="aorin" creationdate="20171215T132926Z">
+        <seg>デッキの準備：3か4人でプレイしている場合、連合勝利特別勝利カードとカオス勝利特別勝利カードを箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proceed to the next Development phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030605Z" creationid="aorin" creationdate="20171212T030605Z">
@@ -4485,6 +5077,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ROOT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130426Z" creationid="aorin" creationdate="20171215T130426Z">
+        <seg>ルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Receive as few Penalty Points as possible from the Queen while collecting Reward Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083012Z" creationid="nakahodo" creationdate="20171211T083012Z">
@@ -4513,6 +5113,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
         <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達するか超えるとすぐに、あなたは直ちに昇進している妖精1体を降格させて、あなたの炭鉱へと再びドレイにさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing​ ​Hideouts.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152103Z" creationid="aorin" creationdate="20171215T151850Z">
+        <seg>隠れ家を取り除く。隠れ家1つが取り除かれるたびに、連合は一致する森の民ボックスのサポーター半分（切り上げ）と、任意の策略を取り除かなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4663,6 +5271,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root is a game of woodland might and right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130717Z" creationid="aorin" creationdate="20171215T130717Z">
+        <seg>ルートはウッドランドにおける、力と正義のゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root is designed by Cole Wehrle (Pax Pamir, An Infamous Traffic, and John Company) and brought to life by master illustrator Kyle Ferrin (Vast: The Crystal Caverns, Vast: The Fearsome Foes, Stitches).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T155150Z" creationid="nakahodo" creationdate="20171103T155150Z">
@@ -4675,6 +5291,22 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153728Z" creationid="nakahodo" creationdate="20171103T153728Z">
         <seg>ルートは我々がデベロップする非対称設計の次のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ruler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153907Z" creationid="aorin" creationdate="20171215T153836Z">
+        <seg>支配者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rules Conflicts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145642Z" creationid="aorin" creationdate="20171215T145642Z">
+        <seg>ルール衝突</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,6 +5395,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set​ ​Up​ ​Factions:​ The players set up their factions as described below in the following order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133530Z" creationid="aorin" creationdate="20171215T133238Z">
+        <seg>派閥のセットアップ：以下に従い、次の順番で派閥のセットアップを行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She pays 2 Gold to forge 1 Golden Ring, as she is not allowed to forge more than one Ring with 1 action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063230Z" creationid="aorin" creationdate="20171213T063230Z">
@@ -4811,6 +5451,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T085457Z" creationid="nakahodo" creationdate="20170924T085457Z">
         <seg>ブレンドスレートをシャッフルし、ワールドマップの西側近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132733Z" creationid="aorin" creationdate="20171215T132733Z">
+        <seg>デッキをシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4880,6 +5528,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some rules refer to a local​ player or piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152201Z" creationid="aorin" creationdate="20171215T152201Z">
+        <seg>一部のルールはローカルプレイヤーまたはコンポーネントを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some rules will prompt you to place a component in your play​ ​area​, which is the area above your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153834Z" creationid="aorin" creationdate="20171215T153834Z">
+        <seg>いくつかのルールはあなたのファンクションボード上にあるプレイエリアに、コンポーネントの配置を促します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -4892,6 +5556,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142820Z" creationid="nakahodo" creationdate="20171213T142820Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special two-player scenarios will be included in the final game, along with rules that allow for a huge range of player configurations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132536Z" creationid="aorin" creationdate="20171215T132536Z">
+        <seg>完成したゲームには、特別な2プレイヤー用シナリオを含む、様々なプレイヤー構成によるルールを含まれることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stalk the woods as the Vagabond, seize the initiative with the Eyrie birds of prey, rule over your subjects as the Marquise de Cat, or command the Woodland Alliance to create a new order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
+        <seg>あなたは、ヴァガボンドとして森を徘徊し、いや、鷲の巣からイニシアチブを握り、はたまたマルキス・デ・キャットとして下々を圧政し、もしやもすると、ウッドランド同盟を動かし新しい秩序を生み出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4997,6 +5677,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040529Z" creationid="aorin" creationdate="20171213T040529Z">
         <seg>共通サプライからシルバーを2つ取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a warrior from each player and place them on the Indifferent space of the alignment chart on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145325Z" creationid="aorin" creationdate="20171215T145325Z">
+        <seg>各プレイヤーから戦士1体を取り、あなたの派閥ボードの協力チャートの無関心スペースにこれらを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5231,6 +5919,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Marquise also has wood​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152636Z" creationid="aorin" creationdate="20171215T152636Z">
+        <seg>マルキスはまた木も持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mint Supply is not limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071430Z" creationid="nakahodo" creationdate="20171209T071430Z">
@@ -5311,6 +6007,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond only has a pawn.​</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152643Z" creationid="aorin" creationdate="20171215T152643Z">
+        <seg>ヴァガボンドはポーンのみを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The World Map is split into three coffee-rich regions
 (Americas, Africa, and Asia) each with its own
 Country Crop space and action that players will
@@ -5358,6 +6062,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094909Z" creationid="nakahodo" creationdate="20171001T094909Z">
         <seg>5から8プレイヤーのビバジャワのプレイ方法に細部は従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following game is recommended for three to four players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132033Z" creationid="aorin" creationdate="20171215T132033Z">
+        <seg>ゲームは3人から4人でのプレイを推奨します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,6 +6144,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123336Z" creationid="nakahodo" creationdate="20171213T123336Z">
         <seg>大きなキューブはまだその場に残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The learn-to-play guide is written in a more conversational tone and features many illustrated examples.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131751Z" creationid="aorin" creationdate="20171215T131751Z">
+        <seg>プレイ学習ガイドは砕けたトーンとたくさんのイラスト例示で記述されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5831,10 +6551,26 @@ plus the desired Location’s cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ruler of a clearing is the player with the most combined warriors and buildings in that clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153945Z" creationid="aorin" creationdate="20171215T153903Z">
+        <seg>空き地の支配者は、その空き地の建物と戦士の合計で最も所持するプレイヤーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rules reference
 is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064826Z" creationid="nakahodo" creationdate="20171209T064826Z">
+        <seg>ルールリファレンスは簡潔で信頼できる完全な目録を目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules reference is intended to be a concise, authoritative, and complete reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131613Z" creationid="aorin" creationdate="20171215T131613Z">
         <seg>ルールリファレンスは簡潔で信頼できる完全な目録を目的としています。</seg>
       </tuv>
     </tu>
@@ -5986,6 +6722,22 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032807Z" creationid="aorin" creationdate="20171212T032757Z">
         <seg>その後、プランサプライからプラン1枚を取り、自身の近所にこれをプランとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, shuffle the special victory cards into the deck and place it near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132946Z" creationid="aorin" creationdate="20171215T132946Z">
+        <seg>その後、特別勝利カードをデッキに含んでシャッフルし、マップ近くにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the Alliance increases their Outrage by one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152126Z" creationid="aorin" creationdate="20171215T152126Z">
+        <seg>その後、連合は暴動を1つ上昇させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6355,6 +7107,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is your current​ ​leader​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134512Z" creationid="aorin" creationdate="20171215T134512Z">
+        <seg>これが現在のリーダーになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes the action more and more expensive as the rounds progress.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122829Z" creationid="nakahodo" creationdate="20171213T122829Z">
@@ -6674,6 +7434,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vagabond Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145010Z" creationid="aorin" creationdate="20171215T145010Z">
+        <seg>ヴァガボンドセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VivaJava is, at it’s heart, a social game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095543Z" creationid="nakahodo" creationdate="20171001T095543Z">
@@ -6706,6 +7474,22 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021241Z" creationid="aorin" creationdate="20171212T021241Z">
         <seg>sadf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We Don’t Need Playtesters/Editors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131934Z" creationid="aorin" creationdate="20171215T131934Z">
+        <seg>私たちはプレイテスター/エディターを必要としていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What You Need to Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132545Z" creationid="aorin" creationdate="20171215T132545Z">
+        <seg>プレイに必要なもの</seg>
       </tuv>
     </tu>
     <tu>
@@ -6956,6 +7740,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
+        <seg>あなたが建物を取り除くヒットをするたびに、あなたは1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While camping you may offer to use skills or equipment (that have relevant abilities) on other players, out of generosity or in exchange for items, food, ammo, future favours, and so on (note that trading still occurs only in the trade phase).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135542Z" creationid="nakahodo" creationdate="20171124T135542Z">
@@ -6978,6 +7770,30 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T065329Z" creationid="nakahodo" creationdate="20171209T065329Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While experienced gamers will be able to learn the game from the rules reference, those newer to the hobby should start with the learn-to-play guide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131655Z" creationid="aorin" creationdate="20171215T131655Z">
+        <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、初心者はプレイ学習ガイドからそうすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With creatures and cunning, you'll rule a fantastic forest kingdom in the ultimate asymmetric game of adventure and war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
+        <seg>狡猾な生き物たちとともに、冒険と戦争に彩られた究極の非対称のゲームを制し、この素晴らしい深き森の王国を支配しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Woodland Alliance Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134717Z" creationid="aorin" creationdate="20171215T134717Z">
+        <seg>ウッドランド連合のセットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7950,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if the Marquise recruits warriors, but does not have enough warriors in her supply to place a warrior at each recruiter, then she may place as many as able.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150518Z" creationid="aorin" creationdate="20171215T150518Z">
+        <seg>マルキスが戦士を雇用するが、各雇用所に戦士1体を配置するだけの戦士が彼女のサプライにない場合、可能な数だけそうします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>player Orienne puts 5 Apples in the general supply and takes 5 Silver from the general supply in exchange.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041633Z" creationid="aorin" creationdate="20171213T041633Z">
@@ -7162,6 +7986,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171212Z" creationid="aorin" creationdate="20171212T171124Z">
         <seg>炭鉱の最も低い場所にある2つのドレイの場所は、常に最初に満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>these effects specify the clearing from which pieces must be removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
+        <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>warriors​ and buildings​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152623Z" creationid="aorin" creationdate="20171215T152623Z">
+        <seg>戦士と建物。</seg>
       </tuv>
     </tu>
     <tu>
