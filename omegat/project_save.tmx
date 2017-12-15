@@ -5247,6 +5247,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ruler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153907Z" creationid="aorin" creationdate="20171215T153836Z">
+        <seg>支配者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rules Conflicts</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145642Z" creationid="aorin" creationdate="20171215T145642Z">
@@ -6491,6 +6499,14 @@ plus the desired Location’s cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140919Z" creationid="nakahodo" creationdate="20171127T140919Z">
         <seg>行を満たす必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ruler of a clearing is the player with the most combined warriors and buildings in that clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153903Z" creationid="aorin" creationdate="20171215T153903Z">
+        <seg>空き地のルールは</seg>
       </tuv>
     </tu>
     <tu>
