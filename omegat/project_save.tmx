@@ -1641,6 +1641,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose one of the four Eyrie leaders and place it on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
+        <seg>鷲のリーダー4体から1体を選択し、あなたの派閥ボードにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choosing a Permanent Ability Tile is only
 performed once all players understand the
 rules of the game.</seg>
@@ -4215,6 +4223,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Roost and six warriors on the Eyrie Homeland (the red fox clearing in the bottom-right corner of the map).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134431Z" creationid="aorin" creationdate="20171215T134431Z">
+        <seg>鷲のホームランドに戦士6体と止まり木1つを配置します（マップ右下角の赤狐の空き）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Sawmill on the Keep, place a Recruiter on any clearing adjacent to the Keep, and place a Workshop on any other clearing adjacent to the Keep.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133806Z" creationid="aorin" creationdate="20171215T133806Z">
@@ -6615,6 +6631,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041914Z" creationid="aorin" creationdate="20171213T041914Z">
         <seg>これは、複数回実行しても1アクションになる唯一のアクションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is your current​ ​leader​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134512Z" creationid="aorin" creationdate="20171215T134512Z">
+        <seg>これが現在のリーダーになります。</seg>
       </tuv>
     </tu>
     <tu>
