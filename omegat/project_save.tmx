@@ -4291,6 +4291,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your Roosts on the matching track of your faction board, matching Roosts with and without stars to the matching spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134306Z" creationid="aorin" creationdate="20171215T134306Z">
+        <seg>あなたの派閥ボードの一致するトラックと、止まり木があり、星が無いスペースに止まり木を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your Sawmills, Workshops, and Recruiters on the matching tracks of your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133654Z" creationid="aorin" creationdate="20171215T133654Z">
