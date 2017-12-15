@@ -2911,6 +2911,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If text on a card or faction board conflicts with text in this rules reference, the card or faction board takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145735Z" creationid="aorin" creationdate="20171215T145735Z">
+        <seg>ルールリファレンスのテキストと、派閥ボードやカードテキストが矛盾した場合、カードまたは派閥ボードが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the AI is unable to use any Location, it chooses the Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
