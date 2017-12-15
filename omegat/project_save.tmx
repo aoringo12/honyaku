@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(These warriors are referred to as alignment markers)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145337Z" creationid="aorin" creationdate="20171215T145337Z">
+        <seg>（これら戦士は協力マーカーと呼称します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(These warriors are referred to as supporters.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145005Z" creationid="aorin" creationdate="20171215T145005Z">
@@ -2598,6 +2606,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golden Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145343Z" creationid="aorin" creationdate="20171215T145343Z">
+        <seg>ゴールデンルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -4395,6 +4411,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your character pawn on any forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145157Z" creationid="aorin" creationdate="20171215T145157Z">
+        <seg>任意の森にあなたのキャラクターポーンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your score marker on the “0” space of the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133841Z" creationid="aorin" creationdate="20171215T133841Z">
@@ -4975,6 +4999,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rules Conflicts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145642Z" creationid="aorin" creationdate="20171215T145642Z">
+        <seg>ルール衝突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rules for a 2 Player Game</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131003Z" creationid="nakahodo" creationdate="20171213T131003Z">
@@ -5325,6 +5357,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040529Z" creationid="aorin" creationdate="20171213T040529Z">
         <seg>共通サプライからシルバーを2つ取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a warrior from each player and place them on the Indifferent space of the alignment chart on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T145325Z" creationid="aorin" creationdate="20171215T145325Z">
+        <seg>各プレイヤーから戦士1体を取り、あなたの派閥ボードの協力チャートの無関心スペースにこれらを配置します。</seg>
       </tuv>
     </tu>
     <tu>
