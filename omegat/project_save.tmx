@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
+        <seg>で（ヴァガボンドがディフェンダーで利用可能な&lt;ソード&gt;がない場合、彼は戦闘のステップ1で撤退しなければなりません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you have two crafting buildings in a fox clearing, you may not craft two cards which require two foxes each.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211940Z" creationid="aorin" creationdate="20171215T211940Z">
@@ -788,6 +796,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033048Z" creationid="aorin" creationdate="20171212T033048Z">
         <seg>Temp Agencyの対象にするには、そのロケーションの少なくとも1つのスペースが占領されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A battle has four steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221326Z" creationid="aorin" creationdate="20171215T221314Z">
+        <seg>戦闘は4つのステップがあります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3211,6 +3227,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T213952Z" creationid="aorin" creationdate="20171215T213952Z">
         <seg>ヴァガボンドがゲームにいない、一致するアイテムトークンが残っていない場合は、プレイエリアにアイテムトークンを配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the defender has no warriors in the clearing of battle, remove all of the defender’s pieces there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221147Z" creationid="aorin" creationdate="20171215T221147Z">
+        <seg>戦闘地にディフェンダーが戦士をもたない場合、そこのディフェンダーのピースを全て取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6374,6 +6398,22 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123734Z" creationid="nakahodo" creationdate="20171213T123734Z">
         <seg>このアクションを選択したプレイヤーは直ちにアクションフェイズを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attacker scores one victory point per building removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221209Z" creationid="aorin" creationdate="20171215T221209Z">
+        <seg>アタッカーは取り除く建物1つごとに、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The battle then ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221223Z" creationid="aorin" creationdate="20171215T221223Z">
+        <seg>その後、戦闘は終了します。</seg>
       </tuv>
     </tu>
     <tu>
