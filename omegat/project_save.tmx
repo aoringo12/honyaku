@@ -1356,6 +1356,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you may play a special victory card for its suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232300Z" creationid="aorin" creationdate="20171215T232300Z">
+        <seg>もしくは、スートとして特別勝利カードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An Apple can be used to demote an opposing Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133556Z" creationid="nakahodo" creationdate="20171213T133556Z">
@@ -2239,6 +2247,14 @@ Track will go first.</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171213T080520Z" creationid="aorin" creationdate="20171213T080520Z">
         <seg>リソースを捨てる[または]1食料を取る
 このアクションはアクションディスク1つで実行でき、各ラウンド3回利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Daylight, the acting player can take an available special victory card into their hand by spending a card of matching suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232519Z" creationid="aorin" creationdate="20171215T232519Z">
+        <seg>昼時、手番プレイヤーは特別勝利カードに一致するスートのカード1枚を消費することにより、この利用可能な特別勝利カードを自身の手札に入れることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3805,6 +3821,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150607Z" creationid="aorin" creationdate="20171215T150607Z">
         <seg>コンポーネントを取り除く指示をされたが、その数だけ取り除けない場合、可能な限り取り除くようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do, do not discard the card;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232311Z" creationid="aorin" creationdate="20171215T232311Z">
+        <seg>そうした場合、カードは捨て札にしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8906,6 +8930,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210501Z" creationid="aorin" creationdate="20171215T210501Z">
         <seg>あなたが鳥カードを消費するよう指示された場合、あなたは別スートのカードを変わりに消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>instead, place the card face up near the map to show that it is available​ ​to take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232359Z" creationid="aorin" creationdate="20171215T232359Z">
+        <seg>その代わりに、マップ近くに表向きにして配置して、利用可能になります。</seg>
       </tuv>
     </tu>
     <tu>
