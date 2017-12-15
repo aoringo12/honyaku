@@ -8028,6 +8028,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you take a move​, you may take any number of your warriors (or your Vagabond pawn) from one clearing and move them to one adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T215125Z" creationid="aorin" creationdate="20171215T215125Z">
+        <seg>あなたが移動する時、空き地1つから任意の数の戦士を取り（ヴァガボンドはポーン）、隣接する空き地1つへと彼らを移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a player needs to demote one of their promoted Pixies to the mine, this Tile can be used to beg the Queen for mercy.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
