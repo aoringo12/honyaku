@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(The ruin tokens consist of the following items:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
+        <seg>（遺跡トークンには次のアイテムが含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-
 mum of 20 even with 5 players)</seg>
       </tuv>
@@ -697,6 +705,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T074925Z" creationid="nakahodo" creationdate="20171209T074925Z">
         <seg>得点計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;bag&gt;, &lt;boot&gt;, &lt;hammer&gt;, and &lt;sword&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133205Z" creationid="aorin" creationdate="20171215T133205Z">
+        <seg>&lt;バッグ&gt;、&lt;ブーツ&gt;、&lt;ハンマー&gt;、&lt;ソード&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3516,6 +3532,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marquise de Cat Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133422Z" creationid="aorin" creationdate="20171215T133422Z">
+        <seg>マルキス・デ・キャットのセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marquise de Cat, Eyrie Dynasties, Forest Alliance, Vagabond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133402Z" creationid="aorin" creationdate="20171215T133402Z">
+        <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander whom they hope will lead their faction to reclaim their ancient birthright.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
@@ -4871,6 +4903,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131009Z" creationid="nakahodo" creationdate="20171213T131004Z">
         <seg>セットアップ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set​ ​Up​ ​Factions:​ The players set up their factions as described below in the following order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133304Z" creationid="aorin" creationdate="20171215T133238Z">
+        <seg>派閥のセットアップ：以下に従い、次の順番で派閥のセットアップを行います。</seg>
       </tuv>
     </tu>
     <tu>
