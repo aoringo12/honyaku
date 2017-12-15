@@ -6380,6 +6380,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The nation of a crafting building matches the nation of its clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211218Z" creationid="aorin" creationdate="20171215T211218Z">
+        <seg>民のクラフト建物は、空き地の民と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151439Z" creationid="nakahodo" creationdate="20171103T151439Z">
@@ -7478,6 +7486,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112603Z" creationid="nakahodo" creationdate="20171001T112603Z">
         <seg>投票するには、各プレイヤーは自身の手札のブレンド/研究トークンを取り、秘密裏にいずれかの側を選択してテーブルに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To​ ​craft​ ​an​ ​improvement,​ ​you must exhaust crafting buildings of the nations shown on the improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211200Z" creationid="aorin" creationdate="20171215T211047Z">
+        <seg>改良1つをクラフするには、あなたは改良の示す民のクラフト建物を消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
