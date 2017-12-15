@@ -3241,6 +3241,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you remove your last building from a clearing, you must also discard one improvement from your play area, if able.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151636Z" creationid="aorin" creationdate="20171215T151636Z">
+        <seg>空き地からあなたの最後の建物を取り除いた場合、可能であれば、プレイエリアから改良地1つを取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you run
 out of Mint Tokens, try taking a few from
 the Supplier without emptying any spaces.</seg>
@@ -7564,6 +7572,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
+        <seg>あなたが建物を取り除くヒットをするたびに、あなたは1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While camping you may offer to use skills or equipment (that have relevant abilities) on other players, out of generosity or in exchange for items, food, ammo, future favours, and so on (note that trading still occurs only in the trade phase).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135542Z" creationid="nakahodo" creationdate="20171124T135542Z">
@@ -7802,6 +7818,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171212Z" creationid="aorin" creationdate="20171212T171124Z">
         <seg>炭鉱の最も低い場所にある2つのドレイの場所は、常に最初に満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>these effects specify the clearing from which pieces must be removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
+        <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
       </tuv>
     </tu>
     <tu>
