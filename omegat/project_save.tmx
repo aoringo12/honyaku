@@ -2031,6 +2031,22 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defender​ ​may​ ​declare​ ​retreat.​ If defender does retreat, the defender takes hits based on the number of retreating warriors, the attacker may play one ambush card to deal a hit, and then the battle ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221555Z" creationid="aorin" creationdate="20171215T221555Z">
+        <seg>ディフェンダーは撤退するかを決定します。ディフェンダーが撤退する場合、ディフェンダーが撤退させる戦士の数と同数のヒットを受け、アタッカーはヒット1つを与えるためにアンブッシュカード1枚をプレイできます。その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender​ ​may​ ​play​ ​ambush​ ​cards​ to deal hits to the attacker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221637Z" creationid="aorin" creationdate="20171215T221611Z">
+        <seg>ディフェンダーはアタッカーにヒットを与えるためにアンブッシュカード1枚以上をプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Demoting a Pixie</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173456Z" creationid="aorin" creationdate="20171212T173456Z">
