@@ -3263,6 +3263,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the defender chooses to retreat, he immediately takes the hits listed on the following table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222554Z" creationid="aorin" creationdate="20171215T222554Z">
+        <seg>ディフェンダーが撤退を選択する場合、彼は直ちに、次のテーブルに記述されるだけヒットを受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the defender does not retreat, continue to step 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222519Z" creationid="aorin" creationdate="20171215T222519Z">
+        <seg>ディフェンダーが撤退しない場合、ステップ2に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the defender has no warriors in the clearing of battle, remove all of the defender’s pieces there.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221147Z" creationid="aorin" creationdate="20171215T221147Z">
@@ -6470,6 +6486,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103209Z" creationid="aorin" creationdate="20171212T103209Z">
         <seg>現在のラウンドがプレイヤーたちにより終了したら、最終ポイントが計算されます。報酬タイルはプレイヤースクリーンの後ろに保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The defender may retreat if he rules an adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222504Z" creationid="aorin" creationdate="20171215T222504Z">
+        <seg>ディフェンダーは彼が隣接空き地を支配している場合に撤退できます。</seg>
       </tuv>
     </tu>
     <tu>
