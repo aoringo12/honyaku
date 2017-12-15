@@ -1390,10 +1390,18 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A​ ​conspiracy,​ ​which the Alliance can complete by spending supporters to earn victory points, resources, and infrastructure improvements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205738Z" creationid="aorin" creationdate="20171215T205605Z">
+        <seg>策略、連合は勝利点、リソース、インフラの改良を得るために、サポーターを消費することでこれを達成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A​ ​suit​ matching one of the four forest nations:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T205356Z" creationid="aorin" creationdate="20171215T205356Z">
-        <seg>4つの森の民の1つに一致するスート：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205615Z" creationid="aorin" creationdate="20171215T205356Z">
+        <seg>スート、4つの森の民の1つに一致します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2151,6 +2159,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204951Z" creationid="aorin" creationdate="20171215T204951Z">
         <seg>各空き地は白と赤のボックスで示されるナンバースロットを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction can spend cards of particular suits for different effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205451Z" creationid="aorin" creationdate="20171215T205451Z">
+        <seg>各派閥は異なる効果のために、特定スートのカードを消費できます。</seg>
       </tuv>
     </tu>
     <tu>
