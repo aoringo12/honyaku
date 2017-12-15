@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, if you have 3 warriors and roll 3 hits, then add 1 hit because of a special ability, you deal 4 hits.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224758Z" creationid="aorin" creationdate="20171215T224758Z">
+        <seg>（例えば、あなたが3戦士を持ち3ヒットをロールして、その後に特別アビリティによって1ヒット追加した場合、あなたは4ヒットを与えます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
+        <seg>で（ヴァガボンドがディフェンダーで利用可能な&lt;ソード&gt;がない場合、彼は戦闘のステップ1で撤退しなければなりません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(If you have two crafting buildings in a fox clearing, you may not craft two cards which require two foxes each.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211940Z" creationid="aorin" creationdate="20171215T211940Z">
+        <seg>（キツネ空き地にクラフ建物と2つを持っている場合、それぞれがキツネ2つ必要なクラフトカード2枚を作ることはできません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -741,6 +765,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Print-and-Play Note:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224128Z" creationid="aorin" creationdate="20171215T224128Z">
+        <seg>&lt;プリトアンドプレイ注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;bag&gt;, &lt;boot&gt;, &lt;hammer&gt;, and &lt;sword&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133205Z" creationid="aorin" creationdate="20171215T133205Z">
@@ -780,6 +812,38 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033048Z" creationid="aorin" creationdate="20171212T033048Z">
         <seg>Temp Agencyの対象にするには、そのロケーションの少なくとも1つのスペースが占領されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A battle has four steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221326Z" creationid="aorin" creationdate="20171215T221314Z">
+        <seg>戦闘は4つのステップがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A clearing is adjacent to all other clearings linked to it by a path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
+        <seg>空き地は道によってつながり他の空き地全てと隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A forest is adjacent to all clearings that touch it without crossing a path, and it is adjacent to all forests that are separated by only one path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204843Z" creationid="aorin" creationdate="20171215T204843Z">
+        <seg>森は道が通っておらずに触れている、全ての空き地に隣接しており、1つの道で隔てられている全ての森にもまた、隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A given piece is not limited in the number of times it can move during the same turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T215559Z" creationid="aorin" creationdate="20171215T215559Z">
+        <seg>当然、ピースが同じターンに移動できる回数に制限はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -932,6 +996,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A roll of “4” is considered a “0” so the four-sided dice only produces numbers 0-3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224252Z" creationid="aorin" creationdate="20171215T224244Z">
+        <seg>4面ダイスの「4」は「0」と見なし、0-3の結果のみを生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A team’s action is determined by a majority vote.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112457Z" creationid="nakahodo" creationdate="20171001T112457Z">
@@ -996,6 +1068,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Added hits are not​ limited by the number of warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224708Z" creationid="aorin" creationdate="20171215T224708Z">
+        <seg>追加したヒットは戦闘地の戦士の数に制限されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
@@ -1052,10 +1132,26 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After counting these hits, the attacker and defender can add hits by using special abilities or other effects in their areas of play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224649Z" creationid="aorin" creationdate="20171215T224649Z">
+        <seg>これらヒットをカウントした後に、アタッカーとディフェンダーは、自身のプレイエリアにある特別アビリティや他の効果を使用してヒットを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
         <seg>あなたの大きなキューブが一時的な優位性アクションで移動した後、このアクションを選択する前にあなたのキューブぼうしろにいたプレイヤーから、アクションフェイズを続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the defender takes hits, the attacker may play one ambush card matching the clearing of battle to immediately deal one unpreventable hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222757Z" creationid="aorin" creationdate="20171215T222749Z">
+        <seg>ディファンダーがヒットを受けた後、アタッカーはその戦闘地に一致するアンブッシュカード1枚をプレイして、不可避なヒット1を直ちに与えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1129,6 +1225,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the Vagabond’s &lt;hammer&gt; match the nation of his current clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212221Z" creationid="aorin" creationdate="20171215T212221Z">
+        <seg>ヴァガボンドの&lt;ハンマー&gt;は全て、彼が現在いる空き地の民と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All players gather resources from their personal supply in a chosen amount, to hold in their hand.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T122852Z" creationid="aorin" creationdate="20171212T122852Z">
@@ -1189,6 +1293,22 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113336Z" creationid="nakahodo" creationdate="20171001T113336Z">
         <seg>タイの場合、研究アクションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alliance​ ​Movement.​ ​The Alliance is uniquely restricted in its ability to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220758Z" creationid="aorin" creationdate="20171215T220758Z">
+        <seg>連合の移動。連合は移動のためのアビリティに独自の制限があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Almost every clearing is aligned with one forest nation​:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204444Z" creationid="aorin" creationdate="20171215T204444Z">
+        <seg>ほぼ全ての空き地は、森の民の1つが住んでいます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1398,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An​ ​improvement,​ which can be crafted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205822Z" creationid="aorin" creationdate="20171215T205822Z">
+        <seg>改良、作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apple, OR take 1 Honey, OR take 1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142647Z" creationid="nakahodo" creationdate="20171213T142647Z">
@@ -1290,6 +1418,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112721Z" creationid="aorin" creationdate="20171212T112715Z">
         <seg>りんご、はちみつ、パン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Areas on the map enclosed by paths and clearings are called forests​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204616Z" creationid="aorin" creationdate="20171215T204616Z">
+        <seg>マップ上の空き地と道で囲まれたエリアを森と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1470,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacker and defender deal hits simultaneously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T225430Z" creationid="aorin" creationdate="20171215T225430Z">
+        <seg>アタッカーとディフェンダーは同時にヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking or being attacked by another player is option.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
@@ -1354,6 +1498,22 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135628Z" creationid="nakahodo" creationdate="20171127T135628Z">
         <seg>目覚めと出現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A​ ​conspiracy,​ ​which the Alliance can complete by spending supporters to earn victory points, resources, and infrastructure improvements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205738Z" creationid="aorin" creationdate="20171215T205605Z">
+        <seg>策略、連合は勝利点、リソース、インフラの改良を得るために、サポーターを消費することでこれを達成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A​ ​suit​ matching one of the four forest nations:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205615Z" creationid="aorin" creationdate="20171215T205356Z">
+        <seg>スート、4つの森の民の1つに一致します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1658,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220940Z" creationid="aorin" creationdate="20171215T220940Z">
+        <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bean is not placed
 and Country Token
 is turned over.</seg>
@@ -1512,6 +1680,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
         <seg>これらが昇進時に炭鉱を離れる前、ドレイたちは自身につながれた岩を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Birds​ ​Are​ ​Wild.​ ​The bird suit is wild—you can spend a bird card as any other suit, including if you must spend multiple cards of matching nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210512Z" creationid="aorin" creationdate="20171215T210409Z">
+        <seg>鳥はワイルド。鳥のスートはワイルド ― 合致する民のカードを消費しなければならない場合に、他のスートであるように鳥カードを消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1814,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cards​ ​Are​ ​Secret.​ ​You cannot reveal any cards in your hand to other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210549Z" creationid="aorin" creationdate="20171215T210549Z">
+        <seg>カードはヒミツ。自身の手札のカードを他プレイヤーに公開することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Casino</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045814Z" creationid="aorin" creationdate="20171213T045814Z">
@@ -1701,6 +1885,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
         <seg>鷲のリーダー4体から1体を選択し、あなたの派閥ボードにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose one player in the clearing of battle to be the defender​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221050Z" creationid="aorin" creationdate="20171215T221050Z">
+        <seg>戦闘になる空き地のプレイヤー1人を選択し、ディフェンダーとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,10 +1968,26 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue to step 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224804Z" creationid="aorin" creationdate="20171215T224804Z">
+        <seg>ステップ4に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142653Z" creationid="nakahodo" creationdate="20171213T142653Z">
         <seg>模倣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cottage​ ​Industry.​ ​The Alliance score twice the victory points listed on improvements they craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T214554Z" creationid="aorin" creationdate="20171215T214554Z">
+        <seg>山小屋工場。連合は自身がクラフトした改良に記述された勝利点を二倍得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1835,6 +2043,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crafting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210553Z" creationid="aorin" creationdate="20171215T210553Z">
+        <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Created Blends are ranked by
 a simple poker scale and placed onto the Best-Seller List to score points, hopefully over the course of several rounds.</seg>
       </tuv>
@@ -1875,6 +2091,54 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134813Z" creationid="nakahodo" creationdate="20171127T134813Z">
         <seg>これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deal Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224810Z" creationid="aorin" creationdate="20171215T224810Z">
+        <seg>ヒットを与える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deal​ ​hits​ simultaneously.​ Then the battle ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221751Z" creationid="aorin" creationdate="20171215T221751Z">
+        <seg>お互いに同時にヒットを与えます。その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender Declares Ambush</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223249Z" creationid="aorin" creationdate="20171215T223249Z">
+        <seg>ディフェンダーのアンブッシュ宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender Declares Retreat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222422Z" creationid="aorin" creationdate="20171215T222422Z">
+        <seg>ディフェンダーが撤退を宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender​ ​may​ ​declare​ ​retreat.​ If defender does retreat, the defender takes hits based on the number of retreating warriors, the attacker may play one ambush card to deal a hit, and then the battle ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221555Z" creationid="aorin" creationdate="20171215T221555Z">
+        <seg>ディフェンダーは撤退するかを決定します。ディフェンダーが撤退する場合、ディフェンダーが撤退させる戦士の数と同数のヒットを受け、アタッカーはヒット1つを与えるためにアンブッシュカード1枚をプレイできます。その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender​ ​may​ ​play​ ​ambush​ ​cards​ to deal hits to the attacker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221637Z" creationid="aorin" creationdate="20171215T221611Z">
+        <seg>ディフェンダーはアタッカーにヒットを与えるためにアンブッシュカード1枚以上をプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1967,6 +2231,14 @@ Track will go first.</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171213T080520Z" creationid="aorin" creationdate="20171213T080520Z">
         <seg>リソースを捨てる[または]1食料を取る
 このアクションはアクションディスク1つで実行でき、各ラウンド3回利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Daylight, you can craft any number of cards from your hand into improvements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210924Z" creationid="aorin" creationdate="20171215T210924Z">
+        <seg>昼の間、あなたは自身の手札から任意の枚数、改良をクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2099,10 +2371,66 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each card has three uses:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205335Z" creationid="aorin" creationdate="20171215T205335Z">
+        <seg>各カードは3つの用途があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each clearing has a number of slots​, shown as white and red boxes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204951Z" creationid="aorin" creationdate="20171215T204951Z">
+        <seg>各空き地は白と赤のボックスで示されるナンバースロットを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each crafting building can be exhausted only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211813Z" creationid="aorin" creationdate="20171215T211704Z">
+        <seg>各クラフト建物はターン毎に一度のみ、消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction can craft cards in their hand into improvements​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210654Z" creationid="aorin" creationdate="20171215T210654Z">
+        <seg>各派閥は自身の手札のカードで改良をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction can spend cards of particular suits for different effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205451Z" creationid="aorin" creationdate="20171215T205451Z">
+        <seg>各派閥は異なる効果のために、特定スートのカードを消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction exhausts a different crafting building:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212006Z" creationid="aorin" creationdate="20171215T212006Z">
+        <seg>各派閥が消耗させるクラフト建物は異なります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each game round consists of 5 phases:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each played ambush card immediately deals two unpreventable hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223353Z" creationid="aorin" creationdate="20171215T223353Z">
+        <seg>プレイされたアンブッシュカードごとに、直ちに不可避の2ヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2584,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End the battle immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222912Z" creationid="aorin" creationdate="20171215T222912Z">
+        <seg>直ちに、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -2336,6 +2672,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Field​ ​Hospitals.​ Whenever a Marquise warrior takes a hit, the Marquise may spend any card to move the warrior to the Keep, instead of removing it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230240Z" creationid="aorin" creationdate="20171215T230240Z">
+        <seg>野戦病院。マルキスが戦闘で戦士がヒット1つを受けるたびに、これを取り除く代わりに、任意のカード1枚を消費してキープへと戦士を移動さえることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final scoring is performed in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032745Z" creationid="aorin" creationdate="20171213T032745Z">
@@ -2348,6 +2692,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033515Z" creationid="aorin" creationdate="20171213T033515Z">
         <seg>最後に、クイーンはあなたのプレイヤースクリーンの後ろを見て、彼女に提供されなかった全てのリソースを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, the defender must move all remaining warriors to one adjacent clearing he rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222904Z" creationid="aorin" creationdate="20171215T222754Z">
+        <seg>最後に、ディフェンダーは自身が支配する隣接空き地1つに、残っている戦士全てを移動させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2419,10 +2771,26 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details on playing these cards, see Goals​ ​and​ ​Play​ ​(page XX).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210117Z" creationid="aorin" creationdate="20171215T210117Z">
+        <seg>これらカードをプレイする詳細については、目標とプレイを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each Rock that remains in a player’s mine, that player receives 1 Penalty Point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033137Z" creationid="aorin" creationdate="20171213T033137Z">
         <seg>各プレイヤーの炭鉱に残っている岩ごとに、1ペナルティポイントを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each hit the Vagabond wishes to deal, he must exhaust a &lt;sword&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230659Z" creationid="aorin" creationdate="20171215T230659Z">
+        <seg>ヴァガボンドが受けるヒットごとに、&lt;ソード&gt;を無視しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2671,6 +3039,22 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hidden.​ If defending with a single warrior, the Alliance can ignore one hit taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230609Z" creationid="aorin" creationdate="20171215T230609Z">
+        <seg>潜む。戦士1体と共に防衛する時、連合は受けるヒット1つを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hideout​ ​Loss.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230440Z" creationid="aorin" creationdate="20171215T230440Z">
+        <seg>隠れ家を失う。隠れ家1つが取り除かれるたびに、連合は一致する森の民ボックスのサポーター半分（切り上げ）と、任意の策略を取り除かなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hint:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153509Z" creationid="aorin" creationdate="20171212T153509Z">
@@ -2683,6 +3067,38 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150829Z" creationid="aorin" creationdate="20171215T150829Z">
         <seg>ヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits 0 1 2 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222631Z" creationid="aorin" creationdate="20171215T222631Z">
+        <seg>ヒット	0	1	2	3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits as the Alliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230421Z" creationid="aorin" creationdate="20171215T230412Z">
+        <seg>連合が受けるヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits as the Marquise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230417Z" creationid="aorin" creationdate="20171215T225542Z">
+        <seg>マルキスが受けるヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits as the Vagabond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230616Z" creationid="aorin" creationdate="20171215T230616Z">
+        <seg>ヴァガボンドが受けるヒット</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,6 +3284,22 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an effect allows you to take multiple moves, you may move the same or separate groups of warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220124Z" creationid="aorin" creationdate="20171215T220124Z">
+        <seg>効果が複数回の移動を与える場合、あなたは同じ[または]別々に戦士のグループを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any attacking warriors remain after taking hits, continue to step 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223846Z" creationid="aorin" creationdate="20171215T223846Z">
+        <seg>ヒットを与えた後でアタッカーの戦士が残っていた場合、ステップ3に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any player has seven or more provided by Buildings in their Neighborhood, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030413Z" creationid="aorin" creationdate="20171212T025226Z">
@@ -2991,6 +3423,46 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Vagabond crafts an improvement with an item, he may immediately put the crafted item into his exhausted items pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T214045Z" creationid="aorin" creationdate="20171215T214045Z">
+        <seg>ヴァガボンドがアイテム改良をクラフトする場合、彼は直ちに自身の消耗したアイテムプールにクラフトしたアイテムを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Vagabond is not playing, or if no matching item token remains, do not put the item token into your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T213952Z" creationid="aorin" creationdate="20171215T213952Z">
+        <seg>ヴァガボンドがゲームにいない、一致するアイテムトークンが残っていない場合は、プレイエリアにアイテムトークンを配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the defender chooses to retreat, he immediately takes the hits listed on the following table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222554Z" creationid="aorin" creationdate="20171215T222554Z">
+        <seg>ディフェンダーが撤退を選択する場合、彼は直ちに、次のテーブルに記述されるだけヒットを受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the defender does not retreat, continue to step 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222519Z" creationid="aorin" creationdate="20171215T222519Z">
+        <seg>ディフェンダーが撤退しない場合、ステップ2に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the defender has no warriors in the clearing of battle, remove all of the defender’s pieces there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221147Z" creationid="aorin" creationdate="20171215T221147Z">
+        <seg>戦闘地にディフェンダーが戦士をもたない場合、そこのディフェンダーのピースを全て取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the last player doesn’t have a promoted Pixie, or begs for mercy using the Mercy Single Use Tile, the second-to-last player on the Player Turn Order track (large cubes) must send a Pixie to the mines.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125428Z" creationid="aorin" creationdate="20171212T125428Z">
@@ -3011,6 +3483,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T120138Z" creationid="nakahodo" creationdate="20171213T120011Z">
         <seg>ペナルティポイントを受け取ることにより、スコアトラックのドレイシンボルにプレイヤーのスコアマーカーが乗るか超えて移動した場合、プレイヤーは直ちに自身の鉱山に妖精を降格させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the rolls are equal, attacker and defender will deal the same number of hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224116Z" creationid="aorin" creationdate="20171215T224116Z">
+        <seg>同値の場合、アタッカーとディフェンダーは同じ数のヒットを与え合います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3257,6 +3737,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do​ ​not​ rule the origin clearing, you may move your warriors only to an adjacent clearing that you rule, that no one rules, or whose ruler gives you permission to enter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T215451Z" creationid="aorin" creationdate="20171215T215451Z">
+        <seg>あなたが支配していない空き地の場合、あなたが支配する[または]支配者のいない[または]入ることであなたが支配できる隣接空き地にのみ、戦士たちを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you enter a space with another player or a player enters your space, an attack occurs automatically.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132052Z" creationid="nakahodo" creationdate="20171127T132052Z">
@@ -3285,6 +3773,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151636Z" creationid="aorin" creationdate="20171215T151636Z">
         <seg>空き地からあなたの最後の建物を取り除いた場合、可能であれば、プレイエリアから改良地1つを取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you rule the origin clearing, you may move your warriors to any​ adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T215508Z" creationid="aorin" creationdate="20171215T215250Z">
+        <seg>あなたが支配する空き地の場合、任意の隣接空き地へと、あなたの戦士たちを移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3351,6 +3847,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151858Z" creationid="aorin" creationdate="20171215T151324Z">
         <seg>改良と策略もまたヒットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improvements can score you victory points, provide a persistent benefit, or give you a one-time ability that you can activate by discarding the improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210824Z" creationid="aorin" creationdate="20171215T210824Z">
+        <seg>改良は勝利点の得点、永続的な利益の提供、改良を破棄して発動する一度使用の効果などがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,6 +3963,22 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092821Z" creationid="nakahodo" creationdate="20171001T092821Z">
         <seg>3から5プレイヤーゲームでは、ベストセラーリストの古い場所はコーヒーブレンドが占めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with the Vagabond, each red-bordered slot begins covered with a ruin​ token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205111Z" creationid="aorin" creationdate="20171215T205111Z">
+        <seg>ヴァガボンドがゲームにいる場合、各赤いボーダーのスロットは遺跡トークンで覆われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games without the Vagabond, the red-bordered slots begin open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205230Z" creationid="aorin" creationdate="20171215T205230Z">
+        <seg>ヴァガボンドがゲームにいない場合、赤いボーダースロットは空きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3739,6 +4259,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like with the other cards, you can spend a special victory card from your hand for its suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210043Z" creationid="aorin" creationdate="20171215T210043Z">
+        <seg>他のカードのように、自身の手札からスートを得るために特別勝利カードを消費することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line them up in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080028Z" creationid="nakahodo" creationdate="20171209T080028Z">
@@ -3956,6 +4484,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T214558Z" creationid="aorin" creationdate="20171215T214558Z">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-use Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205255Z" creationid="aorin" creationdate="20171215T205255Z">
+        <seg>多岐使用カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Museum, Obelisk,
 Corporate HQ and Tiebreakers.</seg>
       </tuv>
@@ -3985,6 +4529,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041822Z" creationid="aorin" creationdate="20171213T041822Z">
         <seg>シルバートラックのあなたの位置の横に、どれだけのシルバーが1ゴールドを受け取るのに必要かが示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nimble.​ The Vagabond can move into a clearing without permission, and can move into forests with Slip or when retreating from battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220339Z" creationid="aorin" creationdate="20171215T220339Z">
+        <seg>機敏。ヴァガボンドは許可なく空き地を移動でき、スリップ時や戦闘から撤退するときに森に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4125,11 +4677,27 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once crafted, improvements confer various bonuses and may put items​ into play for the Vagabond to take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205919Z" creationid="aorin" creationdate="20171215T205919Z">
+        <seg>作成すると、改良は様々なボーナスを与え、ヴァガボンドが使うためのアイテムをゲームに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the Blend is complete, each player places a Blend Marker
 of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095953Z" creationid="nakahodo" creationdate="20171002T095953Z">
         <seg>ブレンドが完成すると、各プレイヤーは自身の色のブレンドマーカー1つをスレートに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the Vagabond explores a ruin and takes its token, the open slot can hold a building, as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205208Z" creationid="aorin" creationdate="20171215T205208Z">
+        <seg>ヴァガボンドが遺跡を探索してこのトークンを取ると、スロットが空いて、通常どおりに建物を保持できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4269,6 +4837,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
         <seg>他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, end the battle immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223858Z" creationid="aorin" creationdate="20171215T223858Z">
+        <seg>そうでないなら、直ちに戦闘は終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5159,6 +5735,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retreating Warriors 1–2 3–4 5–6 7+</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222623Z" creationid="aorin" creationdate="20171215T222623Z">
+        <seg>撤退する戦士	1-2 3-4	5-6	7+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return all on Locations to the Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
@@ -5263,6 +5847,30 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll Dice and Count Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223905Z" creationid="aorin" creationdate="20171215T223905Z">
+        <seg>ダイスロールとヒットのカウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roll both dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223914Z" creationid="aorin" creationdate="20171215T223914Z">
+        <seg>両者ダイスを振ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roll​ ​dice​ ​and​ ​count​ ​hits​ to both attacker and defender, who can modify hits with other effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221726Z" creationid="aorin" creationdate="20171215T221726Z">
+        <seg>ダイスをロールし、アタッカーとディフェンダー両方のヒットを数え、それに他の効果を適応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
@@ -5291,6 +5899,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153728Z" creationid="nakahodo" creationdate="20171103T153728Z">
         <seg>ルートは我々がデベロップする非対称設計の次のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root uses a single deck of multi-use cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205322Z" creationid="aorin" creationdate="20171215T205322Z">
+        <seg>ルートでは多岐使用カードのデッキ1つを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,6 +6015,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133530Z" creationid="aorin" creationdate="20171215T133238Z">
         <seg>派閥のセットアップ：以下に従い、次の順番で派閥のセットアップを行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She cannot use Field Hospitals if she does not rule the Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230303Z" creationid="aorin" creationdate="20171215T230303Z">
+        <seg>彼女はキープを支配していない場合に、野戦病院は使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5564,6 +6188,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132536Z" creationid="aorin" creationdate="20171215T132536Z">
         <seg>完成したゲームには、特別な2プレイヤー用シナリオを含む、様々なプレイヤー構成によるルールを含まれることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special​ ​Victory​ ​Cards.​ ​Four cards in the deck are special​ ​victory​ ​cards​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205944Z" creationid="aorin" creationdate="20171215T205944Z">
+        <seg>特別勝利カード。デッキのカード4枚は特別勝利カードとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5842,6 +6474,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Alliance can only move by executing appropriate conspiracies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220854Z" creationid="aorin" creationdate="20171215T220854Z">
+        <seg>連合は適切な策略を実行することによってのみ、移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Best-
 Seller List</seg>
       </tuv>
@@ -5915,6 +6555,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
         <seg>ゴールデンリングは直ちにクイーンに提供され、プレイヤーはまだ獲得可能な最も高いゴールデンリング報酬タイルを獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Keep of Marquise de Cat is a clearing aligned with all nations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
+        <seg>マルキス・デ・キャットのキープは全ての民が住んでいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6007,6 +6655,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
+        <seg>ヴァガボンドは任意の隣接空き地[または]森に撤退できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond only has a pawn.​</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152643Z" creationid="aorin" creationdate="20171215T152643Z">
@@ -6034,6 +6690,38 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The attacker and defender can ignore hits taken by using special abilities and other effects in their areas of play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T225528Z" creationid="aorin" creationdate="20171215T225528Z">
+        <seg>アタッカーとディフェンダーは自身のプレイエリアの特別アビリティや他の効果を使用することにより、ヒットを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attacker scores one victory point per building removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221209Z" creationid="aorin" creationdate="20171215T221209Z">
+        <seg>アタッカーは取り除く建物1つごとに、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attacker will deal hits equal to the higher roll, and the defender will deal hits equal to the lower roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224054Z" creationid="aorin" creationdate="20171215T224054Z">
+        <seg>アタッカーは高いロールに等しいヒットを与え、ディフェンダーは低いヒットに等しいヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The battle then ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221223Z" creationid="aorin" creationdate="20171215T221223Z">
+        <seg>その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chosen action has to be performed immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104710Z" creationid="aorin" creationdate="20171212T104710Z">
@@ -6046,6 +6734,22 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103209Z" creationid="aorin" creationdate="20171212T103209Z">
         <seg>現在のラウンドがプレイヤーたちにより終了したら、最終ポイントが計算されます。報酬タイルはプレイヤースクリーンの後ろに保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The defender may play ambush cards matching the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223315Z" creationid="aorin" creationdate="20171215T223315Z">
+        <seg>ディフェンダーは戦闘地に一致するアンブッシュカード一枚以上をプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The defender may retreat if he rules an adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222504Z" creationid="aorin" creationdate="20171215T222504Z">
+        <seg>ディフェンダーは彼が隣接空き地を支配している場合に撤退できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6078,6 +6782,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123020Z" creationid="aorin" creationdate="20171212T123020Z">
         <seg>次のルールが適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The forest surrounding the map is out of play, not part of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204915Z" creationid="aorin" creationdate="20171215T204915Z">
+        <seg>マップ周囲の森はゲーム外で、マップの一部ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6123,6 +6835,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The game will have custom d12s included with an equivalent distribution.&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224345Z" creationid="aorin" creationdate="20171215T224345Z">
+        <seg>実際のゲームにはカスタムされた12面の同等のものが含まれる予定です&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The large cubes are placed on
 their track in the same order.</seg>
       </tuv>
@@ -6152,6 +6872,30 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131751Z" creationid="aorin" creationdate="20171215T131751Z">
         <seg>プレイ学習ガイドは砕けたトーンとたくさんのイラスト例示で記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The map of the Woodland is composed of clearings​, which are connected by a network of paths​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
+        <seg>ウッドランドのマップは空き地で構成され、道のネットワークによってつながっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum number of hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224610Z" creationid="aorin" creationdate="20171215T224610Z">
+        <seg>ロールによって与えられるヒットの最大数は、あなたがアタッカーかディフェンダーかに関わらず、戦闘地にいるあなたの戦士の数に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The nation of a crafting building matches the nation of its clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211218Z" creationid="aorin" creationdate="20171215T211218Z">
+        <seg>民のクラフト建物は、空き地の民と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6902,6 +7646,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The​ ​Keep​ ​of​ ​Marquise​ ​de​ ​Cat.​ During any battle in the Keep, the Marquise can ignore one hit taken, even if retreating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230355Z" creationid="aorin" creationdate="20171215T230355Z">
+        <seg>マルキス・デ・キャットのキープ。キープでの任意の戦闘中、マルキスは撤退するとしても、受けるヒット1つを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This
 is important to keep the simultaneous actions from becoming chaotic.</seg>
       </tuv>
@@ -7171,6 +7923,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This rule does not work in reverse:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210435Z" creationid="aorin" creationdate="20171215T210435Z">
+        <seg>このルールは逆には作用しません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This strategy requires you to obtain Gold and Silver, and to maintain a good position on the Silver and Gold tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101607Z" creationid="aorin" creationdate="20171212T101607Z">
@@ -7246,6 +8006,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112603Z" creationid="nakahodo" creationdate="20171001T112603Z">
         <seg>投票するには、各プレイヤーは自身の手札のブレンド/研究トークンを取り、秘密裏にいずれかの側を選択してテーブルに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To​ ​craft​ ​an​ ​improvement,​ ​you must exhaust crafting buildings of the nations shown on the improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211807Z" creationid="aorin" creationdate="20171215T211047Z">
+        <seg>改良1つをクラフするには、あなたは改良の示す民のクラフト建物を消耗させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7438,6 +8206,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145010Z" creationid="aorin" creationdate="20171215T145010Z">
         <seg>ヴァガボンドセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond​ ​Retreat.​ ​The Vagabond takes hits when retreating based on his total number of available and exhausted items, rather than number of retreating warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T223214Z" creationid="aorin" creationdate="20171215T223214Z">
+        <seg>ヴァガボンドが撤退する。ヴァガボンドは撤退する時、撤退する戦士の数ではなく、所持する利用可能[そして]消耗したアイテムの合計数に基づいてヒットを受けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7708,6 +8484,30 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you exhaust a crafting building, you can flip it, and then flip it back over at the end of your Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211757Z" creationid="aorin" creationdate="20171215T211757Z">
+        <seg>あなたがクラフト建物を消耗させる時、これを裏返し、その後、あなたの夜が終了したら表に返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you initiate a battle, choose a clearing where you have warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221008Z" creationid="aorin" creationdate="20171215T221008Z">
+        <seg>あなたが戦闘を開始す時、自身が戦士を所持する空き地1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you take a move​, you may take any number of your warriors (or your Vagabond pawn) from one clearing and move them to one adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T215125Z" creationid="aorin" creationdate="20171215T215125Z">
+        <seg>あなたが移動する時、空き地1つから任意の数の戦士を取り（ヴァガボンドはポーン）、隣接する空き地1つへと彼らを移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a player needs to demote one of their promoted Pixies to the mine, this Tile can be used to beg the Queen for mercy.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
@@ -7740,10 +8540,26 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you build​ a building in any way, the clearing where you build it must have an open slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205029Z" creationid="aorin" creationdate="20171215T205029Z">
+        <seg>あなたが何らかの方法で建物を建築するたびに、そこに建築する空き地のスロットが開いている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
         <seg>あなたが建物を取り除くヒットをするたびに、あなたは1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When​ ​you​ ​craft​ ​an​ ​improvement,​ resolve its text, and then do the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212249Z" creationid="aorin" creationdate="20171215T212249Z">
+        <seg>改良をクラフトする時、テキストを解決し、そのあと次を行います：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,6 +8614,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are the attacker​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
+        <seg>あなたがアタッカーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can never promote a Pixie to an action field on the same or on a lower level in the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
@@ -7834,6 +8658,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041542Z" creationid="aorin" creationdate="20171213T041542Z">
         <seg>あなたはリンゴ、はちみつ、パン、シルバーを交換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot build in a clearing with no open slots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
+        <seg>空いたスロットのない空き地には建築できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7910,6 +8742,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bird, fox, rabbit, and mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205405Z" creationid="aorin" creationdate="20171215T205405Z">
+        <seg>鳥、キツネ、ウサギ、ネズミ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contrary to the action phase, during the reward phase action spaces can only be occupied by Pixies, as the Action Discs were removed at the start of the Offering phase (III).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
@@ -7954,6 +8794,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150518Z" creationid="aorin" creationdate="20171215T150518Z">
         <seg>マルキスが戦士を雇用するが、各雇用所に戦士1体を配置するだけの戦士が彼女のサプライにない場合、可能な数だけそうします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if you are prompted to spend a bird card, you cannot instead spend a card of another suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210501Z" creationid="aorin" creationdate="20171215T210501Z">
+        <seg>あなたが鳥カードを消費するよう指示された場合、あなたは別スートのカードを変わりに消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mouse, rabbit, or fox.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204451Z" creationid="aorin" creationdate="20171215T204451Z">
+        <seg>ネズミ、ウサギ、キツネ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8844,6 +9700,54 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045906Z" creationid="aorin" creationdate="20171213T045906Z">
         <seg>•または、1ゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● If you crafted an improvement with a persistent or activated​ ​effect​, turn it sideways and put it into your play area above your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T213835Z" creationid="aorin" creationdate="20171215T213814Z">
+        <seg>•永続か発動効果の改良をクラフトする場合、これを横向きに回転させ、自身の派閥ボード上のプレイエリアに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● If you crafted an improvement with an item,​ take the matching item token from the supply and put it into your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T213905Z" creationid="aorin" creationdate="20171215T213832Z">
+        <seg>•アイテムの改良をクラフトする場合、一致するアイテムトークンをサプライから取り、自身のプレイエリアに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● The Alliance exhausts Strongholds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212103Z" creationid="aorin" creationdate="20171215T212103Z">
+        <seg>•連合は砦を消耗させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● The Eyrie exhausts starred Roosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212049Z" creationid="aorin" creationdate="20171215T212049Z">
+        <seg>•鷲は星の止まり木を消耗させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● The Marquise exhausts Workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212021Z" creationid="aorin" creationdate="20171215T212021Z">
+        <seg>•マルキスは作業場を消耗させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● The Vagabond exhausts &lt;hammer&gt;, not buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212133Z" creationid="aorin" creationdate="20171215T212133Z">
+        <seg>•ヴァガボンドは建物ではなく、&lt;ハンマー&gt;を消耗させます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
