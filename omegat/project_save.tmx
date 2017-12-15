@@ -9864,6 +9864,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>● Coalition​ ​Victory:​ ​When you play this special victory card to change your victory condition, place your score marker on the faction board of the player with the fewest victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233126Z" creationid="aorin" creationdate="20171215T233126Z">
+        <seg>•合併勝利：あなたの勝利条件を変更するためにこの特別勝利条件カードをプレイした時、最も勝利点の低いプレイヤーの派閥ボードに、あなたのスコアマーカーを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● If you crafted an improvement with a persistent or activated​ ​effect​, turn it sideways and put it into your play area above your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T213835Z" creationid="aorin" creationdate="20171215T213814Z">
