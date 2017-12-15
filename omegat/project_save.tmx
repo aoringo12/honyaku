@@ -1302,6 +1302,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An​ ​improvement,​ which can be crafted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205822Z" creationid="aorin" creationdate="20171215T205822Z">
+        <seg>改良、作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apple, OR take 1 Honey, OR take 1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142647Z" creationid="nakahodo" creationdate="20171213T142647Z">
@@ -3827,6 +3835,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like with the other cards, you can spend a special victory card from your hand for its suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210043Z" creationid="aorin" creationdate="20171215T210043Z">
+        <seg>他のカードのように、自身の手札からスートを得るために特別勝利カードを消費することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line them up in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080028Z" creationid="nakahodo" creationdate="20171209T080028Z">
@@ -4217,6 +4233,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T212926Z" creationid="aorin" creationdate="20171024T212926Z">
         <seg>全てのブレンドするチームが完了すると、ボードに示されたローストランキングに従い、新しいブレンドは全てベストセラーリストの位置へと同時に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once crafted, improvements confer various bonuses and may put items​ into play for the Vagabond to take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205919Z" creationid="aorin" creationdate="20171215T205919Z">
+        <seg>作成すると、改良は様々なボーナスを与え、ヴァガボンドが使うためのアイテムをゲームに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5676,6 +5700,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132536Z" creationid="aorin" creationdate="20171215T132536Z">
         <seg>完成したゲームには、特別な2プレイヤー用シナリオを含む、様々なプレイヤー構成によるルールを含まれることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special​ ​Victory​ ​Cards.​ ​Four cards in the deck are special​ ​victory​ ​cards​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205944Z" creationid="aorin" creationdate="20171215T205944Z">
+        <seg>特別勝利カード。デッキのカード4枚は特別勝利カードとなります。</seg>
       </tuv>
     </tu>
     <tu>
