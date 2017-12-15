@@ -1676,6 +1676,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because the attacker and defender take hits simultaneously, the Vagabond can exhaust and then damage the same &lt;sword&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231636Z" creationid="aorin" creationdate="20171215T231636Z">
+        <seg>アタッカーとディフェンダーは同時にヒットを受けるので、ヴァガボンドの&lt;ソード&gt;は消耗と同時に壊れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
@@ -2536,6 +2544,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time the Vagabond takes a hit, he must damage one available item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231553Z" creationid="aorin" creationdate="20171215T231553Z">
+        <seg>ヴァガボンドがヒット1つを受けるたびに、利用可能なアイテム1つが壊れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time you take a hit, you must remove one of your warriors from the affected clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150943Z" creationid="aorin" creationdate="20171215T150943Z">
@@ -2789,8 +2805,8 @@ please see page 13.</seg>
       <tuv lang="EN-US">
         <seg>For each hit the Vagabond wishes to deal, he must exhaust a &lt;sword&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T230659Z" creationid="aorin" creationdate="20171215T230659Z">
-        <seg>ヴァガボンドが受けるヒットごとに、&lt;ソード&gt;を無視しなければならない。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231339Z" creationid="aorin" creationdate="20171215T230659Z">
+        <seg>ヴァガボンドは受けるヒットごとに、&lt;ソード&gt;を消耗しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,6 +3354,14 @@ enough to place onto the list, it is removed from play.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214013Z" creationid="aorin" creationdate="20171024T214013Z">
         <seg>何らかの理由で、新しい[または]現存のブレンドがリストへと配置するために十分ランクが高くない場合は、プレイから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If he has no available &lt;sword&gt; to exhaust, or if he chooses not to exhaust more &lt;sword&gt;, he cannot deal further hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231513Z" creationid="aorin" creationdate="20171215T231513Z">
+        <seg>彼が消耗するために利用可能な&lt;ソード&gt;がない場合、またはそれ以上の&lt;ソード&gt;を消費しないと選択した場合、ヒットを与えることはできません。</seg>
       </tuv>
     </tu>
     <tu>
