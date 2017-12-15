@@ -4227,6 +4227,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place​ ​Ruins:​ In games with the Vagabond, shuffle the ruin tokens and place one, with the item side face down, on each red-bordered slot on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133122Z" creationid="aorin" creationdate="20171215T133122Z">
+        <seg>遺跡の配置：ヴァガボンドがゲームにいる場合、遺跡トークンをシャッフルして、マップの赤い枠のスロットごとに、1つずつアイテム側を下にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Placing here allows the player to take any one Building
 or Plan from their Neighborhood and place it at the
 bottom of the Plan Deck.</seg>
@@ -6138,6 +6146,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032807Z" creationid="aorin" creationdate="20171212T032757Z">
         <seg>その後、プランサプライからプラン1枚を取り、自身の近所にこれをプランとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, shuffle the special victory cards into the deck and place it near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132946Z" creationid="aorin" creationdate="20171215T132946Z">
+        <seg>その後、特別勝利カードをデッキに含んでシャッフルし、マップ近くにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
