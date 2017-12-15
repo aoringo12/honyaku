@@ -2672,6 +2672,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Field​ ​Hospitals.​ Whenever a Marquise warrior takes a hit, the Marquise may spend any card to move the warrior to the Keep, instead of removing it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230240Z" creationid="aorin" creationdate="20171215T230240Z">
+        <seg>野戦病院。マルキスが戦闘で戦士がヒット1つを受けるたびに、これを取り除く代わりに、任意のカード1枚を消費してキープへと戦士を移動さえることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final scoring is performed in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032745Z" creationid="aorin" creationdate="20171213T032745Z">
