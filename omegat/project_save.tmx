@@ -3047,6 +3047,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hits as the Marquise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T225542Z" creationid="aorin" creationdate="20171215T225542Z">
+        <seg>マルキスのヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How dare you?!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033557Z" creationid="aorin" creationdate="20171213T033557Z">
@@ -6622,6 +6630,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123734Z" creationid="nakahodo" creationdate="20171213T123734Z">
         <seg>このアクションを選択したプレイヤーは直ちにアクションフェイズを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attacker and defender can ignore hits taken by using special abilities and other effects in their areas of play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T225528Z" creationid="aorin" creationdate="20171215T225528Z">
+        <seg>アタッカーとディフェンダーは自身のプレイエリアの特別アビリティや他の効果を使用することにより、ヒットを無視できます。</seg>
       </tuv>
     </tu>
     <tu>
