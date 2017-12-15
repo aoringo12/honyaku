@@ -784,6 +784,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A clearing is adjacent to all other clearings linked to it by a path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
+        <seg>空き地は道によってつながり他の空き地全てと隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074447Z" creationid="aorin" creationdate="20171213T074447Z">
@@ -1189,6 +1197,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113336Z" creationid="nakahodo" creationdate="20171001T113336Z">
         <seg>タイの場合、研究アクションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Almost every clearing is aligned with one forest nation​:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204444Z" creationid="aorin" creationdate="20171215T204444Z">
+        <seg>ほぼ全ての空き地は、森の民の1つが住んでいます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5919,6 +5935,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Keep of Marquise de Cat is a clearing aligned with all nations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
+        <seg>マルキス・デ・キャットのキープは全ての民が住んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Marquise also has wood​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152636Z" creationid="aorin" creationdate="20171215T152636Z">
@@ -6152,6 +6176,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131751Z" creationid="aorin" creationdate="20171215T131751Z">
         <seg>プレイ学習ガイドは砕けたトーンとたくさんのイラスト例示で記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The map of the Woodland is composed of clearings​, which are connected by a network of paths​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
+        <seg>ウッドランドのマップは空き地で構成され、道のネットワークによってつながっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7954,6 +7986,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150518Z" creationid="aorin" creationdate="20171215T150518Z">
         <seg>マルキスが戦士を雇用するが、各雇用所に戦士1体を配置するだけの戦士が彼女のサプライにない場合、可能な数だけそうします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mouse, rabbit, or fox.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204451Z" creationid="aorin" creationdate="20171215T204451Z">
+        <seg>ネズミ、ウサギ、キツネ。</seg>
       </tuv>
     </tu>
     <tu>
