@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you have two crafting buildings in a fox clearing, you may not craft two cards which require two foxes each.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211940Z" creationid="aorin" creationdate="20171215T211940Z">
+        <seg>（キツネ空き地にクラフ建物と2つを持っている場合、それぞれがキツネ2つ必要なクラフトカード2枚を作ることはできません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -2205,8 +2213,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each crafting building can be exhausted only once per turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T211704Z" creationid="aorin" creationdate="20171215T211704Z">
-        <seg>各クラフト建物はターン毎に一度のみ、消費できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211813Z" creationid="aorin" creationdate="20171215T211704Z">
+        <seg>各クラフト建物はターン毎に一度のみ、消耗できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2223,6 +2231,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205451Z" creationid="aorin" creationdate="20171215T205451Z">
         <seg>各派閥は異なる効果のために、特定スートのカードを消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction exhausts a different crafting building:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212006Z" creationid="aorin" creationdate="20171215T212006Z">
+        <seg>各派閥が消耗させるクラフト建物は異なります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7500,8 +7516,8 @@ side to place face-up on the table.</seg>
       <tuv lang="EN-US">
         <seg>To​ ​craft​ ​an​ ​improvement,​ ​you must exhaust crafting buildings of the nations shown on the improvement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T211200Z" creationid="aorin" creationdate="20171215T211047Z">
-        <seg>改良1つをクラフするには、あなたは改良の示す民のクラフト建物を消費する必要があります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211807Z" creationid="aorin" creationdate="20171215T211047Z">
+        <seg>改良1つをクラフするには、あなたは改良の示す民のクラフト建物を消耗させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7960,6 +7976,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044202Z" creationid="aorin" creationdate="20171213T044202Z">
         <seg>使用したプレイヤーは他プレイヤーに2倍提供することを宣言し、片手ではなく両手を使用して、2種類のリソースをクイーンに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you exhaust a crafting building, you can flip it, and then flip it back over at the end of your Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T211757Z" creationid="aorin" creationdate="20171215T211757Z">
+        <seg>あなたがクラフト建物を消耗させる時、これを裏返し、その後、あなたの夜が終了したら表に返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9140,6 +9164,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045906Z" creationid="aorin" creationdate="20171213T045906Z">
         <seg>•または、1ゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● The Marquise exhausts Workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T212021Z" creationid="aorin" creationdate="20171215T212021Z">
+        <seg>•マルキスは作業場を消耗させます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
