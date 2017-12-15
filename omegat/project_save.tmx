@@ -3044,6 +3044,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an effect allows you to take multiple moves, you may move the same or separate groups of warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220124Z" creationid="aorin" creationdate="20171215T220124Z">
+        <seg>効果が複数回の移動を与える場合、あなたは同じ[または]別々に戦士のグループを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any player has seven or more provided by Buildings in their Neighborhood, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030413Z" creationid="aorin" creationdate="20171212T025226Z">
