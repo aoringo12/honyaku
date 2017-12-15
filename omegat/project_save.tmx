@@ -3542,8 +3542,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Marquise de Cat, Eyrie Dynasties, Forest Alliance, Vagabond.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T133402Z" creationid="aorin" creationdate="20171215T133402Z">
-        <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133532Z" creationid="aorin" creationdate="20171215T133402Z">
+        <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,6 +4207,22 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Sawmill on the Keep, place a Recruiter on any clearing adjacent to the Keep, and place a Workshop on any other clearing adjacent to the Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133806Z" creationid="aorin" creationdate="20171215T133806Z">
+        <seg>キープに製材所を配置し、キープに隣接する任意のクリーニングに雇用所を配置し、キープに隣接する別のクリーニングに作業場を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in each clearing, including the Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133525Z" creationid="aorin" creationdate="20171215T133525Z">
+        <seg>キープを含む、クリーニングごとに、戦士1体ずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place all of your remaining Action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
@@ -4255,6 +4271,22 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093349Z" creationid="aorin" creationdate="20171212T021848Z">
         <seg>ターン順番を決定するために、小さなキューブトラックに小さなキューブをランダムに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the wood tokens near your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133710Z" creationid="aorin" creationdate="20171215T133710Z">
+        <seg>あなたの派閥ボードの近くに、木トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your Sawmills, Workshops, and Recruiters on the matching tracks of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133654Z" creationid="aorin" creationdate="20171215T133654Z">
+        <seg>あなた派閥ボードの一致するトラックに、製材所、作業場、雇用所を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4909,8 +4941,8 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>Set​ ​Up​ ​Factions:​ The players set up their factions as described below in the following order:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T133304Z" creationid="aorin" creationdate="20171215T133238Z">
-        <seg>派閥のセットアップ：以下に従い、次の順番で派閥のセットアップを行います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133530Z" creationid="aorin" creationdate="20171215T133238Z">
+        <seg>派閥のセットアップ：以下に従い、次の順番で派閥のセットアップを行います：</seg>
       </tuv>
     </tu>
     <tu>
