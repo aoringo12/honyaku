@@ -2787,6 +2787,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each hit the Vagabond wishes to deal, he must exhaust a &lt;sword&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230659Z" creationid="aorin" creationdate="20171215T230659Z">
+        <seg>ヴァガボンドが受けるヒットごとに、&lt;ソード&gt;を無視しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each player:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093204Z" creationid="aorin" creationdate="20171212T093204Z">
@@ -3031,6 +3039,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hidden.​ If defending with a single warrior, the Alliance can ignore one hit taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230609Z" creationid="aorin" creationdate="20171215T230609Z">
+        <seg>潜む。戦士1体と共に防衛する時、連合は受けるヒット1つを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hideout​ ​Loss.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230440Z" creationid="aorin" creationdate="20171215T230440Z">
@@ -3075,6 +3091,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230417Z" creationid="aorin" creationdate="20171215T225542Z">
         <seg>マルキスが受けるヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hits as the Vagabond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230616Z" creationid="aorin" creationdate="20171215T230616Z">
+        <seg>ヴァガボンドが受けるヒット</seg>
       </tuv>
     </tu>
     <tu>
