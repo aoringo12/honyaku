@@ -3067,6 +3067,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish to explore the two-player game, we advise that you play the Marquise against the Eyrie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
+        <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104712Z" creationid="aorin" creationdate="20171212T104712Z">
@@ -4956,6 +4964,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142820Z" creationid="nakahodo" creationdate="20171213T142820Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special two-player scenarios will be included in the final game, along with rules that allow for a huge range of player configurations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T132536Z" creationid="aorin" creationdate="20171215T132536Z">
+        <seg>完成したゲームには、特別な2プレイヤー用シナリオを含む、様々なプレイヤー構成によるルールを含まれることになります。</seg>
       </tuv>
     </tu>
     <tu>
