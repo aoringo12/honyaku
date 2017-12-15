@@ -1372,6 +1372,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An activated special victory card does not count against your hand size, and it cannot be removed from play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232611Z" creationid="aorin" creationdate="20171215T232540Z">
+        <seg>アクティブにされた特別勝利カードは手札の数に含まれず、ゲームからも取り除かれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -4802,6 +4810,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043918Z" creationid="aorin" creationdate="20171213T043918Z">
         <seg>一回使用タイルを使用すると、ゲームボード上の適切なスペースにこれを戻し、直ちに全てのプレイヤーに再び利用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have activated a special victory card, you cannot replace it by activating a different special victory card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232639Z" creationid="aorin" creationdate="20171215T232639Z">
+        <seg>あなたが一度特別勝利カードをアクティブにすると、別の特別勝利カードをアクティブにして取り替えることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9836,6 +9852,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045906Z" creationid="aorin" creationdate="20171213T045906Z">
         <seg>•または、1ゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Chaos​ ​Victory:​ ​During your Birdsong, you win the game immediately if every other player has 33 to 39 victory points or has activated a special victory card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232934Z" creationid="aorin" creationdate="20171215T232934Z">
+        <seg>•カオス勝利：あなたのバードソング時、他プレイヤーが33～39勝利点またはアクティブな特別勝利カードを持っていた場合に、直ちにゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
