@@ -2131,6 +2131,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each clearing has a number of slots​, shown as white and red boxes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204951Z" creationid="aorin" creationdate="20171215T204951Z">
+        <seg>各空き地は白と赤のボックスで示されるナンバースロットを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each game round consists of 5 phases:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
@@ -3491,6 +3499,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092821Z" creationid="nakahodo" creationdate="20171001T092821Z">
         <seg>3から5プレイヤーゲームでは、ベストセラーリストの古い場所はコーヒーブレンドが占めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with the Vagabond, each red-bordered slot begins covered with a ruin​ token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205111Z" creationid="aorin" creationdate="20171215T205111Z">
+        <seg>ヴァガボンドがゲームにいる場合、各赤いボーダーのスロットは遺跡トークンで覆われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6138,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The forest surrounding the map is out of play, not part of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204915Z" creationid="aorin" creationdate="20171215T204915Z">
+        <seg>マップ周囲の森はゲーム外で、マップの一部ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The four (4) Core Locations and two (2) Deed Locations are placed in a line on the table, ‘one player’ or ‘closed’ sides showing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030818Z" creationid="aorin" creationdate="20171212T030818Z">
@@ -7788,6 +7812,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you build​ a building in any way, the clearing where you build it must have an open slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205029Z" creationid="aorin" creationdate="20171215T205029Z">
+        <seg>あなたが何らかの方法で建物を建築するたびに、そこに建築する空き地のスロットが開いている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
@@ -7882,6 +7914,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041542Z" creationid="aorin" creationdate="20171213T041542Z">
         <seg>あなたはリンゴ、はちみつ、パン、シルバーを交換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot build in a clearing with no open slots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
+        <seg>空いたスロットのない空き地には建築できません。</seg>
       </tuv>
     </tu>
     <tu>
