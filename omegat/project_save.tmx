@@ -1586,6 +1586,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220940Z" creationid="aorin" creationdate="20171215T220940Z">
+        <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bean is not placed
 and Country Token
 is turned over.</seg>
@@ -1805,6 +1813,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
         <seg>鷲のリーダー4体から1体を選択し、あなたの派閥ボードにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose one player in the clearing of battle to be the defender​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221050Z" creationid="aorin" creationdate="20171215T221050Z">
+        <seg>戦闘になる空き地のプレイヤー1人を選択し、ディフェンダーとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,6 +6170,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Alliance can only move by executing appropriate conspiracies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220854Z" creationid="aorin" creationdate="20171215T220854Z">
+        <seg>連合は適切な策略を実行することによってのみ、移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Best-
 Seller List</seg>
       </tuv>
@@ -8076,6 +8100,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you initiate a battle, choose a clearing where you have warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221008Z" creationid="aorin" creationdate="20171215T221008Z">
+        <seg>あなたが戦闘を開始す時、自身が戦士を所持する空き地1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you take a move​, you may take any number of your warriors (or your Vagabond pawn) from one clearing and move them to one adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215125Z" creationid="aorin" creationdate="20171215T215125Z">
@@ -8186,6 +8218,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134717Z" creationid="aorin" creationdate="20171215T134717Z">
         <seg>ウッドランド連合のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are the attacker​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
+        <seg>あなたがアタッカーです。</seg>
       </tuv>
     </tu>
     <tu>
