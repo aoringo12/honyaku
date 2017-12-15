@@ -3473,6 +3473,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you rule the origin clearing, you may move your warriors to any​ adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T215250Z" creationid="aorin" creationdate="20171215T215250Z">
+        <seg>あなたが支配する起源の空き地の場合、任意の隣接空き地へと、あなたの戦士を移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you run
 out of Mint Tokens, try taking a few from
 the Supplier without emptying any spaces.</seg>
