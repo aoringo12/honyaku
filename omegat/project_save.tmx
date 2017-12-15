@@ -3129,6 +3129,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If wood is removed, return it to the Marquise’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150301Z" creationid="aorin" creationdate="20171215T150301Z">
+        <seg>木を取り除く場合、マルキスのサプライにこれを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in a safe house (light blue zones), you can choose to gain either an additional 1 health or 1 morale.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135007Z" creationid="nakahodo" creationdate="20171124T135007Z">
@@ -3137,10 +3145,34 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to place a building, take the leftmost building from its track on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150152Z" creationid="aorin" creationdate="20171215T150152Z">
+        <seg>建物1つ配置するように指示された場合、自身の派閥ボードの指定されたトラックにある、一番左の建物を取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to place a warrior, take it from your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145927Z" creationid="aorin" creationdate="20171215T145927Z">
         <seg>戦士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place wood, take it from the Marquise’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150247Z" creationid="aorin" creationdate="20171215T150247Z">
+        <seg>木を配置するように指示された場合、マルキスのサプライからこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place your pieces but you cannot place the total number prompted, you must place the maximum number possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150348Z" creationid="aorin" creationdate="20171215T150348Z">
+        <seg>コンポーネントを配置されるよう指示されたが配置できない場合、可能なかぎりだけ配置するようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3191,6 +3223,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
         <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your building is removed, return it to the rightmost empty space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
+        <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
