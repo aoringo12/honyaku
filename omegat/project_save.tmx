@@ -1768,6 +1768,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearings, Paths, and Forests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154440Z" creationid="aorin" creationdate="20171215T154440Z">
+        <seg>空き地、道、森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142653Z" creationid="nakahodo" creationdate="20171213T142653Z">
@@ -3635,6 +3643,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Concepts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154329Z" creationid="aorin" creationdate="20171215T154329Z">
+        <seg>主なコンセプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Terms</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150657Z" creationid="aorin" creationdate="20171215T150657Z">
@@ -3703,6 +3719,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153848Z" creationid="nakahodo" creationdate="20171103T153848Z">
         <seg>ヴァストのように、ルートでの各プレイヤーたちは独自の能力と異なる勝利条件を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like in the previous section, all roles share certain concepts which are described in this section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154428Z" creationid="aorin" creationdate="20171215T154428Z">
+        <seg>前のセクションのように、全ての役割はこのセクションで説明する特定の概念を共有します。</seg>
       </tuv>
     </tu>
     <tu>
