@@ -1574,8 +1574,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Birds​ ​Are​ ​Wild.​ ​The bird suit is wild—you can spend a bird card as any other suit, including if you must spend multiple cards of matching nation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T210409Z" creationid="aorin" creationdate="20171215T210409Z">
-        <seg>鳥はワイルド。鳥のスートはワイルド ― 合致する民のカードを複数消費しなければならない場合に、そのスートであるように鳥カードを消費できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210512Z" creationid="aorin" creationdate="20171215T210409Z">
+        <seg>鳥はワイルド。鳥のスートはワイルド ― 合致する民のカードを消費しなければならない場合に、他のスートであるように鳥カードを消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1698,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135206Z" creationid="nakahodo" creationdate="20171124T135206Z">
         <seg>カードがあなたに食料の消費を必要とする場合、まだ支払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cards​ ​Are​ ​Secret.​ ​You cannot reveal any cards in your hand to other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210549Z" creationid="aorin" creationdate="20171215T210549Z">
+        <seg>カードはヒミツ。自身の手札のカードを他プレイヤーに公開することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1895,6 +1903,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033758Z" creationid="aorin" creationdate="20171212T033324Z">
         <seg>次を含む、全てのケースで○建物2つとしてカウントします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crafting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210553Z" creationid="aorin" creationdate="20171215T210553Z">
+        <seg>クラフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -2175,6 +2191,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204951Z" creationid="aorin" creationdate="20171215T204951Z">
         <seg>各空き地は白と赤のボックスで示されるナンバースロットを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction can craft cards in their hand into improvements​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210654Z" creationid="aorin" creationdate="20171215T210654Z">
+        <seg>各派閥は自身の手札のカードで改良をクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7355,6 +7379,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This rule does not work in reverse:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210435Z" creationid="aorin" creationdate="20171215T210435Z">
+        <seg>このルールは逆には作用しません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This strategy requires you to obtain Gold and Silver, and to maintain a good position on the Silver and Gold tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101607Z" creationid="aorin" creationdate="20171212T101607Z">
@@ -8162,6 +8194,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150518Z" creationid="aorin" creationdate="20171215T150518Z">
         <seg>マルキスが戦士を雇用するが、各雇用所に戦士1体を配置するだけの戦士が彼女のサプライにない場合、可能な数だけそうします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if you are prompted to spend a bird card, you cannot instead spend a card of another suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210501Z" creationid="aorin" creationdate="20171215T210501Z">
+        <seg>あなたが鳥カードを消費するよう指示された場合、あなたは別スートのカードを変わりに消費することはできません。</seg>
       </tuv>
     </tu>
     <tu>
