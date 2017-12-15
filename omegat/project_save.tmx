@@ -2251,6 +2251,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During play, you may draw special victory cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232057Z" creationid="aorin" creationdate="20171215T231939Z">
+        <seg>プレイ中、特別勝利カードをドローできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During set-up in a game
 with 3 to 5 players, place the
 Coffee* Slate in the Stale
@@ -2348,6 +2356,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130755Z" creationid="nakahodo" creationdate="20171213T130755Z">
         <seg>しかし、次の窃盗フェイズ時は、小さなキューブトラックに一致するように大きなキューブトラックが変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During your Daylight, you may play a special victory card into your play area to activate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232123Z" creationid="aorin" creationdate="20171215T232123Z">
+        <seg>昼時、これをアクティブにするために自身のプレイエリアに特別勝利カードをプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,6 +2866,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T110856Z" creationid="nakahodo" creationdate="20171001T110856Z">
         <seg>特別な国トークンの能力と効果の詳細はページ16にある付録Aを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the rest of the game, you can only win by meeting the victory condition listed on your activated special victory card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232230Z" creationid="aorin" creationdate="20171215T232150Z">
+        <seg>残りのゲームにて、あなたは自身がアクティブにした特別勝利条件カードに記述された勝利条件に一致した時にのみ、勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5741,6 +5765,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove your score marker from the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T232147Z" creationid="aorin" creationdate="20171215T232147Z">
+        <seg>スコアトラックから自身のスコアマーカーを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing​ ​Hideouts.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152103Z" creationid="aorin" creationdate="20171215T151850Z">
@@ -6228,6 +6260,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142820Z" creationid="nakahodo" creationdate="20171213T142820Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special Victory Conditions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T231927Z" creationid="aorin" creationdate="20171215T231927Z">
+        <seg>特別勝利条件</seg>
       </tuv>
     </tu>
     <tu>
