@@ -792,6 +792,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A forest is adjacent to all clearings that touch it without crossing a path, and it is adjacent to all forests that are separated by only one path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204843Z" creationid="aorin" creationdate="20171215T204843Z">
+        <seg>森は道が通っておらずに触れている、全ての空き地に隣接しており、1つの道で隔てられている全ての森にもまた、隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074447Z" creationid="aorin" creationdate="20171213T074447Z">
@@ -1306,6 +1314,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112721Z" creationid="aorin" creationdate="20171212T112715Z">
         <seg>りんご、はちみつ、パン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Areas on the map enclosed by paths and clearings are called forests​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T204616Z" creationid="aorin" creationdate="20171215T204616Z">
+        <seg>マップ上の空き地と道で囲まれたエリアを森と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
