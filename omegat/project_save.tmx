@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, if you have 3 warriors and roll 3 hits, then add 1 hit because of a special ability, you deal 4 hits.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224758Z" creationid="aorin" creationdate="20171215T224758Z">
+        <seg>（例えば、あなたが3戦士を持ち3ヒットをロールして、その後に特別アビリティによって1ヒット追加した場合、あなたは4ヒットを与えます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -1060,6 +1068,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Added hits are not​ limited by the number of warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224708Z" creationid="aorin" creationdate="20171215T224708Z">
+        <seg>追加したヒットは戦闘地の戦士の数に制限されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
@@ -1450,6 +1466,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172942Z" creationid="aorin" creationdate="20171212T172913Z">
         <seg>最も高い位置では、報酬ポイントがもらえることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacker and defender deal hits simultaneously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T225430Z" creationid="aorin" creationdate="20171215T225430Z">
+        <seg>アタッカーとディフェンダーは同時にヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,6 +1968,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue to step 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224804Z" creationid="aorin" creationdate="20171215T224804Z">
+        <seg>ステップ4に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142653Z" creationid="nakahodo" creationdate="20171213T142653Z">
@@ -2059,6 +2091,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134813Z" creationid="nakahodo" creationdate="20171127T134813Z">
         <seg>これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deal Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T224810Z" creationid="aorin" creationdate="20171215T224810Z">
+        <seg>ヒットを与える</seg>
       </tuv>
     </tu>
     <tu>
