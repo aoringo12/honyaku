@@ -3031,6 +3031,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hideout​ ​Loss.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230440Z" creationid="aorin" creationdate="20171215T230440Z">
+        <seg>隠れ家を失う。隠れ家1つが取り除かれるたびに、連合は一致する森の民ボックスのサポーター半分（切り上げ）と、任意の策略を取り除かなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hint:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153509Z" creationid="aorin" creationdate="20171212T153509Z">
@@ -3055,10 +3063,18 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hits as the Alliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230421Z" creationid="aorin" creationdate="20171215T230412Z">
+        <seg>連合が受けるヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hits as the Marquise</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T225542Z" creationid="aorin" creationdate="20171215T225542Z">
-        <seg>マルキスのヒット</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230417Z" creationid="aorin" creationdate="20171215T225542Z">
+        <seg>マルキスが受けるヒット</seg>
       </tuv>
     </tu>
     <tu>
@@ -5979,6 +5995,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She cannot use Field Hospitals if she does not rule the Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230303Z" creationid="aorin" creationdate="20171215T230303Z">
+        <seg>彼女はキープを支配していない場合に、野戦病院は使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She pays 2 Gold to forge 1 Golden Ring, as she is not allowed to forge more than one Ring with 1 action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063230Z" creationid="aorin" creationdate="20171213T063230Z">
@@ -7594,6 +7618,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030339Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The​ ​Keep​ ​of​ ​Marquise​ ​de​ ​Cat.​ During any battle in the Keep, the Marquise can ignore one hit taken, even if retreating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T230355Z" creationid="aorin" creationdate="20171215T230355Z">
+        <seg>マルキス・デ・キャットのキープ。キープでの任意の戦闘中、マルキスは撤退するとしても、受けるヒット1つを無視できます。</seg>
       </tuv>
     </tu>
     <tu>
