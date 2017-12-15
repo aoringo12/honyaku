@@ -800,6 +800,22 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A piece is local if it is located in the same clearing as any of your pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152511Z" creationid="aorin" creationdate="20171215T152511Z">
+        <seg>ピース1つがあなたのピースと同じ空き地に位置する場合、そのピースはローカルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A piece​ of a faction is any component color-coded to it, so the Marquise’s pieces are all purple, the Alliance green, the Eyrie brown, and the Vagabond black or white.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152606Z" creationid="aorin" creationdate="20171215T152606Z">
+        <seg>派閥のピースは、その色の任意のコンポーネントです。マルキスのピースは紫、連合は緑、鷲は茶、ヴァガボンドは白です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player always has to show their opponents which cubes were taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T071344Z" creationid="aorin" creationdate="20171213T071344Z">
@@ -868,8 +884,8 @@ requires it.</seg>
       <tuv lang="EN-US">
         <seg>A player is local if any of their pieces are located in any clearing with any of your pieces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T152342Z" creationid="aorin" creationdate="20171215T152342Z">
-        <seg>自身の任意のコンポーネントが</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152433Z" creationid="aorin" creationdate="20171215T152342Z">
+        <seg>プレイヤー1人のピースがあなたのピースと共に空き地に位置する場合、そのプレイヤーはローカルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,6 +3860,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most factions have two types of pieces:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152625Z" creationid="aorin" creationdate="20171215T152619Z">
+        <seg>多くの派閥は2種のピースを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most often, players deal hits in battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151111Z" creationid="aorin" creationdate="20171215T151111Z">
@@ -4412,6 +4436,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Piece</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152513Z" creationid="aorin" creationdate="20171215T152513Z">
+        <seg>ピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pit of Oblivion</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173125Z" creationid="aorin" creationdate="20171212T173125Z">
@@ -4691,6 +4723,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033245Z" creationid="aorin" creationdate="20171212T033245Z">
         <seg>Supplierから購入したプランは、近所に建物として配置されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play Area</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152645Z" creationid="aorin" creationdate="20171215T152645Z">
+        <seg>プレイエリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -5440,6 +5480,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some rules will prompt you to place a component in your play​ ​area​, which is the area above your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153834Z" creationid="aorin" creationdate="20171215T153834Z">
+        <seg>いくつかのルールはあなたのファンクションボード上にあるプレイエリアに、コンポーネントの配置を促します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -5815,6 +5863,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Marquise also has wood​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152636Z" creationid="aorin" creationdate="20171215T152636Z">
+        <seg>マルキスはまた木も持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mint Supply is not limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071430Z" creationid="nakahodo" creationdate="20171209T071430Z">
@@ -5891,6 +5947,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
         <seg>一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond only has a pawn.​</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152643Z" creationid="aorin" creationdate="20171215T152643Z">
+        <seg>ヴァガボンドはポーンのみを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,6 +7930,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
         <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>warriors​ and buildings​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152623Z" creationid="aorin" creationdate="20171215T152623Z">
+        <seg>戦士と建物。</seg>
       </tuv>
     </tu>
     <tu>
