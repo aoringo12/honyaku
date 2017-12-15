@@ -2031,6 +2031,22 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal​ ​hits​ simultaneously.​ Then the battle ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221751Z" creationid="aorin" creationdate="20171215T221751Z">
+        <seg>お互いに同時にヒットを与えます。その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender Declares Retreat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T222422Z" creationid="aorin" creationdate="20171215T222422Z">
+        <seg>ディフェンダーが撤退を宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defender​ ​may​ ​declare​ ​retreat.​ If defender does retreat, the defender takes hits based on the number of retreating warriors, the attacker may play one ambush card to deal a hit, and then the battle ends.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221555Z" creationid="aorin" creationdate="20171215T221555Z">
@@ -5611,6 +5627,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T135911Z" creationid="nakahodo" creationdate="20171213T135911Z">
         <seg>自身のドレイがつながれている岩を取り除くプレイヤーは、パンを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roll​ ​dice​ ​and​ ​count​ ​hits​ to both attacker and defender, who can modify hits with other effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T221726Z" creationid="aorin" creationdate="20171215T221726Z">
+        <seg>ダイスをロールし、アタッカーとディフェンダー両方のヒットを数え、それに他の効果を適応します。</seg>
       </tuv>
     </tu>
     <tu>
