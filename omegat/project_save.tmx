@@ -2051,6 +2051,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Daylight, you can craft any number of cards from your hand into improvements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210924Z" creationid="aorin" creationdate="20171215T210924Z">
+        <seg>昼の間、あなたは自身の手札から任意の枚数、改良をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During set-up in a game
 with 3 to 5 players, place the
 Coffee* Slate in the Stale
@@ -3471,6 +3479,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151858Z" creationid="aorin" creationdate="20171215T151324Z">
         <seg>改良と策略もまたヒットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improvements can score you victory points, provide a persistent benefit, or give you a one-time ability that you can activate by discarding the improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210824Z" creationid="aorin" creationdate="20171215T210824Z">
+        <seg>改良は勝利点の得点、永続的な利益の提供、改良を破棄して発動する一度使用の効果などがあります。</seg>
       </tuv>
     </tu>
     <tu>
