@@ -3309,8 +3309,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>Improvements and conspiracies can also deal hits;</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T151324Z" creationid="aorin" creationdate="20171215T151324Z">
-        <seg>改革と陰謀もまたヒットします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T151858Z" creationid="aorin" creationdate="20171215T151324Z">
+        <seg>改良と策略もまたヒットします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5009,6 +5009,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
         <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達するか超えるとすぐに、あなたは直ちに昇進している妖精1体を降格させて、あなたの炭鉱へと再びドレイにさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing​ ​Hideouts.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152103Z" creationid="aorin" creationdate="20171215T151850Z">
+        <seg>隠れ家を取り除く。隠れ家1つが取り除かれるたびに、連合は一致する森の民ボックスのサポーター半分（切り上げ）と、任意の策略を取り除かなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
