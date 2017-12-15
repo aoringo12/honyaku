@@ -3057,6 +3057,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a tie between two players, no one is the ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154007Z" creationid="aorin" creationdate="20171215T154007Z">
+        <seg>これらが2人のプレイヤーの間でタイの場合、支配者はいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031811Z" creationid="aorin" creationdate="20171212T031811Z">
@@ -3731,10 +3739,26 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lone​ ​Wanderer.​ ​The Vagabond pawn is not a warrior, so he cannot be the ruler of a clearing or cause another player to cease being ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154320Z" creationid="aorin" creationdate="20171215T154320Z">
+        <seg>孤独の放浪者であるヴァガボンドのポーンは戦士ではないので、空き地の支配者になれず、別のプレイヤーが支配者になるのを止めることもできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Look into the bag</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044250Z" creationid="aorin" creationdate="20171213T044250Z">
         <seg>バッグを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lords​ ​of​ ​the​ ​Forest.​ The Eyrie is the ruler of a clearing when tied for most combined warriors and buildings there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T154138Z" creationid="aorin" creationdate="20171215T154138Z">
+        <seg>森の王である鷲は、これら空き地での建物と戦士の最大合計数でタイの場合、支配者になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6505,8 +6529,8 @@ plus the desired Location’s cost.</seg>
       <tuv lang="EN-US">
         <seg>The ruler of a clearing is the player with the most combined warriors and buildings in that clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T153903Z" creationid="aorin" creationdate="20171215T153903Z">
-        <seg>空き地のルールは</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T153945Z" creationid="aorin" creationdate="20171215T153903Z">
+        <seg>空き地の支配者は、その空き地の建物と戦士の合計で最も所持するプレイヤーです。</seg>
       </tuv>
     </tu>
     <tu>
