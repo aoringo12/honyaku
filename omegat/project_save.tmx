@@ -4687,6 +4687,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root is a game of woodland might and right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T130717Z" creationid="aorin" creationdate="20171215T130717Z">
+        <seg>ルートはウッドランドにおける、力と正義のゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root is designed by Cole Wehrle (Pax Pamir, An Infamous Traffic, and John Company) and brought to life by master illustrator Kyle Ferrin (Vast: The Crystal Caverns, Vast: The Fearsome Foes, Stitches).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T155150Z" creationid="nakahodo" creationdate="20171103T155150Z">
@@ -4916,6 +4924,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142820Z" creationid="nakahodo" creationdate="20171213T142820Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stalk the woods as the Vagabond, seize the initiative with the Eyrie birds of prey, rule over your subjects as the Marquise de Cat, or command the Woodland Alliance to create a new order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131321Z" creationid="aorin" creationdate="20171215T131321Z">
+        <seg>ヴァガボンドとして森を徘徊したり、鷲の巣からイニシアチブを握ったり、マルキス・デ・キャットとして下々を圧政し、または、ウッドランド同盟を動かし新しい秩序を生み出しましょう。</seg>
       </tuv>
     </tu>
     <tu>
