@@ -1233,6 +1233,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alliance​ ​Movement.​ ​The Alliance is uniquely restricted in its ability to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220758Z" creationid="aorin" creationdate="20171215T220758Z">
+        <seg>連合の移動。連合は移動のためのアビリティに独自の制限があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Almost every clearing is aligned with one forest nation​:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204444Z" creationid="aorin" creationdate="20171215T204444Z">
@@ -4249,6 +4257,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041822Z" creationid="aorin" creationdate="20171213T041822Z">
         <seg>シルバートラックのあなたの位置の横に、どれだけのシルバーが1ゴールドを受け取るのに必要かが示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nimble.​ The Vagabond can move into a clearing without permission, and can move into forests with Slip or when retreating from battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T220339Z" creationid="aorin" creationdate="20171215T220339Z">
+        <seg>機敏。ヴァガボンドは許可なく空き地を移動でき、スリップ時や戦闘から撤退するときに森に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
