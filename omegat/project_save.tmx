@@ -2240,6 +2240,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eyrie Dynasties Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133851Z" creationid="aorin" creationdate="20171215T133851Z">
+        <seg>鷲王のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face up Plan cards in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
@@ -4287,6 +4295,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133654Z" creationid="aorin" creationdate="20171215T133654Z">
         <seg>あなた派閥ボードの一致するトラックに、製材所、作業場、雇用所を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your score marker on the “0” space of the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T133841Z" creationid="aorin" creationdate="20171215T133841Z">
+        <seg>スコアトラックの「0」スペースにあなたのスコアマーカーを配置します。</seg>
       </tuv>
     </tu>
     <tu>
