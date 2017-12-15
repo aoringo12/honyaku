@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Not playable by the Vagabond or Marquise.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233321Z" creationid="aorin" creationdate="20171215T233321Z">
+        <seg>（ヴァガボンドまたはマルキスはプレイできない）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -1708,6 +1716,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birdsong, Daylight, and Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233415Z" creationid="aorin" creationdate="20171215T233415Z">
+        <seg>バードソング、昼、夜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birds​ ​Are​ ​Wild.​ ​The bird suit is wild—you can spend a bird card as any other suit, including if you must spend multiple cards of matching nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210512Z" creationid="aorin" creationdate="20171215T210409Z">
@@ -2544,6 +2560,14 @@ Country on the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T103328Z" creationid="nakahodo" creationdate="20171001T103328Z">
         <seg>各プレイヤーはターン順にて、ワールドマップ上の国に自身のフィールド研究者たちを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player’s turn consists of three phases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233408Z" creationid="aorin" creationdate="20171215T233408Z">
+        <seg>各プレイヤーのターンは3つのフェイズで構成されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,6 +3535,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that player wins the game, you also win.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233137Z" creationid="aorin" creationdate="20171215T233137Z">
+        <seg>そのプレイヤーがゲームに勝利した場合、あなたもまた勝利する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the AI is unable to use any Location, it chooses the Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
@@ -4468,6 +4500,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marquise de Cat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233420Z" creationid="aorin" creationdate="20171215T233420Z">
+        <seg>マルキス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marquise de Cat Setup</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133422Z" creationid="aorin" creationdate="20171215T133422Z">
@@ -4925,6 +4965,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104144Z" creationid="aorin" creationdate="20171212T104055Z">
         <seg>または、妖精のいない、ダブルアクションスペースにディスク2つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order of Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233328Z" creationid="aorin" creationdate="20171215T233328Z">
+        <seg>プレイの順番</seg>
       </tuv>
     </tu>
     <tu>
@@ -5467,6 +5515,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152645Z" creationid="aorin" creationdate="20171215T152645Z">
         <seg>プレイエリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play begins with the Marquise and then continues to the Eyrie, the Alliance, and the Vagabond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233351Z" creationid="aorin" creationdate="20171215T233351Z">
+        <seg>マルキスからプレイが始まり、その後、鷲、連合、ヴァガボンドと続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8204,6 +8260,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn Structure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233359Z" creationid="aorin" creationdate="20171215T233359Z">
+        <seg>ターン構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the leftmost face-down Round Tile face up.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T120413Z" creationid="aorin" creationdate="20171212T120413Z">
@@ -9872,6 +9936,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>● Economic​ ​Victory:​ ​During your Birdsong, you win the game immediately if you have five crafted improvements in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233227Z" creationid="aorin" creationdate="20171215T233227Z">
+        <seg>•経済勝利：あなたのバードソング時、あなたのプレイエリアにクラフトした改良が5つ以上ある場合、直ちにゲームに勝利する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● If you crafted an improvement with a persistent or activated​ ​effect​, turn it sideways and put it into your play area above your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T213835Z" creationid="aorin" creationdate="20171215T213814Z">
@@ -9884,6 +9956,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T213905Z" creationid="aorin" creationdate="20171215T213832Z">
         <seg>•アイテムの改良をクラフトする場合、一致するアイテムトークンをサプライから取り、自身のプレイエリアに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Military​ ​Victory:​ ​During your Birdsong, you win the game immediately if you rule the Keep of the Marquise de Cat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T233300Z" creationid="aorin" creationdate="20171215T233300Z">
+        <seg>•軍隊勝利：あなたのバードソング時、マルキス・デ・キャットのキープをあなたが支配している場合、直ちにゲームに勝利する。</seg>
       </tuv>
     </tu>
     <tu>
