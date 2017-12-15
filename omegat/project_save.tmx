@@ -1716,6 +1716,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birdsong</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235006Z" creationid="aorin" creationdate="20171215T235006Z">
+        <seg>早朝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong, Daylight, and Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233415Z" creationid="aorin" creationdate="20171215T233415Z">
@@ -1769,6 +1777,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142648Z" creationid="nakahodo" creationdate="20171213T142648Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235210Z" creationid="aorin" creationdate="20171215T235210Z">
+        <seg>建築</seg>
       </tuv>
     </tu>
     <tu>
@@ -1933,6 +1949,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221050Z" creationid="aorin" creationdate="20171215T221050Z">
         <seg>戦闘になる空き地のプレイヤー1人を選択し、ディフェンダーとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose whether you want to build a Sawmill, Workshop, or Recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235254Z" creationid="aorin" creationdate="20171215T235254Z">
+        <seg>建築する製材所、作業場、雇用所のいずれかを選択する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2131,6 +2155,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134813Z" creationid="nakahodo" creationdate="20171127T134813Z">
         <seg>これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235036Z" creationid="aorin" creationdate="20171215T235036Z">
+        <seg>昼</seg>
       </tuv>
     </tu>
     <tu>
@@ -4169,6 +4201,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initiate a battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235206Z" creationid="aorin" creationdate="20171215T235206Z">
+        <seg>戦闘を開始する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, take a Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173102Z" creationid="aorin" creationdate="20171212T173102Z">
@@ -4496,6 +4536,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150854Z" creationid="aorin" creationdate="20171215T150854Z">
         <seg>ルートの多くの効果は「ヒット」します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235152Z" creationid="aorin" creationdate="20171215T235152Z">
+        <seg>マーチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5349,6 +5397,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T212120Z" creationid="aorin" creationdate="20171024T212120Z">
         <seg>ベストセラーに配置されたブレンドが完了すると、各プレイヤーはスレートに自身の色のブレンドマーカー1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place one wood at each Sawmill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
+        <seg>各製材所に木1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6562,6 +6618,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042847Z" creationid="aorin" creationdate="20171213T042847Z">
         <seg>食料タイルの1番上を取り、あなのプレイヤースクリーンの前にある適切なスポットにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take two moves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235201Z" creationid="aorin" creationdate="20171215T235201Z">
+        <seg>2移動を行う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8886,6 +8950,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can take actions in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235133Z" creationid="aorin" creationdate="20171215T235133Z">
+        <seg>任意の順番でアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can trade Apples, Honey, Bread or Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041542Z" creationid="aorin" creationdate="20171213T041542Z">
@@ -8906,6 +8978,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132635Z" creationid="nakahodo" creationdate="20171127T132635Z">
         <seg>1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may take up to three actions, plus another action for each bird card you spend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
+        <seg>3アクションまで実行でき、追加で鳥カードを消費するごとに、別のアクションをおこなえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8946,6 +9026,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173441Z" creationid="aorin" creationdate="20171212T173402Z">
         <seg>あなたはもはや、存在してはならない無価値の妖精だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your possible actions are listed below:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T235143Z" creationid="aorin" creationdate="20171215T235143Z">
+        <seg>可能なアクションは次のとおりです：</seg>
       </tuv>
     </tu>
     <tu>
