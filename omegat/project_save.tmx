@@ -1572,6 +1572,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birds​ ​Are​ ​Wild.​ ​The bird suit is wild—you can spend a bird card as any other suit, including if you must spend multiple cards of matching nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210409Z" creationid="aorin" creationdate="20171215T210409Z">
+        <seg>鳥はワイルド。鳥のスートはワイルド ― 合致する民のカードを複数消費しなければならない場合に、そのスートであるように鳥カードを消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend (continued)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T094755Z" creationid="nakahodo" creationdate="20171002T094755Z">
@@ -2495,6 +2503,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094937Z" creationid="nakahodo" creationdate="20171001T094937Z">
         <seg>さらに3から4プレイヤーでのゲームプレイは、ページ13を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For details on playing these cards, see Goals​ ​and​ ​Play​ ​(page XX).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T210117Z" creationid="aorin" creationdate="20171215T210117Z">
+        <seg>これらカードをプレイする詳細については、目標とプレイを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
