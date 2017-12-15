@@ -4930,8 +4930,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Stalk the woods as the Vagabond, seize the initiative with the Eyrie birds of prey, rule over your subjects as the Marquise de Cat, or command the Woodland Alliance to create a new order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T131321Z" creationid="aorin" creationdate="20171215T131321Z">
-        <seg>ヴァガボンドとして森を徘徊したり、鷲の巣からイニシアチブを握ったり、マルキス・デ・キャットとして下々を圧政し、または、ウッドランド同盟を動かし新しい秩序を生み出しましょう。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
+        <seg>あなたは、ヴァガボンドとして森を徘徊し、いや、鷲の巣からイニシアチブを握り、はたまたマルキス・デ・キャットとして下々を圧政し、もしやもすると、ウッドランド同盟を動かし新しい秩序を生み出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7018,6 +7018,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T065329Z" creationid="nakahodo" creationdate="20171209T065329Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With creatures and cunning, you'll rule a fantastic forest kingdom in the ultimate asymmetric game of adventure and war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
+        <seg>狡猾な生き物たちとともに、冒険と戦争に彩られた究極の非対称のゲームを制し、この素晴らしい深き森の王国を支配しましょう。</seg>
       </tuv>
     </tu>
     <tu>
