@@ -4281,6 +4281,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the remaining leaders face up near your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134537Z" creationid="aorin" creationdate="20171215T134537Z">
+        <seg>残ったリーダーたちは、表向きであなたの派閥ボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the small cubes on the
 small cube track randomly to determine the
 turn order.</seg>
@@ -4323,10 +4331,26 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your Strongholds and Hideouts on the matching tracks on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T144710Z" creationid="aorin" creationdate="20171215T144710Z">
+        <seg>あなた派閥ボードの一致するトラックに、砦、隠れ家を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your score marker on the “0” space of the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133841Z" creationid="aorin" creationdate="20171215T133841Z">
         <seg>スコアトラックの「0」スペースにあなたのスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your two Loyal Vizier cards on the matching Decree spaces of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134711Z" creationid="aorin" creationdate="20171215T134711Z">
+        <seg>あなたの派閥ボードの法令スペースに一致する、王家大臣カード2枚を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7298,6 +7322,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
         <seg>狡猾な生き物たちとともに、冒険と戦争に彩られた究極の非対称のゲームを制し、この素晴らしい深き森の王国を支配しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Woodland Alliance Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T134717Z" creationid="aorin" creationdate="20171215T134717Z">
+        <seg>ウッドランド連合のセットアップ</seg>
       </tuv>
     </tu>
     <tu>
