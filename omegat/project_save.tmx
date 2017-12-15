@@ -1872,6 +1872,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cottage​ ​Industry.​ ​The Alliance score twice the victory points listed on improvements they craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T214554Z" creationid="aorin" creationdate="20171215T214554Z">
+        <seg>山小屋工場。連合は自身がクラフトした改良に記述された勝利点を二倍得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Council, Lotto.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080047Z" creationid="nakahodo" creationdate="20171209T080047Z">
@@ -4160,6 +4168,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123819Z" creationid="nakahodo" creationdate="20171213T123819Z">
         <seg>直ちに、あなたの大きなキューブをトラックの前に移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T214558Z" creationid="aorin" creationdate="20171215T214558Z">
+        <seg>移動</seg>
       </tuv>
     </tu>
     <tu>
