@@ -866,6 +866,14 @@ requires it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player is local if any of their pieces are located in any clearing with any of your pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152342Z" creationid="aorin" creationdate="20171215T152342Z">
+        <seg>自身の任意のコンポーネントが</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player is not allowed to choose an action granting them a Tile if they don’t have room available to store it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043640Z" creationid="aorin" creationdate="20171213T043640Z">
@@ -3691,6 +3699,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152137Z" creationid="aorin" creationdate="20171215T152137Z">
+        <seg>ローカル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locations containing 2</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164929Z" creationid="aorin" creationdate="20171212T164929Z">
@@ -5416,6 +5432,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some rules refer to a local​ player or piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152201Z" creationid="aorin" creationdate="20171215T152201Z">
+        <seg>一部のルールはローカルプレイヤーまたはコンポーネントを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -6578,6 +6602,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132946Z" creationid="aorin" creationdate="20171215T132946Z">
         <seg>その後、特別勝利カードをデッキに含んでシャッフルし、マップ近くにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the Alliance increases their Outrage by one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171215T152126Z" creationid="aorin" creationdate="20171215T152126Z">
+        <seg>その後、連合は暴動を1つ上昇させます。</seg>
       </tuv>
     </tu>
     <tu>
