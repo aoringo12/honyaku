@@ -2272,6 +2272,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cobbler:​ ​For the Vagabond, this improvement gives a free &lt;boot&gt; whenever he exhausts a &lt;boot&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083523Z" creationid="aorin" creationdate="20171216T083523Z">
+        <seg>靴屋：この改良は、ヴァガボンドが&lt;ブーツ&gt;を消耗させるたびに、無料で&lt;ブーツ&gt;を1つ与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commander</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003521Z" creationid="aorin" creationdate="20171216T003521Z">
@@ -4656,6 +4664,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104712Z" creationid="aorin" creationdate="20171212T104712Z">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improvement Clarifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083350Z" creationid="aorin" creationdate="20171216T083350Z">
+        <seg>改良の明確化</seg>
       </tuv>
     </tu>
     <tu>
