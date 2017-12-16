@@ -4929,6 +4929,14 @@ have the chance to choose Place or Pass again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On your turn, you will take actions using a growing set of instructions called the Decree​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001027Z" creationid="aorin" creationdate="20171216T001027Z">
+        <seg>あなたのターンにて、あなたは法令と呼ばれる増えていく命令を使用してアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a country is chosen
 no other player can choose that same Country.</seg>
       </tuv>
@@ -6906,6 +6914,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000739Z" creationid="aorin" creationdate="20171216T000739Z">
         <seg>法令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Decree has four columns, each matching one of four actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001053Z" creationid="aorin" creationdate="20171216T001053Z">
+        <seg>法令は4つの列を持ち、それぞれ4つのアクションのうち1つに一致します。</seg>
       </tuv>
     </tu>
     <tu>
