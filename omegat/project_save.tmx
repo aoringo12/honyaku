@@ -2555,6 +2555,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player draws cards equal to their own &lt;coin&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000537Z" creationid="aorin" creationdate="20171216T000537Z">
+        <seg>各プレイヤーは自身が所有する&lt;コイン&gt;と同数カードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player gains .</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030600Z" creationid="aorin" creationdate="20171212T030548Z">
@@ -2724,6 +2732,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222912Z" creationid="aorin" creationdate="20171215T222912Z">
         <seg>直ちに、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evening</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000454Z" creationid="aorin" creationdate="20171216T000454Z">
+        <seg>夜</seg>
       </tuv>
     </tu>
     <tu>
@@ -6886,6 +6902,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Decree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000739Z" creationid="aorin" creationdate="20171216T000739Z">
+        <seg>法令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Development phase repeats until all players
 consecutively pass, ending the phase.</seg>
       </tuv>
@@ -6899,6 +6923,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030306Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>開発フェイズは全てのプレイヤーが連続してパスをするまで続けられてから、終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie Dynasties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000610Z" creationid="aorin" creationdate="20171216T000610Z">
+        <seg>鷲王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie scores victory points during its Evening based on the number of Roosts on the map, by crafting some improvements, and by removing buildings owned by the other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000730Z" creationid="aorin" creationdate="20171216T000730Z">
+        <seg>鷲はマップの止まり木の数に基づき、いくつかの改良のクフラト、ほかプレイヤーが所有する建物を取り除く事により勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7876,6 +7916,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124017Z" creationid="nakahodo" creationdate="20171001T124017Z">
         <seg>その後、チームは5つの豆スペースが埋まるかチーム全員で止めると決定するまで、次の豆を引くプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you discard down to your hand limit of five cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000600Z" creationid="aorin" creationdate="20171216T000600Z">
+        <seg>その後、あなたは自身の手札上限5枚までカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
