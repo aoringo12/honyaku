@@ -2104,6 +2104,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conspire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053840Z" creationid="aorin" creationdate="20171216T053840Z">
+        <seg>策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue to step 4.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224804Z" creationid="aorin" creationdate="20171215T224804Z">
@@ -4699,6 +4707,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep Secrets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053741Z" creationid="aorin" creationdate="20171216T053741Z">
+        <seg>機密保持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep in mind that even at this point Bread can be spent to remove Rocks (see “Mine” Action).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033252Z" creationid="aorin" creationdate="20171213T033252Z">
@@ -6015,6 +6031,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play a card face down to an empty Hideout card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053815Z" creationid="aorin" creationdate="20171216T053815Z">
+        <seg>空いたカードスロットのある隠れ家に裏向きでカード1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play begins with the Marquise and then continues to the Eyrie, the Alliance, and the Vagabond.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233351Z" creationid="aorin" creationdate="20171215T233351Z">
@@ -6964,6 +6988,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053413Z" creationid="aorin" creationdate="20171216T053413Z">
         <seg>サポーター1体を消費して、一致する民の空き地にて戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend supporters equal to the cost of the conspiracy to play the card face up in the empty Hideout card slot matching the nation of the spent supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054038Z" creationid="aorin" creationdate="20171216T054038Z">
+        <seg>策略のコストに等しいだけのサポーターを消費して、そのサポーターに一致する民の空いたカードスロットを持つ隠れ家に、カード1枚を表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
