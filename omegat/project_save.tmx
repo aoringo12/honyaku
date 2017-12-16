@@ -2123,6 +2123,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft an improvement from your hand, using Roost with stars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002043Z" creationid="aorin" creationdate="20171216T002043Z">
+        <seg>星付きの止まり木を使用して、手札から改良をクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft an improvement from your hand, using Workshops.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000445Z" creationid="aorin" creationdate="20171216T000445Z">
@@ -3977,6 +3985,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot place a warrior, you fall into turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002229Z" creationid="aorin" creationdate="20171216T002229Z">
+        <seg>戦士を配置できない場合、混乱に移行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot take an action, you immediately fall into Turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001729Z" creationid="aorin" creationdate="20171216T001729Z">
@@ -4209,6 +4225,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000321Z" creationid="aorin" creationdate="20171216T000321Z">
         <seg>あなたが支配し民が一致する空き地ごとに、他プレイヤーは建物の全てを取り除き、取り除かれた建物ごとに2勝利点を得点します（通常の1勝利点の代わりに）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In each column, start with the top card and move down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002123Z" creationid="aorin" creationdate="20171216T002123Z">
+        <seg>列ごとに、一番上から始まり、下に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,10 +4780,26 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002231Z" creationid="aorin" creationdate="20171216T002231Z">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move 1 of your Pixies up 1 row.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040623Z" creationid="aorin" creationdate="20171213T040623Z">
         <seg>あなたの妖精1体を一行昇進させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move from any clearing whose nation matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002255Z" creationid="aorin" creationdate="20171216T002255Z">
+        <seg>カードスートに一致する民の任意の空き地から移動する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5483,6 +5523,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133806Z" creationid="aorin" creationdate="20171215T133806Z">
         <seg>キープに製材所を配置し、キープに隣接する任意のクリーニングに雇用所を配置し、キープに隣接する別のクリーニングに作業場を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in any clearing with a Roost whose nation matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002206Z" creationid="aorin" creationdate="20171216T002206Z">
+        <seg>カードスートに一致する民の止まり木を持つ任意の空き地に、戦士1体を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6636,6 +6684,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
         <seg>あなたは、ヴァガボンドとして森を徘徊し、いや、鷲の巣からイニシアチブを握り、はたまたマルキス・デ・キャットとして下々を圧政し、もしやもすると、ウッドランド同盟を動かし新しい秩序を生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start with the leftmost column and move right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002109Z" creationid="aorin" creationdate="20171216T002109Z">
+        <seg>一番左列から始まり、右に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7962,6 +8018,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235441Z" creationid="aorin" creationdate="20171215T235441Z">
         <seg>その後、空いたスロットがある、自身が支配する任意の空き地をを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, resolve the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002051Z" creationid="aorin" creationdate="20171216T002051Z">
+        <seg>その後、法令を解決します。</seg>
       </tuv>
     </tu>
     <tu>
