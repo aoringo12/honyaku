@@ -1805,6 +1805,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Builder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003302Z" creationid="aorin" creationdate="20171216T003302Z">
+        <seg>ビルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072046Z" creationid="nakahodo" creationdate="20171209T072046Z">
@@ -1898,6 +1906,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045814Z" creationid="aorin" creationdate="20171213T045814Z">
         <seg>カジノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charismatic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003428Z" creationid="aorin" creationdate="20171216T003428Z">
+        <seg>カリスマティック</seg>
       </tuv>
     </tu>
     <tu>
@@ -2044,6 +2060,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154440Z" creationid="aorin" creationdate="20171215T154440Z">
         <seg>空き地、道、森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commander</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003521Z" creationid="aorin" creationdate="20171216T003521Z">
+        <seg>コマンダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2375,6 +2399,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210924Z" creationid="aorin" creationdate="20171215T210924Z">
         <seg>昼の間、あなたは自身の手札から任意の枚数、改良をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During any battle as the attacker, you inflicts an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003605Z" creationid="aorin" creationdate="20171216T003605Z">
+        <seg>任意の戦闘でのアタッカー時に、追加のヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,6 +3039,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210117Z" creationid="aorin" creationdate="20171215T210117Z">
         <seg>これらカードをプレイする詳細については、目標とプレイを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each Recruit action on the Decree, you must place two warriors instead of one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003517Z" creationid="aorin" creationdate="20171216T003517Z">
+        <seg>法令の雇用アクションごとに、戦士1体の代わりに2体を配置しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7191,6 +7231,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie has four leader cards, which are described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003259Z" creationid="aorin" creationdate="20171216T003259Z">
+        <seg>鷲は下で説明される4枚のリーダーカードを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie scores victory points during its Evening based on the number of Roosts on the map, by crafting some improvements, and by removing buildings owned by the other players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000730Z" creationid="aorin" creationdate="20171216T000730Z">
@@ -9252,6 +9300,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever an improvement scores you victory points, you score double the victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
+        <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever the player wishes to demote an opposing Pixie, they do not have to pay an Apple.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133656Z" creationid="nakahodo" creationdate="20171213T133656Z">
@@ -9506,6 +9562,30 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173441Z" creationid="aorin" creationdate="20171212T173402Z">
         <seg>あなたはもはや、存在してはならない無価値の妖精だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Loyal Viziers begin on Move and Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003532Z" creationid="aorin" creationdate="20171216T003532Z">
+        <seg>あなたの王宮大臣は移動と戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Loyal Viziers begin on Recruit and Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003346Z" creationid="aorin" creationdate="20171216T003346Z">
+        <seg>あなたの王宮大臣は雇用と建築を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Loyal Viziers begin on Recruit and Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003453Z" creationid="aorin" creationdate="20171216T003453Z">
+        <seg>あなたの王宮大臣は雇用と移動を開始します。</seg>
       </tuv>
     </tu>
     <tu>
