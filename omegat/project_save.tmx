@@ -2306,6 +2306,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not perform any more Decree actions, and skip Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003224Z" creationid="aorin" creationdate="20171216T003224Z">
+        <seg>それ以上の法令は実行せず、夜へとスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not place Sloth cubes on the Shield icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141311Z" creationid="nakahodo" creationdate="20171127T141311Z">
@@ -2876,6 +2884,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032745Z" creationid="aorin" creationdate="20171213T032745Z">
         <seg>最終得点は次の順番で実行されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, end your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003138Z" creationid="aorin" creationdate="20171216T003138Z">
+        <seg>最後に、あなたのターンを終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4065,10 +4081,26 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you ever have no face-up leaders remaining, turn all of your facedown leaders face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003109Z" creationid="aorin" creationdate="20171216T003109Z">
+        <seg>残っている表向きのリーダーがいない場合、裏向きのリーダー全てを表返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you fall into turmoil, discard all of the cards in the Decree except any Loyal Viziers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002915Z" creationid="aorin" creationdate="20171216T002915Z">
         <seg>混乱になった場合、王宮大臣以外の法令のカード全てを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have no Roosts on the map, build one in any clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003131Z" creationid="aorin" creationdate="20171216T003131Z">
+        <seg>マップに止まり木がない場合、任意の空き地に1つ建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5703,6 +5735,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133710Z" creationid="aorin" creationdate="20171215T133710Z">
         <seg>あなたの派閥ボードの近くに、木トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your Loyal Viziers on the Decree spaces shown on your new leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003043Z" creationid="aorin" creationdate="20171216T003043Z">
+        <seg>新しいリーダーに示される法令スペースに王宮大臣を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,6 +8130,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235441Z" creationid="aorin" creationdate="20171215T235441Z">
         <seg>その後、空いたスロットがある、自身が支配する任意の空き地をを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, flip your current leader face down and set it aside, choose a new leader from those that remain face up and place it near your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003012Z" creationid="aorin" creationdate="20171216T003012Z">
+        <seg>その後、現在のリーダーを裏向きにして側に置き、残っている表向きの新しいリーダー1人を選択して、あなたの派閥ボード近くに配置します。</seg>
       </tuv>
     </tu>
     <tu>
