@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(From any non-negative alignment.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073957Z" creationid="aorin" creationdate="20171216T073957Z">
+        <seg>（ポジティブな協力から）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -2344,6 +2352,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T115203Z" creationid="nakahodo" creationdate="20171001T115157Z">
         <seg>作成されたブレンドは単純なポーカー基準でランク付けされ、ベストセラーリストに配置され、うまく行けば複数ラウンドで得点されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cross-chart Shifts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073923Z" creationid="aorin" creationdate="20171216T073923Z">
+        <seg>クロスチャートシフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,6 +5281,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025607Z" creationid="aorin" creationdate="20171212T025607Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negative Tasks (left side)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073723Z" creationid="aorin" creationdate="20171216T073723Z">
+        <seg>ネガティブなタスク（左側）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9942,6 +9966,22 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are now a Nemesis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073821Z" creationid="aorin" creationdate="20171216T073821Z">
+        <seg>あなたは今、敵対者となりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are now an Ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073711Z" creationid="aorin" creationdate="20171216T073700Z">
+        <seg>あなたは今、同盟者になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are the attacker​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
@@ -10090,6 +10130,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122520Z" creationid="nakahodo" creationdate="20171213T122520Z">
         <seg>あなたは自身のサプライから共通サプライへと、これらリソースを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You remain a Nemesis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073908Z" creationid="aorin" creationdate="20171216T073908Z">
+        <seg>あなたは敵対者のままです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,8 +11266,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>● Gift​ ​two​ ​cards​ ​to​ ​a​ ​player​ ​in​ ​one​ ​turn:​ Score 3 victory points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T073654Z" creationid="aorin" creationdate="20171216T073625Z">
-        <seg>•1ターンにプレイヤー1人にカード3枚を贈る：3勝利点を得点。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073714Z" creationid="aorin" creationdate="20171216T073625Z">
+        <seg>•1ターンにプレイヤー1人にカード2枚を贈る：3勝利点を得点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11252,6 +11300,38 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233300Z" creationid="aorin" creationdate="20171215T233300Z">
         <seg>•軍隊勝利：あなたのバードソング時、マルキス・デ・キャットのキープをあなたが支配している場合、直ちにゲームに勝利する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Remove​ ​1​ ​warrior​ ​in​ ​one​ ​battle:​ ​Score 2 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073938Z" creationid="aorin" creationdate="20171216T073938Z">
+        <seg>•1つの戦闘で戦士1体を取り除く：2勝利点を得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Remove​ ​one​ ​warrior​ ​in​ ​one​ ​battle:​ ​Score 2 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073757Z" creationid="aorin" creationdate="20171216T073757Z">
+        <seg>•1つの戦闘で戦士1体を取り除く：2勝利点を得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Remove​ ​two​ ​warriors​ ​in​ ​one​ ​battle:​ Score 3 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073858Z" creationid="aorin" creationdate="20171216T073858Z">
+        <seg>•1つの戦闘で戦士2体を取り除く：3勝利点を得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Steal​ ​one​ ​card:​ ​Score 1 victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073736Z" creationid="aorin" creationdate="20171216T073736Z">
+        <seg>•カード1枚を盗む：1勝利点を得点。</seg>
       </tuv>
     </tu>
     <tu>
