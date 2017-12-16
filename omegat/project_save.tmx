@@ -2563,6 +2563,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each built Hideout provides one card slot, which you can use with the Keep Secrets and Conspire actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052429Z" creationid="aorin" creationdate="20171216T052429Z">
+        <seg>カードスロット1つを持つ建築された隠れ家ごとに、あなたは機密保持と策略アクションを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each card has three uses:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205335Z" creationid="aorin" creationdate="20171215T205335Z">
@@ -3339,6 +3347,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230609Z" creationid="aorin" creationdate="20171215T230609Z">
         <seg>潜む。戦士1体と共に防衛する時、連合は受けるヒット1つを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hideout Card Slots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T045828Z" creationid="aorin" creationdate="20171216T045828Z">
+        <seg>隠れ家カードスロット</seg>
       </tuv>
     </tu>
     <tu>
