@@ -2355,6 +2355,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft an improvement from your hand, by exhausting &lt;hammer&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075722Z" creationid="aorin" creationdate="20171216T075722Z">
+        <seg>&lt;ハンマー&gt;を消耗させることにより、あなたの手札から改良1つをクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft an improvement from your hand, using Roost with stars.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002043Z" creationid="aorin" creationdate="20171216T002043Z">
@@ -3386,6 +3394,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232230Z" creationid="aorin" creationdate="20171215T232150Z">
         <seg>残りのゲームにて、あなたは自身がアクティブにした特別勝利条件カードに記述された勝利条件に一致した時にのみ、勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this move only, you may move into a forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075643Z" creationid="aorin" creationdate="20171216T075643Z">
+        <seg>この移動でのみ、あなたは森に入る移動ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5288,6 +5304,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040623Z" creationid="aorin" creationdate="20171213T040623Z">
         <seg>あなたの妖精1体を一行昇進させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move all of your exhausted items to your available items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075530Z" creationid="aorin" creationdate="20171216T075530Z">
+        <seg>あなたの消耗したアイテムを全て、利用可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8164,6 +8188,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The nation of all &lt;hammer&gt; matches your current clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075803Z" creationid="aorin" creationdate="20171216T075803Z">
+        <seg>&lt;ハンマー&gt;全ての民を、あなたが現在居る空き地に一致させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151439Z" creationid="nakahodo" creationdate="20171103T151439Z">
@@ -8778,6 +8810,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132946Z" creationid="aorin" creationdate="20171215T132946Z">
         <seg>その後、特別勝利カードをデッキに含んでシャッフルし、マップ近くにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, take one move without exhausting &lt;boot&gt;, even if you move into a space with Nemesis players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075623Z" creationid="aorin" creationdate="20171216T075619Z">
+        <seg>その後、敵対プレイヤーのいるスペースへの移動だとしても、&lt;ブーツ&gt;を消耗させることなく1移動を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10162,6 +10202,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053017Z" creationid="aorin" creationdate="20171216T053017Z">
         <seg>森の民ボックスからサポーターを消費することでアクションヲ実行でき、消費したサポーターは自身のサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take actions in any order, as described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075702Z" creationid="aorin" creationdate="20171216T075702Z">
+        <seg>任意の順番で、次に説明するアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
