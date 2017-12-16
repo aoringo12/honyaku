@@ -5513,6 +5513,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outrage increases whenever the Marquise takes the Recruit action or whenever a Hideout is removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055134Z" creationid="aorin" creationdate="20171216T055134Z">
+        <seg>暴動はマルキスがリクルートアクションを実行するたび、隠れ家が取り除かれるたびに上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over time, you will add cards to your Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001124Z" creationid="aorin" creationdate="20171216T001124Z">
@@ -7647,6 +7655,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond scores victory points by completing tasks that affect the other players, by crafting some improvements, and by removing buildings owned by the other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055640Z" creationid="aorin" creationdate="20171216T055640Z">
+        <seg>ヴァガボンドはほかプレイヤーに影響を与えるタスクを完了する、いくつかの改良をクラフトする、他プレイヤーガ所有する建物を取り除くことにより、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Woodland Alliance scores victory points by revealing some conspiracies, by crafting some improvements, and by removing buildings owned by the other players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T045821Z" creationid="aorin" creationdate="20171216T045821Z">
@@ -9286,6 +9302,14 @@ DRAGON</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131537Z" creationid="nakahodo" creationdate="20171127T131537Z">
         <seg>ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
 基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055140Z" creationid="aorin" creationdate="20171216T055140Z">
+        <seg>ヴァガボンド</seg>
       </tuv>
     </tu>
     <tu>
