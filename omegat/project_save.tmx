@@ -2287,6 +2287,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003616Z" creationid="aorin" creationdate="20171216T003616Z">
+        <seg>独裁者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determine Turn Order
 The player with the lowest score on the Performance
 Track will go first.</seg>
@@ -9348,6 +9356,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you remove an opponent’s building, you score another victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003647Z" creationid="aorin" creationdate="20171216T003647Z">
+        <seg>対戦相手の建物を取り除くたびに、あなたは別の勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When​ ​you​ ​craft​ ​an​ ​improvement,​ resolve its text, and then do the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212249Z" creationid="aorin" creationdate="20171215T212249Z">
@@ -9394,6 +9410,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
         <seg>狡猾な生き物たちとともに、冒険と戦争に彩られた究極の非対称のゲームを制し、この素晴らしい深き森の王国を支配しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Woodland Alliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003650Z" creationid="aorin" creationdate="20171216T003650Z">
+        <seg>ウッドランド連合</seg>
       </tuv>
     </tu>
     <tu>
@@ -9570,6 +9594,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003532Z" creationid="aorin" creationdate="20171216T003532Z">
         <seg>あなたの王宮大臣は移動と戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Loyal Viziers begin on Move and Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003625Z" creationid="aorin" creationdate="20171216T003625Z">
+        <seg>あなたの王宮大臣は移動と建築を開始します。</seg>
       </tuv>
     </tu>
     <tu>
