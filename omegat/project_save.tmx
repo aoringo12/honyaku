@@ -8784,6 +8784,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To place a card in a Hideout card slot, its matching Hideout must be on the map, and the slot must not have a card in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052603Z" creationid="aorin" creationdate="20171216T052603Z">
+        <seg>隠れ家のカードスロットにカードを配置するには、それに一致する隠れ家マップに必要で、配置するカードにスロットがあってはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To vote, each player
 takes the Blend/Research Token in their hand and secretly chooses a
 side to place face-up on the table.</seg>
