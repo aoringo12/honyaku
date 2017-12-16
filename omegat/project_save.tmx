@@ -2274,6 +2274,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard down to your hand limit of four cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002820Z" creationid="aorin" creationdate="20171216T002820Z">
+        <seg>自身の手札上限4枚までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discarding Tiles (regardless of the type) is forbidden.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043723Z" creationid="aorin" creationdate="20171213T043723Z">
@@ -4053,6 +4061,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132052Z" creationid="nakahodo" creationdate="20171127T132052Z">
         <seg>あなたが他プレイヤーのいるスペースに入るか、プレイヤー1人があなたのスペースに入ったら自動的に攻撃が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you fall into turmoil, discard all of the cards in the Decree except any Loyal Viziers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002915Z" creationid="aorin" creationdate="20171216T002915Z">
+        <seg>混乱になった場合、王宮大臣以外の法令のカード全てを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6463,6 +6479,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Score the victory points shown below the rightmost empty space on your roost track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002756Z" creationid="aorin" creationdate="20171216T002756Z">
+        <seg>止まり木トラックの最も右にある空いたスペースに示される勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Separate the 90
 coffee beans by color and place them in piles as noted
 on the bottom of the World Map, arranged by Color
@@ -8680,6 +8704,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T091720Z" creationid="aorin" creationdate="20171116T091720Z">
         <seg>彼を信じ、シェリリンとTCはまずクリスのブレンドを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turmoil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002823Z" creationid="aorin" creationdate="20171216T002823Z">
+        <seg>混乱</seg>
       </tuv>
     </tu>
     <tu>
