@@ -2864,6 +2864,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effect​ ​location.​ ​In general, the Hideout slot of your conspiracy does not limit where you can resolve an effect.​ ​The conspiracy will state whether you must resolve its effect at the matching Hideout or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054438Z" creationid="aorin" creationdate="20171216T054438Z">
+        <seg>効果の場所。基本的に、隠れ家スロットの策略は効果の解決に制限はありません。策略は</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effect​ ​resolution.​ ​You can resolve the effects of the conspiracy in any order, unless otherwise noted, and you can choose which effects to resolve.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054250Z" creationid="aorin" creationdate="20171216T054250Z">
+        <seg>効果の解決。別途記載がないかぎり、任意の順序で策略の効果を解決でき、解決する効果を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Either 1 disc on a circular action space with room to place only</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141404Z" creationid="nakahodo" creationdate="20171213T141404Z">
@@ -6443,6 +6459,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030433Z" creationid="aorin" creationdate="20171212T030433Z">
         <seg>全ての「アップキープ」効果を持つ建物を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolve the conspiracy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054100Z" creationid="aorin" creationdate="20171216T054043Z">
+        <seg>策略の解決します。</seg>
       </tuv>
     </tu>
     <tu>
