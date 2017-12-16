@@ -3967,6 +3967,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no Ally warriors remain, you take further hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075036Z" creationid="aorin" creationdate="20171216T075036Z">
+        <seg>残っている同盟戦士たちがいない場合、あなたが以降のヒットを受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no available items remain to damage, the Vagabond may damage an exhausted item.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231707Z" creationid="aorin" creationdate="20171215T231707Z">
@@ -5353,6 +5361,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071812Z" creationid="nakahodo" creationdate="20171209T071812Z">
         <seg>近所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nemesis Penalties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075134Z" creationid="aorin" creationdate="20171216T075134Z">
+        <seg>敵対者ペナルティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9900,6 +9916,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you take hits, you must first remove Ally warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075018Z" creationid="aorin" creationdate="20171216T075018Z">
+        <seg>あなたがヒットを受ける時、あなたはまず、戦闘地の同盟戦士を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a player needs to demote one of their promoted Pixies to the mine, this Tile can be used to beg the Queen for mercy.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
@@ -9984,6 +10008,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074407Z" creationid="aorin" creationdate="20171216T074407Z">
         <seg>派閥の協力マーカーが協力チャートの友好的に最終スペースにいる間、その派閥は同盟です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While a faction’s alignment marker is on the final two negative spaces of the alignment chart, that faction is a Nemesis​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075239Z" creationid="aorin" creationdate="20171216T075239Z">
+        <seg>派閥の協力マーカーが協力チャートの最終2つのネガティブスペースにある間、その派閥とは敵対しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10138,6 +10170,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132635Z" creationid="nakahodo" creationdate="20171127T132635Z">
         <seg>1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot use Steal on an Ally!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075127Z" creationid="aorin" creationdate="20171216T075127Z">
+        <seg>あなたは同盟に窃盗を使用することはできません！</seg>
       </tuv>
     </tu>
     <tu>
