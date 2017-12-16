@@ -1797,6 +1797,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build a Roost in any clearing you rule whose nation matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002355Z" creationid="aorin" creationdate="20171216T002355Z">
+        <seg>カードスートに一致する民の任意の空き地で止まり木を建築する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072046Z" creationid="nakahodo" creationdate="20171209T072046Z">
@@ -3985,10 +3993,34 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot build a Roost, you fall into turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002413Z" creationid="aorin" creationdate="20171216T002413Z">
+        <seg>止まり木を建築できない場合、混乱に移行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot initiate a battle, you fall into turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002343Z" creationid="aorin" creationdate="20171216T002343Z">
+        <seg>戦闘を開始できない場合、混乱に移行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot move at least one warrior, you fall into turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002321Z" creationid="aorin" creationdate="20171216T002321Z">
+        <seg>少なくとも戦士1体を移動できない場合、混乱に移行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot place a warrior, you fall into turmoil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T002229Z" creationid="aorin" creationdate="20171216T002229Z">
-        <seg>戦士を配置できない場合、混乱に移行する。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002307Z" creationid="aorin" creationdate="20171216T002229Z">
+        <seg>戦士1体を配置できない場合、混乱に移行する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4337,6 +4369,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initiate a battle in any clearing whose nation matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002334Z" creationid="aorin" creationdate="20171216T002334Z">
+        <seg>カードスートに一致する民の任意の空き地で戦闘を開始する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initiate a battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235206Z" creationid="aorin" creationdate="20171215T235206Z">
@@ -4455,6 +4495,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114845Z" creationid="nakahodo" creationdate="20171001T114845Z">
         <seg>ベストセラーリストトップにブレンドを作成するためにチームで協力する時間です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jealous​ ​Fiefs.​ You can only have one Roost per clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002653Z" creationid="aorin" creationdate="20171216T002653Z">
+        <seg>縄張り意識。あなたは空き地ごとに止まり木1つのみ持てます。</seg>
       </tuv>
     </tu>
     <tu>
