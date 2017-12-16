@@ -861,6 +861,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;PNP Note:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075248Z" creationid="aorin" creationdate="20171216T075248Z">
+        <seg>&lt;PNP注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;Print-and-Play Note:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224128Z" creationid="aorin" creationdate="20171215T224128Z">
@@ -8849,6 +8857,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These penalties stack, so moving into a clearing with two Nemesis factions will cost a total of three &lt;boot&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075500Z" creationid="aorin" creationdate="20171216T075500Z">
+        <seg>これらペナルティはスタックしますので、2つの敵対派閥がいる空き地に移動するなら合計コストは3&lt;ブーツ&gt;になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These powers cannot affect items in the Dragon’s current space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135056Z" creationid="nakahodo" creationdate="20171127T135056Z">
@@ -9255,6 +9271,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210435Z" creationid="aorin" creationdate="20171215T210435Z">
         <seg>このルールは逆には作用しません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This still might be named “Hostile” on the faction board.&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075312Z" creationid="aorin" creationdate="20171216T075312Z">
+        <seg>派閥ボード上では「敵対的」と名付けられるかもしれません&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,6 +10258,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001804Z" creationid="aorin" creationdate="20171216T001804Z">
         <seg>法令に鳥カード1枚か、鳥ではないカード2枚をプレイする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must spend another &lt;boot&gt; to move into a clearing with any pieces owned by a Nemesis faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075416Z" creationid="aorin" creationdate="20171216T075416Z">
+        <seg>あなたは敵対派閥が所有するピースのいる空き地に移動する時、別の&lt;ブーツ&gt;を消費しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
