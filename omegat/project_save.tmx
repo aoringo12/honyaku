@@ -4465,6 +4465,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you move any Ally warriors with you, you do not gain the benefit of your Nimble special ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074627Z" creationid="aorin" creationdate="20171216T074627Z">
+        <seg>あなたが任意の同盟戦士とともに移動する場合、あなたは機敏特別アビリティからの利益を得ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you remove your last building from a clearing, you must also discard one improvement from your play area, if able.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151636Z" creationid="aorin" creationdate="20171215T151636Z">
@@ -4593,6 +4601,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
         <seg>その後に続く全てのターンにて、ネガティブアクションらは実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In any battle against a non-Ally defender, you may treat Ally warriors in the clearing of battle as your own, even warriors from multiple Ally factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074817Z" creationid="aorin" creationdate="20171216T074817Z">
+        <seg>非同盟のディフェンダーに対しての戦闘では、複数の同盟の戦士であっても、戦闘地にいる同盟戦士たちをあなたが所有しているものとして扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8096,6 +8112,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
         <seg>ウッドランドのマップは空き地で構成され、道のネットワークによってつながっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum hits you can deal by rolling equals the number of Ally warriors there, but you can increase your maximum hits by exhausting &lt;sword&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074953Z" creationid="aorin" creationdate="20171216T074953Z">
+        <seg>あなたがロールによって与える事のできるヒットの最大数は、そこにいる同盟戦士の数と等しいですが、&lt;ソード&gt;を消耗することでこの最大数を上昇させることができます。</seg>
       </tuv>
     </tu>
     <tu>
