@@ -1156,6 +1156,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting Alignment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073304Z" creationid="aorin" creationdate="20171216T073304Z">
+        <seg>協力の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After Blending, each player receives 1 RP to distribute on
 their own Research Lab Ability Tracks!</seg>
       </tuv>
@@ -1554,6 +1562,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132624Z" creationid="aorin" creationdate="20171215T132624Z">
         <seg>派閥を割り当てる：任意の方法を使用して、各プレイヤー1人の派閥を割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At any given time, this chart will hold an alignment marker from each faction in play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073207Z" creationid="aorin" creationdate="20171216T073207Z">
+        <seg>いつでも、このチャートにはゲームに参加している各派閥の協力マーカーを保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9374,6 +9390,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use a warrior cube from each other player as an alignment marker&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073259Z" creationid="aorin" creationdate="20171216T073259Z">
+        <seg>協力マーカーとして、各他プレイヤーから戦士キューブ1つを使用します&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use this Tile to perform a double offer during one of the subsequent offering phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141933Z" creationid="nakahodo" creationdate="20171213T141835Z">
@@ -9828,6 +9852,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you fulfill the task listed on a black arrow connecting your current alignment space to another alignment space, you score the listed victory points and move your alignment marker to the connected space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073427Z" creationid="aorin" creationdate="20171216T073427Z">
+        <seg>あなたの現在の協力スペースから別の協力スペースに接続される黒い矢印に記述されたタスクを達成すると、記述された勝利点を得点し、接続されたスペースに協力マーカーを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you remove an opponent’s building, you score another victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003647Z" creationid="aorin" creationdate="20171216T003647Z">
@@ -10114,6 +10146,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052656Z" creationid="aorin" creationdate="20171216T052656Z">
         <seg>あなたの派閥ボードには3つの森の民ボックスがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your faction board shows an alignment chart composed of many alignment boxes connected by black arrows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073123Z" creationid="aorin" creationdate="20171216T073123Z">
+        <seg>あなたの派閥ボードには、黒い矢印で結ばれた多くの協力ボックスで構成される協力チャートがあります。</seg>
       </tuv>
     </tu>
     <tu>
