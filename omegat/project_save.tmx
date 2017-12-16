@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Draw these cards in addition to your draw on the Marquise’s turn.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052943Z" creationid="aorin" creationdate="20171216T052943Z">
+        <seg>（これらカードのドローに加えて、マルキスターンにもカードをドローします。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Ensure that you place the Hideout matching the chosen clearing.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144823Z" creationid="aorin" creationdate="20171215T144823Z">
@@ -2567,6 +2575,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090913Z" creationid="nakahodo" creationdate="20170924T090913Z">
         <seg>各スタータースレートは特定色の5つの豆の行を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each action lists its cost in supporters, which must come from the same forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053154Z" creationid="aorin" creationdate="20171216T053154Z">
+        <seg>各アクションは、同じ森の民ボックスから消費する必要があるサポーターのコストを記述しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8262,6 +8278,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, draw cards as indicated by your Outrage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052918Z" creationid="aorin" creationdate="20171216T052918Z">
+        <seg>その後、暴動に示されるだけカードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, flip your current leader face down and set it aside, choose a new leader from those that remain face up and place it near your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003012Z" creationid="aorin" creationdate="20171216T003012Z">
@@ -9538,6 +9562,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140745Z" creationid="nakahodo" creationdate="20171127T140745Z">
         <seg>ターン毎にプライド全体から1つのキューブのみを取り除くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take actions by spending supporters from a forest nation box, returning spent supporters to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053017Z" creationid="aorin" creationdate="20171216T053017Z">
+        <seg>森の民ボックスからサポーターを消費することでアクションヲ実行でき、消費したサポーターは自身のサプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
