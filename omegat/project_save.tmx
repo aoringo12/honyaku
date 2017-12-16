@@ -6380,6 +6380,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Positive Tasks (right side)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073552Z" creationid="aorin" creationdate="20171216T073552Z">
+        <seg>ポジティブなタスク（右側）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Positive actions are optional, whereas negative actions must be performed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T103822Z" creationid="nakahodo" creationdate="20171001T103822Z">
@@ -10142,6 +10150,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your alignment shifts for removing warriors in battle regardless of whether you are the attacker or defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073541Z" creationid="aorin" creationdate="20171216T073541Z">
+        <seg>あなたの協力は戦闘時にあなたがアタッカーかディフェンダーかに関わらず、戦闘を取り除くことにより調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your faction board has three forest nation boxes:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052656Z" creationid="aorin" creationdate="20171216T052656Z">
@@ -11188,6 +11204,30 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233227Z" creationid="aorin" creationdate="20171215T233227Z">
         <seg>•経済勝利：あなたのバードソング時、あなたのプレイエリアにクラフトした改良が5つ以上ある場合、直ちにゲームに勝利する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Gift​ ​one​ ​card​ ​to​ ​a​ ​player​ ​in​ ​one​ ​turn:​ ​Score 1 victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073630Z" creationid="aorin" creationdate="20171216T073616Z">
+        <seg>•1ターンにプレイヤー1人にカード1枚を贈る：1勝利点を得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Gift​ ​two​ ​cards​ ​to​ ​a​ ​player​ ​in​ ​one​ ​turn:​ Score 3 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073654Z" creationid="aorin" creationdate="20171216T073625Z">
+        <seg>•1ターンにプレイヤー1人にカード3枚を贈る：3勝利点を得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Gift​ ​two​ ​cards​ ​to​ ​a​ ​player​ ​in​ ​one​ ​turn:​ ​Score 2 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073633Z" creationid="aorin" creationdate="20171216T073625Z">
+        <seg>•1ターンにプレイヤー1人にカード2枚を贈る：2勝利点を得点。</seg>
       </tuv>
     </tu>
     <tu>
