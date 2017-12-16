@@ -1430,6 +1430,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any warriors in your forest nation boxes are called supporters​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052722Z" creationid="aorin" creationdate="20171216T052722Z">
+        <seg>これら森の民ボックスにいる戦士をサポーターと呼びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An​ ​improvement,​ which can be crafted.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205822Z" creationid="aorin" creationdate="20171215T205822Z">
@@ -3509,6 +3517,22 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134100Z" creationid="nakahodo" creationdate="20171127T134100Z">
         <seg>炎の壁がプレイヤーが既に存在するスペースに配置された場合、彼らがそのタイルから出てまた入るまで影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a Hideout is removed, also remove half (rounded up) of the supporters in the matching forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052810Z" creationid="aorin" creationdate="20171216T052810Z">
+        <seg>隠れ家が取り除かれる場合、それに一致する森の民ボックスのサポーターの半分（切り上げ）を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a Hideout is removed, discard any card in the matching Hideout card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052641Z" creationid="aorin" creationdate="20171216T052641Z">
+        <seg>隠れ家取り除かれる場合、隠れ家に配置されたカードも捨て札にされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,6 +6391,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return all conspiracies on Hideout card slots to your hand (both face-up and facedown cards).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052903Z" creationid="aorin" creationdate="20171216T052903Z">
+        <seg>隠れ家カードスロットの策略全てをあなたの手札に戻します（表も裏も両方）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return all on Locations to the Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
@@ -6925,6 +6957,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052643Z" creationid="aorin" creationdate="20171216T052643Z">
+        <seg>サポーター</seg>
       </tuv>
     </tu>
     <tu>
@@ -9654,6 +9694,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your faction board has three forest nation boxes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052656Z" creationid="aorin" creationdate="20171216T052656Z">
+        <seg>あなたの派閥ボードには3つの森の民ボックスがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your possible actions are listed below:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235143Z" creationid="aorin" creationdate="20171215T235143Z">
@@ -9770,6 +9818,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041633Z" creationid="aorin" creationdate="20171213T041633Z">
         <seg>オリアナは共通サプライにリンゴ5つを置き、共通サプライから5シルバーを取る交換をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rabbit, fox, and mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T052703Z" creationid="aorin" creationdate="20171216T052703Z">
+        <seg>ウサギ、キツネ、ネズミ。</seg>
       </tuv>
     </tu>
     <tu>
