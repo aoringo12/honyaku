@@ -6633,8 +6633,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Roger​ ​the​ ​Raccoon:​ ​When you use the Steal action, you are considered to have one more available &lt;sword&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T061235Z" creationid="aorin" creationdate="20171216T061235Z">
-        <seg>ラクーン了解：あなたが窃盗アクションを使用した時、利用可能な&lt;ソード&gt;をさらに1つ所持しているとみなされます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T062222Z" creationid="aorin" creationdate="20171216T061235Z">
+        <seg>&lt;&lt;ラクーン了解&gt;&gt;：あなたが窃盗アクションを使用した時、利用可能な&lt;ソード&gt;をさらに1つ所持しているとみなされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8720,8 +8720,8 @@ either the Place or Pass action.</seg>
       <tuv lang="EN-US">
         <seg>The​ ​Crafting​ ​Beaver:​ ​You can spend a &lt;torch&gt; to build a building of your current clearing’s ruler.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T062137Z" creationid="aorin" creationdate="20171216T062137Z">
-        <seg>働き者のビーバー：&lt;トーチ&gt;を消費することで、あなたが現在いる空き地の支配者の建物を建築できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T062217Z" creationid="aorin" creationdate="20171216T062137Z">
+        <seg>建築家のビーバー：&lt;トーチ&gt;を消費することで、あなたが現在いる空き地の支配者の建物を建築できます。</seg>
       </tuv>
     </tu>
     <tu>
