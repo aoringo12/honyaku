@@ -4197,6 +4197,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In each column, you take one action per card in the column, and you must take that action in the clearing nation matching the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001652Z" creationid="aorin" creationdate="20171216T001652Z">
+        <seg>各列にて、列にあるカード1枚ごとに1つのアクションができ、カードスートに一致する民の空き地でアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games of 3 to 6 players, countries that are flipped to the ● side
 cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
