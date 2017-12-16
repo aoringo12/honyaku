@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(From end of negative side.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074300Z" creationid="aorin" creationdate="20171216T074300Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From end of positive side.) ● Remove​ ​one​ ​warrior​ ​in​ ​one​ ​battle:​ ​Score 2 victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074256Z" creationid="aorin" creationdate="20171216T074203Z">
@@ -1413,6 +1421,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220758Z" creationid="aorin" creationdate="20171215T220758Z">
         <seg>連合の移動。連合は移動のためのアビリティに独自の制限があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ally Benefits and Penalties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074313Z" creationid="aorin" creationdate="20171216T074313Z">
+        <seg>同盟者の利益とペナルティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9760,6 +9776,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When moving from one clearing to another by exhausting &lt;boot&gt;, you may move any number of Ally warriors along with you, even warriors from multiple Ally factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074545Z" creationid="aorin" creationdate="20171216T074545Z">
+        <seg>&lt;ブーツ&gt;を消耗させて1つの空き地から別へと移動する時、複数の同盟の戦士たちであっても、あなたと共にいる同盟戦士の数だけ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When performing a Mining action, choose the first 2 cubes from the bag.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141954Z" creationid="nakahodo" creationdate="20171213T141954Z">
@@ -9928,6 +9952,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212249Z" creationid="aorin" creationdate="20171215T212249Z">
         <seg>改良をクラフトする時、テキストを解決し、そのあと次を行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While a faction’s alignment marker is on the final friendly space of the alignment chart, that faction is an Ally​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074407Z" creationid="aorin" creationdate="20171216T074407Z">
+        <seg>派閥の協力マーカーが協力チャートの友好的に最終スペースにいる間、その派閥は同盟です。</seg>
       </tuv>
     </tu>
     <tu>
