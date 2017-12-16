@@ -4683,6 +4683,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Item Tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072724Z" creationid="aorin" creationdate="20171216T072724Z">
+        <seg>アイテムトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s allowed to move a Pixie to such an empty spot even if there is 1 Action Disc on the spot next to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040902Z" creationid="aorin" creationdate="20171213T040902Z">
