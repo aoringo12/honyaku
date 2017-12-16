@@ -3373,6 +3373,14 @@ track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For every Nemesis faction in the destination clearing, you must exhaust another &lt;boot&gt; in order to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075905Z" creationid="aorin" creationdate="20171216T075905Z">
+        <seg>移動目的の空き地にいる敵対派閥ごとに、あなたは別の&lt;ブーツ&gt;を消耗させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, whenever there is no longer a Single Use Tile available at an action spot, a player is not allowed to copy the action which grants that Single Use Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122354Z" creationid="nakahodo" creationdate="20171213T122354Z">
@@ -3512,6 +3520,15 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142701Z" creationid="nakahodo" creationdate="20171213T142701Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Give any number of cards matching your current clearing to a local player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T082111Z" creationid="aorin" creationdate="20171216T082111Z">
+        <seg>贈り物
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -10162,6 +10179,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
         <seg>あなたがアタッカーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can exhaust a &lt;boot&gt; to move to an adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T075821Z" creationid="aorin" creationdate="20171216T075821Z">
+        <seg>&lt;ブーツ&gt;を消耗させて、隣接空き地1つに移動します。</seg>
       </tuv>
     </tu>
     <tu>
