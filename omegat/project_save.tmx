@@ -4217,6 +4217,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incite Mob</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000101Z" creationid="aorin" creationdate="20171216T000101Z">
+        <seg>殺到する群衆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initiate a battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235206Z" creationid="aorin" creationdate="20171215T235206Z">
@@ -5425,6 +5433,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place one warrior at each Recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000015Z" creationid="aorin" creationdate="20171216T000015Z">
+        <seg>各雇用所に戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place one wood at each Sawmill.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
@@ -5913,6 +5929,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083012Z" creationid="nakahodo" creationdate="20171211T083012Z">
         <seg>報酬ポイントを集めながら、クイーンからのペナルティポイントをできるだけ少なく受け取りようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recruit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000005Z" creationid="aorin" creationdate="20171216T000005Z">
+        <seg>雇用所</seg>
       </tuv>
     </tu>
     <tu>
@@ -6476,6 +6500,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205944Z" creationid="aorin" creationdate="20171215T205944Z">
         <seg>特別勝利カード。デッキのカード4枚は特別勝利カードとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend three cards of matching nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000140Z" creationid="aorin" creationdate="20171216T000140Z">
+        <seg>一致する民のカード3枚を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7790,6 +7822,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, the Alliance increases its Outrage by one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000030Z" creationid="aorin" creationdate="20171216T000030Z">
+        <seg>その後、連合は暴動を1つ上昇させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, the Alliance increases their Outrage by one.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152126Z" creationid="aorin" creationdate="20171215T152126Z">
@@ -9018,6 +9058,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132635Z" creationid="nakahodo" creationdate="20171127T132635Z">
         <seg>1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not lose victory points for returning a building to your faction board, and you still score victory points when you build a building that was previously returned to your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
+        <seg>自身の派閥ボードに建物を戻すことによって勝利点は失わず、以前に派閥ボードに戻した建物を建築した時はまた勝利点を得点できます。</seg>
       </tuv>
     </tu>
     <tu>
