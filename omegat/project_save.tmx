@@ -1284,6 +1284,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083024Z" creationid="aorin" creationdate="20171216T083024Z">
+        <seg>援助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alignment</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073037Z" creationid="aorin" creationdate="20171216T073037Z">
@@ -4514,6 +4522,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have more available &lt;sword&gt; than that player’s local warriors, take a random card from that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083002Z" creationid="aorin" creationdate="20171216T083002Z">
+        <seg>そのプレイヤーのローカル戦士数を越えて、より多くの利用可能な&lt;ソード&gt;を持っている場合、そのプレイヤーからランダムにカード1枚を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have no Roosts on the map, build one in any clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003131Z" creationid="aorin" creationdate="20171216T003131Z">
@@ -4862,6 +4878,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235206Z" creationid="aorin" creationdate="20171215T235206Z">
         <seg>戦闘を開始する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initiate a local battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T082803Z" creationid="aorin" creationdate="20171216T082803Z">
+        <seg>ローカル戦闘を開始する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5361,6 +5385,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002255Z" creationid="aorin" creationdate="20171216T002255Z">
         <seg>カードスートに一致する民の任意の空き地から移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move one damaged item to your exhausted items pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T082830Z" creationid="aorin" creationdate="20171216T082830Z">
+        <seg>壊れたアイテム1つを、あなたの消耗したアイテムプールに移動させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6766,6 +6798,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repair</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T082805Z" creationid="aorin" creationdate="20171216T082805Z">
+        <seg>修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat this process until a Pixie is sent to the mines or it reaches the Queen’s Favorite, who doesn’t have to send a Pixie to the mines.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125705Z" creationid="aorin" creationdate="20171212T125705Z">
@@ -7417,6 +7457,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T082832Z" creationid="aorin" creationdate="20171216T082832Z">
+        <seg>窃盗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steal Food</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040449Z" creationid="aorin" creationdate="20171213T040449Z">
@@ -7617,6 +7665,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target a local player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T082837Z" creationid="aorin" creationdate="20171216T082837Z">
+        <seg>地元プレイヤーを対象にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123522Z" creationid="nakahodo" creationdate="20171213T123522Z">
@@ -7719,6 +7775,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055102Z" creationid="aorin" creationdate="20171216T055102Z">
         <seg>連合は現在の暴動に従って早朝時にカードドローのボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alliance places one supporter in the forest nation box matching your current clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083115Z" creationid="aorin" creationdate="20171216T083115Z">
+        <seg>連合は、あなたが現在居る空き地に一致する森の民ボックスに、サポーターを1体配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8859,6 +8923,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075623Z" creationid="aorin" creationdate="20171216T075619Z">
         <seg>その後、敵対プレイヤーのいるスペースへの移動だとしても、&lt;ブーツ&gt;を消耗させることなく1移動を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, that player scores 1 victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083013Z" creationid="aorin" creationdate="20171216T083013Z">
+        <seg>その後、そのプレイヤーは1勝利点得点します。</seg>
       </tuv>
     </tu>
     <tu>
