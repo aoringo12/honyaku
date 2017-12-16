@@ -4619,6 +4619,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T003228Z" creationid="aorin" creationdate="20171216T003228Z">
+        <seg>リーダーたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave the small cube track untouched.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123831Z" creationid="nakahodo" creationdate="20171213T123831Z">
