@@ -2866,8 +2866,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Effect​ ​location.​ ​In general, the Hideout slot of your conspiracy does not limit where you can resolve an effect.​ ​The conspiracy will state whether you must resolve its effect at the matching Hideout or not.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T054438Z" creationid="aorin" creationdate="20171216T054438Z">
-        <seg>効果の場所。基本的に、隠れ家スロットの策略は効果の解決に制限はありません。策略は</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054714Z" creationid="aorin" creationdate="20171216T054438Z">
+        <seg>効果の場所。基本的に、隠れ家スロットの策略は効果の解決をする場所に制限がありません。策略は一致する隠れ家で効果を解決する必要があるかどうかを示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7109,6 +7109,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052643Z" creationid="aorin" creationdate="20171216T052643Z">
         <seg>サポーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporter​ ​nation.​ ​The supporters you spend do not need to match the card suit of the conspiracy played.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054758Z" creationid="aorin" creationdate="20171216T054758Z">
+        <seg>サポーターの民。あなたが消費するサポーターは、プレイする策略のカードすーとに一致している必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
