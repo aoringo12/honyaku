@@ -7344,6 +7344,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That building’s owner cannot stop you from building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072720Z" creationid="aorin" creationdate="20171216T072720Z">
+        <seg>その建物の所有者はあなたの建築を止めることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That player is declared the winner.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040427Z" creationid="aorin" creationdate="20171213T040427Z">
@@ -9906,6 +9914,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164411Z" creationid="aorin" creationdate="20171212T164411Z">
         <seg>昇進するための空いたアクションスペースがない、そのアクションスペースに興味がある、妖精たちを交換して対戦相手を困らせたいと思うならば、そうすると良いでしょう・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must follow that faction’s rules for building a building, but you do not have to spend wood to build a Marquise building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072659Z" creationid="aorin" creationdate="20171216T072659Z">
+        <seg>あなたは建築する建物の派閥ルールにしたがう必要がありますが、マルキスの建物を建築するのに木を消費する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
