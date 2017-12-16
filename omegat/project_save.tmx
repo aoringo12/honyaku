@@ -2107,6 +2107,22 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000420Z" creationid="aorin" creationdate="20171216T000420Z">
+        <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft an improvement from your hand, using Workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000445Z" creationid="aorin" creationdate="20171216T000445Z">
+        <seg>作業場を使用してあなたの手札から改良1つをクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crafting</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210553Z" creationid="aorin" creationdate="20171215T210553Z">
@@ -2583,6 +2599,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043419Z" creationid="aorin" creationdate="20171213T043319Z">
         <seg>各プレイヤースクリーンは3種の異なるタイルのスペースを1つずつのみ、持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player who removed any buildings draws cards equal to the number of their own buildings removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000401Z" creationid="aorin" creationdate="20171216T000401Z">
+        <seg>任意の建物をを取除かれた各プレイヤーは、取り除かれた自身の建物と同数のカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4129,6 +4153,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064610Z" creationid="aorin" creationdate="20171213T064610Z">
         <seg>鉱山にドレイがいない場合、プレイヤーは1キューブのみ取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In each clearing of matching nation that you rule, remove all buildings of other players, and score 2 victory points per building removed (instead of 1 victory point, as normal).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000321Z" creationid="aorin" creationdate="20171216T000321Z">
+        <seg>あなたが支配し民が一致する空き地ごとに、他プレイヤーは建物の全てを取り除き、取り除かれた建物ごとに2勝利点を得点します（通常の1勝利点の代わりに）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9066,6 +9098,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
         <seg>自身の派閥ボードに建物を戻すことによって勝利点は失わず、以前に派閥ボードに戻した建物を建築した時はまた勝利点を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may Craft without spending an action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
+        <seg>あなたはアクション1つを消費せずにクラフトができます。</seg>
       </tuv>
     </tu>
     <tu>
