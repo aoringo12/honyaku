@@ -1438,6 +1438,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any supporters left in forest nation boxes at the end of Daylight remain for future turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053244Z" creationid="aorin" creationdate="20171216T053244Z">
+        <seg>昼の終わりに森の民ボックスに残ったサポーターは、次のターン以降へと持ち越されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any warriors in your forest nation boxes are called supporters​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052722Z" creationid="aorin" creationdate="20171216T052722Z">
@@ -2175,6 +2183,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002043Z" creationid="aorin" creationdate="20171216T002043Z">
         <seg>星付きの止まり木を使用して、手札から改良をクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft an improvement from your hand, using Strongholds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053430Z" creationid="aorin" creationdate="20171216T053430Z">
+        <seg>砦を使用してあなたの手札から改良1つをクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6904,10 +6920,34 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend one supporter and one card to draw one card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053338Z" creationid="aorin" creationdate="20171216T053338Z">
+        <seg>サポーター1体とカード1枚を消費して、カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend one supporter to initiate a battle in a clearing of matching nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053413Z" creationid="aorin" creationdate="20171216T053413Z">
+        <seg>サポーター1体を消費して、一致する民の空き地にて戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend three cards of matching nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000140Z" creationid="aorin" creationdate="20171216T000140Z">
         <seg>一致する民のカード3枚を消費します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053247Z" creationid="aorin" creationdate="20171216T053247Z">
+        <seg>スパイ</seg>
       </tuv>
     </tu>
     <tu>
