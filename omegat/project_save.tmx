@@ -789,6 +789,46 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Bag&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072915Z" creationid="aorin" creationdate="20171216T072915Z">
+        <seg>&lt;バッグ&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Boot&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072806Z" creationid="aorin" creationdate="20171216T072806Z">
+        <seg>&lt;ブーツ&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Coin&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073002Z" creationid="aorin" creationdate="20171216T073002Z">
+        <seg>&lt;コイン&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Crossbow&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072834Z" creationid="aorin" creationdate="20171216T072834Z">
+        <seg>&lt;クロスボウ&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Hammer&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072817Z" creationid="aorin" creationdate="20171216T072817Z">
+        <seg>&lt;ハンマー&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;Print-and-Play Note:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224128Z" creationid="aorin" creationdate="20171215T224128Z">
@@ -1184,6 +1224,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222757Z" creationid="aorin" creationdate="20171215T222749Z">
         <seg>ディファンダーがヒットを受けた後、アタッカーはその戦闘地に一致するアンブッシュカード1枚をプレイして、不可避なヒット1を直ちに与えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073037Z" creationid="aorin" creationdate="20171216T073037Z">
+        <seg>協力</seg>
       </tuv>
     </tu>
     <tu>
@@ -1913,6 +1961,38 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T134924Z" creationid="nakahodo" creationdate="20171124T134924Z">
         <seg>キャンプはヘルスと士気を同時に回復し、特定のスキルと装備の使用を許可します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can exhaust as part of Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072829Z" creationid="aorin" creationdate="20171216T072829Z">
+        <seg>クラフトの一部で消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can exhaust to Battle, Repair, Steal, Aid, or Explore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072757Z" creationid="aorin" creationdate="20171216T072757Z">
+        <seg>戦闘、修理、窃盗、援助、探索で消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can exhaust to Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072812Z" creationid="aorin" creationdate="20171216T072812Z">
+        <seg>移動で消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can exhaust to inflict a hit when you or your enemy retreats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072906Z" creationid="aorin" creationdate="20171216T072906Z">
+        <seg>あなたかあなたの敵が撤退する時に、ヒットを負わせるために消耗できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3753,6 +3833,22 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T124131Z" creationid="aorin" creationdate="20171212T124131Z">
         <seg>提供できていた場合、クイーンは満足し、報酬フェイズ（Ⅳ）が開始されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If available during the Marquise’s Birdsong, you draw another card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T073020Z" creationid="aorin" creationdate="20171216T073020Z">
+        <seg>マルキスの早朝時に利用可能な場合、別のカード1枚をドローできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If available during your Evening, your hand size is two cards higher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T072954Z" creationid="aorin" creationdate="20171216T072954Z">
+        <seg>あなたの夜に利用可能な場合、あなたの手札上限が2枚上昇します。</seg>
       </tuv>
     </tu>
     <tu>
