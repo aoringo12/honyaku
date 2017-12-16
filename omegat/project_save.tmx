@@ -40,8 +40,24 @@
       <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T073957Z" creationid="aorin" creationdate="20171216T073957Z">
-        <seg>（ポジティブな協力から）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
+        <seg>（任意のポジティブな協力の位置から）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(From end of positive side.) ● Remove​ ​one​ ​warrior​ ​in​ ​one​ ​battle:​ ​Score 2 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074256Z" creationid="aorin" creationdate="20171216T074203Z">
+        <seg>•1つの戦闘で戦士1体を取り除く：2勝利点を得点（ネガティブ側の最後から）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(From the first negative alignment.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074111Z" creationid="aorin" creationdate="20171216T074111Z">
+        <seg>（最初のネガティブな協力の位置から）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3028,6 +3044,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222912Z" creationid="aorin" creationdate="20171215T222912Z">
         <seg>直ちに、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End-of-Side Tasks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074124Z" creationid="aorin" creationdate="20171216T074124Z">
+        <seg>終了側のタスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -11256,10 +11280,26 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>● Gift​ ​one​ ​card:​ ​Score 2 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074232Z" creationid="aorin" creationdate="20171216T074138Z">
+        <seg>•カード1枚を贈る：2勝利点を得点。（ポジティブ側の最後から）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● Gift​ ​one​ ​card​ ​to​ ​a​ ​player​ ​in​ ​one​ ​turn:​ ​Score 1 victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073630Z" creationid="aorin" creationdate="20171216T073616Z">
         <seg>•1ターンにプレイヤー1人にカード1枚を贈る：1勝利点を得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● Gift​ ​two​ ​cards​ ​to​ ​a​ ​player:​ ​Score 2 victory points, and move to second positive alignment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T074043Z" creationid="aorin" creationdate="20171216T074043Z">
+        <seg>•プレイヤー1人にカード2枚を贈る：2勝利点を得点し、2番めのポジティブ協力に移動する。</seg>
       </tuv>
     </tu>
     <tu>
