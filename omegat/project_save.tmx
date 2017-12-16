@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Bird cards are wild, so you can spend one to place a supporter in any forest nation box.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053626Z" creationid="aorin" creationdate="20171216T053626Z">
+        <seg>（鳥カードはワイルドなので、鳥1枚消費にて、森の民ボックスに任意のサポーター1体を配置できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Draw these cards in addition to your draw on the Marquise’s turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052943Z" creationid="aorin" creationdate="20171216T052943Z">
@@ -2836,6 +2844,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141327Z" creationid="nakahodo" creationdate="20171213T141327Z">
         <seg>各ターン、各プレイヤーはターン順番で、1[または]2アクションディスクを使用して、直ちに1アクションを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Educate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053452Z" creationid="aorin" creationdate="20171216T053452Z">
+        <seg>教育</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,6 +6928,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend a bird card and one supporter to place a warrior in any clearing whose nation matches the spent supporter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053732Z" creationid="aorin" creationdate="20171216T053732Z">
+        <seg>鳥カード1枚とサポーター1体を消費して、そのサポーターに一致する民の任意の空き地へと、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend a fox, rabbit, or mouse card to place a supporter in the matching forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053544Z" creationid="aorin" creationdate="20171216T053544Z">
+        <seg>キツネ、ウサギ、マウスいずれかのカード1枚を消費して、一致する森の民ボックスにサポーターを1人配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend any card in order to move a card of matching suit from one column of the Decree to the end of another column.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002021Z" creationid="aorin" creationdate="20171216T002021Z">
@@ -8646,6 +8678,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This action does not cost supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053444Z" creationid="aorin" creationdate="20171216T053444Z">
+        <seg>このアクションにサポーターのコストは必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This action temporarily makes you ‘the Queen’s Favorite’ during the remainder of the Action phase, the next Reward phase and the next Penalty phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T124007Z" creationid="nakahodo" creationdate="20171213T124007Z">
@@ -8943,6 +8983,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041529Z" creationid="aorin" creationdate="20171213T041529Z">
         <seg>1種類7つまでのリソースを、同じ数の異なる1種類のリソースに交換することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Train</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T053633Z" creationid="aorin" creationdate="20171216T053633Z">
+        <seg>訓練</seg>
       </tuv>
     </tu>
     <tu>
