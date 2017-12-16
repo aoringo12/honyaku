@@ -6631,6 +6631,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roger​ ​the​ ​Raccoon:​ ​When you use the Steal action, you are considered to have one more available &lt;sword&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T061235Z" creationid="aorin" creationdate="20171216T061235Z">
+        <seg>ラクーン了解：あなたが窃盗アクションを使用した時、利用可能な&lt;ソード&gt;をさらに1つ所持しているとみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll Dice and Count Hits</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223905Z" creationid="aorin" creationdate="20171215T223905Z">
@@ -9310,6 +9318,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055140Z" creationid="aorin" creationdate="20171216T055140Z">
         <seg>ヴァガボンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond Card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055643Z" creationid="aorin" creationdate="20171216T055643Z">
+        <seg>ヴァガボンドカード</seg>
       </tuv>
     </tu>
     <tu>
