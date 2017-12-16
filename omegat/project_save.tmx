@@ -2554,6 +2554,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard down to your hand limit, equal to your &lt;bag&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083306Z" creationid="aorin" creationdate="20171216T083306Z">
+        <seg>自身の手札上限である&lt;バッグ&gt;と同数まで、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discarding Tiles (regardless of the type) is forbidden.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043723Z" creationid="aorin" creationdate="20171213T043723Z">
@@ -3172,6 +3180,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075459Z" creationid="aorin" creationdate="20171213T075459Z">
         <seg>ゲームボード上のタイルと交換する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083214Z" creationid="aorin" creationdate="20171216T083214Z">
+        <seg>探索</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,6 +4398,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150301Z" creationid="aorin" creationdate="20171215T150301Z">
         <seg>木を取り除く場合、マルキスのサプライにこれを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are in a forest, move all of your damaged items to your exhausted items pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083341Z" creationid="aorin" creationdate="20171216T083341Z">
+        <seg>あなたが森にいる場合、あなたの壊れたアイテム全てを、消耗したアイテムプールに移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7599,6 +7623,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take one local ruin token, reveal it, and place it in your exhausted items pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083237Z" creationid="aorin" creationdate="20171216T083237Z">
+        <seg>トーカルの遺跡トークン1つを鳥、これを公開し、自身の消耗したアイテムプールにこれを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the appropriate</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043955Z" creationid="aorin" creationdate="20171213T043955Z">
@@ -8969,6 +9001,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, you score 1 victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083127Z" creationid="aorin" creationdate="20171216T083127Z">
+        <seg>その後、あなたは1勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are a couple of ways in which you can prevent having to demote a Pixie:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032033Z" creationid="aorin" creationdate="20171213T032033Z">
@@ -10307,6 +10347,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041957Z" creationid="aorin" creationdate="20171213T041957Z">
         <seg>あなたが必要なシルバーの延べ棒を支払えるなら、複数回ゴールドの延べ棒にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can only use this action while you are in a clearing with a Hideout.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T083212Z" creationid="aorin" creationdate="20171216T083212Z">
+        <seg>あなたは隠れ家がある空き地にいる間でのみ、このアクションを使用できる。</seg>
       </tuv>
     </tu>
     <tu>
