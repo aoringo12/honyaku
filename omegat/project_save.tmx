@@ -2896,6 +2896,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you may Reform and Craft any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001854Z" creationid="aorin" creationdate="20171216T001854Z">
+        <seg>まず、任意の回数リフォームとクラスができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142601Z" creationid="nakahodo" creationdate="20171213T142601Z">
@@ -3965,6 +3973,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150607Z" creationid="aorin" creationdate="20171215T150607Z">
         <seg>コンポーネントを取り除く指示をされたが、その数だけ取り除けない場合、可能な限り取り除くようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot take an action, you immediately fall into Turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001729Z" creationid="aorin" creationdate="20171216T001729Z">
+        <seg>アクションを実行できない場合、直ちに混乱に移行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6045,6 +6061,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reform</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001856Z" creationid="aorin" creationdate="20171216T001856Z">
+        <seg>リフォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regardless of the phase in which it happens, whenever your score marker reaches or passes a slave symbol on the score track you immediately have to demote a promoted Pixie, which then becomes a slave in your mine again.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
@@ -6588,6 +6612,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205944Z" creationid="aorin" creationdate="20171215T205944Z">
         <seg>特別勝利カード。デッキのカード4枚は特別勝利カードとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend any card in order to move a card of matching suit from one column of the Decree to the end of another column.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T002021Z" creationid="aorin" creationdate="20171216T002021Z">
+        <seg>法令の列1つから、別の列の最後へとカード1枚を移動させるために、それに一致するカード1枚を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9206,6 +9238,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may play each card to the end of any of the four columns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001835Z" creationid="aorin" creationdate="20171216T001835Z">
+        <seg>各カード、4列のいずれか最後にプレイしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may take up to three actions, plus another action for each bird card you spend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
@@ -9218,6 +9258,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164411Z" creationid="aorin" creationdate="20171212T164411Z">
         <seg>昇進するための空いたアクションスペースがない、そのアクションスペースに興味がある、妖精たちを交換して対戦相手を困らせたいと思うならば、そうすると良いでしょう・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must play one bird card or one or two non-bird cards to the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001804Z" creationid="aorin" creationdate="20171216T001804Z">
+        <seg>法令に鳥カード1枚か、鳥ではないカード2枚をプレイする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
