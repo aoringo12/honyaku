@@ -1076,6 +1076,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add new cards on top of cards already in a column.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001211Z" creationid="aorin" creationdate="20171216T001211Z">
+        <seg>新しいカードは既に列にあるカードの上に追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Added hits are not​ limited by the number of warriors in the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224708Z" creationid="aorin" creationdate="20171215T224708Z">
@@ -2820,6 +2828,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
         <seg>プレイヤーの近所に表向きになっているプランカードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fan the cards in a column down, so all of the card suits are visible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001335Z" creationid="aorin" creationdate="20171216T001335Z">
+        <seg>列の下のカードを扇状にして、カード全てのスートが見えるようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,6 +5157,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223858Z" creationid="aorin" creationdate="20171215T223858Z">
         <seg>そうでないなら、直ちに戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over time, you will add cards to your Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001124Z" creationid="aorin" creationdate="20171216T001124Z">
+        <seg>ゲームが進むに連れて、法令にカードが追加されていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9210,6 +9234,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032858Z" creationid="aorin" creationdate="20171213T032858Z">
         <seg>スコアトラックにある今の位置から、あなたの報酬ポイントのカウントが始まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will end Daylight by running the Decree, performing the actions shown by its four columns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T001432Z" creationid="aorin" creationdate="20171216T001432Z">
+        <seg>法令を実行して昼が終了し、4列で示されるアクションを実行します。</seg>
       </tuv>
     </tu>
     <tu>
