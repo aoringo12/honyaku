@@ -1829,6 +1829,22 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build Hideout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054805Z" creationid="aorin" creationdate="20171216T054805Z">
+        <seg>隠れ家の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Stronghold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054852Z" creationid="aorin" creationdate="20171216T054852Z">
+        <seg>砦の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build a Roost in any clearing you rule whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002355Z" creationid="aorin" creationdate="20171216T002355Z">
@@ -5857,6 +5873,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place one supporter in each forest nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054947Z" creationid="aorin" creationdate="20171216T054947Z">
+        <seg>各森の民ボックスにサポーターを1体配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place one warrior at each Recruiter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000015Z" creationid="aorin" creationdate="20171216T000015Z">
@@ -7032,6 +7056,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend three supporters to build a Stronghold in a clearing you rule of matching nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054932Z" creationid="aorin" creationdate="20171216T054932Z">
+        <seg>サポーター3体を消費して、一致する民のあなたが支配する空き地に砦を建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two supporters to build a Hideout and place a warrior in a clearing of matching nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T054846Z" creationid="aorin" creationdate="20171216T054846Z">
+        <seg>サポーター2体を消費して、一致する民の空き地に隠れ家を建築し、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spy</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053247Z" creationid="aorin" creationdate="20171216T053247Z">
@@ -7354,6 +7394,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Alliance gains bonus card draws during Birdsong according to their current Outrage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055102Z" creationid="aorin" creationdate="20171216T055102Z">
+        <seg>連合は現在の暴動に従って早朝時にカードドローのボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Best-
 Seller List</seg>
       </tuv>
@@ -7507,6 +7555,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031015Z" creationid="aorin" creationdate="20171212T031015Z">
         <seg>ミントトークン全てをプランサプライ近くに配置してミントサプライを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Outrage Track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055017Z" creationid="aorin" creationdate="20171216T055017Z">
+        <seg>暴動トラック</seg>
       </tuv>
     </tu>
     <tu>
@@ -8410,6 +8466,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235441Z" creationid="aorin" creationdate="20171215T235441Z">
         <seg>その後、空いたスロットがある、自身が支配する任意の空き地をを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, discard down to your hand limit of two cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T055013Z" creationid="aorin" creationdate="20171216T055013Z">
+        <seg>その後、自身の手札上限である2枚までカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
