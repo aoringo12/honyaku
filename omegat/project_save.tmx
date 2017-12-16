@@ -8718,6 +8718,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The​ ​Crafting​ ​Beaver:​ ​You can spend a &lt;torch&gt; to build a building of your current clearing’s ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171216T062137Z" creationid="aorin" creationdate="20171216T062137Z">
+        <seg>働き者のビーバー：&lt;トーチ&gt;を消費することで、あなたが現在いる空き地の支配者の建物を建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The​ ​Keep​ ​of​ ​Marquise​ ​de​ ​Cat.​ During any battle in the Keep, the Marquise can ignore one hit taken, even if retreating.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230355Z" creationid="aorin" creationdate="20171215T230355Z">
