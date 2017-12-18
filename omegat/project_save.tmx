@@ -751,10 +751,26 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145045Z" creationid="nakahodo" creationdate="20171218T145045Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145112Z" creationid="nakahodo" creationdate="20171218T145112Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,6 +796,14 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T065758Z" creationid="nakahodo" creationdate="20171209T065758Z">
         <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145316Z" creationid="nakahodo" creationdate="20171218T145316Z">
+        <seg>4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,11 +842,27 @@ look something like the diagram above.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145402Z" creationid="nakahodo" creationdate="20171218T145402Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6
 KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071756Z" creationid="nakahodo" creationdate="20171209T071756Z">
         <seg>キーワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145606Z" creationid="nakahodo" creationdate="20171218T145606Z">
+        <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1892,6 +1932,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before Game 1, the general supply should contain 36 coins, 72 resource tokens, and 5 random face-up advancement cards on the mat (extra cards fonm a face-down deck on the mat).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145040Z" creationid="nakahodo" creationdate="20171218T145040Z">
+        <seg>ゲーム1の前、基本サプライにはコイン36枚、リソーストークン72個、マットに発展カードをランダムに表向きに配置された5枚が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
@@ -2586,6 +2634,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determine the first player by rolling the Charterstone until it shows an active charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145605Z" creationid="nakahodo" creationdate="20171218T145605Z">
+        <seg>チャーターストーンがアクティブなキャラクターを出現させるまで、ダイスロールにてファーストプレイやーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard down to your hand limit of four cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002820Z" creationid="aorin" creationdate="20171216T002820Z">
@@ -3256,6 +3312,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIRST PLAYER:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145408Z" creationid="nakahodo" creationdate="20171218T145408Z">
+        <seg>ファーストプレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face up Plan cards in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
@@ -3557,6 +3621,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144626Z" creationid="nakahodo" creationdate="20171218T144626Z">
         <seg>基本サプライ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUIDEPOST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145346Z" creationid="nakahodo" creationdate="20171218T145346Z">
+        <seg>指標：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,6 +5768,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OBJECTIVE MAT:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145053Z" creationid="nakahodo" creationdate="20171218T145053Z">
+        <seg>目標マット：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OVERVIEW</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
@@ -6002,6 +6082,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PERSONAL SUPPLY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145655Z" creationid="nakahodo" creationdate="20171218T145655Z">
+        <seg>個人サプライ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PLACE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073320Z" creationid="nakahodo" creationdate="20171209T073320Z">
@@ -6030,6 +6118,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094324Z" creationid="nakahodo" creationdate="20171001T094236Z">
         <seg>人気評価</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROGRESS TOKEN:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145135Z" creationid="nakahodo" creationdate="20171218T145135Z">
+        <seg>進展トークン：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6416,6 +6512,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133710Z" creationid="aorin" creationdate="20171215T133710Z">
         <seg>あなたの派閥ボードの近くに、木トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place this on the space of the progress track that corresponds with the player count (e.g., 2p equals 2 players)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145315Z" creationid="nakahodo" creationdate="20171218T145315Z">
+        <seg>プレイヤー人数に一致する、進展トラックのスペースにこれを配置します（例えば、2プレイヤーなら2Pに等しい）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7044,6 +7148,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
         <seg>ロケーションにある●を全てをミントサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal 3 random objective cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145112Z" creationid="nakahodo" creationdate="20171218T145112Z">
+        <seg>目標カード2枚をランダムに公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9182,6 +9294,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031219Z" creationid="aorin" creationdate="20171212T031219Z">
         <seg>ただし、いくつかの例外があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no guidepost in Game 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145401Z" creationid="nakahodo" creationdate="20171218T145401Z">
+        <seg>ゲーム1には指標はありません。</seg>
       </tuv>
     </tu>
     <tu>
