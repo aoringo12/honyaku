@@ -277,3 +277,5 @@ infiuence token	影響トークン
 advancement mat	発展マット
 peel	皮をむく
 crate	木箱
+OCCUPIED	占領された
+finite	有限
