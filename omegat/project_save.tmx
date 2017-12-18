@@ -6904,6 +6904,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playe1 lurn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165158Z" creationid="nakahodo" creationdate="20171218T165158Z">
+        <seg>プレイヤー1のターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player Scaling</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
