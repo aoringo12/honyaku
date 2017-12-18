@@ -6418,6 +6418,22 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay any 1 resource to gain $1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191314Z" creationid="nakahodo" creationdate="20171218T191302Z">
+        <seg>$1得るために、任意のリソース1つを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay any 1「esourceand $1 to gain 1 card from the advancement mat (face down or face up).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T193641Z" creationid="nakahodo" creationdate="20171218T193641Z">
+        <seg>発展マットからカード1枚（裏向き、または表向き）を得るために、任意のリソース1つを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay one (1) fewer when building Plans
 at the Builder.</seg>
       </tuv>
@@ -6463,6 +6479,14 @@ at the Builder.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142849Z" creationid="nakahodo" creationdate="20171213T142819Z">
         <seg>特別な提供トラックの場所で指定されたリソースを支払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay糾and2 influence tokens to unlock a crate (on a constructed building card).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191104Z" creationid="nakahodo" creationdate="20171218T190930Z">
+        <seg>（建築した建物カードにある）木箱1つを開放するために、$4と2影響トークンを支払います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,6 +6641,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131349Z" creationid="nakahodo" creationdate="20171213T131349Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 influence token on an objective card you've completed to score 5 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191241Z" creationid="nakahodo" creationdate="20171218T191214Z">
+        <seg>5VPを得点するために、あなたの完了した目標カード1枚に影響トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12072,6 +12104,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• CHARTERSTONE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T190653Z" creationid="nakahodo" creationdate="20171218T190653Z">
+        <seg>•チャーターストーン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Choose a third colour for a Dummy Player and place 5</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131458Z" creationid="nakahodo" creationdate="20171213T131303Z">
@@ -12108,6 +12148,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044217Z" creationid="aorin" creationdate="20171213T044217Z">
         <seg>•食料とシルバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GRANDSTAND:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191202Z" creationid="nakahodo" creationdate="20171218T191052Z">
+        <seg>•グランドスタンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -12188,6 +12236,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150242Z" creationid="nakahodo" creationdate="20171218T150112Z">
         <seg>•制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• MARKET:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191319Z" creationid="nakahodo" creationdate="20171218T191319Z">
+        <seg>•市場：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12388,6 +12444,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093822Z" creationid="aorin" creationdate="20171212T093822Z">
         <seg>18.最後手番のプレイヤーから始まり（ターン順番トラックに従って）、各プレイヤーはボードから永続能力タイル1枚を選択し、自身のプレイヤースクリーンにあるシンボルと一致する、適切なフィールドへとこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• TREASURY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191305Z" creationid="nakahodo" creationdate="20171218T191216Z">
+        <seg>•銀行：</seg>
       </tuv>
     </tu>
     <tu>
