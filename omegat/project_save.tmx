@@ -3027,6 +3027,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player has 12 influence tokens to use on objective cards, the quota track, the reputation track, and elsewhere.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150238Z" creationid="nakahodo" creationdate="20171218T145927Z">
+        <seg>各プレイヤーは目標カード、ノルマトラック、評判トラック、その他の場所に使用するため、12の影響トークンを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player has 3 Blend Markers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214557Z" creationid="aorin" creationdate="20171024T214557Z">
@@ -3039,6 +3047,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144116Z" creationid="nakahodo" creationdate="20171213T144116Z">
         <seg>各プレイヤーはラウンドごとに一回、このアクションを実行するための個人アクションスペースを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player is limited to 12 infiuence tokens per game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150255Z" creationid="nakahodo" creationdate="20171218T150255Z">
+        <seg>各プレイヤーはゲームごとに12影響トークンに制限されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3462,6 +3478,14 @@ Bold Blend of white beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095343Z" creationid="nakahodo" creationdate="20171002T095343Z">
         <seg>例えば、黒豆のBoldブレンドは白豆のBoldブレンドよりもランクが高いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Game 1 only, each player starts with $4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145931Z" creationid="nakahodo" creationdate="20171218T145912Z">
+        <seg>rゲーム1でのみ、書くプレイヤーは＄4から始まります。r</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,6 +4223,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If infiuence is listed as a cost (e.g., to use a building), discard an infiuence token to the general supply unless the building's benefit indicates a specific use of the infiuence token (e.g.,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150851Z" creationid="nakahodo" creationdate="20171218T150610Z">
+        <seg>コストに影響が記述されている場合（例えば、建物を使用するには~）、影響トークンの使用に関して建物の効果で支持されない限り、共通サプライに影響トークンを捨てます（例えば、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it is not possible to completely fill the
 Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
@@ -4788,6 +4820,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you run out of infiuence tokens, you cannot take actions that「equi「e them,and from then on you must advance the progress token at the start of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150526Z" creationid="nakahodo" creationdate="20171218T150526Z">
+        <seg>影響トークンを使い果たした場合、影響トークンが必要なアクションができず、それ以降、あなたのターン開始時に進展トークンを進める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to promote your Pixie to a space that is already occupied by another Pixie, you need to pay an Apple to the general supply in order to first demote that Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164110Z" creationid="aorin" creationdate="20171212T164110Z">
@@ -5062,6 +5102,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000101Z" creationid="aorin" creationdate="20171216T000101Z">
         <seg>殺到する群衆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Influence Tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145915Z" creationid="nakahodo" creationdate="20171218T145915Z">
+        <seg>影響トークン</seg>
       </tuv>
     </tu>
     <tu>
@@ -5870,6 +5918,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once an infiuence token is placed, it cannot be moved or removed until the game ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150609Z" creationid="nakahodo" creationdate="20171218T150609Z">
+        <seg>影響トークンが配置されると、ゲームが終わるまで移動したり取り除かれたりされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once crafted, improvements confer various bonuses and may put items​ into play for the Vagabond to take.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205919Z" creationid="aorin" creationdate="20171215T205919Z">
@@ -6556,10 +6612,26 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your VP token on o VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145855Z" creationid="nakahodo" creationdate="20171218T145855Z">
+        <seg>0VPに、あなたのVPトークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your character pawn on any forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145157Z" creationid="aorin" creationdate="20171215T145157Z">
         <seg>任意の森にあなたのキャラクターポーンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your persona card, constructed building card, 2 workers, and 12 influence tokens in front of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145840Z" creationid="nakahodo" creationdate="20171218T145840Z">
+        <seg>あなたの前に、人物カード、建築された建物カード、2ワーカー、12影響トークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11688,6 +11760,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• LIMITED:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150242Z" creationid="nakahodo" creationdate="20171218T150112Z">
+        <seg>•制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Need a replacement part?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144235Z" creationid="nakahodo" creationdate="20171218T144235Z">
@@ -11716,6 +11796,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144039Z" creationid="nakahodo" creationdate="20171213T144022Z">
         <seg>•または、1はちみつ取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• PAYING INFLUENCE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150617Z" creationid="nakahodo" creationdate="20171218T150609Z">
+        <seg>•影響を支払う：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11820,6 +11908,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093309Z" creationid="aorin" creationdate="20171212T093309Z">
         <seg>3.ターン順番トラックに小さなキューブと大きなキューブ1つずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• STATIC:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150549Z" creationid="nakahodo" creationdate="20171218T150549Z">
+        <seg>•静止：</seg>
       </tuv>
     </tu>
     <tu>
