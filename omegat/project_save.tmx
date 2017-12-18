@@ -5968,6 +5968,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OCCUPIED BUILDINGS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165511Z" creationid="nakahodo" creationdate="20171218T165511Z">
+        <seg>OCCUPIED BUILDINGS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OVERVIEW</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
