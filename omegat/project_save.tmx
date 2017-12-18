@@ -1720,8 +1720,16 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Assistant Cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153112Z" creationid="nakahodo" creationdate="20171218T153112Z">
-        <seg>Assistant Cards</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153215Z" creationid="nakahodo" creationdate="20171218T153112Z">
+        <seg>アシスタントカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistants are a type of advancement card that give you a bonus when you perform some of the core functions of the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153512Z" creationid="nakahodo" creationdate="20171218T153512Z">
+        <seg>アシスタントは村のいくつかの主要機能を実行する時にボーナスを与える発展カードの種類です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2420,6 +2428,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053840Z" creationid="aorin" creationdate="20171216T053840Z">
         <seg>策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructed Building Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153914Z" creationid="nakahodo" creationdate="20171218T153914Z">
+        <seg>建築された建物カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -9516,8 +9532,16 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>These are the types of advancement cards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153111Z" creationid="nakahodo" creationdate="20171218T153111Z">
-        <seg>These are the types of advancement cards.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153200Z" creationid="nakahodo" creationdate="20171218T153111Z">
+        <seg>これらは発展カードの種類になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These assistants arrived before you to set up, and they're now ready to follow your orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153522Z" creationid="nakahodo" creationdate="20171218T153424Z">
+        <seg>これらアシスタントはセットアップ前に到着し、あなたのお願いに従う準備もできています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10701,6 +10725,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a new building is constructed in the village, it's an opportunity to advance this little piece of civilization you're creating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154130Z" creationid="nakahodo" creationdate="20171218T154130Z">
+        <seg>村に新しい建物が建築されると、あなたが育んでいるこの小さな文明を発展させる機会になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a player needs to demote one of their promoted Pixies to the mine, this Tile can be used to beg the Queen for mercy.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
@@ -10769,6 +10801,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073427Z" creationid="aorin" creationdate="20171216T073427Z">
         <seg>あなたの現在の協力スペースから別の協力スペースに接続される黒い矢印に記述されたタスクを達成すると、記述された勝利点を得点し、接続されたスペースに協力マーカーを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you have an unnamed as函tant card, you may give them a name by writing it on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153900Z" creationid="nakahodo" creationdate="20171218T153524Z">
+        <seg>あなたが名前のないアシスタントカードを持つたびに、カードに名前を書くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10899,6 +10939,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082753Z" creationid="aorin" creationdate="20171216T082753Z">
         <seg>あなたは&lt;トーチ&gt;を消耗させることで、下記のアクションを実行できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can gain a face-up assistant card (or any advancement card) from the advancement mat by using the Market.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153647Z" creationid="nakahodo" creationdate="20171218T153522Z">
+        <seg>あなたはマーケットを使用することで、発展マットから表向きのアシスタントカード1枚（または任意の発展カード）を得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11115,6 +11163,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173441Z" creationid="aorin" creationdate="20171212T173402Z">
         <seg>あなたはもはや、存在してはならない無価値の妖精だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Youll need some help to get the village running smoothly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153516Z" creationid="nakahodo" creationdate="20171218T153335Z">
+        <seg>あなたは村の運営を円滑に進めるために助けを必要としてます。</seg>
       </tuv>
     </tu>
     <tu>
