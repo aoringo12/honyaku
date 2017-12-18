@@ -2265,6 +2265,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose from the faceup advancement card(s) of that type (if any).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152712Z" creationid="nakahodo" creationdate="20171218T152712Z">
+        <seg>（あれば）その種類の表向きの発展カード（ら）を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one of the four Eyrie leaders and place it on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
@@ -3661,6 +3669,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
         <seg>今後、窃盗フェイズ時にタイルに描かれた量だけ、あなたが選択する食料を得る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GAINING CARDS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152530Z" creationid="nakahodo" creationdate="20171218T152530Z">
+        <seg>増えるカード：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7681,6 +7697,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some buildings provide a specific type of card as their benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152632Z" creationid="nakahodo" creationdate="20171218T152632Z">
+        <seg>いくつかの建物は特定の種類のカード1枚を効果として提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the circular action spaces are marked with pearls in a single colour and have a Pixie depicted on them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104628Z" creationid="aorin" creationdate="20171212T104628Z">
@@ -9460,6 +9484,14 @@ Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are collectively called "advancement cards," and they are part of the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152428Z" creationid="nakahodo" creationdate="20171218T152428Z">
+        <seg>これらは総合的に「発展カード」と呼ばれ、共通サプライの一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are not required to contribute more.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124224Z" creationid="nakahodo" creationdate="20171001T124224Z">
@@ -11179,6 +11211,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052703Z" creationid="aorin" creationdate="20171216T052703Z">
         <seg>ウサギ、キツネ、ネズミ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>t.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152432Z" creationid="nakahodo" creationdate="20171218T152432Z">
+        <seg>1.</seg>
       </tuv>
     </tu>
     <tu>
