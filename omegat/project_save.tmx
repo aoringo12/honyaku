@@ -6410,6 +6410,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay 3 influence tokens plus the 4 resources shown on the upper left of the building card to construct 1 building in your charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T184055Z" creationid="nakahodo" creationdate="20171218T184055Z">
+        <seg>あなたのチャーターん3影響トークンに加えて、あなたが</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay one (1) fewer when building Plans
 at the Builder.</seg>
       </tuv>
@@ -8463,6 +8471,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Commons includes the following buildings:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T183414Z" creationid="nakahodo" creationdate="20171218T183330Z">
+        <seg>共有地には次の建物が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Decree</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000739Z" creationid="aorin" creationdate="20171216T000739Z">
@@ -9704,6 +9720,14 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032337Z" creationid="aorin" creationdate="20171212T032012Z">
         <seg>彼はまたミントサプライから○も得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are clustered in the middle of the village in an area called The Commons、</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T183352Z" creationid="nakahodo" creationdate="20171218T183320Z">
+        <seg>これらは村の中央に建築されており、共有地と称されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,6 +12493,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123317Z" creationid="aorin" creationdate="20171212T123056Z">
         <seg>•提供するリソースの種類は常に1です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• ZEPPELIN:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T183441Z" creationid="nakahodo" creationdate="20171218T183441Z">
+        <seg>•飛行船：:</seg>
       </tuv>
     </tu>
     <tu>
