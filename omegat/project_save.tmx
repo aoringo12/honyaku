@@ -842,6 +842,14 @@ look something like the diagram above.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5, CARDS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153111Z" creationid="nakahodo" creationdate="20171218T153111Z">
+        <seg>5. カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145402Z" creationid="nakahodo" creationdate="20171218T145402Z">
@@ -1340,6 +1348,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After gaining a face-up card from the mat, replace it with the top card from the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152751Z" creationid="nakahodo" creationdate="20171218T152751Z">
+        <seg>マットから表向きのカードを得た後、デッキの一番上から空いた場所に補充します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
@@ -1698,6 +1714,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132624Z" creationid="aorin" creationdate="20171215T132624Z">
         <seg>派閥を割り当てる：任意の方法を使用して、各プレイヤー1人の派閥を割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistant Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153112Z" creationid="nakahodo" creationdate="20171218T153112Z">
+        <seg>Assistant Cards</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2543,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210553Z" creationid="aorin" creationdate="20171215T210553Z">
         <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152941Z" creationid="nakahodo" creationdate="20171218T152941Z">
+        <seg>捨て札山を作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3368,6 +3400,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FACE-UP:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152757Z" creationid="nakahodo" creationdate="20171218T152757Z">
+        <seg>表向き：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIRST PLAYER:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145408Z" creationid="nakahodo" creationdate="20171218T145408Z">
@@ -3675,8 +3715,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>GAINING CARDS:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152530Z" creationid="nakahodo" creationdate="20171218T152530Z">
-        <seg>増えるカード：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152719Z" creationid="nakahodo" creationdate="20171218T152530Z">
+        <seg>カードを得る：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,6 +3964,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230440Z" creationid="aorin" creationdate="20171215T230440Z">
         <seg>隠れ家を失う。隠れ家1つが取り除かれるたびに、連合は一致する森の民ボックスのサポーター半分（切り上げ）と、任意の策略を取り除かなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hiding ca「ds isn't allowed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152849Z" creationid="nakahodo" creationdate="20171218T152849Z">
+        <seg>カードを隠すことはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5340,6 +5388,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep all cards face-up in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152837Z" creationid="nakahodo" creationdate="20171218T152837Z">
+        <seg>あなたの個人サプライのカードは、全て表向きで保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep in mind that even at this point Bread can be spent to remove Rocks (see “Mine” Action).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033252Z" creationid="aorin" creationdate="20171213T033252Z">
@@ -6182,6 +6238,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025226Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PAYING/DISCARDING CARDS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152933Z" creationid="nakahodo" creationdate="20171218T152933Z">
+        <seg>カードのプレイ / 捨て札</seg>
       </tuv>
     </tu>
     <tu>
@@ -7098,6 +7162,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093809Z" creationid="aorin" creationdate="20171212T093809Z">
         <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REPLENISH:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152728Z" creationid="nakahodo" creationdate="20171218T152728Z">
+        <seg>補充：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9442,6 +9514,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These are the types of advancement cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153111Z" creationid="nakahodo" creationdate="20171218T153111Z">
+        <seg>These are the types of advancement cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These beans represent The Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T085204Z" creationid="nakahodo" creationdate="20170924T085204Z">
@@ -10633,6 +10713,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the deck is empty or new cards are unlocked, shuffle the disca「d pile into the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153103Z" creationid="nakahodo" creationdate="20171218T153103Z">
+        <seg>デッキが空になるか、新しいカードが開放されるたびに、デッキと捨て札山をシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
