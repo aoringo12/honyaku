@@ -3817,6 +3817,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain the indicated VP (5 VP on the Charterstone), advance the progress token, and place the constructed building card in the Archive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200213Z" creationid="nakahodo" creationdate="20171218T200213Z">
+        <seg>指示されたVP（チャーターストーンは5VP）を得て、進展トークンを進め、アーカイブに建築された建物カードを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gallery has equal to the number of placed upon it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034410Z" creationid="aorin" creationdate="20171212T034410Z">
@@ -5701,6 +5709,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many crates contain a new persona card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200237Z" creationid="nakahodo" creationdate="20171218T200237Z">
+        <seg>多くの木箱には新しい人物カードが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many effects in Root deal hits​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150854Z" creationid="aorin" creationdate="20171215T150854Z">
@@ -6028,6 +6044,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objective Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200513Z" creationid="nakahodo" creationdate="20171218T200513Z">
+        <seg>Objective Cards</seg>
       </tuv>
     </tu>
     <tu>
@@ -6475,6 +6499,14 @@ at the Builder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay the indicated cost ($4 and 2 inftuence tokens on the Charterstone).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195956Z" creationid="nakahodo" creationdate="20171218T195956Z">
+        <seg>示されたコストを支払います（チャーターストーンに＄4と2影響トークン）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay the resources located on the</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142849Z" creationid="nakahodo" creationdate="20171213T142819Z">
@@ -6740,6 +6772,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place it in your Charter Chest to use later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200254Z" creationid="nakahodo" creationdate="20171218T200254Z">
+        <seg>後に使用するために、あなたのキャラクターチェストに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7370,6 +7410,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034637Z" creationid="aorin" creationdate="20171212T034557Z">
         <seg>同じ近所にある各○建物は提供する★が1減少します。最小は0です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the Index Guide (printed on the Index tuckbox) to determine the components to extract.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200043Z" creationid="nakahodo" creationdate="20171218T200043Z">
+        <seg>引き出すコンポーネントを決めるために、インデックスガイドを参照します（タックボックスのインデックスに記載されています）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8773,8 +8821,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The cargo that Ol'l'ived With JOU COIi 011/y be unlocked when the time is right...</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195805Z" creationid="nakahodo" creationdate="20171218T195805Z">
-        <seg>あなたの建築した建物カード（●）1枚の「木箱」1つの中身に</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195923Z" creationid="nakahodo" creationdate="20171218T195805Z">
+        <seg>あなたの建築した建物カード（●）1枚の「木箱」1つの中身に触れるために、建物のチャーターストーン（または、効果で●がある任意の建物）を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9698,6 +9746,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's a lot of information to digest, so take your time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200422Z" creationid="nakahodo" creationdate="20171218T200422Z">
+        <seg>これらには理解するには多くの情報がありますので、ゆっくりと読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These are considered attacks:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124803Z" creationid="nakahodo" creationdate="20171127T124803Z">
@@ -10439,6 +10495,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlock at you「ownpace!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200435Z" creationid="nakahodo" creationdate="20171218T200348Z">
+        <seg>あなたのペースで処理をしてください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlocking a Crate</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T193851Z" creationid="nakahodo" creationdate="20171218T193851Z">
@@ -10475,6 +10539,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073259Z" creationid="aorin" creationdate="20171216T073259Z">
         <seg>協力マーカーとして、各他プレイヤーから戦士キューブ1つを使用します&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Charterstone building (or any building with Gt as the benefit) to access the content in a "crate" on 1 of your constructed building cards (口）．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195925Z" creationid="nakahodo" creationdate="20171218T195811Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -12112,6 +12184,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• BENEFIT:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200000Z" creationid="nakahodo" creationdate="20171218T200000Z">
+        <seg>•効果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Both players make double offerings each time.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131455Z" creationid="nakahodo" creationdate="20171213T131455Z">
@@ -12124,6 +12204,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T190653Z" creationid="nakahodo" creationdate="20171218T190653Z">
         <seg>•チャーターストーン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• COST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195928Z" creationid="nakahodo" creationdate="20171218T195928Z">
+        <seg>•コスト：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12304,6 +12392,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• PERSONA:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200240Z" creationid="nakahodo" creationdate="20171218T200218Z">
+        <seg>•人物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Pay 1 Gold to advance 1 step on the Gold track</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142002Z" creationid="nakahodo" creationdate="20171213T142002Z">
@@ -12420,6 +12516,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150549Z" creationid="nakahodo" creationdate="20171218T150549Z">
         <seg>•静止：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• SUGGESTION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200313Z" creationid="nakahodo" creationdate="20171218T200313Z">
+        <seg>•忠告：</seg>
       </tuv>
     </tu>
     <tu>
