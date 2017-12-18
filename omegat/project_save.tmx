@@ -1000,6 +1000,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few buildings/cards have infiuence as a benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150952Z" creationid="nakahodo" creationdate="20171218T150952Z">
+        <seg>いくつかの建物やカードは、良い効果に影響を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A forest is adjacent to all clearings that touch it without crossing a path, and it is adjacent to all forests that are separated by only one path.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204843Z" creationid="aorin" creationdate="20171215T204843Z">
@@ -1264,6 +1272,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073304Z" creationid="aorin" creationdate="20171216T073304Z">
         <seg>協力の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advancement Mat &amp; Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T151042Z" creationid="nakahodo" creationdate="20171218T151042Z">
+        <seg>発展マットとカード</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,6 +2360,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloud Port or Grandstand)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150904Z" creationid="nakahodo" creationdate="20171218T150904Z">
+        <seg>Cloud Port やGrandstand）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cobbler:​ ​For the Vagabond, this improvement gives a free &lt;boot&gt; whenever he exhausts a &lt;boot&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083523Z" creationid="aorin" creationdate="20171216T083523Z">
@@ -2868,6 +2892,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103432Z" creationid="aorin" creationdate="20171212T103432Z">
         <seg>アクションフェイズ時、プレイヤーたちはターンで行うアクション1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the campaign, several different types of cards (all with the same back) will be unlocked and shuffled with the discard pile into the deck on the advancement mat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152346Z" creationid="nakahodo" creationdate="20171218T152346Z">
+        <seg>キャンペーン中、様々な種類のカードが開放され（全て同じ裏面）、捨て札山と共にシャッフルされて発展マットのデッキに入ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,6 +9526,14 @@ of the Plan’s printed cost and value.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They let you regain a spent infiuence token from the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T151029Z" creationid="nakahodo" creationdate="20171218T151029Z">
+        <seg>これらは共通サプライから消費した影響トークン1つを回復できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They may choose
 either the Place or Pass action.</seg>
       </tuv>
@@ -11908,6 +11948,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093309Z" creationid="aorin" creationdate="20171212T093309Z">
         <seg>3.ターン順番トラックに小さなキューブと大きなキューブ1つずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• REGAIN INFLUENCE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150911Z" creationid="nakahodo" creationdate="20171218T150911Z">
+        <seg>•影響の回復：</seg>
       </tuv>
     </tu>
     <tu>
