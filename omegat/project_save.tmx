@@ -690,6 +690,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144618Z" creationid="nakahodo" creationdate="20171218T144618Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10
 SOLITAIRE MODE</seg>
       </tuv>
@@ -2551,6 +2559,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Designed by Jamey Stegmaie</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144444Z" creationid="nakahodo" creationdate="20171218T144444Z">
+        <seg>Designed by Jamey Stegmaie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Despot</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003616Z" creationid="aorin" creationdate="20171216T003616Z">
@@ -3328,6 +3344,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow each step of setup in sequential order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144552Z" creationid="nakahodo" creationdate="20171218T144552Z">
+        <seg>セットアップの各ステップを順番に実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142601Z" creationid="nakahodo" creationdate="20171213T142601Z">
@@ -3529,6 +3553,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GENERAL SUPPLY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144626Z" creationid="nakahodo" creationdate="20171218T144626Z">
+        <seg>基本サプライ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072233Z" creationid="nakahodo" creationdate="20171209T072233Z">
@@ -3584,6 +3616,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T140620Z" creationid="nakahodo" creationdate="20171213T140620Z">
         <seg>ゲームプレイ概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General &amp; Personal Supply</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144617Z" creationid="nakahodo" creationdate="20171218T144617Z">
+        <seg>基本＆個人サプライ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,6 +6982,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request it at stonemaiergames.com/replacement-partst</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144503Z" creationid="nakahodo" creationdate="20171218T144444Z">
+        <seg>stonemaiergames.com/replacement-partst へリクエストしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research
 Markers should be placed at
 the start of each Research Track.</seg>
@@ -9657,6 +9705,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To avoid spoiling content for yourself or other players, ask questions on BoardGameGeek or the Charterstone Facebook group using the spoiler (SP) text code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144207Z" creationid="nakahodo" creationdate="20171218T144207Z">
+        <seg>あなた自身や他プレイヤーへのネタバレ対策のために、ボードゲームギークまたはチャーターストーンフェイスブックグループに対しての質問はスポイラー（SP）テキストコードを使用して質問するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To drop a player, see rule 2 (which will be unlocked after Game 2).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T143641Z" creationid="nakahodo" creationdate="20171218T143602Z">
@@ -11456,6 +11512,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Have a question while playing?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T143700Z" creationid="nakahodo" creationdate="20171218T143700Z">
+        <seg>•プレイ中に疑問がでましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• If all of your Pixies are either Loyal Servants or slaves.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032100Z" creationid="aorin" creationdate="20171213T032100Z">
@@ -11500,6 +11564,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075346Z" creationid="aorin" creationdate="20171213T075346Z">
         <seg>•自身のプレイヤースクリーンにあるタイル1枚と、対戦相手のプレイヤースクリーンにある、同じ種類のタイル1枚とを交換する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Need a replacement part?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144235Z" creationid="nakahodo" creationdate="20171218T144235Z">
+        <seg>•交換部品が必要ですか？</seg>
       </tuv>
     </tu>
     <tu>
