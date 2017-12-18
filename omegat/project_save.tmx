@@ -1372,6 +1372,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you peel the sticker off a building card to construct it, you're left with a new type of card:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154330Z" creationid="nakahodo" creationdate="20171218T154330Z">
+        <seg>それを建築するために建物カードのシールを剥がしたら、残ったカードは新しいタイプのカードとなります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aid</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083024Z" creationid="aorin" creationdate="20171216T083024Z">
@@ -5300,6 +5308,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is still an advancement card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154337Z" creationid="nakahodo" creationdate="20171218T154337Z">
+        <seg>これはまだ発展カードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is up to the players to decide which group will ultimately take root.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153637Z" creationid="nakahodo" creationdate="20171103T153637Z">
@@ -5416,6 +5432,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033252Z" creationid="aorin" creationdate="20171213T033252Z">
         <seg>この時点でも、岩を取り除くためにパンを消費できることを覚えておいてください（「炭鉱」アクション参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the constructed building card in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154418Z" creationid="nakahodo" creationdate="20171218T154418Z">
+        <seg>あなたの個人サプライに建築された建物カードを保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,6 +6686,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093122Z" creationid="aorin" creationdate="20171212T093122Z">
         <seg>テーブル中央にボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the constructed building card in the Archive tuckbox (a depository for components that are no longer needed).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154808Z" creationid="nakahodo" creationdate="20171218T154808Z">
+        <seg>アーカイブタックボックス（不要コンポーネントの保管場所）に建築された建物カードを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11023,6 +11055,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can unlock the crate at the Charterstone building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154443Z" creationid="nakahodo" creationdate="20171218T154443Z">
+        <seg>あなたはチャーターストーン建物の木箱を開放することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot build in a clearing with no open slots.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
@@ -11243,6 +11283,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040713Z" creationid="aorin" creationdate="20171213T040713Z">
         <seg>妖精は、次の行の空いたスポットに移動のみができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a constructed building card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154252Z" creationid="nakahodo" creationdate="20171218T154252Z">
+        <seg>建築された建物カード。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11932,6 +11980,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T143700Z" creationid="nakahodo" creationdate="20171218T143700Z">
         <seg>•プレイ中に疑問がでましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• IF IT HAS A CRATE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154405Z" creationid="nakahodo" creationdate="20171218T154405Z">
+        <seg>•それがまだ木箱を持っている場合：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• IF IT HAS NO CRATE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154450Z" creationid="nakahodo" creationdate="20171218T154450Z">
+        <seg>•それがまだ木箱を持っていない場合：</seg>
       </tuv>
     </tu>
     <tu>
