@@ -8771,6 +8771,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cargo that Ol'l'ived With JOU COIi 011/y be unlocked when the time is right...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195805Z" creationid="nakahodo" creationdate="20171218T195805Z">
+        <seg>あなたの建築した建物カード（●）1枚の「木箱」1つの中身に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chosen action has to be performed immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104710Z" creationid="aorin" creationdate="20171212T104710Z">
@@ -10427,6 +10435,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151558Z" creationid="nakahodo" creationdate="20171103T151558Z">
         <seg>鋼の掟の下で、森の多くの生き物たちは協力しあっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlocking a Crate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T193851Z" creationid="nakahodo" creationdate="20171218T193851Z">
+        <seg>木箱の開放</seg>
       </tuv>
     </tu>
     <tu>
