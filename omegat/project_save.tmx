@@ -2126,6 +2126,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charterstone is a legacy game, which means you will make permanent changes to the game, mostly in the  form of writing on the board/cards with markers (provided by the players) and stickers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141118Z" creationid="nakahodo" creationdate="20171218T141118Z">
+        <seg>チャーターストーンは、ゲームがステッカーシールと（プレイヤーが行う）マーキングによって、ボード/カードを永続的に変化させることを意味するレガシーゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check to see if at least 1 player offered the right type of Food.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125917Z" creationid="aorin" creationdate="20171212T124025Z">
@@ -2594,6 +2602,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not look through the cards and do not shuffle them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141357Z" creationid="nakahodo" creationdate="20171218T141357Z">
+        <seg>それらの内容を見ずシャッフルもしないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not perform any more Decree actions, and skip Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003224Z" creationid="aorin" creationdate="20171216T003224Z">
@@ -2606,6 +2622,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141311Z" creationid="nakahodo" creationdate="20171127T141311Z">
         <seg>盾アイコンに怠惰キューブは配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't open ANYTHING unless specifically instructed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
+        <seg>特定の指示があるまで、何も触らないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,6 +3997,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any of the decks look identical, please let us know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141623Z" creationid="nakahodo" creationdate="20171218T141623Z">
+        <seg>デッキの何かが同じである場合、私達に知らせてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any player has seven or more provided by Buildings in their Neighborhood, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030413Z" creationid="aorin" creationdate="20171212T025226Z">
@@ -5228,6 +5260,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Look inside the Index tuckbox, remove the shrink wrap from each deck of cards, and put the decks back in the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141342Z" creationid="nakahodo" creationdate="20171218T141342Z">
+        <seg>インデックスタックボックス内を見て、各カードデッキのシュリンクを取り除き、インデックスにデッキを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Look into the bag</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044250Z" creationid="aorin" creationdate="20171213T044250Z">
@@ -5910,6 +5950,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T113218Z" creationid="nakahodo" creationdate="20171211T113218Z">
         <seg>プラン/建物の詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PLEASE READ THIS PAGE BEFORE LOOKING AT ANYTHING ELSE IN THIS BOX.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T140839Z" creationid="nakahodo" creationdate="20171218T140839Z">
+        <seg>ゲームボックスの中にある何かを見る前に、このページを読んで下さい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9183,6 +9231,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They should be in numerical order as noted by a number in the bottom right of the card at the beginning of each deck (there are gaps between certain types of cards for production reasons—that's normal).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141544Z" creationid="nakahodo" creationdate="20171218T141544Z">
+        <seg>これらは、各デッキの右下に数字があるように、数字順番になっています（生産上の理由により、特定タイプのカードにギャップがあります――これは正常です。）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The​ ​Crafting​ ​Beaver:​ ​You can spend a &lt;torch&gt; to build a building of your current clearing’s ruler.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T062217Z" creationid="aorin" creationdate="20171216T062137Z">
@@ -9569,6 +9625,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To prepare for the Charterstone campaign, please do the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141245Z" creationid="nakahodo" creationdate="20171218T141245Z">
+        <seg>チャーターストーンキャンペーンを始めるには、以下にしたがってください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To vote, each player
 takes the Blend/Research Token in their hand and secretly chooses a
 side to place face-up on the table.</seg>
@@ -9891,6 +9955,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131934Z" creationid="aorin" creationdate="20171215T131934Z">
         <seg>私たちはプレイテスター/エディターを必要としていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T140653Z" creationid="nakahodo" creationdate="20171218T140653Z">
+        <seg>チャーターストーンへようこそ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10547,6 +10619,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001432Z" creationid="aorin" creationdate="20171216T001432Z">
         <seg>法令を実行して昼が終了し、4列で示されるアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will start out with access to only a small portion of the content in this box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141203Z" creationid="nakahodo" creationdate="20171218T141203Z">
+        <seg>あなたはこのボックスの一部にしか触れない状態から始めます。</seg>
       </tuv>
     </tu>
     <tu>
