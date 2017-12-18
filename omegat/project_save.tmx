@@ -9546,6 +9546,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are no differences between your workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165432Z" creationid="nakahodo" creationdate="20171218T165301Z">
+        <seg>ワーカー達はそれぞれ個人差はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are, however, a few exceptions:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031219Z" creationid="aorin" creationdate="20171212T031219Z">
@@ -10853,6 +10861,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you place a worker, use the building once by following these steps in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165453Z" creationid="nakahodo" creationdate="20171218T165453Z">
+        <seg>あなたがワーカー1つを配置するたびに、次に従い建物を一度使用します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you remove an opponent’s building, you score another victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003647Z" creationid="aorin" creationdate="20171216T003647Z">
@@ -11467,6 +11483,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043043Z" creationid="aorin" creationdate="20171213T043043Z">
         <seg>あなたがリソースを獲得するたびに、それらのいずれかを拒否することがはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>worker from your personal supply onto any building on the board or (b) retrieve all of your workers from the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165341Z" creationid="nakahodo" creationdate="20171218T165300Z">
+        <seg>あなたのターンにて、あなたはいずれかを行います。（a）ボード上の任意の建物の上に、個人サプライからワーカー1つを配置する、または（b）ボードからワーカーたちを全て回収する。</seg>
       </tuv>
     </tu>
     <tu>
