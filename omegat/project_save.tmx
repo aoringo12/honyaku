@@ -3850,6 +3850,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it is possible to add or drop players after Game 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142904Z" creationid="nakahodo" creationdate="20171218T142904Z">
+        <seg>しかし、ゲーム1の後に参加の可否を変更することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the large cubes will now be arranged to match the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
@@ -9641,6 +9649,22 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add a player, let them choose an inactive charter, give them 1 random unconstructed or constructed building card from the advancement deck, and assign them an equitable amount of glory and capacity (those terms will make more sense after Games 1 and 2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T143618Z" creationid="nakahodo" creationdate="20171218T143544Z">
+        <seg>プレイヤーは追加するには、これから参加するキャラクターを選択し、発展デッキから建築された[または]建築されていない建物カード1枚をランダムに彼に渡し、公平な量の影響とキャパリティが割り当てられます（これらの単語はゲーム1と2の後に理解できるでしょう）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To drop a player, see rule 2 (which will be unlocked after Game 2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T143641Z" creationid="nakahodo" creationdate="20171218T143602Z">
+        <seg>プレイヤーを不参加にするには、ルール2を参照します（ゲーム2の後に開放されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To perform this action, place ALL of your remaining Action Discs for this turn on the action space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123656Z" creationid="nakahodo" creationdate="20171213T123656Z">
@@ -9987,6 +10011,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131934Z" creationid="aorin" creationdate="20171215T131934Z">
         <seg>私たちはプレイテスター/エディターを必要としていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend that the same people play the entire Charterstone campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142826Z" creationid="nakahodo" creationdate="20171218T142738Z">
+        <seg>私たちはチャーターストーンキャンペーン全体を同じ参加者でプレイすることを推奨します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11701,6 +11733,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093726Z" creationid="aorin" creationdate="20171212T093726Z">
         <seg> 16.残ったりんご、パン、ハチミチ、シルバーと金の延べ棒は、ボードの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Want to add or drop players?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142806Z" creationid="nakahodo" creationdate="20171218T142806Z">
+        <seg>•参加するプレイヤーの変更がしたいですか？</seg>
       </tuv>
     </tu>
     <tu>
