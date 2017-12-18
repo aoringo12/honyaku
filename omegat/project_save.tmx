@@ -1292,6 +1292,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Afew buildings were constructed in advance of your arrival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T183303Z" creationid="nakahodo" creationdate="20171218T183303Z">
+        <seg>あなたの到着に先立って、いくつかの建物が建築されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After Blending, each player receives 1 RP to distribute on
 their own Research Lab Ability Tracks!</seg>
       </tuv>
@@ -1938,6 +1946,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BENEFIT:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175308Z" creationid="nakahodo" creationdate="20171218T175308Z">
+        <seg>効果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BLEND</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114551Z" creationid="nakahodo" creationdate="20171001T114551Z">
@@ -2145,6 +2161,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124553Z" creationid="nakahodo" creationdate="20171001T124553Z">
         <seg>コーヒーの礼儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175118Z" creationid="nakahodo" creationdate="20171218T175118Z">
+        <seg>コスト：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2420,6 +2444,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083523Z" creationid="aorin" creationdate="20171216T083523Z">
         <seg>靴屋：この改良は、ヴァガボンドが&lt;ブーツ&gt;を消耗させるたびに、無料で&lt;ブーツ&gt;を1つ与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coins and resources are finite.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175358Z" creationid="nakahodo" creationdate="20171218T175358Z">
+        <seg>コイン、リソースは有限です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,6 +4818,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can't pay the cost, you can't place a wo「kerhere.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175304Z" creationid="nakahodo" creationdate="20171218T175304Z">
+        <seg>コストを支払えない場合、そこにワーカーを配置できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot build a Roost, you fall into turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002413Z" creationid="aorin" creationdate="20171216T002413Z">
@@ -4902,6 +4942,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074627Z" creationid="aorin" creationdate="20171216T074627Z">
         <seg>あなたが任意の同盟戦士とともに移動する場合、あなたは機敏特別アビリティからの利益を得ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you placed your worker on a building occupied by another worker (yours or an opponent's), bump (return) that worker back to its player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175043Z" creationid="nakahodo" creationdate="20171218T174839Z">
+        <seg>別のワーカー（あなたの[または]対戦相手の）によって占領された建物へと、あなたのワーカーを配置する場合、押し出してそのプレイヤーへとワーカーを戻すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,8 +6018,8 @@ they may use Leadership Council to retain it.</seg>
       <tuv lang="EN-US">
         <seg>OCCUPIED BUILDINGS:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165511Z" creationid="nakahodo" creationdate="20171218T165511Z">
-        <seg>OCCUPIED BUILDINGS:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T174839Z" creationid="nakahodo" creationdate="20171218T165511Z">
+        <seg>占領された建物</seg>
       </tuv>
     </tu>
     <tu>
@@ -6391,6 +6439,14 @@ at the Builder.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143139Z" creationid="nakahodo" creationdate="20171213T143139Z">
         <seg>クイーンへとはちみつポットを1つ以上支払い、その数と同じだけ、あなたの小さなキューブを左のスペースに進める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay the cost (bottom left of a building) from your personal supply to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175203Z" creationid="nakahodo" creationdate="20171218T175203Z">
+        <seg>コスト（建物の左下）を、あなたの個人サプライから共通サプライへと支払います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8395,6 +8451,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113947Z" creationid="nakahodo" creationdate="20171001T113947Z">
         <seg>醸造長は、投票が完了するまで、ブレンド[または]研究をチームが開始しないように監視してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Commons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175418Z" creationid="nakahodo" creationdate="20171218T175418Z">
+        <seg>コモン</seg>
       </tuv>
     </tu>
     <tu>
@@ -11131,6 +11195,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
         <seg>あなたはアクション1つを消費せずにクラフトができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may gain all or part of the benefit (upper right of a building).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175337Z" creationid="nakahodo" creationdate="20171218T175337Z">
+        <seg>あなたは効果の一部または全てを得ることができます（建物の右上）。</seg>
       </tuv>
     </tu>
     <tu>
