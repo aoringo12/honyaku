@@ -751,6 +751,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.Check stonemaiergames.com/games/charterstone/faq to see if any important errors have been discovered postpublication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142350Z" creationid="nakahodo" creationdate="20171218T142350Z">
+        <seg>3．stonemaiergames.com/games/charterstone/faqを確認して、重要なエラーがないかどうかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>30 Mint Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025253Z" creationid="aorin" creationdate="20171212T025253Z">
@@ -5036,6 +5044,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's not necessary to learn any rules before Charterstone's first game, but having at least one person who understands the core concepts will improve the flow of Game 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142236Z" creationid="nakahodo" creationdate="20171218T142236Z">
+        <seg>チャーターストーンの最初のゲーム前に任意のルールを読む必要はありませんが、本作品の主要コンセプトを理解している人物がいると、ゲーム1の流れが良くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072724Z" creationid="aorin" creationdate="20171216T072724Z">
@@ -6531,6 +6547,14 @@ Research (gain abilities).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players can share the reading duties, and we recommend you double-check each other's instructions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142712Z" creationid="nakahodo" creationdate="20171218T142712Z">
+        <seg>プレイヤーたちは読み上げる役を交互に行うこともでき、互いの指示を再確認することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players continue placing Field Researchers in turn order until all players have chosen.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T110652Z" creationid="nakahodo" creationdate="20171001T110652Z">
@@ -6810,6 +6834,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T130426Z" creationid="aorin" creationdate="20171215T130426Z">
         <seg>ルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read through the Chronicle (or let Watch It Played walk you through the rules at stonemaiergames.com/games/ charterstone/videos).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142003Z" creationid="nakahodo" creationdate="20171218T142003Z">
+        <seg>クロニクルを読み通してください（または、stonemaiergames.com/games/charterstone/videosのルールを見てください）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9233,8 +9265,8 @@ either the Place or Pass action.</seg>
       <tuv lang="EN-US">
         <seg>They should be in numerical order as noted by a number in the bottom right of the card at the beginning of each deck (there are gaps between certain types of cards for production reasons—that's normal).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141544Z" creationid="nakahodo" creationdate="20171218T141544Z">
-        <seg>これらは、各デッキの右下に数字があるように、数字順番になっています（生産上の理由により、特定タイプのカードにギャップがあります――これは正常です。）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T141706Z" creationid="nakahodo" creationdate="20171218T141544Z">
+        <seg>これらは、各デッキの右下に数字があるように、数字順番になっています（生産上の理由により、特定タイプのカードにギャップがあります――これは正常です）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9979,6 +10011,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124757Z" creationid="nakahodo" creationdate="20171127T124757Z">
         <seg>何が「攻撃」かそうではないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When 1-6 players have gathered for the first game, extract the first card in the Index (card #1) and read the card out loud.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142509Z" creationid="nakahodo" creationdate="20171218T142509Z">
+        <seg>1から6プレイヤーでの最初のゲームで、インデックスの最初のカード（カード＃1）を抜き出し、カードをはっきりと読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
