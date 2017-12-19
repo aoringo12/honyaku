@@ -9286,6 +9286,14 @@ determined by the desired Plan’s Cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The object of each game of Charterstone is to score the most victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T112254Z" creationid="aorin" creationdate="20171219T112254Z">
+        <seg>チャーターストーンの各ゲームでの目標は、最も多くの勝利点を得点することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The only restriction is that all players must contribute at
 least one bean.</seg>
       </tuv>
