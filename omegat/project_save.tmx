@@ -12841,6 +12841,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•WHERETO GAIN REPUTATION:Thereputat1on icon is shown as a benefit on the quota and progress tracks, and it will be on several buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103503Z" creationid="aorin" creationdate="20171219T103503Z">
+        <seg>•どうやって評判を得るか：評判アイコンは、いくつかの建物と進展トラックとノルマトラックに効果として示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● Chaos​ ​Victory:​ ​During your Birdsong, you win the game immediately if every other player has 33 to 39 victory points or has activated a special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232934Z" creationid="aorin" creationdate="20171215T232934Z">
