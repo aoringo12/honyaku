@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+1 VP or 1 reputation(,£).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101426Z" creationid="aorin" creationdate="20171219T101426Z">
+        <seg>+1VP、または1評判（○）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-
 mum of 20 even with 5 players)</seg>
       </tuv>
@@ -2731,6 +2739,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144444Z" creationid="nakahodo" creationdate="20171218T144444Z">
         <seg>Designed by Jamey Stegmaie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite your village's relative isolation, word travels fast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101541Z" creationid="aorin" creationdate="20171219T101541Z">
+        <seg>あなたの村がどれだけ遠くにあろうとも、言葉は風のように素早く流れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7676,6 +7692,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093934Z" creationid="aorin" creationdate="20171212T093934Z">
         <seg>報酬フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re􀀫utation Track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101430Z" creationid="aorin" creationdate="20171219T101430Z">
+        <seg>評判トラック</seg>
       </tuv>
     </tu>
     <tu>
