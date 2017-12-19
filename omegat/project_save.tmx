@@ -8583,6 +8583,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cloud Port (or any building with ヽツas the benefit) allows a player to sell a variable amount of 1 commodity to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T100943Z" creationid="aorin" creationdate="20171219T100943Z">
+        <seg>クラウドポート（または○利益のある任意の建物）は、価値が変わる商品1つを共通サプライに売却することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Commons</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175418Z" creationid="nakahodo" creationdate="20171218T175418Z">
