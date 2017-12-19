@@ -5354,6 +5354,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Income</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105635Z" creationid="aorin" creationdate="20171219T105635Z">
+        <seg>インカム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Influence Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145915Z" creationid="nakahodo" creationdate="20171218T145915Z">
@@ -7305,6 +7313,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025555Z" creationid="aorin" creationdate="20171212T025555Z">
         <seg>プレイヤーたちはミントピアの都市で最も優れた地域を開発するために働いている、近隣プランナーの役割を担います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players will unlock several functions for income during the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105712Z" creationid="aorin" creationdate="20171219T105712Z">
+        <seg>プレイヤーたちはキャンペーン時にいくつかの機能を解放します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10691,6 +10707,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043059Z" creationid="aorin" creationdate="20171213T043059Z">
         <seg>最後のラウンドまで、タイルに描かれたリソースを獲得し続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until then, ignore this icon on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105728Z" creationid="aorin" creationdate="20171219T105728Z">
+        <seg>そうでなければ、ボードにあるこのアイコンは無視します。</seg>
       </tuv>
     </tu>
     <tu>
