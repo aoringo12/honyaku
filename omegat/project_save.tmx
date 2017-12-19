@@ -7179,6 +7179,14 @@ Players create their own map by placing terrain tiles, beginning with the starti
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players jockey to have the most influence tokens on the reputation track to earn an endgame benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103048Z" creationid="aorin" creationdate="20171219T103048Z">
+        <seg>プレイヤーたちは、ゲーム終了の利益を得るために評判トラックに最も多く影響トークンを持つようコントロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players may and are encouraged to tell (or not tell) their intentions and
 strategize before placing a Field Researcher.</seg>
       </tuv>
