@@ -3195,6 +3195,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player may score each objective once per game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095831Z" creationid="aorin" creationdate="20171219T095831Z">
+        <seg>各プレイヤーは、ゲームごとに一度、各目標を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player receives Food (obligatory!) as depicted on their Food Tile and according to the Food icons at their Pixies position on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141102Z" creationid="nakahodo" creationdate="20171213T141102Z">
@@ -3829,6 +3837,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200213Z" creationid="nakahodo" creationdate="20171218T200213Z">
         <seg>指示されたVP（チャーターストーンは5VP）を得て、進展トークンを進め、アーカイブに建築された建物カードを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain the indicated VP (5 VP on the Grandstand) and advance the progress token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095901Z" creationid="aorin" creationdate="20171219T095901Z">
+        <seg>示されたVP（グランドスタンドは5VP）を得て、進展トークンを進めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,6 +7398,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quota Track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095907Z" creationid="aorin" creationdate="20171219T095907Z">
+        <seg>ノルマトラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REPLENISH:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152728Z" creationid="nakahodo" creationdate="20171218T152728Z">
@@ -8628,6 +8652,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000730Z" creationid="aorin" creationdate="20171216T000730Z">
         <seg>鷲はマップの止まり木の数に基づき、いくつかの改良のクフラト、ほかプレイヤーが所有する建物を取り除く事により勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King expects your village to support the greater good of Gree11gully by sending resources、money,and other valuables back to the Etemal c, り'·</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T100540Z" creationid="aorin" creationdate="20171219T100540Z">
+        <seg>永遠なる王は久遠の都に資源、お金</seg>
       </tuv>
     </tu>
     <tu>
