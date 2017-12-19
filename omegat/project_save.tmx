@@ -3849,6 +3849,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain the indicated benefit (3 VP on the Cloud Port).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101207Z" creationid="aorin" creationdate="20171219T101207Z">
+        <seg>示された効果を得ます（クラウドポートは3VP）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gallery has equal to the number of placed upon it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034410Z" creationid="aorin" creationdate="20171212T034410Z">
@@ -6507,6 +6515,14 @@ at the Builder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay that amount to the general supply, placing 1 infiuence token on the corresponding space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101145Z" creationid="aorin" creationdate="20171219T101145Z">
+        <seg>該当するスペースに影響トークン1つを配置し、共通サプライへとその数支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay the Queen 1 or more Honey pots and advance your small cube an equal amount of spaces to the left.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143139Z" creationid="nakahodo" creationdate="20171213T143139Z">
@@ -7832,6 +7848,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select any open space on the quota track to determine the type and quantity of the commodity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101033Z" creationid="aorin" creationdate="20171219T101033Z">
+        <seg>商品の価値と種類を決定するためにノルマトラックにある、任意の空いたスペースを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Separate the 90
 coffee beans by color and place them in piles as noted
 on the bottom of the World Map, arranged by Color
@@ -8029,6 +8053,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104628Z" creationid="aorin" creationdate="20171212T104628Z">
         <seg>いくつかの円形アクションスペースは、1つの色の真珠と妖精が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of the spaces on the quota t「ack include an additional (optional) bonus:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T101313Z" creationid="aorin" creationdate="20171219T101313Z">
+        <seg>ノルマトラックのいくつかのスペースには、追加ボーナス（オプション）が含まれています：</seg>
       </tuv>
     </tu>
     <tu>
