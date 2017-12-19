@@ -2915,6 +2915,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During end-game scoring, the playe「(s) with the highest number of tokens on the reputation track gain 10 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103930Z" creationid="aorin" creationdate="20171219T103930Z">
+        <seg>ゲーム終了時の得点計算時、評判トラックに最もトークンを配置しているプレイヤー（たち）は10VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During play, you may draw special victory cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232057Z" creationid="aorin" creationdate="20171215T231939Z">
@@ -4670,6 +4678,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041212Z" creationid="aorin" creationdate="20171213T041212Z">
         <seg>あなたの妖精1体を移動させるために利用可能な空いたスポットがなく、対戦相手の妖精を降格させるためのリンゴがない場合、あなたはこのアクションを選択できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no open spaces, a token cannot be placed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103825Z" creationid="aorin" creationdate="20171219T103825Z">
+        <seg>空いたスペースがない場合、トークンを配置することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9527,6 +9543,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player(s) with the next-highest number gain 7 VP;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105357Z" creationid="aorin" creationdate="20171219T105357Z">
+        <seg>次に多く配置しているプレイヤー（たち）が7VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player’s turn is over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073704Z" creationid="nakahodo" creationdate="20171209T073704Z">
@@ -12396,6 +12420,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T080638Z" creationid="aorin" creationdate="20171213T080638Z">
         <seg>•いずれか：ゲームから3リソースまでを取り除く（あなたの個人サプライから）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• END OF GAME:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103833Z" creationid="aorin" creationdate="20171219T103833Z">
+        <seg>•ゲーム終了：</seg>
       </tuv>
     </tu>
     <tu>
