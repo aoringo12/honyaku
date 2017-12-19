@@ -3801,6 +3801,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further tokens are placed on the next open space closer to the ocean.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103703Z" creationid="aorin" creationdate="20171219T103703Z">
+        <seg>今後のトークンは海に最も近い次の空いたスペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GAINING CARDS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152719Z" creationid="nakahodo" creationdate="20171218T152530Z">
@@ -6749,6 +6757,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 influence token on the track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103518Z" creationid="aorin" creationdate="20171219T103518Z">
+        <seg>トラックに1影響トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -8991,6 +9007,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231918Z" creationid="aorin" creationdate="20171215T231918Z">
         <seg>40勝利点に到達したプレイヤーがいたら、直ちに彼がゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first token each game is put on the space showing the player count.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103559Z" creationid="aorin" creationdate="20171219T103559Z">
+        <seg>各ゲームの最初のトークンは、プレイヤー人数を示すスペースに配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12652,6 +12676,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150911Z" creationid="nakahodo" creationdate="20171218T150911Z">
         <seg>•影響の回復：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• REPUTATION TRACK:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T103509Z" creationid="aorin" creationdate="20171219T103509Z">
+        <seg>•評判トラック：</seg>
       </tuv>
     </tu>
     <tu>
