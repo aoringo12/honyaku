@@ -5356,8 +5356,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>Income</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T105635Z" creationid="aorin" creationdate="20171219T105635Z">
-        <seg>インカム</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105815Z" creationid="aorin" creationdate="20171219T105635Z">
+        <seg>収入</seg>
       </tuv>
     </tu>
     <tu>
@@ -7319,8 +7319,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Players will unlock several functions for income during the campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T105712Z" creationid="aorin" creationdate="20171219T105712Z">
-        <seg>プレイヤーたちはキャンペーン時にいくつかの機能を解放します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105819Z" creationid="aorin" creationdate="20171219T105712Z">
+        <seg>プレイヤーたちはキャンペーン時にいくつかの収入機能を解放します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7394,14 @@ Roasters.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080040Z" creationid="nakahodo" creationdate="20171209T080040Z">
         <seg>
 Producer, Wholesaler, Builder, Supplier, Leadership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progress Track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105823Z" creationid="aorin" creationdate="20171219T105823Z">
+        <seg>進展トラック</seg>
       </tuv>
     </tu>
     <tu>
@@ -8772,6 +8780,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000730Z" creationid="aorin" creationdate="20171216T000730Z">
         <seg>鷲はマップの止まり木の数に基づき、いくつかの改良のクフラト、ほかプレイヤーが所有する建物を取り除く事により勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King appraises the value of the village whenever certain thresholds are reached.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T111320Z" creationid="aorin" creationdate="20171219T111320Z">
+        <seg>永遠なる王は特定の閾値に到達するたびに、村の価値を見直します。</seg>
       </tuv>
     </tu>
     <tu>
