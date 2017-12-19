@@ -2918,6 +2918,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During setup, shuffle the objective cards into a deck and reveal 3 of those cards at random on the objective mat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095625Z" creationid="aorin" creationdate="20171219T095625Z">
+        <seg>セットアップ時、目標カードをシャッフルしてデッキにし、目標マットにこれらカードを3枚ランダムに公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101236Z" creationid="aorin" creationdate="20171212T101210Z">
@@ -6673,6 +6681,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131349Z" creationid="nakahodo" creationdate="20171213T131349Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 influence token on a currently completed objective card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095808Z" creationid="aorin" creationdate="20171219T095808Z">
+        <seg>現在完了した目標カード1つに影響トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10559,6 +10575,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Grandstand (or any building with ⑥ as the benefit) to score completed objectiveふ</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095722Z" creationid="aorin" creationdate="20171219T095722Z">
+        <seg>完了した目標を得点するために、グランドスタンド（または○効果を持つ建物）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use this Tile to perform a double offer during one of the subsequent offering phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141933Z" creationid="nakahodo" creationdate="20171213T141835Z">
@@ -11579,6 +11603,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
         <seg>アクションフェイズとは逆に、報酬フェイズ時、アクションスペースはピクシーでのみ占領でき、アクションディスクは提供フェイズ（Ⅲ）の開始時に取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>determining your value in his a/I-seeing eyes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T095518Z" creationid="aorin" creationdate="20171219T095518Z">
+        <seg>全能なる瞳にてあなたを見定めています。</seg>
       </tuv>
     </tu>
     <tu>
