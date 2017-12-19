@@ -11743,6 +11743,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and those with the highest number after that gain 4 VP (a player must have at least 1 token to qualify).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T105632Z" creationid="aorin" creationdate="20171219T105632Z">
+        <seg>その次に多く配置しているプレイヤー（たち）が4VPを得ます（資格を得るためには、少なくとも1つのトークンをトラックに配置している必要があります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>bird, fox, rabbit, and mouse.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205405Z" creationid="aorin" creationdate="20171215T205405Z">
