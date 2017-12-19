@@ -9591,6 +9591,30 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The progress token begins on the space corresponding to the player count.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T111411Z" creationid="aorin" creationdate="20171219T111411Z">
+        <seg>進展トークンはプレイヤー人数に一致するスペースから始まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The progress token must advance by 1 space whenever a building is constructed, a crate is unlocked, or an objective is scored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T111659Z" creationid="aorin" creationdate="20171219T111659Z">
+        <seg>建物を建築する、木箱を解放する、目標を得点するたびに、進展トークンを1スペース進みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The progress track is the timer for each game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T111334Z" creationid="aorin" creationdate="20171219T111334Z">
+        <seg>進展トラックは各ゲームのタイマーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The promotion is performed according to the current player turn order (large cubes).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153225Z" creationid="aorin" creationdate="20171212T153225Z">
@@ -12400,6 +12424,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• ADVANCING THE PROGRESS TOKEN:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T111436Z" creationid="aorin" creationdate="20171219T111436Z">
+        <seg>•進展トークンを進める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• An Apple can only be used to demote an opponent’s Pixie when performing a promotion with 1 of your own Pixies to the spot of the demoted Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165154Z" creationid="aorin" creationdate="20171212T165154Z">
@@ -12764,6 +12796,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103509Z" creationid="aorin" creationdate="20171219T103509Z">
         <seg>•評判トラック：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• STARTING SPACE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171219T111342Z" creationid="aorin" creationdate="20171219T111342Z">
+        <seg>•開始スペース：</seg>
       </tuv>
     </tu>
     <tu>
