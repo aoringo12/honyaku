@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>(place this card in the Archive without removing the sticker).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T165016Z" creationid="nakahodo" creationdate="20171224T165016Z">
-        <seg>（）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T165126Z" creationid="nakahodo" creationdate="20171224T165016Z">
+        <seg>（このカードを、シールを剥がすことなくアーカイブに入れます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -811,6 +811,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T165131Z" creationid="nakahodo" creationdate="20171224T165131Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122746Z" creationid="nakahodo" creationdate="20171224T122746Z">
@@ -1438,6 +1446,14 @@ their own Research Lab Ability Tracks!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155515Z" creationid="nakahodo" creationdate="20171224T155515Z">
         <seg>ゲーム1の後、インデックスからカード17を引き出します（このカードを、シールを剥がさずにアーカイブに入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After Game 11 extract card 17 from the Index  :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T165128Z" creationid="nakahodo" creationdate="20171224T165108Z">
+        <seg>ゲーム1の後、インデックスからカード17を引き出します</seg>
       </tuv>
     </tu>
     <tu>
@@ -11823,6 +11839,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112222Z" creationid="aorin" creationdate="20171219T112222Z">
         <seg>○スペースに進展トークン（○）が進んだ時、ラウンドが終了し（各プレイヤーは同じターン数を行う）、その後ゲームが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the progress token (●） advances to the a space, finish the current round, then the game ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173227Z" creationid="nakahodo" creationdate="20171224T173227Z">
+        <seg>進展トークンが●のスペースに進んだ時、現在のラウンドが終了し、その後、ゲームが終了します。</seg>
       </tuv>
     </tu>
     <tu>
