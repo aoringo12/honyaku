@@ -831,6 +831,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>125</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223143Z" creationid="nakahodo" creationdate="20171224T223143Z">
+        <seg>125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -1433,6 +1441,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222954Z" creationid="nakahodo" creationdate="20171224T222954Z">
+        <seg>アクション：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADDITIONS FOR GAMES WITH 3-5 PLAYERS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093951Z" creationid="nakahodo" creationdate="20170924T093951Z">
@@ -1493,6 +1509,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001211Z" creationid="aorin" creationdate="20171216T001211Z">
         <seg>新しいカードは既に列にあるカードの上に追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add them to the Chronicle along with the Setup cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223125Z" creationid="nakahodo" creationdate="20171224T223125Z">
+        <seg>セットアップカードらと共に、クロニクルへとこれらを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1613,6 +1637,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224649Z" creationid="aorin" creationdate="20171215T224649Z">
         <seg>これらヒットをカウントした後に、アタッカーとディフェンダーは、自身のプレイエリアにある特別アビリティや他の効果を使用してヒットを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After extracting all cards for crate A from the Index, use those cards to follow these instructions in order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222621Z" creationid="nakahodo" creationdate="20171224T222621Z">
+        <seg>インデックスから木箱Aのカード全てを引き出した後、それらのカードを使用して、順番に指示に従ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3633,6 +3665,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player gains 1 VP per coin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223005Z" creationid="nakahodo" creationdate="20171224T223005Z">
+        <seg>各プレイヤーはコインごとに1VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player gains glory(*) based on their position on the VP track (extract card 18 from the Index and read before continuing to step 3).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T173521Z" creationid="nakahodo" creationdate="20171224T173328Z">
@@ -3881,6 +3921,14 @@ Map.</seg>
         <seg>End of Game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112051Z" creationid="aorin" creationdate="20171219T112051Z">
+        <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223147Z" creationid="nakahodo" creationdate="20171224T223147Z">
         <seg>ゲーム終了</seg>
       </tuv>
     </tu>
@@ -4210,6 +4258,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144552Z" creationid="nakahodo" creationdate="20171218T144552Z">
         <seg>セットアップの各ステップを順番に実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the instructions for End of Game, starting with step 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223032Z" creationid="nakahodo" creationdate="20171224T223032Z">
+        <seg>ゲーム終了の指示に従い、ステップ2を始めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8291,6 +8347,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process the current Guidepost card (each playerwho achieved it gains冑）， 2, END·GAME SCORING:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223322Z" creationid="nakahodo" creationdate="20171224T223322Z">
+        <seg>現在の指標カードを処理します（これを達成したプレイヤーたちは●を得る）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080040Z" creationid="nakahodo" creationdate="20171209T080040Z">
@@ -8416,6 +8480,22 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T130426Z" creationid="aorin" creationdate="20171215T130426Z">
         <seg>ルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RULES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223009Z" creationid="nakahodo" creationdate="20171224T223009Z">
+        <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read this card to all players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223141Z" creationid="nakahodo" creationdate="20171224T223141Z">
+        <seg>全てのプレイヤーたちにこのカードを読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9131,6 +9211,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101313Z" creationid="aorin" creationdate="20171219T101313Z">
         <seg>ノルマトラックのいくつかのスペースには、追加ボーナス（オプション）が含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some rule cards replace older versions in the Chronicle;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222658Z" creationid="nakahodo" creationdate="20171224T222658Z">
+        <seg>いくつかのルールカードがクロニクルの古いバージョンと置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11925,6 +12013,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Updates on updated rules cards are highlighted with a red arrow (●）．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222937Z" creationid="nakahodo" creationdate="20171224T222937Z">
+        <seg>ルール更新カードによる変更は、赤い矢印で強調表示されます（●）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use 1 offered Food to perform the promotion step.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164505Z" creationid="aorin" creationdate="20171212T164505Z">
@@ -13081,6 +13177,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154252Z" creationid="nakahodo" creationdate="20171218T154252Z">
         <seg>建築された建物カード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>affix the newer rule on top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222721Z" creationid="nakahodo" creationdate="20171224T222721Z">
+        <seg>既存の上に新しいルールを貼り付けてください。</seg>
       </tuv>
     </tu>
     <tu>
