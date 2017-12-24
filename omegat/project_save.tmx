@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>(except persona cards and player pieces):</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204314Z" creationid="nakahodo" creationdate="20171224T204314Z">
-        <seg>（役割カードとプレイヤーピースを除いて）</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204934Z" creationid="nakahodo" creationdate="20171224T204314Z">
+        <seg>_（役割カードとプレイヤーピースを除いて）_</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +154,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202623Z" creationid="nakahodo" creationdate="20171224T202623Z">
         <seg>（どの星を塗りつぶすのか選択します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(you start the campaign with 1 in each category).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204813Z" creationid="nakahodo" creationdate="20171224T204813Z">
+        <seg>（各カテゴリー1からキャンペーンが始まります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2264,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be prepared to only keep 1 of each after game 2!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205012Z" creationid="nakahodo" creationdate="20171224T204927Z">
+        <seg>_なので、ゲーム2後ではそれぞれ1つのみ保持できる準備をしてください！_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bean is not placed
 and Country Token
 is turned over.</seg>
@@ -3922,6 +3938,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
         <seg>インデックスからカード2を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract card 20 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205401Z" creationid="nakahodo" creationdate="20171224T205401Z">
+        <seg>インデックスからカード20を引き出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8718,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See rule 7 for the 7 different types.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205347Z" creationid="nakahodo" creationdate="20171224T205347Z">
+        <seg>ルール7の7異なるタイプを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select any open space on the quota track to determine the type and quantity of the commodity.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101033Z" creationid="aorin" creationdate="20171219T101033Z">
@@ -10848,6 +10880,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There will be various ways to increase your capacity throughout the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205148Z" creationid="nakahodo" creationdate="20171224T205148Z">
+        <seg>キャンペーンを通してキャパシティを増やす方法がいくつもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's a lot of information to digest, so take your time.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200422Z" creationid="nakahodo" creationdate="20171218T200422Z">
@@ -12725,6 +12765,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Charter Chest shows your current capacity :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204747Z" creationid="nakahodo" creationdate="20171224T204747Z">
+        <seg>チャーターチェストに現在のキャパシティが示されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Loyal Viziers begin on Move and Battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003532Z" creationid="aorin" creationdate="20171216T003532Z">
@@ -12933,6 +12981,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>must be different types.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205356Z" creationid="nakahodo" creationdate="20171224T205356Z">
+        <seg>● 異なるタイプでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>permanently Gain 5 affix VP it and to an advance empty the plot in progress your token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145224Z" creationid="nakahodo" creationdate="20171224T145224Z">
@@ -13005,10 +13061,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>there will be revealed later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205358Z" creationid="nakahodo" creationdate="20171224T205358Z">
+        <seg>これらは後に明らかになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>these effects specify the clearing from which pieces must be removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
         <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204719Z" creationid="nakahodo" creationdate="20171224T204719Z">
+        <seg>全て共通サプライに破棄します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14151,6 +14223,38 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•adcancement card:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205216Z" creationid="nakahodo" creationdate="20171224T205216Z">
+        <seg>•発展カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•coins:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205201Z" creationid="nakahodo" creationdate="20171224T205201Z">
+        <seg>•コイン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•minions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205351Z" creationid="nakahodo" creationdate="20171224T205351Z">
+        <seg>•ミニオン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•resource tokens:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205156Z" creationid="nakahodo" creationdate="20171224T205156Z">
+        <seg>•リソーストークン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● Chaos​ ​Victory:​ ​During your Birdsong, you win the game immediately if every other player has 33 to 39 victory points or has activated a special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232934Z" creationid="aorin" creationdate="20171215T232934Z">
@@ -14299,6 +14403,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212133Z" creationid="aorin" creationdate="20171215T212133Z">
         <seg>•ヴァガボンドは建物ではなく、&lt;ハンマー&gt;を消耗させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● must be different types.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205324Z" creationid="nakahodo" creationdate="20171224T205324Z">
+        <seg>● 異なるタイプでなければなりません。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
