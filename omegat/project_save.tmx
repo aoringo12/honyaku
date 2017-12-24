@@ -851,6 +851,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131505Z" creationid="nakahodo" creationdate="20171224T131505Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4
 SET UP</seg>
       </tuv>
@@ -2050,6 +2058,15 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131635Z" creationid="nakahodo" creationdate="20171211T131635Z">
         <seg>BRIDGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Resource Buildings when the guards leave, you scout your charter for your first charter building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131702Z" creationid="nakahodo" creationdate="20171224T131702Z">
+        <seg>基本リソース建物
+ガードか出発すると、あなたは、自身の最初の建物をチャーターで探します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3319,6 +3336,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player names their persona (write on the card)-this is who you are for the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131502Z" creationid="nakahodo" creationdate="20171224T131429Z">
+        <seg>各プレイヤーは自身の人物に名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player receives Food (obligatory!) as depicted on their Food Tile and according to the Food icons at their Pixies position on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141102Z" creationid="nakahodo" creationdate="20171213T141102Z">
@@ -3600,6 +3625,22 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
         <seg>インデックスからカード2を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract card 4 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131504Z" creationid="nakahodo" creationdate="20171224T131504Z">
+        <seg>インデックスからカード4を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 200-205 from the Index and match them with each player (for each inactive charter, place their persona card in their Charter Chest).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131435Z" creationid="nakahodo" creationdate="20171224T131314Z">
+        <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身の人物カードを入れます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9944,6 +9985,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The village will rely on access to basic resources to survive, grow, and prosper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T133903Z" creationid="nakahodo" creationdate="20171224T133903Z">
+        <seg>村が存続、成長、反映するため、一般的な資源の量に依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The winner is the player with the highest overall score, but be aware that getting on the
 positive part of the score track is difficult!</seg>
       </tuv>
@@ -12195,6 +12244,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the text on it will be explained later), then open it to reveal these components:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131118Z" creationid="nakahodo" creationdate="20171224T131118Z">
+        <seg>このテキストについては後述）、その後、これらコンポーネントを出すために開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the two lowest slave positions in the mine are always the first ones to be filled.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171212Z" creationid="aorin" creationdate="20171212T171124Z">
@@ -12526,6 +12583,30 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   1 victory point (VP) token</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131146Z" creationid="nakahodo" creationdate="20171224T131146Z">
+        <seg>•1勝利点（VP）トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   12 influence tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131152Z" creationid="nakahodo" creationdate="20171224T131152Z">
+        <seg>•12影響トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   2 regular workers (1 big, t small)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131136Z" creationid="nakahodo" creationdate="20171224T131136Z">
+        <seg>•2レギュラーワーカー（1大、1小）</seg>
       </tuv>
     </tu>
     <tu>
