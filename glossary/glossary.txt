@@ -267,7 +267,6 @@ correspond	一致する
 progress	進展
 GUIDEPOST	指標
 first player	ファーストプレイヤー
-persona card	人物カード
 constructed building card	建築された建物カード
 influence token	影響トークン
 quota	ノルマ
@@ -300,7 +299,6 @@ affix	貼り付ける
 remnant	残された	残された物、名残、残骸物
 Archive	アーカイブ
 grain	穀物
-persona	人物
 rely on	信頼する	依存
 oriented	正位置
 plot	区画
@@ -314,3 +312,5 @@ in advance	あらかじめ
 Commons	共有地
 Greengully	グリーングリー
 Charter Chest	チャーターチェスト
+persona card	役割カード
+persona	役割
