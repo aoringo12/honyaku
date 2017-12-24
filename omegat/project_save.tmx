@@ -910,6 +910,14 @@ look something like the diagram above.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 for fewer than 6 Players...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135238Z" creationid="nakahodo" creationdate="20171224T135238Z">
+        <seg>6プレイヤーよりも少ない…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5, CARDS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153111Z" creationid="nakahodo" creationdate="20171218T153111Z">
@@ -3328,6 +3336,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player keeps their constructed building card face up in front of them, as they'll need it later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134725Z" creationid="nakahodo" creationdate="20171224T134725Z">
+        <seg>各プレイヤーは自身の前に建築された建物カードを表向きで保持します。これは後に使う時が来るでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player may score each objective once per game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095831Z" creationid="aorin" creationdate="20171219T095831Z">
@@ -3356,6 +3372,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093444Z" creationid="aorin" creationdate="20171212T093444Z">
         <seg>4.各プレイヤーは次を受け取ります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player removes the building sticker from their corresponding card and affixes  it Buildings permanently must to be any oriented plot in in their the same charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134434Z" creationid="nakahodo" creationdate="20171224T134434Z">
+        <seg>各プレイヤーは自身に対応するカードから建物シールを剥がし、自身のチャーターの任意の区画へと、正位置でこの建物を永続的に貼り付けなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3621,6 +3645,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract card 11 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134727Z" creationid="nakahodo" creationdate="20171224T134727Z">
+        <seg>インデックスからカード11を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract card 2 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
@@ -3641,6 +3673,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131435Z" creationid="nakahodo" creationdate="20171224T131314Z">
         <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身の人物カードを入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 5-10 from the Index and give each player the card that matches their charter (set aside cards for inactive charters for a moment).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134019Z" creationid="nakahodo" creationdate="20171224T134019Z">
+        <seg>インデックスから5~10のカードを引き出し、各プレイヤーへとキャラクターに一致するように配ります（非アクティブ辛くターのものは脇に避けておく）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10279,6 +10319,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These cards feature basic resource buildings where players will place workers to gain 1 of the indicated resource.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134213Z" creationid="nakahodo" creationdate="20171224T134213Z">
+        <seg>これらのカードは、プレイヤーがワーカーを配置することによって、示されたリソースの1つを得ることのできる基本リソース建物が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These penalties stack, so moving into a clearing with two Nemesis factions will cost a total of three &lt;boot&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075500Z" creationid="aorin" creationdate="20171216T075500Z">
@@ -12272,6 +12320,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152623Z" creationid="aorin" creationdate="20171215T152623Z">
         <seg>戦士と建物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>way as  all other buildings on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134606Z" creationid="nakahodo" creationdate="20171224T134606Z">
+        <seg>建物は、ボードにある全ての他建物と同じように、正位置（つまり、重力的に上下正しく）である必要があります。</seg>
       </tuv>
     </tu>
     <tu>
