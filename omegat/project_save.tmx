@@ -839,6 +839,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>126 setup inactive charters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224600Z" creationid="nakahodo" creationdate="20171224T224600Z">
+        <seg>非アクティブチャーターのセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -1134,6 +1142,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T074925Z" creationid="nakahodo" creationdate="20171209T074925Z">
         <seg>得点計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224440Z" creationid="nakahodo" creationdate="20171224T224440Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,6 +2595,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CLEAR:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224445Z" creationid="nakahodo" creationdate="20171224T224445Z">
+        <seg>クリア：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CO-OP</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T080322Z" creationid="aorin" creationdate="20171212T080322Z">
@@ -2874,6 +2898,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223618Z" creationid="aorin" creationdate="20171024T223547Z">
         <seg>クリス、シェリリン、TCは全員同じ地域に居て、ブレンドする決定をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear the board &amp; mats of all components.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224515Z" creationid="nakahodo" creationdate="20171224T224515Z">
+        <seg>ボードとマットの全てのコンポーネントをクリア（綺麗に）します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,6 +8798,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve all of your player pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224439Z" creationid="nakahodo" creationdate="20171224T224439Z">
+        <seg>自身のプレイヤーピースの全てを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return all conspiracies on Hideout card slots to your hand (both face-up and facedown cards).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052903Z" creationid="aorin" creationdate="20171216T052903Z">
@@ -11883,6 +11923,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T143641Z" creationid="nakahodo" creationdate="20171218T143602Z">
         <seg>プレイヤーを不参加にするには、ルール2を参照します（ゲーム2の後に開放されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To keep the village growing at a steady pace, follow these steps once per each inactive charter with at least 1 open plot (any order):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T234631Z" creationid="nakahodo" creationdate="20171224T234631Z">
+        <seg>着実なペースで村の成長を維持するには、非アクティブチャーターごとに一度ずつ、少なくとも1つの空いた区画（任意の順番で）に次のステップを行います。</seg>
       </tuv>
     </tu>
     <tu>
