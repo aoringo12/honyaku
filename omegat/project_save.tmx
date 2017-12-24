@@ -1398,8 +1398,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After spending all day flying over the kingdom, the zeppelin sets down and the guards open the hatch for you and your companions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120924Z" creationid="nakahodo" creationdate="20171224T120815Z">
-        <seg>ツェッペリンにて王国の空を一日過ごし、ようやく着陸したツェッペリンのハッチが、あなたと、あなたの仲間たちのために開けられました。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T123610Z" creationid="nakahodo" creationdate="20171224T120815Z">
+        <seg>ツェッペリンにて王国の空を一日過ごし、ようやく着陸したツェッペリンのハッチがガードによってあなたと、あなたの仲間たちのために開けられました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9252,6 +9252,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The guards unload a number of mysterious crates and forbid you to open any of them, except for the one labeled "Scriptorium." Open it now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125331Z" creationid="nakahodo" creationdate="20171224T123559Z">
+        <seg>ガードはいくつかの神秘的な木箱を荷降ろし、「スクリプトリウム（Scriptrium）」これらを開くことを禁止しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
@@ -9805,6 +9813,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031235Z" creationid="aorin" creationdate="20171212T031208Z">
         <seg>基本ルールはミントワークスのソリティアモードにも適応される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sun is setting as you venture outside.The location is a lush landscape of rolling hills,patches of trees, and a babbling brook.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T123525Z" creationid="nakahodo" creationdate="20171224T123525Z">
+        <seg>あなたが思い切って外に出ると太陽が沈んでいます。なだらかな丘、豊かな木々、流れる小川といったのどかな風景となっています。</seg>
       </tuv>
     </tu>
     <tu>
