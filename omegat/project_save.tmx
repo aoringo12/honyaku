@@ -3443,8 +3443,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player gains glory(*) based on their position on the VP track (extract card 18 from the Index and read before continuing to step 3).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173328Z" creationid="nakahodo" creationdate="20171224T173328Z">
-        <seg>Each player gains glory(*) based on their position on the VP track (extract card 18 from the Index and read before continuing to step 3).</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173521Z" creationid="nakahodo" creationdate="20171224T173328Z">
+        <seg>各プレイヤーはVPトラックの自身の位置にもとづいて栄光（●）を得ます（インデックスからカード18を引き出し、ステップ3に続く前に読んで下さい）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10197,6 +10197,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player(s) with the most victory points this game mark their Charter Chest ('!').</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T175226Z" creationid="nakahodo" creationdate="20171224T175226Z">
+        <seg>最も勝利点を持つプレイヤー（たち）は、自身のチャーターチェスト（●）を塗りつぶします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player(s) with the next-highest number gain 7 VP;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105357Z" creationid="aorin" creationdate="20171219T105357Z">
@@ -11613,6 +11621,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T093528Z" creationid="nakahodo" creationdate="20171001T093054Z">
         <seg>ビバジャワ：コーヒーゲームは各ラウンドが3つのフェイズに別れた、複数のラウンドによってされます： </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WINNER(S):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173556Z" creationid="nakahodo" creationdate="20171224T173556Z">
+        <seg>勝利者（たち）：</seg>
       </tuv>
     </tu>
     <tu>
