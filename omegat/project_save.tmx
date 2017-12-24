@@ -1768,6 +1768,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, as a show of humility, each winning charter and inactive charter must now be named by the non-winner(s).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195003Z" creationid="nakahodo" creationdate="20171224T195003Z">
+        <seg>また、謙虚さの証として、勝利するチャーターと非アクティブチャーターそれぞれは、敗北者（たち）によって今名前を書きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alter play priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143042Z" creationid="nakahodo" creationdate="20171213T143042Z">
