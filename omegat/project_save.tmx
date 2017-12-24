@@ -1736,6 +1736,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An important part of Game 1 is for each player to use the Charterstone building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142407Z" creationid="nakahodo" creationdate="20171224T142407Z">
+        <seg>ゲーム1にて重要なことは、各プレイヤーがチャーターストーンの建物を利用することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -7997,6 +8005,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review the steps on 「ule 19 the first time this happens this in Game 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T143115Z" creationid="nakahodo" creationdate="20171224T143115Z">
+        <seg>Review the steps on 「ule 19 the first time this happens this in Game 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reward Phase:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131604Z" creationid="nakahodo" creationdate="20171213T131604Z">
@@ -10898,6 +10914,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093926Z" creationid="nakahodo" creationdate="20170924T093926Z">
         <seg>このシンボルは、国の作物スペースに豆を配置せず、その地域の国トークンを●側に裏返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will let you unlock the crate shown on your constructed building card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142453Z" creationid="nakahodo" creationdate="20171224T142453Z">
+        <seg>これにより、あなたの建築された建物カードに示された木箱を開放できます。</seg>
       </tuv>
     </tu>
     <tu>
