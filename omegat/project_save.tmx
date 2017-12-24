@@ -6365,6 +6365,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now begin the game!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T143350Z" creationid="nakahodo" creationdate="20171224T143350Z">
+        <seg>さあゲームを始めましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, with the aid of gorgeous, multi-use cards, a truly asymmetric design has never been more accessible.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154311Z" creationid="nakahodo" creationdate="20171103T154311Z">
@@ -8005,6 +8013,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review the steps on rule 19 the first time this happens this in Game 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T143341Z" creationid="nakahodo" creationdate="20171224T143341Z">
+        <seg>ゲーム1でこれが初めて起きる時、ルール19のステップを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review the steps on 「ule 19 the first time this happens this in Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T143115Z" creationid="nakahodo" creationdate="20171224T143115Z">
@@ -8284,6 +8300,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092947Z" creationid="nakahodo" creationdate="20171001T092947Z">
         <seg>プレイの流れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set this card aside and refer to it the first time a player unlocks a crate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T144622Z" creationid="nakahodo" creationdate="20171224T144622Z">
+        <seg>このカードを脇に置いて、初めて木箱を開放するプレイヤーはこれを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
