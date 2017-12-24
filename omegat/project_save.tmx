@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(your first guidepost):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213551Z" creationid="nakahodo" creationdate="20171224T213545Z">
+        <seg>（あなたの最初の指標）、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+1 VP or 1 reputation(,£).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101426Z" creationid="aorin" creationdate="20171219T101426Z">
@@ -923,6 +931,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214011Z" creationid="nakahodo" creationdate="20171224T214011Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -1017,6 +1033,14 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
         <seg>•4プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>400</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214139Z" creationid="nakahodo" creationdate="20171224T214139Z">
+        <seg>400</seg>
       </tuv>
     </tu>
     <tu>
@@ -4016,8 +4040,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract card 400 :</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213416Z" creationid="nakahodo" creationdate="20171224T213416Z">
-        <seg>インデックスからカード400を引き出し（あなたの最初の指標）、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213537Z" creationid="nakahodo" creationdate="20171224T213416Z">
+        <seg>インデックスからカード400を引き出し</seg>
       </tuv>
     </tu>
     <tu>
@@ -5778,6 +5802,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're ready to play Game 2 now, reset the board &amp; mats of tokens &amp; cards, then return to setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213919Z" creationid="nakahodo" creationdate="20171224T213919Z">
+        <seg>ゲーム2をプレイする準備ができている場合、ボード、トークンとカードのマットをリセットし、その後、セットアップに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your building is removed, return it to the rightmost empty space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
@@ -6342,6 +6374,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123831Z" creationid="nakahodo" creationdate="20171213T123831Z">
         <seg>小さなキューブトラックはそのままにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave this card at the front of the Index for the entire campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214009Z" creationid="nakahodo" creationdate="20171224T214009Z">
+        <seg>このカードは、キャンペーン全体のインデックスの前に残します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8191,6 +8231,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132926Z" creationid="aorin" creationdate="20171215T132926Z">
         <seg>デッキの準備：3か4人でプレイしている場合、連合勝利特別勝利カードとカオス勝利特別勝利カードを箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private Objective Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214026Z" creationid="nakahodo" creationdate="20171224T214026Z">
+        <seg>Private Objective Cards</seg>
       </tuv>
     </tu>
     <tu>
@@ -13057,6 +13105,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104023Z" creationid="aorin" creationdate="20171212T104023Z">
         <seg>一時的な優先度アクションでは、プレイヤーは残りのアクションディスク全てを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from the Index and read the exposed text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213644Z" creationid="nakahodo" creationdate="20171224T213425Z">
+        <seg>露出している部分のテキストを読みます。</seg>
       </tuv>
     </tu>
     <tu>
