@@ -743,6 +743,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141353Z" creationid="nakahodo" creationdate="20171224T141353Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12 each of metal, grain, wood, coal, clay, pumpkin)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T125904Z" creationid="nakahodo" creationdate="20171224T125904Z">
@@ -3661,6 +3669,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract card 12 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141352Z" creationid="nakahodo" creationdate="20171224T141352Z">
+        <seg>インデックスからカード12を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract card 2 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
@@ -3681,6 +3697,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131435Z" creationid="nakahodo" creationdate="20171224T131314Z">
         <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身の人物カードを入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 206-218 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141413Z" creationid="nakahodo" creationdate="20171224T141413Z">
+        <seg>インデックスからカード206~218を引き出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6591,6 +6615,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the Chronicle and proceed with the setup instructions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141847Z" creationid="nakahodo" creationdate="20171224T141847Z">
+        <seg>クロニクルを開き、セットアップ手順を進行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030827Z" creationid="aorin" creationdate="20171212T030827Z">
@@ -7171,6 +7203,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
         <seg>各製材所に木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the 8 assistant cards on the advancement mat and the 5 objective cards on the objective mat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141640Z" creationid="nakahodo" creationdate="20171224T141640Z">
+        <seg>発展マットにアシスタントカード8枚を配置し、目標マットに目標カード5枚を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10710,6 +10750,14 @@ region in which they place their Field Researcher.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is necessary for solo games, but we recommend that 2+ player games only consider Automa after Game 1 o「2(notnow).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141347Z" creationid="nakahodo" creationdate="20171224T141347Z">
+        <seg>これはソロゲームでは必須ですが、2プレイヤー以上のゲームでは、ゲーム1か2（今ではなく）後にオートマを検討することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the general supply, which is
 limited!</seg>
       </tuv>
@@ -12064,6 +12112,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122726Z" creationid="nakahodo" creationdate="20171224T122726Z">
         <seg>これを全てのストーリーとルールカードで行うことになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will soon shuffle the cards on each of the mats into their respective decks,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141829Z" creationid="nakahodo" creationdate="20171224T141829Z">
+        <seg>あなたはすぐに、各マットのカードをそれぞれのデッキにシャッフルへとシャッフルすることになります。</seg>
       </tuv>
     </tu>
     <tu>
