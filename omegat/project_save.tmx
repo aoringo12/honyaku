@@ -1857,6 +1857,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among those players, the player with the most influence tokens  in their guidepost personal :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213221Z" creationid="nakahodo" creationdate="20171224T213221Z">
+        <seg>プレイヤーの中で、個人サプライに最も影響トークンを持つプレイヤーが指標のオプションを公開します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An Apple can be used to demote an opposing Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133556Z" creationid="nakahodo" creationdate="20171213T133556Z">
@@ -2047,6 +2055,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133449Z" creationid="nakahodo" creationdate="20171213T133449Z">
         <seg>報酬フェイズ終わりに、全ての昇進ステップが実行された時、クイーンに必要な食料を提供していなかったとしても、無料の昇進ステップを追加で1回実行できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the game, any player who achieved the guidepost gain 1 glory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T210757Z" creationid="nakahodo" creationdate="20171224T210757Z">
+        <seg>ゲームが終了すると、指標を達成できたプレイヤーたちは1栄光を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,8 +4655,8 @@ and a Research Lab.</seg>
       <tuv lang="EN-US">
         <seg>Guideposts offer a goal for any number of players to achieve.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T210602Z" creationid="nakahodo" creationdate="20171224T210602Z">
-        <seg>指標は任意の数のプレイヤーたちが達成できる目標を提供します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T210700Z" creationid="nakahodo" creationdate="20171224T210602Z">
+        <seg>指標は任意の数のプレイヤーたちによって達成される目標を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8967,6 +8983,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some guideposts_have temporary rules for the current game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T210734Z" creationid="nakahodo" creationdate="20171224T210734Z">
+        <seg>いくつかの指標はゲームに一時的なルールを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the circular action spaces are marked with pearls in a single colour and have a Pixie depicted on them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104628Z" creationid="aorin" creationdate="20171212T104628Z">
@@ -9869,6 +9893,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104710Z" creationid="aorin" creationdate="20171212T104710Z">
         <seg>選択されたアクションは直ちに実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current guidepost is kept face-up on the board and is processed at the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T210635Z" creationid="nakahodo" creationdate="20171224T210635Z">
+        <seg>現在の指標はボードに表向きで保持され、ゲーム終了時に処理されます。</seg>
       </tuv>
     </tu>
     <tu>
