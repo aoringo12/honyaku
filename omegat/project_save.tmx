@@ -819,6 +819,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T200118Z" creationid="nakahodo" creationdate="20171224T200118Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122746Z" creationid="nakahodo" creationdate="20171224T122746Z">
@@ -3830,6 +3838,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract card 19 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T200110Z" creationid="nakahodo" creationdate="20171224T200110Z">
+        <seg>インデックスからカード19を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract card 2 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
@@ -4409,6 +4425,22 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165711Z" creationid="aorin" creationdate="20171212T165711Z">
         <seg>次の順番でペナルティポイントを配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T200132Z" creationid="nakahodo" creationdate="20171224T200122Z">
+        <seg>栄光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glory is your prima,y measure of success in your quest for the Forever I〈ing to make  you the leader of the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T202223Z" creationid="nakahodo" creationdate="20171224T202223Z">
+        <seg>栄光は、永遠なる王に村のリーダーにしてもうらうため、あなたが求める成功の一番の目安となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,8 +6510,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Name your charter (write it on the board).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195314Z" creationid="nakahodo" creationdate="20171224T175342Z">
-        <seg>あなたのチャーターに名前をつけます（ボードに書くことによって）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195738Z" creationid="nakahodo" creationdate="20171224T175342Z">
+        <seg>自身のチャーターに名前をつけます（ボードに書くことによって）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7861,8 +7893,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Players will name the village later</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195050Z" creationid="nakahodo" creationdate="20171224T195050Z">
-        <seg>プレイヤーたちは後に村の名前となるでしょう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T200019Z" creationid="nakahodo" creationdate="20171224T195050Z">
+        <seg>プレイヤーたちは後に村の名前もつけることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12489,6 +12521,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T152351Z">
         <seg>ゲーム終了時、選択した役割を記録するように指示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will carryove「 allcomponents in your personal supply from Game 1 to Game 2, including coins, resou「ces, cards, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T200126Z" creationid="nakahodo" creationdate="20171224T200007Z">
+        <seg>ゲーム1からゲーム2へと、コイン、リソース、カード、その他を含む自身の個人サプライのコンポーネントを全て持ち越します。</seg>
       </tuv>
     </tu>
     <tu>
