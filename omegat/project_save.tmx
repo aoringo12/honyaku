@@ -674,6 +674,17 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Chartersts one token (●) 1 progres (●) 4 plastic bags Extract card 3 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T130103Z" creationid="nakahodo" creationdate="20171224T130103Z">
+        <seg>•1チャーターストーン（●）
+•1進行トークン（●）
+•4ビニール袋
+インデックスからカード3を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Food Tile, 1 Permanent Ability Tile and 1</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043334Z" creationid="aorin" creationdate="20171213T043334Z">
@@ -795,6 +806,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T130104Z" creationid="nakahodo" creationdate="20171224T130104Z">
+        <seg>3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2327,6 +2346,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charter Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T130134Z" creationid="nakahodo" creationdate="20171224T130134Z">
+        <seg>チャーターの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charterstone is a legacy game, which means you will make permanent changes to the game, mostly in the  form of writing on the board/cards with markers (provided by the players) and stickers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141118Z" creationid="nakahodo" creationdate="20171218T141118Z">
@@ -3312,6 +3339,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043419Z" creationid="aorin" creationdate="20171213T043319Z">
         <seg>各プレイヤースクリーンは3種の異なるタイルのスペースを1つずつのみ、持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player should now adjust their seating position to permanently select their charter.Claim your Charter Chest (the box with your charter emblem;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131017Z" creationid="nakahodo" creationdate="20171224T131017Z">
+        <seg>各プレイヤーは自身が選択するチャーターに近い場所へと、永続的に座る必要があります。あなたのキャラクターチェストを主張し（あなたのキャラクターエンブレムがあるボックス；</seg>
       </tuv>
     </tu>
     <tu>
@@ -9285,6 +9320,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The group gothers around a large rock, You recognize it as a Charterstone, just like the one at the center of the Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T130448Z" creationid="nakahodo" creationdate="20171224T130448Z">
+        <seg>面々は大きな岩の周りに集まります。あなたは、それが久遠の都の中央にあるチャーターストーンであるように思えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The guards unload a number of mysterious crates and forbid you to open any of them, except for the one labeled "Scriptorium." Open it now.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T125606Z" creationid="nakahodo" creationdate="20171224T123559Z">
@@ -9889,6 +9932,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134752Z" creationid="nakahodo" creationdate="20171127T134752Z">
         <seg>ドラゴンがいるタイルには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The village is divided into 6 charters, each with 6 hexagonal plots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T130818Z" creationid="nakahodo" creationdate="20171224T130818Z">
+        <seg>村は、ヘックス（六角形）が6つ描かれたチャーターによって、6つに分かれています。</seg>
       </tuv>
     </tu>
     <tu>
