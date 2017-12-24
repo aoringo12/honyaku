@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(roll the supply Charterstone reveals the to break options on further the  ties):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213244Z" creationid="nakahodo" creationdate="20171224T213244Z">
+        <seg>（タイの場合はチャーターストーンをロールして決めます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(you choose which stars to fill in).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202623Z" creationid="nakahodo" creationdate="20171224T202623Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101426Z" creationid="aorin" creationdate="20171219T101426Z">
         <seg>+1VP、または1評判（○）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>, That player chooses 1 of the options and opens the corresponding crate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213308Z" creationid="nakahodo" creationdate="20171224T213308Z">
+        <seg>そのプレイヤーはオプションの1つを選択肢、該当する木箱を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -895,6 +911,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205402Z" creationid="nakahodo" creationdate="20171224T205402Z">
         <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213336Z" creationid="nakahodo" creationdate="20171224T213336Z">
+        <seg>21</seg>
       </tuv>
     </tu>
     <tu>
@@ -3974,10 +3998,26 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract card 21 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213336Z" creationid="nakahodo" creationdate="20171224T213336Z">
+        <seg>インデックスからカード21を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract card 4 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131504Z" creationid="nakahodo" creationdate="20171224T131504Z">
         <seg>インデックスからカード4を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract card 400 :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213416Z" creationid="nakahodo" creationdate="20171224T213416Z">
+        <seg>インデックスからカード400を引き出し（あなたの最初の指標）、</seg>
       </tuv>
     </tu>
     <tu>
@@ -11925,6 +11965,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T234815Z" creationid="aorin" creationdate="20171215T234815Z">
         <seg>勝利点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vii happy king 息 angry king</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213334Z" creationid="nakahodo" creationdate="20171224T213334Z">
+        <seg>喜ぶ王　怒る王</seg>
       </tuv>
     </tu>
     <tu>
