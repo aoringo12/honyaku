@@ -9238,6 +9238,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the advancement deck, thenreveal cards until you find an unconstructed building card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T234646Z" creationid="nakahodo" creationdate="20171224T234646Z">
+        <seg>Shuffle the advancement deck, thenreveal cards until you find an unconstructed building card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132733Z" creationid="aorin" creationdate="20171215T132733Z">
@@ -11929,8 +11937,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To keep the village growing at a steady pace, follow these steps once per each inactive charter with at least 1 open plot (any order):</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T234631Z" creationid="nakahodo" creationdate="20171224T234631Z">
-        <seg>着実なペースで村の成長を維持するには、非アクティブチャーターごとに一度ずつ、少なくとも1つの空いた区画（任意の順番で）に次のステップを行います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T234727Z" creationid="nakahodo" creationdate="20171224T234631Z">
+        <seg>着実なペースで村の成長を維持するには、（任意の順番で）少なくとも1つの空いた区画がある非アクティブチャーターごとに一度ずつ、に次のステップを行います。</seg>
       </tuv>
     </tu>
     <tu>
