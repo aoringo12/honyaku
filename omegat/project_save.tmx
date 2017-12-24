@@ -2075,6 +2075,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of Game 2, before any of the end-game steps, folio􀂇the Guidepost rules to award glory and reveal the following options:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214602Z" creationid="nakahodo" creationdate="20171224T214602Z">
+        <seg>ゲーム2の終わりに、任意のゲーム終了ステップの前に、栄光を与えるために指標ルールに従い、次のオプションを公開します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of Games 2 through 12, your capacity will determine the number of components in your personal supply that you may keep.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204212Z" creationid="nakahodo" creationdate="20171224T204212Z">
@@ -6310,6 +6318,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154418Z" creationid="nakahodo" creationdate="20171218T154418Z">
         <seg>あなたの個人サプライに建築された建物カードを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep this card face up on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214436Z" creationid="nakahodo" creationdate="20171224T214436Z">
+        <seg>このカードをボードに表向きで維持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12925,6 +12941,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You're going to need a wealth of coins and resources to build the village, but be carefiil— everything in excess of your capacity must be returned to the general supply at the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214423Z" creationid="nakahodo" creationdate="20171224T214423Z">
+        <seg>あなたは村を構築するために大量のコインや資源を必要としますが、あなたのキャパシティを超えるものは、ゲーム終了時に共通サプライに戻さなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Youll need some help to get the village running smoothly.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153516Z" creationid="nakahodo" creationdate="20171218T153335Z">
@@ -14587,6 +14611,22 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205324Z" creationid="nakahodo" creationdate="20171224T205324Z">
         <seg>● 異なるタイプでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>息If you would like a bonus for all of the coins you've collected, open crate A</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214654Z" creationid="nakahodo" creationdate="20171224T214654Z">
+        <seg>あなたの集めたコイン全てをボーナスとしたいなら、木箱Aを空ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>灌If you would like a bonus for all of the resources</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220254Z" creationid="nakahodo" creationdate="20171224T220254Z">
+        <seg>あなたの集めたリソース全てをボーナとしたいなら、木箱Bを空ける。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
