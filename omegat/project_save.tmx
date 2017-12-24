@@ -3302,6 +3302,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>END-GAME SCORING:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173236Z" creationid="nakahodo" creationdate="20171224T173236Z">
+        <seg>ゲーム終了得点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>END-OF-CAMPAIGN VALUE:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145403Z" creationid="nakahodo" creationdate="20171224T145403Z">
@@ -3429,6 +3437,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030600Z" creationid="aorin" creationdate="20171212T030548Z">
         <seg>各プレイヤーは●1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player gains glory(*) based on their position on the VP track (extract card 18 from the Index and read before continuing to step 3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173328Z" creationid="nakahodo" creationdate="20171224T173328Z">
+        <seg>Each player gains glory(*) based on their position on the VP track (extract card 18 from the Index and read before continuing to step 3).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4195,6 +4211,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144626Z" creationid="nakahodo" creationdate="20171218T144626Z">
         <seg>基本サプライ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GLORY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173314Z" creationid="nakahodo" creationdate="20171224T173314Z">
+        <seg>栄光：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,6 +5722,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140603Z" creationid="nakahodo" creationdate="20171127T140514Z">
         <seg>覚醒に飢えのキューブを移動するためには、這い寄るを使用して異なる怠惰トラックにキューブをまず移動させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In player order, gain VP for reputation and cards with O.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T173305Z" creationid="nakahodo" creationdate="20171224T173305Z">
+        <seg>プレイヤー順番に、評判と●のあるカードからVPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
