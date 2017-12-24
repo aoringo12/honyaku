@@ -6436,10 +6436,26 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NON-WINNER(S):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T175238Z" creationid="nakahodo" creationdate="20171224T175238Z">
+        <seg>勝利者（たち）がいない：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025607Z" creationid="aorin" creationdate="20171212T025607Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name your charter (write it on the board).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T175342Z" creationid="nakahodo" creationdate="20171224T175342Z">
+        <seg>あなたのキャラクターの名前を記入します（ボードに）。</seg>
       </tuv>
     </tu>
     <tu>
