@@ -13004,6 +13004,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•   If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153412Z" creationid="nakahodo" creationdate="20171224T153412Z">
+        <seg>•ゲーム中に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• 1 Apple, 1 Honey and 1 Bread</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045852Z" creationid="aorin" creationdate="20171213T045852Z">
