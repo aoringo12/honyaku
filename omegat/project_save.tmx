@@ -1480,6 +1480,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the first crate is unlocked, extract card 14 from the Index (place this card in the Archive without removing the sticker).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T144705Z" creationid="nakahodo" creationdate="20171224T144705Z">
+        <seg>最初の木箱が開放された後、インデックスからカード14を引き出します（このカードのシールを剥がさずにアーカイブへと入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you peel the sticker off a building card to construct it, you're left with a new type of card:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154330Z" creationid="nakahodo" creationdate="20171218T154330Z">
@@ -2117,6 +2125,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093447Z" creationid="nakahodo" creationdate="20170924T093447Z">
         <seg>豆は配置されず、国トークンは裏返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of their mobility and flexibility, zeppelins are the standard way of constructing buildings in Greengully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T144855Z" creationid="nakahodo" creationdate="20171224T144855Z">
+        <seg>その移動性と順応性により、ツェッペリンはグリーングリーでの建物を建築する一般的な方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,6 +6823,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay 3 in什uence tokens plus the 4 resources shown on the upper left of a building card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T145049Z" creationid="nakahodo" creationdate="20171224T145049Z">
+        <seg>影響トークン3つに加え、建物カードの左上に示されるリソース4つを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay any 1 resource to gain $1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T191314Z" creationid="nakahodo" creationdate="20171218T191302Z">
@@ -7895,6 +7919,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
         <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達するか超えるとすぐに、あなたは直ちに昇進している妖精1体を降格させて、あなたの炭鉱へと再びドレイにさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the building sticker and charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T145150Z" creationid="nakahodo" creationdate="20171224T145150Z">
+        <seg>建物シールを剥がす、自身のチャーターの空いたスロット1つに永久的に貼り付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12084,6 +12116,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may place a worker on the Zeppelin to construct a building on an empty plot in your charter using a building card from your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T145020Z" creationid="nakahodo" creationdate="20171224T145020Z">
+        <seg>あなたは自身のチャーターの空いた区画1つへと建物を建築するために、ツェッペリンにワーカー1つを配置し、個人サプライから建物カード1枚を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may play each card to the end of any of the four columns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001835Z" creationid="aorin" creationdate="20171216T001835Z">
@@ -12472,6 +12512,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
         <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tonstructing a Building</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T144735Z" creationid="nakahodo" creationdate="20171224T144735Z">
+        <seg>建物の建築</seg>
       </tuv>
     </tu>
     <tu>
