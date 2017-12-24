@@ -1076,6 +1076,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A charter not controlled by a player is called an inactive charter, but it is still very much a part of the growing village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135827Z" creationid="nakahodo" creationdate="20171224T135827Z">
+        <seg>プレイヤーによってコントロールされていないチャーターを非アクティブチャーターと呼称しますが、これは未だ成長する村の一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A clearing is adjacent to all other clearings linked to it by a path.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
@@ -4870,6 +4878,14 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are fewer than 6 players, affix each remaining building sticker to a plot in the indicated (inactive) charters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135939Z" creationid="nakahodo" creationdate="20171224T135939Z">
+        <seg>6プレイヤーに満たない場合、残っている建物ごとに、示された（非アクティブチャーター）チャーターの区画1つにシールを貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are no beans of that type in the Fields,
 players cannot use this ability.</seg>
       </tuv>
@@ -7799,6 +7815,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001856Z" creationid="aorin" creationdate="20171216T001856Z">
         <seg>リフォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regardless of the number of human players in any given game of Charterstone, there are always 6 founding villagers, each operating a different charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135549Z" creationid="nakahodo" creationdate="20171224T135549Z">
+        <seg>チャーターストーンの任意のゲームでのプレイヤー人数に関わらず、常に6人の村創設人がいて、異なるチャーターをそれぞれ運営しています。</seg>
       </tuv>
     </tu>
     <tu>
