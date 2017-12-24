@@ -10244,6 +10244,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, for players who haven't read the rules in advance, explain  a player turn (rule 15), the buildings in The Commons (rule 17), the Cloud Port (rule 22), and the reputation track (rule 23).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142142Z" creationid="nakahodo" creationdate="20171224T142142Z">
+        <seg>その後、事前にルールを読んでいないプレイヤーたちへと、プレイヤーターン（ルール15）、共有地の建物（ルール17）、クラウドポート（ルール12）、評判トラック（ルール23）を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, resolve the Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002051Z" creationid="aorin" creationdate="20171216T002051Z">
@@ -11646,6 +11654,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075018Z" creationid="aorin" creationdate="20171216T075018Z">
         <seg>あなたがヒットを受ける時、あなたはまず、戦闘地の同盟戦士を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you're ready to begin Game 1, extract card 13 from the Index (place this card in the Archive without removing the sticker).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142253Z" creationid="nakahodo" creationdate="20171224T142253Z">
+        <seg>ゲーム1を開始する準備ができたら、インデックスからカード13を引き出します（シールを剥がさずにアーカイブへとこのカードを入れます）。</seg>
       </tuv>
     </tu>
     <tu>
