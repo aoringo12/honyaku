@@ -1390,8 +1390,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After spending all day flying over the kingdom, the zeppelin sets down and the guards open the hatch for you and your companions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120815Z" creationid="nakahodo" creationdate="20171224T120815Z">
-        <seg>一日を空の旅で過ごし、ようやく着陸したツェッペリンのハッチが、あなたと、あなたの仲間たちのために乗務員の手によって開けられました。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120924Z" creationid="nakahodo" creationdate="20171224T120815Z">
+        <seg>ツェッペリンにて王国の空を一日過ごし、ようやく着陸したツェッペリンのハッチが、あなたと、あなたの仲間たちのために開けられました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5764,6 +5764,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Locate and open the Chronicle (rulebook).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T121202Z" creationid="nakahodo" creationdate="20171224T121123Z">
+        <seg>クロニクル（ルールブック）を探して開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locations containing 2</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164929Z" creationid="aorin" creationdate="20171212T164929Z">
@@ -6663,6 +6671,14 @@ at the Builder.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T191104Z" creationid="nakahodo" creationdate="20171218T190930Z">
         <seg>（建築した建物カードにある）木箱1つを開放するために、$4と2影響トークンを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Peel the sticker off this card and affix it to the  indicated space (page 6), then lace the card remnant in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T122638Z" creationid="nakahodo" creationdate="20171224T122638Z">
+        <seg>このカードをのシールを剥がして、示されたスペース（ページ6）に貼り付け、その後、残されたカードをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10799,6 +10815,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfold the game board (either side) and put the objective mat and advancement mat next to the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T121125Z" creationid="nakahodo" creationdate="20171224T121010Z">
+        <seg>ゲームボード（いずれかの面）を広げ、ボードの横に目標マットと発展マットを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock at you「ownpace!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200435Z" creationid="nakahodo" creationdate="20171218T200348Z">
@@ -11857,8 +11881,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your goal is to bring the greatest glo,y to the Forever King so you may rnle the village in his name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120110Z" creationid="nakahodo" creationdate="20171224T120110Z">
-        <seg>あなたのゴールは、永遠なる王へとさらなる栄光を</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120853Z" creationid="nakahodo" creationdate="20171224T120110Z">
+        <seg>あなたのゴールは、永遠なる王へとさらなる栄光をもたらす事です。なので、彼の名前で村を支配しましょう。</seg>
       </tuv>
     </tu>
     <tu>
