@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(place this card in the Archive without removing the sticker).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T165016Z" creationid="nakahodo" creationdate="20171224T165016Z">
+        <seg>（）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+1 VP or 1 reputation(,£).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101426Z" creationid="aorin" creationdate="20171219T101426Z">
@@ -1414,6 +1422,14 @@ their own Research Lab Ability Tracks!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214547Z" creationid="aorin" creationdate="20171024T214547Z">
         <seg>ブレンドした後、各プレイヤーは1RPを受け取り、自身の研究所能力トラックに分配します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After Game 11 extract card 17 from the Index</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T164809Z" creationid="nakahodo" creationdate="20171224T164809Z">
+        <seg>ゲーム1の後、インデックスからカード17を引き出します</seg>
       </tuv>
     </tu>
     <tu>
