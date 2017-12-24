@@ -1963,6 +1963,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of each game, gain 1 glory per 10 VP earned that game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T202349Z" creationid="nakahodo" creationdate="20171224T202303Z">
+        <seg>各ゲームの終了にて、そのゲームで得られた10VPごとに1栄光を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
@@ -4439,8 +4447,8 @@ and a Research Lab.</seg>
       <tuv lang="EN-US">
         <seg>Glory is your prima,y measure of success in your quest for the Forever I〈ing to make  you the leader of the village.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T202223Z" creationid="nakahodo" creationdate="20171224T202223Z">
-        <seg>栄光は、永遠なる王に村のリーダーにしてもうらうため、あなたが求める成功の一番の目安となります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T202314Z" creationid="nakahodo" creationdate="20171224T202223Z">
+        <seg>栄光は、永遠なる王に村のリーダーにしてもらう道のりでの、成功の尺度になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6303,6 +6311,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235152Z" creationid="aorin" creationdate="20171215T235152Z">
         <seg>マーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark those stars on your Charter Chest :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T202439Z" creationid="nakahodo" creationdate="20171224T202439Z">
+        <seg>あなたのチャーターチェストにその数の星を塗りつぶします。</seg>
       </tuv>
     </tu>
     <tu>
