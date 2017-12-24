@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(except persona cards and player pieces):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204314Z" creationid="nakahodo" creationdate="20171224T204314Z">
+        <seg>（役割カードとプレイヤーピースを除いて）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T165126Z" creationid="nakahodo" creationdate="20171224T165016Z">
@@ -839,6 +847,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T200118Z" creationid="nakahodo" creationdate="20171224T200118Z">
         <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204042Z" creationid="nakahodo" creationdate="20171224T204042Z">
+        <seg>19</seg>
       </tuv>
     </tu>
     <tu>
@@ -1987,6 +2003,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of Games 2 through 12, your capacity will determine the number of components in your personal supply that you may keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204212Z" creationid="nakahodo" creationdate="20171224T204212Z">
+        <seg>ゲーム2の終わりからゲーム12までを通して、キャパシティはあなたが保持できる、個人サプライのコンポーネント数を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each game, gain 1 glory per 10 VP earned that game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202349Z" creationid="nakahodo" creationdate="20171224T202303Z">
@@ -2483,6 +2507,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capacity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204046Z" creationid="nakahodo" creationdate="20171224T204046Z">
+        <seg>キャパシティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cards in the Plan Deck, Plan Supply and face down
 in players’ Neighborhoods.</seg>
       </tuv>
@@ -2762,6 +2794,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155021Z" creationid="nakahodo" creationdate="20171224T155021Z">
         <seg>進展トークン（●）が●スペースに進むまでプレイを続けます（全てのプレイヤーたちが同じ数のターンを行ってラウンドが終了します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue reading the End of Game rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204041Z" creationid="nakahodo" creationdate="20171224T204041Z">
+        <seg>続きのゲーム終了ルールを読みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,6 +4006,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill in 1 capacity on your Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203944Z" creationid="nakahodo" creationdate="20171224T203944Z">
+        <seg>あなたのチャーターチェストの1キャパシティを満たします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final scoring is performed in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032745Z" creationid="aorin" creationdate="20171213T032745Z">
@@ -4299,6 +4347,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072233Z" creationid="nakahodo" creationdate="20171209T072233Z">
         <seg>得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 advancement card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203953Z" creationid="nakahodo" creationdate="20171224T203953Z">
+        <seg>発展カード1枚を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 minion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203842Z" creationid="nakahodo" creationdate="20171224T203842Z">
+        <seg>1ミニオンを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7351,6 +7415,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131349Z" creationid="nakahodo" creationdate="20171213T131349Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 infiuence token on the reputation track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203833Z" creationid="nakahodo" creationdate="20171224T203833Z">
+        <seg>評判トラックに1影響トークン配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10840,6 +10912,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These will be revealed later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203814Z" creationid="nakahodo" creationdate="20171224T203814Z">
+        <seg>これらは後に明らかになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They also gain from the Mint
 Supply.</seg>
       </tuv>
@@ -12493,6 +12573,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may select and use 1 extra persona card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204017Z" creationid="nakahodo" creationdate="20171224T204017Z">
+        <seg>一枚追加で役割カードを選択して使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may take up to three actions, plus another action for each bird card you spend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
@@ -12769,6 +12857,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095518Z" creationid="aorin" creationdate="20171219T095518Z">
         <seg>全能なる瞳にてあなたを見定めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>discard everything else:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204415Z" creationid="nakahodo" creationdate="20171224T204415Z">
+        <seg>それ以外のものは</seg>
       </tuv>
     </tu>
     <tu>
