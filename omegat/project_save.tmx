@@ -788,9 +788,17 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>15 Persona Cards You're discovering that you have a variety of skills that you don't remember learning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152249Z" creationid="nakahodo" creationdate="20171224T151331Z">
-        <seg>人物カード
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151331Z">
+        <seg>役割カード
 あなたは、学んでいない様々なスキルがあることに気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
+        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1608,8 @@ in their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>All persona cards (except the original personas) give each player a special ability.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151819Z" creationid="nakahodo" creationdate="20171224T151334Z">
-        <seg>全ての人物カード（オリジナルの人物を除く）は各プレイヤーに特別な能力を与えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151334Z">
+        <seg>全ての役割カード（オリジナルの役割を除く）は各プレイヤーに特別な能力を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2670,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue playing until the progress  token (●） advances to the O space (finish the round so all players have taken the same number of turns).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T155021Z" creationid="nakahodo" creationdate="20171224T155021Z">
+        <seg>進展トークン（●）が●スペースに進むまでプレイを続けます（全てのプレイヤーたちが同じ数のターンを行ってラウンドが終了します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue to step 4.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224804Z" creationid="aorin" creationdate="20171215T224804Z">
@@ -3427,8 +3443,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player names their persona (write on the card)-this is who you are for the campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131502Z" creationid="nakahodo" creationdate="20171224T131429Z">
-        <seg>各プレイヤーは自身の人物に名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T131429Z">
+        <seg>各プレイヤーは自身の役割に名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3758,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract card 16 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153642Z" creationid="nakahodo" creationdate="20171224T153642Z">
+        <seg>インデックスからカード16を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract card 2 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
@@ -3760,8 +3784,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract cards 200-205 from the Index and match them with each player (for each inactive charter, place their persona card in their Charter Chest).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131435Z" creationid="nakahodo" creationdate="20171224T131314Z">
-        <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身の人物カードを入れます）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T131314Z">
+        <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身の役割カードを入れます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5804,8 +5828,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>It's not necessary to learn any rules before Charterstone's first game, but having at least one person who understands the core concepts will improve the flow of Game 1.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142236Z" creationid="nakahodo" creationdate="20171218T142236Z">
-        <seg>チャーターストーンの最初のゲーム前に任意のルールを読む必要はありませんが、本作品の主要コンセプトを理解している人物がいると、ゲーム1の流れが良くなります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T142236Z">
+        <seg>チャーターストーンの最初のゲーム前に任意のルールを読む必要はありませんが、本作品の主要コンセプトを理解している役割がいると、ゲーム1の流れが良くなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6133,8 +6157,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Many crates contain a new persona card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200237Z" creationid="nakahodo" creationdate="20171218T200237Z">
-        <seg>多くの木箱には新しい人物カードが含まれています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T200237Z">
+        <seg>多くの木箱には新しい役割カードが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7428,8 +7452,8 @@ turn order.</seg>
       <tuv lang="EN-US">
         <seg>Place your persona card, constructed building card, 2 workers, and 12 influence tokens in front of you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145840Z" creationid="nakahodo" creationdate="20171218T145840Z">
-        <seg>あなたの前に、人物カード、建築された建物カード、2ワーカー、12影響トークンを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T145840Z">
+        <seg>あなたの前に、役割カード、建築された建物カード、2ワーカー、12影響トークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12141,6 +12165,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can't use it this game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153622Z" creationid="nakahodo" creationdate="20171224T153617Z">
+        <seg>このゲームでは、まだこれは使えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot build in a clearing with no open slots.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
@@ -12287,8 +12319,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You will be told to mark your selected persona at the end of the game if you  used it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153321Z" creationid="nakahodo" creationdate="20171224T152351Z">
-        <seg>ゲーム終了時、選択した人物を記録するように指示されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T152351Z">
+        <seg>ゲーム終了時、選択した役割を記録するように指示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12990,8 +13022,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•   During setup, you may select any persona from  your Charter Chest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152322Z" creationid="nakahodo" creationdate="20171224T151333Z">
-        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意の人物を選択できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151333Z">
+        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意の役割を選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13006,8 +13038,16 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•   If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153412Z" creationid="nakahodo" creationdate="20171224T153412Z">
-        <seg>•ゲーム中に</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153601Z" creationid="nakahodo" creationdate="20171224T153412Z">
+        <seg>•ゲーム中に役割カードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルの役割と同じように見なくても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   Keep all persona cards from game to game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153639Z" creationid="nakahodo" creationdate="20171224T153619Z">
+        <seg>•ゲームごとの役割カードは全て保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13424,8 +13464,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• PERSONA:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200240Z" creationid="nakahodo" creationdate="20171218T200218Z">
-        <seg>•人物：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T200218Z">
+        <seg>•役割：</seg>
       </tuv>
     </tu>
     <tu>
