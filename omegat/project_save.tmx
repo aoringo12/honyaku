@@ -788,9 +788,9 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>15 Persona Cards You're discovering that you have a variety of skills that you don't remember learning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152119Z" creationid="nakahodo" creationdate="20171224T151331Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152249Z" creationid="nakahodo" creationdate="20171224T151331Z">
         <seg>人物カード
-あなたは、自身が学んだ様々なスキルを忘れていることに気がつきま</seg>
+あなたは、学んでいない様々なスキルがあることに気づきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5894,6 +5894,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033252Z" creationid="aorin" creationdate="20171213T033252Z">
         <seg>この時点でも、岩を取り除くためにパンを消費できることを覚えておいてください（「炭鉱」アクション参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep it face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152328Z" creationid="nakahodo" creationdate="20171224T152328Z">
+        <seg>それを表向きで保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12205,6 +12213,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may use its ability throughout the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152343Z" creationid="nakahodo" creationdate="20171224T152343Z">
+        <seg>あなたはゲームを通してその能力を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You might want to do this if there is no free action space to promote to, or because the action space seems interesting to you, or just to annoy an opponent by swapping places with one of their Pixies …</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164411Z" creationid="aorin" creationdate="20171212T164411Z">
@@ -12265,6 +12281,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032858Z" creationid="aorin" creationdate="20171213T032858Z">
         <seg>スコアトラックにある今の位置から、あなたの報酬ポイントのカウントが始まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will be told to mark your selected persona at the end of the game if you  used it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153321Z" creationid="nakahodo" creationdate="20171224T152351Z">
+        <seg>ゲーム終了時、選択した人物を記録するように指示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,8 +12990,16 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•   During setup, you may select any persona from  your Charter Chest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151840Z" creationid="nakahodo" creationdate="20171224T151333Z">
-        <seg>•</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152322Z" creationid="nakahodo" creationdate="20171224T151333Z">
+        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意の人物を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   Each marked persona (&lt;1111) is worth 5-7 VP at the end of the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152448Z" creationid="nakahodo" creationdate="20171224T152349Z">
+        <seg>•それぞれの（●）マークされたペルソナは、キャンペーン終了時に5~7VP価値があります。</seg>
       </tuv>
     </tu>
     <tu>
