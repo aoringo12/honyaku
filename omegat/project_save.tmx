@@ -1770,8 +1770,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>Also, as a show of humility, each winning charter and inactive charter must now be named by the non-winner(s).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195003Z" creationid="nakahodo" creationdate="20171224T195003Z">
-        <seg>また、謙虚さの証として、勝利するチャーターと非アクティブチャーターそれぞれは、敗北者（たち）によって今名前を書きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195339Z" creationid="nakahodo" creationdate="20171224T195003Z">
+        <seg>また、謙虚さの証として、勝利するチャーターと非アクティブチャーターそれぞれは、敗北者（たち）によって名前が決められなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4215,6 +4215,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GATHER:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195344Z" creationid="nakahodo" creationdate="20171224T195344Z">
+        <seg>収集：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GENERAL SUPPLY:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144626Z" creationid="nakahodo" creationdate="20171218T144626Z">
@@ -4318,6 +4326,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T140620Z" creationid="nakahodo" creationdate="20171213T140620Z">
         <seg>ゲームプレイ概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather all of your player pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195721Z" creationid="nakahodo" creationdate="20171224T195721Z">
+        <seg>自身のプレイヤーピースの全てを集めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6446,8 +6462,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>NON-WINNER(S):</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T175238Z" creationid="nakahodo" creationdate="20171224T175238Z">
-        <seg>勝利者（たち）がいない：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195228Z" creationid="nakahodo" creationdate="20171224T175238Z">
+        <seg>敗北者（たち）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6462,8 +6478,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Name your charter (write it on the board).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T175342Z" creationid="nakahodo" creationdate="20171224T175342Z">
-        <seg>あなたのキャラクターの名前を記入します（ボードに）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195314Z" creationid="nakahodo" creationdate="20171224T175342Z">
+        <seg>あなたのチャーターに名前をつけます（ボードに書くことによって）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7839,6 +7855,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155148Z" creationid="nakahodo" creationdate="20171224T155148Z">
         <seg>プレイヤーたちはゲーム1からゲーム2へと、個人サプライに全てのコンポーネントを持ち越します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players will name the village later</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195050Z" creationid="nakahodo" creationdate="20171224T195050Z">
+        <seg>プレイヤーたちは後に村の名前となるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
