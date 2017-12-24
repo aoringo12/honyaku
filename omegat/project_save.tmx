@@ -732,6 +732,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12 each of metal, grain, wood, coal, clay, pumpkin)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125904Z" creationid="nakahodo" creationdate="20171224T125904Z">
+        <seg>鉄、穀物、木、石炭、粘土、かぼちゃ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -811,6 +819,15 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025253Z" creationid="aorin" creationdate="20171212T025253Z">
         <seg>30ミントトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>36 coins (●) 72 resources tokens (●:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125735Z" creationid="nakahodo" creationdate="20171224T125735Z">
+        <seg>•36コイン（●）
+•72リソーストークン（●：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3076,6 +3093,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T095000Z" creationid="aorin" creationdate="20171212T095000Z">
         <seg>ゲームの最初のラウンド時、プレイヤーたちは全員が炭鉱から始まるので、食料を盗むことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the game, these global components (along with advancement cards) form the general supply, and they are all limited as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125708Z" creationid="nakahodo" creationdate="20171224T125708Z">
+        <seg>ゲーム中、これら全体コンポーネント（と発展カード）は共通サプライを形成し、これらは全て、次の数に制限されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9016,6 +9041,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Scriptorium tuckbox is where you'll store global components from game to game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125536Z" creationid="nakahodo" creationdate="20171224T125536Z">
+        <seg>スクリプトリウムタックボックスはゲームごとの全体のコンポーネントを保存する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Single Use Tile, Look into the bag can be used when performing this action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
@@ -9254,8 +9287,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The guards unload a number of mysterious crates and forbid you to open any of them, except for the one labeled "Scriptorium." Open it now.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125331Z" creationid="nakahodo" creationdate="20171224T123559Z">
-        <seg>ガードはいくつかの神秘的な木箱を荷降ろし、「スクリプトリウム（Scriptrium）」これらを開くことを禁止しました。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125606Z" creationid="nakahodo" creationdate="20171224T123559Z">
+        <seg>ガードはいくつかの神秘的な木箱を荷降ろし、「スクリプトリウム（Scriptrium）」がラベルされた物以外、これらを開くことを禁止しました。スクリプトリウムを開きましょう。</seg>
       </tuv>
     </tu>
     <tu>
