@@ -2488,6 +2488,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Congratulations for being chosen!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T115228Z" creationid="nakahodo" creationdate="20171224T115228Z">
+        <seg>あなたはその1人に選ばれた！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conspire</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053840Z" creationid="aorin" creationdate="20171216T053840Z">
@@ -9198,8 +9206,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T114640Z" creationid="nakahodo" creationdate="20171224T101653Z">
-        <seg>不死身なる永遠なる王は、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
+        <seg>不死身なる永遠の王は、久遠の都から遠く離れた場所に新しい村を作るため、グリーングリーから6人の市民を選択しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11835,6 +11843,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073123Z" creationid="aorin" creationdate="20171216T073123Z">
         <seg>あなたの派閥ボードには、黒い矢印で結ばれた多くの協力ボックスで構成される協力チャートがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your goal is to bring the greatest glo,y to the Forever King so you may rnle the village in his name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120110Z" creationid="nakahodo" creationdate="20171224T120110Z">
+        <seg>あなたのゴールは、永遠なる王へとさらなる栄光を</seg>
       </tuv>
     </tu>
     <tu>
