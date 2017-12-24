@@ -1388,6 +1388,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After spending all day flying over the kingdom, the zeppelin sets down and the guards open the hatch for you and your companions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T120815Z" creationid="nakahodo" creationdate="20171224T120815Z">
+        <seg>一日を空の旅で過ごし、ようやく着陸したツェッペリンのハッチが、あなたと、あなたの仲間たちのために乗務員の手によって開けられました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the defender takes hits, the attacker may play one ambush card matching the clearing of battle to immediately deal one unpreventable hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222757Z" creationid="aorin" creationdate="20171215T222749Z">
