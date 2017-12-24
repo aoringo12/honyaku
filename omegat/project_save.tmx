@@ -658,6 +658,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T101251Z" creationid="nakahodo" creationdate="20171224T101251Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Action Disc.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141407Z" creationid="nakahodo" creationdate="20171213T141407Z">
@@ -1722,6 +1730,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204616Z" creationid="aorin" creationdate="20171215T204616Z">
         <seg>マップ上の空き地と道で囲まれたエリアを森と呼びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrival</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T113041Z" creationid="nakahodo" creationdate="20171224T101645Z">
+        <seg>到着</seg>
       </tuv>
     </tu>
     <tu>
@@ -9176,6 +9192,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224345Z" creationid="aorin" creationdate="20171215T224345Z">
         <seg>実際のゲームにはカスタムされた12面の同等のものが含まれる予定です&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T101653Z" creationid="nakahodo" creationdate="20171224T101653Z">
+        <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
       </tuv>
     </tu>
     <tu>
