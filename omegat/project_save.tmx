@@ -1121,6 +1121,14 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224034Z" creationid="nakahodo" creationdate="20171224T224034Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -2367,6 +2375,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on your capacity, keep some components and discard the rest to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224033Z" creationid="nakahodo" creationdate="20171224T224033Z">
+        <seg>あなたのキャパシティにもとづいて、幾つかのコンポーネントを保持し、残りを共通サプライに破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Resource Buildings when the guards leave, you scout your charter for your first charter building.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131702Z" creationid="nakahodo" creationdate="20171224T131702Z">
@@ -3109,6 +3125,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DISCARD:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223856Z" creationid="nakahodo" creationdate="20171224T223856Z">
+        <seg>破棄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark tiles that are added to fill open edges are not revealed, even if they are placed in spaces that would have been affected by the initial roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T133341Z" creationid="nakahodo" creationdate="20171127T133341Z">
@@ -3669,6 +3693,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223005Z" creationid="nakahodo" creationdate="20171224T223005Z">
         <seg>各プレイヤーはコインごとに1VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player gains glory (,r) based on their position on the VP track (mark on Charter Chest).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223527Z" creationid="nakahodo" creationdate="20171224T223527Z">
+        <seg>各プレイヤーはVPトラックの自身の位置にもとづいて栄光（●）を得ます（チャーターチェストに記録）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6118,6 +6150,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In player order, gain VP for reputation and persona cards with O.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223437Z" creationid="nakahodo" creationdate="20171224T223437Z">
+        <seg>2.ゲーム終了得点：プレイヤー順に、評判と●のある役割カード1枚以上からVPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In set-up and during
 the game when Blend Slates are placed above the regions on the World Map, a special symbol on each Blend Slate
 indicates an action that must be performed for a specific Country in that region.</seg>
@@ -6164,6 +6204,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105815Z" creationid="aorin" creationdate="20171219T105635Z">
         <seg>収入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increase the capacity for 1 type of component on your Charter Chest (●）．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223819Z" creationid="nakahodo" creationdate="20171224T223819Z">
+        <seg>自身のチャーターチェストの、コンポーネント1種類のキャパシティを増加させます（●）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6651,6 +6699,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark personas you used (....).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223847Z" creationid="nakahodo" creationdate="20171224T223847Z">
+        <seg>あなたが使用した役割を記録します（●）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark those stars on your Charter Chest :</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202439Z" creationid="nakahodo" creationdate="20171224T202439Z">
@@ -6847,6 +6903,14 @@ Corporate HQ and Tiebreakers.</seg>
         <seg>NON-WINNER(S):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T195228Z" creationid="nakahodo" creationdate="20171224T175238Z">
+        <seg>敗北者（たち）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NONWINNER(S):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223659Z" creationid="nakahodo" creationdate="20171224T223659Z">
         <seg>敗北者（たち）：</seg>
       </tuv>
     </tu>
@@ -7340,6 +7404,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145655Z" creationid="nakahodo" creationdate="20171218T145655Z">
         <seg>個人サプライ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERSONAS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223832Z" creationid="nakahodo" creationdate="20171224T223832Z">
+        <seg>役割：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,6 +8544,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152728Z" creationid="nakahodo" creationdate="20171218T152728Z">
         <seg>補充：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RETRIEVE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T224431Z" creationid="nakahodo" creationdate="20171224T224431Z">
+        <seg>回収：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10717,6 +10797,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player with the most victory points this game mark their Charter Chest .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223646Z" creationid="nakahodo" creationdate="20171224T223646Z">
+        <seg>このゲームの最も勝利点を持つプレイヤー（たち）は、自身のチャーターチェストの（●）を塗りつぶします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player with their large cube closest to the castle is called the Queen’s Favorite and will be the starting player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093433Z" creationid="aorin" creationdate="20171212T093433Z">
@@ -12197,6 +12285,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T173556Z" creationid="nakahodo" creationdate="20171224T173556Z">
         <seg>勝利者（たち）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WINNER:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223536Z" creationid="nakahodo" creationdate="20171224T223536Z">
+        <seg>勝者（たち）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13950,6 +14046,22 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223825Z" creationid="nakahodo" creationdate="20171224T223825Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 7.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223850Z" creationid="nakahodo" creationdate="20171224T223850Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• A Loyal Servant is set for life.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031914Z" creationid="aorin" creationdate="20171213T031914Z">
@@ -14587,6 +14699,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205156Z" creationid="nakahodo" creationdate="20171224T205156Z">
         <seg>•リソーストークン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223652Z" creationid="nakahodo" creationdate="20171224T223652Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
