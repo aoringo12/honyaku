@@ -7225,6 +7225,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place their constructed building card on the advancement mat (日） for now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T140105Z" creationid="nakahodo" creationdate="20171224T140105Z">
+        <seg>今のところ、発展マット（●）にそれらの建築された建物カードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place this on the space of the progress track that corresponds with the player count (e.g., 2p equals 2 players)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145315Z" creationid="nakahodo" creationdate="20171218T145315Z">
@@ -9421,6 +9429,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224345Z" creationid="aorin" creationdate="20171215T224345Z">
         <seg>実際のゲームにはカスタムされた12面の同等のものが含まれる予定です&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game will soon introduce a way for inactive charters to grow, but if at any time you would like these charters to act like human players, please read and use the Automa rulebook.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141055Z" creationid="nakahodo" creationdate="20171224T141055Z">
+        <seg>ゲームはすぐに非アクティブチャーターを成長させる方法を紹介しますが、これらチャーターを人間プレイヤーが動かすようにしたい場合は、オートマルールブックを読んで使用しましょう。</seg>
       </tuv>
     </tu>
     <tu>
