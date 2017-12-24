@@ -823,6 +823,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>124</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220258Z" creationid="nakahodo" creationdate="20171224T220258Z">
+        <seg>124</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -4594,6 +4602,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting Greedy in Greengully</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220508Z" creationid="nakahodo" creationdate="20171224T220508Z">
+        <seg>グリーングリーでぎりーぎりーまで集める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gift</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082527Z" creationid="aorin" creationdate="20171216T082527Z">
@@ -6930,6 +6946,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200513Z" creationid="nakahodo" creationdate="20171218T200513Z">
         <seg>Objective Cards</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oddly, when you try to take the coins to the Eternal City,you find that there is an invisible barrier preventing you J,-om leaving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222458Z" creationid="nakahodo" creationdate="20171224T222458Z">
+        <seg>奇妙なことに、久遠の都にコインを持っていこうとした時、あなたを妨げる障壁があることに気づきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9754,6 +9778,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T100650Z" creationid="aorin" creationdate="20171219T100540Z">
         <seg>永遠なる王は久遠の都に資源、お金、貴重なものを贈ることで、あなたの村がグリーングリーをより良くするための補助をしてくれることを期待しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King is disappointed that you'refocused on coins, something the kingdom has in abundance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220716Z" creationid="nakahodo" creationdate="20171224T220522Z">
+        <seg>永遠なる王は王国が豊富に保有するコインを集めようとしていることに失望します。</seg>
       </tuv>
     </tu>
     <tu>
