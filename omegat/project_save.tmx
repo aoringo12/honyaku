@@ -759,6 +759,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T122746Z" creationid="nakahodo" creationdate="20171224T122746Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Pick Up Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135114Z" creationid="nakahodo" creationdate="20171127T135114Z">
@@ -3524,6 +3532,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083214Z" creationid="aorin" creationdate="20171216T083214Z">
         <seg>探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract card 2 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T122745Z" creationid="nakahodo" creationdate="20171224T122745Z">
+        <seg>インデックスからカード2を引き出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8008,6 +8024,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scri􀀁torium &amp;􀀂eneral Su􀀁􀀁lf story 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T122909Z" creationid="nakahodo" creationdate="20171224T122909Z">
+        <seg>スクリプトリウムと基本サプライ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select any open space on the quota track to determine the type and quantity of the commodity.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101033Z" creationid="aorin" creationdate="20171219T101033Z">
@@ -11795,6 +11819,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001432Z" creationid="aorin" creationdate="20171216T001432Z">
         <seg>法令を実行して昼が終了し、4列で示されるアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will p do this for all  story and rule cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T122726Z" creationid="nakahodo" creationdate="20171224T122726Z">
+        <seg>これを全てのストーリーとルールカードで行うことになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
