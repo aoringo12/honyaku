@@ -788,9 +788,9 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>15 Persona Cards You're discovering that you have a variety of skills that you don't remember learning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151331Z" creationid="nakahodo" creationdate="20171224T151331Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T152119Z" creationid="nakahodo" creationdate="20171224T151331Z">
         <seg>人物カード
-</seg>
+あなたは、自身が学んだ様々なスキルを忘れていることに気がつきま</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1594,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212221Z" creationid="aorin" creationdate="20171215T212221Z">
         <seg>ヴァガボンドの&lt;ハンマー&gt;は全て、彼が現在いる空き地の民と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All persona cards (except the original personas) give each player a special ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151819Z" creationid="nakahodo" creationdate="20171224T151334Z">
+        <seg>全ての人物カード（オリジナルの人物を除く）は各プレイヤーに特別な能力を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9230,6 +9238,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King seems to be happy each time you use a different persona.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151701Z" creationid="nakahodo" creationdate="20171224T151332Z">
+        <seg>永遠なる王はあなたが様々なペルソナ（役割）を使うことを嬉しそうに観察しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
@@ -12944,6 +12960,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131136Z" creationid="nakahodo" creationdate="20171224T131136Z">
         <seg>•2レギュラーワーカー（1大、1小）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   During setup, you may select any persona from  your Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151840Z" creationid="nakahodo" creationdate="20171224T151333Z">
+        <seg>•</seg>
       </tuv>
     </tu>
     <tu>
