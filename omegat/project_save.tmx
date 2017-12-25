@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(and other revealed cards):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105730Z" creationid="nakahodo" creationdate="20171225T105655Z">
+        <seg>（と他の公開されたカード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(except persona cards and player pieces):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204934Z" creationid="nakahodo" creationdate="20171224T204314Z">
@@ -2966,6 +2974,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Construct the building in the inactive charter on an open plot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105652Z" creationid="nakahodo" creationdate="20171225T105652Z">
+        <seg>非アクティブチャーターの空いた区画1つに、建物を建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Constructed Building Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153914Z" creationid="nakahodo" creationdate="20171218T153914Z">
@@ -5540,6 +5556,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074618Z" creationid="aorin" creationdate="20171213T074618Z">
         <seg>ドレイがいない、または全てが3岩でつながれている場合、引かれた岩はゲームから除外します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no unconstructed building cards in the advancement deck, don't do anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105605Z" creationid="nakahodo" creationdate="20171225T105011Z">
+        <seg>発展デッキに建築されていない建物カードがない場合、これは行いません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9240,8 +9264,8 @@ the World Map.</seg>
       <tuv lang="EN-US">
         <seg>Shuffle the advancement deck, thenreveal cards until you find an unconstructed building card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T234646Z" creationid="nakahodo" creationdate="20171224T234646Z">
-        <seg>Shuffle the advancement deck, thenreveal cards until you find an unconstructed building card.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105737Z" creationid="nakahodo" creationdate="20171224T234646Z">
+        <seg>発展デッキをシャッフルし、その後、建築されていない建物カード1枚が見つかるまでカードを公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,6 +9274,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132733Z" creationid="aorin" creationdate="20171215T132733Z">
         <seg>デッキをシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the resulting constructed building card :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105721Z" creationid="nakahodo" creationdate="20171225T105721Z">
+        <seg>結果として残る建築された建物カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -13457,6 +13489,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232359Z" creationid="aorin" creationdate="20171215T232359Z">
         <seg>その代わりに、マップ近くに表向きにして配置して、利用可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105753Z" creationid="nakahodo" creationdate="20171225T105753Z">
+        <seg>を発展デッキに入れてシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
