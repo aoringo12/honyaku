@@ -855,6 +855,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>127</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105912Z" creationid="nakahodo" creationdate="20171225T105912Z">
+        <seg>127</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -3137,6 +3145,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create piles of coins/resources andreveal 5 random advancement cards on the mat (extra cards form a face-down deck on the mat).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T110140Z" creationid="nakahodo" creationdate="20171225T110140Z">
+        <seg>コインとリソースの山を作り、マットに発展カード5枚をランダムに公開します（残ったカードでマットに裏向きのデッキを作ります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Created Blends are ranked by
 a simple poker scale and placed onto the Best-Seller List to score points, hopefully over the course of several rounds.</seg>
       </tuv>
@@ -5165,6 +5181,14 @@ on the List, the old Blend is considered inferior.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075244Z" creationid="aorin" creationdate="20171213T075244Z">
         <seg>プレイヤーガ特定の種類のタイルを所有していない場合、その種類のタイルは交換できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player ever permanently drops out of the campaign, return all of their coins, resources, advancement cards, and minions to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105911Z" creationid="nakahodo" creationdate="20171225T105911Z">
+        <seg>キャンペーンから永久的に抜けたプレイヤーがいる場合、彼の全てのコイン、リソース、発展カード、ミニオンを共通サプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
