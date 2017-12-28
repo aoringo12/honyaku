@@ -4964,6 +4964,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gather resources to fill orders for items  in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T233617Z" creationid="aorin" creationdate="20171228T233617Z">
+        <seg>あなたの個人サプライにて、アイテムの受注を満たすためのリソースを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General &amp; Personal Supply</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144617Z" creationid="nakahodo" creationdate="20171218T144617Z">
@@ -11303,6 +11311,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player who unlocked this crate may gain 1 of these item cards at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T233531Z" creationid="aorin" creationdate="20171228T233525Z">
+        <seg>この木箱を開放したプレイヤーは、これらアイテムカードから1枚をランダムに得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player who unlocked this crate may gain 1 of these objective cards at random.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165112Z" creationid="aorin" creationdate="20171228T165112Z">
@@ -13787,6 +13803,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140719Z" creationid="nakahodo" creationdate="20171127T140719Z">
         <seg>あなたはプライド間でキューブを移動させたい時、這い寄るを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You offer your skills to help fill the backorders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T233437Z" creationid="aorin" creationdate="20171228T233437Z">
+        <seg>あなたはその受注を満たすために、自身のスキルで補助します。</seg>
       </tuv>
     </tu>
     <tu>
