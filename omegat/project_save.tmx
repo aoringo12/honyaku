@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(on and off the board):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172328Z" creationid="aorin" creationdate="20171228T172328Z">
+        <seg>（ボード上にあるなし関係なく）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T165126Z" creationid="nakahodo" creationdate="20171224T165016Z">
@@ -1650,6 +1658,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affix this sticker, which has 5 columns instead of 6, to the bottom of the quota track on the game board, then place this card in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172555Z" creationid="aorin" creationdate="20171228T172555Z">
+        <seg>この6ではなく5列を持つシールを、ゲームボードのノルマトラックの下へと貼り付けて、その後、このカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After Blending, each player receives 1 RP to distribute on
 their own Research Lab Ability Tracks!</seg>
       </tuv>
@@ -1873,6 +1889,14 @@ new Blend is inserted to the right of any Blend it outranks.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T213826Z" creationid="aorin" creationdate="20171024T213826Z">
         <seg>全ての下位ブレンドはリストの左側に移動し、新しいブレンドは任意の上位ブレンドの右に挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All minions you control :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172317Z" creationid="aorin" creationdate="20171228T172317Z">
+        <seg>あなたがコントロールする全てのミニオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -7032,6 +7056,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064303Z" creationid="aorin" creationdate="20171213T064303Z">
         <seg>炭鉱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minion Quota</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172416Z" creationid="aorin" creationdate="20171228T172416Z">
+        <seg>ミニオンノルマ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13802,6 +13834,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105632Z" creationid="aorin" creationdate="20171219T105632Z">
         <seg>その次に多く配置しているプレイヤー（たち）が4VPを得ます（資格を得るためには、少なくとも1つのトークンをトラックに配置している必要があります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are considered to be in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172408Z" creationid="aorin" creationdate="20171228T172408Z">
+        <seg>あんたの個人サプライにあるものとしてみなされます。</seg>
       </tuv>
     </tu>
     <tu>
