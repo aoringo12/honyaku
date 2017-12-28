@@ -863,6 +863,15 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>129</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T164842Z" creationid="aorin" creationdate="20171228T164842Z">
+        <seg>129
+進行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -973,8 +982,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>22</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214011Z" creationid="nakahodo" creationdate="20171224T214011Z">
-        <seg>22</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T164923Z" creationid="nakahodo" creationdate="20171224T214011Z">
+        <seg>24</seg>
       </tuv>
     </tu>
     <tu>
@@ -8565,8 +8574,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Private Objective Cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214026Z" creationid="nakahodo" creationdate="20171224T214026Z">
-        <seg>Private Objective Cards</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T164933Z" creationid="nakahodo" creationdate="20171224T214026Z">
+        <seg>個人目標カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -10174,6 +10183,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King seeks loyal servants to achieve his various objectives, both in public and in private.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165034Z" creationid="aorin" creationdate="20171228T165034Z">
+        <seg>永遠なる王は、公的にも私的にも、様々な目的を達成できる忠実な使用人を求めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever King seems to be happy each time you use a different persona.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T151701Z" creationid="nakahodo" creationdate="20171224T151332Z">
@@ -10961,6 +10978,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143724Z" creationid="nakahodo" creationdate="20171213T143724Z">
         <seg>最もシルバーまたはゴールドそれぞれにて、最も提供できたプレイヤーは、自身のディスクをさらに1ステップ進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player who unlocked this crate may gain 1 of these objective cards at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165112Z" creationid="aorin" creationdate="20171228T165112Z">
+        <seg>この木箱を解放したプレイヤーは、これら目標カードから1枚をランダムに得ます。</seg>
       </tuv>
     </tu>
     <tu>
