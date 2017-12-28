@@ -4576,6 +4576,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the instructions on the friend card to determine your bonus (if any).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235856Z" creationid="aorin" creationdate="20171228T235856Z">
+        <seg>（もしあれば）あなたのボーナスを決定するために、フレンドカードの指示に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142601Z" creationid="nakahodo" creationdate="20171213T142601Z">
@@ -4765,6 +4773,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235445Z" creationid="aorin" creationdate="20171228T235445Z">
         <seg>フレンドカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Friend cards give you a bonus when you use a building in a specific charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235826Z" creationid="aorin" creationdate="20171228T235826Z">
+        <seg>フレンドカードは、あなたが特定のチャーターの建物1つを使用するときに、ボーナスを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11383,6 +11399,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player who unlocked this crate may gain 1 of these friend cards at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235741Z" creationid="aorin" creationdate="20171228T235741Z">
+        <seg>この木箱を解放したプレイヤーは、これらフレンドカードから1枚をランダムに得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player who unlocked this crate may gain 1 of these guest cards at random.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234201Z" creationid="aorin" creationdate="20171228T234201Z">
@@ -13549,6 +13573,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you have an unnamed friend card, you may name them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235749Z" creationid="aorin" creationdate="20171228T235749Z">
+        <seg>あなたが名付けられていないフレンドカードを持つたびに、それに名前をつけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you have an unnamed guest card, you may name them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234255Z" creationid="aorin" creationdate="20171228T234255Z">
@@ -13915,6 +13947,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164411Z" creationid="aorin" creationdate="20171212T164411Z">
         <seg>昇進するための空いたアクションスペースがない、そのアクションスペースに興味がある、妖精たちを交換して対戦相手を困らせたいと思うならば、そうすると良いでしょう・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You miss sharing stories over a drink at the end of a long day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235732Z" creationid="aorin" creationdate="20171228T235732Z">
+        <seg>あなたはそんな一日の終わりに飲みながら愚痴をこぼす相手がいません。</seg>
       </tuv>
     </tu>
     <tu>
