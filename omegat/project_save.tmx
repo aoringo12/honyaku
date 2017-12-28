@@ -3312,6 +3312,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determine the first player by rolling the Charterstone until it results in an active charter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163113Z" creationid="aorin" creationdate="20171228T163113Z">
+        <seg>チャーターストーンをアクティブなチャーターが出るまで振り、ファーストプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determine the first player by rolling the Charterstone until it shows an active charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145605Z" creationid="nakahodo" creationdate="20171218T145605Z">
@@ -4563,6 +4571,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
         <seg>今後、窃盗フェイズ時にタイルに描かれた量だけ、あなたが選択する食料を得る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From your Charter Chest, select 1 persona card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163129Z" creationid="aorin" creationdate="20171228T163129Z">
+        <seg>あなたのチャーターチェストから、役割カード1枚を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7150,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ONGOING GLORY BONUSES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163301Z" creationid="aorin" creationdate="20171228T163301Z">
+        <seg>継続的な栄光ボーナス：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OVERVIEW</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
@@ -7934,6 +7958,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place all of your advancement cards (face up), worker meeples, and 12 influence tokens in front of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163221Z" creationid="aorin" creationdate="20171228T163221Z">
+        <seg>あなたの発展カード（表向きで）、ワーカーミープルたち、12影響トークン全てを、自身の前に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place all of your remaining Action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
@@ -8016,6 +8048,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the current guidepost on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163030Z" creationid="aorin" creationdate="20171228T163030Z">
+        <seg>ボードに現在の指標を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the remaining leaders face up near your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134537Z" creationid="aorin" creationdate="20171215T134537Z">
@@ -8070,6 +8110,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145315Z" creationid="nakahodo" creationdate="20171218T145315Z">
         <seg>プレイヤー人数に一致する、進展トラックのスペースにこれを配置します（例えば、2プレイヤーなら2Pに等しい）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place this on the space of the progress track that corresponds with the player count.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163019Z" creationid="aorin" creationdate="20171228T163019Z">
+        <seg>進展トラックの、プレイヤー人数に一致するスペースにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14150,6 +14198,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163238Z" creationid="aorin" creationdate="20171228T163238Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• 5 Pixies if playing with 2 or 3 players</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093519Z" creationid="aorin" creationdate="20171212T093519Z">
@@ -14839,6 +14895,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>● 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163234Z" creationid="aorin" creationdate="20171228T163234Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● Chaos​ ​Victory:​ ​During your Birdsong, you win the game immediately if every other player has 33 to 39 victory points or has activated a special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232934Z" creationid="aorin" creationdate="20171215T232934Z">
@@ -14995,6 +15059,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205324Z" creationid="nakahodo" creationdate="20171224T205324Z">
         <seg>● 異なるタイプでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>一7.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163230Z" creationid="aorin" creationdate="20171228T163230Z">
+        <seg>7.</seg>
       </tuv>
     </tu>
     <tu>
