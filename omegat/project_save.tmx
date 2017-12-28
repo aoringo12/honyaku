@@ -2733,6 +2733,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234523Z" creationid="aorin" creationdate="20171228T234523Z">
+        <seg>建物カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By choosing this action, a player can exchange 1 of their Tiles with a Tile of the same type on the game board OR on an opponent’s player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075214Z" creationid="aorin" creationdate="20171213T075214Z">
@@ -4869,6 +4877,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T170949Z" creationid="aorin" creationdate="20171228T170949Z">
         <seg>VPを得て、進展トークンを進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain both benefits in 2-3 player games and either benefit (choose each time income is triggered} in 4-6 player games.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234512Z" creationid="aorin" creationdate="20171228T234512Z">
+        <seg>2-3プレイヤーゲームでは両方の利益を、4-6プレイヤーゲームでは（収入が発動されるたびに選択して）いずれかの利益を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,6 +10520,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King gave you some helpful  blueprints, but architectural innovation can create new opportunities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234905Z" creationid="aorin" creationdate="20171228T234905Z">
+        <seg>永遠なる王から役に立つ設計図をいくつか頂きましたが、建築学のイノベーションは新しい機会を作り出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever King is disappointed that you'refocused on coins, something the kingdom has in abundance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T220716Z" creationid="nakahodo" creationdate="20171224T220522Z">
@@ -13389,6 +13413,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever income is activated , in reverse player order starting with the current player,  gain the benefit indicated in the upper right of each guest card in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234357Z" creationid="aorin" creationdate="20171228T234357Z">
+        <seg>収入が発動するたびに、現在のプレイヤーから逆回りの順番で、自身の個人サプライのゲストカードごとに、その右上に示される利益を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever income is activated :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165937Z" creationid="aorin" creationdate="20171228T165937Z">
@@ -13457,6 +13489,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153900Z" creationid="nakahodo" creationdate="20171218T153524Z">
         <seg>あなたが名前のないアシスタントカードを持つたびに、カードに名前を書くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you have an unnamed guest card, you may name them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234255Z" creationid="aorin" creationdate="20171228T234255Z">
+        <seg>あなたが名付けられていないゲストカードを持つたびに、それに名前をつけます。</seg>
       </tuv>
     </tu>
     <tu>
