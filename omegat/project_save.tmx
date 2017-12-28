@@ -1177,6 +1177,15 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60 ltem Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T181154Z" creationid="aorin" creationdate="20171228T181154Z">
+        <seg>60
+アイテムカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8
 PASS</seg>
       </tuv>
