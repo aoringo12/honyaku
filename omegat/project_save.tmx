@@ -8020,6 +8020,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peril</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172604Z" creationid="aorin" creationdate="20171228T172604Z">
+        <seg>危険</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permanent Ability Tile from the board and places it on the appropriate field with the corresponding symbol on their player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093825Z" creationid="aorin" creationdate="20171212T093825Z">
@@ -13394,6 +13402,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
         <seg>あなたはゲームボード上の同じ[または]それ以下の位置のアクションフィールドへと、妖精を昇進させることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can no longer ignore the problems that threater your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173210Z" creationid="aorin" creationdate="20171228T173210Z">
+        <seg>あなたは自身の村を脅かす問題を無視することはできません。</seg>
       </tuv>
     </tu>
     <tu>
