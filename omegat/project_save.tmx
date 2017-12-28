@@ -5119,6 +5119,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T233739Z" creationid="aorin" creationdate="20171228T233739Z">
+        <seg>ゲストカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guideposts</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205408Z" creationid="nakahodo" creationdate="20171224T205408Z">
@@ -13102,6 +13110,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When an item is completed on your turn, pay the resources to the general supply, gain the benefit shown on the upper-right of the item card, then discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T233712Z" creationid="aorin" creationdate="20171228T233712Z">
+        <seg>アイテムがあなたのターンにて達成された時、共通サプライにリソースを支払い、アイテムカードの右上に示される利益を得て、その後、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When changing Silver into Gold, the player pays 1 less Silver than indicated by their position on the Silver track (but minimum 1 Silver).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133123Z" creationid="nakahodo" creationdate="20171213T133123Z">
@@ -13711,6 +13727,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may eventually construct some buildings where you can pay (discard) item cards to gain VP as indicated on the building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T233735Z" creationid="aorin" creationdate="20171228T233735Z">
+        <seg>あなたは、建物に示されるVPを得るためにアイテムカードを（捨て札にして）使用することで、いくつかの建物を建築することになるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may eventually construct some buildings where you can pay (discard) treasure cards to gain VP as indicated on the building.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T181140Z" creationid="aorin" creationdate="20171228T181140Z">
@@ -13907,6 +13931,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T214423Z" creationid="nakahodo" creationdate="20171224T214423Z">
         <seg>あなたは村を構築するために大量のコインや資源を必要としますが、あなたのキャパシティを超えるものは、ゲーム終了時に共通サプライに戻さなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're seeing an increasing number of  travelers, which is odd—where else are they  going other than your village and the Eternal City?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234043Z" creationid="aorin" creationdate="20171228T234043Z">
+        <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外の、いったいどこへ行くというのだろう？</seg>
       </tuv>
     </tu>
     <tu>
