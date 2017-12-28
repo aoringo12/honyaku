@@ -1689,6 +1689,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After extracting all cards for crate B from the Index, use those cards to follow these instructions in order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163821Z" creationid="aorin" creationdate="20171228T163821Z">
+        <seg>インデックスから木箱Aのカード全てを引き出した後、それらのカードを使用して、順番に指示に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After gaining a face-up card from the mat, replace it with the top card from the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152751Z" creationid="nakahodo" creationdate="20171218T152751Z">
@@ -7190,6 +7198,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oddly, when you try to take the resources to the Eternal City,you find that there is an invisible barrier preventing you fi·om leaving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163819Z" creationid="aorin" creationdate="20171228T163722Z">
+        <seg>奇妙なことに、久遠の都に資源を持っていこうとした時、あなたを妨げる障壁があることに気づきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offering Action you can achieve Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101030Z" creationid="aorin" creationdate="20171212T101030Z">
@@ -10130,6 +10146,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T220716Z" creationid="nakahodo" creationdate="20171224T220522Z">
         <seg>永遠なる王は王国が豊富に保有するコインを集めようとしていることに失望します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King is happy to hear that you want to support the Et􀃍rMI City with raw resources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163754Z" creationid="aorin" creationdate="20171228T163717Z">
+        <seg>永遠なる王は、あなたがその資源によって久遠の都を支援したいと聞き、喜びました。</seg>
       </tuv>
     </tu>
     <tu>
