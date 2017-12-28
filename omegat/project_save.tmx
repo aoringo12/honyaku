@@ -1658,6 +1658,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affix this sticker, which has 5 columns Instead of 6, to the bottom of the quota track on the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173938Z" creationid="aorin" creationdate="20171228T173938Z">
+        <seg>この6ではなく5列を持つシールを、ゲームボードのノルマトラックの下へと貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Affix this sticker, which has 5 columns instead of 6, to the bottom of the quota track on the game board, then place this card in the Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172555Z" creationid="aorin" creationdate="20171228T172555Z">
@@ -1832,6 +1840,14 @@ are returned to players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214154Z" creationid="aorin" creationdate="20171024T214154Z">
         <seg>スレートの全ての豆はフィールドに戻され、全てのマーカーはプレイヤーに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All 36 peril tokens should be removed from tuckbox i and used during setup of the next game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174032Z" creationid="aorin" creationdate="20171228T174032Z">
+        <seg>36危険トークン全てを、タックボックス「i」から取り出し、次のゲームセットアップ時から使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3035,6 +3051,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154440Z" creationid="aorin" creationdate="20171215T154440Z">
         <seg>空き地、道、森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clearthe board of remaining tokens and return all peril tokens to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173901Z" creationid="aorin" creationdate="20171228T173901Z">
+        <seg>ボードに残っているトークンをなくし、共通サプライに危険トークンを全て戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8036,6 +8060,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peril Quota</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173909Z" creationid="aorin" creationdate="20171228T173909Z">
+        <seg>危険ノルマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permanent Ability Tile from the board and places it on the appropriate field with the corresponding symbol on their player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093825Z" creationid="aorin" creationdate="20171212T093825Z">
@@ -12400,6 +12432,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To pay the cost, discard those tokens to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173757Z" creationid="aorin" creationdate="20171228T173757Z">
+        <seg>コストとして支払うには、共通サプライへとそのトークンを破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To perform this action, place ALL of your remaining Action Discs for this turn on the action space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123656Z" creationid="nakahodo" creationdate="20171213T123656Z">
@@ -14513,6 +14553,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151333Z">
         <seg>•セットアップ時、あなたは自身のチャーターチェストから任意の役割を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   END OF GAME:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173757Z" creationid="aorin" creationdate="20171228T173757Z">
+        <seg>•ゲーム終了：</seg>
       </tuv>
     </tu>
     <tu>
