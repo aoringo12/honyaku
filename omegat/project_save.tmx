@@ -11962,6 +11962,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These building cards don't have crates on them, so when constructed, place them in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235016Z" creationid="aorin" creationdate="20171228T235016Z">
+        <seg>これら建物カードは木箱を持っていませんので、建築したらアーカイブに入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These cards feature basic resource buildings where players will place workers to gain 1 of the indicated resource.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T134213Z" creationid="nakahodo" creationdate="20171224T134213Z">
@@ -13381,6 +13389,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use the Shoemaker, select another persona card from your Charter Chest and activate it(in addition to other perosna cards youre using game)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235358Z" creationid="aorin" creationdate="20171228T235358Z">
+        <seg>あなたが靴屋を使用するとき、あなたのチャーターチェストから別の役割カードを選択して、これをアクティブにします（あなたがこのゲームで使用しているもう一方の役割カードに加えて）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you're ready to begin Game 1, extract card 13 from the Index (place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T142253Z" creationid="nakahodo" creationdate="20171224T142253Z">
@@ -14431,6 +14447,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>when you use the Junkyard, discard all face-up cards on the advancement mat, then gain 1 of those newly revealed cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235116Z" creationid="aorin" creationdate="20171228T235116Z">
+        <seg>あなたがジャンクヤードを使用するとき、発展マットの表向きのカードを全て捨て札にして、その後、新しくカードを公開してそこから1枚得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whenever you acquire resources, it isn’t allowed to refuse any of them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043043Z" creationid="aorin" creationdate="20171213T043043Z">
@@ -15200,6 +15224,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• JUNKYARD:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235026Z" creationid="aorin" creationdate="20171228T235026Z">
+        <seg>•ジャンクヤード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Just swap a Tile on your own player screen with a Tile of the same type on an opponent’s player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075346Z" creationid="aorin" creationdate="20171213T075346Z">
@@ -15396,6 +15428,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103509Z" creationid="aorin" creationdate="20171219T103509Z">
         <seg>•評判トラック：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• SHOEMAKER:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235132Z" creationid="aorin" creationdate="20171228T235132Z">
+        <seg>•靴屋</seg>
       </tuv>
     </tu>
     <tu>
