@@ -4761,6 +4761,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Friend Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235445Z" creationid="aorin" creationdate="20171228T235445Z">
+        <seg>フレンドカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From here on out, a player who has the Double Offering Tile is allowed to offer three different goods (Silver, Gold and the appropriate Food).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131600Z" creationid="nakahodo" creationdate="20171213T131600Z">
@@ -11487,6 +11495,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The portal advances the token the progress track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235438Z" creationid="aorin" creationdate="20171228T235438Z">
+        <seg>ポータルは進展トークンのトークンをを進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The progress token begins on the space corresponding to the player count.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111411Z" creationid="aorin" creationdate="20171219T111411Z">
@@ -11515,6 +11531,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153225Z" creationid="aorin" creationdate="20171212T153225Z">
         <seg>昇進は現在のプレイヤーターン順番（大きなキューブ）に従って実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rapid growth of the village has resulted in long days and little ft·ee time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235645Z" creationid="aorin" creationdate="20171228T235645Z">
+        <seg>労働に明け暮れた一日と、その合間にあったちょっとした自由時間は、村に急速な成長をもたらしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15312,6 +15336,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• PORTAL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235411Z" creationid="aorin" creationdate="20171228T235411Z">
+        <seg>•ポータル：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Pay 1 Gold to advance 1 step on the Gold track</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142002Z" creationid="nakahodo" creationdate="20171213T142002Z">
@@ -15434,8 +15466,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• SHOEMAKER:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T235132Z" creationid="aorin" creationdate="20171228T235132Z">
-        <seg>•靴屋</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235413Z" creationid="aorin" creationdate="20171228T235132Z">
+        <seg>•靴屋：</seg>
       </tuv>
     </tu>
     <tu>
