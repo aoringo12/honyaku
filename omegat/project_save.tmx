@@ -1634,6 +1634,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affix the building sticker in your charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170358Z" creationid="aorin" creationdate="20171228T170358Z">
+        <seg>あなたのチャーターに建物シールを貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After Blending, each player receives 1 RP to distribute on
 their own Research Lab Ability Tracks!</seg>
       </tuv>
