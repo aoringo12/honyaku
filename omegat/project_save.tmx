@@ -1366,6 +1366,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minion is a type of worker that you may place only on unoccupied buildings in your charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T171824Z" creationid="aorin" creationdate="20171228T171824Z">
+        <seg>ミニオンは、あなたのチャーターの未占領の建物にのみ、あなたが配置できるワーカーの一種です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A piece is local if it is located in the same clearing as any of your pieces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152511Z" creationid="aorin" creationdate="20171215T152511Z">
@@ -1832,6 +1840,14 @@ are returned to players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103243Z" creationid="aorin" creationdate="20171212T103243Z">
         <seg>全てのアクションはこのルールブックの8ページから説明されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All cards that refer to "workers" apply to both regular workers and minions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T171940Z" creationid="aorin" creationdate="20171228T171940Z">
+        <seg>「ワーカー」を指す全てのカードは、基本ワーカーとミニオン両方に適応されます。</seg>
       </tuv>
     </tu>
     <tu>
