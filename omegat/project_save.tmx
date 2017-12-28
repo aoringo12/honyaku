@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(not face-up cards on the objective mat).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165307Z" creationid="aorin" creationdate="20171228T165307Z">
+        <seg>（目標マットの表向きのカードではなく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T165126Z" creationid="nakahodo" creationdate="20171224T165016Z">
@@ -6419,6 +6427,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It becomes an objective in your personal supply that only you may accomplish and score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165414Z" creationid="aorin" creationdate="20171228T165414Z">
+        <seg>あなたの個人サプライに入って個人目標になるそれは、あなたのみが達成して得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can never be sent back to the mines.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031935Z" creationid="aorin" creationdate="20171213T031935Z">
@@ -7243,6 +7259,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131357Z" creationid="nakahodo" creationdate="20171213T131357Z">
         <seg>提供フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On buildings like the Botanical Gardens and the Pavilion, you may gain the top card of the objective deck :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165251Z" creationid="aorin" creationdate="20171228T165251Z">
+        <seg>植物園やパビリオンのような建物にて、目標デッキの一番上のカード1枚を得ることができます</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9419,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132733Z" creationid="aorin" creationdate="20171215T132733Z">
         <seg>デッキをシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the remaining cards into the objective deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165147Z" creationid="aorin" creationdate="20171228T165121Z">
+        <seg>残っているカードは目標デッキに入れてシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
