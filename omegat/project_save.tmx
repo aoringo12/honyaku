@@ -12496,6 +12496,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To play  a treasure card, discard it next to the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T180413Z" creationid="aorin" creationdate="20171228T180413Z">
+        <seg>トレジャーカードをプレイするには、発展デッキの横にこれを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To prepare for the Charterstone campaign, please do the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141245Z" creationid="nakahodo" creationdate="20171218T141245Z">
@@ -13666,6 +13674,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
         <seg>あなたはアクション1つを消費せずにクラフトができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may eventually construct some buildings where you can pay (discard) treasure cards to gain VP as indicated on the building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T181140Z" creationid="aorin" creationdate="20171228T181140Z">
+        <seg>あなたは、建物に示されるVPを得るためにトレジャーカードを（捨て札にして）使用することで、いくつかの建物を建築することになるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
