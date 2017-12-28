@@ -2124,6 +2124,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any player may place a regular worker on a building  cannot occupied be by a bumped-they minion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172054Z" creationid="aorin" creationdate="20171228T172054Z">
+        <seg>任意のプレイヤーはミニオン1体で占領されている建物に基本ワーカーを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any supporters left in forest nation boxes at the end of Daylight remain for future turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053244Z" creationid="aorin" creationdate="20171216T053244Z">
@@ -12498,6 +12506,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T121125Z" creationid="nakahodo" creationdate="20171224T121010Z">
         <seg>ゲームボード（いずれかの面）を広げ、ボードの横に目標マットと発展マットを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike stay on other your workers, buildings minions until  you choose to retrieve all your workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T172256Z" creationid="aorin" creationdate="20171228T172256Z">
+        <seg>他のワーカーとは違い、ミニオンはそこから押し出せません――ミニオンは、あなたが自身のワーカー全てを戻す選択をするまで、あなたの建物にとどまります。</seg>
       </tuv>
     </tu>
     <tu>
