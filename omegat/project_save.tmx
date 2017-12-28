@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>(usually on the  Progress track):</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T170020Z" creationid="aorin" creationdate="20171228T170020Z">
-        <seg>（通常は進行トラック上で）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170025Z" creationid="aorin" creationdate="20171228T170020Z">
+        <seg>（通常は進行トラック上で）、</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213308Z" creationid="nakahodo" creationdate="20171224T213308Z">
         <seg>そのプレイヤーはオプションの1つを選択肢、該当する木箱を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>, gain the benefits indicated in the upper right of each income building where you have an influence token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170112Z" creationid="aorin" creationdate="20171228T170112Z">
+        <seg>あなたの影響トークンを持つ収入建物ごとに、その右上に示される利益を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3039,6 +3047,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constructing a Building</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170150Z" creationid="aorin" creationdate="20171228T170150Z">
+        <seg>建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue playing until the progress  token (●） advances to the O space (finish the round so all players have taken the same number of turns).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155021Z" creationid="nakahodo" creationdate="20171224T155021Z">
@@ -4740,6 +4756,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034823Z" creationid="aorin" creationdate="20171212T034823Z">
         <seg>同じ近所にあるプラン（裏向き）ごとに★★を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain the benefits in reverse player order starting with the current player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170140Z" creationid="aorin" creationdate="20171228T170140Z">
+        <seg>現在のプレイヤーから始まり、逆回りのプレイヤー順で利益を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7677,6 +7701,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164541Z" creationid="aorin" creationdate="20171212T164541Z">
         <seg>降格させる対戦相手の妖精へと、あなたの個人サプライから追加のリンゴ1つを支払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay 3 influence tokens plus the 4 resources shown on the upper left of the building card (unless an alternate cost is shown on the board).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170344Z" creationid="aorin" creationdate="20171228T170344Z">
+        <seg>3影響トークンに加えて、建物カードの左上に示されるリソース4つを支払います（代替コストがボードに示されない限り）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11938,6 +11970,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
         <seg>これは、このアクションが再び利用可能になることを意味するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This icon means "construct a building in your charter using a building card from your personal supply."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170244Z" creationid="aorin" creationdate="20171228T170244Z">
+        <seg>このアイコンは”あなたの個人サプライから建物カード1枚を使用して、あなたのチャーターに建物を建築する”ことを意味します。</seg>
       </tuv>
     </tu>
     <tu>
