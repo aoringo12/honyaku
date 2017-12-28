@@ -9687,6 +9687,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the remaining cards into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174723Z" creationid="aorin" creationdate="20171228T174723Z">
+        <seg>残っているカード発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the remaining cards into the objective deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165147Z" creationid="aorin" creationdate="20171228T165121Z">
@@ -11294,6 +11302,14 @@ though they had placed on that Location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player who unlocked this crate may gain 1 of these treasure cards at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174708Z" creationid="aorin" creationdate="20171228T174708Z">
+        <seg>この木箱を解放したプレイヤーは、これらトレジャーカードから1枚をランダムに得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player with
 their large cube closest to the castle is called
 the Queen’s Favorite and will be the starting
@@ -12551,6 +12567,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174047Z" creationid="aorin" creationdate="20171228T174047Z">
         <seg>トレジャーカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treasure cards provide powerful one-time abilities to use when you wish.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T180342Z" creationid="aorin" creationdate="20171228T180342Z">
+        <seg>トレジャーカードは、あなたが使用を望んだ時に、一度限りの強力な能力を提供します。</seg>
       </tuv>
     </tu>
     <tu>
