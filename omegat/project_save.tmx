@@ -9728,6 +9728,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the others into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234941Z" creationid="aorin" creationdate="20171228T234941Z">
+        <seg>残っているカードを発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the remaining cards into the advancement deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174723Z" creationid="aorin" creationdate="20171228T174723Z">
@@ -11355,6 +11363,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143724Z" creationid="nakahodo" creationdate="20171213T143724Z">
         <seg>最もシルバーまたはゴールドそれぞれにて、最も提供できたプレイヤーは、自身のディスクをさらに1ステップ進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player who unlocked this crate may gain 1 of these building cards (92-97) at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234928Z" creationid="aorin" creationdate="20171228T234928Z">
+        <seg>この木箱を解放したプレイヤーは、これら建物カード（92-97）から1枚をランダムに得ます。</seg>
       </tuv>
     </tu>
     <tu>
