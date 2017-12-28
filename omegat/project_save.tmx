@@ -12462,6 +12462,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unclaimed minions of that type are kept on their reference card in the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T171718Z" creationid="aorin" creationdate="20171228T171718Z">
+        <seg>余分なそのタイプのミニオンは、共通サプライにてそのミニオンのリファレンスカード上に保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under her iron rule, the many creatures of the forest have banded together.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T151558Z" creationid="nakahodo" creationdate="20171103T151558Z">
@@ -13068,6 +13076,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a new type of minion is unlocked, the unlocking player gains 1 of those minions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T171439Z" creationid="aorin" creationdate="20171228T171439Z">
+        <seg>新しいタイプのミニオンを解放するたびに、開放したプレイヤーはそのミニオンを1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a player begins their turn with o influence tokens, they must advance the P「ogress token 1 space before taking their turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112048Z" creationid="aorin" creationdate="20171219T112048Z">
@@ -13530,6 +13546,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122520Z" creationid="nakahodo" creationdate="20171213T122520Z">
         <seg>あなたは自身のサプライから共通サプライへと、これらリソースを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You recruit some minions  from the area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T171412Z" creationid="aorin" creationdate="20171228T171412Z">
+        <seg>あなたは地域から何人かのミニオンをリクルートします。</seg>
       </tuv>
     </tu>
     <tu>
