@@ -9736,6 +9736,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shu用e the remaining cards into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234218Z" creationid="aorin" creationdate="20171228T234218Z">
+        <seg>残っているカードを発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Silver and Gold bars are added to the resource pool a player keeps behind their screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T071421Z" creationid="aorin" creationdate="20171213T071421Z">
@@ -10965,6 +10973,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The longer you can entertain them, the more benefits you will reap、</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234142Z" creationid="aorin" creationdate="20171228T234142Z">
+        <seg>彼らを長く楽しませることができれば、多くの利益を得られるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The map of the Woodland is composed of clearings​, which are connected by a network of paths​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
@@ -11315,6 +11331,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143724Z" creationid="nakahodo" creationdate="20171213T143724Z">
         <seg>最もシルバーまたはゴールドそれぞれにて、最も提供できたプレイヤーは、自身のディスクをさらに1ステップ進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player who unlocked this crate may gain 1 of these guest cards at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234201Z" creationid="aorin" creationdate="20171228T234201Z">
+        <seg>この木箱を解放したプレイヤーは、これらゲストカードから1枚をランダムに得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13937,8 +13961,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You're seeing an increasing number of  travelers, which is odd—where else are they  going other than your village and the Eternal City?</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T234043Z" creationid="aorin" creationdate="20171228T234043Z">
-        <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外の、いったいどこへ行くというのだろう？</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T234113Z" creationid="aorin" creationdate="20171228T234043Z">
+        <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外に行くところはあるのか？</seg>
       </tuv>
     </tu>
     <tu>
