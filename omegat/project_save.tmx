@@ -2228,6 +2228,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you tinker with them you discover that they hold immense power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174652Z" creationid="aorin" creationdate="20171228T174652Z">
+        <seg>あなたは、それに宝物には膨大な力が秘められていることを気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aside from the above, all normal rules regarding a regular promotion in the Reward phase apply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041405Z" creationid="aorin" creationdate="20171213T041405Z">
@@ -8419,6 +8427,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place this card in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174039Z" creationid="aorin" creationdate="20171228T174039Z">
+        <seg>このカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place this on the space of the progress track that corresponds with the player count (e.g., 2p equals 2 players)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145315Z" creationid="nakahodo" creationdate="20171218T145315Z">
@@ -12014,6 +12030,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thieves have stolen precious artifacts from the Foreve1·King's personal treaswy and smuggled them into your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174257Z" creationid="aorin" creationdate="20171228T174257Z">
+        <seg>泥棒たちは、永遠なる王の私財である貴重な宝物を盗み出し、あなたの村に密輸しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This
 is important to keep the simultaneous actions from becoming chaotic.</seg>
       </tuv>
@@ -12519,6 +12543,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053633Z" creationid="aorin" creationdate="20171216T053633Z">
         <seg>訓練</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treasure Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T174047Z" creationid="aorin" creationdate="20171228T174047Z">
+        <seg>トレジャーカード</seg>
       </tuv>
     </tu>
     <tu>
