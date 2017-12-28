@@ -8148,6 +8148,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 peril token at random on all buildings in charters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173532Z" creationid="aorin" creationdate="20171228T173532Z">
+        <seg>チャーターの全ての建物へと、ランダムに危険トークン1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -9700,6 +9708,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T130335Z" creationid="nakahodo" creationdate="20171001T130335Z">
         <seg>いくつかのブレンドスレートは特定の色で塗りつぶされた1つの豆スペースがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some buildings have a specific type of peril token as the cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173737Z" creationid="aorin" creationdate="20171228T173737Z">
+        <seg>いくつかの建物はコストとして、特定の種類の危険トークン1つを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12127,6 +12143,14 @@ using the Hiding Spots secrets card.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a good thing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173705Z" creationid="aorin" creationdate="20171228T173705Z">
+        <seg>これは良いことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is determined for Apples, Honey, Bread, Silver and Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040135Z" creationid="aorin" creationdate="20171213T040135Z">
@@ -13128,6 +13152,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075018Z" creationid="aorin" creationdate="20171216T075018Z">
         <seg>あなたがヒットを受ける時、あなたはまず、戦闘地の同盟戦士を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you use a building with a peril token on it, after you gain the benefit, you must also gain the peril token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173658Z" creationid="aorin" creationdate="20171228T173658Z">
+        <seg>あなたが危険トークンを持つ建物を使用する時、効果を得た後、危険トークンを得る必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14493,6 +14525,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•   GAIN PERIL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173636Z" creationid="aorin" creationdate="20171228T173632Z">
+        <seg>•危険を得る：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>•   If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153601Z" creationid="nakahodo" creationdate="20171224T153412Z">
@@ -14505,6 +14545,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153639Z" creationid="nakahodo" creationdate="20171224T153619Z">
         <seg>•ゲームごとの役割カードは全て保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   PERIL BUILDINGS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173714Z" creationid="aorin" creationdate="20171228T173714Z">
+        <seg>•危険な建物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•   SETUP:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T173634Z" creationid="aorin" creationdate="20171228T173452Z">
+        <seg>•セットアップ：</seg>
       </tuv>
     </tu>
     <tu>
