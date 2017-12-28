@@ -3353,6 +3353,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard all private objective cards at end  of game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165430Z" creationid="aorin" creationdate="20171228T165430Z">
+        <seg>全ての個人目標カードはゲーム終了時に捨て札にされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard down to your hand limit of four cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002820Z" creationid="aorin" creationdate="20171216T002820Z">
@@ -7171,6 +7179,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T143350Z" creationid="nakahodo" creationdate="20171224T143350Z">
         <seg>さあゲームを始めましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that the village is thriving it is influencing the entire kingdom's culture, technology, military, education, entertainment, and economy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165733Z" creationid="aorin" creationdate="20171228T165733Z">
+        <seg>村が反映している今、王国全体の文化、技術、軍事、教育、娯楽、軽税に影響を与えています。</seg>
       </tuv>
     </tu>
     <tu>
