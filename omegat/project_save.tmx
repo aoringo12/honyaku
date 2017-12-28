@@ -6254,6 +6254,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In reverse player order, gain any bonuses for completed rows of glory on your Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163453Z" creationid="aorin" creationdate="20171228T163453Z">
+        <seg>逆回りのプレイヤー順で、自身のチャーターチェストの完了している栄光の行の任意のボーナス1つ以上を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In set-up and during
 the game when Blend Slates are placed above the regions on the World Map, a special symbol on each Blend Slate
 indicates an action that must be performed for a specific Country in that region.</seg>
@@ -9684,6 +9692,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054758Z" creationid="aorin" creationdate="20171216T054758Z">
         <seg>サポーターの民。あなたが消費するサポーターは、プレイする策略のカードすーとに一致している必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Su軋mrting t􀀑e King􀀒om</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163617Z" creationid="aorin" creationdate="20171228T163617Z">
+        <seg>王国を支える</seg>
       </tuv>
     </tu>
     <tu>
