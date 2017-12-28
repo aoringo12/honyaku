@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(usually on the  Progress track):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170020Z" creationid="aorin" creationdate="20171228T170020Z">
+        <seg>（通常は進行トラック上で）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(you choose which stars to fill in).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202623Z" creationid="nakahodo" creationdate="20171224T202623Z">
@@ -1816,6 +1824,14 @@ are returned to players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104500Z" creationid="aorin" creationdate="20171212T104500Z">
         <seg>少なくとも1つのアクションディスクをもつダブルアクションスペースは、選択できない、占領されたアクションとしてみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All income buildings have 1 influence token as part of their cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165813Z" creationid="aorin" creationdate="20171228T165813Z">
+        <seg>全ての収入建物はそのコストの一部として1影響トークンを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3782,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223353Z" creationid="aorin" creationdate="20171215T223353Z">
         <seg>プレイされたアンブッシュカードごとに、直ちに不可避の2ヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player can place a maximum of 1 influence token on each income building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165926Z" creationid="aorin" creationdate="20171228T165926Z">
+        <seg>各プレイヤーは各収入建物に最大1影響トークンを配置することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12916,6 +12940,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use an  income building, the influence token you spend is placed on the octagonal icon on the building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165902Z" creationid="aorin" creationdate="20171228T165902Z">
+        <seg>あなたが収入建物を使用する時、あなたが消費する影響トークンは建物の八角形アイコンに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you're ready to begin Game 1, extract card 13 from the Index (place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T142253Z" creationid="nakahodo" creationdate="20171224T142253Z">
@@ -12952,6 +12984,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever income is activated :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T165937Z" creationid="aorin" creationdate="20171228T165937Z">
+        <seg>収入がアクティブになるたびに</seg>
       </tuv>
     </tu>
     <tu>
