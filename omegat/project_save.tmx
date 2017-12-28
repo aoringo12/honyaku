@@ -4760,6 +4760,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain VP and advance the progress token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T170949Z" creationid="aorin" creationdate="20171228T170949Z">
+        <seg>VPを得て、進展トークンを進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain for each Plan (face down) in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034823Z" creationid="aorin" creationdate="20171212T034823Z">
@@ -5563,6 +5571,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T213952Z" creationid="aorin" creationdate="20171215T213952Z">
         <seg>ヴァガボンドがゲームにいない、一致するアイテムトークンが残っていない場合は、プレイエリアにアイテムトークンを配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the constructed building card shows a crate, place it face up in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T171106Z" creationid="aorin" creationdate="20171228T171106Z">
+        <seg>建築された建物カードに木箱があった場合、あなたの個人サプライにこれを表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
