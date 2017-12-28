@@ -1691,8 +1691,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After extracting all cards for crate B from the Index, use those cards to follow these instructions in order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T163821Z" creationid="aorin" creationdate="20171228T163821Z">
-        <seg>インデックスから木箱Aのカード全てを引き出した後、それらのカードを使用して、順番に指示に従ってください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163937Z" creationid="aorin" creationdate="20171228T163821Z">
+        <seg>インデックスから木箱Bのカード全てを引き出した後、それらのカードを使用して、順番に指示に従ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3773,6 +3773,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223005Z" creationid="nakahodo" creationdate="20171224T223005Z">
         <seg>各プレイヤーはコインごとに1VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player gains 1 VP per resource.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T164002Z" creationid="aorin" creationdate="20171228T164002Z">
+        <seg>各プレイヤーは資源ごとに1VPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12317,6 +12325,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Updates on updated rules cards are highlighted with a red arrow (一）．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T163945Z" creationid="aorin" creationdate="20171228T163945Z">
+        <seg>ルール更新カードによる変更は、赤い矢印で強調表示されます（●）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use 1 offered Food to perform the promotion step.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164505Z" creationid="aorin" creationdate="20171212T164505Z">
@@ -13661,6 +13677,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sRtUarLtEinSg:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T164009Z" creationid="aorin" creationdate="20171228T164009Z">
+        <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shows a Otherwise, crate, place place it it in face the up in Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145349Z" creationid="nakahodo" creationdate="20171224T145349Z">
@@ -13737,6 +13761,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T144735Z" creationid="nakahodo" creationdate="20171224T144735Z">
         <seg>建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wFoiltlho wst ethpe 2 i.Ansdtdru tchteiomn ts ofo trh Een Cdh orofn Gicalme e, along with the Setup cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T164825Z" creationid="aorin" creationdate="20171228T164825Z">
+        <seg>ステップ2から始まるゲーム終了指示に従ってください。そして、セットアップカードと共にこれらをクロニクルに追加してください。</seg>
       </tuv>
     </tu>
     <tu>
