@@ -16804,6 +16804,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>息If you would like to select the configuration子or end-of-campaign scoring, open era􀂓K.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T022806Z" creationid="aorin" creationdate="20171229T022806Z">
+        <seg>キャンペーン終了の得点計算の設定を選択を望む場合は、木箱Kを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>息Ifyour village's score was below average, you must open crate J.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T020835Z" creationid="aorin" creationdate="20171229T020835Z">
@@ -16850,6 +16858,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T010738Z" creationid="aorin" creationdate="20171229T010738Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>􀂔􀂕If you think all players should receive the努act same end・of-campaign VP for each category, open crate L.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T023005Z" creationid="aorin" creationdate="20171229T023005Z">
+        <seg>全てのプレイヤーが各カテゴリについて、同じだけキャンペーン終了のVPを受け取るべきだと考える場合、木箱Lを開きます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
