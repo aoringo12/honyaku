@@ -12372,6 +12372,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player with the highest total score is the overall winner, The tiebreakers are the categories on the Campaign Victory Card (from top to bottom).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T215007Z" creationid="nakahodo" creationdate="20171229T215007Z">
+        <seg>最も合計得点の高いプレイヤーは全体の勝者で、タイの場合、キャンペーン勝利カードのカテゴリーで決めます（上から下に）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player with the most has the finest
 Neighborhood and wins!</seg>
       </tuv>
