@@ -6518,6 +6518,14 @@ stack is first in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they do, they gain the minion from the board to their personal supply I􀁲!\j if the 仙umbe rof􀁳appy kings on all story cards in the Chronicle is greater than or equal to the number of angry kings, the Forever King invites you to a month-l ong festival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T164656Z" creationid="nakahodo" creationdate="20171229T164656Z">
+        <seg>そうした場合、ボードから自身の個人サプライにミニオンを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this Permanent Ability Tile is exchanged, the Tile on top is exchanged with it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T140156Z" creationid="nakahodo" creationdate="20171213T140156Z">
@@ -9423,6 +9431,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100707Z" creationid="nakahodo" creationdate="20171001T100707Z">
         <seg>プレイヤーたちは約束を交わすことができますが、なのかを交換することはできず、取引に拘束力はなく、アクションやルールで必要とされない限り自身のロースターカードの内容を見せることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players may only use a building with a minion if they first pay 1 influence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T163719Z" creationid="nakahodo" creationdate="20171229T163719Z">
+        <seg>プレイヤーたちは最初に1影響を支払う場合に、ミニオンのいる建物1つのみを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
