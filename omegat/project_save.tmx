@@ -10326,6 +10326,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So you're surprised when they approach you with a confession.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015331Z" creationid="aorin" creationdate="20171229T015331Z">
+        <seg>彼らの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Blend Slates have one bean space filled
 in with a specific color.</seg>
       </tuv>
@@ -14761,6 +14769,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073541Z" creationid="aorin" creationdate="20171216T073541Z">
         <seg>あなたの協力は戦闘時にあなたがアタッカーかディフェンダーかに関わらず、戦闘を取り除くことにより調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your companion has been with you st nee you first arrived at the village, but you've been so focused on work that you've never really gotten to know them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015251Z" creationid="aorin" creationdate="20171229T015251Z">
+        <seg>最初に村についてから、あなたとあなたの仲間たちは一緒に行動してきましたが、あなたが絶対に知るはずのない仕事に集中していました。</seg>
       </tuv>
     </tu>
     <tu>
