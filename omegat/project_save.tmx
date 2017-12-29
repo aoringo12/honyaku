@@ -3946,6 +3946,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Game 6, whenever a player uses a building in an opponent's charter, that opponent rolls the Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020111Z" creationid="aorin" creationdate="20171229T020111Z">
+        <seg>ゲーム6時、プレイヤーは対戦相手のチャーターの建物を使用するたびに、チャーターストーンをロールする機会があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During any battle as the attacker, you inflicts an extra hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003605Z" creationid="aorin" creationdate="20171216T003605Z">
@@ -6211,6 +6219,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T120138Z" creationid="nakahodo" creationdate="20171213T120011Z">
         <seg>ペナルティポイントを受け取ることにより、スコアトラックのドレイシンボルにプレイヤーのスコアマーカーが乗るか超えて移動した場合、プレイヤーは直ちに自身の鉱山に妖精を降格させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the result matches either player's charter, both players gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020142Z" creationid="aorin" creationdate="20171229T020142Z">
+        <seg>いずれかのプレイヤーのチャーターに一致する結果の場合、両プレイヤーは1VPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15216,6 +15232,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>then present the sum of all scores to the king by going to</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020707Z" creationid="aorin" creationdate="20171229T020707Z">
+        <seg>その後、stonemaiergames.com/games/charterstone/mapに移動して、王に全ての得点の合計を提示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>there will be revealed later.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205358Z" creationid="nakahodo" creationdate="20171224T205358Z">
@@ -15316,6 +15340,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145351Z" creationid="nakahodo" creationdate="20171224T145351Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>·-----­Proceed with end-game scoring;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020208Z" creationid="aorin" creationdate="20171229T020208Z">
+        <seg>ゲーム終了の得点計算を開始し、</seg>
       </tuv>
     </tu>
     <tu>
