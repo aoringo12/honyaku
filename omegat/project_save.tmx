@@ -4065,6 +4065,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player gains 4 sky island tiles from under the insert in the game box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003157Z" creationid="aorin" creationdate="20171229T003157Z">
+        <seg>各プレイヤーはゲームボックスのインサートの下から空島タイルを4つ得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player gains glory (,r) based on their position on the VP track (mark on Charter Chest).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223527Z" creationid="nakahodo" creationdate="20171224T223527Z">
@@ -6656,8 +6664,8 @@ cannot be chosen, unless a special action would allow it.</seg>
       <tuv lang="EN-US">
         <seg>In other news, the king is happy you checked with him before proceeding with the sky island plan.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T003005Z" creationid="aorin" creationdate="20171229T003005Z">
-        <seg>別の知らせでは、王は空島計画を進行させる前にあなたと確認できたことで嬉しそうでした。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003015Z" creationid="aorin" creationdate="20171229T003005Z">
+        <seg>別のニュースとしては、王は空島計画を進行させる前にあなたと確認できたことで嬉しそうでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9194,6 +9202,14 @@ players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put 4 sky island tiles in each inactive Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003236Z" creationid="aorin" creationdate="20171229T003236Z">
+        <seg>非アクティブチャーターごとに空島タイルを4つ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put Score Tokens
 in a Roaster.</seg>
       </tuv>
@@ -9722,6 +9738,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000535Z" creationid="aorin" creationdate="20171229T000535Z">
         <seg>得点計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SKY ISLAND TILES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003026Z" creationid="aorin" creationdate="20171229T003026Z">
+        <seg>空島タイル：</seg>
       </tuv>
     </tu>
     <tu>
