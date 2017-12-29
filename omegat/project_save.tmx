@@ -1349,6 +1349,16 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>406 r the hopes that the Forever King decides to visit your village and bestow upon it the honor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T021034Z" creationid="aorin" creationdate="20171229T021034Z">
+        <seg>406
+評判トラックに最もトークンを持つ
+ r the hopes that the Forever King decides to visit your village and bestow upon it the honor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -16774,6 +16784,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T214654Z" creationid="nakahodo" creationdate="20171224T214654Z">
         <seg>あなたの集めたコイン全てをボーナスとしたいなら、木箱Aを空ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>息Ifyour village's score was below average, you must open crate J.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020835Z" creationid="aorin" creationdate="20171229T020835Z">
+        <seg>このゲームでの村の得点が閾値（average）を下回った場合、木箱Jを開けなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
