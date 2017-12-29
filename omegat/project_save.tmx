@@ -1394,6 +1394,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>409</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T135401Z" creationid="nakahodo" creationdate="20171229T135401Z">
+        <seg>409
+最もミニオンを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -4011,6 +4020,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210924Z" creationid="aorin" creationdate="20171215T210924Z">
         <seg>昼の間、あなたは自身の手札から任意の枚数、改良をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Game 10, players cannot place minions, nor do they control minions in their charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T163558Z" creationid="nakahodo" creationdate="20171229T163558Z">
+        <seg>ゲーム10の時、プレイヤーたちは自身のチャーターにてミニオンをコントロールしていてもミニオンを配置することはできません。</seg>
       </tuv>
     </tu>
     <tu>
