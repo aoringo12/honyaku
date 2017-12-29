@@ -3652,6 +3652,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DcaErCdI, SmIOarNk:s E tahcehir p clhaoyeicre r oeand tsh teh ceairr dc,o amnpda anlsioon (meaitrhkesr t 1h ceairp saeclietyc toiorn, oglno trhy)e.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014711Z" creationid="aorin" creationdate="20171229T014711Z">
+        <seg>決定：各プレイヤーは自身のコンパニオンカードを読み上げ、カードに自身の選択を記録し、また、自身のチャーターチェストにも自身の選択を記録します（1キャパシティか1栄光のいずれか）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deal Hits</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224810Z" creationid="aorin" creationdate="20171215T224810Z">
@@ -14788,6 +14796,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aFnoiro ena inch their Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014502Z" creationid="aorin" creationdate="20171229T014502Z">
+        <seg>非アクティブチャーターごとに、そのチャーターチェストに残っているコンパニオン1枚を入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>affix the newer rule on top.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222721Z" creationid="nakahodo" creationdate="20171224T222721Z">
@@ -14986,6 +15002,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205356Z" creationid="nakahodo" creationdate="20171224T205356Z">
         <seg>● 異なるタイプでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pNlaamcee 1y roeumr acionminpga cnoimonp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014424Z" creationid="aorin" creationdate="20171229T014424Z">
+        <seg>自身のコンパニオンに名前をつけます。</seg>
       </tuv>
     </tu>
     <tu>
