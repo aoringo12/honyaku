@@ -941,6 +941,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>130</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000820Z" creationid="aorin" creationdate="20171229T000820Z">
+        <seg>130
+迷い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -10664,6 +10673,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234905Z" creationid="aorin" creationdate="20171228T234905Z">
         <seg>永遠なる王から役に立つ設計図をいくつか頂きましたが、建築学のイノベーションは新しい機会を作り出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King is aghast that you'd choose to focus on anything other than the values of the village's buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T001243Z" creationid="aorin" creationdate="20171229T001243Z">
+        <seg>永遠なる王は村の建物以外の価値、それ以外の何かに集中するという選択に驚いています。</seg>
       </tuv>
     </tu>
     <tu>
