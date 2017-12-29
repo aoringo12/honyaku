@@ -1412,6 +1412,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>411</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T172653Z" creationid="nakahodo" creationdate="20171229T172653Z">
+        <seg>411
+最も少ない発展カードを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -7825,6 +7834,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133532Z" creationid="aorin" creationdate="20171215T133402Z">
         <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Martial law has severe limitations on your available actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T174158Z" creationid="nakahodo" creationdate="20171229T174158Z">
+        <seg>厳戒令は利用可能なアクションに厳しい制限があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16282,6 +16299,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• I/you want to confront the king, open crate T.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T172630Z" creationid="nakahodo" creationdate="20171229T172630Z">
+        <seg>•王との対立を望む場合は、木箱Tを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• IF IT HAS A CRATE:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154405Z" creationid="nakahodo" creationdate="20171218T154405Z">
@@ -16318,6 +16343,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165342Z" creationid="aorin" creationdate="20171212T165342Z">
         <seg>•最初のレベルにいる妖精を降格させる時、場所を交換することなく、その妖精は彼の炭鉱へと戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you greet the king with optn arms, open crate S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T172534Z" creationid="nakahodo" creationdate="20171229T172534Z">
+        <seg>•両手を広げ王を迎える場合は、木箱Sを開きます。</seg>
       </tuv>
     </tu>
     <tu>
