@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(lengthening the game).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012106Z" creationid="aorin" creationdate="20171229T012106Z">
+        <seg>（ゲームが長くなります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(not face-up cards on the objective mat).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165307Z" creationid="aorin" creationdate="20171228T165307Z">
@@ -1281,6 +1289,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>403</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012033Z" creationid="aorin" creationdate="20171229T012033Z">
+        <seg>403
+自身のチャーターに最も建物を持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -1970,6 +1987,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011058Z" creationid="aorin" creationdate="20171229T011046Z">
         <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース進める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After placing the progress token during Game 4 setup, regress it 2 spaces :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012055Z" creationid="aorin" creationdate="20171229T012055Z">
+        <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース後退する</seg>
       </tuv>
     </tu>
     <tu>
@@ -6563,6 +6588,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150526Z" creationid="nakahodo" creationdate="20171218T150526Z">
         <seg>影響トークンを使い果たした場合、影響トークンが必要なアクションができず、それ以降、あなたのターン開始時に進展トークンを進める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you seek the Forever King's approval to gゅwthe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012141Z" creationid="aorin" creationdate="20171229T012141Z">
+        <seg>村の成長に空島を使用することの承認を永遠なる王に求める場合は、木箱Eを開けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14106,6 +14139,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With your charters bursting at the seams and constant pressure from the Forever King to expand, you devise a plan to utilize the sky islands that circulate the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012128Z" creationid="aorin" creationdate="20171229T012128Z">
+        <seg>あなたのチャーターが拡張への永遠なる王からの絶え間ぬ圧力でいっぱいになり、村の周囲を回る空島を利用する計画を考案します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With your'charters b􀁾ursting at the seams and constant pressure from the Forever King to expand, you devise a plan to utilize the sky islands that circulate the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011557Z" creationid="aorin" creationdate="20171229T011557Z">
@@ -16430,6 +16471,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>息If you decide to expand the village using sky islands without asking for the Forever King's permission, open crate F</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012156Z" creationid="aorin" creationdate="20171229T012156Z">
+        <seg>永遠なる王の承認を得ずに村の拡張に空島を使用することに決めた場合は、木箱Fを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>息If you would like a bonus for all of the coins you've collected, open crate A</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T214654Z" creationid="nakahodo" creationdate="20171224T214654Z">
@@ -16452,6 +16501,14 @@ in the same tile.</seg>
         <seg>村の成長に空島を使用することの承認を永遠なる王に求める場合は、木箱Eを開けます。
 永遠なる王の承認を得ずに村の拡張に空島を使用することに決めた場合は、木箱Fを開けます。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>竺"" village using sky islands, open crate E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012143Z" creationid="aorin" creationdate="20171229T012143Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
