@@ -14788,6 +14788,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and they seem to be avoiding you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T013057Z" creationid="aorin" creationdate="20171229T013057Z">
+        <seg>and they seem to be C you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and those with the highest number after that gain 4 VP (a player must have at least 1 token to qualify).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105632Z" creationid="aorin" creationdate="20171219T105632Z">
