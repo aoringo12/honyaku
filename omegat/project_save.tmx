@@ -1430,6 +1430,14 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>413</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T220500Z" creationid="nakahodo" creationdate="20171229T220500Z">
+        <seg>413</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -8330,6 +8338,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the bright side, your opponents must address you as King (or Queen) from now on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T220440Z" creationid="nakahodo" creationdate="20171229T220440Z">
+        <seg>明るい側では、今後、あなたの対戦相手は王（またはクイーン）としてあなたに対処しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the first round of the game, players ignore penalties if they place their Field Researcher on a country that
 contains a red negative action.</seg>
       </tuv>
@@ -9314,6 +9330,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155354Z" creationid="nakahodo" creationdate="20171224T155354Z">
         <seg>このカードをゲームボードの右下にあるガイドポストスロットに配置し、その後、ゲーム1の最終ターン時に次の段落を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place this card in the Archive, then open crate W:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T220500Z" creationid="nakahodo" creationdate="20171229T220500Z">
+        <seg>このカードをアーカイブに入れて、その後、木箱Wを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16102,6 +16126,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173634Z" creationid="aorin" creationdate="20171228T173452Z">
         <seg>•セットアップ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• ----­</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T220515Z" creationid="nakahodo" creationdate="20171229T220515Z">
+        <seg>• ----­</seg>
       </tuv>
     </tu>
     <tu>
