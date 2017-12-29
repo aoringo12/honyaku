@@ -1057,6 +1057,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>135</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014840Z" creationid="aorin" creationdate="20171229T014840Z">
+        <seg>135
+あなたのコンパニオンの告白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -7486,6 +7495,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T154325Z" creationid="aorin" creationdate="20171212T154325Z">
         <seg>ドレイがいわに繋がれていない事を確認してください（”炭鉱”アクションを参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make the decision for each inactive charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014813Z" creationid="aorin" creationdate="20171229T014813Z">
+        <seg>各非アクティブチャーターごとに、決定を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,6 +14995,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105753Z" creationid="nakahodo" creationdate="20171225T105753Z">
         <seg>を発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>irK Ceheapr ttheirs C chaerdst i n your Charter Chest until instructed otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014748Z" creationid="aorin" creationdate="20171229T014748Z">
+        <seg>別途指示があるまで、自身のチャーターチェストにこのカードを保持します。</seg>
       </tuv>
     </tu>
     <tu>
