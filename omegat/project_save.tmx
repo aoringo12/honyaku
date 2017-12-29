@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(big meeple).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012430Z" creationid="aorin" creationdate="20171229T012430Z">
+        <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(either side):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235956Z" creationid="aorin" creationdate="20171228T235956Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011056Z" creationid="aorin" creationdate="20171229T011056Z">
         <seg>（ゲームが短くなります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(small meeple):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012351Z" creationid="aorin" creationdate="20171229T012351Z">
+        <seg>（小さなミープル）は、</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1310,15 @@ SET UP</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012033Z" creationid="aorin" creationdate="20171229T012033Z">
         <seg>403
 自身のチャーターに最も建物を持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>404</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012236Z" creationid="aorin" creationdate="20171229T012236Z">
+        <seg>404
+最も役割カードを持つ（自身の個人サプライとチャーターチェストに）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,6 +3884,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210924Z" creationid="aorin" creationdate="20171215T210924Z">
         <seg>昼の間、あなたは自身の手札から任意の枚数、改良をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Game 5, your companion worker :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012336Z" creationid="aorin" creationdate="20171229T012336Z">
+        <seg>ゲーム5時、あなたの仲間ワーカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -14781,6 +14814,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cannot be placed on buildings occupied by your primary worker :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012431Z" creationid="aorin" creationdate="20171229T012417Z">
+        <seg>あなたの主ワーカー（大きなミープル）が占領している建物には市することはできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contrary to the action phase, during the reward phase action spaces can only be occupied by Pixies, as the Action Discs were removed at the start of the Offering phase (III).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
@@ -16509,6 +16550,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012143Z" creationid="aorin" creationdate="20171229T012143Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>遠-􀂒If you interrogate your companion about their odd behavior, open crate G.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012532Z" creationid="aorin" creationdate="20171229T012532Z">
+        <seg>あなたが仲間の奇妙な行動について尋問するならば、木箱Gを開きます。</seg>
       </tuv>
     </tu>
     <tu>
