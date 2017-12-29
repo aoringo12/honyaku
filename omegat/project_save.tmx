@@ -2621,6 +2621,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the rightful elected leader of Greengully, your opponents must address you as King or Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T224715Z" creationid="nakahodo" creationdate="20171229T224715Z">
+        <seg>グリーングリーの正当な選挙によって選ばれたリーダーとして、あなたは皆に王または女王として対戦相手に演説する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you continue to acquire strange memories of lives you didn't lead, the one constant element has been your steadfast companion ...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T013113Z" creationid="aorin" creationdate="20171229T012833Z">
