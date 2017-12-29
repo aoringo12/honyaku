@@ -3621,6 +3621,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DECISION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015449Z" creationid="aorin" creationdate="20171229T015449Z">
+        <seg>決定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVELOPMENT</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073316Z" creationid="nakahodo" creationdate="20171209T073316Z">
@@ -4353,6 +4361,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player reads their companion card, marks their choice on the card, and also marks their selection on their Charter Chest (either, capacity or 1 glory).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015501Z" creationid="aorin" creationdate="20171229T015501Z">
+        <seg>各プレイヤーは自身のコンパニオンカードを読み上げ、カードに自身の選択を記録し、また、自身のチャーターチェストにも自身の選択を記録します（1キャパシティか1栄光のいずれか）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player receives Food (obligatory!) as depicted on their Food Tile and according to the Food icons at their Pixies position on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141102Z" creationid="nakahodo" creationdate="20171213T141102Z">
@@ -5005,6 +5021,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231339Z" creationid="aorin" creationdate="20171215T230659Z">
         <seg>ヴァガボンドは受けるヒットごとに、&lt;ソード&gt;を消耗しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each inactive charter, place 1 remaining companion in their Charter Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015441Z" creationid="aorin" creationdate="20171229T015441Z">
+        <seg>非アクティブチャーターごとに、そのチャーターチェストに残っているコンパニオン1枚を入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7250,6 +7274,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep this card In your Charter Chest until instructed otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015511Z" creationid="aorin" creationdate="20171229T015511Z">
+        <seg>別途指示があるまで、自身のチャーターチェストにこのカードを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep this card face up on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T214436Z" creationid="nakahodo" creationdate="20171224T214436Z">
@@ -7501,8 +7533,16 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Make the decision for each inactive charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T014813Z" creationid="aorin" creationdate="20171229T014813Z">
-        <seg>各非アクティブチャーターごとに、決定を行います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015540Z" creationid="aorin" creationdate="20171229T014813Z">
+        <seg>非アクティブチャーターごとに、決定を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make the decision loreach inactive charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015537Z" creationid="aorin" creationdate="20171229T015537Z">
+        <seg>非アクティブチャーターごとに、決定を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7776,6 +7816,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T195738Z" creationid="nakahodo" creationdate="20171224T175342Z">
         <seg>自身のチャーターに名前をつけます（ボードに書くことによって）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name your companion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015430Z" creationid="aorin" creationdate="20171229T015430Z">
+        <seg>自身のコンパニオンに名前をつけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10270,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the companion cards and deal 1 to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015421Z" creationid="aorin" creationdate="20171229T015421Z">
+        <seg>コンパニオンカードをシャッフルし、各プレイヤーに1枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the companion cards and deal 1in taoc etiavceh c phlaaryteerr,.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014403Z" creationid="aorin" creationdate="20171229T014403Z">
@@ -10328,8 +10384,8 @@ the World Map.</seg>
       <tuv lang="EN-US">
         <seg>So you're surprised when they approach you with a confession.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T015331Z" creationid="aorin" creationdate="20171229T015331Z">
-        <seg>彼らの</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015405Z" creationid="aorin" creationdate="20171229T015331Z">
+        <seg>彼らの告白を聞いているうちに、あなたの驚きは大きくなっていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14775,8 +14831,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your companion has been with you st nee you first arrived at the village, but you've been so focused on work that you've never really gotten to know them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T015251Z" creationid="aorin" creationdate="20171229T015251Z">
-        <seg>最初に村についてから、あなたとあなたの仲間たちは一緒に行動してきましたが、あなたが絶対に知るはずのない仕事に集中していました。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015347Z" creationid="aorin" creationdate="20171229T015251Z">
+        <seg>最初に村についてから、あなたとあなたの仲間たちは一緒に行動してきましたが、あなたは、絶対に知っているはずのない仕事に集中していました。</seg>
       </tuv>
     </tu>
     <tu>
