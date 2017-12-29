@@ -2474,6 +2474,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you continue to acquire strange memories of lives you didn't lead, the one constant element has been your steadfast companion ...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012833Z" creationid="aorin" creationdate="20171229T012833Z">
+        <seg>あなたが歩んでいるはずのない人生の奇妙な記憶を引き出し続けるのにつれて、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you tinker with them you discover that they hold immense power.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174652Z" creationid="aorin" creationdate="20171228T174652Z">
@@ -16516,6 +16524,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012156Z" creationid="aorin" creationdate="20171229T012156Z">
         <seg>永遠なる王の承認を得ずに村の拡張に空島を使用することに決めた場合は、木箱Fを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>息If you wait patiently for your companion to talk to you when they're ready, open crate H.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T012657Z" creationid="aorin" creationdate="20171229T012657Z">
+        <seg>仲間が落ち着いて、あなたと話ができるようになるのを辛抱強く待つなら、木箱Hを開きます。</seg>
       </tuv>
     </tu>
     <tu>
