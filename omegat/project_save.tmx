@@ -1008,6 +1008,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>134</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005130Z" creationid="aorin" creationdate="20171229T005130Z">
+        <seg>134
+あなたの仲間に聞く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -6751,6 +6760,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other news, the king is irate that you didn't check with him before proceeding with the sky island plan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005051Z" creationid="aorin" creationdate="20171229T004942Z">
+        <seg>別のニュースとしては、王は空島計画を進行させる前にあなたと確認できなかったことで怒りに駆られました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In player order, gain VP for reputation and cards with O.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T173305Z" creationid="nakahodo" creationdate="20171224T173305Z">
@@ -9359,8 +9376,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Read this and affix it to the Chronicle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T003249Z" creationid="aorin" creationdate="20171229T003249Z">
-        <seg>これをヨミ、クロニクルにこれを貼り付けてください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005057Z" creationid="aorin" creationdate="20171229T003249Z">
+        <seg>これを読み、クロニクルにこれを貼り付けてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10612,6 +10629,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040427Z" creationid="aorin" creationdate="20171213T040427Z">
         <seg>そのプレイヤーが勝者として宣言されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's wll)'you have memories you never experienced、"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T004957Z" creationid="aorin" creationdate="20171229T004957Z">
+        <seg>だからこそ、お前には経験したことのない記憶があるだろう？」</seg>
       </tuv>
     </tu>
     <tu>
