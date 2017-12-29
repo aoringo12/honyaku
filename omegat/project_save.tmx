@@ -1351,10 +1351,10 @@ SET UP</seg>
       <tuv lang="EN-US">
         <seg>406 r the hopes that the Forever King decides to visit your village and bestow upon it the honor</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T021034Z" creationid="aorin" creationdate="20171229T021034Z">
+      <tuv lang="JA" changeid="aorin" changedate="20171229T022243Z" creationid="aorin" creationdate="20171229T021034Z">
         <seg>406
 評判トラックに最もトークンを持つ
- r the hopes that the Forever King decides to visit your village and bestow upon it the honor</seg>
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -16760,6 +16760,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163230Z" creationid="aorin" creationdate="20171228T163230Z">
         <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>吋being the new Eternal City,you test out a new commerce system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T022551Z" creationid="aorin" creationdate="20171229T022551Z">
+        <seg>永遠なる王があなたの村に訪れ、新たなる久遠の都であることを誇る賞賛をすることを望み、新たな商取引システムのテストが行われます。</seg>
       </tuv>
     </tu>
     <tu>
