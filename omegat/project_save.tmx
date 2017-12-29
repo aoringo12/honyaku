@@ -2396,6 +2396,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At end of game, gather and keep all 4 of your sky island tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T004013Z" creationid="aorin" creationdate="20171229T004013Z">
+        <seg>ゲーム終了時、あなたの空島タイル4つ全てを集め、保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the beginning of each game, every completed row of glory grants you the listed bonus:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202712Z" creationid="nakahodo" creationdate="20171224T202712Z">
@@ -12313,6 +12321,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These rules apply for sky islands during every game:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003910Z" creationid="aorin" creationdate="20171229T003910Z">
+        <seg>これらのルールは、全てのゲーム中、空島に適応されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These will be revealed later.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T203814Z" creationid="nakahodo" creationdate="20171224T203814Z">
@@ -14006,6 +14022,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can construct buildings on empty sky island tiles in your charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
+        <seg>あなたのチャーターの空いた空島タイルに建物を建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can exhaust a &lt;boot&gt; to move to an adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075821Z" creationid="aorin" creationdate="20171216T075821Z">
@@ -14386,6 +14410,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234113Z" creationid="aorin" creationdate="20171228T234043Z">
         <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外に行くところはあるのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're surprised to find that one of the sky islands you tether has an inhabitant, an old mason.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T004311Z" creationid="aorin" creationdate="20171229T004311Z">
+        <seg>あなたは、自身が結びつけている空島の1つに、古代の神秘的な住居者がいることに気づいて驚きました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15459,6 +15491,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T190653Z" creationid="nakahodo" creationdate="20171218T190653Z">
         <seg>•チャーターストーン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• CONSTRUCTION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003919Z" creationid="aorin" creationdate="20171229T003919Z">
+        <seg>•建設：</seg>
       </tuv>
     </tu>
     <tu>
