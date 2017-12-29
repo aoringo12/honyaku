@@ -1359,6 +1359,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>407</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T023259Z" creationid="aorin" creationdate="20171229T023259Z">
+        <seg>407
+もっとも危険トークンを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -6667,6 +6676,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you haven't unlocked peril, extract cards 36 and 37 from the Index and open tuckbox i.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T023347Z" creationid="aorin" creationdate="20171229T023347Z">
+        <seg>危険を解放していない場合、インデックスからカード36と37を引き出し、タックボックスiを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you manage that you’ll have truly proven yourself a great Pixie (still small in stature though).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083630Z" creationid="nakahodo" creationdate="20171211T083630Z">
@@ -7039,6 +7056,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093421Z" creationid="nakahodo" creationdate="20170924T093421Z">
         <seg>ワールドマップの地域上部にブレンドスレートがゲーム中やセットアップ時に配置されている時、各ブレンドスレートの特別なシンボルはその地域の特定の国に実行しなければならないアクションを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the hopes that the Forever King decides to visit your village and bestow upon it the honor of being the new Eternal City, you seek to rid the village :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T023646Z" creationid="aorin" creationdate="20171229T023459Z">
+        <seg>永遠なる王があなたの村に訪れ、新たなる久遠の都であることを誇る賞賛をすることをあなたは望み、村の全ての危険を（特にあなたのチャーターの）</seg>
       </tuv>
     </tu>
     <tu>
