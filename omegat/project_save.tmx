@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(especially your charter):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T023649Z" creationid="aorin" creationdate="20171229T023649Z">
+        <seg>取り除こうとします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(except persona cards and player pieces):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204934Z" creationid="nakahodo" creationdate="20171224T204314Z">
@@ -15199,6 +15207,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205356Z" creationid="nakahodo" creationdate="20171224T205356Z">
         <seg>● 異なるタイプでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of all peril.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T023652Z" creationid="aorin" creationdate="20171229T023652Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
