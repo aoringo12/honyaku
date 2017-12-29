@@ -5277,6 +5277,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He needs the village to grow at a rapid pace, and it doesn't seem like your interests align with his.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T001420Z" creationid="aorin" creationdate="20171229T001420Z">
+        <seg>王は村を急速なペースで成長させる必要があり、あなたの利益が王のものと一致するようには考えられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He still  gives players the freedom to choose their path,  even if their choice displeases him.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T210251Z" creationid="nakahodo" creationdate="20171224T210251Z">
