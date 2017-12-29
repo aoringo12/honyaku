@@ -16920,6 +16920,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>息Ifthe candle burned out on a player's turn, open crate 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T102953Z" creationid="nakahodo" creationdate="20171229T102953Z">
+        <seg>プレイヤー1人のターンでキャンドルが消えた場合、木箱Oを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>息Ifyour village's score was below average, you must open crate J.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T020835Z" creationid="aorin" creationdate="20171229T020835Z">
@@ -16982,6 +16990,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T023005Z" creationid="aorin" creationdate="20171229T023005Z">
         <seg>全てのプレイヤーが各カテゴリについて、同じだけキャンペーン終了のVPを受け取るべきだと考える場合、木箱Lを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>􀂙Iii If the candle is still burning, you may extinguish it and open crate P.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T103129Z" creationid="nakahodo" creationdate="20171229T103129Z">
+        <seg>キャンドルがまだ燃えている場合、</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
