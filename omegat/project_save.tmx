@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Metempsychosis," he whispers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T002007Z" creationid="aorin" creationdate="20171229T002007Z">
+        <seg>「輪廻転生」彼がささやきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird cards are wild, so you can always gift bird cards.) Then, for each card you give, you may take one item from above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082657Z" creationid="aorin" creationdate="20171216T082657Z">
@@ -5290,6 +5298,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001420Z" creationid="aorin" creationdate="20171229T001420Z">
         <seg>王は村を急速なペースで成長させる必要があり、あなたの利益が王のものと一致するようには考えられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He pulls you into a tight embrace, his foul breath tickling your ear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T001943Z" creationid="aorin" creationdate="20171229T001943Z">
+        <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
       </tuv>
     </tu>
     <tu>
