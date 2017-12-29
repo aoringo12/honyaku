@@ -2617,6 +2617,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the beginning of Game 9, place the candle on a fire-safe surface on the table and carefully light it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T102336Z" creationid="nakahodo" creationdate="20171229T102336Z">
+        <seg>ゲーム9開始時にて、テーブルに火災に気をつけてキャンドロを配置し、慎重にそれ火をつけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the beginning of each game, every completed row of glory grants you the listed bonus:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202712Z" creationid="nakahodo" creationdate="20171224T202712Z">
@@ -6103,6 +6111,15 @@ enough to place onto the list, it is removed from play.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150851Z" creationid="nakahodo" creationdate="20171218T150610Z">
         <seg>コストに影響が記述されている場合（例えば、建物を使用するには~）、影響トークンの使用に関して建物の効果で支持されない限り、共通サプライに影響トークンを捨てます（例えば、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it goes out for anyreason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T102914Z" creationid="nakahodo" creationdate="20171229T102914Z">
+        <seg>何らかの理由で火が消える場合、誰のターンであるかを確認し、再度キャンドルに火をつけないでください。
+燃料不足危険トークンのある建物を使用する場合、あなたは直ちにキャンドルを消さなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
