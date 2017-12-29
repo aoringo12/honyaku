@@ -826,6 +826,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.- average, you must open crate I.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020812Z" creationid="aorin" creationdate="20171229T020812Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/ c) / Q):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202724Z" creationid="nakahodo" creationdate="20171224T202724Z">
@@ -1431,6 +1439,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224440Z" creationid="nakahodo" creationdate="20171224T224440Z">
         <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;,._$onemaiergames.com/games/charterstone/map f􀂕If your village's score this game was above</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020809Z" creationid="aorin" creationdate="20171229T020809Z">
+        <seg>このゲームでの村の得点が閾値（average）を越えた場合、木箱Iを開けなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
