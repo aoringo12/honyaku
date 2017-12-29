@@ -1403,6 +1403,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>410</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T170512Z" creationid="nakahodo" creationdate="20171229T170434Z">
+        <seg>410
+最も発展カードを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -1820,6 +1829,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003759Z" creationid="aorin" creationdate="20171229T003759Z">
         <seg>空島は基本リソース建物の上に配置できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A standard rule of festival etiquette in Greengully is that you support other businesses, not your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T170924Z" creationid="nakahodo" creationdate="20171229T170446Z">
+        <seg>グリーングリーの祭りのエチケット基本的なルールは、あなた自身のではなく、他の商業を支援することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2575,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
         <seg>グループとして、村の名前を決定してボードに書き込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the party finally winds down, a royal guard informs you that the king is ready to meet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T171228Z" creationid="nakahodo" creationdate="20171229T171228Z">
+        <seg>パーティーの終わりに近づくと、ロイヤルガードが王の面会する準備ができたとあなたに伝えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8389,6 +8414,22 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040743Z" creationid="aorin" creationdate="20171213T040743Z">
         <seg>手が描かれたスポットのみが、空でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open crate Q.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T170240Z" creationid="nakahodo" creationdate="20171229T170240Z">
+        <seg>木箱Qを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open crate R.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T170432Z" creationid="nakahodo" creationdate="20171229T170432Z">
+        <seg>木箱rを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14742,6 +14783,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may not place regular workers in your own charter (only minions).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T170952Z" creationid="nakahodo" creationdate="20171229T170450Z">
+        <seg>あなたは、自身のチャーターに通常ワーカーを配置することはできません（ミニオンはできます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may place a worker on the Zeppelin to construct a building on an empty plot in your charter using a building card from your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145020Z" creationid="nakahodo" creationdate="20171224T145020Z">
@@ -16918,6 +16967,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T022551Z" creationid="aorin" creationdate="20171229T022551Z">
         <seg>永遠なる王があなたの村に訪れ、新たなる久遠の都であることを誇る賞賛をすることを望み、新たな商取引システムのテストが行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>息If the number of angry kings on all story cards in the Chronicle is greater than the number of happy kings, the ForeverKing imposes martial law on your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T170423Z" creationid="nakahodo" creationdate="20171229T170423Z">
+        <seg>クロニクルの全てのストーリーカードの起こっている王の数が、幸福な王の数と同数以上の場合に、永遠なる王あなたの村に厳戒令を課します。</seg>
       </tuv>
     </tu>
     <tu>
