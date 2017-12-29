@@ -9989,6 +9989,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SELECTION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014312Z" creationid="aorin" creationdate="20171229T014312Z">
+        <seg>選択：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SKY ISLAND TILES:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003026Z" creationid="aorin" creationdate="20171229T003026Z">
@@ -10185,6 +10193,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105737Z" creationid="nakahodo" creationdate="20171224T234646Z">
         <seg>発展デッキをシャッフルし、その後、建築されていない建物カード1枚が見つかるまでカードを公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the companion cards and deal 1in taoc etiavceh c phlaaryteerr,.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014403Z" creationid="aorin" creationdate="20171229T014403Z">
+        <seg>コンパニオンカードをシャッフルし、各プレイヤーに1枚ずつ配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14240,6 +14256,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
         <seg>あなたがアタッカーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You back them into a corner and force a confession out of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014307Z" creationid="aorin" creationdate="20171229T014307Z">
+        <seg>彼らを一角に連れていき、どういうことか問いただしました。</seg>
       </tuv>
     </tu>
     <tu>
