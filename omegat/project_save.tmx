@@ -4410,6 +4410,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player choo沢s 1 persona to keep (choose on behalf of inactive charters).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180000Z" creationid="nakahodo" creationdate="20171229T180000Z">
+        <seg>各プレイヤーは保持するために役割1枚を選択します（非アクティブキャラクターのものも代わりに選びます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player draws 3 cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132743Z" creationid="aorin" creationdate="20171215T132743Z">
@@ -4930,6 +4938,14 @@ Map.</seg>
         <seg>Extract cards 3句-374 from the index and give them to their respective players (2 personas per player).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T172041Z" creationid="nakahodo" creationdate="20171229T171815Z">
+        <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2役割）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 3句·374 from the index and give them to th釦espective players (2 personas per p ayer).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T175948Z" creationid="nakahodo" creationdate="20171229T175948Z">
         <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2役割）。</seg>
       </tuv>
     </tu>
@@ -9109,6 +9125,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place extras in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180009Z" creationid="nakahodo" creationdate="20171229T180009Z">
+        <seg>余分なものをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16367,6 +16391,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165342Z" creationid="aorin" creationdate="20171212T165342Z">
         <seg>•最初のレベルにいる妖精を降格させる時、場所を交換することなく、その妖精は彼の炭鉱へと戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you greet the king with open arms, open c􀂕te S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180412Z" creationid="nakahodo" creationdate="20171229T180412Z">
+        <seg>•両手を広げ王を迎える場合は、木箱Sを開きます。</seg>
       </tuv>
     </tu>
     <tu>
