@@ -1414,9 +1414,18 @@ SET UP</seg>
       <tuv lang="EN-US">
         <seg>411</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171229T172653Z" creationid="nakahodo" creationdate="20171229T172653Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180417Z" creationid="nakahodo" creationdate="20171229T172653Z">
         <seg>411
-最も少ない発展カードを持つ</seg>
+最も少なく発展カードを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>412</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180523Z" creationid="nakahodo" creationdate="20171229T180523Z">
+        <seg>412
+最も少なく影響トークンを持つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8491,6 +8500,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only you may use your sky islands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180729Z" creationid="nakahodo" creationdate="20171229T180729Z">
+        <seg>あなたは自身の空島のみ使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open crate Q.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170240Z" creationid="nakahodo" creationdate="20171229T170240Z">
@@ -9730,6 +9747,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030605Z" creationid="aorin" creationdate="20171212T030605Z">
         <seg>次の開発フェイズに進みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed with all end-game steps for Game 12, Then all players calculate their score on their Campaign Victory Card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T181011Z" creationid="nakahodo" creationdate="20171229T181011Z">
+        <seg>ゲーム12のゲーム終了全てのステップを進行し、その後、プレイヤーたち全員は、自身のキャンペーン勝利カードの得点を計算します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16423,6 +16448,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032146Z" creationid="aorin" creationdate="20171213T032143Z">
         <seg>•あなたが一生に一度の命乞いタイルを持っていて使用し、慈悲を乞う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If yow want to confront the king, open crate T.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180455Z" creationid="nakahodo" creationdate="20171229T180455Z">
+        <seg>•王との対立を望む場合は、木箱Tを開きます。</seg>
       </tuv>
     </tu>
     <tu>
