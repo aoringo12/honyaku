@@ -5342,6 +5342,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H!!pulls you into a tight embrace, his foul breath tickling your ear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
+        <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -14416,8 +14424,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You're surprised to find that one of the sky islands you tether has an inhabitant, an old mason.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T004311Z" creationid="aorin" creationdate="20171229T004311Z">
-        <seg>あなたは、自身が結びつけている空島の1つに、古代の神秘的な住居者がいることに気づいて驚きました。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T004357Z" creationid="aorin" creationdate="20171229T004311Z">
+        <seg>あなたは、自身が結びつけている空島の1つに、古代のメイソンな住居者がいることに気づいて驚きました。</seg>
       </tuv>
     </tu>
     <tu>
