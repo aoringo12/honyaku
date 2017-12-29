@@ -1105,6 +1105,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3·GUIDEPOST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
+        <seg>指標：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131505Z" creationid="nakahodo" creationdate="20171224T131505Z">
@@ -2269,6 +2277,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T113041Z" creationid="nakahodo" creationdate="20171224T101645Z">
         <seg>到着</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a group, decide the name of the village and write it on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
+        <seg>グループとして、村の名前を決定してボードに書き込みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3679,6 +3695,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During end-game scoring for the current game only, each player includes the end-of-campaign value (〇）of buildings in their charter in their VP total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000658Z" creationid="aorin" creationdate="20171229T000630Z">
+        <seg>現在のゲームのみ、ゲーム終了の得点計算をするとき、各プレイヤーは自身の合計VPに、自身のチャーターにある建物のキャンペーン終了価値（○）を含めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During end-game scoring, the playe「(s) with the highest number of tokens on the reputation track gain 10 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103930Z" creationid="aorin" creationdate="20171219T103930Z">
@@ -4616,6 +4640,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235856Z" creationid="aorin" creationdate="20171228T235856Z">
         <seg>（もしあれば）あなたのボーナスを決定するために、フレンドカードの指示に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow these instructions in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000530Z" creationid="aorin" creationdate="20171229T000530Z">
+        <seg>これらの指示に順番に従います：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5857,6 +5889,14 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T082542Z" creationid="nakahodo" creationdate="20171209T082542Z">
         <seg>コストがタイの場合、プランのタイプをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are any charters without names, name them now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000744Z" creationid="aorin" creationdate="20171229T000737Z">
+        <seg>名前のないチャーターがあった場合、それらに今、名前をつけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9148,8 +9188,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Read this card to all players.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223141Z" creationid="nakahodo" creationdate="20171224T223141Z">
-        <seg>全てのプレイヤーたちにこのカードを読み上げます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000758Z" creationid="nakahodo" creationdate="20171224T223141Z">
+        <seg>全てのプレイヤーたちへと、このカードを読み上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9600,6 +9640,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030606Z" creationid="aorin" creationdate="20171212T030606Z">
         <seg>得点計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCORING:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000535Z" creationid="aorin" creationdate="20171229T000535Z">
+        <seg>得点計算：</seg>
       </tuv>
     </tu>
     <tu>
