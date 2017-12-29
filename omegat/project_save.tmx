@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"The process of moving the soul ft·om one body to anothe,:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T002204Z" creationid="aorin" creationdate="20171229T002204Z">
+        <seg>「魂を身体から、また別の身体へと移ろう理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird cards are wild, so you can always gift bird cards.) Then, for each card you give, you may take one item from above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082657Z" creationid="aorin" creationdate="20171216T082657Z">
@@ -5414,6 +5422,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How else do you think the Forever King has lived so long?"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T002258Z" creationid="aorin" creationdate="20171229T002258Z">
+        <seg>永遠なる王がなぜあれだけ長く生を保っていたと思いますか？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How much Silver a player needs to receive 1 Gold depends on their position on the Silver track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141652Z" creationid="nakahodo" creationdate="20171213T141652Z">
@@ -6634,6 +6650,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140603Z" creationid="nakahodo" creationdate="20171127T140514Z">
         <seg>覚醒に飢えのキューブを移動するためには、這い寄るを使用して異なる怠惰トラックにキューブをまず移動させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other news, the king is happy you checked with him before proceeding with the sky island plan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003005Z" creationid="aorin" creationdate="20171229T003005Z">
+        <seg>別の知らせでは、王は空島計画を進行させる前にあなたと確認できたことで嬉しそうでした。</seg>
       </tuv>
     </tu>
     <tu>
