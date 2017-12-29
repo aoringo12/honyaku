@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T224907Z" creationid="nakahodo" creationdate="20171229T224907Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>, That player chooses 1 of the options and opens the corresponding crate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213308Z" creationid="nakahodo" creationdate="20171224T213308Z">
@@ -1086,6 +1094,15 @@ always place in the first available Mint Placement</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014840Z" creationid="aorin" creationdate="20171229T014840Z">
         <seg>135
 あなたのコンパニオンの告白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>136</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T225207Z" creationid="nakahodo" creationdate="20171229T225207Z">
+        <seg>136
+次の久遠の都市</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9359,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place this card in the Archive, then open crate W.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T224912Z" creationid="nakahodo" creationdate="20171229T224912Z">
+        <seg>このカードをアーカイブに入れて、その後、木箱Wを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place this card in the Archive, then open crate W:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220500Z" creationid="nakahodo" creationdate="20171229T220500Z">
@@ -11502,6 +11527,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000511Z" creationid="aorin" creationdate="20171229T000511Z">
         <seg>永遠なる王は、村をスケジュールの通りに、急速なペースで成長させる必要がありますので、あなたが進捗に集中する選択をしたことを高く評価しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever Ki119 is elated that your village pe1formed so well compa1·ed to other outposts in Greengul/y.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T233137Z" creationid="nakahodo" creationdate="20171229T233137Z">
+        <seg>永遠なる王は、あなたの村が他の開拓地に比べて、とてもうまく運営していることを喜んでいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14813,6 +14846,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
         <seg>あなたのチャーターの空いた空島タイルに建物を建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can decide later if you want to harvest their souls to achieve immortality ..</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T224858Z" creationid="nakahodo" creationdate="20171229T224858Z">
+        <seg>あなたが不死を得るために収穫したいのなら、後にいくらでも機会があるでしょう……。</seg>
       </tuv>
     </tu>
     <tu>
