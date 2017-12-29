@@ -1332,6 +1332,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>405</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015736Z" creationid="aorin" creationdate="20171229T015736Z">
+        <seg>405
+ノルマトラックに最もトークンをもつ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -10046,6 +10055,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rumor has it that the Forever King 1s considering your village as a new location for the Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T015857Z" creationid="aorin" creationdate="20171229T015857Z">
+        <seg>永遠なる王はあなたの村を、久遠の都の新しい場所としてみなしているという噂があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030606Z" creationid="aorin" creationdate="20171212T030606Z">
@@ -13147,6 +13164,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T142453Z" creationid="nakahodo" creationdate="20171224T142453Z">
         <seg>これにより、あなたの建築された建物カードに示された木箱を開放できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This would mean wealth, fame, and power/or the founding villagers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T020023Z" creationid="aorin" creationdate="20171229T020023Z">
+        <seg>これは設立村人の富、名声、権力を意味するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
