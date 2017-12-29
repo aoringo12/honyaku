@@ -950,6 +950,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>131</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T001606Z" creationid="aorin" creationdate="20171229T001606Z">
+        <seg>131
+空への拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -5329,6 +5338,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153509Z" creationid="aorin" creationdate="20171212T153509Z">
         <seg>ヒント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>His retribution is swift and decisive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T001457Z" creationid="aorin" creationdate="20171229T001457Z">
+        <seg>王の懲罰は迅速、かつ決定的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14240,6 +14257,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234113Z" creationid="aorin" creationdate="20171228T234043Z">
         <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外に行くところはあるのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're surprised to find that one of the sky islands you tether has an inhabitant, an old mystic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T001758Z" creationid="aorin" creationdate="20171229T001758Z">
+        <seg>あなたは、自身が結びつけている空島の1つに、古代の神秘的な住居者がいることに気づいて驚きました。</seg>
       </tuv>
     </tu>
     <tu>
