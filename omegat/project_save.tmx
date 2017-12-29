@@ -1923,6 +1923,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After opening 1 crate, place this card in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005420Z" creationid="aorin" creationdate="20171229T005420Z">
+        <seg>木箱1つを開いた後、このカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After spending all day flying over the kingdom, the zeppelin sets down and the guards open the hatch for you and your companions.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T123610Z" creationid="nakahodo" creationdate="20171224T120815Z">
@@ -16331,8 +16339,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>灌If you would like a bonus for all of the resources</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220254Z" creationid="nakahodo" creationdate="20171224T220254Z">
-        <seg>あなたの集めたリソース全てをボーナとしたいなら、木箱Bを空ける。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005326Z" creationid="nakahodo" creationdate="20171224T220254Z">
+        <seg>あなたの集めたリソース全てをボーナスとしたいなら、木箱Bを空ける。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
