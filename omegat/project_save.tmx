@@ -856,6 +856,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1, SELECT &amp; PLACE TILES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003348Z" creationid="aorin" creationdate="20171229T003348Z">
+        <seg>1.タイルの選択と配置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144618Z" creationid="nakahodo" creationdate="20171218T144618Z">
@@ -971,6 +979,15 @@ always place in the first available Mint Placement</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001606Z" creationid="aorin" creationdate="20171229T001606Z">
         <seg>131
 空への拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>132</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003314Z" creationid="aorin" creationdate="20171229T003314Z">
+        <seg>132
+セットアップ：空島</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,6 +4703,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow these instructions during setup in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003335Z" creationid="aorin" creationdate="20171229T003305Z">
+        <seg>セットアップ時にこれらの指示に順番に従います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow these instructions in order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000530Z" creationid="aorin" creationdate="20171229T000530Z">
@@ -4907,6 +4932,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
         <seg>今後、窃盗フェイズ時にタイルに描かれた量だけ、あなたが選択する食料を得る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From their personal supply of 4 sky island tiles, each player must select 2 tiles and place them on top of separate buildings or empty plots in their charter (each charter still has a maximum of 6 buildings).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003739Z" creationid="aorin" creationdate="20171229T003739Z">
+        <seg>自身の個人サプライの空島タイル4枚から、各プレイヤーは2タイルを選択し、自身のチャーターの空いた区画か別々の建物の上にこれを配置シなければなりません（各チャーターは未だ最大建物6つを持ちます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,6 +9305,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223009Z" creationid="nakahodo" creationdate="20171224T223009Z">
         <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read this and affix it to the Chronicle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T003249Z" creationid="aorin" creationdate="20171229T003249Z">
+        <seg>これをヨミ、クロニクルにこれを貼り付けてください。</seg>
       </tuv>
     </tu>
     <tu>
