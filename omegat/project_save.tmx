@@ -7024,6 +7024,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a ceremony involving the Charterstone and the Gauntlets of Life and Death, the Forever King transfers his soul from his body to yours.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T215243Z" creationid="nakahodo" creationdate="20171229T215243Z">
+        <seg>チャーターストーンと生と死のガントレットを結ぶ式典にて、永遠なる王はその魂を自身の体からあなたの体へと転送させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a situation where there are no free spots to perform the promotion, skip it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T132046Z" creationid="nakahodo" creationdate="20171213T132046Z">
