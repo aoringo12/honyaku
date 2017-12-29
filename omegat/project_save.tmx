@@ -1050,9 +1050,9 @@ always place in the first available Mint Placement</seg>
       <tuv lang="EN-US">
         <seg>134</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T005130Z" creationid="aorin" creationdate="20171229T005130Z">
+      <tuv lang="JA" changeid="aorin" changedate="20171229T013814Z" creationid="aorin" creationdate="20171229T005130Z">
         <seg>134
-あなたの仲間に聞く</seg>
+あなたの仲間を尋問する</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2558,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204212Z" creationid="nakahodo" creationdate="20171224T204212Z">
         <seg>ゲーム2の終わりからゲーム12までを通して、キャパシティはあなたが保持できる、個人サプライのコンポーネント数を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of a long month of passiveaggressive behaviorf,'Dln your companion, you've had enough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T014226Z" creationid="aorin" creationdate="20171229T014226Z">
+        <seg>あなたの仲間からの陰湿な攻撃的とも取れる行動を受けた長い月の終わり、あなたはもう十分に耐えました。</seg>
       </tuv>
     </tu>
     <tu>
