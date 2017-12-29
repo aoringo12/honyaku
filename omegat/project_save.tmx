@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(either side):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235956Z" creationid="aorin" creationdate="20171228T235956Z">
+        <seg>（いずれかの面）、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(except persona cards and player pieces):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204934Z" creationid="nakahodo" creationdate="20171224T204314Z">
@@ -778,6 +786,17 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Chartersts one token  1 progres  4 plastic bags Extract card 3 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000108Z" creationid="aorin" creationdate="20171229T000108Z">
+        <seg>•1チャーターストーン（●）
+•1進行トークン（●）
+•4ビニール袋
+インデックスからカード3を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Chartersts one token (●) 1 progres (●) 4 plastic bags Extract card 3 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T130103Z" creationid="nakahodo" creationdate="20171224T130103Z">
@@ -859,6 +878,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T125904Z" creationid="nakahodo" creationdate="20171224T125904Z">
         <seg>鉄、穀物、木、石炭、粘土、かぼちゃ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12 each of metal, grain, wood, coal, clay, pumpkin):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000103Z" creationid="aorin" creationdate="20171229T000103Z">
+        <seg>各12ずつの鉄、穀物、木、石炭、粘土、かぼちゃ）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,6 +1083,15 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025253Z" creationid="aorin" creationdate="20171212T025253Z">
         <seg>30ミントトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>36 coins  72 resources tokens :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
+        <seg>•36コイン（●）
+•72リソーストークン</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7024,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Locate and open the Chronicle .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000033Z" creationid="aorin" creationdate="20171229T000033Z">
+        <seg>クロニクル（ルールブック）を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locations containing 2</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164929Z" creationid="aorin" creationdate="20171212T164929Z">
@@ -8046,6 +8090,14 @@ at the Builder.</seg>
         <seg>Peel the sticker off this card and affix it to the  indicated space (page 6), then lace the card remnant in the Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122638Z" creationid="nakahodo" creationdate="20171224T122638Z">
+        <seg>このカードをのシールを剥がして、示されたスペース（ページ6）に貼り付け、その後、残されたカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Peel the sticker off this card and affix it to the  indicated space , then lace the card remnant in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235943Z" creationid="aorin" creationdate="20171228T235943Z">
         <seg>このカードをのシールを剥がして、示されたスペース（ページ6）に貼り付け、その後、残されたカードをアーカイブに入れます。</seg>
       </tuv>
     </tu>
@@ -10536,6 +10588,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever /(/ng appreciates that you've made the choice to focus on progression, as he needs the village to grow at a rapid pace to remain on schedule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000511Z" creationid="aorin" creationdate="20171229T000511Z">
+        <seg>永遠なる王は、村をスケジュールの通りに、急速なペースで成長させる必要がありますので、あなたが進捗に集中する選択をしたことを高く評価しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever King appraises the value of the village whenever certain thresholds are reached.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111320Z" creationid="aorin" creationdate="20171219T111320Z">
@@ -12839,6 +12899,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfold the game board :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171228T235951Z" creationid="aorin" creationdate="20171228T235951Z">
+        <seg>ゲームボードを開き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike stay on other your workers, buildings minions until  you choose to retrieve all your workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172256Z" creationid="aorin" creationdate="20171228T172256Z">
@@ -14227,6 +14295,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092545Z" creationid="aorin" creationdate="20171116T092545Z">
         <seg>引き出し、白豆を取り出した！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and put the objective mat and advancement mat next to the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T000015Z" creationid="aorin" creationdate="20171229T000015Z">
+        <seg>目標マットと発展マットをボードの横に配置します。</seg>
       </tuv>
     </tu>
     <tu>
