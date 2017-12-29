@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(shortening the game).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T011056Z" creationid="aorin" creationdate="20171229T011056Z">
+        <seg>（ゲームが短くなります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(usually on the  Progress track):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T170025Z" creationid="aorin" creationdate="20171228T170020Z">
@@ -1954,6 +1962,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T005420Z" creationid="aorin" creationdate="20171229T005420Z">
         <seg>木箱1つを開いた後、このカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After placing the progress token during Game 4 setup, advance it 2 spaces :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T011058Z" creationid="aorin" creationdate="20171229T011046Z">
+        <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース進める</seg>
       </tuv>
     </tu>
     <tu>
@@ -10493,6 +10509,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TEMPORARY RULES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010952Z" creationid="aorin" creationdate="20171229T010952Z">
+        <seg>一時的なルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE BREWMASTER</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090458Z" creationid="nakahodo" creationdate="20170924T090458Z">
@@ -14078,6 +14102,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T233336Z" creationid="aorin" creationdate="20171228T233336Z">
         <seg>村が繁栄したため、村の職人たちへの要求はその供給を大幅に上回っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With your'charters b􀁾ursting at the seams and constant pressure from the Forever King to expand, you devise a plan to utilize the sky islands that circulate the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T011557Z" creationid="aorin" creationdate="20171229T011557Z">
+        <seg>あなたのチャーターが拡張への永遠なる王からの絶え間ぬ圧力でいっぱいになり、村の周囲を回る空島を利用する計画を考案します。</seg>
       </tuv>
     </tu>
     <tu>
