@@ -3980,6 +3980,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Game 7, whenever a player uses an opponent's building with a coin or resource cost, pay that cost to that opponent instead of to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T022642Z" creationid="aorin" creationdate="20171229T022642Z">
+        <seg>ゲーム7時、プレイヤーガ対戦相手のコイン[または]リソースコストのある建物を使用するたびに、共通サプライの代わりに、対戦相手にそのコストを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During any battle as the attacker, you inflicts an extra hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003605Z" creationid="aorin" creationdate="20171216T003605Z">
