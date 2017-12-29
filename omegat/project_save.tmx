@@ -802,6 +802,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/n these earりstages of village-building, the Forever King encourages you to focus 011 progressing the village through construction and unlocking crates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005823Z" creationid="aorin" creationdate="20171229T005823Z">
+        <seg>村の構築初期段階では、永遠なる王は村の建築と木箱の解放に集中することを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T101251Z" creationid="nakahodo" creationdate="20171224T101251Z">
@@ -1240,8 +1248,18 @@ SET UP</seg>
       <tuv lang="EN-US">
         <seg>400</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214139Z" creationid="nakahodo" creationdate="20171224T214139Z">
-        <seg>400</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005556Z" creationid="nakahodo" creationdate="20171224T214139Z">
+        <seg>400
+最もコインとリソースを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>401</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T005616Z" creationid="aorin" creationdate="20171229T005616Z">
+        <seg>401
+最も少ない目標を得点</seg>
       </tuv>
     </tu>
     <tu>
