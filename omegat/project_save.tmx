@@ -1264,6 +1264,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>402</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010948Z" creationid="aorin" creationdate="20171229T010948Z">
+        <seg>402
+自身のチャーターに最も建物を持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5
 When everything is set up, the play area should
 look something like the diagram above.</seg>
@@ -14689,6 +14698,16 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>building values (0) when calculating VP totals this game, open crate C. tj If you would prefer not to have the building values factor into this game's score, open crate D.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010925Z" creationid="aorin" creationdate="20171229T010925Z">
+        <seg>このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）も含めたい場合は、木箱Cを開ける。
+このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）を含めたくない場合は、木箱Dを開ける。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contrary to the action phase, during the reward phase action spaces can only be occupied by Pixies, as the Action Discs were removed at the start of the Offering phase (III).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
@@ -16363,6 +16382,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>、:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010742Z" creationid="aorin" creationdate="20171229T010742Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>一7.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163230Z" creationid="aorin" creationdate="20171228T163230Z">
@@ -16383,6 +16410,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T005326Z" creationid="nakahodo" creationdate="20171224T220254Z">
         <seg>あなたの集めたリソース全てをボーナスとしたいなら、木箱Bを空ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>遺Ifyou would like to include the end-of-campaign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010738Z" creationid="aorin" creationdate="20171229T010738Z">
+        <seg> </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
