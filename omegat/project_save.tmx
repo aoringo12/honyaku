@@ -834,6 +834,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T100649Z" creationid="nakahodo" creationdate="20171229T100649Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.- average, you must open crate I.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T020812Z" creationid="aorin" creationdate="20171229T020812Z">
@@ -1372,6 +1380,15 @@ SET UP</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171229T023259Z" creationid="aorin" creationdate="20171229T023259Z">
         <seg>407
 もっとも危険トークンを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>408 re king's candle serves as a beacon for his fleet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T101455Z" creationid="nakahodo" creationdate="20171229T101455Z">
+        <seg>408
+あなたのターンにキャンドルを消さなかった</seg>
       </tuv>
     </tu>
     <tu>
@@ -7064,6 +7081,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093421Z" creationid="nakahodo" creationdate="20170924T093421Z">
         <seg>ワールドマップの地域上部にブレンドスレートがゲーム中やセットアップ時に配置されている時、各ブレンドスレートの特別なシンボルはその地域の特定の国に実行しなければならないアクションを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the hopes that the Forever King decides to visit your village and bestow upon it the honor of being the new Eternal City, you seek to rid the village (especially your charter) of all peril.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T100207Z" creationid="nakahodo" creationdate="20171229T100207Z">
+        <seg>永遠なる王があなたの村に訪れ、新たなる久遠の都であることを誇る賞賛をすることをあなたは望み、村の全ての危険を（特にあなたのチャーターの）取り除こうとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15083,6 +15108,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>charters, open crate N.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T100651Z" creationid="nakahodo" creationdate="20171229T100651Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contrary to the action phase, during the reward phase action spaces can only be occupied by Pixies, as the Action Discs were removed at the start of the Offering phase (III).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
@@ -16805,6 +16838,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>りIf here are no peril tokens on buildings in active</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T100648Z" creationid="nakahodo" creationdate="20171229T100648Z">
+        <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がない場合、木箱Nを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>一7.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163230Z" creationid="aorin" creationdate="20171228T163230Z">
@@ -16899,6 +16940,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T010738Z" creationid="aorin" creationdate="20171229T010738Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>闊Ifthere are any peril tokens on buildings in active charters, open crate M.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T100629Z" creationid="nakahodo" creationdate="20171229T100629Z">
+        <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がある場合、木箱Mを開けます。</seg>
       </tuv>
     </tu>
     <tu>
