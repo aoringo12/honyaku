@@ -2792,8 +2792,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Before you moved out here, the closest contact with him was through tax collectors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T010431Z" creationid="aorin" creationdate="20171229T010431Z">
-        <seg>ここに来る前に、彼に最も最近連絡を取ったのは収税官でした。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010625Z" creationid="aorin" creationdate="20171229T010431Z">
+        <seg>ここに来る前に、彼に最近連絡を取ったのは収税官でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14049,6 +14049,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Why does he care so much about yourJittle village?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010520Z" creationid="aorin" creationdate="20171229T010520Z">
+        <seg>なぜ彼はあなたの小さな村に気を使うのでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With creatures and cunning, you'll rule a fantastic forest kingdom in the ultimate asymmetric game of adventure and war.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
@@ -14499,8 +14507,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You're still adjusting to the frequent communication you receive J,-0111 the Forever King.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T005950Z" creationid="aorin" creationdate="20171229T005950Z">
-        <seg>あなたは未だ、王からの頻繁に来る連絡に合わせています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010542Z" creationid="aorin" creationdate="20171229T005950Z">
+        <seg>あなたは未だ、王からの頻繁に来る連絡を受けています。</seg>
       </tuv>
     </tu>
     <tu>
