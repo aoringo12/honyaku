@@ -2790,6 +2790,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before you moved out here, the closest contact with him was through tax collectors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171229T010431Z" creationid="aorin" creationdate="20171229T010431Z">
+        <seg>ここに来る前に、彼に最も最近連絡を取ったのは収税官でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235006Z" creationid="aorin" creationdate="20171215T235006Z">
