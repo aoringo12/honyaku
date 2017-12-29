@@ -2035,6 +2035,14 @@ their own Research Lab Ability Tracks!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a long month, a royal guard informs you that the king is ready to meet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T175929Z" creationid="nakahodo" creationdate="20171229T175929Z">
+        <seg>一ヶ月のあと、ロイヤルガードが王の面会する準備ができたとあなたに伝えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all
 players have contributed
 one bean, they may pull
@@ -5324,6 +5332,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003739Z" creationid="aorin" creationdate="20171229T003739Z">
         <seg>自身の個人サプライの空島タイル4枚から、各プレイヤーは2タイルを選択し、自身のチャーターの空いた区画か別々の建物の上にこれを配置シなければなりません（各チャーターは未だ最大建物6つを持ちます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From then on, you can use buildings in their charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T174645Z" creationid="nakahodo" creationdate="20171229T174547Z">
+        <seg>それ以降、あなたは彼らのチャーターの建物を使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14836,6 +14852,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170952Z" creationid="nakahodo" creationdate="20171229T170450Z">
         <seg>あなたは、自身のチャーターに通常ワーカーを配置することはできません（ミニオンはできます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only use buildings in other charters if you first place 1 of your influence tokens on their charter emblem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T174614Z" creationid="nakahodo" creationdate="20171229T174419Z">
+        <seg>あなたは、まず相手のチャーター紋章に自身の影響トークンの1つを配置する場合にのみ、彼らのチャーターの建物を使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
