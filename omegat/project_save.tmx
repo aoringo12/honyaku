@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"The time has come for me to transition out of this ancient body into a new host.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T125405Z" creationid="nakahodo" creationdate="20171230T125405Z">
+        <seg>「この古い身体から、新しい宿主へと移る時がきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Welcome, friends.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T124408Z" creationid="nakahodo" creationdate="20171230T124408Z">
@@ -11831,6 +11839,15 @@ do not show what’s in it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>これがなぜあなたのもつ九州された</note>
+      <tuv lang="EN-US">
+        <seg>That is why you've absorbed the souls contained within your Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T125736Z" creationid="nakahodo" creationdate="20171230T125736Z">
+        <seg>これが、お前がチャーターストーン内にある魂たちと併合できた理由だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>That player is declared the winner.</seg>
       </tuv>
@@ -15966,6 +15983,17 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001758Z" creationid="aorin" creationdate="20171229T001758Z">
         <seg>あなたは、自身が結びつけている空島の1つに、古代の神秘的な住居者がいることに気づいて驚きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>あなたの準備ができた、あなたの心が、宿主に、複数の霊を私の内に含む、
+そして、
+あなたは学んだ、多くの能力、私を転送するための</note>
+      <tuv lang="EN-US">
+        <seg>You've conditioned your mind to host the multitude of souls contained within me, and you've learned so many abilities to transfer to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T130447Z" creationid="nakahodo" creationdate="20171230T130447Z">
+        <seg>You've conditioned your mind to host the multitude of souls contained within me, and you've learned so many abilities to transfer to m.</seg>
       </tuv>
     </tu>
     <tu>
