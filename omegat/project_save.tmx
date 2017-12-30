@@ -1236,6 +1236,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>145</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T091339Z" creationid="nakahodo" creationdate="20171230T091339Z">
+        <seg>145</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -2100,6 +2108,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090951Z" creationid="nakahodo" creationdate="20171230T090951Z">
+        <seg>アクション：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actions</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040439Z" creationid="aorin" creationdate="20171213T040439Z">
@@ -2501,6 +2517,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T001445Z" creationid="nakahodo" creationdate="20171230T001445Z">
         <seg>全てのプレイヤーたちは、1栄光を得ます（指標を達成することによって得た栄光に加えて）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All players gain 2 glory (In addition to any glory awarded for achieving the guidepost).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090955Z" creationid="nakahodo" creationdate="20171230T090955Z">
+        <seg>全てのプレイヤーたちは、2栄光を得ます（指標を達成することによって得た栄光に加えて）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5992,6 +6016,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grab a frosty mug and let the celebration begin!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090949Z" creationid="nakahodo" creationdate="20171230T090635Z">
+        <seg>冷たいカップでコップをつかみ、セレモニーを始めましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guards pour out of the hold, quickly setting up a perimeter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T084043Z" creationid="nakahodo" creationdate="20171230T084043Z">
@@ -8870,8 +8902,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>One of the skills you pick up when you've lived for thousands of years is how to throw a party.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090233Z" creationid="nakahodo" creationdate="20171230T090233Z">
-        <seg>pick up あなたが千年を生きると手に入れるスキルの1つは、パーティーの催しかたです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090513Z" creationid="nakahodo" creationdate="20171230T090233Z">
+        <seg>あなたが千年を生きると手に入れるスキルの1つは、パーティーの催しかたです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13971,6 +14003,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This isn't a casual wine-and-cheese affair;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090544Z" creationid="nakahodo" creationdate="20171230T090509Z">
+        <seg>これは単純に酒とつまみを並べるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes the action more and more expensive as the rounds progress.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122829Z" creationid="nakahodo" creationdate="20171213T122829Z">
@@ -16144,6 +16184,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rathe1;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090619Z" creationid="nakahodo" creationdate="20171230T090619Z">
+        <seg>むしろ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sRtUarLtEinSg:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164009Z" creationid="aorin" creationdate="20171228T164009Z">
@@ -16164,6 +16212,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152432Z" creationid="nakahodo" creationdate="20171218T152432Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Forever King's festival is an extravaganza of unfettered feasting and merriment scheduled to last the entire month.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090917Z" creationid="nakahodo" creationdate="20171230T090634Z">
+        <seg>永遠なる王のフェスティバルは自由な祝宴と陽気な騒ぎに彩られた豪華な祭典が一ヶ月全体に渡り開催されます。</seg>
       </tuv>
     </tu>
     <tu>
