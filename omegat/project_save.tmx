@@ -1363,6 +1363,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>153</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144919Z" creationid="nakahodo" creationdate="20171230T144919Z">
+        <seg>153
+セットアップ：ペルソナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
@@ -1689,6 +1698,14 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220500Z" creationid="nakahodo" creationdate="20171229T220500Z">
         <seg>413</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4・INACTIVE CHARTERS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144829Z" creationid="nakahodo" creationdate="20171230T144829Z">
+        <seg>4. 非アクティブチャーター：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3605,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONSTRUCTION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144836Z" creationid="nakahodo" creationdate="20171230T144836Z">
+        <seg>建設：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COST:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175118Z" creationid="nakahodo" creationdate="20171218T175118Z">
@@ -4671,6 +4696,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the game, you can construct buildings on empty sky island tiles in your charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144909Z" creationid="nakahodo" creationdate="20171230T144909Z">
+        <seg>ゲーム時、あなたは自身のチャーターの空いた空島タイルに建物を建設することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the next Stealing phase however, the large cube track will be rearranged to match the small cubes track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130755Z" creationid="nakahodo" creationdate="20171213T130755Z">
@@ -5014,6 +5047,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043419Z" creationid="aorin" creationdate="20171213T043319Z">
         <seg>各プレイヤースクリーンは3種の異なるタイルのスペースを1つずつのみ、持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player selects 1 persona card to use this game and returns the rest to the deck, which remains next to the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145108Z" creationid="nakahodo" creationdate="20171230T145108Z">
+        <seg>各プレイヤーはこのゲームに使用する役割カード1枚を選択肢、ゲームボードの横にある残りをデッキに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5828,6 +5869,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131600Z" creationid="nakahodo" creationdate="20171213T131600Z">
         <seg>ここで、ダブル提供タイルを持っているプレイヤーは、3種の異なる物品を提供できる（シルバー、ゴールド、適切な食料）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From now on when you use the Shoemaker, draw the top card from the persona deck and activate it in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145249Z" creationid="nakahodo" creationdate="20171230T145249Z">
+        <seg>今後、あなたが靴屋を使用すると、役割デッキ一番上のカードをドローして、あなたの個人サプライにてこれを発動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7532,6 +7581,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012141Z" creationid="aorin" creationdate="20171229T012141Z">
         <seg>村の成長に空島を使用することの承認を永遠なる王に求める場合は、木箱Eを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you unlock a persona card, you gain that ability for the rest of the game (in addition to any other personas you're using).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145154Z" creationid="nakahodo" creationdate="20171230T145154Z">
+        <seg>あなたが役割カード1枚を開放した場合、あなたはゲームの残りでその能力を得ます（あなたが今使用している別の役割に加えて）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11464,6 +11521,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234941Z" creationid="aorin" creationdate="20171228T234941Z">
         <seg>残っているカードを発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the persona deck and deal 3 cards to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145002Z" creationid="nakahodo" creationdate="20171230T144932Z">
+        <seg>役割デッキをシャッフルし、各プレイヤーに3枚ずつ配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17585,6 +17650,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• DURING THE GAME:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145114Z" creationid="nakahodo" creationdate="20171230T145114Z">
+        <seg>•ゲーム中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• EITHER remove up to 3 resources from the game (from your own supply).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T080638Z" creationid="aorin" creationdate="20171213T080638Z">
@@ -17829,6 +17902,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150617Z" creationid="nakahodo" creationdate="20171218T150609Z">
         <seg>•影響を支払う：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• PERSONA DECK:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144937Z" creationid="nakahodo" creationdate="20171230T144924Z">
+        <seg>•役割デッキ：</seg>
       </tuv>
     </tu>
     <tu>
