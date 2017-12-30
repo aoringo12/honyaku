@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Welcome, friends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T124408Z" creationid="nakahodo" creationdate="20171230T124408Z">
+        <seg>「ようこそ、友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird cards are wild, so you can always gift bird cards.) Then, for each card you give, you may take one item from above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082657Z" creationid="aorin" creationdate="20171216T082657Z">
@@ -5083,6 +5091,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every 400 years, I've stood before 6 hosts in this ve,y room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T125133Z" creationid="nakahodo" creationdate="20171230T125133Z">
+        <seg>400年ごとに、この部屋で我は6人の招待者の前に立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -8183,6 +8199,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210043Z" creationid="aorin" creationdate="20171215T210043Z">
         <seg>他のカードのように、自身の手札からスートを得るために特別勝利カードを消費することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like you, they had built a village from the ground up, a village worthy of becoming the next Eternal City."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T125308Z" creationid="nakahodo" creationdate="20171230T125308Z">
+        <seg>お前のように、彼らは村を構築し、次なる久遠の都市になる価値のあるものにまでしてくれた」</seg>
       </tuv>
     </tu>
     <tu>
