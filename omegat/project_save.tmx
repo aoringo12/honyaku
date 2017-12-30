@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$2 or 3 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150052Z" creationid="nakahodo" creationdate="20171230T150052Z">
+        <seg>得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird cards are wild, so you can always gift bird cards.) Then, for each card you give, you may take one item from above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082657Z" creationid="aorin" creationdate="20171216T082657Z">
@@ -1368,6 +1376,24 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T144919Z" creationid="nakahodo" creationdate="20171230T144919Z">
         <seg>153
 セットアップ：ペルソナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>154</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145745Z" creationid="nakahodo" creationdate="20171230T145745Z">
+        <seg>154
+セットアップ：共通と個人サプライ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>155</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150117Z" creationid="nakahodo" creationdate="20171230T150117Z">
+        <seg>155
+建物の建築</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,6 +3631,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONSTRUCTED BUlLDlNG CARD:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150211Z" creationid="nakahodo" creationdate="20171230T150204Z">
+        <seg>建築された建物カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONSTRUCTION:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T144836Z" creationid="nakahodo" creationdate="20171230T144836Z">
@@ -3730,6 +3764,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T130134Z" creationid="nakahodo" creationdate="20171224T130134Z">
         <seg>チャーターの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charters" card, which is no longer in effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145614Z" creationid="nakahodo" creationdate="20171230T145614Z">
+        <seg>それは効果を発揮しなくなります。&lt;分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,6 +4189,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create piles of coins/resources and reveal 5 random advancement cards on the mat (extra cards from a face-clown deck on the mat).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145753Z" creationid="nakahodo" creationdate="20171230T145753Z">
+        <seg>コインとリソースの山を作り、マットに発展カード5枚をランダムに公開します（残ったカードでマットに裏向きのデッキを作ります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create piles of coins/resources andreveal 5 random advancement cards on the mat (extra cards form a face-down deck on the mat).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T110140Z" creationid="nakahodo" creationdate="20171225T110140Z">
@@ -4349,6 +4399,14 @@ Track will go first.</seg>
         <seg>Determine the first player by rolling the Charterstone until it results in an active charter</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163113Z" creationid="aorin" creationdate="20171228T163113Z">
+        <seg>チャーターストーンをアクティブなチャーターが出るまで振り、ファーストプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determine the first player by rolling the Charterstone until it results in an active charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145850Z" creationid="nakahodo" creationdate="20171230T145850Z">
         <seg>チャーターストーンをアクティブなチャーターが出るまで振り、ファーストプレイヤーを決定します。</seg>
       </tuv>
     </tu>
@@ -5875,8 +5933,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>From now on when you use the Shoemaker, draw the top card from the persona deck and activate it in your personal supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145249Z" creationid="nakahodo" creationdate="20171230T145249Z">
-        <seg>今後、あなたが靴屋を使用すると、役割デッキ一番上のカードをドローして、あなたの個人サプライにてこれを発動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145257Z" creationid="nakahodo" creationdate="20171230T145249Z">
+        <seg>今後、あなたが靴屋を使用すると、役割デッキ一番上のカードをドローして、あなたの個人サプライにてこれをアクティブにさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5947,8 +6005,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>GENERAL SUPPLY:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T144626Z" creationid="nakahodo" creationdate="20171218T144626Z">
-        <seg>基本サプライ：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145803Z" creationid="nakahodo" creationdate="20171218T144626Z">
+        <seg>共通サプライ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7601,6 +7659,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to simulate active charters for lower player counts, please see the Automa rulebook.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145702Z" creationid="nakahodo" creationdate="20171230T145702Z">
+        <seg>人数が少ない時にアクティブチャーターをシミュレートしたいと望む場合、オートマルールブックを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you wish to explore the two-player game, we advise that you play the Marquise against the Eyrie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
@@ -7889,6 +7955,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163453Z" creationid="aorin" creationdate="20171228T163453Z">
         <seg>逆回りのプレイヤー順で、自身のチャーターチェストの完了している栄光の行の任意のボーナス1つ以上を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In reverse player order, gain either 1 minion or 1 advancement card AND either</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150108Z" creationid="nakahodo" creationdate="20171230T150048Z">
+        <seg>逆回りのプレイヤー順番で、「1ミニオンか1発展カードいずれか」に加えて、「$2か3VPのいずれか」を</seg>
       </tuv>
     </tu>
     <tu>
@@ -9029,6 +9103,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPTlONAL CONSTRUCTlON:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150230Z" creationid="nakahodo" creationdate="20171230T150230Z">
+        <seg>建設の選択：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OVERVIEW</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
@@ -10161,6 +10243,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your 2 worker meeples and 12 influence tokens in front of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145918Z" creationid="nakahodo" creationdate="20171230T145918Z">
+        <seg>あなたの前に2ワーカーミープルと12影響トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your Loyal Viziers on the Decree spaces shown on your new leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003043Z" creationid="aorin" creationdate="20171216T003043Z">
@@ -10189,6 +10279,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144710Z" creationid="aorin" creationdate="20171215T144710Z">
         <seg>あなた派閥ボードの一致するトラックに、砦、隠れ家を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your VP token on 0 VP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145926Z" creationid="nakahodo" creationdate="20171230T145926Z">
+        <seg>0VPに、あなたのVPトークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11005,6 +11103,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal 3 random objective cards (extra cards form a face-down deck on the mat)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145840Z" creationid="nakahodo" creationdate="20171230T145840Z">
+        <seg>目標カード3枚をランダムに公開します（余分なカードでマットに裏向きのデッキを作ります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal 3 random objective cards (extra cards form a face-down deck on the mat).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T162950Z" creationid="aorin" creationdate="20171228T162950Z">
@@ -11313,6 +11419,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031134Z" creationid="aorin" creationdate="20171212T031134Z">
         <seg>ソリティア-特別ルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STARTING BONUS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145935Z" creationid="nakahodo" creationdate="20171230T145935Z">
+        <seg>開始ボーナス：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13767,6 +13881,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then advance the progress token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150204Z" creationid="nakahodo" creationdate="20171230T150204Z">
+        <seg>その後、進展トークンを進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then choose another player to gain from the mint supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033847Z" creationid="aorin" creationdate="20171212T033847Z">
@@ -14064,6 +14186,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235016Z" creationid="aorin" creationdate="20171228T235016Z">
         <seg>これら建物カードは木箱を持っていませんので、建築したらアーカイブに入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These cards are now used to draw a persona card from the top of the deck and activate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145431Z" creationid="nakahodo" creationdate="20171230T145431Z">
+        <seg>これらのカードは役割デッキ一番上から役割カード1枚をドローし、これをアクティブにするために使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14413,6 +14543,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074844Z" creationid="aorin" creationdate="20171213T074844Z">
         <seg>これはいつでも可能です。つまり、アクション、昇進、最終得点計算を実行している時にもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This card replaces the "Setup—Inactive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145614Z" creationid="nakahodo" creationdate="20171230T145614Z">
+        <seg>このカードは、「セットアップ―非アクティブチャーターカード」カードに置き換えられ、</seg>
       </tuv>
     </tu>
     <tu>
@@ -16177,6 +16315,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may pay influence tokens and the listed construction cost to advance the progress token and gain VP even if you don't construct a building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150501Z" creationid="nakahodo" creationdate="20171230T150501Z">
+        <seg>あなたは建物を建設しないとしても、進展トークンを進めるために記述された建設コストと影響とクーンを支払い、VPを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may place a worker on the Zeppelin to construct a building on an empty plot in your charter using a building card from your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145020Z" creationid="nakahodo" creationdate="20171224T145020Z">
@@ -16765,6 +16911,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171240Z" creationid="aorin" creationdate="20171228T171240Z">
         <seg>あなたが別の建物の上に建物を建築した場合、新しい建物に示されたVP（○）のみを、キャンペーン終了時に数えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lithe constructed building card shows a crate, place it face up in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150205Z" creationid="nakahodo" creationdate="20171230T150205Z">
+        <seg>建築された建物カードに木箱があった場合、あなたの個人サプライにこれを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lt can be placed on an empty plot or any building with no tokens on it (but not a basic resource building).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150154Z" creationid="nakahodo" creationdate="20171230T150154Z">
+        <seg>シールは、空いた区画1つ[または]なにもトークンが配置されていない（そして基本リソース建物ではない）建物に貼り付けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17694,6 +17856,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044217Z" creationid="aorin" creationdate="20171213T044217Z">
         <seg>•食料とシルバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GAUNTLETS OF LIFE/DEATH:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145312Z" creationid="nakahodo" creationdate="20171230T145252Z">
+        <seg>•生/死のガントレット：</seg>
       </tuv>
     </tu>
     <tu>
