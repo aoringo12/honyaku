@@ -1286,6 +1286,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>148</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T131338Z" creationid="nakahodo" creationdate="20171230T131338Z">
+        <seg>148
+最後の戦い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -6134,6 +6143,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you lulled the king into complacency by making decisions that appease him?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T132707Z" creationid="nakahodo" creationdate="20171230T132707Z">
+        <seg>あなたは王をなだめるために決断をして独善的に王を抑えましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -16114,6 +16131,15 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235143Z" creationid="aorin" creationdate="20171215T235143Z">
         <seg>可能なアクションは次のとおりです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>あなたのグループの運命、最後の戦いでの、</note>
+      <tuv lang="EN-US">
+        <seg>Yourgroup'sfate In the final battle for your village and your life depends on the choices you've made throughout the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T131954Z" creationid="nakahodo" creationdate="20171230T131954Z">
+        <seg>あなたの村と人生における最後の戦いのグループの運命は、キャンペーンを通してあなたの選択に依存します。</seg>
       </tuv>
     </tu>
     <tu>
