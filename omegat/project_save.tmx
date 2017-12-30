@@ -1424,6 +1424,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>158</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151438Z" creationid="nakahodo" creationdate="20171230T151425Z">
+        <seg>158
+オートマルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
@@ -4446,6 +4455,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard all components to the general supply and place them in the Scriptorium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151355Z" creationid="nakahodo" creationdate="20171230T151355Z">
+        <seg>全てのコンポーネントを共通サプライに捨て、これらをスクリプトリウムに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard all private objective cards at end  of game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165430Z" creationid="aorin" creationdate="20171228T165430Z">
@@ -5898,6 +5915,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the remainder of the campaign, give the Automa 1 of each unlocked minion type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151622Z" creationid="nakahodo" creationdate="20171230T151622Z">
+        <seg>キャンペーンの残りでは、オートマは開放されたミニオンの種類ごとに1つ、これを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the rest of the game, you can only win by meeting the victory condition listed on your activated special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232230Z" creationid="aorin" creationdate="20171215T232150Z">
@@ -6001,6 +6026,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103703Z" creationid="aorin" creationdate="20171219T103703Z">
         <seg>今後のトークンは海に最も近い次の空いたスペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GA TH ER:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151401Z" creationid="nakahodo" creationdate="20171230T151401Z">
+        <seg>集める：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6196,6 +6229,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T195721Z" creationid="nakahodo" creationdate="20171224T195721Z">
         <seg>自身のプレイヤーピースの全てを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather all player pieces and place them in their corresponding Charter Chests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151420Z" creationid="nakahodo" creationdate="20171230T151420Z">
+        <seg>全てのプレイヤーピースを集め、自身のチャーターチェストへと入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8678,6 +8719,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MINIONS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151707Z" creationid="nakahodo" creationdate="20171230T151707Z">
+        <seg>ミニオン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a Blend</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
@@ -9411,6 +9460,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only if a minion cannot be placed will a regular worker be placed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152231Z" creationid="nakahodo" creationdate="20171230T152231Z">
+        <seg>ミニオンが配置できない場合のみ、通常ワーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one Pixie per round can reach the Loyal Servant space at the entrance of the Queen’s castle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163522Z" creationid="aorin" creationdate="20171212T163522Z">
@@ -9527,6 +9584,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063054Z" creationid="aorin" creationdate="20171213T063054Z">
         <seg>オリアナはゴールドトラックの4段目に到達しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152236Z" creationid="nakahodo" creationdate="20171230T152236Z">
+        <seg>その他の注意</seg>
       </tuv>
     </tu>
     <tu>
@@ -9970,6 +10035,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131349Z" creationid="nakahodo" creationdate="20171213T131349Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 Automa Worker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151704Z" creationid="nakahodo" creationdate="20171230T151704Z">
+        <seg>オートマのワーカー1つを配置する</seg>
       </tuv>
     </tu>
     <tu>
@@ -11569,6 +11642,15 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T115630Z" creationid="nakahodo" creationdate="20171213T115630Z">
         <seg>テーブル中央にボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup 4, MINIONS;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151446Z" creationid="nakahodo" creationdate="20171230T151432Z">
+        <seg>セットアップ
+4.ミニオン：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15580,6 +15662,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When an Automa card selects the Automa's charter, if it has an available minion, ignore all occupied buildings and instead place a minion (it doesn't matter which).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152109Z" creationid="nakahodo" creationdate="20171230T152109Z">
+        <seg>オートマカード1枚がオートマのチャーターを選択する時、利用可能なミニオンを保つ場合に、占領されている建物全てを無視し、代わりにミニオンつを配置します（場所に関わらず）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an item is completed on your turn, pay the resources to the general supply, gain the benefit shown on the upper-right of the item card, then discard the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T233712Z" creationid="aorin" creationdate="20171228T233712Z">
@@ -15667,6 +15757,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031602Z" creationid="aorin" creationdate="20171212T031602Z">
         <seg>AIがプレイスアクションを実行するとき、使用するミントプレイスメントスペースへと、AIのミントから必要な数●を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When placed, Automa minions give no benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152306Z" creationid="nakahodo" creationdate="20171230T152306Z">
+        <seg>配置する時、オートマのミニオンは効果を得ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18142,6 +18240,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• MINIONS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152244Z" creationid="nakahodo" creationdate="20171230T152244Z">
+        <seg>•ミニオン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• NO INFLUENCE:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111937Z" creationid="aorin" creationdate="20171219T111937Z">
@@ -18599,6 +18705,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>● 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151321Z" creationid="nakahodo" creationdate="20171230T151321Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223652Z" creationid="nakahodo" creationdate="20171224T223652Z">
@@ -18795,6 +18909,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151019Z" creationid="nakahodo" creationdate="20171230T151019Z">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ヽ，</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151624Z" creationid="nakahodo" creationdate="20171230T151624Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
