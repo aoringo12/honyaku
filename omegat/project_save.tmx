@@ -5732,6 +5732,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the first time since you arrived at this village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142131Z" creationid="nakahodo" creationdate="20171230T142131Z">
+        <seg>あなたがこの村に到着して初めて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the rest of the game, you can only win by meeting the victory condition listed on your activated special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232230Z" creationid="aorin" creationdate="20171215T232150Z">
@@ -6244,6 +6252,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T093302Z" creationid="nakahodo" creationdate="20171230T073523Z">
         <seg>王は村の成長を阻害しているプレイヤーを知ろうとします――そこには、村を久遠の都の候補にしようという認識しかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He falls back, his body crumbling to dust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142106Z" creationid="nakahodo" creationdate="20171230T142106Z">
+        <seg>彼はたじろぎ、身体が塵となって崩れました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12804,8 +12820,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The king stands tries to stand, but the expression on his face says that it's too late.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T140916Z" creationid="nakahodo" creationdate="20171230T140916Z">
-        <seg>The king stands tries to stand, but the expression on his face says that it's too late.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142109Z" creationid="nakahodo" creationdate="20171230T140916Z">
+        <seg>王は立ち上がろうと試みるが、彼の表情からもう遅いということがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15719,6 +15735,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are free.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142136Z" creationid="nakahodo" creationdate="20171230T142136Z">
+        <seg>自由になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are now a Nemesis.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073821Z" creationid="aorin" creationdate="20171216T073821Z">
@@ -15939,6 +15963,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
         <seg>自身の派閥ボードに建物を戻すことによって勝利点は失わず、以前に派閥ボードに戻した建物を建築した時はまた勝利点を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You feel a sense of responsibility to the kingdom, though—thanks to you, Greengully has no rule,:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142428Z" creationid="nakahodo" creationdate="20171230T142428Z">
+        <seg>あなたは王国への責任を感じます。とはいえ、そのおかげで、グリーングリーに支配者はいなくなりました。</seg>
       </tuv>
     </tu>
     <tu>
