@@ -2999,6 +2999,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At your backs are the companions who confided in you so long ago.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T100432Z" creationid="nakahodo" creationdate="20171230T100432Z">
+        <seg>あなたの後ろには、長い間共に時間を過ごしてきた仲間たちがいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacker and defender deal hits simultaneously.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T225430Z" creationid="aorin" creationdate="20171215T225430Z">
@@ -6116,6 +6124,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He may be old, but At the sound of the door closing behind you, you realize you are not alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T100154Z" creationid="nakahodo" creationdate="20171230T100154Z">
+        <seg>彼は年老いていますが、あなたの後ろのドアが閉まる音で、あなたは1人ではないことに気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He needs the village to grow at a rapid pace, and it doesn't seem like your interests align with his.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001420Z" creationid="aorin" creationdate="20171229T001420Z">
@@ -6192,6 +6208,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001457Z" creationid="aorin" creationdate="20171229T001457Z">
         <seg>王の懲罰は迅速、かつ決定的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>His stark white hair is pulled back in a bun, and his wrinkles seem to have wrinkles of their own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T100044Z" creationid="nakahodo" creationdate="20171230T100044Z">
+        <seg>白い髪は巻き上げられ、その皺自体にもさらに皺があるように見えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7774,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131831Z" creationid="aorin" creationdate="20171215T131831Z">
         <seg>また、ゲームにおける多くの状況を指示するセットアップが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It appears to be much older than the one in your village, but it still emits the same palpable energy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T095513Z" creationid="nakahodo" creationdate="20171230T095226Z">
+        <seg>あなたの村のものよりも古いように見えるが、それはまだ、同じ感触のエネルギーが発せられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12088,6 +12120,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King is old、mucholder than the royal portraits convey.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T095714Z" creationid="nakahodo" creationdate="20171230T095714Z">
+        <seg>永遠なる王は、王室の肖像画よりもはるかに年老いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever King monitors the village's pr?gress from afa,;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095451Z" creationid="aorin" creationdate="20171219T095451Z">
@@ -12526,8 +12566,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The king waves to you as you enter his chambers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T094310Z" creationid="nakahodo" creationdate="20171230T094310Z">
-        <seg>チャンバーに入ると、王はあなたに何かを飛ばします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T095323Z" creationid="nakahodo" creationdate="20171230T094310Z">
+        <seg>王室に入ると、王はあなたに手を振ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13155,8 +13195,9 @@ plus the desired Location’s cost.</seg>
       <tuv lang="EN-US">
         <seg>The room is lavishly decorated with tapestries, maps, paintings, and treasures from across the kingdom Unmistakable in the middle of the room 1s a Charterstone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T095212Z" creationid="nakahodo" creationdate="20171230T095212Z">
-        <seg>部屋は王国中から集められたタペストリー、マップ、絵画、宝物によってまんべんなく装飾されています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T095242Z" creationid="nakahodo" creationdate="20171230T095212Z">
+        <seg>部屋は王国中から集められたタペストリー、マップ、絵画、宝物によってまんべんなく装飾されています。
+その中央にあるのは、間違いなくチャーターストーンです。</seg>
       </tuv>
     </tu>
     <tu>
