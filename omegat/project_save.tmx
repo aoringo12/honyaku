@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Soon I will embark on a journey to your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T082331Z" creationid="nakahodo" creationdate="20171230T082331Z">
+        <seg>「近々、我が村へと訪れることになるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"The process of moving the soul ft·om one body to anothe,:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T002204Z" creationid="aorin" creationdate="20171229T002204Z">
