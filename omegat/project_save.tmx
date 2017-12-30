@@ -1433,10 +1433,37 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>159</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152425Z" creationid="nakahodo" creationdate="20171230T152425Z">
+        <seg>159
+オートマルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
         <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>160</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152747Z" creationid="nakahodo" creationdate="20171230T152747Z">
+        <seg>160
+オートマルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>161</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152852Z" creationid="nakahodo" creationdate="20171230T152852Z">
+        <seg>161
+オートマルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -4053,6 +4080,23 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Construct a Building</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152719Z" creationid="nakahodo" creationdate="20171230T152719Z">
+        <seg>建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Construct a Building (Cover Existing Rules) 9ー・， ． ，．． 1、Select any empty plot in the Automa's charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153007Z" creationid="nakahodo" creationdate="20171230T153007Z">
+        <seg>建物の建設（既存ルールと置き換え）
+1. オートマのチャーターの任意のアイタク掻くを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Construct the building in the inactive charter on an open plot.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105652Z" creationid="nakahodo" creationdate="20171225T105652Z">
@@ -5808,6 +5852,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each Automa, choose 2 Sky Island tiles:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152445Z" creationid="nakahodo" creationdate="20171230T152445Z">
+        <seg>各オートマは、空島タイルを2枚選択します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each Recruit action on the Decree, you must place two warriors instead of one.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003517Z" creationid="aorin" creationdate="20171216T003517Z">
@@ -5874,6 +5926,14 @@ track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each tile, draw Automa cards until you reveal a charter card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152559Z" creationid="nakahodo" creationdate="20171230T152559Z">
+        <seg>各タイルごとに、あなたがチャーターカードを公開するまで、オートマカードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each type of resource cube, determine which player has the most cubes of that particular resource remaining in their personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040042Z" creationid="aorin" creationdate="20171213T040042Z">
@@ -5919,6 +5979,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151622Z" creationid="nakahodo" creationdate="20171230T151622Z">
         <seg>キャンペーンの残りでは、オートマは開放されたミニオンの種類ごとに1つ、これを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the remainder of the campaign, if the Automa has an empty tile, choose it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152508Z" creationid="nakahodo" creationdate="20171230T152508Z">
+        <seg>キャンペーンの残りで、オートマが空のタイルを持っている場合、これを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5994,6 +6062,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
         <seg>今後、窃盗フェイズ時にタイルに描かれた量だけ、あなたが選択する食料を得る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the advancement mat, take the lowest-numbered unconstructed building card with a building value higher than the building to be overbuilt and construct it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153644Z" creationid="nakahodo" creationdate="20171230T153644Z">
+        <seg>建て替えするために、その建物よりも高い建物価値を持つ、最も数字の低いまだ建築されていない建物カードを発展マットから取り、これを建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7303,6 +7379,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105605Z" creationid="nakahodo" creationdate="20171225T105011Z">
         <seg>発展デッキに建築されていない建物カードがない場合、これは行いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are none, select a plot with the lowest building value (ignore the basic resource building).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153048Z" creationid="nakahodo" creationdate="20171230T153048Z">
+        <seg>それがない場合、最も建物価値の低い区画を選択します（基本リソース建物は無視します）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9620,6 +9704,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, randomly choose a tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152518Z" creationid="nakahodo" creationdate="20171230T152518Z">
+        <seg>そうでないなら、ランダムにタイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outrage increases whenever the Marquise takes the Recruit action or whenever a Hideout is removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055134Z" creationid="aorin" creationdate="20171216T055134Z">
@@ -9648,6 +9740,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152933Z" creationid="nakahodo" creationdate="20171218T152933Z">
         <seg>カードのプレイ / 捨て札</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERIL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152753Z" creationid="nakahodo" creationdate="20171230T152753Z">
+        <seg>危険：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11538,6 +11638,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SKY ISLANDS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152429Z" creationid="nakahodo" creationdate="20171230T152429Z">
+        <seg>空島：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030731Z" creationid="aorin" creationdate="20171212T030731Z">
@@ -12507,6 +12615,22 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083115Z" creationid="aorin" creationdate="20171216T083115Z">
         <seg>連合は、あなたが現在居る空き地に一致する森の民ボックスに、サポーターを1体配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa gains peril tokens like a human, but only uses them for relevant guideposts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152845Z" creationid="nakahodo" creationdate="20171230T152845Z">
+        <seg>人間プレイヤーと同じように、オートマは危険トークンを得ますが、指標に関係することにのみ、それらを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa places new buildings on empty plots before placing on Sky Islands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152740Z" creationid="nakahodo" creationdate="20171230T152740Z">
+        <seg>オートマは空島に配置する前に、空いた区画に新しい建物を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15327,10 +15451,26 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use A-Z to break ties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153123Z" creationid="nakahodo" creationdate="20171230T153123Z">
+        <seg>タイの場合、アルファベット順で解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use a warrior cube from each other player as an alignment marker&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073259Z" creationid="aorin" creationdate="20171216T073259Z">
         <seg>協力マーカーとして、各他プレイヤーから戦士キューブ1つを使用します&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use that card to place the tile in the Automa's charter (same as you would a worker, but ignoring the basic resource building).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152716Z" creationid="nakahodo" creationdate="20171230T152716Z">
+        <seg>オートマのチャーターにタイルを配置するためにこのカードを使用します（人間プレイヤーと同じように、基本リソース建物は無視します）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,6 +15814,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T233712Z" creationid="aorin" creationdate="20171228T233712Z">
         <seg>アイテムがあなたのターンにて達成された時、共通サプライにリソースを支払い、アイテムカードの右上に示される利益を得て、その後、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an opponent places a worker on a building with an Automa minion, that Automa gains 1 VP and nothing else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152418Z" creationid="nakahodo" creationdate="20171230T152418Z">
+        <seg>対戦相手1人がオートマミニオンのある建物にワーカー1つを配置する時、そのオートマは1VPを得て、他はなにも得せん。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16907,6 +17055,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152445Z" creationid="nakahodo" creationdate="20171230T152445Z">
+        <seg>a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aFnoiro ena inch their Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014502Z" creationid="aorin" creationdate="20171229T014502Z">
@@ -16967,6 +17123,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172408Z" creationid="aorin" creationdate="20171228T172408Z">
         <seg>あんたの個人サプライにあるものとしてみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T152519Z" creationid="nakahodo" creationdate="20171230T152519Z">
+        <seg>b.</seg>
       </tuv>
     </tu>
     <tu>
