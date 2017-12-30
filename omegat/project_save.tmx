@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>"I consider you the future of Greengulfy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T074702Z" creationid="nakahodo" creationdate="20171230T074702Z">
-        <seg>"I consider you the future of Greengulfy.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080118Z" creationid="nakahodo" creationdate="20171230T074702Z">
+        <seg>「我はお前達がグリーングリーの未来であると考える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1141,6 +1141,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>139</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080048Z" creationid="nakahodo" creationdate="20171230T080048Z">
+        <seg>139
+全ては平等に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -1718,6 +1727,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
         <seg>空き地は道によってつながり他の空き地全てと隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A courier arrives with a royal decree from the Forever King.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080051Z" creationid="nakahodo" creationdate="20171230T080051Z">
+        <seg>特使が永遠の王から勅令を受けて到着します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,6 +3281,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAMPAIGN VICTORY CARDS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T075744Z" creationid="nakahodo" creationdate="20171230T075744Z">
+        <seg>キャンペーン勝利カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CLEAR:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224445Z" creationid="nakahodo" creationdate="20171224T224445Z">
@@ -4694,6 +4719,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player takes 1 campaign victory card (they're all the same).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080152Z" creationid="nakahodo" creationdate="20171230T080152Z">
+        <seg>各プレイヤーはキャンペーン勝利カードを1枚ずつ受け取ります（これは全て同じです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player who removed any buildings draws cards equal to the number of their own buildings removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000401Z" creationid="aorin" creationdate="20171216T000401Z">
@@ -5330,6 +5363,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015441Z" creationid="aorin" creationdate="20171229T015441Z">
         <seg>非アクティブチャーターごとに、そのチャーターチェストに残っているコンパニオン1枚を入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each inactive charter, place a random card in their Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080029Z" creationid="nakahodo" creationdate="20171230T080029Z">
+        <seg>各非アクティブチャーターは、そのチャーターチェストにランダムに1枚入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,6 +7620,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shows the calculation that will be used at the end of the campaign to determine the overall winner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T075950Z" creationid="nakahodo" creationdate="20171230T075950Z">
+        <seg>これはキャンペーン終了時に、ゲーム全体の勝利者を決定するために使用する計算が示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's not necessary to learn any rules before Charterstone's first game, but having at least one person who understands the core concepts will improve the flow of Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T142236Z">
@@ -7695,6 +7744,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154418Z" creationid="nakahodo" creationdate="20171218T154418Z">
         <seg>あなたの個人サプライに建築された建物カードを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep these in your Charter Chest until the end of the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080004Z" creationid="nakahodo" creationdate="20171230T080004Z">
+        <seg>キャンペーン終了まで、あなたのチャーターチェストにこれを保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11124,6 +11181,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
         <seg>スタートプレイヤートークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting with the player who selected this guidepost option and proceeding clockwise, each player secretly chooses 1 campaign victory card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T075843Z" creationid="nakahodo" creationdate="20171230T075843Z">
+        <seg>この指標オプションを選択したプレイヤーから始まり、時計回りで、各プレイヤーはキャンペーン勝利カードを秘密裏に1枚ずつ選択します。</seg>
       </tuv>
     </tu>
     <tu>
