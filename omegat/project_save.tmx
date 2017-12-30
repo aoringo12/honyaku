@@ -1184,6 +1184,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>141</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083139Z" creationid="nakahodo" creationdate="20171230T083109Z">
+        <seg>141
+王の法令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -7797,6 +7806,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep this candle burning brightly throughout the next month as a guiding light for my royal convoy." t.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083038Z" creationid="nakahodo" creationdate="20171230T083038Z">
+        <seg>我が王室船団の灯台として、次の月の間、このキャンドルを明るく燃やし続けるのだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep this card In your Charter Chest until instructed otherwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015511Z" creationid="aorin" creationdate="20171229T015511Z">
@@ -8497,6 +8514,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPEN:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083044Z" creationid="nakahodo" creationdate="20171230T083044Z">
+        <seg>開く：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OVERVIEW</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025300Z" creationid="aorin" creationdate="20171212T025300Z">
@@ -8791,6 +8816,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T141847Z" creationid="nakahodo" creationdate="20171224T141847Z">
         <seg>クロニクルを開き、セットアップ手順を進行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open tuckbox iii and remove the contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083106Z" creationid="nakahodo" creationdate="20171230T083106Z">
+        <seg>タックボックスiiiを開き、中身を取り出してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11781,6 +11814,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001243Z" creationid="aorin" creationdate="20171229T001243Z">
         <seg>永遠なる王は村の建物以外の価値、それ以外の何かに集中するという選択に驚いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King is deeply satisfied that you were able to rid your charters of peril.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083115Z" creationid="nakahodo" creationdate="20171230T083115Z">
+        <seg>The Forever King is deeply satisfied that you were able to rid your charters of peril.</seg>
       </tuv>
     </tu>
     <tu>
