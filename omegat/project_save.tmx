@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>"Here's what will happen next:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135054Z" creationid="nakahodo" creationdate="20171230T135054Z">
-        <seg>"Here's what will happen next:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135643Z" creationid="nakahodo" creationdate="20171230T135054Z">
+        <seg>「次に何が起こるのか：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>"I could kill you where you stand, but I'm a compassionate king.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135020Z" creationid="nakahodo" creationdate="20171230T135020Z">
-        <seg>"I could kill you where you stand, but I'm a compassionate king.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135527Z" creationid="nakahodo" creationdate="20171230T135020Z">
+        <seg>「お前がどこにいようと殺せるが、我はとても寛大である。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6482,6 +6482,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I will observe J,-om here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135753Z" creationid="nakahodo" creationdate="20171230T135753Z">
+        <seg>我はここから観察する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm grateful for your sacrifice."</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T130704Z" creationid="nakahodo" creationdate="20171230T130449Z">
@@ -10393,8 +10401,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Plus, I need one of your bodies if I'm going to live another 400 years."</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135047Z" creationid="nakahodo" creationdate="20171230T135047Z">
-        <seg>Plus, I need one of your bodies if I'm going to live another 400 years."</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135613Z" creationid="nakahodo" creationdate="20171230T135047Z">
+        <seg>それに、さらに400年生きるために、お前たちの身体の1つが必要なのだ」</seg>
       </tuv>
     </tu>
     <tu>
@@ -12763,8 +12771,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The king looms over you, his kindly demeanor gone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135031Z" creationid="nakahodo" creationdate="20171230T135031Z">
-        <seg>The king looms over you, his kindly demeanor gone.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135359Z" creationid="nakahodo" creationdate="20171230T135031Z">
+        <seg>王はあなたの上に立ち、その態度は親切であった時のそれではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15324,6 +15332,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When we meet again, I will select one of you to have the honor of carrying on my legacy in mind, body, and spirit."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T140312Z" creationid="nakahodo" creationdate="20171230T140312Z">
+        <seg>我々が再度面会する時、私の精神、身体、魂の遺産を受け継ぐ名誉を、お前たちの1人に授けるだろう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you exhaust a crafting building, you can flip it, and then flip it back over at the end of your Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211757Z" creationid="aorin" creationdate="20171215T211757Z">
@@ -15904,8 +15920,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You have 1 month to make your final impression.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135155Z" creationid="nakahodo" creationdate="20171230T135155Z">
-        <seg>You have 1 month to make your final impression.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135730Z" creationid="nakahodo" creationdate="20171230T135155Z">
+        <seg>お前は最後の印象をつけるために一ヶ月ある。</seg>
       </tuv>
     </tu>
     <tu>
