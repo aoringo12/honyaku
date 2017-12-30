@@ -2345,6 +2345,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players gain 1 glory (in addition to any glory awarded for achieving the guidepost)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T001445Z" creationid="nakahodo" creationdate="20171230T001445Z">
+        <seg>全てのプレイヤーたちは、1栄光を得ます（指標を達成することによって得た栄光に加えて）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All players gather resources from their personal supply in a chosen amount, to hold in their hand.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T122852Z" creationid="aorin" creationdate="20171212T122852Z">
@@ -5825,6 +5833,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He offers them a gift.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T001341Z" creationid="nakahodo" creationdate="20171230T001341Z">
+        <seg>彼にギフトが送られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He pulls you into a tight embrace, his foul breath tickling your ear.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001943Z" creationid="aorin" creationdate="20171229T001943Z">
@@ -6031,6 +6047,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114045Z" creationid="nakahodo" creationdate="20171001T114045Z">
         <seg>投資トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify the active player with the lCehaasrtt ceursmtounlaet)i.v We gitlhooryu (ti fw tahrenrien'gs ,a t htiaet, prolally tehre's spirit is forcibly removed from their body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T065051Z" creationid="nakahodo" creationdate="20171230T065051Z">
+        <seg>Identify the active player with the lCehaasrtt ceursmtounlaet)i.v We gitlhooryu (ti fw tahrenrien'gs ,a t htiaet, prolally tehre's spirit is forcibly removed from their body.</seg>
       </tuv>
     </tu>
     <tu>
