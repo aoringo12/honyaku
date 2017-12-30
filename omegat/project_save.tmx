@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Restrain our friends," he says, gesturing to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T131314Z" creationid="nakahodo" creationdate="20171230T131103Z">
+        <seg>「我々の友人を拘束せよ」と彼は言いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Soon I will embark on a journey to your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T082331Z" creationid="nakahodo" creationdate="20171230T082331Z">
@@ -1830,6 +1838,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221326Z" creationid="aorin" creationdate="20171215T221314Z">
         <seg>戦闘は4つのステップがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A cadre of guards appear from behind the king.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T131208Z" creationid="nakahodo" creationdate="20171230T131208Z">
+        <seg>王の後ろから、ガードたちの幹部が現れる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,6 +6387,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
         <seg>その一方で、大きなキューブは小さなキューブの順番に合わせて変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm grateful for your sacrifice."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T130704Z" creationid="nakahodo" creationdate="20171230T130449Z">
+        <seg>我はお前の犠牲に感謝する」</seg>
       </tuv>
     </tu>
     <tu>
@@ -15992,8 +16016,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You've conditioned your mind to host the multitude of souls contained within me, and you've learned so many abilities to transfer to me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T130447Z" creationid="nakahodo" creationdate="20171230T130447Z">
-        <seg>You've conditioned your mind to host the multitude of souls contained within me, and you've learned so many abilities to transfer to m.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T130607Z" creationid="nakahodo" creationdate="20171230T130447Z">
+        <seg>我の内にある無数の魂の宿主としてお前の精神が整い、俺を受け入れるための多くの能力をお前は学んだ。</seg>
       </tuv>
     </tu>
     <tu>
