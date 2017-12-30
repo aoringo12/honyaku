@@ -1468,6 +1468,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>162</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153739Z" creationid="nakahodo" creationdate="20171230T153739Z">
+        <seg>162
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>17</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T165131Z" creationid="nakahodo" creationdate="20171224T165131Z">
@@ -2371,6 +2380,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust as necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154118Z" creationid="nakahodo" creationdate="20171230T154118Z">
+        <seg>必要に応じて調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
@@ -3257,6 +3274,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094038Z" creationid="aorin" creationdate="20171212T094038Z">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automa rule</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153742Z" creationid="nakahodo" creationdate="20171230T153742Z">
+        <seg>オートマルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -4531,6 +4556,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard the resulting constructed building card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153729Z" creationid="nakahodo" creationdate="20171230T153729Z">
+        <seg>結果として残る建築された建物カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discarding Tiles (regardless of the type) is forbidden.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043723Z" creationid="aorin" creationdate="20171213T043723Z">
@@ -5413,6 +5446,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T125133Z" creationid="nakahodo" creationdate="20171230T125133Z">
         <seg>400年ごとに、この部屋で我は6人の招待者の前に立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Charterstone board will be unique.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154028Z" creationid="nakahodo" creationdate="20171230T154028Z">
+        <seg>全てのチャーターストーンのボードは独自のものになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,6 +6403,14 @@ place them on the table as shown below.</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082111Z" creationid="aorin" creationdate="20171216T082111Z">
         <seg>贈り物
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give 1random Automa persona card and 2 minions (doesn't matter which) to each Automa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154227Z" creationid="nakahodo" creationdate="20171230T154227Z">
+        <seg>各オートマに、オートマ役割カードをランダムに1枚と、2ミニオン（どれでも構いません）を渡します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7379,6 +7428,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105605Z" creationid="nakahodo" creationdate="20171225T105011Z">
         <seg>発展デッキに建築されていない建物カードがない場合、これは行いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are none, do nothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153717Z" creationid="nakahodo" creationdate="20171230T153717Z">
+        <seg>それがない場合、なにもしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,6 +9729,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153744Z" creationid="nakahodo" creationdate="20171230T153744Z">
+        <seg>その他の注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other notes</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152236Z" creationid="nakahodo" creationdate="20171230T152236Z">
@@ -10206,6 +10271,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Card 390 in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153811Z" creationid="nakahodo" creationdate="20171230T153811Z">
+        <seg>アーカイブにカード390を入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Field Researchers</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T102926Z" creationid="nakahodo" creationdate="20171001T102926Z">
@@ -10340,6 +10413,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
         <seg>各製材所に木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the 6 Automa persona cards in the Scriptorium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153850Z" creationid="nakahodo" creationdate="20171230T153850Z">
+        <seg>スクリプトリウムにオートマ役割カード6枚を入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11725,6 +11806,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092947Z" creationid="nakahodo" creationdate="20171001T092947Z">
         <seg>プレイの流れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Automa strength back to 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154100Z" creationid="nakahodo" creationdate="20171230T154100Z">
+        <seg>オートマの強さを3に設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15917,6 +16006,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When playing against any number of Automas, human players choose 1 additional starting benefit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154344Z" creationid="nakahodo" creationdate="20171230T154344Z">
+        <seg>任意の数のオートマたちと対戦するとき、人間プレイヤーは追加の開始利益を1つ選択します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When taking the first 2 cubes from the bag, the player is allowed to look inside the bag and choose which cubes they want.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045003Z" creationid="aorin" creationdate="20171213T045003Z">
@@ -18204,6 +18301,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• END OF CAMPAIGN:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153753Z" creationid="nakahodo" creationdate="20171230T153753Z">
+        <seg>•キャンペーンの終了：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• END OF GAME:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103833Z" creationid="aorin" creationdate="20171219T103833Z">
@@ -18484,6 +18589,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• POST-CAMPAIGN GAMES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154001Z" creationid="nakahodo" creationdate="20171230T154001Z">
+        <seg>•ポスト・キャンペーンゲーム：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Pay 1 Gold to advance 1 step on the Gold track</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142002Z" creationid="nakahodo" creationdate="20171213T142002Z">
@@ -18600,6 +18713,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103509Z" creationid="aorin" creationdate="20171219T103509Z">
         <seg>•評判トラック：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• SETUP:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154120Z" creationid="nakahodo" creationdate="20171230T154120Z">
+        <seg>•セットアップ：</seg>
       </tuv>
     </tu>
     <tu>
