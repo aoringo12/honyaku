@@ -1295,6 +1295,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>149</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T134014Z" creationid="nakahodo" creationdate="20171230T134014Z">
+        <seg>149
+永遠なる王との対峙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -1308,6 +1317,14 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151331Z">
         <seg>役割カード
 あなたは、学んでいない様々なスキルがあることに気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>150</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T134104Z" creationid="nakahodo" creationdate="20171230T134104Z">
+        <seg>150</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,6 +1831,14 @@ Bean Kicker.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095511Z" creationid="nakahodo" creationdate="20171002T095511Z">
         <seg>キッカーに黒豆を持つBoldブレンドのランクはキッカーに赤豆を持つものよりも高くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Devastating Loss</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T134109Z" creationid="nakahodo" creationdate="20171230T134109Z">
+        <seg>壊滅的な損失</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3078,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172942Z" creationid="aorin" creationdate="20171212T172913Z">
         <seg>最も高い位置では、報酬ポイントがもらえることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the sound of the door closing behind you, you realize you are not alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133831Z" creationid="nakahodo" creationdate="20171230T133831Z">
+        <seg>あなたの後ろのドアが閉まる音で、あなたは1人ではないことに気づきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6208,8 +6241,17 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>He may be old, but At the sound of the door closing behind you, you realize you are not alone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T100154Z" creationid="nakahodo" creationdate="20171230T100154Z">
-        <seg>彼は年老いていますが、あなたの後ろのドアが閉まる音で、あなたは1人ではないことに気づきます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133944Z" creationid="nakahodo" creationdate="20171230T100154Z">
+        <seg>彼は年老いているかもしれませんが、脆弱ではありません。王は力でみなぎっています。
+あなたの後ろのドアが閉まる音で、あなたは1人ではないことに気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He may be old, but he isn't weak.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133740Z" creationid="nakahodo" creationdate="20171230T133740Z">
+        <seg>彼は年老いているかもしれませんが、脆弱ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12235,6 +12277,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King is old, much older than the royal portraits convey.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133707Z" creationid="nakahodo" creationdate="20171230T133707Z">
+        <seg>永遠なる王は、王室の肖像画よりもはるかに年老いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever King is old、mucholder than the royal portraits convey.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T095714Z" creationid="nakahodo" creationdate="20171230T095714Z">
@@ -12675,6 +12725,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
         <seg>不死身なる永遠の王は、久遠の都から遠く離れた場所に新しい村を作るため、グリーングリーから6人の市民を選択しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The king radiates power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133804Z" creationid="nakahodo" creationdate="20171230T133804Z">
+        <seg>王は力でみなぎっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13313,6 +13371,14 @@ plus the desired Location’s cost.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T095242Z" creationid="nakahodo" creationdate="20171230T095212Z">
         <seg>部屋は王国中から集められたタペストリー、マップ、絵画、宝物によってまんべんなく装飾されています。
 その中央にあるのは、間違いなくチャーターストーンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The room is lavishly decorated with tapestries, maps, paintings, and treasures from across the kingdom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133648Z" creationid="nakahodo" creationdate="20171230T133610Z">
+        <seg>部屋は王国中から集められたタペストリー、マップ、絵画、宝物によってまんべんなく装飾されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14676,6 +14742,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unmistakeable in the middle of the room 1s a Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133656Z" creationid="nakahodo" creationdate="20171230T133608Z">
+        <seg>その中央にあるのは、間違いなくチャーターストーンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until the last round, players keep acquiring the resources depicted on the Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043059Z" creationid="aorin" creationdate="20171213T043059Z">
@@ -15556,6 +15630,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are completely outmatched by the sheer numbe1 of guards, spiteful companions, and even each other.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T134849Z" creationid="nakahodo" creationdate="20171230T134849Z">
+        <seg>あなたはガードたちの数にも悪意ある仲間にも、そして互いにも、完全に超えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are now a Nemesis.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073821Z" creationid="aorin" creationdate="20171216T073821Z">
@@ -15592,6 +15674,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014307Z" creationid="aorin" creationdate="20171229T014307Z">
         <seg>彼らを一角に連れていき、どういうことか問いただしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You burst into the king's chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133634Z" creationid="nakahodo" creationdate="20171230T133607Z">
+        <seg>あなたは王の部屋に突入しました。</seg>
       </tuv>
     </tu>
     <tu>
