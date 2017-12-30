@@ -12524,6 +12524,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The king waves to you as you enter his chambers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T094310Z" creationid="nakahodo" creationdate="20171230T094310Z">
+        <seg>チャンバーに入ると、王はあなたに何かを飛ばします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The king's lone concern is that one villager seems to be lagging behind.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T001325Z" creationid="nakahodo" creationdate="20171230T001325Z">
@@ -13140,6 +13148,15 @@ plus the desired Location’s cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032952Z" creationid="aorin" creationdate="20171212T032952Z">
         <seg>配置する必要がある○の数は、模範するロケーションのコストに1追加したものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>部屋は満遍なく装飾されている、タペストリー、マップ、絵画、宝物、王国獣の</note>
+      <tuv lang="EN-US">
+        <seg>The room is lavishly decorated with tapestries, maps, paintings, and treasures from across the kingdom Unmistakable in the middle of the room 1s a Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T095212Z" creationid="nakahodo" creationdate="20171230T095212Z">
+        <seg>部屋は王国中から集められたタペストリー、マップ、絵画、宝物によってまんべんなく装飾されています。</seg>
       </tuv>
     </tu>
     <tu>
