@@ -1810,6 +1810,24 @@ Healer</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>231</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T165419Z" creationid="nakahodo" creationdate="20171230T165419Z">
+        <seg>231
+Masseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>232</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T165523Z" creationid="nakahodo" creationdate="20171230T165523Z">
+        <seg>232
+Marchant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -2885,6 +2903,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154512Z" creationid="nakahodo" creationdate="20171230T154502Z">
         <seg>あなたがチャーターストーン建物を使用した後、＋2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After your turn, roll the Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T165533Z" creationid="nakahodo" creationdate="20171230T165533Z">
+        <seg>あなたのターンの後、チャーターストーンをロールする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,6 +8162,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you use a building in that charter on your next turn, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T171814Z" creationid="nakahodo" creationdate="20171230T171814Z">
+        <seg>次のあなたのターンにそのチャーターの建物を使用した場合、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to promote your Pixie to a space that is already occupied by another Pixie, you need to pay an Apple to the general supply in order to first demote that Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164110Z" creationid="aorin" creationdate="20171212T164110Z">
@@ -8186,8 +8220,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>If your worker picks up a Blight token, you may immediately retrieve that worker and gain 1 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T164727Z" creationid="nakahodo" creationdate="20171230T164727Z">
-        <seg>あなたが立ち枯れトークン1つをピックアップした場合、あなたは直ちに</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T165007Z" creationid="nakahodo" creationdate="20171230T164727Z">
+        <seg>あなたが立ち枯れトークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16627,6 +16661,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154807Z" creationid="nakahodo" creationdate="20171230T154807Z">
         <seg>あなたが評判トラックにトークン1つを配置するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you place a worker on an occupied building, you may choose not to bump the other worker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T165511Z" creationid="nakahodo" creationdate="20171230T165511Z">
+        <seg>あなたが占領されている建物1つにワーカー1人を配置するたびに、あなたは他のワーカーを押し出さない選択ができる。</seg>
       </tuv>
     </tu>
     <tu>
