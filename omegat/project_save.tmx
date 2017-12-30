@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Good news!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T085452Z" creationid="nakahodo" creationdate="20171230T085452Z">
+        <seg>「喜べ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"How hard can it be to clear your charters of bandits, Juel shortage, disrepair, vermin, blight, and famine?" he asks in a letter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T082057Z" creationid="nakahodo" creationdate="20171230T082057Z">
@@ -1219,6 +1227,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>144</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T085824Z" creationid="nakahodo" creationdate="20171230T085824Z">
+        <seg>144
+フェスティバル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -1999,6 +2016,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003759Z" creationid="aorin" creationdate="20171229T003759Z">
         <seg>空島は基本リソース建物の上に配置できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A small vessel arrives ahead of the rest, and a messenger jumps out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T085444Z" creationid="nakahodo" creationdate="20171230T085444Z">
+        <seg>大きな船が先頭に降り立ち、メッセンジャーが飛び出してきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4599,6 +4624,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each one bears the colorful banner of a major guild from the Eternal City, and they're led by the king.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T085402Z" creationid="nakahodo" creationdate="20171230T085402Z">
+        <seg>久遠の都の主要なギルドの色とりどりの旗が掲げられ、王によって率いられてきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7444,6 +7477,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In one month's time, we celebrate your village's selection as the new Eternal City" Clearly the king is delighted that you kept his candle burning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T085808Z" creationid="nakahodo" creationdate="20171230T085808Z">
+        <seg>一ヶ月をかけて、我々は新たなる久遠の都としてこの村が選ばれたセレモニーを行う」王は明らかに、キャンドルの炎が燃え続けていることに喜んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to compete, you will have to offer the Food type that the Queen desires this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101328Z" creationid="aorin" creationdate="20171212T101328Z">
@@ -8823,6 +8864,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T120452Z" creationid="aorin" creationdate="20171212T120452Z">
         <seg>食料リソースの1つが描かれており、このラウンドでクイーンが望む食料の種類が決定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the skills you pick up when you've lived for thousands of years is how to throw a party.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T090233Z" creationid="nakahodo" creationdate="20171230T090233Z">
+        <seg>pick up あなたが千年を生きると手に入れるスキルの1つは、パーティーの催しかたです。</seg>
       </tuv>
     </tu>
     <tu>
