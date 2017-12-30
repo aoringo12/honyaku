@@ -7439,6 +7439,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has a real chance at being selected as the next Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171229T233203Z" creationid="nakahodo" creationdate="20171229T233203Z">
+        <seg>次なる久遠の都市として選択される余地は十分にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is brief and painless.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T215310Z" creationid="nakahodo" creationdate="20171229T215310Z">
@@ -12003,6 +12011,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
         <seg>不死身なる永遠の王は、久遠の都から遠く離れた場所に新しい村を作るため、グリーングリーから6人の市民を選択しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The king's lone concern is that one villager seems to be lagging behind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T001325Z" creationid="nakahodo" creationdate="20171230T001325Z">
+        <seg>王の唯一の懸念は、村人の1人の進捗が遅れているということです。</seg>
       </tuv>
     </tu>
     <tu>
