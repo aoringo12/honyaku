@@ -1210,6 +1210,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>143</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084605Z" creationid="nakahodo" creationdate="20171230T084536Z">
+        <seg>143
+王室護送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -2479,6 +2488,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players should look accusingly at the player on whose turn the candle burned out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084331Z" creationid="nakahodo" creationdate="20171230T084331Z">
+        <seg>全てのプレイヤーたちは、キャンドルの火が消えたターンでアクティブだったプレイヤーを避難するように見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All players that offered Silver advance just 1 step.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130416Z" creationid="aorin" creationdate="20171212T130416Z">
@@ -2752,6 +2769,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
         <seg>グループとして、村の名前を決定してボードに書き込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As dawn breaks,yo11 hear a buzzing sound in the distance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084741Z" creationid="nakahodo" creationdate="20171230T084537Z">
+        <seg>夜が明けると、遠くから音が聞こえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7485,6 +7510,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the distance, the horizon is a/it with dozens of zeppelins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T085225Z" creationid="nakahodo" creationdate="20171230T085225Z">
+        <seg>遠く、地平線に降りてくるたくさんのツェッペリンが見えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the hopes that the Forever King decides to visit your village and bestow upon it the honor of being the new Eternal City, you seek to rid the village (especially your charter) of all peril.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T100207Z" creationid="nakahodo" creationdate="20171229T100207Z">
@@ -7839,6 +7872,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep these in the Scriptorium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084533Z" creationid="nakahodo" creationdate="20171230T084457Z">
+        <seg>スクリプトリウムにこれらを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep these in your Charter Chest until the end of the campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080004Z" creationid="nakahodo" creationdate="20171230T080004Z">
@@ -7907,6 +7948,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042016Z" creationid="aorin" creationdate="20171213T042016Z">
         <seg>クラウスはシルバートラックの4段目にいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCATION CARDS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084508Z" creationid="nakahodo" creationdate="20171230T084456Z">
+        <seg>場所カード：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11600,6 +11649,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040427Z" creationid="aorin" creationdate="20171213T040427Z">
         <seg>そのプレイヤーが勝者として宣言されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That player must place 1 of their used persona cards (from the current game or their Charter Chest) into the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084450Z" creationid="nakahodo" creationdate="20171230T084450Z">
+        <seg>そのプレイヤーは、アーカイブに自身が使用した役割カードの1枚（現在のゲーム[または]自身のチャーターチェストから）を入れなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15352,6 +15409,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075127Z" creationid="aorin" creationdate="20171216T075127Z">
         <seg>あなたは同盟に窃盗を使用することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You dash outside to see the source.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084810Z" creationid="nakahodo" creationdate="20171230T084810Z">
+        <seg>あなたはそれを確認するために外へ走ります。</seg>
       </tuv>
     </tu>
     <tu>
