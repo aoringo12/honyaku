@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Here's what will happen next:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135054Z" creationid="nakahodo" creationdate="20171230T135054Z">
+        <seg>"Here's what will happen next:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"How hard can it be to clear your charters of bandits, Juel shortage, disrepair, vermin, blight, and famine?" he asks in a letter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T082057Z" creationid="nakahodo" creationdate="20171230T082057Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080118Z" creationid="nakahodo" creationdate="20171230T074702Z">
         <seg>「我はお前達がグリーングリーの未来であると考える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"I could kill you where you stand, but I'm a compassionate king.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135020Z" creationid="nakahodo" creationdate="20171230T135020Z">
+        <seg>"I could kill you where you stand, but I'm a compassionate king.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10375,6 +10391,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plus, I need one of your bodies if I'm going to live another 400 years."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135047Z" creationid="nakahodo" creationdate="20171230T135047Z">
+        <seg>Plus, I need one of your bodies if I'm going to live another 400 years."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Point Tile of value 1 from the general supply and put it behind your player screen, to score at the end of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173106Z" creationid="aorin" creationdate="20171212T173106Z">
@@ -12325,6 +12349,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King, as ancient as he is, swats aside your swords like they're toothpicks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135301Z" creationid="nakahodo" creationdate="20171230T135017Z">
+        <seg>永遠なる王は、彼と同じくらい古い、爪楊枝のような剣であなたの脇を刺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
@@ -12725,6 +12757,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
         <seg>不死身なる永遠の王は、久遠の都から遠く離れた場所に新しい村を作るため、グリーングリーから6人の市民を選択しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The king looms over you, his kindly demeanor gone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135031Z" creationid="nakahodo" creationdate="20171230T135031Z">
+        <seg>The king looms over you, his kindly demeanor gone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15858,6 +15898,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
         <seg>自身の派閥ボードに建物を戻すことによって勝利点は失わず、以前に派閥ボードに戻した建物を建築した時はまた勝利点を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have 1 month to make your final impression.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T135155Z" creationid="nakahodo" creationdate="20171230T135155Z">
+        <seg>You have 1 month to make your final impression.</seg>
       </tuv>
     </tu>
     <tu>
