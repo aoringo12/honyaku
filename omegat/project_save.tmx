@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"How hard can it be to clear your charters of bandits, Juel shortage, disrepair, vermin, blight, and famine?" he asks in a letter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T082057Z" creationid="nakahodo" creationdate="20171230T082057Z">
+        <seg>「盗賊、燃料不足、破損、害虫、食物の成長不良、飢餓への対処がどれだけ難しいのか教えてくれないか？」と手紙にて訪ねてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I consider you the future of Greengulfy.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080118Z" creationid="nakahodo" creationdate="20171230T074702Z">
@@ -1155,6 +1163,15 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T082639Z" creationid="nakahodo" creationdate="20171209T082639Z">
         <seg>ロケーション詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>140</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080444Z" creationid="nakahodo" creationdate="20171230T080444Z">
+        <seg>140
+王の警告</seg>
       </tuv>
     </tu>
     <tu>
@@ -5367,6 +5384,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each inactive charter, place a card in their Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080259Z" creationid="nakahodo" creationdate="20171230T080259Z">
+        <seg>各非アクティブチャーターは、そのチャーターチェストに1枚入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each inactive charter, place a random card in their Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080029Z" creationid="nakahodo" creationdate="20171230T080029Z">
@@ -7616,6 +7641,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101139Z" creationid="aorin" creationdate="20171212T101124Z">
         <seg>アクション1つのみでできますが、報酬ポイントを得るためには最も費用がかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It shows the calculation that will be used at the end of the campaign to determine the overall winner Keep these in your charter chest until the end of the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080243Z" creationid="nakahodo" creationdate="20171230T080243Z">
+        <seg>これはキャンペーン終了時に、ゲーム全体の勝利者を決定するために使用する計算が示されています。キャンペーン終了まで、あなたのチャーターチェストにこれを保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,6 +11733,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T233137Z" creationid="nakahodo" creationdate="20171229T233137Z">
         <seg>永遠なる王は、あなたの村が他の開拓地に比べて、とてもうまく運営していることを喜んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King Is furious that you could not accomplish the simplest of tasks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T080555Z" creationid="nakahodo" creationdate="20171230T080555Z">
+        <seg>永遠なる王は最も簡単な仕事すらできないことに激怒しています。</seg>
       </tuv>
     </tu>
     <tu>
