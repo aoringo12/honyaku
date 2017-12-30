@@ -1354,6 +1354,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>152</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142705Z" creationid="nakahodo" creationdate="20171230T142705Z">
+        <seg>152
+セットアップ：チャーター選択と空島</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
@@ -4157,6 +4166,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETERMINE CHARTER:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142720Z" creationid="nakahodo" creationdate="20171230T142720Z">
+        <seg>チャーターの決定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVELOPMENT</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073316Z" creationid="nakahodo" creationdate="20171209T073316Z">
@@ -4945,6 +4962,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player must place their selected tiles on top of separate buildings or empty plots in their charter (each charter still has a maximum of 6 buildings).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144818Z" creationid="nakahodo" creationdate="20171230T144818Z">
+        <seg>各プレイヤーは、自身の選択した空島タイル二枚を、自身のチャーターの個別の建物の上[または]空いた区画らに配置する必要があります（各チャーターは未だ最大建物6つまでもてます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player names their persona (write on the card)-this is who you are for the campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T131429Z">
@@ -4989,6 +5014,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043419Z" creationid="aorin" creationdate="20171213T043319Z">
         <seg>各プレイヤースクリーンは3種の異なるタイルのスペースを1つずつのみ、持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player selects 2 tiles and discards the others.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142836Z" creationid="nakahodo" creationdate="20171230T142836Z">
+        <seg>各プレイヤーは2枚タイルを選択肢、他を捨て札とします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9389,6 +9422,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PLACE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142840Z" creationid="nakahodo" creationdate="20171230T142840Z">
+        <seg>配置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PLANS/BUILDINGS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T113218Z" creationid="nakahodo" creationdate="20171211T113218Z">
@@ -11067,6 +11108,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll the Charterstone to randomly determine your charter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142755Z" creationid="nakahodo" creationdate="20171230T142755Z">
+        <seg>チャーターストーンをロールして、あなたのチャーターをランダムに決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll​ ​dice​ ​and​ ​count​ ​hits​ to both attacker and defender, who can modify hits with other effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221726Z" creationid="aorin" creationdate="20171215T221726Z">
@@ -11159,6 +11208,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000535Z" creationid="aorin" creationdate="20171229T000535Z">
         <seg>得点計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SELECT:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142801Z" creationid="nakahodo" creationdate="20171230T142801Z">
+        <seg>選択：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11339,6 +11396,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle all sky island tiles and deal 4 at random to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142824Z" creationid="nakahodo" creationdate="20171230T142824Z">
+        <seg>全ての空島タイルをシャッフルして、各プレイヤーにランダムに4枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the
 9 Country Tokens
 with special actions
@@ -11479,6 +11544,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T091945Z" creationid="aorin" creationdate="20171116T091945Z">
         <seg>ここまでは順調です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So you decide to let the people of your village (now the new Eternal City) elect a new king.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142529Z" creationid="nakahodo" creationdate="20171230T142529Z">
+        <seg>なので、あなたは村（今はもう、新たなる久遠の都）の人々から新たなる王を選出することにしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16215,6 +16288,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will spend the final month of the campaign gathering support ft'om the villagers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142642Z" creationid="nakahodo" creationdate="20171230T142642Z">
+        <seg>あなたは村人たちから支援を受け、キャンペーン最後の月を過ごすでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will start out with access to only a small portion of the content in this box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141203Z" creationid="nakahodo" creationdate="20171218T141203Z">
@@ -18317,6 +18398,22 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T100648Z" creationid="nakahodo" creationdate="20171229T100648Z">
         <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がない場合、木箱Nを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>一1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142708Z" creationid="nakahodo" creationdate="20171230T142708Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>一2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T142800Z" creationid="nakahodo" creationdate="20171230T142800Z">
+        <seg>2.</seg>
       </tuv>
     </tu>
     <tu>
