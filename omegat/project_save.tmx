@@ -1107,6 +1107,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>137</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T071503Z" creationid="nakahodo" creationdate="20171230T071453Z">
+        <seg>137
+重荷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -5821,6 +5830,16 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092538Z" creationid="aorin" creationdate="20171116T092538Z">
         <seg>彼は目を閉じ、自身のロースターに手を入れ・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>He demands to know the player who is holding back the rest of the village -- it is only with that knowledge that he'll continue to consider your village as a candidate for the Eternal City.
+彼は要求する。</note>
+      <tuv lang="EN-US">
+        <seg>He demands to know the player who is holding back the rest of the villageーitis only with that knowledge that he'll continue to consider your village as a candidate for the Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T073523Z" creationid="nakahodo" creationdate="20171230T073523Z">
+        <seg>王は村の成長を阻害しているプレイヤーを知ろうとします――久遠の都の候補として村をみなしたいという認識のみがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11645,16 @@ consecutively pass, ending the phase.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>The Forever King is furious that despite all his help, your village has failed to perform well.
+永遠なる王は憤慨する。彼の補助にも関わらず、あなたの村がうまくいかないことに。</note>
+      <tuv lang="EN-US">
+        <seg>The Forever King is ft//'ious that despite all his help、yourvillage has Jailed to pe,fi加)1 well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T072006Z" creationid="nakahodo" creationdate="20171230T071454Z">
+        <seg>永遠なる王は、手厚い補助にも関わらず、あなたたちの村がうまくいかない事に憤慨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The Forever King is happy to hear that you want to support the Et􀃍rMI City with raw resources.</seg>
       </tuv>
@@ -13298,6 +13327,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They place their big worker meeple in the Archive and gain the spectral worker form tickbox ii.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T071345Z" creationid="nakahodo" creationdate="20171230T071345Z">
+        <seg>そのプレイヤーの大きなワーカーミープルをアーカイブに入れ、タックボックスiiから幽霊ワーカーを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They should be in numerical order as noted by a number in the bottom right of the card at the beginning of each deck (there are gaps between certain types of cards for production reasons—that's normal).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141706Z" creationid="nakahodo" creationdate="20171218T141544Z">
@@ -14838,6 +14875,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011557Z" creationid="aorin" creationdate="20171229T011557Z">
         <seg>あなたのチャーターが拡張への永遠なる王からの絶え間ぬ圧力でいっぱいになり、村の周囲を回る空島を利用する計画を考案します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without warning, that player's spirit is forcibly removed from their body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T071255Z" creationid="nakahodo" creationdate="20171230T071255Z">
+        <seg>警告なしに、そのプレイヤーの魂は身体から強制的に引き抜かれます。</seg>
       </tuv>
     </tu>
     <tu>
