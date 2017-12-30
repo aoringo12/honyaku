@@ -1244,6 +1244,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>146</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T094222Z" creationid="nakahodo" creationdate="20171230T094222Z">
+        <seg>146
+永遠なる王への面会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
@@ -4136,6 +4145,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite your villa9e's success, you've drawn the king's ire for far too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T093527Z" creationid="nakahodo" creationdate="20171230T093440Z">
+        <seg>あなたの村の成功にも関わらず、あまりにも長い間、王の怒りをかってしまいました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Despite your village's relative isolation, word travels fast.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101541Z" creationid="aorin" creationdate="20171219T101541Z">
@@ -6079,6 +6096,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T093302Z" creationid="nakahodo" creationdate="20171230T073523Z">
         <seg>王は村の成長を阻害しているプレイヤーを知ろうとします――そこには、村を久遠の都の候補にしようという認識しかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He has taken it upon himself to wrest control of the village from you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T093827Z" creationid="nakahodo" creationdate="20171230T093827Z">
+        <seg>王はあなたたちから村の支配を奪うために彼自身がその上に立った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10427,6 +10452,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read this card to all players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T094117Z" creationid="nakahodo" creationdate="20171230T094117Z">
+        <seg>全てのプレイヤーたちへと、このカードを読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read this card to all players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000758Z" creationid="nakahodo" creationdate="20171224T223141Z">
@@ -11302,6 +11335,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soon they're standing to full attention at key points of entry and exit for each charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T094022Z" creationid="nakahodo" creationdate="20171230T094022Z">
+        <seg>すぐに彼らは各チャーターの出入り口の重要な場所を警戒し始める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -12067,6 +12108,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T151701Z" creationid="nakahodo" creationdate="20171224T151332Z">
         <seg>永遠なる王はあなたが様々なペルソナ（役割）を使うことを嬉しそうに観察しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King's royal guards overpower your meek resistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T093906Z" creationid="nakahodo" creationdate="20171230T093906Z">
+        <seg>永遠なる王のロイヤルガードは、あなたたちのささやかな抵抗を圧倒します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13489,6 +13538,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There they remain, a constant reminder of your helplessness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T094106Z" creationid="nakahodo" creationdate="20171230T094106Z">
+        <seg>彼らの存在は、あなたたちの無力さを絶え間なく思い出させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There will be various ways to increase your capacity throughout the campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205148Z" creationid="nakahodo" creationdate="20171224T205148Z">
@@ -14156,6 +14213,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043746Z" creationid="aorin" creationdate="20171213T043746Z">
         <seg>タイルはタイル交換アクションヲ選択することにより、交換できます（ペース10参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time after time you've disappointed him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T093523Z" creationid="nakahodo" creationdate="20171230T093523Z">
+        <seg>あなたが彼を失望させた後。</seg>
       </tuv>
     </tu>
     <tu>
