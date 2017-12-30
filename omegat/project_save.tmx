@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Despite my better judgment, you are the future of Greengully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T074446Z" creationid="nakahodo" creationdate="20171230T073800Z">
+        <seg>「我が</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"It is no ordinary stone that binds you to this village, of course," he whispers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004654Z" creationid="aorin" creationdate="20171229T004654Z">
@@ -1116,6 +1124,15 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>138</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T073548Z" creationid="nakahodo" creationdate="20171230T073527Z">
+        <seg>138
+運命の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14
 LOCATIONS IN DETAIL</seg>
       </tuv>
@@ -1693,6 +1710,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
         <seg>空き地は道によってつながり他の空き地全てと隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A courier arrives with a royal decree ft'om the Forever King.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T073717Z" creationid="nakahodo" creationdate="20171230T073532Z">
+        <seg>特使が永遠の王から勅令を受けて到着します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12056,6 +12081,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T141055Z" creationid="nakahodo" creationdate="20171224T141055Z">
         <seg>ゲームはすぐに非アクティブチャーターを成長させる方法を紹介しますが、これらチャーターを人間プレイヤーが動かすようにしたい場合は、オートマルールブックを読んで使用しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The greatest of you will be selected to carry on my legacy based on the enclosed parameters."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T073908Z" creationid="nakahodo" creationdate="20171230T073908Z">
+        <seg>The greatest of you will be selected to carry on my legacy based on the enclosed parameters."</seg>
       </tuv>
     </tu>
     <tu>
