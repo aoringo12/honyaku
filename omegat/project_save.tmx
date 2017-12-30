@@ -1345,6 +1345,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>151</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T140352Z" creationid="nakahodo" creationdate="20171230T140352Z">
+        <seg>151
+輝かしい勝利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
@@ -12753,6 +12762,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The guards are helpless to react as your group converges upon the Charterstone, smashing it to bits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T141521Z" creationid="nakahodo" creationdate="20171230T140705Z">
+        <seg>あなたのグループがチャーターストーンに集まるのに対応するのにガードは無力で、それは粉々に砕けました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The guards unload a number of mysterious crates and forbid you to open any of them, except for the one labeled "Scriptorium." Open it now.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T125606Z" creationid="nakahodo" creationdate="20171224T123559Z">
@@ -12781,6 +12798,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133804Z" creationid="nakahodo" creationdate="20171230T133804Z">
         <seg>王は力でみなぎっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The king stands tries to stand, but the expression on his face says that it's too late.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T140916Z" creationid="nakahodo" creationdate="20171230T140916Z">
+        <seg>The king stands tries to stand, but the expression on his face says that it's too late.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15688,8 +15713,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You are completely outmatched by the sheer numbe1 of guards, spiteful companions, and even each other.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T134849Z" creationid="nakahodo" creationdate="20171230T134849Z">
-        <seg>あなたはガードたちの数にも悪意ある仲間にも、そして互いにも、完全に超えています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T140912Z" creationid="nakahodo" creationdate="20171230T134849Z">
+        <seg>あなたはガードにも、悪意ある仲間にも完全に数的に上回られ、完膚なきまでに押さえつけられた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17491,6 +17516,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T191202Z" creationid="nakahodo" creationdate="20171218T191052Z">
         <seg>•グランドスタンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T140320Z" creationid="nakahodo" creationdate="20171230T140320Z">
+        <seg>•指標：</seg>
       </tuv>
     </tu>
     <tu>
