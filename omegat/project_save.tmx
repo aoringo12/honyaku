@@ -2775,6 +2775,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And did you recently choose a rebel persona?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T132842Z" creationid="nakahodo" creationdate="20171230T132818Z">
+        <seg>最近、反抗的な役割を選択しましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -5352,6 +5360,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
         <seg>プレイヤーの近所に表向きになっているプランカードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factor in cards for both active and inactive players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T132928Z" creationid="nakahodo" creationdate="20171230T132928Z">
+        <seg>アクティブ、非アクティブプレイヤー両方のカードを考慮します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14924,6 +14940,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Were you kind to your companions when they were vulnerable?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T132824Z" creationid="nakahodo" creationdate="20171230T132756Z">
+        <seg>仲間が不安定な時に、親切でありましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What You Need to Play</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132545Z" creationid="aorin" creationdate="20171215T132545Z">
@@ -15520,6 +15544,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134717Z" creationid="aorin" creationdate="20171215T134717Z">
         <seg>ウッドランド連合のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X 2 = TOTAL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133020Z" creationid="nakahodo" creationdate="20171230T133020Z">
+        <seg>合計：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16310,6 +16342,16 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213644Z" creationid="nakahodo" creationdate="20171224T213425Z">
         <seg>露出している部分のテキストを読みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>happy kings (り)： X 1 = kind to companions (●)： _x3 = rebel personas:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133015Z" creationid="nakahodo" creationdate="20171230T133015Z">
+        <seg>幸福な王（●）：
+コンパニオンへの親切（●）：
+反抗的役割</seg>
       </tuv>
     </tu>
     <tu>
@@ -17343,6 +17385,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123655Z" creationid="aorin" creationdate="20171212T123411Z">
         <seg>•誰かが手になにも持っていなかった場合（つまりクイーンになにも提供しなかった場合）、そのプレイヤーたちは直ちに5ペナルティポイントを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If the total is equal to or less than 23, open crate U.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133043Z" creationid="nakahodo" creationdate="20171230T133043Z">
+        <seg>•合計が23以下の場合、木箱Uを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If the total is greater than 23, open crate V.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133607Z" creationid="nakahodo" creationdate="20171230T133607Z">
+        <seg>•合計が23を超えている場合、木箱Vを開きます。</seg>
       </tuv>
     </tu>
     <tu>
