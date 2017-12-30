@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(1) Total number of tokens on the reputation track, (2) total number of tokens on the quota chart, (3) total number of all components remaining in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151319Z" creationid="nakahodo" creationdate="20171230T151319Z">
+        <seg>（1）評判トラックの合計トークンの数、（2）ノルマチャートのトークンの合計数、（3）自身の個人サプライに残っている全てのコンポーネントの合計数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird cards are wild, so you can always gift bird cards.) Then, for each card you give, you may take one item from above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082657Z" creationid="aorin" creationdate="20171216T082657Z">
@@ -1394,6 +1402,24 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150117Z" creationid="nakahodo" creationdate="20171230T150117Z">
         <seg>155
 建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>156</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150510Z" creationid="nakahodo" creationdate="20171230T150510Z">
+        <seg>156
+木箱の開放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>157</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151115Z" creationid="nakahodo" creationdate="20171230T151115Z">
+        <seg>157
+ゲーム終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -6067,6 +6093,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain VP, advance the progress token, and place the constructed building card in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151009Z" creationid="nakahodo" creationdate="20171230T151009Z">
+        <seg>VPを得て、進展トークンを進め、アーカイブに建築された建物カードを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain both benefits in 2-3 player games and either benefit (choose each time income is triggered} in 4-6 player games.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234512Z" creationid="aorin" creationdate="20171228T234512Z">
@@ -7951,6 +7985,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In player order, gain VP for reputation and persona cards with a.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151207Z" creationid="nakahodo" creationdate="20171230T151207Z">
+        <seg>プレイヤー順に、評判と●のある役割カード1枚以上からVPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In reverse player order, gain any bonuses for completed rows of glory on your Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163453Z" creationid="aorin" creationdate="20171228T163453Z">
@@ -9103,6 +9145,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPTIONAL UNLOCKING:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151025Z" creationid="nakahodo" creationdate="20171230T151025Z">
+        <seg>開放の選択：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OPTlONAL CONSTRUCTlON:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150230Z" creationid="nakahodo" creationdate="20171230T150230Z">
@@ -9702,6 +9752,14 @@ at the Builder.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175203Z" creationid="nakahodo" creationdate="20171218T175203Z">
         <seg>コスト（建物の左下）を、あなたの個人サプライから共通サプライへと支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay the cost indicated on the building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150831Z" creationid="nakahodo" creationdate="20171230T150831Z">
+        <seg>建物に記述されたコストを支払います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10933,6 +10991,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to the Index Guide to determine the components to extract.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150939Z" creationid="nakahodo" creationdate="20171230T150939Z">
+        <seg>引き出すコンポーネントを決定するためにインデックスガイドを参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refill the Plan Supply to three face up cards from the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030415Z" creationid="aorin" creationdate="20171212T025226Z">
@@ -12093,6 +12159,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113350Z" creationid="nakahodo" creationdate="20171001T113350Z">
         <seg>研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIEBREAKERS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151235Z" creationid="nakahodo" creationdate="20171230T151235Z">
+        <seg>タイブレイカー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13597,6 +13671,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223646Z" creationid="nakahodo" creationdate="20171224T223646Z">
         <seg>このゲームの最も勝利点を持つプレイヤー（たち）は、自身のチャーターチェストの（●）を塗りつぶします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player with the most victory points wins the game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151227Z" creationid="nakahodo" creationdate="20171230T151227Z">
+        <seg>最も勝利点を持つプレイヤーがゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15179,6 +15261,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Charterstone building (or any building with ● as the benefit) to access the content in a "crate" on 1 of your constructed building cards (口)．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T150733Z" creationid="nakahodo" creationdate="20171230T150733Z">
+        <seg>あなたの建築された建物カード（●）の1枚にある木箱の内容にアクセスするために、チャーターストーン建物（または効果に●がある任意の建物）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the Grandstand (or any building with ⑥ as the benefit) to score completed objectiveふ</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095722Z" creationid="aorin" creationdate="20171219T095722Z">
@@ -15625,6 +15715,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the progress token advances to the O space, finish the current round, then the game ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151126Z" creationid="nakahodo" creationdate="20171230T151126Z">
+        <seg>進展トークンが●のスペースに進んだ時、現在のラウンドが終了し、その後、ゲームが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When there are no free spaces available to promote any of your Pixies to and you don’t have an Apple to demote an opponent’s Pixie, you lose the remaining promotion steps and the offered food isn’t refunded.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T154144Z" creationid="aorin" creationdate="20171212T154144Z">
@@ -15740,6 +15838,14 @@ be added to the Blend Slate from the Fields.</seg>
         <seg>Whenever a player begins their turn with o influence tokens, they must advance the P「ogress token 1 space before taking their turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112048Z" creationid="aorin" creationdate="20171219T112048Z">
+        <seg>プレイヤー1人が0影響トークンで自身のターンを開始するたびに、彼は自身のターンを行う前に1スペース進展トークンを進める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a player begins their turn with o influence tokens, they must advance the progress token 1 space before taking their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151136Z" creationid="nakahodo" creationdate="20171230T151136Z">
         <seg>プレイヤー1人が0影響トークンで自身のターンを開始するたびに、彼は自身のターンを行う前に1スペース進展トークンを進める必要があります。</seg>
       </tuv>
     </tu>
@@ -16319,6 +16425,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150501Z" creationid="nakahodo" creationdate="20171230T150501Z">
         <seg>あなたは建物を建設しないとしても、進展トークンを進めるために記述された建設コストと影響とクーンを支払い、VPを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may pay the listed cost to advance the progress token and gain VP even if you don't unlock a crate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151103Z" creationid="nakahodo" creationdate="20171230T151103Z">
+        <seg>あなたは木箱1つを開放しないとしても、進展トークンを進めるために記述されたコストを支払い、VPを得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18461,6 +18575,30 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>● 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151143Z" creationid="nakahodo" creationdate="20171230T151143Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151211Z" creationid="nakahodo" creationdate="20171230T151207Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>● 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151229Z" creationid="nakahodo" creationdate="20171230T151229Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>● 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223652Z" creationid="nakahodo" creationdate="20171224T223652Z">
@@ -18649,6 +18787,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T100648Z" creationid="nakahodo" creationdate="20171229T100648Z">
         <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がない場合、木箱Nを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ー3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151019Z" creationid="nakahodo" creationdate="20171230T151019Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
