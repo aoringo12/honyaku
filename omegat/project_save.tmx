@@ -8,8 +8,16 @@
       <tuv lang="EN-US">
         <seg>"Despite my better judgment, you are the future of Greengully.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T074446Z" creationid="nakahodo" creationdate="20171230T073800Z">
-        <seg>「我が</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T074933Z" creationid="nakahodo" creationdate="20171230T073800Z">
+        <seg>「我の想定とは異なるが、お前たちはグリーングリーの未来となるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"I consider you the future of Greengulfy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T074702Z" creationid="nakahodo" creationdate="20171230T074702Z">
+        <seg>"I consider you the future of Greengulfy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12087,8 +12095,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The greatest of you will be selected to carry on my legacy based on the enclosed parameters."</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T073908Z" creationid="nakahodo" creationdate="20171230T073908Z">
-        <seg>The greatest of you will be selected to carry on my legacy based on the enclosed parameters."</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T075652Z" creationid="nakahodo" creationdate="20171230T073908Z">
+        <seg>最も秀でたものが、成果に基づき我が遺産を引き継ぐことになるだろう」</seg>
       </tuv>
     </tu>
     <tu>
