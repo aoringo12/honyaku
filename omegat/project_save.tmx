@@ -1165,6 +1165,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1Arrival</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T065117Z" creationid="nakahodo" creationdate="20171230T065117Z">
+        <seg>1Arrival</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122746Z" creationid="nakahodo" creationdate="20171224T122746Z">
@@ -6055,6 +6063,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T065051Z" creationid="nakahodo" creationdate="20171230T065051Z">
         <seg>Identify the active player with the lCehaasrtt ceursmtounlaet)i.v We gitlhooryu (ti fw tahrenrien'gs ,a t htiaet, prolally tehre's spirit is forcibly removed from their body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify the active player with the least cumulative glory (if there's a tie, roll the Charterstone).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T071212Z" creationid="nakahodo" creationdate="20171230T071212Z">
+        <seg>累積栄光が最も少ないプレイヤーを確認（タイの場合、チャーターストーンをロールして決定します）</seg>
       </tuv>
     </tu>
     <tu>
