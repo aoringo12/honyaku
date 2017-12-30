@@ -1664,11 +1664,30 @@ Helping Hands
       <tuv lang="EN-US">
         <seg>217 have at least 1 of each resource</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155335Z" creationid="nakahodo" creationdate="20171230T155335Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155342Z" creationid="nakahodo" creationdate="20171230T155335Z">
         <seg>217
 Diversify Production
-多様化する生産
+多様化する生産品
 各リソースを少なくとも1つずつ持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>218 have at least 3 influence tokens on the reputation track</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155552Z" creationid="nakahodo" creationdate="20171230T155457Z">
+        <seg>218
+Build Your Reputation
+地盤固め
+評判トラックに少なくとも影響トークンを3つ持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>219</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155620Z" creationid="nakahodo" creationdate="20171230T155458Z">
+        <seg>219Gardener</seg>
       </tuv>
     </tu>
     <tu>
@@ -1677,6 +1696,48 @@ Diversify Production
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164923Z" creationid="nakahodo" creationdate="20171224T214011Z">
         <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>220 score at least 3 objectives (before scoring this one)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155758Z" creationid="nakahodo" creationdate="20171230T155603Z">
+        <seg>220
+Overachiever
+超越者
+少なくとも3つの目標を得点する（これを得点する前に）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>221 have 3 or fewer influence tokens (before placing 1 on this card)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155924Z" creationid="nakahodo" creationdate="20171230T155924Z">
+        <seg>221
+Spread Your Influence
+あなたの影響を広げる
+3以下の影響トークンを持つ（このカードに配置する前に）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>222 have at least 4 different types of advancement cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T160143Z" creationid="nakahodo" creationdate="20171230T160143Z">
+        <seg>222
+Card Mogul
+カード長者
+少なくとも4種類の発展カードを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>223</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T160155Z" creationid="nakahodo" creationdate="20171230T160146Z">
+        <seg>223
+Ambassador</seg>
       </tuv>
     </tu>
     <tu>
@@ -2732,6 +2793,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T144705Z" creationid="nakahodo" creationdate="20171224T144705Z">
         <seg>最初の木箱が開放された後、インデックスからカード14を引き出します（このカードのシールを剥がさずにアーカイブへと入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After using a building with a pumpkin cost, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T155548Z" creationid="nakahodo" creationdate="20171230T155548Z">
+        <seg>かぼちゃをコストにする建物1つを使用した後、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11256,6 +11325,14 @@ in a Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put the others back in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T160310Z" creationid="nakahodo" creationdate="20171230T160310Z">
+        <seg>他のカードを任意の順番で戻す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put the remaining 4 back into
 the game box.</seg>
       </tuv>
@@ -16418,6 +16495,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073427Z" creationid="aorin" creationdate="20171216T073427Z">
         <seg>あなたの現在の協力スペースから別の協力スペースに接続される黒い矢印に記述されたタスクを達成すると、記述された勝利点を得点し、接続されたスペースに協力マーカーを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you gain an objective card, select it from the top 3 cards of the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T160303Z" creationid="nakahodo" creationdate="20171230T160148Z">
+        <seg>あなたが目標カード1枚を得るたびに、デッキの上3枚から選択してから得るようにする。</seg>
       </tuv>
     </tu>
     <tu>
