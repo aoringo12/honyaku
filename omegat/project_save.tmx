@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I know how hard it is to clear the Eternal City of bandits, fuel shortage, disrepai1, vermin, blight, and famine," he writes in a letter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083518Z" creationid="nakahodo" creationdate="20171230T083420Z">
+        <seg>「久遠の都の盗賊、燃料不足、破損、害虫、食物の成長不良、飢餓への対処がどれだけ難しいのか私は知っている」と手紙には書かれていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"It is no ordinary stone that binds you to this village, of course," he whispers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004654Z" creationid="aorin" creationdate="20171229T004654Z">
@@ -1189,6 +1197,15 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T083139Z" creationid="nakahodo" creationdate="20171230T083109Z">
         <seg>141
 王の法令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>142</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083646Z" creationid="nakahodo" creationdate="20171230T083646Z">
+        <seg>142
+王室海軍</seg>
       </tuv>
     </tu>
     <tu>
@@ -3646,6 +3663,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearly the king is irate thatyo11 couldn't keep his candle burning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084221Z" creationid="nakahodo" creationdate="20171230T084221Z">
+        <seg>明らかに、キャンドルの炎を維持できなかったことに王は激怒しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clearthe board of remaining tokens and return all peril tokens to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173901Z" creationid="aorin" creationdate="20171228T173901Z">
@@ -5909,6 +5934,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guards pour out of the hold, quickly setting up a perimeter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084043Z" creationid="nakahodo" creationdate="20171230T084043Z">
+        <seg>貨物室からガードたちが雪崩出て、防御線を迅速に構築しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T233739Z" creationid="aorin" creationdate="20171228T233739Z">
@@ -7662,6 +7695,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It sets down just outside the village limits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083848Z" creationid="nakahodo" creationdate="20171230T083848Z">
+        <seg>村の境界外にそれは降りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It shows the calculation that will be used at the end of the campaign to determine the overall winner Keep these in your charter chest until the end of the campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080243Z" creationid="nakahodo" creationdate="20171230T080243Z">
@@ -7802,6 +7843,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080004Z" creationid="nakahodo" creationdate="20171230T080004Z">
         <seg>キャンペーン終了まで、あなたのチャーターチェストにこれを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep this candle burning brightly throughout the next month as a guiding light for my royal convoy."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083522Z" creationid="nakahodo" creationdate="20171230T083522Z">
+        <seg>我が王室船団の灯台として、次の月の間、このキャンドルを明るく燃やし続けるのだ」</seg>
       </tuv>
     </tu>
     <tu>
@@ -8735,6 +8784,14 @@ bean spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T122138Z" creationid="nakahodo" creationdate="20171001T122138Z">
         <seg>プレイヤー1人が自身のロースターを混ぜ、ランダムに豆1つを引いて、このブレンドスペースにある豆スペース5つのうち1つに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One rainy evening you look out the window to see a massive zeppe/111 emerging through the darkness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083818Z" creationid="nakahodo" creationdate="20171230T083818Z">
+        <seg>雨の日の夜に、闇を抜ける巨大なツェッペリンをあなたは見ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11820,8 +11877,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Forever King is deeply satisfied that you were able to rid your charters of peril.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083115Z" creationid="nakahodo" creationdate="20171230T083115Z">
-        <seg>The Forever King is deeply satisfied that you were able to rid your charters of peril.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20171230T083354Z" creationid="nakahodo" creationdate="20171230T083115Z">
+        <seg>永遠なる王はチャーターらの危険を取り除くことができてとても満足しています。</seg>
       </tuv>
     </tu>
     <tu>
