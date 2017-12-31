@@ -4571,6 +4571,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any player may place a regular worker on a building cannot occupied be by a bumped-they minion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235039Z" creationid="aorin" creationdate="20171231T235039Z">
+        <seg>任意のプレイヤーはミニオン1体で占領されている建物に基本ワーカーを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any supporters left in forest nation boxes at the end of Daylight remain for future turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053244Z" creationid="aorin" creationdate="20171216T053244Z">
@@ -6281,6 +6289,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard all private objective cards at end of game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234900Z" creationid="aorin" creationdate="20171231T234900Z">
+        <seg>全ての個人目標カードはゲーム終了時に捨て札にされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard down to your hand limit of four cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002820Z" creationid="aorin" creationdate="20171216T002820Z">
@@ -6389,6 +6405,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
         <seg>開始手札のドロー：カードのデッキから特別勝利条件カード4枚を取り除き、そばに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Due to the village's rapid expansion, extra help is needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235034Z" creationid="aorin" creationdate="20171231T235034Z">
+        <seg>村の急速な拡張により、追加の援助が必要になるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7387,6 +7411,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T131504Z" creationid="nakahodo" creationdate="20171224T131504Z">
         <seg>インデックスからカード4を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract card 400 (your first guidepost) from the Index and read the exposed text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234817Z" creationid="aorin" creationdate="20171231T234817Z">
+        <seg>インデックスからカード400（あなたの最初の指標）を引き出し、露出しているテキストを読みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10434,6 +10466,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be placed on an empty plot on any building with no tokens on it (but not a basic resource building).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235015Z" creationid="aorin" creationdate="20171231T235015Z">
+        <seg>シールは、空いた区画1つ[または]なにもトークンが配置されていない（そして基本リソース建物ではない）建物に貼り付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be placed on an empty plot orany building with no tokens on it (but not a basic resource building).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T170938Z" creationid="aorin" creationdate="20171228T170938Z">
@@ -11506,6 +11546,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131357Z" creationid="nakahodo" creationdate="20171213T131357Z">
         <seg>提供フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On buildings like the Botanical Gardens and the Pavilion, you may gain the top card of the objective deck (not face-up cards on the objective mat).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234854Z" creationid="aorin" creationdate="20171231T234854Z">
+        <seg>植物園やパビリオンのような建物にて、目標デッキの一番上のカード1枚を得ることができます（目標マットの表向きではないカード）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18577,6 +18625,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use an income building, the influence token you spend is placed on the octagonal icon on the building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234903Z" creationid="aorin" creationdate="20171231T234903Z">
+        <seg>あなたが収入建物を使用する時、あなたが消費する影響トークンは建物の八角形アイコンに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you use the Shoemaker, select another persona card from your Charter Chest and activate it(in addition to other perosna cards youre using game)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235358Z" creationid="aorin" creationdate="20171228T235358Z">
@@ -18637,6 +18693,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever income is activated (usually on the Progress track), gain the benefits indicated in the upper right of each income building where you have an influence token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234944Z" creationid="aorin" creationdate="20171231T234944Z">
+        <seg>収入が発動するたびに（通常は進展トラックにより）、あなたの影響トークンを持つ収入建物ごとに、その右上に示される利益を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19691,6 +19755,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You recruit some minions from the area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235026Z" creationid="aorin" creationdate="20171231T235026Z">
+        <seg>あなたは地域から何人かのミニオンをリクルートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You remain a Nemesis.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073908Z" creationid="aorin" creationdate="20171216T073908Z">
@@ -20271,6 +20343,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210501Z" creationid="aorin" creationdate="20171215T210501Z">
         <seg>あなたが鳥カードを消費するよう指示された場合、あなたは別スートのカードを変わりに消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if you constructa building on top of another building, only the VP shown on the newer building (0) counts at end of campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235024Z" creationid="aorin" creationdate="20171231T235024Z">
+        <seg>あなたが別の建物の上に建物を建築した場合、新しい建物に示されたVP（○）のみを、キャンペーン終了時に数えます。</seg>
       </tuv>
     </tu>
     <tu>
