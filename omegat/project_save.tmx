@@ -2548,6 +2548,23 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>328 have at least 3 friend cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205022Z" creationid="aorin" creationdate="20171231T205022Z">
+        <seg>328 - Brewer
+少なくとも3枚のフレンドカードを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>329</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205033Z" creationid="aorin" creationdate="20171231T205033Z">
+        <seg>329 - Best Friends Forever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -17509,6 +17526,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205029Z" creationid="aorin" creationdate="20171215T205029Z">
         <seg>あなたが何らかの方法で建物を建築するたびに、そこに建築する空き地のスロットが開いている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you bump an opponent's worker, before you use the building, you may regain 1 influence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205109Z" creationid="aorin" creationdate="20171231T205109Z">
+        <seg>あなたが対戦相手のワーカー1体を押し出すたびに、</seg>
       </tuv>
     </tu>
     <tu>
