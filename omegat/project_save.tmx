@@ -1064,6 +1064,17 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Chartersts one token (●) 1 progress (●) 4 plastic bags Extract card 3 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234206Z" creationid="aorin" creationdate="20171231T234206Z">
+        <seg>•1チャーターストーン（●）
+•1進行トークン（●）
+•4ビニール袋
+インデックスからカード3を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Food Tile, 1 Permanent Ability Tile and 1</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043334Z" creationid="aorin" creationdate="20171213T043334Z">
@@ -1311,6 +1322,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>14 constructing a Building</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234301Z" creationid="aorin" creationdate="20171231T234301Z">
+        <seg>14
+建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>140</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080444Z" creationid="nakahodo" creationdate="20171230T080444Z">
@@ -1396,14 +1416,6 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T134014Z" creationid="nakahodo" creationdate="20171230T134014Z">
         <seg>149
 永遠なる王との対峙</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>15</seg>
-      </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171211T110848Z" creationid="nakahodo" creationdate="20171211T110848Z">
-        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,6 +3914,14 @@ their own Research Lab Ability Tracks!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After Game 11 extract card 17 from the Index (place this card in the Archive without removing the sticker).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234411Z" creationid="aorin" creationdate="20171231T234411Z">
+        <seg>ゲーム1の後、インデックスからカード17を引き出します（このカードを、シールを剥がさずにアーカイブに入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a long month, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T175929Z" creationid="nakahodo" creationdate="20171229T175929Z">
@@ -4887,6 +4907,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of each game, gain 1 glory(*) per 10 VP earned that game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234432Z" creationid="aorin" creationdate="20171231T234432Z">
+        <seg>各ゲームの終了にて、そのゲームで得られた10VPごとに1栄光を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each round the Pixie Queen punishes those who have not worked hard enough to please her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
@@ -5143,6 +5171,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224033Z" creationid="nakahodo" creationdate="20171224T224033Z">
         <seg>あなたのキャパシティにもとづいて、幾つかのコンポーネントを保持し、残りを共通サプライに破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Resource Buildings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234223Z" creationid="aorin" creationdate="20171231T234223Z">
+        <seg>基本リソース建物</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +5866,14 @@ and have decided to Blend.</seg>
         <seg>Continue playing until the progress  token (●） advances to the O space (finish the round so all players have taken the same number of turns).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155021Z" creationid="nakahodo" creationdate="20171224T155021Z">
+        <seg>進展トークン（●）が●スペースに進むまでプレイを続けます（全てのプレイヤーたちが同じ数のターンを行ってラウンドが終了します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue playing until the progress token (●) advances to the O space (finish the round so all players have taken the same number of turns).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234408Z" creationid="aorin" creationdate="20171231T234408Z">
         <seg>進展トークン（●）が●スペースに進むまでプレイを続けます（全てのプレイヤーたちが同じ数のターンを行ってラウンドが終了します）。</seg>
       </tuv>
     </tu>
@@ -6937,6 +6981,14 @@ colors.</seg>
         <seg>Each player removes the building sticker from their corresponding card and affixes  it Buildings permanently must to be any oriented plot in in their the same charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T134434Z" creationid="nakahodo" creationdate="20171224T134434Z">
+        <seg>各プレイヤーは自身に対応するカードから建物シールを剥がし、自身のチャーターの任意の区画へと、正位置でこの建物を永続的に貼り付けなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player removes the building sticker from their corresponding card and affixes it Buildings permanently must to be any oriented plot in their the same charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234234Z" creationid="aorin" creationdate="20171231T234234Z">
         <seg>各プレイヤーは自身に対応するカードから建物シールを剥がし、自身のチャーターの任意の区画へと、正位置でこの建物を永続的に貼り付けなければなりません。</seg>
       </tuv>
     </tu>
@@ -8294,6 +8346,14 @@ and a Research Lab.</seg>
         <seg>Glory is your prima,y measure of success in your quest for the Forever I〈ing to make  you the leader of the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202314Z" creationid="nakahodo" creationdate="20171224T202223Z">
+        <seg>栄光は、永遠なる王に村のリーダーにしてもらう道のりでの、成功の尺度になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glory is your prima,y measure of success in your quest for the Forever King to make you the leader of the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234430Z" creationid="aorin" creationdate="20171231T234430Z">
         <seg>栄光は、永遠なる王に村のリーダーにしてもらう道のりでの、成功の尺度になります。</seg>
       </tuv>
     </tu>
@@ -10943,6 +11003,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark those stars on your Charter Chest (you choose which stars to fill in).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234450Z" creationid="aorin" creationdate="20171231T234450Z">
+        <seg>あなたのチャーターチェストにその数の星を塗りつぶします（どの星を塗りつぶすのか選択します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark those stars on your Charter Chest :</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202439Z" creationid="nakahodo" creationdate="20171224T202439Z">
@@ -12045,6 +12113,14 @@ at the Builder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peel the sticker off this card and affix it to the card indicated space (page 6), then lace the card remnant in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234155Z" creationid="aorin" creationdate="20171231T234155Z">
+        <seg>このカードをのシールを剥がして、示されたスペース（ページ6）に貼り付け、その後、残されたカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penalty Phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165431Z" creationid="aorin" creationdate="20171212T165431Z">
@@ -12155,6 +12231,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T132216Z" creationid="nakahodo" creationdate="20171213T132216Z">
         <seg>永続アビリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Persona Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234345Z" creationid="aorin" creationdate="20171231T234345Z">
+        <seg>役割カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -12522,6 +12606,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133710Z" creationid="aorin" creationdate="20171215T133710Z">
         <seg>あなたの派閥ボードの近くに、木トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place their constructed building card on the advancement mat (日) for now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234243Z" creationid="aorin" creationdate="20171231T234243Z">
+        <seg>今のところ、発展マット（●）にそれらの建築された建物カードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12946,6 +13038,14 @@ Roasters.</seg>
         <seg>Players will carry over all components  in their personal supply from Game 1 to Game 2.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155148Z" creationid="nakahodo" creationdate="20171224T155148Z">
+        <seg>プレイヤーたちはゲーム1からゲーム2へと、個人サプライに全てのコンポーネントを持ち越します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players will carry over all components in their personal supply from Game 1 to Game 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234409Z" creationid="aorin" creationdate="20171231T234409Z">
         <seg>プレイヤーたちはゲーム1からゲーム2へと、個人サプライに全てのコンポーネントを持ち越します。</seg>
       </tuv>
     </tu>
@@ -15514,6 +15614,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The group gathers around a large rock, You recognize it as a Charterstone, just like the one at the center of the Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234209Z" creationid="aorin" creationdate="20171231T234209Z">
+        <seg>面々は大きな岩の周りに集まります。あなたは、それが久遠の都の中央にあるチャーターストーンであるように思えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The group gothers around a large rock, You recognize it as a Charterstone, just like the one at the center of the Eternal City.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T130448Z" creationid="nakahodo" creationdate="20171224T130448Z">
@@ -15541,6 +15649,14 @@ includes four different AI opponents to play against.</seg>
         <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
+        <seg>不死身なる永遠の王は、久遠の都から遠く離れた場所に新しい村を作るため、グリーングリーから6人の市民を選択しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village far from the Eternal City.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234147Z" creationid="aorin" creationdate="20171231T234147Z">
         <seg>不死身なる永遠の王は、久遠の都から遠く離れた場所に新しい村を作るため、グリーングリーから6人の市民を選択しました。</seg>
       </tuv>
     </tu>
@@ -15720,6 +15836,14 @@ determined by the desired Plan’s Cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032640Z" creationid="aorin" creationdate="20171212T032640Z">
         <seg>配置する必要がある○の数は、プランのコストによって決定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number shown below the building (〇) is its VP value at the end of the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234334Z" creationid="aorin" creationdate="20171231T234334Z">
+        <seg>建物下に示される数字（●）は、キャンペーン終了時のVPの値です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16313,6 +16437,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sun is setting as you venture outside.The location is a lush landscape of rolling hills, patches of trees, and a babbling brook.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234201Z" creationid="aorin" creationdate="20171231T234201Z">
+        <seg>あなたが思い切って外に出ると太陽が沈んでいます。なだらかな丘、豊かな木々、流れる小川といったのどかな風景となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sun is setting as you venture outside.The location is a lush landscape of rolling hills,patches of trees, and a babbling brook.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T123525Z" creationid="nakahodo" creationdate="20171224T123525Z">
@@ -16546,6 +16678,14 @@ and place it into their Neighborhood.</seg>
         <seg>Then, for players who haven't read the rules in advance, explain  a player turn (rule 15), the buildings in The Commons (rule 17), the Cloud Port (rule 22), and the reputation track (rule 23).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T142142Z" creationid="nakahodo" creationdate="20171224T142142Z">
+        <seg>その後、事前にルールを読んでいないプレイヤーたちへと、プレイヤーターン（ルール15）、共有地の建物（ルール17）、クラウドポート（ルール12）、評判トラック（ルール23）を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, for players who haven't read the rules in advance, explain a player turn (rule 15), the buildings in The Commons (rule 17), the Cloud Port (rule 22), and the reputation track (rule 23).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234252Z" creationid="aorin" creationdate="20171231T234252Z">
         <seg>その後、事前にルールを読んでいないプレイヤーたちへと、プレイヤーターン（ルール15）、共有地の建物（ルール17）、クラウドポート（ルール12）、評判トラック（ルール23）を説明します。</seg>
       </tuv>
     </tu>
@@ -17165,6 +17305,14 @@ region in which they place their Field Researcher.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T100336Z" creationid="nakahodo" creationdate="20171001T100336Z">
         <seg>これは重要です。なぜならプレイヤーたちは、フィールド研究者を配置する場所の地域によって各ラウンドでチームにわけられるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is necessary for solo games, but we recommend that 2+ player games only consider Automa after Game 1 or2(not now).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234247Z" creationid="aorin" creationdate="20171231T234247Z">
+        <seg>これはソロゲームでは必須ですが、2プレイヤー以上のゲームでは、ゲーム1か2（今ではなく）後にオートマを検討することをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18241,6 +18389,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the guards leave, you scout your charter for your first charter building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234231Z" creationid="aorin" creationdate="20171231T234231Z">
+        <seg>ガードか出発すると、あなたは、自身の最初の建物をチャーターで探します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the other 4 bean
 spaces on the Blend are filled by a team (and
 all players have contributed at least one bean
@@ -18257,6 +18413,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112222Z" creationid="aorin" creationdate="20171219T112222Z">
         <seg>○スペースに進展トークン（○）が進んだ時、ラウンドが終了し（各プレイヤーは同じターン数を行う）、その後ゲームが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the progress token (●) advances to the ● space, finish the current round, then the game ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234416Z" creationid="aorin" creationdate="20171231T234416Z">
+        <seg>進展トークンが●のスペースに進んだ時、現在のラウンドが終了し、その後、ゲームが終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19527,6 +19691,22 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will be told to mark your selected persona at the end of the game if you used it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234400Z" creationid="aorin" creationdate="20171231T234400Z">
+        <seg>ゲーム終了時、選択した役割を記録するように指示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will carryover all components in your personal supply from Game 1 to Game 2, including coins, resources, cards, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234426Z" creationid="aorin" creationdate="20171231T234426Z">
+        <seg>ゲーム1からゲーム2へと、コイン、リソース、カード、その他を含む自身の個人サプライのコンポーネントを全て持ち越します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will carryove「 allcomponents in your personal supply from Game 1 to Game 2, including coins, resou「ces, cards, etc.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T200126Z" creationid="nakahodo" creationdate="20171224T200007Z">
@@ -19554,6 +19734,14 @@ with the learn-to-play guide.</seg>
         <seg>You will p do this for all  story and rule cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122726Z" creationid="nakahodo" creationdate="20171224T122726Z">
+        <seg>これを全てのストーリーとルールカードで行うことになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will p do this for all story and rule cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234157Z" creationid="aorin" creationdate="20171231T234157Z">
         <seg>これを全てのストーリーとルールカードで行うことになるでしょう。</seg>
       </tuv>
     </tu>
@@ -19587,6 +19775,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173441Z" creationid="aorin" creationdate="20171212T173402Z">
         <seg>あなたはもはや、存在してはならない無価値の妖精だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're discovering that you have a variety of skills that you don't remember learning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234354Z" creationid="aorin" creationdate="20171231T234354Z">
+        <seg>あなたは、学んでいない様々なスキルがあることに気づきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19781,6 +19977,14 @@ with the learn-to-play guide.</seg>
         <seg>Your goal is to bring the greatest glo,y to the Forever King so you may rnle the village in his name.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T120853Z" creationid="nakahodo" creationdate="20171224T120110Z">
+        <seg>あなたのゴールは、永遠なる王へとさらなる栄光をもたらす事です。なので、彼の名前で村を支配しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your goal is to bring the greatest glory to the Forever King so you may rule the village in his name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234150Z" creationid="aorin" creationdate="20171231T234150Z">
         <seg>あなたのゴールは、永遠なる王へとさらなる栄光をもたらす事です。なので、彼の名前で村を支配しましょう。</seg>
       </tuv>
     </tu>
@@ -20151,6 +20355,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>shows a Otherwise, crate, place it face the up in Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234326Z" creationid="aorin" creationdate="20171231T234326Z">
+        <seg>それ以外はアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shows a Otherwise, crate, place place it it in face the up in Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145349Z" creationid="nakahodo" creationdate="20171224T145349Z">
@@ -20282,6 +20494,14 @@ with the learn-to-play guide.</seg>
         <seg>way as  all other buildings on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T134606Z" creationid="nakahodo" creationdate="20171224T134606Z">
+        <seg>建物は、ボードにある全ての他建物と同じように、正位置（つまり、重力的に上下正しく）である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>way as all other buildings on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234235Z" creationid="aorin" creationdate="20171231T234235Z">
         <seg>建物は、ボードにある全ての他建物と同じように、正位置（つまり、重力的に上下正しく）である必要があります。</seg>
       </tuv>
     </tu>
@@ -20710,6 +20930,46 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•  1 victory point (VP) token</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234214Z" creationid="aorin" creationdate="20171231T234214Z">
+        <seg>•1勝利点（VP）トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  2 regular workers (1 big, t small)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234212Z" creationid="aorin" creationdate="20171231T234212Z">
+        <seg>•2レギュラーワーカー（1大、1小）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  During setup, you may select any persona from your Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234356Z" creationid="aorin" creationdate="20171231T234356Z">
+        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意の役割を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Each marked persona (&lt;1111) is worth 5-7 VP at the end of the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234358Z" creationid="aorin" creationdate="20171231T234358Z">
+        <seg>•それぞれの（●）マークされたペルソナは、キャンペーン終了時に5~7VP価値があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234404Z" creationid="aorin" creationdate="20171231T234404Z">
+        <seg>•ゲーム中に役割カードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルの役割と同じように見なくても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• ----­</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220515Z" creationid="nakahodo" creationdate="20171229T220515Z">
@@ -20746,6 +21006,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093706Z" creationid="aorin" creationdate="20171212T093706Z">
         <seg>•ゴールド×10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 12 influence tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234215Z" creationid="aorin" creationdate="20171231T234215Z">
+        <seg>•12影響トークン</seg>
       </tuv>
     </tu>
     <tu>
@@ -21212,6 +21480,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075346Z" creationid="aorin" creationdate="20171213T075346Z">
         <seg>•自身のプレイヤースクリーンにあるタイル1枚と、対戦相手のプレイヤースクリーンにある、同じ種類のタイル1枚とを交換する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Keep all persona cards from game to game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234406Z" creationid="aorin" creationdate="20171231T234406Z">
+        <seg>•ゲームごとの役割カードは全て保持します。</seg>
       </tuv>
     </tu>
     <tu>
