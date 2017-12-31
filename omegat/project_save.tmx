@@ -2830,6 +2830,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>356</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223700Z" creationid="aorin" creationdate="20171231T223700Z">
+        <seg>356 - The Occupation Begins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -4475,6 +4483,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073207Z" creationid="aorin" creationdate="20171216T073207Z">
         <seg>いつでも、このチャートにはゲームに参加している各派閥の協力マーカーを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At dawn, fig11res eme1ye fi·om the h11ge tents just outside of town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223951Z" creationid="aorin" creationdate="20171231T223823Z">
+        <seg>夜明け、町のすぐ外の野営地から人影がぞろぞろと出てきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7175,6 +7191,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003335Z" creationid="aorin" creationdate="20171229T003305Z">
         <seg>セットアップ時にこれらの指示に順番に従います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow these instructions for Game 10 setup (after completing all other setup steps):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223923Z" creationid="aorin" creationdate="20171231T223923Z">
+        <seg>ゲーム10のセットアップでは次の手順に従ってください（他セットアップステップ全てを完了した後で）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15109,6 +15133,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T095323Z" creationid="nakahodo" creationdate="20171230T094310Z">
         <seg>王室に入ると、王はあなたに手を振ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The king's forces have arrived at your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223839Z" creationid="aorin" creationdate="20171231T223839Z">
+        <seg>王の軍勢があなたの村に到着しました。</seg>
       </tuv>
     </tu>
     <tu>
