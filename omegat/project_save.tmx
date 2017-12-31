@@ -2322,8 +2322,8 @@ Amulet of Time</seg>
       <tuv lang="EN-US">
         <seg>298</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T202850Z" creationid="aorin" creationdate="20171231T202850Z">
-        <seg>298 - Sculptor</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234045Z" creationid="aorin" creationdate="20171231T202850Z">
+        <seg>298 - Visionary</seg>
       </tuv>
     </tu>
     <tu>
@@ -3004,6 +3004,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233925Z" creationid="aorin" creationdate="20171231T233925Z">
         <seg>396 - Pilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>397</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234004Z" creationid="aorin" creationdate="20171231T234004Z">
+        <seg>397 - Philosopher</seg>
       </tuv>
     </tu>
     <tu>
@@ -4731,6 +4739,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233920Z" creationid="aorin" creationdate="20171231T233920Z">
         <seg>ゲーム終了時、オートマが全ての人間よりも危険トークンを所持している場合、オートマは8VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if the Automa has more tokens on the quota track than ever human, it gains 8 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234033Z" creationid="aorin" creationdate="20171231T234033Z">
+        <seg>ゲーム終了時、全ての人間よりもノルマトラックにオートマがトークンを持つ場合、オートマは8VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9438,6 +9454,14 @@ stack is first in turn order.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170229Z" creationid="nakahodo" creationdate="20171229T164656Z">
         <seg>そうした場合、ボードから自身の個人サプライにミニオンを得ます。
 クロニクルの全てのストーリーカードの幸福な王の数が、怒っている王の数と同数以上の場合に、永遠なる王は一ヶ月にわたる祭りへとあなたを招待します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this Automa ends the game, it gains 10 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234124Z" creationid="aorin" creationdate="20171231T234124Z">
+        <seg>このオートマがゲームを終了させた場合、オートマは10VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
