@@ -6446,6 +6446,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each opponent must give you $1 if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231541Z" creationid="aorin" creationdate="20171231T231541Z">
+        <seg>各対戦相手は、可能であれば、あなたに＄1を与えなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each opponent must give you 1 advancement card (their choice).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224522Z" creationid="aorin" creationdate="20171231T224522Z">
@@ -6456,8 +6464,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each opponent must give you 1 resource (your choice) if possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T231516Z" creationid="aorin" creationdate="20171231T231516Z">
-        <seg>各対戦相手は、可能であればあなたに1リソースを与える（あなたが選ぶ）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231525Z" creationid="aorin" creationdate="20171231T231516Z">
+        <seg>各対戦相手は、可能であれば、あなたに1リソースを与える（あなたが選ぶ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7721,6 +7729,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224638Z" creationid="aorin" creationdate="20171231T224638Z">
         <seg>3VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 4 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231519Z" creationid="aorin" creationdate="20171231T231519Z">
+        <seg>4VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
