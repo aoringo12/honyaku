@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I never thought this would happen, but I can't help how I feel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211030Z" creationid="aorin" creationdate="20171231T211030Z">
+        <seg>「こうなるとは思わなかったの。私は自分の気持をどうしていいのかわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I'm telling you because I feel bad about it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210544Z" creationid="aorin" creationdate="20171231T210544Z">
@@ -9772,6 +9780,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's not like we need to get married tomorrow, but would you go on a date with me?"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211117Z" creationid="aorin" creationdate="20171231T211117Z">
+        <seg>添い遂げようとは言わないけれど、私とデートしてくれませんか？」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's not necessary to learn any rules before Charterstone's first game, but having at least one person who understands the core concepts will improve the flow of Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T142236Z">
@@ -12490,6 +12506,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210315Z" creationid="aorin" creationdate="20171231T210315Z">
         <seg>あなたはこの話を信じて、彼の混乱した話を聞きながら時間を過ごしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q You feel a deep stirring in yourself, so you decide to throw caution to the wind and go on the date.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211322Z" creationid="aorin" creationdate="20171231T211322Z">
+        <seg>あなたは、自身がすごく動揺しているのを感じた。だからか、特に何も考えもせず、デートに行くことを決めました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18876,6 +18900,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210523Z" creationid="aorin" creationdate="20171231T210523Z">
         <seg>あなたの仲間は、永遠なる王のためにあなたをスパイしていたと告白した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your companion confesses that she's fallen deeply in love with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211004Z" creationid="aorin" creationdate="20171231T211004Z">
+        <seg>あなたの仲間は、彼女があなたを深く愛していることを告白します。</seg>
       </tuv>
     </tu>
     <tu>
