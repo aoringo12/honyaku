@@ -1882,6 +1882,24 @@ tome of peace</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>239</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T143517Z" creationid="aorin" creationdate="20171231T143517Z">
+        <seg>239
+tome pf prosperity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>240</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T143538Z" creationid="aorin" creationdate="20171231T143538Z">
+        <seg>240
+tome of power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -14704,6 +14722,14 @@ the Upkeep phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then shuffle the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T143454Z" creationid="aorin" creationdate="20171231T143454Z">
+        <seg>その後、デッキをシャッフルする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then the Queen will check whether you offered enough Silver and Gold to Her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171421Z" creationid="aorin" creationdate="20171212T171421Z">
@@ -17237,6 +17263,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T181234Z" creationid="nakahodo" creationdate="20171230T181140Z">
         <seg>あなたのターン時にこのカードを捨て札にすることで、自身のチャーターチェストの別の役割カード1枚をこのゲームで使用するためにアクティブにできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may discard this during your turn to look through the advancement deck and gain any non-treasure card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T143417Z" creationid="aorin" creationdate="20171231T143417Z">
+        <seg>あなたのターン時にこのカードを捨て札にすることで、発展デッキを全て見て、任意のトレジャー以外のカード1枚を得る。</seg>
       </tuv>
     </tu>
     <tu>
