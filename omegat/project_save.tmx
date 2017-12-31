@@ -2321,6 +2321,47 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>300 if your worker picks up a Bandit token, you may immediately retrieve that worker and gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203035Z" creationid="aorin" creationdate="20171231T203035Z">
+        <seg>300 - Guald
+あなたが盗賊トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>301</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203044Z" creationid="aorin" creationdate="20171231T203044Z">
+        <seg>301 - Strongarm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>302</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203154Z" creationid="aorin" creationdate="20171231T203154Z">
+        <seg>302 - Freman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>303</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203223Z" creationid="aorin" creationdate="20171231T203223Z">
+        <seg>303 - Prospector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>304</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203248Z" creationid="aorin" creationdate="20171231T203248Z">
+        <seg>304 -Architect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -3348,6 +3389,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T171835Z" creationid="nakahodo" creationdate="20171230T171835Z">
         <seg>石炭をコストにする建物1つを使用した後、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After using a building with a metal cost, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203240Z" creationid="aorin" creationdate="20171231T203219Z">
+        <seg>金属をコストにする建物1つを使用した後、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17030,6 +17079,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using a building with an opponent's minion on it, ignore the minion's ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203215Z" creationid="aorin" creationdate="20171231T203148Z">
+        <seg>あなたが対戦相手のミニオンがいる建物を使用するとき、そのミニオンの能力を無視する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When we meet again, I will select one of you to have the honor of carrying on my legacy in mind, body, and spirit."</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T140312Z" creationid="nakahodo" creationdate="20171230T140312Z">
@@ -17314,6 +17371,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202649Z" creationid="aorin" creationdate="20171231T202649Z">
         <seg>あなたがゴーレム1体を配置[または]対戦相手があなたのゴーレムのいる建物を使用するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you place a minion, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203211Z" creationid="aorin" creationdate="20171231T203211Z">
+        <seg>あなたがミニオン1体を配置するたびに、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
