@@ -2387,6 +2387,22 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>308</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203646Z" creationid="aorin" creationdate="20171231T203646Z">
+        <seg>308 - Chancellor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>309</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203714Z" creationid="aorin" creationdate="20171231T203714Z">
+        <seg>309 - Robot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -4024,6 +4040,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004013Z" creationid="aorin" creationdate="20171229T004013Z">
         <seg>ゲーム終了時、あなたの空島タイル4つ全てを集め、保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if there are no influence tokens in your personal supply, gain 6 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203707Z" creationid="aorin" creationdate="20171231T203707Z">
+        <seg>ゲーム終了時にて、あなたの個人サプライに影響トークンがない場合、6VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16905,6 +16929,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a robot begins to rust, you can simply transfer its memory to a newer model.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203931Z" creationid="aorin" creationdate="20171231T203931Z">
+        <seg>説明書：ロボットはくたびれ始めたら、あなたは単純に、新機種に思い出を送ってあげるだけで良いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an Automa card selects the Automa's charter, if it has an available minion, ignore all occupied buildings and instead place a minion (it doesn't matter which).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152109Z" creationid="nakahodo" creationdate="20171230T152109Z">
@@ -17410,8 +17442,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever you place a golem or an opponent uses your golem's building, gain any 1 resource.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T202649Z" creationid="aorin" creationdate="20171231T202649Z">
-        <seg>あなたがゴーレム1体を配置[または]対戦相手があなたのゴーレムのいる建物を使用するたびに、1VPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203744Z" creationid="aorin" creationdate="20171231T202649Z">
+        <seg>あなたがゴーレム1体を配置[または]対戦相手があなたのゴーレムのいる建物を使用するたびに、任意のリソース1つを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17420,6 +17452,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203211Z" creationid="aorin" creationdate="20171231T203211Z">
         <seg>あなたがミニオン1体を配置するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you place a robot or an opponent uses your robot's building, gain t advancement card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203825Z" creationid="aorin" creationdate="20171231T203825Z">
+        <seg>あなたがロボット1体を配置[または]対戦相手1人があなたのロボットのいる建物を使用するたびに、発展カード1枚を得る。</seg>
       </tuv>
     </tu>
     <tu>
