@@ -2678,6 +2678,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>340</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211427Z" creationid="aorin" creationdate="20171231T211427Z">
+        <seg>340 - companion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -18904,6 +18912,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your companion confesses that she once tried to kill the Forever King.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211510Z" creationid="aorin" creationdate="20171231T211510Z">
+        <seg>あなたの仲間は、彼女が永遠なる王を殺そうとしていたことを告白します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your companion confesses that she's fallen deeply in love with you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211004Z" creationid="aorin" creationdate="20171231T211004Z">
@@ -21197,6 +21213,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T100629Z" creationid="nakahodo" creationdate="20171229T100629Z">
         <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がある場合、木箱Mを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>食， You suspect she has ulterior motives, so you tell her you'd rather just remain colleagues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211422Z" creationid="aorin" creationdate="20171231T211416Z">
+        <seg>あなたは彼女に何か、隠しているものを感じた。なので、彼女に「このまま良き仲間でいよう」と伝えました。</seg>
       </tuv>
     </tu>
     <tu>
