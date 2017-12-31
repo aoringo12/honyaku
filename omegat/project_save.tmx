@@ -1909,6 +1909,38 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>242</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T192953Z" creationid="aorin" creationdate="20171231T192953Z">
+        <seg>242 - Amulet of Memory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>243</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T193003Z" creationid="aorin" creationdate="20171231T193003Z">
+        <seg>243 - Amulet of Vitality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>244</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T193013Z" creationid="aorin" creationdate="20171231T193013Z">
+        <seg>244 - Amulet of Youth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>245</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T193022Z" creationid="aorin" creationdate="20171231T193022Z">
+        <seg>245 - Scroll of fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
