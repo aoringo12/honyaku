@@ -2920,6 +2920,38 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>371</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231928Z" creationid="aorin" creationdate="20171231T231928Z">
+        <seg>371 - Sellsword</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>372</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232019Z" creationid="aorin" creationdate="20171231T232019Z">
+        <seg>372 - Explorer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>373</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232043Z" creationid="aorin" creationdate="20171231T232043Z">
+        <seg>373 - Vagabond</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>374</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232102Z" creationid="aorin" creationdate="20171231T232102Z">
+        <seg>374 - Biomachinist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -4609,16 +4641,48 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At end of game, if you have $01 gain 6 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T231819Z" creationid="aorin" creationdate="20171231T231819Z">
-        <seg>ゲーム終了時、あなたが$0を持つなら、6VPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232148Z" creationid="aorin" creationdate="20171231T231819Z">
+        <seg>ゲーム終了時、あなたの所持金が$0であるなら、6VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if you have o advancement cards, gain 10 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232126Z" creationid="aorin" creationdate="20171231T232126Z">
+        <seg>ゲーム終了時、あなたの持つ発展カードが0枚なら、10VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if you have o minions, gain 10 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232010Z" creationid="aorin" creationdate="20171231T231950Z">
+        <seg>ゲーム終了時、あなたのミニオンが0であるなら、10VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>At end of game, if you have o resource tokens, gain 6 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T231850Z" creationid="aorin" creationdate="20171231T231850Z">
-        <seg>ゲーム終了時、あなたがリソーストークンを1つも持たないなら、6VPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232140Z" creationid="aorin" creationdate="20171231T231850Z">
+        <seg>ゲーム終了時、あなたの持つリソーストークンが0であるなら、6VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if you have o tokens on the quota track, gain 6 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232054Z" creationid="aorin" creationdate="20171231T232054Z">
+        <seg>ゲーム終了時、ノルマトラックにトークンが0なら、6VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if you have o tokens on the reputation track, gain 6 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232038Z" creationid="aorin" creationdate="20171231T232038Z">
+        <seg>ゲーム終了時、評判トラックにトークンが0なら、6VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
