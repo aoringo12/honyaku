@@ -1989,6 +1989,15 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>252 have at least 3 treasure cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T195953Z" creationid="aorin" creationdate="20171231T195953Z">
+        <seg>252 - Finders Keepers
+少なくとも3枚のトレジャーカードを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -16926,6 +16935,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160342Z" creationid="nakahodo" creationdate="20171230T160342Z">
         <seg>あなたが目標を得点するたびに、＋2VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you use a building to gain a treasure card, gain $2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T195919Z" creationid="aorin" creationdate="20171231T195919Z">
+        <seg>あなたが建物1つを使用してトレジャーカード1枚を得るたびに、＄2を得る。</seg>
       </tuv>
     </tu>
     <tu>
