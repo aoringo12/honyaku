@@ -6479,6 +6479,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For buildings you constructed this game, the first time you use them, gain 4 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T201746Z" creationid="aorin" creationdate="20171231T201746Z">
+        <seg>***このゲームであなたが建築した建物にて、最初にあなたが使用すると、4VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details on playing these cards, see Goals​ ​and​ ​Play​ ​(page XX).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210117Z" creationid="aorin" creationdate="20171215T210117Z">
