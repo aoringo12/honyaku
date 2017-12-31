@@ -2095,6 +2095,30 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>277</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T201755Z" creationid="aorin" creationdate="20171231T201755Z">
+        <seg>277 - Trapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>278</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T201833Z" creationid="aorin" creationdate="20171231T201833Z">
+        <seg>278 - Butler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>279</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202039Z" creationid="aorin" creationdate="20171231T202039Z">
+        <seg>279 - Baroness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -8549,6 +8573,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your worker picks up a Vermin token, you may immediately retrieve that worker and gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T201824Z" creationid="aorin" creationdate="20171231T201824Z">
+        <seg>あなたが害獣トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104712Z" creationid="aorin" creationdate="20171212T104712Z">
@@ -14178,6 +14210,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most experienced butlers know that good manners are worth their weight in gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202033Z" creationid="aorin" creationdate="20171231T202033Z">
+        <seg>最も経験豊富な執事は、良いマナーには金と同じ価値があるということを知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nation of a crafting building matches the nation of its clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211218Z" creationid="aorin" creationdate="20171215T211218Z">
@@ -17008,6 +17048,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234255Z" creationid="aorin" creationdate="20171228T234255Z">
         <seg>あなたが名付けられていないゲストカードを持つたびに、それに名前をつけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you place a butler or an opponent uses your butler's building, gain $1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T201915Z" creationid="aorin" creationdate="20171231T201915Z">
+        <seg>あなたが執事を配置する[または]あなたの執事のいる建物を対戦相手1人が使用するたびに、＄1を得る。</seg>
       </tuv>
     </tu>
     <tu>
