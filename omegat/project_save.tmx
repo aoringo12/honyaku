@@ -9299,6 +9299,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you haven't unlocked the rules for some of these minions, extract cards 227, 234,278,297,309, and 332 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T224213Z" creationid="aorin" creationdate="20171231T224213Z">
+        <seg>あなたがこれあミニオンのルールを解放していない場合、インデックスからカード227、234、278、297、309、332を引き出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you manage that you’ll have truly proven yourself a great Pixie (still small in stature though).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083630Z" creationid="nakahodo" creationdate="20171211T083630Z">
@@ -12943,6 +12951,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Release any remaining minions from tuckbox iv and add them to the general supply for this and all future games.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T224116Z" creationid="aorin" creationdate="20171231T224116Z">
+        <seg>タックボックスivから残っている任意のミニオンす開放し、今回を含めて、今後のゲームに共通サプライにこれらを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that if you run out of influence tokens during the game, you must advance the progress token at the beginning of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155108Z" creationid="nakahodo" creationdate="20171224T155108Z">
@@ -13646,6 +13662,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132733Z" creationid="aorin" creationdate="20171215T132733Z">
         <seg>デッキをシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the location cards and draw one card for every 6 minions in the supply (up to 3 cards max).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T224317Z" creationid="aorin" creationdate="20171231T224317Z">
+        <seg>場所カードをシャッフルし、サプライのミニオン6体ごとにカード1枚をドローします（最大3枚まで）。</seg>
       </tuv>
     </tu>
     <tu>
