@@ -1098,6 +1098,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>111 don't remember much, but it was as if my soul was removed from my body for a few minutes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210212Z" creationid="aorin" creationdate="20171231T210212Z">
+        <seg>「私はあまり覚えていないが、あれはまさに、少しの時間だけではあったけれども私の身体から魂が抜けたようだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T141353Z" creationid="nakahodo" creationdate="20171224T141353Z">
@@ -8040,6 +8048,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I escaped through a tunnel."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210225Z" creationid="aorin" creationdate="20171231T210225Z">
+        <seg>私はトンネルを通り逃げ出したんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I will observe J,-om here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135753Z" creationid="nakahodo" creationdate="20171230T135753Z">
@@ -12426,6 +12442,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093809Z" creationid="aorin" creationdate="20171212T093809Z">
         <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q You believe his story and spend time listening to him as he works through his jumbled memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210315Z" creationid="aorin" creationdate="20171231T210315Z">
+        <seg>あなたはこの話を信じて、彼の混乱した話を聞きながら時間を過ごしました。</seg>
       </tuv>
     </tu>
     <tu>
