@@ -2880,6 +2880,46 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>366</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231608Z" creationid="aorin" creationdate="20171231T231608Z">
+        <seg>366 - Pirate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>367</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231616Z" creationid="aorin" creationdate="20171231T231616Z">
+        <seg>367 - Con Artist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>368</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231654Z" creationid="aorin" creationdate="20171231T231654Z">
+        <seg>368 - Technomage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>369</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231800Z" creationid="aorin" creationdate="20171231T231800Z">
+        <seg>369 - Seer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>370</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231827Z" creationid="aorin" creationdate="20171231T231827Z">
+        <seg>370 - Mixologist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -4563,6 +4603,22 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203707Z" creationid="aorin" creationdate="20171231T203707Z">
         <seg>ゲーム終了時にて、あなたの個人サプライに影響トークンがない場合、6VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if you have $01 gain 6 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231819Z" creationid="aorin" creationdate="20171231T231819Z">
+        <seg>ゲーム終了時、あなたが$0を持つなら、6VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if you have o resource tokens, gain 6 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231850Z" creationid="aorin" creationdate="20171231T231850Z">
+        <seg>ゲーム終了時、あなたがリソーストークンを1つも持たないなら、6VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6446,6 +6502,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each opponent must discard t influence token if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231648Z" creationid="aorin" creationdate="20171231T231640Z">
+        <seg>各対戦相手は、可能であれば、影響トークン1つを捨てなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each opponent must give you $1 if possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T231541Z" creationid="aorin" creationdate="20171231T231541Z">
@@ -6462,10 +6526,18 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each opponent must give you 1 minion (their choice) from the board or their personal supply if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231754Z" creationid="aorin" creationdate="20171231T231754Z">
+        <seg>各対戦相手は、可能であれば、ボードまたは自身の個人サプライから、ミニオン1つをあなたに与えなければならない（彼らが選ぶ）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each opponent must give you 1 resource (your choice) if possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T231525Z" creationid="aorin" creationdate="20171231T231516Z">
-        <seg>各対戦相手は、可能であれば、あなたに1リソースを与える（あなたが選ぶ）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231552Z" creationid="aorin" creationdate="20171231T231516Z">
+        <seg>各対戦相手は、可能であれば、あなたに1リソースを与えなければならない（あなたが選ぶ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7721,6 +7793,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202743Z" creationid="nakahodo" creationdate="20171224T202743Z">
         <seg>1リソース / $1 / 3VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 2 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231641Z" creationid="aorin" creationdate="20171231T231641Z">
+        <seg>2VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
