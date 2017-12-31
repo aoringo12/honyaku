@@ -2622,6 +2622,22 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>336</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205755Z" creationid="aorin" creationdate="20171231T205755Z">
+        <seg>336 - Srveyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>337</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205946Z" creationid="aorin" creationdate="20171231T205946Z">
+        <seg>337 - companion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -9144,6 +9160,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T204134Z" creationid="aorin" creationdate="20171231T204134Z">
         <seg>あなたが破損トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your worker picks up a Famine token, you may immediately retrieve that worker and gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205745Z" creationid="aorin" creationdate="20171231T205745Z">
+        <seg>あなたが飢餓トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17603,6 +17627,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you are the first to score a public objective, gain +3 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205858Z" creationid="aorin" creationdate="20171231T205858Z">
+        <seg>あなたが公開目標を最初に得点するたびに、+3VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you build​ a building in any way, the clearing where you build it must have an open slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205029Z" creationid="aorin" creationdate="20171215T205029Z">
@@ -18756,6 +18788,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073541Z" creationid="aorin" creationdate="20171216T073541Z">
         <seg>あなたの協力は戦闘時にあなたがアタッカーかディフェンダーかに関わらず、戦闘を取り除くことにより調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your companion confesses that he escaped from a deadly experiment, and it still traumatizes him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210126Z" creationid="aorin" creationdate="20171231T210126Z">
+        <seg>あなたの仲間は、彼が致命的な実験から逃げ出し、それが未だ彼を傷つけていることを告白した。</seg>
       </tuv>
     </tu>
     <tu>
