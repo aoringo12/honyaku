@@ -2742,6 +2742,94 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>345</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223512Z" creationid="aorin" creationdate="20171231T223512Z">
+        <seg>345 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>346</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223516Z" creationid="aorin" creationdate="20171231T223516Z">
+        <seg>346 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>347</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223519Z" creationid="aorin" creationdate="20171231T223519Z">
+        <seg>347 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>348</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223522Z" creationid="aorin" creationdate="20171231T223522Z">
+        <seg>348 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>349</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223528Z" creationid="aorin" creationdate="20171231T223528Z">
+        <seg>349 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>350</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223531Z" creationid="aorin" creationdate="20171231T223531Z">
+        <seg>350 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>351</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223535Z" creationid="aorin" creationdate="20171231T223535Z">
+        <seg>351 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>352</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223543Z" creationid="aorin" creationdate="20171231T223543Z">
+        <seg>352 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>353</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223547Z" creationid="aorin" creationdate="20171231T223547Z">
+        <seg>353 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>354</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223550Z" creationid="aorin" creationdate="20171231T223550Z">
+        <seg>354 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>355</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223558Z" creationid="aorin" creationdate="20171231T223558Z">
+        <seg>355 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -7301,6 +7389,23 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T142131Z" creationid="nakahodo" creationdate="20171230T142131Z">
         <seg>あなたがこの村に到着して初めて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the last category, include values of all 6 buildings in your charter and all buildings on your 4 sky island tiles, capacity (●)： 一X 2 = used personas (...):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223619Z" creationid="aorin" creationdate="20171231T223619Z">
+        <seg>最後のカテゴリにて、あなたのチャーターの建物6つ全てと、あなたの空島4つの建物全ての価値を含めます。
+ capacity (●)： 一X 2 = used personas (...):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the last category, include values of all 6 buildings in your charter and all buildings on your 4 sky island tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223443Z" creationid="aorin" creationdate="20171231T223443Z">
+        <seg>最後のカテゴリにて、あなたのチャーターの建物6つ全てと、あなたの空島4つの建物全ての価値を含めます。</seg>
       </tuv>
     </tu>
     <tu>
