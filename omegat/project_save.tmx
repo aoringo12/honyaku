@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"My family is buried in debt to the kingdom, and we were desperate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222525Z" creationid="aorin" creationdate="20171231T222525Z">
+        <seg>私の家族は王国で借金を抱えており、私たちは絶望していた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Restrain our friends," he says, gesturing to you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131314Z" creationid="nakahodo" creationdate="20171230T131103Z">
@@ -2706,6 +2714,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T221559Z" creationid="aorin" creationdate="20171231T221559Z">
         <seg>341 - companion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>342</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222435Z" creationid="aorin" creationdate="20171231T222435Z">
+        <seg>342 - companion</seg>
       </tuv>
     </tu>
     <tu>
@@ -8120,6 +8136,22 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can't return what I've taken, but I promise to stop."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
+        <seg>盗んだものを返すことはできません。しかし、これからは止めると誓います」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I didn't know you'd be so nice, though!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222542Z" creationid="aorin" creationdate="20171231T222542Z">
+        <seg>私はあなたがこんなにも素敵であるとは考えていなかった！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I escaped through a tunnel."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210225Z" creationid="aorin" creationdate="20171231T210225Z">
@@ -12586,6 +12618,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T212512Z" creationid="aorin" creationdate="20171231T212512Z">
         <seg>あなたは告白に感謝し、その過去を知ろうと彼女のために心を込めて夕食を作った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q You trust that she's telling you the truth, and you offer to help pay off the debt over time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222648Z" creationid="aorin" creationdate="20171231T222648Z">
+        <seg>あなたは彼女の話を真実であると信用し、時間はかかるだろうが借金の返済を手伝うと申し出ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18992,6 +19032,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your companion confesses that she has been stealing from you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222458Z" creationid="aorin" creationdate="20171231T222458Z">
+        <seg>あなたの仲間は、あなたに盗みを働いた事を告白した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your companion confesses that she once tried to kill the Forever King.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211510Z" creationid="aorin" creationdate="20171231T211510Z">
@@ -21187,6 +21235,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T022551Z" creationid="aorin" creationdate="20171229T022551Z">
         <seg>永遠なる王があなたの村に訪れ、新たなる久遠の都であることを誇る賞賛をすることを望み、新たな商取引システムのテストが行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>含You pretend to believe her, but later you install new locks on all of your doors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222744Z" creationid="aorin" creationdate="20171231T222744Z">
+        <seg>あなたの口は「信じる」と開いたが、家の扉には全て新しい鍵を取り付けた。</seg>
       </tuv>
     </tu>
     <tu>
