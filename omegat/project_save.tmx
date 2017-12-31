@@ -9772,6 +9772,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is my greatest regret."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T221905Z" creationid="aorin" creationdate="20171231T221905Z">
+        <seg>私の最大の後悔だ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is still an advancement card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154337Z" creationid="nakahodo" creationdate="20171218T154337Z">
@@ -12554,6 +12562,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210315Z" creationid="aorin" creationdate="20171231T210315Z">
         <seg>あなたはこの話を信じて、彼の混乱した話を聞きながら時間を過ごしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q You can tell that he's sincere, and even though you'll need some time, you welcome him with open arms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222150Z" creationid="aorin" creationdate="20171231T222150Z">
+        <seg>あなたは彼に正直に話してくれたことの礼、そして受け入れるのに時間がかかるだろうと伝えますが、あなたは腕を広げ彼を歓迎した。</seg>
       </tuv>
     </tu>
     <tu>
