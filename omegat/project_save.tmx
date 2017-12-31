@@ -2436,6 +2436,118 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>314</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204226Z" creationid="aorin" creationdate="20171231T204226Z">
+        <seg>314 - Farmer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>315</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204251Z" creationid="aorin" creationdate="20171231T204251Z">
+        <seg>315 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>316</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204355Z" creationid="aorin" creationdate="20171231T204355Z">
+        <seg>316 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>317</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204432Z" creationid="aorin" creationdate="20171231T204432Z">
+        <seg>317 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>318</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204434Z" creationid="aorin" creationdate="20171231T204434Z">
+        <seg>318 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>319</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204435Z" creationid="aorin" creationdate="20171231T204435Z">
+        <seg>319 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>320</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204436Z" creationid="aorin" creationdate="20171231T204436Z">
+        <seg>320 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>321</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204437Z" creationid="aorin" creationdate="20171231T204437Z">
+        <seg>321 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>322</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204438Z" creationid="aorin" creationdate="20171231T204438Z">
+        <seg>322 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>323</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204440Z" creationid="aorin" creationdate="20171231T204440Z">
+        <seg>323 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>324</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204442Z" creationid="aorin" creationdate="20171231T204442Z">
+        <seg>324 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>325</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204444Z" creationid="aorin" creationdate="20171231T204444Z">
+        <seg>325 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>326</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204445Z" creationid="aorin" creationdate="20171231T204445Z">
+        <seg>326 - friend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>327</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204456Z" creationid="aorin" creationdate="20171231T204456Z">
+        <seg>327 - Brewer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -3463,6 +3575,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T171835Z" creationid="nakahodo" creationdate="20171230T171835Z">
         <seg>石炭をコストにする建物1つを使用した後、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After using a building with a grain cost, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204233Z" creationid="aorin" creationdate="20171231T204233Z">
+        <seg>粘土をコストにする建物1つを使用した後、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17613,6 +17733,22 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200853Z" creationid="aorin" creationdate="20171231T200853Z">
         <seg>あなたが共有地の建物1つを使用するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you use a building in this charter to gain VP, gain +1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204424Z" creationid="aorin" creationdate="20171231T204424Z">
+        <seg>あなたがこのチャーターの建物を使用してVPを得るたびに、+1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you use a building in this charter to gain coins, gain +$1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204335Z" creationid="aorin" creationdate="20171231T204335Z">
+        <seg>あなたがこのチャーターの建物を使用してコインを得るたびに、+$1を得る。</seg>
       </tuv>
     </tu>
     <tu>
