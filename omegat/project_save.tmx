@@ -2353,6 +2353,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3, Return all components from all personal supplies and Charter Chests to the general supply, including sky island tiles and persona cards (which are shuffled to form a persona deck).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232805Z" creationid="aorin" creationdate="20171231T232805Z">
+        <seg>3.空島タイルと役割カード（役割デッキを形成するためにシャッフルされます）を含んで、個人サプライとチャーターチェストから全てのコンポーネントを共通サプライへと戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145112Z" creationid="nakahodo" creationdate="20171218T145112Z">
