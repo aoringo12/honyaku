@@ -7733,6 +7733,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From now on, ignore all information on Charter Chests, as players no longer gain glory or keep components between games</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232923Z" creationid="aorin" creationdate="20171231T232923Z">
+        <seg>今後、チャーターチェストの全ての情報は無視され、プレイヤーたちはもはや、栄光得たり、ゲーム間でコンポーネントを保持することはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From now on, this Tile will grant you 2, 3 or 4 Food of your choice during the stealing phase, in the amount as depicted on the Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
@@ -9149,6 +9157,15 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030453Z" creationid="aorin" creationdate="20171212T030453Z">
         <seg>ディードロケーションに任意の●がある場合、その場所の所有者たちは、ミントサプライから指示された●を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are building cards that you think you're never going to construct, place them in the Archive Place this card in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233101Z" creationid="aorin" creationdate="20171231T233101Z">
+        <seg>あなたがもう建築しないだろうと考える建物がある場合、アーカイブにこのカードを入れます。
+このカードをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12621,6 +12638,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
         <seg>プレイヤースケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player pieces can still be stored in their respective Charter Chests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232827Z" creationid="aorin" creationdate="20171231T232827Z">
+        <seg>プレイヤーピースはまた各自のチャーターチェストに残ります。</seg>
       </tuv>
     </tu>
     <tu>
