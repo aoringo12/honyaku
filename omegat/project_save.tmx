@@ -1900,6 +1900,15 @@ tome of power</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>241</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T192845Z" creationid="aorin" creationdate="20171231T192845Z">
+        <seg>241
+Amulet of Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -14689,6 +14698,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then immediately take another turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T192938Z" creationid="aorin" creationdate="20171231T192938Z">
+        <seg>その後、直ちにもう1つ別のターンを行う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then place</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142852Z" creationid="nakahodo" creationdate="20171213T142852Z">
@@ -17255,6 +17272,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
         <seg>あなたはアクション1つを消費せずにクラフトができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may discard this at the end of your turn to retrieve 1 worker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T192923Z" creationid="aorin" creationdate="20171231T192923Z">
+        <seg>あなたのターンにの終了時にこのカードを捨て札にすることによって、1ワーカー戻すことが出来る。</seg>
       </tuv>
     </tu>
     <tu>
