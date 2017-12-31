@@ -4489,6 +4489,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among those players, the player with the most influence tokens in their guidepost personal (roll the supply Charterstone reveals the to break options on further the ties), That player chooses 1 of the options and opens the corresponding crate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234736Z" creationid="aorin" creationdate="20171231T234736Z">
+        <seg>プレイヤーの中で、個人サプライに最も影響トークンを持つプレイヤーが指標のオプションを公開します（タイの場合はチャーターストーンをロールして決めます）。そのプレイヤーは、オプションの1つを選択肢、該当する木箱を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An Apple can be used to demote an opposing Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133556Z" creationid="nakahodo" creationdate="20171213T133556Z">
@@ -4934,6 +4942,14 @@ Mint Supply.</seg>
         <seg>At the end of the game, any player who achieved the guidepost gain 1 glory.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T210757Z" creationid="nakahodo" creationdate="20171224T210757Z">
+        <seg>ゲームが終了すると、指標を達成できたプレイヤーたちは1栄光を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the game, any player(s) who achieved the guidepost gain 1 glory(*).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234628Z" creationid="aorin" creationdate="20171231T234628Z">
         <seg>ゲームが終了すると、指標を達成できたプレイヤーたちは1栄光を得ます。</seg>
       </tuv>
     </tu>
@@ -8550,6 +8566,14 @@ Roaster...</seg>
         <seg>He still  gives players the freedom to choose their path,  even if their choice displeases him.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T210251Z" creationid="nakahodo" creationdate="20171224T210251Z">
+        <seg>その選択が王を不快にしたとしても、プレイヤーたちには選択の自由もまた、残されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He still gives players the freedom to choose their path, even if their choice displeases him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234626Z" creationid="aorin" creationdate="20171231T234626Z">
         <seg>その選択が王を不快にしたとしても、プレイヤーたちには選択の自由もまた、残されています。</seg>
       </tuv>
     </tu>
@@ -12327,6 +12351,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T191241Z" creationid="nakahodo" creationdate="20171218T191214Z">
         <seg>5VPを得点するために、あなたの完了した目標カード1枚に影響トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 influence token on the reputation track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234452Z" creationid="aorin" creationdate="20171231T234452Z">
+        <seg>評判トラックに1影響トークン配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19846,6 +19878,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Charter Chest shows your current capacity (you start the campaign with 1 in each category).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234621Z" creationid="aorin" creationdate="20171231T234621Z">
+        <seg>チャーターチェストに現在のキャパシティが示されます（各カテゴリー1からキャンペーンが始まります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Charter Chest shows your current capacity :</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204747Z" creationid="nakahodo" creationdate="20171224T204747Z">
@@ -20149,6 +20189,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095518Z" creationid="aorin" creationdate="20171219T095518Z">
         <seg>全能なる瞳にてあなたを見定めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>discard everything else(except persona cards and player pieces) to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T234601Z" creationid="aorin" creationdate="20171231T234601Z">
+        <seg>それ以外のものは共通サプライに捨てます_（役割カードとプレイヤーピースを除いて）_。</seg>
       </tuv>
     </tu>
     <tu>
