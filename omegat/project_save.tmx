@@ -2872,6 +2872,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>365</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T224652Z" creationid="aorin" creationdate="20171231T224652Z">
+        <seg>365 - Mercenary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -6446,6 +6454,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each opponent must give you 1 resource (your choice) if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T231516Z" creationid="aorin" creationdate="20171231T231516Z">
+        <seg>各対戦相手は、可能であればあなたに1リソースを与える（あなたが選ぶ）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each played ambush card immediately deals two unpreventable hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223353Z" creationid="aorin" creationdate="20171215T223353Z">
@@ -7697,6 +7713,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202743Z" creationid="nakahodo" creationdate="20171224T202743Z">
         <seg>1リソース / $1 / 3VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 3 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T224638Z" creationid="aorin" creationdate="20171231T224638Z">
+        <seg>3VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17306,6 +17330,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133656Z" creationid="nakahodo" creationdate="20171230T133608Z">
         <seg>その中央にあるのは、間違いなくチャーターストーンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until income is triggered, opponents may not use persona abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T224635Z" creationid="aorin" creationdate="20171231T224635Z">
+        <seg>収入が発動されるまで、対戦相手たちは役割能力を発動できない。</seg>
       </tuv>
     </tu>
     <tu>
