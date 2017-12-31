@@ -2662,6 +2662,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>339</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210851Z" creationid="aorin" creationdate="20171231T210851Z">
+        <seg>339 - companion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -8088,6 +8096,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm sorry!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210643Z" creationid="aorin" creationdate="20171231T210643Z">
+        <seg>すまない！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN THE FIELD</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T093538Z" creationid="nakahodo" creationdate="20171001T093538Z">
@@ -12458,6 +12474,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093809Z" creationid="aorin" creationdate="20171212T093809Z">
         <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q You accept his apology and allow the spying to continue so the king won't suspect anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210759Z" creationid="aorin" creationdate="20171231T210759Z">
+        <seg>あなたは謝罪を受け入れ、王へと悟られないようにそのままスパイを続けさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19149,6 +19173,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>it was either this or a job in the soulstone mines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210638Z" creationid="aorin" creationdate="20171231T210638Z">
+        <seg>ソウルストーンの採掘か、”これ”かのどちらかだったんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lfyouconstructa building on top of another building, only the VP shown on the newer building (0) counts at end of campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171240Z" creationid="aorin" creationdate="20171228T171240Z">
@@ -21003,6 +21035,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163230Z" creationid="aorin" creationdate="20171228T163230Z">
         <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>合You realize that you can't trust your companion, so you start to feed him false information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210845Z" creationid="aorin" creationdate="20171231T210845Z">
+        <seg>あなたは仲間が信じたれないことに気づいたので、彼には虚偽の情報を流すようになった。</seg>
       </tuv>
     </tu>
     <tu>
