@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I met your mother while I was creating a map of Greengully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T221651Z" creationid="aorin" creationdate="20171231T221651Z">
+        <seg>「私はグリーングリーの地図を作っている時にお前の母に出会った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I never thought this would happen, but I can't help how I feel.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211030Z" creationid="aorin" creationdate="20171231T211030Z">
@@ -13309,6 +13317,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She and I spent several passionate nights together, but I had my orders, and I couldn't stay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T221851Z" creationid="aorin" creationdate="20171231T221851Z">
+        <seg>彼女と私は何度かの朝と夜を気づかないうちに共に過ごしたが、私は命令があり、留まることはできなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She cannot use Field Hospitals if she does not rule the Keep.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230303Z" creationid="aorin" creationdate="20171215T230303Z">
@@ -18940,6 +18956,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210126Z" creationid="aorin" creationdate="20171231T210126Z">
         <seg>あなたの仲間は、彼が致命的な実験から逃げ出し、それが未だ彼を傷つけていることを告白した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your companion confesses that he is your long-lost father.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T221630Z" creationid="aorin" creationdate="20171231T221630Z">
+        <seg>あなたの仲間は、生き別れに合った父だと告白してきました。</seg>
       </tuv>
     </tu>
     <tu>
