@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Chicken soup for the soul" is considered a legitimate medical practice in Greengully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205456Z" creationid="aorin" creationdate="20171231T205456Z">
+        <seg>「魂のチキンスープ」はグリーングリーでは適切な医療行為であると考えられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Despite my better judgment, you are the future of Greengully.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T074933Z" creationid="nakahodo" creationdate="20171230T073800Z">
@@ -2585,6 +2593,31 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T205309Z" creationid="aorin" creationdate="20171231T205309Z">
         <seg>332 - Chef</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>333</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205506Z" creationid="aorin" creationdate="20171231T205506Z">
+        <seg>333 - Restaurateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>334 have at least 4 different types of peril tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205550Z" creationid="aorin" creationdate="20171231T205550Z">
+        <seg>334 - Village Savior
+少なくとも4種類の危険トークンを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>335</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205708Z" creationid="aorin" creationdate="20171231T205708Z">
+        <seg>335 - Baker</seg>
       </tuv>
     </tu>
     <tu>
@@ -17766,6 +17799,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T161044Z" creationid="nakahodo" creationdate="20171230T161044Z">
         <seg>あなたがワーカーたちを戻すたびに、少なくとも2匹の猫を戻す場合に、2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you retrieve workers, gain 2 VP if you retrieve at least 2 chefs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205521Z" creationid="aorin" creationdate="20171231T205457Z">
+        <seg>あなたがワーカーたちを戻すたびに、少なくとも2体のシェフを戻す場合、2VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
