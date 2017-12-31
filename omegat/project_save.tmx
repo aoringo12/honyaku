@@ -3518,6 +3518,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you place a worker in your charter, you may discard this (instead of paying the building's cost) to gain the building's benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T194737Z" creationid="aorin" creationdate="20171231T194737Z">
+        <seg>あなたのチャーターに自身のワーカー1体を配置すると、あなたはこのカードを捨て札にすることで（建物のコストを支払う代わりに）建物の効果を得ることが出来る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you tinker with them you discover that they hold immense power.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174652Z" creationid="aorin" creationdate="20171228T174652Z">
