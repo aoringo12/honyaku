@@ -2952,6 +2952,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>375</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232223Z" creationid="aorin" creationdate="20171231T232223Z">
+        <seg>375 the End and the Begining</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -4657,8 +4665,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At end of game, if you have o minions, gain 10 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T232010Z" creationid="aorin" creationdate="20171231T231950Z">
-        <seg>ゲーム終了時、あなたのミニオンが0であるなら、10VPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232154Z" creationid="aorin" creationdate="20171231T231950Z">
+        <seg>ゲーム終了時、あなたの持つミニオンが0であるなら、10VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,16 +4681,16 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At end of game, if you have o tokens on the quota track, gain 6 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T232054Z" creationid="aorin" creationdate="20171231T232054Z">
-        <seg>ゲーム終了時、ノルマトラックにトークンが0なら、6VPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232205Z" creationid="aorin" creationdate="20171231T232054Z">
+        <seg>ゲーム終了時、ノルマトラックにあなたのトークンが0なら、6VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>At end of game, if you have o tokens on the reputation track, gain 6 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T232038Z" creationid="aorin" creationdate="20171231T232038Z">
-        <seg>ゲーム終了時、評判トラックにトークンが0なら、6VPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232159Z" creationid="aorin" creationdate="20171231T232038Z">
+        <seg>ゲーム終了時、評判トラックにあなたのトークンが0なら、6VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8714,6 +8722,14 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player has a spectral worker, place it in the Archive and regain their big worker meeple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232437Z" creationid="aorin" creationdate="20171231T232437Z">
+        <seg>幽霊ワーカーを持つプレイヤーがいる場合、アーカイブにそれを入れ、自身の大きなワーカーミニオンを取り戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player has no slaves or only 1 slave in the mine, that player is only allowed to choose 1 cube from the bag.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045055Z" creationid="aorin" creationdate="20171213T045055Z">
@@ -12197,6 +12213,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143218Z" creationid="nakahodo" creationdate="20171213T143218Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place all original persona cards (those without abilities) and companion cards in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232516Z" creationid="aorin" creationdate="20171231T232516Z">
+        <seg>オリジナル役割カード（能力がないもの）とコンパニオンカードの全てをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19461,6 +19485,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204747Z" creationid="nakahodo" creationdate="20171224T204747Z">
         <seg>チャーターチェストに現在のキャパシティが示されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Charterstone campaign has ended, but the sto1y of our unique village is just beginning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T232408Z" creationid="aorin" creationdate="20171231T232408Z">
+        <seg>あなたのチャーターストーンキャンペーンは終了したが、我々独自の村の物語は始まったばかりです。</seg>
       </tuv>
     </tu>
     <tu>
