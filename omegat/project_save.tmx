@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"It's a direct link to the souls of villagers like you across many centuries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235605Z" creationid="aorin" creationdate="20171231T235605Z">
+        <seg>「何世紀にも渡り、あなたのような村人の魂へと直接リンクしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Metempsychosis," he whispers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T002007Z" creationid="aorin" creationdate="20171229T002007Z">
@@ -153,6 +161,14 @@
         <seg>"The process of moving the soul ft·om one body to anothe,:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T002204Z" creationid="aorin" creationdate="20171229T002204Z">
+        <seg>「魂を身体から、また別の身体へと移ろう理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The process of moving the soul ft·om one body to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235556Z" creationid="aorin" creationdate="20171231T235556Z">
         <seg>「魂を身体から、また別の身体へと移ろう理。</seg>
       </tuv>
     </tu>
@@ -4915,6 +4931,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of a long month of passive-aggressive behavior from your companion, you've had enough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235617Z" creationid="aorin" creationdate="20171231T235617Z">
+        <seg>あなたの仲間からの陰湿な攻撃的とも取れる行動を受けた長い月の終わり、あなたはもう十分に耐えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a long month of passiveaggressive behaviorf,'Dln your companion, you've had enough.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014226Z" creationid="aorin" creationdate="20171229T014226Z">
@@ -6058,6 +6082,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create piles of coins/resources and reveal 5 random advancement cards on the mat (extra cards form a face-down deck on the mat).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235518Z" creationid="aorin" creationdate="20171231T235518Z">
+        <seg>コインとリソースの山を作り、マットに発展カード5枚をランダムに公開します（残ったカードでマットに裏向きのデッキを作ります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create piles of coins/resources and reveal 5 random advancement cards on the mat (extra cards from a face-clown deck on the mat).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145753Z" creationid="nakahodo" creationdate="20171230T145753Z">
@@ -6510,6 +6542,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003605Z" creationid="aorin" creationdate="20171216T003605Z">
         <seg>任意の戦闘でのアタッカー時に、追加のヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During end-game scoring for the current game only, each player includes the end-of-campaign value (〇)of buildings in their charter in their VP total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235547Z" creationid="aorin" creationdate="20171231T235547Z">
+        <seg>現在のゲームのみ、ゲーム終了の得点計算をするとき、各プレイヤーは自身の合計VPに、自身のチャーターにある建物のキャンペーン終了価値（○）を含めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7006,6 +7046,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T131429Z">
         <seg>各プレイヤーは自身の役割に名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player reads their companion card, maks their choice on the card, and also marks their selection on their Charter Chest (either 1 capacity of 1 glory).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235631Z" creationid="aorin" creationdate="20171231T235631Z">
+        <seg>各プレイヤーは自身のコンパニオンカードを読み上げ、カードに自身の選択を記録し、また、自身のチャーターチェストにも自身の選択を記録します（1キャパシティか1栄光のいずれか）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7781,6 +7829,14 @@ please see page 13.</seg>
         <seg>For each inactive charter, place 1 remaining companion in their Charter Chest</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015441Z" creationid="aorin" creationdate="20171229T015441Z">
+        <seg>非アクティブチャーターごとに、そのチャーターチェストに残っているコンパニオン1枚を入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each inactive charter, place 1 remaining companion in their Charter Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235622Z" creationid="aorin" creationdate="20171231T235622Z">
         <seg>非アクティブチャーターごとに、そのチャーターチェストに残っているコンパニオン1枚を入れます。</seg>
       </tuv>
     </tu>
@@ -10778,6 +10834,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep this card in your Charter Chest until instructed otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235636Z" creationid="aorin" creationdate="20171231T235636Z">
+        <seg>別途指示があるまで、自身のチャーターチェストにこのカードを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Concepts</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154329Z" creationid="aorin" creationdate="20171215T154329Z">
@@ -11546,6 +11610,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222458Z" creationid="nakahodo" creationdate="20171224T222458Z">
         <seg>奇妙なことに、久遠の都にコインを持っていこうとした時、あなたを妨げる障壁があることに気づきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oddly, when you try to take the resources to the Eternal City, you find that there is an invisible barrier preventing you fi·om leaving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235539Z" creationid="aorin" creationdate="20171231T235539Z">
+        <seg>奇妙なことに、久遠の都に資源を持っていこうとした時、あなたを妨げる障壁があることに気づきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12829,6 +12901,14 @@ turn order.</seg>
         <seg>Place your VP token on 0 VP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145926Z" creationid="nakahodo" creationdate="20171230T145926Z">
+        <seg>0VPに、あなたのVPトークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your VP token on 0 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235523Z" creationid="aorin" creationdate="20171231T235523Z">
         <seg>0VPに、あなたのVPトークンを配置します。</seg>
       </tuv>
     </tu>
@@ -14745,6 +14825,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supporting the Kingdom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235537Z" creationid="aorin" creationdate="20171231T235537Z">
+        <seg>王国への支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Su軋mrting t􀀑e King􀀒om</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163617Z" creationid="aorin" creationdate="20171228T163617Z">
@@ -14981,6 +15069,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T084450Z" creationid="nakahodo" creationdate="20171230T084450Z">
         <seg>そのプレイヤーは、アーカイブに自身が使用した役割カードの1枚（現在のゲーム[または]自身のチャーターチェストから）を入れなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's why you have memories you never experienced."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235604Z" creationid="aorin" creationdate="20171231T235604Z">
+        <seg>だからこそ、お前には経験したことのない記憶があるだろう？」</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,6 +18150,14 @@ the most.</seg>
         <seg>Updates on updated rules cards are highlighted with a red arrow (●）．</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222937Z" creationid="nakahodo" creationdate="20171224T222937Z">
+        <seg>ルール更新カードによる変更は、赤い矢印で強調表示されます（●）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates on updated rules cards are highlighted with a red arrow (一)．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235542Z" creationid="aorin" creationdate="20171231T235542Z">
         <seg>ルール更新カードによる変更は、赤い矢印で強調表示されます（●）。</seg>
       </tuv>
     </tu>
