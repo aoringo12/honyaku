@@ -2968,6 +2968,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>376</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233113Z" creationid="aorin" creationdate="20171231T233113Z">
+        <seg>376 - Belated Advancements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -3669,6 +3677,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accompanying the Forever King's arrival are a host of advancements never before seen in the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233335Z" creationid="aorin" creationdate="20171231T233335Z">
+        <seg>永遠なる王の到着に伴い、村はこれまで見たことのないほどの発展を遂げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acquired Reward Points are used to move a player’s score marker towards or even beyond the 0 on the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033021Z" creationid="aorin" creationdate="20171213T033021Z">
@@ -3863,6 +3879,14 @@ Blend Slate is full.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163717Z" creationid="aorin" creationdate="20171212T163717Z">
         <seg>全ての昇進ステップが実行された後、忠実な使用人ステップに到達した妖精は忠実な使用人報酬タイルフィールドに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After completing Game 11 setup, as a group, open the following crates (if they haven't already been unlocked).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233416Z" creationid="aorin" creationdate="20171231T233416Z">
+        <seg>ゲーム11のセットアップが完了した後、グループとして、次の木箱を開きます（まだ解放していない場合）。</seg>
       </tuv>
     </tu>
     <tu>
