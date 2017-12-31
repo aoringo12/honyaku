@@ -2022,6 +2022,38 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>256</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200306Z" creationid="aorin" creationdate="20171231T200306Z">
+        <seg>256 - Candlemaker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>257</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200352Z" creationid="aorin" creationdate="20171231T200352Z">
+        <seg>257 - Perfumer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>258</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200447Z" creationid="aorin" creationdate="20171231T200447Z">
+        <seg>258 - Carpenter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>271</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200510Z" creationid="aorin" creationdate="20171231T200510Z">
+        <seg>271 - Crafter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -3093,6 +3125,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After using a building with a wood cost, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200503Z" creationid="aorin" creationdate="20171231T200442Z">
+        <seg>木材をコストにする建物1つを使用した後、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you peel the sticker off a building card to construct it, you're left with a new type of card:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T154330Z" creationid="nakahodo" creationdate="20171218T154330Z">
@@ -3657,8 +3697,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At end of game, gain 1 VP for each type of minion you control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T200151Z" creationid="aorin" creationdate="20171231T200151Z">
-        <seg>ゲーム終了時、あなたが制御するミニオンの種類ごとに、1VPを得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200254Z" creationid="aorin" creationdate="20171231T200151Z">
+        <seg>ゲーム終了時、あなたが制御するミニオンの種類ごとに、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8448,6 +8488,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T165007Z" creationid="nakahodo" creationdate="20171230T164727Z">
         <seg>あなたが立ち枯れトークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your worker picks up a Fuel Shortage token, you may immediately retrieve that worker and gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200344Z" creationid="aorin" creationdate="20171231T200344Z">
+        <seg>あなたが燃料不足トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15924,8 +15972,8 @@ side to place face-up on the table.</seg>
       <tuv lang="EN-US">
         <seg>Trigger income for yourself (it only affects you).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T200051Z" creationid="aorin" creationdate="20171231T200051Z">
-        <seg>あなた自身の収入を発動します（これはあなたにだけ効果があります）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200243Z" creationid="aorin" creationdate="20171231T200051Z">
+        <seg>あなた自身の収入を発動する（これはあなたにだけ効果がある）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16851,6 +16899,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you bump an opponent's worker, you may retrieve your other worker or gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200432Z" creationid="aorin" creationdate="20171231T200432Z">
+        <seg>あなたが対戦相手のワーカーを押し出した時、あなたは、自身の他のワーカー1体を戻す[または]1VPを得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
@@ -16983,6 +17039,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T195919Z" creationid="aorin" creationdate="20171231T195919Z">
         <seg>あなたが建物1つを使用してトレジャーカード1枚を得るたびに、＄2を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you use a building to gain an item card, gain 2 VP and $1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200543Z" creationid="aorin" creationdate="20171231T200543Z">
+        <seg>あなたが建物1つを使用してアイテムカード1枚を得るたびに、2VPと＄1を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18319,8 +18383,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>use once per game on your turn</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T200111Z" creationid="aorin" creationdate="20171231T200111Z">
-        <seg>これは、ゲームごとに1度、あなたのターンに使用できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T200250Z" creationid="aorin" creationdate="20171231T200111Z">
+        <seg>これは、ゲームごとに1度、あなたのターンに使用できる。</seg>
       </tuv>
     </tu>
     <tu>
