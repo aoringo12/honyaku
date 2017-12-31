@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I'm telling you because I feel bad about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210544Z" creationid="aorin" creationdate="20171231T210544Z">
+        <seg>「俺はそれがひどくお前に悪いと思ったんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"It is no ordinary stone that binds you to this village, of course," he whispers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004654Z" creationid="aorin" creationdate="20171229T004654Z">
@@ -2642,6 +2650,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T205946Z" creationid="aorin" creationdate="20171231T205946Z">
         <seg>337 - companion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>338</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210446Z" creationid="aorin" creationdate="20171231T210446Z">
+        <seg>338 - companion</seg>
       </tuv>
     </tu>
     <tu>
@@ -14744,6 +14760,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The king didn't give me much of a choice;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210609Z" creationid="aorin" creationdate="20171231T210609Z">
+        <seg>王は俺に選択肢なんてくれなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The king looms over you, his kindly demeanor gone.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135359Z" creationid="nakahodo" creationdate="20171230T135031Z">
@@ -18824,6 +18848,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your companion confesses that he's been spying on you for the Forever King.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210523Z" creationid="aorin" creationdate="20171231T210523Z">
+        <seg>あなたの仲間は、永遠なる王のためにあなたをスパイしていたと告白した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your companion has been with you st nee you first arrived at the village, but you've been so focused on work that you've never really gotten to know them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015347Z" creationid="aorin" creationdate="20171229T015251Z">
@@ -21053,6 +21085,14 @@ in the same tile.</seg>
         <seg>村の成長に空島を使用することの承認を永遠なる王に求める場合は、木箱Eを開けます。
 永遠なる王の承認を得ずに村の拡張に空島を使用することに決めた場合は、木箱Fを開けます。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>白You're uncomfortable and slowly back out of the room, nodding and smiling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T210440Z" creationid="aorin" creationdate="20171231T210440Z">
+        <seg>あなたはなんとも気まずくなり、部屋をゆっくりと出て、ごまかし笑いをした。</seg>
       </tuv>
     </tu>
     <tu>
