@@ -17753,6 +17753,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you use a building to gain a friend card, gain 1 VP and $1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204837Z" creationid="aorin" creationdate="20171231T204837Z">
+        <seg>あなたが建物1つを使用してフレンドカード1枚を得るたびに、1VPと＄1を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you use a building to gain a guest card, gain 1 VP and $1.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202444Z" creationid="aorin" creationdate="20171231T202444Z">
