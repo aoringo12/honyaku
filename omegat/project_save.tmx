@@ -2119,6 +2119,78 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>280</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202127Z" creationid="aorin" creationdate="20171231T202127Z">
+        <seg>280 - Mason</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>281</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202200Z" creationid="aorin" creationdate="20171231T202200Z">
+        <seg>281 - monk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>282</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202236Z" creationid="aorin" creationdate="20171231T202236Z">
+        <seg>282 - peasant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>283</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202251Z" creationid="aorin" creationdate="20171231T202251Z">
+        <seg>283 - craftsman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>284</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202257Z" creationid="aorin" creationdate="20171231T202257Z">
+        <seg>284 - vassal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>285</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202317Z" creationid="aorin" creationdate="20171231T202317Z">
+        <seg>285 - knight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>286</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202326Z" creationid="aorin" creationdate="20171231T202326Z">
+        <seg>286 - cleric</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>287</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202332Z" creationid="aorin" creationdate="20171231T202332Z">
+        <seg>287 - wizard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>288</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202345Z" creationid="aorin" creationdate="20171231T202345Z">
+        <seg>288 - sorceress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -3170,6 +3242,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T144705Z" creationid="nakahodo" creationdate="20171224T144705Z">
         <seg>最初の木箱が開放された後、インデックスからカード14を引き出します（このカードのシールを剥がさずにアーカイブへと入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After using a building with a clay cost, gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202150Z" creationid="aorin" creationdate="20171231T202150Z">
+        <seg>粘土をコストにする建物1つを使用した後、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6885,6 +6965,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain both benefits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202219Z" creationid="aorin" creationdate="20171231T202219Z">
+        <seg>両方の利益を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain either benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202229Z" creationid="aorin" creationdate="20171231T202229Z">
+        <seg>いずれか1つの利益を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain for each Plan (face down) in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034823Z" creationid="aorin" creationdate="20171212T034823Z">
@@ -7997,6 +8093,30 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T082542Z" creationid="nakahodo" creationdate="20171209T082542Z">
         <seg>コストがタイの場合、プランのタイプをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are 2-3 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202209Z" creationid="aorin" creationdate="20171231T202209Z">
+        <seg>2-3プレイヤーの場合：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are 2ぅplayers:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202243Z" creationid="aorin" creationdate="20171231T202243Z">
+        <seg>2-3プレイヤーの場合：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are 4-6 players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202222Z" creationid="aorin" creationdate="20171231T202222Z">
+        <seg>4-6プレイヤーの場合：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17112,6 +17232,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160510Z" creationid="nakahodo" creationdate="20171230T160510Z">
         <seg>あなたが対戦相手のチャーターらから、両方の通常ワーカーを戻すたびに、1VPと$1を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you retrieve workers, gain 2 VP if you retrieve at least 2 butlers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202117Z" creationid="aorin" creationdate="20171231T202117Z">
+        <seg>あなたがワーカーたちを戻すたびに、少なくとも2体の執事を戻す場合に、2VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
