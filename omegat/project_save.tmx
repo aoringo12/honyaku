@@ -2984,6 +2984,30 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>394</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233812Z" creationid="aorin" creationdate="20171231T233812Z">
+        <seg>394 - Apothecary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>395</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233853Z" creationid="aorin" creationdate="20171231T233853Z">
+        <seg>395 - Enforcer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>396</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233925Z" creationid="aorin" creationdate="20171231T233925Z">
+        <seg>396 - Pilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -4699,6 +4723,38 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004013Z" creationid="aorin" creationdate="20171229T004013Z">
         <seg>ゲーム終了時、あなたの空島タイル4つ全てを集め、保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if the Automa has more peril tokens than every human, it gains 8 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233920Z" creationid="aorin" creationdate="20171231T233920Z">
+        <seg>ゲーム終了時、オートマが全ての人間よりも危険トークンを所持している場合、オートマは8VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if the Automa has more tokens on the reputation track than every human, it gains 6 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233803Z" creationid="aorin" creationdate="20171231T233803Z">
+        <seg>ゲーム終了時、オートマが人間全員より評判トラックにトークンを持つ場合、オートマは6VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if there are any items or treasures on the advancement mat, the Automa gains 5 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233847Z" creationid="aorin" creationdate="20171231T233847Z">
+        <seg>ゲーム終了時、発展マットに任意のアイテムかトレジャーがある場合、オートマは5VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, if there are no human workers in this Automa's charter, it gains 8 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233957Z" creationid="aorin" creationdate="20171231T233957Z">
+        <seg>ゲーム終了時、このオートマのチャーターに人間のワーカーがない場合、オートマは8VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
