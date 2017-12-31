@@ -4260,6 +4260,14 @@ new Blend is inserted to the right of any Blend it outranks.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All minions you control (on and off the board) are considered to be in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235209Z" creationid="aorin" creationdate="20171231T235209Z">
+        <seg>あなたの制御するミニオンは全て（ボードにあるなし関わらず）、あなたの個人サプライにあるものと見なします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All minions you control :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172317Z" creationid="aorin" creationdate="20171228T172317Z">
@@ -5762,6 +5770,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224515Z" creationid="nakahodo" creationdate="20171224T224515Z">
         <seg>ボードとマットの全てのコンポーネントをクリア（綺麗に）します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear the board of remaining tokens and return all peril tokens to the general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235223Z" creationid="aorin" creationdate="20171231T235223Z">
+        <seg>ボードに残っているトークンをなくし、共通サプライに危険トークンを全て戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8284,6 +8300,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gather resources to fill orders for items in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235232Z" creationid="aorin" creationdate="20171231T235232Z">
+        <seg>あなたの個人サプライにて、アイテムの受注を満たすためのリソースを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General &amp; Personal Supply</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144617Z" creationid="nakahodo" creationdate="20171218T144617Z">
@@ -10364,6 +10388,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105815Z" creationid="aorin" creationdate="20171219T105635Z">
         <seg>収入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increase the capacity for 1 type of component on your Charter Chest (●)．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235332Z" creationid="aorin" creationdate="20171231T235332Z">
+        <seg>自身のチャーターチェストの、コンポーネント1種類のキャパシティを増加させます（●）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13235,6 +13267,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process the current Guidepost card (each player who achieved it gains ●)， 2, END·GAME SCORING:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235327Z" creationid="aorin" creationdate="20171231T235327Z">
+        <seg>現在の指標カードを処理します（これを達成したプレイヤーたちは●を得る）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process the current Guidepost card (each playerwho achieved it gains冑）， 2, END·GAME SCORING:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223322Z" creationid="nakahodo" creationdate="20171224T223322Z">
@@ -14239,6 +14279,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the advancement deck, then reveal cards until you find an unconstructed building card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235337Z" creationid="aorin" creationdate="20171231T235337Z">
+        <seg>発展デッキをシャッフルし、その後、建築されていない建物カード1枚が見つかるまでカードを公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the advancement deck, thenreveal cards until you find an unconstructed building card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105737Z" creationid="nakahodo" creationdate="20171224T234646Z">
@@ -14307,6 +14355,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165147Z" creationid="aorin" creationdate="20171228T165121Z">
         <seg>残っているカードは目標デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the resulting constructed building card (and other revealed cards) into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235505Z" creationid="aorin" creationdate="20171231T235505Z">
+        <seg>結果として出る建築された建物カードを（他の公開されたカードらと共に）発展デッキに入れてシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15216,6 +15272,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forever King gave you some helpful blueprints, but architectural innovation can create new opportunities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235248Z" creationid="aorin" creationdate="20171231T235248Z">
+        <seg>永遠なる王から役に立つ設計図をいくつか頂きましたが、建築学のイノベーションは新しい機会を作り出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever King is aghast that you'd choose to focus on anything other than the values of the village's buildings.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001243Z" creationid="aorin" creationdate="20171229T001243Z">
@@ -15827,6 +15891,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131751Z" creationid="aorin" creationdate="20171215T131751Z">
         <seg>プレイ学習ガイドは砕けたトーンとたくさんのイラスト例示で記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The longer you can entertain them, the more benefits you will reap,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235237Z" creationid="aorin" creationdate="20171231T235237Z">
+        <seg>彼らを長く楽しませることができれば、多くの利益を得られるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17171,6 +17243,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thieves have stolen precious artifacts from the Foreve1·King's personal treasury and smuggled them into your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235227Z" creationid="aorin" creationdate="20171231T235227Z">
+        <seg>泥棒たちは、永遠なる王の私財である貴重な宝物を盗み出し、あなたの村に密輸しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thieves have stolen precious artifacts from the Foreve1·King's personal treaswy and smuggled them into your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174257Z" creationid="aorin" creationdate="20171228T174257Z">
@@ -17685,6 +17765,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To play a treasure card, discard it next to the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235229Z" creationid="aorin" creationdate="20171231T235229Z">
+        <seg>トレジャーカードをプレイするには、発展デッキの横にこれを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To prepare for the Charterstone campaign, please do the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141245Z" creationid="nakahodo" creationdate="20171218T141245Z">
@@ -17891,6 +17979,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike stay on other your workers, buildings minions until you choose to retrieve all your workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235042Z" creationid="aorin" creationdate="20171231T235042Z">
+        <seg>他のワーカーとは違い、ミニオンはそこから押し出せません――ミニオンは、あなたが自身のワーカー全てを戻す選択をするまで、あなたの建物にとどまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock at you「ownpace!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200435Z" creationid="nakahodo" creationdate="20171218T200348Z">
@@ -17943,6 +18039,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122124Z" creationid="nakahodo" creationdate="20171213T122124Z">
         <seg>未使用アクションもシングルアクションも模倣できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates on updated rules cards are highlighted with a red arrow (●)．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235305Z" creationid="aorin" creationdate="20171231T235305Z">
+        <seg>ルール更新カードによる変更は、赤い矢印で強調表示されます（●）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18641,6 +18745,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use the Shoemaker, select another persona card from your Charter Chest and activate it(in addition to other persona cards you're using game)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235256Z" creationid="aorin" creationdate="20171231T235256Z">
+        <seg>あなたが靴屋を使用するとき、あなたのチャーターチェストから別の役割カードを選択して、これをアクティブにします（あなたがこのゲームで使用しているもう一方の役割カードに加えて）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you're ready to begin Game 1, extract card 13 from the Index (place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T142253Z" creationid="nakahodo" creationdate="20171224T142253Z">
@@ -18693,6 +18805,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever income is activated (C), in reverse player order starting with the current player, gain the benefit(s) indicated in the upper right of each guest card in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235246Z" creationid="aorin" creationdate="20171231T235246Z">
+        <seg>収入が発動するたびに、現在のプレイヤーから逆回りの順番で、自身の個人サプライのゲストカードごとに、その右上に示される利益を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19379,6 +19499,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can no longer ignore the problems that threaten your village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235214Z" creationid="aorin" creationdate="20171231T235214Z">
+        <seg>あなたは自身の村を脅かす問題を無視することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can no longer ignore the problems that threater your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173210Z" creationid="aorin" creationdate="20171228T173210Z">
@@ -19902,6 +20030,14 @@ with the learn-to-play guide.</seg>
         <seg>You're seeing an increasing number of  travelers, which is odd—where else are they  going other than your village and the Eternal City?</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234113Z" creationid="aorin" creationdate="20171228T234043Z">
+        <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外に行くところはあるのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're seeing an increasing number of travelers, which is odd—where else are they going other than your village and the Eternal City?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235235Z" creationid="aorin" creationdate="20171231T235235Z">
         <seg>最近奇妙な旅行者が増えています――彼らはこの村と久遠の都以外に行くところはあるのか？</seg>
       </tuv>
     </tu>
@@ -21090,10 +21226,34 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•  GAIN PERIL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235216Z" creationid="aorin" creationdate="20171231T235216Z">
+        <seg>•危険を得る：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>•  If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234404Z" creationid="aorin" creationdate="20171231T234404Z">
         <seg>•ゲーム中に役割カードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルの役割と同じように見なくても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  PERIL BUILDINGS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235218Z" creationid="aorin" creationdate="20171231T235218Z">
+        <seg>•危険な建物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  SETUP:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235215Z" creationid="aorin" creationdate="20171231T235215Z">
+        <seg>•セットアップ：</seg>
       </tuv>
     </tu>
     <tu>
