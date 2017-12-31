@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I've trained as an assassin my entire life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T211534Z" creationid="aorin" creationdate="20171231T211534Z">
+        <seg>「私はこの命を、暗殺のために磨いてきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"It is no ordinary stone that binds you to this village, of course," he whispers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004654Z" creationid="aorin" creationdate="20171229T004654Z">
@@ -3369,6 +3377,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112457Z" creationid="nakahodo" creationdate="20171001T112457Z">
         <seg>チームのアクションは多数決によって決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A village like yours paid me to take out the king, and I took the job.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T212407Z" creationid="aorin" creationdate="20171231T212407Z">
+        <seg>***あなたのような村で王を殺すために私はこの仕事を受けた。</seg>
       </tuv>
     </tu>
     <tu>
