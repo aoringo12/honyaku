@@ -2191,6 +2191,79 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>289</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202354Z" creationid="aorin" creationdate="20171231T202354Z">
+        <seg>289 - duke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>290</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202400Z" creationid="aorin" creationdate="20171231T202400Z">
+        <seg>290 - judge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>291</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202405Z" creationid="aorin" creationdate="20171231T202405Z">
+        <seg>291 - lord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>292</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202412Z" creationid="aorin" creationdate="20171231T202412Z">
+        <seg>292 - baron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>293</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202425Z" creationid="aorin" creationdate="20171231T202425Z">
+        <seg>293 - Innkeeper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>294 have at least 3 guest cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202507Z" creationid="aorin" creationdate="20171231T202507Z">
+        <seg>294 - A Proper Host
+少なくとも3枚のゲストカードを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>295</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202513Z" creationid="aorin" creationdate="20171231T202513Z">
+        <seg>295 - Bouncer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>296</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202555Z" creationid="aorin" creationdate="20171231T202555Z">
+        <seg>296 - Accountant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>297</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202625Z" creationid="aorin" creationdate="20171231T202625Z">
+        <seg>297 - Golem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -3844,6 +3917,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200254Z" creationid="aorin" creationdate="20171231T200151Z">
         <seg>ゲーム終了時、あなたが制御するミニオンの種類ごとに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, gain 1 VP for each type of resource in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202620Z" creationid="aorin" creationdate="20171231T202620Z">
+        <seg>ゲーム終了時にて、あなたの個人サプライのリソースの種類ごとに、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16972,6 +17053,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use a building with at least 1 guest card as the cost, gain the top card of the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202547Z" creationid="aorin" creationdate="20171231T202547Z">
+        <seg>あなたがコストとして、少なくとも1枚のゲストカードの建物を使用するたびに、発展デッキの一番上のカードを1枚得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you use a building with at least 1 item card as the cost, gain the top card of the advancement deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200707Z" creationid="aorin" creationdate="20171231T200707Z">
@@ -17196,6 +17285,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you place a golem or an opponent uses your golem's building, gain any 1 resource.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202649Z" creationid="aorin" creationdate="20171231T202649Z">
+        <seg>あなたがゴーレム1体を配置[または]対戦相手があなたのゴーレムのいる建物を使用するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you place a token on the reputation track, gain 1 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154807Z" creationid="nakahodo" creationdate="20171230T154807Z">
@@ -17280,6 +17377,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200853Z" creationid="aorin" creationdate="20171231T200853Z">
         <seg>あなたが共有地の建物1つを使用するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you use a building to gain a guest card, gain 1 VP and $1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202444Z" creationid="aorin" creationdate="20171231T202444Z">
+        <seg>あなたが建物1つを使用してゲストカード1枚を得るたびに、1VPと＄1を得る。</seg>
       </tuv>
     </tu>
     <tu>
