@@ -2264,6 +2264,23 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>298</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202850Z" creationid="aorin" creationdate="20171231T202850Z">
+        <seg>298 - Sculptor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>299 have at least 6 peril tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202940Z" creationid="aorin" creationdate="20171231T202940Z">
+        <seg>299 - Defender of the Realm
+少なくとも6つの危険トークンを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -12658,6 +12675,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sculpted as loyal guards for the Forever King, go/ems continually shed self-generated resources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202842Z" creationid="aorin" creationdate="20171231T202842Z">
+        <seg>永遠なる王の忠実なガードとして作り出されたゴーレームは、自己生成のためのリソースを絶えず流しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See rule 7 for the 7 different types.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205347Z" creationid="nakahodo" creationdate="20171224T205347Z">
@@ -17353,6 +17378,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T172612Z" creationid="nakahodo" creationdate="20171230T172612Z">
         <seg>あなたがワーカーたちを戻すたびに、少なくとも2体の幽霊を戻す場合に、2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you retrieve workers, gain 2 VP if you retrieve at least 2 golems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T202912Z" creationid="aorin" creationdate="20171231T202912Z">
+        <seg>あなたがワーカーたちを戻すたびに、少なくとも2体のゴーレムを戻す場合、2VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
