@@ -2726,6 +2726,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>343</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222752Z" creationid="aorin" creationdate="20171231T222752Z">
+        <seg>343 - Spectral Worker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -4443,6 +4451,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204212Z" creationid="nakahodo" creationdate="20171224T204212Z">
         <seg>ゲーム2の終わりからゲーム12までを通して、キャパシティはあなたが保持できる、個人サプライのコンポーネント数を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of a game, pay one of the following costs to the general supply:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223009Z" creationid="aorin" creationdate="20171231T223009Z">
+        <seg>ゲーム終了時に、共通サプライに次のコストの1つを支払ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7309,6 +7325,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075643Z" creationid="aorin" creationdate="20171216T075643Z">
         <seg>この移動でのみ、あなたは森に入る移動ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fortunately, there is a way to get your body back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222945Z" creationid="aorin" creationdate="20171231T222945Z">
+        <seg>幸いにも、身体を取り戻す方法はあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16502,6 +16526,14 @@ using the Hiding Spots secrets card.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is both good news and bad news.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222812Z" creationid="aorin" creationdate="20171231T222812Z">
+        <seg>これは良いニュースでもあり、悪いニュースでもある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is determined for Apples, Honey, Bread, Silver and Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040135Z" creationid="aorin" creationdate="20171213T040135Z">
@@ -16707,6 +16739,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165851Z" creationid="aorin" creationdate="20171212T165659Z">
         <seg>したがって、彼女は全てのプレイヤーを罰するでしょう！（（（ありがとうございます！）））</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, you can't win the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222931Z" creationid="aorin" creationdate="20171231T222931Z">
+        <seg>したがって、あなたはキャンペーンに勝利できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18019,6 +18059,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you place your spectral worker or an opponent bumps your spectral worker, you may gain 1reputation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222910Z" creationid="aorin" creationdate="20171231T222910Z">
+        <seg>あなたが幽霊ワーカーを配置する[または]あなたの幽霊ワーカーが対戦相手1人に押し出されるたびに、あなたは1評判を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you remove an opponent’s building, you score another victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003647Z" creationid="aorin" creationdate="20171216T003647Z">
@@ -18333,6 +18381,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are a specter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222758Z" creationid="aorin" creationdate="20171231T222758Z">
+        <seg>あなたは幽霊だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are completely outmatched by the sheer numbe1 of guards, spiteful companions, and even each other.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T140912Z" creationid="nakahodo" creationdate="20171230T134849Z">
@@ -18569,6 +18625,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
         <seg>自身の派閥ボードに建物を戻すことによって勝利点は失わず、以前に派閥ボードに戻した建物を建築した時はまた勝利点を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have a body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222836Z" creationid="aorin" creationdate="20171231T222836Z">
+        <seg>あなたは身体を保たない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19489,6 +19553,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T105609Z" creationid="aorin" creationdate="20171212T105609Z">
         <seg>一時的な優位性アクション）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Wizard or Sorceress guest card, the Gauntlet of Life or the Amulet of Vitality treasure card, or $9.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223119Z" creationid="aorin" creationdate="20171231T223119Z">
+        <seg>Wizard か Sorceressのゲストカード、またはGauntlet of Life か Amulet of Vitality のトレジャーカード、または＄9です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20778,6 +20850,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093822Z" creationid="aorin" creationdate="20171212T093822Z">
         <seg>18.最後手番のプレイヤーから始まり（ターン順番トラックに従って）、各プレイヤーはボードから永続能力タイル1枚を選択し、自身のプレイヤースクリーンにあるシンボルと一致する、適切なフィールドへとこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• THE BAD:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222918Z" creationid="aorin" creationdate="20171231T222918Z">
+        <seg>•悪いこと：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• THE GOOD:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222829Z" creationid="aorin" creationdate="20171231T222829Z">
+        <seg>•良いこと:</seg>
       </tuv>
     </tu>
     <tu>
