@@ -2550,8 +2550,8 @@ Amulet of Time</seg>
       <tuv lang="EN-US">
         <seg>328 have at least 3 friend cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T205022Z" creationid="aorin" creationdate="20171231T205022Z">
-        <seg>328 - Brewer
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205116Z" creationid="aorin" creationdate="20171231T205022Z">
+        <seg>328 - Best Friends Forever
 少なくとも3枚のフレンドカードを持つ。</seg>
       </tuv>
     </tu>
@@ -2559,8 +2559,32 @@ Amulet of Time</seg>
       <tuv lang="EN-US">
         <seg>329</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T205033Z" creationid="aorin" creationdate="20171231T205033Z">
-        <seg>329 - Best Friends Forever</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205132Z" creationid="aorin" creationdate="20171231T205033Z">
+        <seg>329 - Viticulturist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>330</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205207Z" creationid="aorin" creationdate="20171231T205207Z">
+        <seg>330 - Collector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>331</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205231Z" creationid="aorin" creationdate="20171231T205231Z">
+        <seg>331 - Gambler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>332</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205309Z" creationid="aorin" creationdate="20171231T205309Z">
+        <seg>332 - Chef</seg>
       </tuv>
     </tu>
     <tu>
@@ -3540,6 +3564,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After placing a worker in a charter, roll the Charterstone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205255Z" creationid="aorin" creationdate="20171231T205255Z">
+        <seg>あなたがチャーターにワーカー1体を配置した後、チャーターストーンをロールする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After placing the progress token during Game 4 setup, advance it 2 spaces :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011058Z" creationid="aorin" creationdate="20171229T011046Z">
@@ -4194,6 +4226,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073207Z" creationid="aorin" creationdate="20171216T073207Z">
         <seg>いつでも、このチャートにはゲームに参加している各派閥の協力マーカーを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At end of game, gain 1 VP for each type of advancement card in your personal supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205225Z" creationid="aorin" creationdate="20171231T205225Z">
+        <seg>ゲーム終了時にて、あなたの個人サプライの発展カードの種類ごとに、1VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8258,6 +8298,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030428Z" creationid="aorin" creationdate="20171212T030428Z">
         <seg>プランサプライを十分に補充できない場合、ゲームは終了し得点計算を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it matches that charter, gain 2 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205304Z" creationid="aorin" creationdate="20171231T205304Z">
+        <seg>そのチャーターに一致した場合、2VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17532,8 +17580,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever you bump an opponent's worker, before you use the building, you may regain 1 influence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T205109Z" creationid="aorin" creationdate="20171231T205109Z">
-        <seg>あなたが対戦相手のワーカー1体を押し出すたびに、</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205159Z" creationid="aorin" creationdate="20171231T205109Z">
+        <seg>あなたが対戦相手のワーカー1体を押し出すたびに、建物を使用する前に、あなたは1影響回復できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17622,6 +17670,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160820Z" creationid="nakahodo" creationdate="20171230T160702Z">
         <seg>あなたが猫1匹を配置[または]対戦相手があなたの猫の建物を使用するたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you place a chef or an opponent uses your chef's building, you may regain 1 influence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T205357Z" creationid="aorin" creationdate="20171231T205357Z">
+        <seg>あなたがシェフ1人配置する[または]対戦相手1人があなたのシェフのいる建物を使用するたびに、1影響を回復できます。</seg>
       </tuv>
     </tu>
     <tu>
