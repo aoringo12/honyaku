@@ -2403,6 +2403,39 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>310 have at least 3 different types of minions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204028Z" creationid="aorin" creationdate="20171231T204028Z">
+        <seg>310 - Divide and Conquer
+少なくとも3種類のミニオンを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>311</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204035Z" creationid="aorin" creationdate="20171231T204035Z">
+        <seg>311 - Inventor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>312</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204105Z" creationid="aorin" creationdate="20171231T204105Z">
+        <seg>312 - Mechanic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>313</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204140Z" creationid="aorin" creationdate="20171231T204140Z">
+        <seg>313 - Coach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -3454,6 +3487,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200503Z" creationid="aorin" creationdate="20171231T200442Z">
         <seg>木材をコストにする建物1つを使用した後、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After using a building, if you have no available workers, you may retrieve all of your workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204219Z" creationid="aorin" creationdate="20171231T204219Z">
+        <seg>あなたが建物1つを使用した後、利用可能なワーカーを持たない場合、全ての自身のワーカーを戻すことができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8877,6 +8918,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T165007Z" creationid="nakahodo" creationdate="20171230T164727Z">
         <seg>あなたが立ち枯れトークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your worker picks up a Disrepair token, you may immediately retrieve that worker and gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204134Z" creationid="aorin" creationdate="20171231T204134Z">
+        <seg>あなたが破損トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17532,6 +17581,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202912Z" creationid="aorin" creationdate="20171231T202912Z">
         <seg>あなたがワーカーたちを戻すたびに、少なくとも2体のゴーレムを戻す場合、2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you retrieve workers, gain 2 VP if you retrieve at least 2 robots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T204058Z" creationid="aorin" creationdate="20171231T204048Z">
+        <seg>あなたがワーカーたちを戻すたびに、少なくとも2体のロボットを戻す場合に、2VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
