@@ -2694,6 +2694,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>341</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T221559Z" creationid="aorin" creationdate="20171231T221559Z">
+        <seg>341 - companion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -8112,6 +8120,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I failed, and now I've sworn off killing."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T212417Z" creationid="aorin" creationdate="20171231T212417Z">
+        <seg>私は失敗した。もう王を殺せない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I will observe J,-om here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135753Z" creationid="nakahodo" creationdate="20171230T135753Z">
@@ -12538,6 +12554,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211322Z" creationid="aorin" creationdate="20171231T211322Z">
         <seg>あなたは、自身がすごく動揺しているのを感じた。だからか、特に何も考えもせず、デートに行くことを決めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Q You thank her for her honesty, and you cook her a nice dinner to learn more about her past.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T212512Z" creationid="aorin" creationdate="20171231T212512Z">
+        <seg>あなたは告白に感謝し、その過去を知ろうと彼女のために心を込めて夕食を作った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21099,6 +21123,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163230Z" creationid="aorin" creationdate="20171228T163230Z">
         <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>合Fearful for your life, you start to post a guard outside of your door every night.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T212602Z" creationid="aorin" creationdate="20171231T212602Z">
+        <seg>あなたの人生が脅かされている。あなてゃ、ドアの外にガードに毎晩見張らせるようになった。</seg>
       </tuv>
     </tu>
     <tu>
