@@ -2976,6 +2976,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>393</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233657Z" creationid="aorin" creationdate="20171231T233657Z">
+        <seg>393 - Beguiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3·GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000737Z" creationid="aorin" creationdate="20171229T000737Z">
@@ -3805,6 +3813,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affix the rule stickers in the Chronicle and shuffle all newly unlocked cards into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233502Z" creationid="aorin" creationdate="20171231T233502Z">
+        <seg>クロニクルにシールを貼り付け、新しく開放したカードの全てを発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Affix this sticker, which has 5 columns Instead of 6, to the bottom of the quota track on the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173938Z" creationid="aorin" creationdate="20171228T173938Z">
@@ -3905,6 +3921,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030232Z" creationid="aorin" creationdate="20171212T030014Z">
         <seg>それらアクションのうち1つを完了した後、ターンは次のプレイヤーに時計回りで渡されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After completing setup, place this card in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233643Z" creationid="aorin" creationdate="20171231T233643Z">
+        <seg>セットアップが完了した後、このカードをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4222,6 +4246,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151334Z">
         <seg>全ての役割カード（オリジナルの役割を除く）は各プレイヤーに特別な能力を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All persona cards unlocked in this process should be placed in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233630Z" creationid="aorin" creationdate="20171231T233630Z">
+        <seg>このプロセスによってアンロックされた全ての役割カードは、アーカイブに入れなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20860,6 +20892,38 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131458Z" creationid="nakahodo" creationdate="20171213T131303Z">
         <seg>•3番目の色を選択してダミープレイヤーとし、鉱山にその色の妖精5体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Crate 23 (items)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233517Z" creationid="aorin" creationdate="20171231T233517Z">
+        <seg>•木箱23（アイテム）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Crate 31 (guests)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233525Z" creationid="aorin" creationdate="20171231T233525Z">
+        <seg>•木箱31（ゲスト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Crate 47 (friends)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233533Z" creationid="aorin" creationdate="20171231T233533Z">
+        <seg>•木箱47（フレンド）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Crate17 (treasures)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T233510Z" creationid="aorin" creationdate="20171231T233510Z">
+        <seg>•木箱17（トレジャー）</seg>
       </tuv>
     </tu>
     <tu>
