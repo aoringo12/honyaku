@@ -21265,6 +21265,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>白You wish he hadn't told you, at least not while you're trying to build a village from scratch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T222427Z" creationid="aorin" creationdate="20171231T222427Z">
+        <seg>あなたは、少なくとも村を一から建設していこうとしている間に、こんな話は聞きたくないと強く思った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>白You're uncomfortable and slowly back out of the room, nodding and smiling.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210440Z" creationid="aorin" creationdate="20171231T210440Z">
