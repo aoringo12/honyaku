@@ -2734,6 +2734,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>344</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223228Z" creationid="aorin" creationdate="20171231T223228Z">
+        <seg>344 - Campaign Victory Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -9182,6 +9190,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111842Z" creationid="aorin" creationdate="20171219T111842Z">
         <seg>○のスペースに進展トークンが移動すると、あなたは1評判を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you pay, regain your original worker meeple and place the spectral worker in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223154Z" creationid="aorin" creationdate="20171231T223154Z">
+        <seg>あなたが支払った場合、あなたのオリジナルのワーカーミープルを取り戻し、幽霊ワーカーをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15687,6 +15703,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The spectral player keeps this card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223208Z" creationid="aorin" creationdate="20171231T223208Z">
+        <seg>幽霊プレイヤーはこのカードを保持してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The stage is set for a contest that will decide the fate of the great woodland.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153538Z" creationid="nakahodo" creationdate="20171103T153538Z">
@@ -18921,6 +18945,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001432Z" creationid="aorin" creationdate="20171216T001432Z">
         <seg>法令を実行して昼が終了し、4列で示されるアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will fill out this card when instructed at the end of the campaign to determine the overall winner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T223347Z" creationid="aorin" creationdate="20171231T223347Z">
+        <seg>キャンペーンの終了で指示された時、このカードへと記入してゲーム全体の勝者を決定します。</seg>
       </tuv>
     </tu>
     <tu>
