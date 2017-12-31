@@ -2362,6 +2362,31 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>305 have at least 3 building cards (unconstructed or constructed)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203357Z" creationid="aorin" creationdate="20171231T203319Z">
+        <seg>305 - A Vast Portfolio
+少なくとも3枚の他獲物カードを持つ（建築されたかどうかに関わらず）ted)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>306</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203406Z" creationid="aorin" creationdate="20171231T203406Z">
+        <seg>306 - Clockmaker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>307</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203458Z" creationid="aorin" creationdate="20171231T203458Z">
+        <seg>307 - Futurist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>36 coins  72 resources tokens :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000044Z" creationid="aorin" creationdate="20171229T000044Z">
@@ -17311,6 +17336,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you gain an advancement card, you may select it from the mat or the top 3 cards of the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203638Z" creationid="aorin" creationdate="20171231T203638Z">
+        <seg>あなたが発展カード1枚を得るたびに、マット[または]デッキの上から3枚まで、から選択することができる（1枚を）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you gain an objective card, select it from the top 3 cards of the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160303Z" creationid="nakahodo" creationdate="20171230T160148Z">
@@ -17339,6 +17372,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234255Z" creationid="aorin" creationdate="20171228T234255Z">
         <seg>あなたが名付けられていないゲストカードを持つたびに、それに名前をつけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you move the progress token onto an income icon (O), gain 3 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203447Z" creationid="aorin" creationdate="20171231T203447Z">
+        <seg>あなたが進展トークンを収入アイコン（○）の上に移動させるたびに、3VPを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17499,6 +17540,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200543Z" creationid="aorin" creationdate="20171231T200543Z">
         <seg>あなたが建物1つを使用してアイテムカード1枚を得るたびに、2VPと＄1を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you use a building to gain an unconstructed building card, gain 2 VP and $1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T203311Z" creationid="aorin" creationdate="20171231T203311Z">
+        <seg>あなたが建物1つを使用して建築した建物カード1枚を得るたびに、2VPと＄1を得る。</seg>
       </tuv>
     </tu>
     <tu>
