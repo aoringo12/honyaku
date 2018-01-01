@@ -3163,6 +3163,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>406</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000509Z" creationid="aorin" creationdate="20180101T000509Z">
+        <seg>406
+評判トラックに最もトークンを持つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>406 r the hopes that the Forever King decides to visit your village and bestow upon it the honor</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T022243Z" creationid="aorin" creationdate="20171229T021034Z">
@@ -9944,6 +9953,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you interrogate your companion about their odd behavior, open crate G.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000327Z" creationid="aorin" creationdate="20180101T000327Z">
+        <seg>あなたが仲間の奇妙な行動について尋問するならば、木箱Gを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you manage that you’ll have truly proven yourself a great Pixie (still small in stature though).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083630Z" creationid="nakahodo" creationdate="20171211T083630Z">
@@ -10042,6 +10059,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you think all players should receive the exact same end of campaign VP for each category, open crate L.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000549Z" creationid="aorin" creationdate="20180101T000549Z">
+        <seg>全てのプレイヤーが各カテゴリについて、同じだけキャンペーン終了のVPを受け取るべきだと考える場合、木箱Lを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you unlock a persona card, you gain that ability for the rest of the game (in addition to any other personas you're using).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145154Z" creationid="nakahodo" creationdate="20171230T145154Z">
@@ -10054,6 +10079,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T171814Z" creationid="nakahodo" creationdate="20171230T171814Z">
         <seg>次のあなたのターンにそのチャーターの建物を使用した場合、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wait patiently for your companion to talk to you when they're ready, open crate H.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000331Z" creationid="aorin" creationdate="20180101T000331Z">
+        <seg>仲間が落ち着いて、あなたと話ができるようになるのを辛抱強く待つなら、木箱Hを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10090,6 +10123,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you would like to select the configuration for end-of-campaign scoring, open crate K.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000542Z" creationid="aorin" creationdate="20180101T000542Z">
+        <seg>キャンペーン終了の得点計算の設定を選択を望む場合は、木箱Kを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you would prefer not to have the building values factor into this game's score, open crate D.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235819Z" creationid="aorin" creationdate="20171231T235819Z">
@@ -10110,6 +10151,22 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
         <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your village's score this game was above average, you must open crate I.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000443Z" creationid="aorin" creationdate="20180101T000406Z">
+        <seg>このゲームでの村の得点が閾値（average）を上回った場合、木箱Jを開けなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your village's score was below average, you must open crate J.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000417Z" creationid="aorin" creationdate="20180101T000417Z">
+        <seg>このゲームでの村の得点が閾値（average）を下回った場合、木箱Jを開けなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10452,6 +10509,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T085225Z" creationid="nakahodo" creationdate="20171230T085225Z">
         <seg>遠く、地平線に降りてくるたくさんのツェッペリンが見えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the hopes that the Forever King decides to visit your village and bestow upon it the honor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000517Z" creationid="aorin" creationdate="20180101T000454Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -13407,6 +13472,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T181011Z" creationid="nakahodo" creationdate="20171229T181011Z">
         <seg>ゲーム12のゲーム終了全てのステップを進行し、その後、プレイヤーたち全員は、自身のキャンペーン勝利カードの得点を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed with end-game scoring;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000335Z" creationid="aorin" creationdate="20180101T000335Z">
+        <seg>ゲーム終了の得点計算を開始し、</seg>
       </tuv>
     </tu>
     <tu>
@@ -20891,6 +20964,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>then present the sum of all scores to the king by going to sonemaiergames.com/games/charterstone/map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000402Z" creationid="aorin" creationdate="20180101T000402Z">
+        <seg>その後、stonemaiergames.com/games/charterstone/map に移動して、王に全ての得点の合計を提示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>there will be revealed later.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205358Z" creationid="nakahodo" creationdate="20171224T205358Z">
@@ -22737,6 +22818,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210845Z" creationid="aorin" creationdate="20171231T210845Z">
         <seg>あなたは仲間が信じたれないことに気づいたので、彼には虚偽の情報を流すようになった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>吋being the new Eternal City, you test out a new commerce system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000532Z" creationid="aorin" creationdate="20180101T000459Z">
+        <seg>あなたは、永遠なる王がこの村に訪れ、新たなる久遠の都であることを誇る賞賛をすることを望み、新たな商取引システムのテストが行われます。</seg>
       </tuv>
     </tu>
     <tu>
