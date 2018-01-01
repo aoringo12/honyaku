@@ -6649,8 +6649,8 @@ position on the Best-Seller List.</seg>
       <tuv lang="EN-US">
         <seg>During setup, shuffle the objective cards into a deck and reveal 3 of those cards at random on the objective mat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T095625Z" creationid="aorin" creationdate="20171219T095625Z">
-        <seg>セットアップ時、目標カードをシャッフルしてデッキにし、目標マットにこれらカードを3枚ランダムに公開します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210610Z" creationid="aorin" creationdate="20171219T095625Z">
+        <seg>セットアップ時、目標カードをシャッフルしてデッキにし、目標マットにカードを3枚ランダムに公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7094,8 +7094,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player may score each objective once per game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T095831Z" creationid="aorin" creationdate="20171219T095831Z">
-        <seg>各プレイヤーは、ゲームごとに一度、各目標を得点できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210651Z" creationid="aorin" creationdate="20171219T095831Z">
+        <seg>各プレイヤーは、ゲームごとに一度、目標ごとに得点できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11853,8 +11853,8 @@ they may use Leadership Council to retain it.</seg>
       <tuv lang="EN-US">
         <seg>Objective Cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200513Z" creationid="nakahodo" creationdate="20171218T200513Z">
-        <seg>Objective Cards</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210542Z" creationid="nakahodo" creationdate="20171218T200513Z">
+        <seg>目標カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -12754,8 +12754,8 @@ the marker clockwise.</seg>
       <tuv lang="EN-US">
         <seg>Place 1 influence token on a currently completed objective card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T095808Z" creationid="aorin" creationdate="20171219T095808Z">
-        <seg>現在完了した目標カード1つに影響トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210636Z" creationid="aorin" creationdate="20171219T095808Z">
+        <seg>現在完了した目標カード1枚に影響トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15617,6 +15617,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T124358Z" creationid="nakahodo" creationdate="20171230T124358Z">
         <seg>永遠なる王は1つ咳をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King expects your village to support the greater good of Gree11gully by sending resources,money,and other valuables back to the Etemal c, り'·</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210945Z" creationid="aorin" creationdate="20180101T210945Z">
+        <seg>永遠なる王は久遠の都に資源、お金、貴重なものを贈ることで、あなたの村がこのグリーングリーをより良くするために補助をしてくれることを期待しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18538,8 +18546,8 @@ the most.</seg>
       <tuv lang="EN-US">
         <seg>Use the Grandstand (or any building with ⑥ as the benefit) to score completed objectiveふ</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T095722Z" creationid="aorin" creationdate="20171219T095722Z">
-        <seg>完了した目標を得点するために、グランドスタンド（または○効果を持つ建物）を使用します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210621Z" creationid="aorin" creationdate="20171219T095722Z">
+        <seg>達成した目標を得点するためには、グランドスタンド（または○効果を持つ建物）を使用します。</seg>
       </tuv>
     </tu>
     <tu>
