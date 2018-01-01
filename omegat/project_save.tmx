@@ -10888,8 +10888,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>It's not necessary to learn any rules before Charterstone's first game, but having at least one person who understands the core concepts will improve the flow of Game 1.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T142236Z">
-        <seg>チャーターストーンの最初のゲーム前に任意のルールを読む必要はありませんが、本作品の主要コンセプトを理解している役割がいると、ゲーム1の流れが良くなります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T203900Z" creationid="nakahodo" creationdate="20171218T142236Z">
+        <seg>チャーターストーンの最初のゲーム前に任意のルールを読む必要はありませんが、本作品の主要コンセプトを理解している人がいると、ゲーム1の流れが良くなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13311,8 +13311,8 @@ Research (gain abilities).</seg>
       <tuv lang="EN-US">
         <seg>Players can share the reading duties, and we recommend you double-check each other's instructions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142712Z" creationid="nakahodo" creationdate="20171218T142712Z">
-        <seg>プレイヤーたちは読み上げる役を交互に行うこともでき、互いの指示を再確認することをおすすめします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T203935Z" creationid="nakahodo" creationdate="20171218T142712Z">
+        <seg>プレイヤーたちは読み上げる役を交互に行うことができ、互いの指示を再確認することをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18051,8 +18051,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To add a player, let them choose an inactive charter, give them 1 random unconstructed or constructed building card from the advancement deck, and assign them an equitable amount of glory and capacity (those terms will make more sense after Games 1 and 2).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T143618Z" creationid="nakahodo" creationdate="20171218T143544Z">
-        <seg>プレイヤーは追加するには、これから参加するキャラクターを選択し、発展デッキから建築された[または]建築されていない建物カード1枚をランダムに彼に渡し、公平な量の影響とキャパリティが割り当てられます（これらの単語はゲーム1と2の後に理解できるでしょう）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204054Z" creationid="nakahodo" creationdate="20171218T143544Z">
+        <seg>プレイヤーを追加するには、これから参加するキャラクターを選択し、発展デッキから建築された建物[または]まだ建築されていない建物カード1枚をランダムに彼へと渡し、公平な量の影響とキャパリティが割り当てられます（これらの単語はゲーム1と2の後に理解できるでしょう）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22587,8 +22587,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>• Want to add or drop players?</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T142806Z" creationid="nakahodo" creationdate="20171218T142806Z">
-        <seg>•参加するプレイヤーの変更がしたいですか？</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T203942Z" creationid="nakahodo" creationdate="20171218T142806Z">
+        <seg>•参加するプレイヤー数の変更がしたいですか？</seg>
       </tuv>
     </tu>
     <tu>
