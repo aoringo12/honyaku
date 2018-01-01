@@ -12925,8 +12925,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place it in your Charter Chest to use later.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200254Z" creationid="nakahodo" creationdate="20171218T200254Z">
-        <seg>後に使用するために、あなたのキャラクターチェストに入れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210428Z" creationid="nakahodo" creationdate="20171218T200254Z">
+        <seg>後に使用するために、これはあなたのチャーターチェストに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17373,8 +17373,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>There's a lot of information to digest, so take your time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T200422Z" creationid="nakahodo" creationdate="20171218T200422Z">
-        <seg>これらには理解するには多くの情報がありますので、ゆっくりと読んでください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210536Z" creationid="nakahodo" creationdate="20171218T200422Z">
+        <seg>カードには、理解する必要のある情報が多くありますので、ゆっくりと読んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18380,6 +18380,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235042Z" creationid="aorin" creationdate="20171231T235042Z">
         <seg>他のワーカーとは違い、ミニオンはそこから押し出せません――ミニオンは、あなたが自身のワーカー全てを戻す選択をするまで、あなたの建物にとどまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock at yourownpace!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210502Z" creationid="aorin" creationdate="20180101T210502Z">
+        <seg>あなたのペースで処理をしてください！</seg>
       </tuv>
     </tu>
     <tu>
