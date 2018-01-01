@@ -3191,6 +3191,15 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>408</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000631Z" creationid="aorin" creationdate="20180101T000631Z">
+        <seg>408
+あなたのターンにキャンドルを消さなかった</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>408 re king's candle serves as a beacon for his fleet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T101709Z" creationid="nakahodo" creationdate="20171229T101455Z">
@@ -6947,6 +6956,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player chooses 1 persona to keep (choo沢 on behalf of inactive charters).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000732Z" creationid="aorin" creationdate="20180101T000732Z">
+        <seg>各プレイヤーは保持するために役割1枚を選択します（非アクティブキャラクターのものも代わりに選びます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player chootes 1 persona to keep (choo沢 on behalf of inactive charters).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T172202Z" creationid="nakahodo" creationdate="20171229T172023Z">
@@ -7563,6 +7580,14 @@ Map.</seg>
         <seg>Extract cards 3句·374 from the index and give them to th釦espective players (2 personas per p ayer).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T175948Z" creationid="nakahodo" creationdate="20171229T175948Z">
+        <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2役割）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 3句·374 from the index and give them to th釦espective players (2 personas per prayer).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000740Z" creationid="aorin" creationdate="20180101T000740Z">
         <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2役割）。</seg>
       </tuv>
     </tu>
@@ -9243,6 +9268,15 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it goes out for any reason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000649Z" creationid="aorin" creationdate="20180101T000649Z">
+        <seg>何らかの理由で火が消える場合、誰のターンであるかを確認し、再度キャンドルに火をつけないでください。
+燃料不足危険トークンのある建物を使用する場合、あなたは直ちにキャンドルを消さなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it goes out for anyreason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T102914Z" creationid="nakahodo" creationdate="20171229T102914Z">
@@ -9389,6 +9423,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the candle burned out on a player's turn, open crate 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000653Z" creationid="aorin" creationdate="20180101T000653Z">
+        <seg>プレイヤー1人のターンでキャンドルが消えた場合、木箱Oを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the candle is still burning, you may extinguish it and open crate P.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000718Z" creationid="aorin" creationdate="20180101T000718Z">
+        <seg>キャンドルがまだ燃えている場合、火を消し、木箱Pを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the constructed building card shows a crate, place it face up in your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171106Z" creationid="aorin" creationdate="20171228T171106Z">
@@ -9526,6 +9576,14 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are any peril tokens on buildings in active charters, open crate M.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000557Z" creationid="aorin" creationdate="20180101T000557Z">
+        <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がある場合、木箱Mを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are building cards that you think you're never going to construct, place them in the Archive Place this card in the Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233101Z" creationid="aorin" creationdate="20171231T233101Z">
@@ -9564,6 +9622,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103825Z" creationid="aorin" creationdate="20171219T103825Z">
         <seg>空いたスペースがない場合、トークンを配置することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no peril tokens on buildings in active charters, open crate N.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000612Z" creationid="aorin" creationdate="20180101T000612Z">
+        <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がない場合、木箱Nを開けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9689,6 +9755,15 @@ stack is first in turn order.</seg>
         <seg>If they do, they gain the minion from the board to their personal supply I􀁲!\j if the 仙umbe rof􀁳appy kings on all story cards in the Chronicle is greater than or equal to the number of angry kings, the Forever King invites you to a month-l ong festival.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170229Z" creationid="nakahodo" creationdate="20171229T164656Z">
+        <seg>そうした場合、ボードから自身の個人サプライにミニオンを得ます。
+クロニクルの全てのストーリーカードの幸福な王の数が、怒っている王の数と同数以上の場合に、永遠なる王は一ヶ月にわたる祭りへとあなたを招待します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they do, they gain the minion from the board to their personal supply I􀁲!\j if the 仙umbe rof􀁳appy kings on all story cards in the Chronicle is greater than or equal to the number of angry kings, the Forever King invites you to a month-long festival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000726Z" creationid="aorin" creationdate="20180101T000726Z">
         <seg>そうした場合、ボードから自身の個人サプライにミニオンを得ます。
 クロニクルの全てのストーリーカードの幸福な王の数が、怒っている王の数と同数以上の場合に、永遠なる王は一ヶ月にわたる祭りへとあなたを招待します。</seg>
       </tuv>
@@ -16095,6 +16170,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The king's candle serves as a beacon for his fleet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000628Z" creationid="aorin" creationdate="20180101T000628Z">
+        <seg>王のろうそくは、彼の艦隊のためのビーコンとして役に立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The king's forces have arrived at your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223839Z" creationid="aorin" creationdate="20171231T223839Z">
@@ -19692,6 +19775,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are now the pawn of an immortal dictator who inhabits your body and leeches strength from your soul.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000751Z" creationid="aorin" creationdate="20180101T000751Z">
+        <seg>あなたは今、あなたの身体に凄み、魂から力を得る不滅の独裁者のポーンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are the attacker​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
@@ -19727,6 +19818,14 @@ with the learn-to-play guide.</seg>
         <seg>You can decide later if you want to harvest their souls to achieve immortality ..</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T224858Z" creationid="nakahodo" creationdate="20171229T224858Z">
+        <seg>あなたが不死を得るために収穫したいのなら、後にいくらでも機会があるでしょう……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can decide later if you want to harvest their souls to achieve immortality ...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000814Z" creationid="aorin" creationdate="20180101T000814Z">
         <seg>あなたが不死を得るために収穫したいのなら、後にいくらでも機会があるでしょう……。</seg>
       </tuv>
     </tu>
@@ -19984,6 +20083,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175337Z" creationid="nakahodo" creationdate="20171218T175337Z">
         <seg>あなたは効果の一部または全てを得ることができます（建物の右上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may have won Charterstone, but what have you lost in the process?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000811Z" creationid="aorin" creationdate="20180101T000811Z">
+        <seg>あなたはチャーターストーンに勝利できますが、過程で敗北しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -21989,6 +22096,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• If you greet the king with open arms, open crate S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000734Z" creationid="aorin" creationdate="20180101T000734Z">
+        <seg>•両手を広げ王を迎える場合は、木箱Sを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• If you greet the king with open arms, open c􀂕te S.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T180412Z" creationid="nakahodo" creationdate="20171229T180412Z">
@@ -22017,6 +22132,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032146Z" creationid="aorin" creationdate="20171213T032143Z">
         <seg>•あなたが一生に一度の命乞いタイルを持っていて使用し、慈悲を乞う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you want to confront the king, open crate T.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000743Z" creationid="aorin" creationdate="20180101T000743Z">
+        <seg>•王との対立を望む場合は、木箱Tを開きます。</seg>
       </tuv>
     </tu>
     <tu>
