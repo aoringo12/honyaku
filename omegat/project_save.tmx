@@ -14461,8 +14461,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Select any open space on the quota track to determine the type and quantity of the commodity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T101033Z" creationid="aorin" creationdate="20171219T101033Z">
-        <seg>商品の価値と種類を決定するためにノルマトラックにある、任意の空いたスペースを選択します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211135Z" creationid="aorin" creationdate="20171219T101033Z">
+        <seg>商品の価値と種類を決定するためにノルマトラックにある、任意の空いたスペース1つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
