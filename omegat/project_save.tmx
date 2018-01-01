@@ -3521,8 +3521,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A few buildings/cards have infiuence as a benefit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150952Z" creationid="nakahodo" creationdate="20171218T150952Z">
-        <seg>いくつかの建物やカードは、良い効果に影響を持ちます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205008Z" creationid="nakahodo" creationdate="20171218T150952Z">
+        <seg>いくつかの建物やカードは、その効果に影響を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,8 +7054,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player has 12 influence tokens to use on objective cards, the quota track, the reputation track, and elsewhere.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150238Z" creationid="nakahodo" creationdate="20171218T145927Z">
-        <seg>各プレイヤーは目標カード、ノルマトラック、評判トラック、その他の場所に使用するため、12の影響トークンを持ちます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204820Z" creationid="nakahodo" creationdate="20171218T145927Z">
+        <seg>_各プレイヤーは目標カード、ノルマトラック、評判トラック、その他の場所に使用するため、12個の影響トークンを持ちます。_</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,8 +7078,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player is limited to 12 infiuence tokens per game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150255Z" creationid="nakahodo" creationdate="20171218T150255Z">
-        <seg>各プレイヤーはゲームごとに12影響トークンに制限されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204853Z" creationid="nakahodo" creationdate="20171218T150255Z">
+        <seg>各プレイヤーはゲームごとに影響トークンの数が12個に制限されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7837,8 +7837,8 @@ Bold Blend of white beans.</seg>
       <tuv lang="EN-US">
         <seg>For Game 1 only, each player starts with $4.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145931Z" creationid="nakahodo" creationdate="20171218T145912Z">
-        <seg>rゲーム1でのみ、書くプレイヤーは＄4から始まります。r</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204748Z" creationid="nakahodo" creationdate="20171218T145912Z">
+        <seg>rゲーム1でのみ、各プレイヤーは＄4から始まります。r</seg>
       </tuv>
     </tu>
     <tu>
@@ -9284,6 +9284,15 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If infiuence is listed as a cost (e.g., to use a building), discard an infiuence token to the general supply unless the building's benefit indicates a specific use of the infiuence token (e.g.,
+Cloud Port or Grandstand)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204949Z" creationid="aorin" creationdate="20180101T204949Z">
+        <seg>コストに影響が記述されている場合（例えば、建物を使用するには~）、影響トークンの使用に関して建物の効果で支持されない限り、共通サプライに影響トークンを捨てます（例えば、クラウドポートやグランドスタンド）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it goes out for any reason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000649Z" creationid="aorin" creationdate="20180101T000649Z">
@@ -10122,6 +10131,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025832Z" creationid="aorin" creationdate="20171212T025832Z">
         <seg>ミントトークンを使い切った場合、任意のスペースを空にしたりすることなく、「ファミマ」から幾つかミントを持ち込むと良いでしょう（または何かで代用してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you run out of infiuence tokens, you cannot take actions thatrequire them,and from then on you must advance the progress token at the start of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204906Z" creationid="aorin" creationdate="20180101T204906Z">
+        <seg>影響トークンを使い果たした場合は、影響トークンが必要なアクションができず、それ以降、あなたのターン開始時に進展トークンを進める必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17536,8 +17553,8 @@ of the Plan’s printed cost and value.</seg>
       <tuv lang="EN-US">
         <seg>They let you regain a spent infiuence token from the general supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T151029Z" creationid="nakahodo" creationdate="20171218T151029Z">
-        <seg>これらは共通サプライから消費した影響トークン1つを回復できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205024Z" creationid="nakahodo" creationdate="20171218T151029Z">
+        <seg>これらによって、共通サプライから消費した影響トークン1つを回復できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22194,8 +22211,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• LIMITED:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T150242Z" creationid="nakahodo" creationdate="20171218T150112Z">
-        <seg>•制限</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204825Z" creationid="nakahodo" creationdate="20171218T150112Z">
+        <seg>•制限：</seg>
       </tuv>
     </tu>
     <tu>
