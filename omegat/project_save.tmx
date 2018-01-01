@@ -6620,6 +6620,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During end-game scoring, the player(s) with the highest number of tokens on the reputation track gain 10 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211417Z" creationid="aorin" creationdate="20180101T211417Z">
+        <seg>ゲーム終了の得点計算時、評判トラックに最もトークンを配置しているプレイヤー（たち）は10VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During end-game scoring, the playe「(s) with the highest number of tokens on the reputation track gain 10 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103930Z" creationid="aorin" creationdate="20171219T103930Z">
@@ -8157,8 +8165,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Further tokens are placed on the next open space closer to the ocean.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T103703Z" creationid="aorin" creationdate="20171219T103703Z">
-        <seg>今後のトークンは海に最も近い次の空いたスペースに配置されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211404Z" creationid="aorin" creationdate="20171219T103703Z">
+        <seg>今後のトークンは海に最も近い、次の空いたスペースに配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12480,8 +12488,8 @@ at the Builder.</seg>
       <tuv lang="EN-US">
         <seg>Pay that amount to the general supply, placing 1 infiuence token on the corresponding space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T101145Z" creationid="aorin" creationdate="20171219T101145Z">
-        <seg>該当するスペースに影響トークン1つを配置し、共通サプライへとその数支払います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211213Z" creationid="aorin" creationdate="20171219T101145Z">
+        <seg>該当するスペースに影響トークン1つを配置し、共通サプライへと指定された種類と数のリソースを支払います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13384,8 +13392,8 @@ Players create their own map by placing terrain tiles, beginning with the starti
       <tuv lang="EN-US">
         <seg>Players jockey to have the most influence tokens on the reputation track to earn an endgame benefit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T103048Z" creationid="aorin" creationdate="20171219T103048Z">
-        <seg>プレイヤーたちは、ゲーム終了の利益を得るために評判トラックに最も多く影響トークンを持つようコントロールします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211308Z" creationid="aorin" creationdate="20171219T103048Z">
+        <seg>プレイヤーたちは、ゲーム終了の利益を得るために評判トラックに最も多く影響トークンを持つようプレイします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14837,6 +14845,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the spaces on the quota track include an additional (optional) bonus:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211249Z" creationid="aorin" creationdate="20180101T211249Z">
+        <seg>ノルマトラックのいくつかのスペースは、追加（オプション）のボーナスを含みます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the spaces on the quota t「ack include an additional (optional) bonus:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101313Z" creationid="aorin" creationdate="20171219T101313Z">
@@ -16036,8 +16052,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The first token each game is put on the space showing the player count.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T103559Z" creationid="aorin" creationdate="20171219T103559Z">
-        <seg>各ゲームの最初のトークンは、プレイヤー人数を示すスペースに配置されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211354Z" creationid="aorin" creationdate="20171219T103559Z">
+        <seg>各ゲームの最初のトークンは、プレイヤー人数を示すスペースへと配置されます。</seg>
       </tuv>
     </tu>
     <tu>
