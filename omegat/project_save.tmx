@@ -9063,6 +9063,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If "' y the space shows ,., , trigger income for all players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211550Z" creationid="aorin" creationdate="20180101T211550Z">
+        <seg>○がスペースに示されている場合、全てのプレイヤーたちに収入が発動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If "' y the space shows 、., , trigger income for all players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111930Z" creationid="aorin" creationdate="20171219T111930Z">
@@ -10097,6 +10105,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074627Z" creationid="aorin" creationdate="20171216T074627Z">
         <seg>あなたが任意の同盟戦士とともに移動する場合、あなたは機敏特別アビリティからの利益を得ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you move the progress token to a space with ,l ou may gain 1 reputation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211503Z" creationid="aorin" creationdate="20180101T211503Z">
+        <seg>○のスペースに進展トークンが移動すると、あなたは1評判を得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19222,6 +19238,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a player begins their turn with o influence tokens, they must advance the Progress token 1 space before taking their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211619Z" creationid="aorin" creationdate="20180101T211558Z">
+        <seg>プレイヤー1人が0影響トークンで自身のターンを開始するたびに、彼は自身のターンを行う前に、1スペース進展トークンを進める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a player begins their turn with o influence tokens, they must advance the P「ogress token 1 space before taking their turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112048Z" creationid="aorin" creationdate="20171219T112048Z">
@@ -22315,8 +22339,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• NO INFLUENCE:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171219T111937Z" creationid="aorin" creationdate="20171219T111937Z">
-        <seg>•影響がない：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T211609Z" creationid="aorin" creationdate="20171219T111937Z">
+        <seg>•影響トークンがない：</seg>
       </tuv>
     </tu>
     <tu>
