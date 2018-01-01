@@ -2391,8 +2391,8 @@ Amulet of Time</seg>
       <tuv lang="EN-US">
         <seg>3, Return all components from all personal supplies and Charter Chests to the general supply, including sky island tiles and persona cards (which are shuffled to form a persona deck).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T232805Z" creationid="aorin" creationdate="20171231T232805Z">
-        <seg>3.空島タイルと役割カード（役割デッキを形成するためにシャッフルされます）を含んで、個人サプライとチャーターチェストから全てのコンポーネントを共通サプライへと戻します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T232805Z">
+        <seg>3.空島タイルとペルソナカード（ペルソナデッキを形成するためにシャッフルされます）を含んで、個人サプライとチャーターチェストから全てのコンポーネントを共通サプライへと戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3147,9 +3147,9 @@ SET UP</seg>
       <tuv lang="EN-US">
         <seg>404</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171229T012236Z" creationid="aorin" creationdate="20171229T012236Z">
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171229T012236Z">
         <seg>404
-最も役割カードを持つ（自身の個人サプライとチャーターチェストに）</seg>
+最もペルソナカードを持つ（自身の個人サプライとチャーターチェストに）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,16 +4362,16 @@ in their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>All persona cards (except the original personas) give each player a special ability.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151334Z">
-        <seg>全ての役割カード（オリジナルの役割を除く）は各プレイヤーに特別な能力を与えます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T151334Z">
+        <seg>全てのペルソナカード（オリジナルのペルソナを除く）は各プレイヤーに特別な能力を与えます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>All persona cards unlocked in this process should be placed in the Archive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T233630Z" creationid="aorin" creationdate="20171231T233630Z">
-        <seg>このプロセスによってアンロックされた全ての役割カードは、アーカイブに入れなければなりません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T233630Z">
+        <seg>このプロセスによってアンロックされた全てのペルソナカードは、アーカイブに入れなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4589,8 +4589,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>And did you recently choose a rebel persona?</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T132842Z" creationid="nakahodo" creationdate="20171230T132818Z">
-        <seg>最近、反抗的な役割を選択しましたか？</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T132818Z">
+        <seg>最近、反抗的なペルソナを選択しましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6365,8 +6365,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Determine the first player by rolling the Charterstone until it shows an active charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T145605Z" creationid="nakahodo" creationdate="20171218T145605Z">
-        <seg>チャーターストーンがアクティブなキャラクターを出現させるまで、ダイスロールにてファーストプレイやーを決定します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204523Z" creationid="nakahodo" creationdate="20171218T145605Z">
+        <seg>ファーストプレイヤーを決定するため、チャーターストーンをロールしてください。これはアクティブキャラクターをダイスが指すまで続けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,8 +6966,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player chooses 1 persona to keep (choo沢 on behalf of inactive charters).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T000732Z" creationid="aorin" creationdate="20180101T000732Z">
-        <seg>各プレイヤーは保持するために役割1枚を選択します（非アクティブキャラクターのものも代わりに選びます）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20180101T000732Z">
+        <seg>各プレイヤーは保持するためにペルソナ1枚を選択します（非アクティブキャラクターのものも代わりに選びます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6982,8 +6982,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player choo沢s 1 persona to keep (choose on behalf of inactive charters).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171229T180000Z" creationid="nakahodo" creationdate="20171229T180000Z">
-        <seg>各プレイヤーは保持するために役割1枚を選択します（非アクティブキャラクターのものも代わりに選びます）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171229T180000Z">
+        <seg>各プレイヤーは保持するためにペルソナ1枚を選択します（非アクティブキャラクターのものも代わりに選びます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,8 +7110,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player names their persona (write on the card)-this is who you are for the campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T131429Z">
-        <seg>各プレイヤーは自身の役割に名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T131429Z">
+        <seg>各プレイヤーは自身のペルソナに名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7174,8 +7174,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player selects 1 persona card to use this game and returns the rest to the deck, which remains next to the game board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145108Z" creationid="nakahodo" creationdate="20171230T145108Z">
-        <seg>各プレイヤーはこのゲームに使用する役割カード1枚を選択肢、ゲームボードの横にある残りをデッキに戻します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T145108Z">
+        <seg>各プレイヤーはこのゲームに使用するペルソナカード1枚を選択肢、ゲームボードの横にある残りをデッキに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,8 +7563,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract cards 200-205 from the Index and match them with each player (for each inactive charter, place their persona card in their Charter Chest).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T131314Z">
-        <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身の役割カードを入れます）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T131314Z">
+        <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身のペルソナカードを入れます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,8 +7579,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract cards 3句-374 from the index and give them to their respective players (2 personas per player).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171229T172041Z" creationid="nakahodo" creationdate="20171229T171815Z">
-        <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2役割）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171229T171815Z">
+        <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2ペルソナ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7595,8 +7595,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract cards 3句·374 from the index and give them to th釦espective players (2 personas per prayer).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T000740Z" creationid="aorin" creationdate="20180101T000740Z">
-        <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2役割）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20180101T000740Z">
+        <seg>インデックスからカード363~374を引き出し、それぞれのプレイヤーにそれらを配ります（プレイヤーごとに2ペルソナ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8101,8 +8101,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>From now on when you use the Shoemaker, draw the top card from the persona deck and activate it in your personal supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145257Z" creationid="nakahodo" creationdate="20171230T145249Z">
-        <seg>今後、あなたが靴屋を使用すると、役割デッキ一番上のカードをドローして、あなたの個人サプライにてこれをアクティブにさせます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T145249Z">
+        <seg>今後、あなたが靴屋を使用すると、ペルソナデッキ一番上のカードをドローして、あなたの個人サプライにてこれをアクティブにさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8149,8 +8149,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>From your Charter Chest, select 1 persona card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T163129Z" creationid="aorin" creationdate="20171228T163129Z">
-        <seg>あなたのチャーターチェストから、役割カード1枚を選択します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171228T163129Z">
+        <seg>あなたのチャーターチェストから、ペルソナカード1枚を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8489,8 +8489,8 @@ place them on the table as shown below.</seg>
       <tuv lang="EN-US">
         <seg>Give 1random Automa persona card and 2 minions (doesn't matter which) to each Automa.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T154227Z" creationid="nakahodo" creationdate="20171230T154227Z">
-        <seg>各オートマに、オートマ役割カードをランダムに1枚と、2ミニオン（どれでも構いません）を渡します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T154227Z">
+        <seg>各オートマに、オートマペルソナカードをランダムに1枚と、2ミニオン（どれでも構いません）を渡します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10160,8 +10160,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>If you unlock a persona card, you gain that ability for the rest of the game (in addition to any other personas you're using).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145154Z" creationid="nakahodo" creationdate="20171230T145154Z">
-        <seg>あなたが役割カード1枚を開放した場合、あなたはゲームの残りでその能力を得ます（あなたが今使用している別の役割に加えて）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T145154Z">
+        <seg>あなたがペルソナカード1枚を開放した場合、あなたはゲームの残りでその能力を得ます（あなたが今使用している別のペルソナに加えて）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10556,16 +10556,16 @@ cannot be chosen, unless a special action would allow it.</seg>
       <tuv lang="EN-US">
         <seg>In player order, gain VP for reputation and persona cards with O.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223437Z" creationid="nakahodo" creationdate="20171224T223437Z">
-        <seg>2.ゲーム終了得点：プレイヤー順に、評判と●のある役割カード1枚以上からVPを得る。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T223437Z">
+        <seg>2.ゲーム終了得点：プレイヤー順に、評判と●のあるペルソナカード1枚以上からVPを得る。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In player order, gain VP for reputation and persona cards with a.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T151207Z" creationid="nakahodo" creationdate="20171230T151207Z">
-        <seg>プレイヤー順に、評判と●のある役割カード1枚以上からVPを得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T151207Z">
+        <seg>プレイヤー順に、評判と●のあるペルソナカード1枚以上からVPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11353,8 +11353,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Many crates contain a new persona card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T200237Z">
-        <seg>多くの木箱には新しい役割カードが含まれています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171218T200237Z">
+        <seg>多くの木箱には新しいペルソナカードが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11377,8 +11377,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Mark personas you used (....).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223847Z" creationid="nakahodo" creationdate="20171224T223847Z">
-        <seg>あなたが使用した役割を記録します（●）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T223847Z">
+        <seg>あなたが使用したペルソナを記録します（●）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12302,8 +12302,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>PERSONAS:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223832Z" creationid="nakahodo" creationdate="20171224T223832Z">
-        <seg>役割：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T223832Z">
+        <seg>ペルソナ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12633,8 +12633,8 @@ the marker clockwise.</seg>
       <tuv lang="EN-US">
         <seg>Persona Cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234345Z" creationid="aorin" creationdate="20171231T234345Z">
-        <seg>役割カード</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234345Z">
+        <seg>ペルソナカード</seg>
       </tuv>
     </tu>
     <tu>
@@ -12868,8 +12868,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place all original persona cards (those without abilities) and companion cards in the Archive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T232516Z" creationid="aorin" creationdate="20171231T232516Z">
-        <seg>オリジナル役割カード（能力がないもの）とコンパニオンカードの全てをアーカイブに入れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T232516Z">
+        <seg>オリジナルペルソナカード（能力がないもの）とコンパニオンカードの全てをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12934,8 +12934,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the 6 Automa persona cards in the Scriptorium.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T153850Z" creationid="nakahodo" creationdate="20171230T153850Z">
-        <seg>スクリプトリウムにオートマ役割カード6枚を入れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T153850Z">
+        <seg>スクリプトリウムにオートマペルソナカード6枚を入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13152,8 +13152,8 @@ turn order.</seg>
       <tuv lang="EN-US">
         <seg>Place your persona card, constructed building card, 2 workers, and 12 influence tokens in front of you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T145840Z">
-        <seg>あなたの前に、役割カード、建築された建物カード、2ワーカー、12影響トークンを配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204730Z" creationid="nakahodo" creationdate="20171218T145840Z">
+        <seg>あなたの前に、ペルソナカード1枚、建築された建物カード1枚、2ワーカー、12影響トークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14645,8 +14645,8 @@ the World Map.</seg>
       <tuv lang="EN-US">
         <seg>Shuffle the persona deck and deal 3 cards to each player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145002Z" creationid="nakahodo" creationdate="20171230T144932Z">
-        <seg>役割デッキをシャッフルし、各プレイヤーに3枚ずつ配ります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T144932Z">
+        <seg>ペルソナデッキをシャッフルし、各プレイヤーに3枚ずつ配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15295,8 +15295,8 @@ do not show what’s in it.</seg>
       <tuv lang="EN-US">
         <seg>That player must place 1 of their used persona cards (from the current game or their Charter Chest) into the Archive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T084450Z" creationid="nakahodo" creationdate="20171230T084450Z">
-        <seg>そのプレイヤーは、アーカイブに自身が使用した役割カードの1枚（現在のゲーム[または]自身のチャーターチェストから）を入れなければなりません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T084450Z">
+        <seg>そのプレイヤーは、アーカイブに自身が使用したペルソナカードの1枚（現在のゲーム[または]自身のチャーターチェストから）を入れなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15696,8 +15696,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Forever King seems to be happy each time you use a different persona.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T151701Z" creationid="nakahodo" creationdate="20171224T151332Z">
-        <seg>永遠なる王はあなたが様々なペルソナ（役割）を使うことを嬉しそうに観察しています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T151332Z">
+        <seg>永遠なる王はあなたが様々なペルソナ（ペルソナ）を使うことを嬉しそうに観察しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,8 +17380,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>These cards are now used to draw a persona card from the top of the deck and activate it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T145431Z" creationid="nakahodo" creationdate="20171230T145431Z">
-        <seg>これらのカードは役割デッキ一番上から役割カード1枚をドローし、これをアクティブにするために使用します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T145431Z">
+        <seg>これらのカードはペルソナデッキ一番上からペルソナカード1枚をドローし、これをアクティブにするために使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18361,8 +18361,8 @@ the most.</seg>
       <tuv lang="EN-US">
         <seg>Until income is triggered, opponents may not use persona abilities.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T224635Z" creationid="aorin" creationdate="20171231T224635Z">
-        <seg>収入が発動されるまで、対戦相手たちは役割能力を発動できない。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T224635Z">
+        <seg>収入が発動されるまで、対戦相手たちはペルソナ能力を発動できない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19103,8 +19103,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you use the Shoemaker, select another persona card from your Charter Chest and activate it(in addition to other persona cards you're using game)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T235256Z" creationid="aorin" creationdate="20171231T235256Z">
-        <seg>あなたが靴屋を使用するとき、あなたのチャーターチェストから別の役割カードを選択して、これをアクティブにします（あなたがこのゲームで使用しているもう一方の役割カードに加えて）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T235256Z">
+        <seg>あなたが靴屋を使用するとき、あなたのチャーターチェストから別のペルソナカードを選択して、これをアクティブにします（あなたがこのゲームで使用しているもう一方のペルソナカードに加えて）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20057,8 +20057,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may discard this during your turn to activate another persona in your Charter Chest for use in this game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T181234Z" creationid="nakahodo" creationdate="20171230T181140Z">
-        <seg>あなたのターン時にこのカードを捨て札にすることで、自身のチャーターチェストの別の役割カード1枚をこのゲームで使用するためにアクティブにできます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T181140Z">
+        <seg>あなたのターン時にこのカードを捨て札にすることで、自身のチャーターチェストの別のペルソナカード1枚をこのゲームで使用するためにアクティブにできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20177,8 +20177,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may select and use 1 extra persona card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204017Z" creationid="nakahodo" creationdate="20171224T204017Z">
-        <seg>一枚追加で役割カードを選択して使用できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T204017Z">
+        <seg>一枚追加でペルソナカードを選択して使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20313,8 +20313,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You will be told to mark your selected persona at the end of the game if you used it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234400Z" creationid="aorin" creationdate="20171231T234400Z">
-        <seg>ゲーム終了時、選択した役割を記録するように指示されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234400Z">
+        <seg>ゲーム終了時、選択したペルソナを記録するように指示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20791,8 +20791,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>discard everything else(except persona cards and player pieces) to the general supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234601Z" creationid="aorin" creationdate="20171231T234601Z">
-        <seg>それ以外のものは共通サプライに捨てます_（役割カードとプレイヤーピースを除いて）_。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234601Z">
+        <seg>それ以外のものは共通サプライに捨てます_（ペルソナカードとプレイヤーピースを除いて）_。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20839,10 +20839,10 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>happy kings (り)： X 1 = kind to companions (●)： _x3 = rebel personas:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T133015Z" creationid="nakahodo" creationdate="20171230T133015Z">
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T133015Z">
         <seg>幸福な王（●）：
 コンパニオンへの親切（●）：
-反抗的役割</seg>
+反抗的ペルソナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21608,8 +21608,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•  During setup, you may select any persona from your Charter Chest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234356Z" creationid="aorin" creationdate="20171231T234356Z">
-        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意の役割を選択できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234356Z">
+        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意のペルソナを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21632,8 +21632,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•  If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234404Z" creationid="aorin" creationdate="20171231T234404Z">
-        <seg>•ゲーム中に役割カードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルの役割と同じように見なくても）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234404Z">
+        <seg>•ゲーム中にペルソナカードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルのペルソナと同じように見なくても）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22186,8 +22186,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• Keep all persona cards from game to game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234406Z" creationid="aorin" creationdate="20171231T234406Z">
-        <seg>•ゲームごとの役割カードは全て保持します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234406Z">
+        <seg>•ゲームごとのペルソナカードは全て保持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22266,16 +22266,16 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• PERSONA DECK:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T144937Z" creationid="nakahodo" creationdate="20171230T144924Z">
-        <seg>•役割デッキ：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T144924Z">
+        <seg>•ペルソナデッキ：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>• PERSONA:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171218T200218Z">
-        <seg>•役割：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171218T200218Z">
+        <seg>•ペルソナ：</seg>
       </tuv>
     </tu>
     <tu>
