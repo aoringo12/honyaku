@@ -12431,8 +12431,16 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Pay any 1 resource to gain $1.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191314Z" creationid="nakahodo" creationdate="20171218T191302Z">
-        <seg>$1得るために、任意のリソース1つを支払います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210009Z" creationid="nakahodo" creationdate="20171218T191302Z">
+        <seg>任意のリソース1つを支払うことにより、$1得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay any 1resourceand $1 to gain 1 card from the advancement mat (face down or face up).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210047Z" creationid="aorin" creationdate="20180101T210047Z">
+        <seg>任意のリソース1つと$1を支払うことにより、発展マットからカード1枚（裏向き、または表向き）を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15964,8 +15972,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The cargo that Ol'l'ived With JOU COIi 011/y be unlocked when the time is right...</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T195923Z" creationid="nakahodo" creationdate="20171218T195805Z">
-        <seg>あなたの建築した建物カード（●）1枚の「木箱」1つの中身に触れるために、建物のチャーターストーン（または、効果で●がある任意の建物）を使用します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210324Z" creationid="nakahodo" creationdate="20171218T195805Z">
+        <seg>あなたと共に到着したこれらの貨物は、時が来れば開放できるようになるでしょう……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18492,6 +18500,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152716Z" creationid="nakahodo" creationdate="20171230T152716Z">
         <seg>オートマのチャーターにタイルを配置するためにこのカードを使用します（人間プレイヤーと同じように、基本リソース建物は無視します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Charterstone building (or any building with Gt as the benefit) to access the content in a "crate" on 1 of your constructed building cards (口)．</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T210120Z" creationid="aorin" creationdate="20180101T210120Z">
+        <seg>あなたの建築した建物カード（●）1枚の「木箱」1つの中身に触れるために、建物のチャーターストーン（または、効果で●がある任意の建物）を使用します。</seg>
       </tuv>
     </tu>
     <tu>
