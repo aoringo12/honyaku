@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>" you've collected, open crate B.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235756Z" creationid="aorin" creationdate="20171231T235756Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Chicken soup for the soul" is considered a legitimate medical practice in Greengully.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T205456Z" creationid="aorin" creationdate="20171231T205456Z">
@@ -4057,10 +4065,26 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After placing the progress token during Game 4 setup, advance it 2 spaces (shortening the game).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235917Z" creationid="aorin" creationdate="20171231T235830Z">
+        <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース進める（ゲームが短くなります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After placing the progress token during Game 4 setup, advance it 2 spaces :</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011058Z" creationid="aorin" creationdate="20171229T011046Z">
         <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース進める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After placing the progress token during Game 4 setup, regress it 2 spaces (lengthening the game).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235907Z" creationid="aorin" creationdate="20171231T235848Z">
+        <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース後退する（ゲームが長くなります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,6 +6534,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T165659Z" creationid="nakahodo" creationdate="20171229T163558Z">
         <seg>ゲーム10の時、プレイヤーたちはミニオンを配置することはできず、自身のチャーターでミニオンをコントロールすることもできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Game 5, your companion worker (small meeple) cannot be placed on buildings occupied by your primary worker (big meeple).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T000322Z" creationid="aorin" creationdate="20180101T000322Z">
+        <seg>ゲーム5時、あなたの仲間ワーカー（小さなミープル）は、あなたの主ミープル（多きなミープル）が占領している建物に配置することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9824,6 +9856,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you decide to expand the village using sky islands without asking for the Forever King's permission, open crate F.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235833Z" creationid="aorin" creationdate="20171231T235833Z">
+        <seg>永遠なる王の承認を得ずに村の拡張に空島を使用することに決めた場合は、木箱Fを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do, do not discard the card;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232311Z" creationid="aorin" creationdate="20171215T232311Z">
@@ -9986,6 +10026,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you seek the Forever King's approval to grow the village using sky islands, open crate E.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235843Z" creationid="aorin" creationdate="20171231T235843Z">
+        <seg>村の成長に空島を使用することの承認を永遠なる王に求める場合は、木箱Eを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you seek the Forever King's approval to gゅwthe</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012141Z" creationid="aorin" creationdate="20171229T012141Z">
@@ -10030,6 +10078,22 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
         <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you would like to include the end-of-campaign building values (0) when calculating VP totals this game, open crate C.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235822Z" creationid="aorin" creationdate="20171231T235822Z">
+        <seg>このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）も含めたい場合は、木箱Cを開ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you would prefer not to have the building values factor into this game's score, open crate D.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235819Z" creationid="aorin" creationdate="20171231T235819Z">
+        <seg>このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）を含めたくない場合は、木箱Dを開ける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15399,6 +15463,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King is ft//'ious that despite all his help,yourvillage has Jailed to pe,fi加)1 well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235653Z" creationid="aorin" creationdate="20171231T235653Z">
+        <seg>永遠なる王は、手厚い補助にも関わらず、あなたたちの村がうまくいかない事に憤慨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The Forever King is furious that despite all his help, your village has failed to perform well.
 永遠なる王は憤慨する。彼の補助にも関わらず、あなたの村がうまくいかないことに。</note>
       <tuv lang="EN-US">
@@ -15421,6 +15493,14 @@ consecutively pass, ending the phase.</seg>
         <seg>The Forever King is old, much older than the royal portraits convey.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133707Z" creationid="nakahodo" creationdate="20171230T133707Z">
+        <seg>永遠なる王は、王室の肖像画よりもはるかに年老いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Forever King is old,mucholder than the royal portraits convey.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235738Z" creationid="aorin" creationdate="20171231T235738Z">
         <seg>永遠なる王は、王室の肖像画よりもはるかに年老いています。</seg>
       </tuv>
     </tu>
@@ -19407,6 +19487,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131655Z" creationid="aorin" creationdate="20171215T131655Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、初心者はプレイ学習ガイドからそうすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why does he care so much about your little village?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20171231T235807Z" creationid="aorin" creationdate="20171231T235807Z">
+        <seg>なぜ彼はあなたの小さな村に気を使うのでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
