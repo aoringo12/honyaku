@@ -4053,8 +4053,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After gaining a face-up card from the mat, replace it with the top card from the deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152751Z" creationid="nakahodo" creationdate="20171218T152751Z">
-        <seg>マットから表向きのカードを得た後、デッキの一番上から空いた場所に補充します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205220Z" creationid="nakahodo" creationdate="20171218T152751Z">
+        <seg>マットから表向きのカードを得た後、空いた場所にデッキの一番上からカードを補充します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5747,8 +5747,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose from the faceup advancement card(s) of that type (if any).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152712Z" creationid="nakahodo" creationdate="20171218T152712Z">
-        <seg>（あれば）その種類の表向きの発展カード（ら）を選択します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205142Z" creationid="nakahodo" creationdate="20171218T152712Z">
+        <seg>もしあれば、その種類の表向きの発展カードを指定枚数、選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6731,8 +6731,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During the campaign, several different types of cards (all with the same back) will be unlocked and shuffled with the discard pile into the deck on the advancement mat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T152346Z" creationid="nakahodo" creationdate="20171218T152346Z">
-        <seg>キャンペーン中、様々な種類のカードが開放され（全て同じ裏面）、捨て札山と共にシャッフルされて発展マットのデッキに入ります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205059Z" creationid="nakahodo" creationdate="20171218T152346Z">
+        <seg>キャンペーン中、様々な種類のカードが開放され（全て同じ裏面をしています）、捨て札山と共に発展デッキに入れてシャッフルされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8793,6 +8793,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230440Z" creationid="aorin" creationdate="20171215T230440Z">
         <seg>隠れ家を失う。隠れ家1つが取り除かれるたびに、連合は一致する森の民ボックスのサポーター半分（切り上げ）と、任意の策略を取り除かなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hiding cards isn't allowed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205233Z" creationid="aorin" creationdate="20180101T205233Z">
+        <seg>カードを隠すことはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17373,8 +17381,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>These assistants arrived before you to set up, and they're now ready to follow your orders.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153522Z" creationid="nakahodo" creationdate="20171218T153424Z">
-        <seg>これらアシスタントはセットアップ前に到着し、あなたのお願いに従う準備もできています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205323Z" creationid="nakahodo" creationdate="20171218T153424Z">
+        <seg>これらアシスタントはセットアップ前に到着し、あなたの要請に従う準備もできています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19214,6 +19222,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever the deck is empty or new cards are unlocked, shuffle the discard pile into the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205258Z" creationid="aorin" creationdate="20180101T205258Z">
+        <seg>デッキが空になるか、新しいカードが開放されるたびに、捨て札山をデッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever the deck is empty or new cards are unlocked, shuffle the disca「d pile into the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153103Z" creationid="nakahodo" creationdate="20171218T153103Z">
@@ -20485,8 +20501,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Youll need some help to get the village running smoothly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153516Z" creationid="nakahodo" creationdate="20171218T153335Z">
-        <seg>あなたは村の運営を円滑に進めるために助けを必要としてます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205313Z" creationid="nakahodo" creationdate="20171218T153335Z">
+        <seg>あなたは、村の運営を円滑に進めるために助けを必要としてます。</seg>
       </tuv>
     </tu>
     <tu>
