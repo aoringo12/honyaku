@@ -9925,6 +9925,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can't pay the cost, you can't place a workerhere.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205741Z" creationid="aorin" creationdate="20180101T205741Z">
+        <seg>コストを支払えない場合、そこにワーカーを配置できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can't pay the cost, you can't place a wo「kerhere.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175304Z" creationid="nakahodo" creationdate="20171218T175304Z">
@@ -10103,8 +10111,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you placed your worker on a building occupied by another worker (yours or an opponent's), bump (return) that worker back to its player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175043Z" creationid="nakahodo" creationdate="20171218T174839Z">
-        <seg>別のワーカー（あなたの[または]対戦相手の）によって占領された建物へと、あなたのワーカーを配置する場合、押し出してそのプレイヤーへとワーカーを戻すことができます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205724Z" creationid="nakahodo" creationdate="20171218T174839Z">
+        <seg>別のワーカー（あなたの[または]対戦相手の）によって占領された建物へと、あなたのワーカーを配置する場合、押し出してそのプレイヤーへとワーカーを返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12407,8 +12415,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Pay 3 influence tokens plus the 4 resources shown on the upper left of the building card to construct 1 building in your charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T190635Z" creationid="nakahodo" creationdate="20171218T184055Z">
-        <seg>あなたのチャーターに建物1つを建築するために、影響トークンに加えて、建物カードの左上に示されるリソース4つを支払います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205855Z" creationid="nakahodo" creationdate="20171218T184055Z">
+        <seg>影響トークンに加えて、建物カードの左上に示されるリソース4つを支払うことにより、あなたのチャーターに建物1つを建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12512,8 +12520,8 @@ at the Builder.</seg>
       <tuv lang="EN-US">
         <seg>Pay糾and2 influence tokens to unlock a crate (on a constructed building card).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191104Z" creationid="nakahodo" creationdate="20171218T190930Z">
-        <seg>（建築した建物カードにある）木箱1つを開放するために、$4と2影響トークンを支払います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205917Z" creationid="nakahodo" creationdate="20171218T190930Z">
+        <seg>$4と2影響トークンを支払うことにより、（建築した建物カードにある）木箱1つを開放します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12746,8 +12754,8 @@ the marker clockwise.</seg>
       <tuv lang="EN-US">
         <seg>Place 1 influence token on an objective card you've completed to score 5 VP.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T191241Z" creationid="nakahodo" creationdate="20171218T191214Z">
-        <seg>5VPを得点するために、あなたの完了した目標カード1枚に影響トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205951Z" creationid="nakahodo" creationdate="20171218T191214Z">
+        <seg>あなたの達成した目標カード1枚に影響トークン1つ配置することにより、5VPを得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15494,8 +15502,8 @@ the Turn Order Track in proper order for the Round.</seg>
       <tuv lang="EN-US">
         <seg>The Commons</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T175418Z" creationid="nakahodo" creationdate="20171218T175418Z">
-        <seg>コモン</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205758Z" creationid="nakahodo" creationdate="20171218T175418Z">
+        <seg>共有地</seg>
       </tuv>
     </tu>
     <tu>
@@ -17465,6 +17473,14 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032337Z" creationid="aorin" creationdate="20171212T032012Z">
         <seg>彼はまたミントサプライから○も得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are clustered in the middle of the village in an area called The Commons, The Commons includes the following buildings:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205819Z" creationid="aorin" creationdate="20180101T205819Z">
+        <seg>これらは村の中央に建築されており、共有地と称されます。共有地には次の建物があります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21218,8 +21234,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>worker from your personal supply onto any building on the board or (b) retrieve all of your workers from the board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T165341Z" creationid="nakahodo" creationdate="20171218T165300Z">
-        <seg>あなたのターンにて、あなたはいずれかを行います。（a）ボード上の任意の建物の上に、個人サプライからワーカー1つを配置する、または（b）ボードからワーカーたちを全て回収する。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205649Z" creationid="nakahodo" creationdate="20171218T165300Z">
+        <seg>あなたのターンにて、いずれかを選択して行います。（a）ボード上の任意の建物の上に、個人サプライからワーカー1つを配置する、または（b）ボードからワーカーたちを全て回収する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22660,8 +22676,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>• ZEPPELIN:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T183441Z" creationid="nakahodo" creationdate="20171218T183441Z">
-        <seg>•飛行船：:</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205820Z" creationid="nakahodo" creationdate="20171218T183441Z">
+        <seg>•飛行船：</seg>
       </tuv>
     </tu>
     <tu>
