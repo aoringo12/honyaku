@@ -4205,8 +4205,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After you peel the sticker off a building card to construct it, you're left with a new type of card:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154330Z" creationid="nakahodo" creationdate="20171218T154330Z">
-        <seg>それを建築するために建物カードのシールを剥がしたら、残ったカードは新しいタイプのカードとなります：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205535Z" creationid="nakahodo" creationdate="20171218T154330Z">
+        <seg>建築するために建物カードのシールを剥がしたら、残ったカードは新しいタイプのカードとなります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4783,8 +4783,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Assistants are a type of advancement card that give you a bonus when you perform some of the core functions of the village.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153512Z" creationid="nakahodo" creationdate="20171218T153512Z">
-        <seg>アシスタントは村のいくつかの主要機能を実行する時にボーナスを与える発展カードの種類です。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205345Z" creationid="nakahodo" creationdate="20171218T153512Z">
+        <seg>アシスタントは村のいくつかの主要機能を実行する時にボーナスを与えてくれる種類の発展カードです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10849,8 +10849,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>It is still an advancement card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154337Z" creationid="nakahodo" creationdate="20171218T154337Z">
-        <seg>これはまだ発展カードです。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205600Z" creationid="nakahodo" creationdate="20171218T154337Z">
+        <seg>これは未だ、発展カードです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12983,8 +12983,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the constructed building card in the Archive tuckbox (a depository for components that are no longer needed).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154808Z" creationid="nakahodo" creationdate="20171218T154808Z">
-        <seg>アーカイブタックボックス（不要コンポーネントの保管場所）に建築された建物カードを入れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205629Z" creationid="nakahodo" creationdate="20171218T154808Z">
+        <seg>アーカイブタックボックス（不要コンポーネントの保管場所）に、その建築された建物カードを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19144,8 +19144,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever a new building is constructed in the village, it's an opportunity to advance this little piece of civilization you're creating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154130Z" creationid="nakahodo" creationdate="20171218T154130Z">
-        <seg>村に新しい建物が建築されると、あなたが育んでいるこの小さな文明を発展させる機会になります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205509Z" creationid="nakahodo" creationdate="20171218T154130Z">
+        <seg>村に新しい建物を建築することは、あなたが育んでいるこの小さな文明を発展させる機会でもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19336,8 +19336,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever you have an unnamed as函tant card, you may give them a name by writing it on the card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T153900Z" creationid="nakahodo" creationdate="20171218T153524Z">
-        <seg>あなたが名前のないアシスタントカードを持つたびに、カードに名前を書くことができます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205429Z" creationid="nakahodo" creationdate="20171218T153524Z">
+        <seg>あなたが名前のないアシスタントカードを持つたびに、カードに書き込むことにより、彼らに名前をつけてあげることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19994,8 +19994,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can unlock the crate at the Charterstone building.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154443Z" creationid="nakahodo" creationdate="20171218T154443Z">
-        <seg>あなたはチャーターストーン建物の木箱を開放することができます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205616Z" creationid="nakahodo" creationdate="20171218T154443Z">
+        <seg>あなたはチャーターストーン建物にて、その木箱を開放することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20686,8 +20686,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>a constructed building card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154252Z" creationid="nakahodo" creationdate="20171218T154252Z">
-        <seg>建築された建物カード。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205553Z" creationid="nakahodo" creationdate="20171218T154252Z">
+        <seg>建築された建物カードです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22091,16 +22091,16 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• IF IT HAS A CRATE:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154405Z" creationid="nakahodo" creationdate="20171218T154405Z">
-        <seg>•それがまだ木箱を持っている場合：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205603Z" creationid="nakahodo" creationdate="20171218T154405Z">
+        <seg>•それが木箱を持っている場合：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>• IF IT HAS NO CRATE:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171218T154450Z" creationid="nakahodo" creationdate="20171218T154450Z">
-        <seg>•それがまだ木箱を持っていない場合：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180101T205620Z" creationid="nakahodo" creationdate="20171218T154450Z">
+        <seg>•それが木箱を持っていない場合：</seg>
       </tuv>
     </tu>
     <tu>
