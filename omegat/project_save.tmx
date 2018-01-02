@@ -2316,6 +2316,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042802Z" creationid="aorin" creationdate="20180102T042802Z">
+        <seg>29 - Constructing a Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>290</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202400Z" creationid="aorin" creationdate="20171231T202400Z">
@@ -6992,8 +7000,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player can place a maximum of 1 influence token on each income building.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T165926Z" creationid="aorin" creationdate="20171228T165926Z">
-        <seg>各プレイヤーは各収入建物に最大1影響トークンを配置することができます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042729Z" creationid="aorin" creationdate="20171228T165926Z">
+        <seg>各プレイヤーは各収入建物に最大1つの影響トークンを配置することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17876,8 +17884,8 @@ with the following exception:</seg>
       <tuv lang="EN-US">
         <seg>This icon means "construct a building in your charter using a building card from your personal supply."</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T170244Z" creationid="aorin" creationdate="20171228T170244Z">
-        <seg>このアイコンは”あなたの個人サプライから建物カード1枚を使用して、あなたのチャーターに建物を建築する”ことを意味します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042822Z" creationid="aorin" creationdate="20171228T170244Z">
+        <seg>このアイコンは「あなたの個人サプライから建物カード1枚を使用して、あなたのチャーターに建物を建築する」ことを意味します。</seg>
       </tuv>
     </tu>
     <tu>
