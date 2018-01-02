@@ -1603,8 +1603,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>18</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T200118Z" creationid="nakahodo" creationdate="20171224T200118Z">
-        <seg>18</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041650Z" creationid="nakahodo" creationdate="20171224T200118Z">
+        <seg>18 - Grory</seg>
       </tuv>
     </tu>
     <tu>
@@ -4534,8 +4534,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>Also, as a show of humility, each winning charter and inactive charter must now be named by the non-winner(s).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195339Z" creationid="nakahodo" creationdate="20171224T195003Z">
-        <seg>また、謙虚さの証として、勝利するチャーターと非アクティブチャーターそれぞれは、敗北者（たち）によって名前が決められなければなりません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041530Z" creationid="nakahodo" creationdate="20171224T195003Z">
+        <seg>勝利するチャーターと非アクティブチャーターそれぞれ謙虚さの証として、敗北者（たち）に名前を決めてもらう必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5017,8 +5017,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the end of each game, gain 1 glory(*) per 10 VP earned that game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234432Z" creationid="aorin" creationdate="20171231T234432Z">
-        <seg>各ゲームの終了にて、そのゲームで得られた10VPごとに1栄光を得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041753Z" creationid="aorin" creationdate="20171231T234432Z">
+        <seg>各ゲームの終了にて、そのゲームで得られた10VPごとに1栄光()を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,8 +8434,8 @@ place them on the table as shown below.</seg>
       <tuv lang="EN-US">
         <seg>Gather all of your player pieces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195721Z" creationid="nakahodo" creationdate="20171224T195721Z">
-        <seg>自身のプレイヤーピースの全てを集めます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041627Z" creationid="nakahodo" creationdate="20171224T195721Z">
+        <seg>自身のプレイヤーピース（サプライとは別の、プレイヤーに属するコンポーネント。ワーカーや影響トークンなど）の全てを集めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11709,8 +11709,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Name your charter (write it on the board).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T195738Z" creationid="nakahodo" creationdate="20171224T175342Z">
-        <seg>自身のチャーターに名前をつけます（ボードに書くことによって）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041459Z" creationid="nakahodo" creationdate="20171224T175342Z">
+        <seg>自身のチャーターに名前をつけます（ボードに直接書くことによって）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16858,8 +16858,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>The player(s) with the most victory points this game mark their Charter Chest ('!').</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T175226Z" creationid="nakahodo" creationdate="20171224T175226Z">
-        <seg>最も勝利点を持つプレイヤー（たち）は、自身のチャーターチェスト（●）を塗りつぶします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041449Z" creationid="nakahodo" creationdate="20171224T175226Z">
+        <seg>最も勝利点を持つプレイヤー（たち）は、自身のチャーターチェストの（●）を塗りつぶします。</seg>
       </tuv>
     </tu>
     <tu>
