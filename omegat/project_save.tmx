@@ -1803,8 +1803,8 @@ Build Your Reputation
       <tuv lang="EN-US">
         <seg>22</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T164923Z" creationid="nakahodo" creationdate="20171224T214011Z">
-        <seg>24</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042524Z" creationid="nakahodo" creationdate="20171224T214011Z">
+        <seg>24 - Private Objective Cards</seg>
       </tuv>
     </tu>
     <tu>
@@ -2151,6 +2151,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200447Z" creationid="aorin" creationdate="20171231T200447Z">
         <seg>258 - Carpenter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042641Z" creationid="aorin" creationdate="20180102T042641Z">
+        <seg>27 - Income</seg>
       </tuv>
     </tu>
     <tu>
@@ -6407,8 +6415,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Discard all private objective cards at end of game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234900Z" creationid="aorin" creationdate="20171231T234900Z">
-        <seg>全ての個人目標カードはゲーム終了時に捨て札にされます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042635Z" creationid="aorin" creationdate="20171231T234900Z">
+        <seg>全ての個人目標カードはゲーム終了時に捨て札にされます（未達成でも次に引き継がれません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11211,8 +11219,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Leave this card at the front of the Index for the entire campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T214009Z" creationid="nakahodo" creationdate="20171224T214009Z">
-        <seg>このカードは、キャンペーン全体のインデックスの前に残します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042511Z" creationid="nakahodo" creationdate="20171224T214009Z">
+        <seg>このカードは、次のカードを見ることのないよう、ゲーム全体でインデックスの前に残します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11823,8 +11831,8 @@ they may use Leadership Council to retain it.</seg>
       <tuv lang="EN-US">
         <seg>Now that the village is thriving it is influencing the entire kingdom's culture, technology, military, education, entertainment, and economy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T165733Z" creationid="aorin" creationdate="20171228T165733Z">
-        <seg>村が反映している今、王国全体の文化、技術、軍事、教育、娯楽、軽税に影響を与えています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042657Z" creationid="aorin" creationdate="20171228T165733Z">
+        <seg>村が繁栄している今、王国全体の文化、技術、軍事、教育、娯楽、経済に影響を与えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15787,8 +15795,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Forever King seeks loyal servants to achieve his various objectives, both in public and in private.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T165034Z" creationid="aorin" creationdate="20171228T165034Z">
-        <seg>永遠なる王は、公的にも私的にも、様々な目的を達成できる忠実な使用人を求めています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042544Z" creationid="aorin" creationdate="20171228T165034Z">
+        <seg>永遠なる王は、公的にも私的にも、様々な目的を達成できる忠実な手足を求めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16762,8 +16770,8 @@ though they had placed on that Location.</seg>
       <tuv lang="EN-US">
         <seg>The player who unlocked this crate may gain 1 of these objective cards at random.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T165112Z" creationid="aorin" creationdate="20171228T165112Z">
-        <seg>この木箱を解放したプレイヤーは、これら目標カードから1枚をランダムに得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042612Z" creationid="aorin" creationdate="20171228T165112Z">
+        <seg>この木箱を解放したプレイヤーは、これら目標カードから個人目標として1枚をランダムに得ます。</seg>
       </tuv>
     </tu>
     <tu>
