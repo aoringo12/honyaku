@@ -2787,6 +2787,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>34</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043927Z" creationid="aorin" creationdate="20180102T043927Z">
+        <seg>34 - Minion Quota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>340</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211427Z" creationid="aorin" creationdate="20171231T211427Z">
@@ -2919,6 +2927,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223700Z" creationid="aorin" creationdate="20171231T223700Z">
         <seg>356 - The Occupation Begins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>36</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043955Z" creationid="aorin" creationdate="20180102T043955Z">
+        <seg>36 - Setup:Peril</seg>
       </tuv>
     </tu>
     <tu>
@@ -3959,8 +3975,8 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>Affix this sticker, which has 5 columns instead of 6, to the bottom of the quota track on the game board, then place this card in the Archive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T172555Z" creationid="aorin" creationdate="20171228T172555Z">
-        <seg>この6ではなく5列を持つシールを、ゲームボードのノルマトラックの下へと貼り付けて、その後、このカードをアーカイブに入れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043945Z" creationid="aorin" creationdate="20171228T172555Z">
+        <seg>この6ではなく5列のシールを、ゲームボードのノルマトラックの下へと貼り付けて、その後、このカードをアーカイブに入れます。</seg>
       </tuv>
     </tu>
     <tu>
