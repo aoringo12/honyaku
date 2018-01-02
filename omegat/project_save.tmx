@@ -3603,8 +3603,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A minion is a type of worker that you may place only on unoccupied buildings in your charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T171824Z" creationid="aorin" creationdate="20171228T171824Z">
-        <seg>ミニオンは、あなたのチャーターの未占領の建物にのみ、あなたが配置できるワーカーの一種です。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043818Z" creationid="aorin" creationdate="20171228T171824Z">
+        <seg>ミニオンは、自身のチャーターにある、未占領の建物にのみ、配置できるワーカーの一種です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4329,8 +4329,8 @@ are returned to players.</seg>
       <tuv lang="EN-US">
         <seg>All cards that refer to "workers" apply to both regular workers and minions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T171940Z" creationid="aorin" creationdate="20171228T171940Z">
-        <seg>「ワーカー」を指す全てのカードは、基本ワーカーとミニオン両方に適応されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043831Z" creationid="aorin" creationdate="20171228T171940Z">
+        <seg>「ワーカー」を指定する全てのカードは、基本ワーカーとミニオン両方に適応されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,8 +4681,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Any player may place a regular worker on a building cannot occupied be by a bumped-they minion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T235039Z" creationid="aorin" creationdate="20171231T235039Z">
-        <seg>任意のプレイヤーはミニオン1体で占領されている建物に基本ワーカーを配置できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043851Z" creationid="aorin" creationdate="20171231T235039Z">
+        <seg>プレイヤー誰でも、ミニオン1体で占領されている建物に基本ワーカーを配置できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19274,8 +19274,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever a new type of minion is unlocked, the unlocking player gains 1 of those minions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T171439Z" creationid="aorin" creationdate="20171228T171439Z">
-        <seg>新しいタイプのミニオンを解放するたびに、開放したプレイヤーはそのミニオンを1つを得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043745Z" creationid="aorin" creationdate="20171228T171439Z">
+        <seg>新しいタイプのミニオンを解放するたびに、開放したプレイヤーはそのミニオンを1つ得ます。</seg>
       </tuv>
     </tu>
     <tu>
