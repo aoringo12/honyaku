@@ -3389,9 +3389,17 @@ KEYWORDS</seg>
       <tuv lang="EN-US">
         <seg>60 ltem Cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T181154Z" creationid="aorin" creationdate="20171228T181154Z">
-        <seg>60
+      <tuv lang="JA" changeid="aorin" changedate="20180102T052135Z" creationid="aorin" creationdate="20171228T181154Z">
+        <seg>60 - Item Cards
 アイテムカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
+        <seg>75 - Guest Cards</seg>
       </tuv>
     </tu>
     <tu>
@@ -4825,8 +4833,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>As you tinker with them you discover that they hold immense power.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T174652Z" creationid="aorin" creationdate="20171228T174652Z">
-        <seg>あなたは、それに宝物には膨大な力が秘められていることを気づきます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T052051Z" creationid="aorin" creationdate="20171228T174652Z">
+        <seg>あなたは、それらには膨大な力が秘められていることを気づきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14792,8 +14800,8 @@ the World Map.</seg>
       <tuv lang="EN-US">
         <seg>Shuffle the remaining cards into the advancement deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T174723Z" creationid="aorin" creationdate="20171228T174723Z">
-        <seg>残っているカード発展デッキに入れてシャッフルします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T052103Z" creationid="aorin" creationdate="20171228T174723Z">
+        <seg>残っているカードを発展デッキに入れてシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18979,8 +18987,8 @@ Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>When an item is completed on your turn, pay the resources to the general supply, gain the benefit shown on the upper-right of the item card, then discard the card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T233712Z" creationid="aorin" creationdate="20171228T233712Z">
-        <seg>アイテムがあなたのターンにて達成された時、共通サプライにリソースを支払い、アイテムカードの右上に示される利益を得て、その後、カードを捨て札にします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T052235Z" creationid="aorin" creationdate="20171228T233712Z">
+        <seg>アイテム要件があなたのターンにて達成された時、共通サプライにリソースを支払い、アイテムカードの右上に示される利益を得て、その後、そのカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
