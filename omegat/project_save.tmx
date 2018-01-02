@@ -3063,8 +3063,8 @@ Amulet of Time</seg>
       <tuv lang="EN-US">
         <seg>4</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131505Z" creationid="nakahodo" creationdate="20171224T131505Z">
-        <seg>4</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025548Z" creationid="nakahodo" creationdate="20171224T131505Z">
+        <seg>4 - Basic Resource Building</seg>
       </tuv>
     </tu>
     <tu>
@@ -7119,8 +7119,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player names their persona (write on the card)-this is who you are for the campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T131429Z">
-        <seg>各プレイヤーは自身のペルソナに名前をつけます（カードに書き込みます）―これがキャンペーンでのあなたになります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025533Z" creationid="nakahodo" creationdate="20171224T131429Z">
+        <seg>各プレイヤーは自身のペルソナに名前をつけます（カードに書き込みます）―これがキャンペーンでのあなた自身となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,8 +7612,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract cards 5-10 from the Index and give each player the card that matches their charter (set aside cards for inactive charters for a moment).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134019Z" creationid="nakahodo" creationdate="20171224T134019Z">
-        <seg>インデックスから5~10のカードを引き出し、各プレイヤーへとキャラクターに一致するように配ります（非アクティブ辛くターのものは脇に避けておく）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030052Z" creationid="nakahodo" creationdate="20171224T134019Z">
+        <seg>インデックスから5~10のカードを引き出し、各プレイヤーへとキャラクターが一致するように配ります（非アクティブチャーターのものは脇に避けておく）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17088,8 +17088,8 @@ from Roasters.</seg>
       <tuv lang="EN-US">
         <seg>The village will rely on access to basic resources to survive, grow, and prosper.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T133903Z" creationid="nakahodo" creationdate="20171224T133903Z">
-        <seg>村が存続、成長、反映するため、一般的な資源の量に依存しています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025659Z" creationid="nakahodo" creationdate="20171224T133903Z">
+        <seg>村は存続、成長、繁栄するため、一般的な資源の量に依存しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19037,8 +19037,8 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       <tuv lang="EN-US">
         <seg>When the guards leave, you scout your charter for your first charter building.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234231Z" creationid="aorin" creationdate="20171231T234231Z">
-        <seg>ガードか出発すると、あなたは、自身の最初の建物をチャーターで探します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025623Z" creationid="aorin" creationdate="20171231T234231Z">
+        <seg>ガードが村を離れると、あなたはチャーターにて、自身の最初の建物を探します。</seg>
       </tuv>
     </tu>
     <tu>
