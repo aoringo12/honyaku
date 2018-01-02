@@ -1240,8 +1240,9 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>127</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105912Z" creationid="nakahodo" creationdate="20171225T105912Z">
-        <seg>127</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T054943Z" creationid="nakahodo" creationdate="20171225T105912Z">
+        <seg>127 - Setup: General &amp; Personal Supply
+セットアップ：共通と個人サプライ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6054,8 +6055,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Construct the building in the inactive charter on an open plot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171225T105652Z" creationid="nakahodo" creationdate="20171225T105652Z">
-        <seg>非アクティブチャーターの空いた区画1つに、建物を建築します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T054823Z" creationid="nakahodo" creationdate="20171225T105652Z">
+        <seg>非アクティブチャーターの空いた区画1つに、その建物を建築します。</seg>
       </tuv>
     </tu>
     <tu>
