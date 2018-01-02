@@ -1215,16 +1215,16 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>124</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220258Z" creationid="nakahodo" creationdate="20171224T220258Z">
-        <seg>124</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053538Z" creationid="nakahodo" creationdate="20171224T220258Z">
+        <seg>124 - Getting Greedy in Greengully</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>125</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223143Z" creationid="nakahodo" creationdate="20171224T223143Z">
-        <seg>125</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053721Z" creationid="nakahodo" creationdate="20171224T223143Z">
+        <seg>125 - End of Game</seg>
       </tuv>
     </tu>
     <tu>
@@ -7120,8 +7120,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player gains 1 VP per coin.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T223005Z" creationid="nakahodo" creationdate="20171224T223005Z">
-        <seg>各プレイヤーはコインごとに1VPを得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053658Z" creationid="nakahodo" creationdate="20171224T223005Z">
+        <seg>各プレイヤーはコイン1つごとに1VPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14977,8 +14977,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Some rule cards replace older versions in the Chronicle;</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222658Z" creationid="nakahodo" creationdate="20171224T222658Z">
-        <seg>いくつかのルールカードがクロニクルの古いバージョンと置き換えられます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053643Z" creationid="nakahodo" creationdate="20171224T222658Z">
+        <seg>いくつかのルールカードがクロニクルの古いバージョンから置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15801,8 +15801,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Forever King is disappointed that you'refocused on coins, something the kingdom has in abundance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T220716Z" creationid="nakahodo" creationdate="20171224T220522Z">
-        <seg>永遠なる王は王国が豊富に保有するコインを集めようとしていることに失望します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053617Z" creationid="nakahodo" creationdate="20171224T220522Z">
+        <seg>永遠なる王は王国が豊富に保有するコインをあなたが集めようとしていることに失望します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20896,8 +20896,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>affix the newer rule on top.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T222721Z" creationid="nakahodo" creationdate="20171224T222721Z">
-        <seg>既存の上に新しいルールを貼り付けてください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053649Z" creationid="nakahodo" creationdate="20171224T222721Z">
+        <seg>既存のものの上に新しいルールを貼り付けてください。</seg>
       </tuv>
     </tu>
     <tu>
