@@ -1603,8 +1603,9 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>1Arrival</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171230T065117Z" creationid="nakahodo" creationdate="20171230T065117Z">
-        <seg>1Arrival</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T014125Z" creationid="nakahodo" creationdate="20171230T065117Z">
+        <seg>1 - Arrival
+到着</seg>
       </tuv>
     </tu>
     <tu>
