@@ -1652,8 +1652,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205402Z" creationid="nakahodo" creationdate="20171224T205402Z">
-        <seg>20</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
+        <seg>20 - Guideposts</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,8 +1696,8 @@ assistant - sherpa</seg>
       <tuv lang="EN-US">
         <seg>21</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213336Z" creationid="nakahodo" creationdate="20171224T213336Z">
-        <seg>21</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042315Z" creationid="nakahodo" creationdate="20171224T213336Z">
+        <seg>21 - Extract card~</seg>
       </tuv>
     </tu>
     <tu>
@@ -4575,8 +4575,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>Among those players, the player with the most influence tokens in their guidepost personal (roll the supply Charterstone reveals the to break options on further the ties), That player chooses 1 of the options and opens the corresponding crate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234736Z" creationid="aorin" creationdate="20171231T234736Z">
-        <seg>プレイヤーの中で、個人サプライに最も影響トークンを持つプレイヤーが指標のオプションを公開します（タイの場合はチャーターストーンをロールして決めます）。そのプレイヤーは、オプションの1つを選択肢、該当する木箱を開きます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042300Z" creationid="aorin" creationdate="20171231T234736Z">
+        <seg>プレイヤーの中で、個人サプライに最も影響トークンを持つプレイヤーが指標のオプションを公開します（タイの場合はチャーターストーンをロールして決めます）。そのプレイヤーは、オプションの1つを選択し、該当する木箱を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,8 +5049,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the end of the game, any player(s) who achieved the guidepost gain 1 glory(*).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234628Z" creationid="aorin" creationdate="20171231T234628Z">
-        <seg>ゲームが終了すると、指標を達成できたプレイヤーたちは1栄光を得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042240Z" creationid="aorin" creationdate="20171231T234628Z">
+        <seg>ゲームが終了すると、指標を達成できたプレイヤーたちは1栄光（☆）を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10307,8 +10307,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>If you're ready to play Game 2 now, reset the board &amp; mats of tokens &amp; cards, then return to setup.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T213919Z" creationid="nakahodo" creationdate="20171224T213919Z">
-        <seg>ゲーム2をプレイする準備ができている場合、ボード、トークンとカードのマットをリセットし、その後、セットアップに戻ります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042351Z" creationid="nakahodo" creationdate="20171224T213919Z">
+        <seg>このままゲーム2をプレイする予定で、準備もできている場合、ボード、トークンとカードのマットをリセットし、その後、セットアップに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14495,8 +14495,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>See rule 7 for the 7 different types.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205347Z" creationid="nakahodo" creationdate="20171224T205347Z">
-        <seg>ルール7の7異なるタイプを参照してください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042144Z" creationid="nakahodo" creationdate="20171224T205347Z">
+        <seg>ルール7の異なる7種類を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17130,8 +17130,8 @@ positive part of the score track is difficult!</seg>
       <tuv lang="EN-US">
         <seg>The wise Forever King offers guideposts to steer the village toward success.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205647Z" creationid="nakahodo" creationdate="20171224T205647Z">
-        <seg>賢明な永遠なる王は成功へと村を導くために指標を用意してくれています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042209Z" creationid="nakahodo" creationdate="20171224T205647Z">
+        <seg>賢明な永遠の王は成功へと村を導くために指標を用意してくれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17423,8 +17423,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>There will be various ways to increase your capacity throughout the campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205148Z" creationid="nakahodo" creationdate="20171224T205148Z">
-        <seg>キャンペーンを通してキャパシティを増やす方法がいくつもあります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042101Z" creationid="nakahodo" creationdate="20171224T205148Z">
+        <seg>キャンペーンを通してキャパシティを増やす方法はいくつかあります。</seg>
       </tuv>
     </tu>
     <tu>
