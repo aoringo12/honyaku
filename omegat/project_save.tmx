@@ -2698,6 +2698,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>33</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043727Z" creationid="aorin" creationdate="20180102T043727Z">
+        <seg>33 - Minions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>330</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T205207Z" creationid="aorin" creationdate="20171231T205207Z">
@@ -6845,8 +6853,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>END·OF-CAMPAIGNVALUE:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T171138Z" creationid="aorin" creationdate="20171228T171135Z">
-        <seg>キャンペーンの終了値：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043203Z" creationid="aorin" creationdate="20171228T171135Z">
+        <seg>キャンペーン終了価値：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21028,8 +21036,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>if you constructa building on top of another building, only the VP shown on the newer building (0) counts at end of campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T235024Z" creationid="aorin" creationdate="20171231T235024Z">
-        <seg>あなたが別の建物の上に建物を建築した場合、新しい建物に示されたVP（○）のみを、キャンペーン終了時に数えます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T043228Z" creationid="aorin" creationdate="20171231T235024Z">
+        <seg>あなたが建物の上に別の建物を建築した場合、新しい建物に示されたVP（○）のみを、キャンペーン終了時に数えます。</seg>
       </tuv>
     </tu>
     <tu>
