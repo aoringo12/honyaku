@@ -1183,8 +1183,8 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>12</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141353Z" creationid="nakahodo" creationdate="20171224T141353Z">
-        <seg>12</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030828Z" creationid="nakahodo" creationdate="20171224T141353Z">
+        <seg>12 - Extract~</seg>
       </tuv>
     </tu>
     <tu>
@@ -16167,8 +16167,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The game will soon introduce a way for inactive charters to grow, but if at any time you would like these charters to act like human players, please read and use the Automa rulebook.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T141055Z" creationid="nakahodo" creationdate="20171224T141055Z">
-        <seg>ゲームはすぐに非アクティブチャーターを成長させる方法を紹介しますが、これらチャーターを人間プレイヤーが動かすようにしたい場合は、オートマルールブックを読んで使用しましょう。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030749Z" creationid="nakahodo" creationdate="20171224T141055Z">
+        <seg>ゲームはすぐに非アクティブチャーターを成長させる方法を紹介しますが、これらチャーターを人間プレイヤーが動かすよううにシミュレートしたい場合は、オートマルールブックを読んで使用しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17910,8 +17910,8 @@ region in which they place their Field Researcher.</seg>
       <tuv lang="EN-US">
         <seg>This is necessary for solo games, but we recommend that 2+ player games only consider Automa after Game 1 or2(not now).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234247Z" creationid="aorin" creationdate="20171231T234247Z">
-        <seg>これはソロゲームでは必須ですが、2プレイヤー以上のゲームでは、ゲーム1か2（今ではなく）後にオートマを検討することをおすすめします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030814Z" creationid="aorin" creationdate="20171231T234247Z">
+        <seg>オートマはソロゲームで必須ですが、2プレイヤー以上のゲームでは、ゲーム1か2（今ではなく）後に検討することをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
