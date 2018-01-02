@@ -7095,8 +7095,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player keeps their constructed building card face up in front of them, as they'll need it later.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134725Z" creationid="nakahodo" creationdate="20171224T134725Z">
-        <seg>各プレイヤーは自身の前に建築された建物カードを表向きで保持します。これは後に使う時が来るでしょう。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030210Z" creationid="nakahodo" creationdate="20171224T134725Z">
+        <seg>各プレイヤーは自身の前に建築された建物カード（シールが剥がされた残りのカード）を表向きで保持します。これは後に使う時が来るでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7167,8 +7167,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player removes the building sticker from their corresponding card and affixes it Buildings permanently must to be any oriented plot in their the same charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234234Z" creationid="aorin" creationdate="20171231T234234Z">
-        <seg>各プレイヤーは自身に対応するカードから建物シールを剥がし、自身のチャーターの任意の区画へと、正位置でこの建物を永続的に貼り付けなければなりません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030131Z" creationid="aorin" creationdate="20171231T234234Z">
+        <seg>各プレイヤーは配られたカードから建物シールを剥がし、自身のチャーターの任意の区画へと、正位置でこの建物を永続的に貼り付けなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17470,8 +17470,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>These cards feature basic resource buildings where players will place workers to gain 1 of the indicated resource.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T134213Z" creationid="nakahodo" creationdate="20171224T134213Z">
-        <seg>これらのカードは、プレイヤーがワーカーを配置することによって、示されたリソースの1つを得ることのできる基本リソース建物が描かれています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030111Z" creationid="nakahodo" creationdate="20171224T134213Z">
+        <seg>これらのカードには、プレイヤーがワーカーを配置することによって、示されたリソースの1つを得ることのできる基本リソース建物が描かれています。</seg>
       </tuv>
     </tu>
     <tu>
