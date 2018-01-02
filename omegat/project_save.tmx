@@ -1560,8 +1560,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153643Z" creationid="nakahodo" creationdate="20171224T153643Z">
-        <seg>16</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032115Z" creationid="nakahodo" creationdate="20171224T153643Z">
+        <seg>16 - Continue playing~</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,8 +1595,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>17</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T165131Z" creationid="nakahodo" creationdate="20171224T165131Z">
-        <seg>17</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032229Z" creationid="nakahodo" creationdate="20171224T165131Z">
+        <seg>17 - End of Game</seg>
       </tuv>
     </tu>
     <tu>
@@ -13115,8 +13115,8 @@ turn order.</seg>
       <tuv lang="EN-US">
         <seg>Place this card at the bottom right of the game board on the Guidepost slot, then refer to the next paragraph when the final turn is taken in Game 1.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T155354Z" creationid="nakahodo" creationdate="20171224T155354Z">
-        <seg>このカードをゲームボードの右下にあるガイドポストスロットに配置し、その後、ゲーム1の最終ターン時に次の段落を参照してください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032201Z" creationid="nakahodo" creationdate="20171224T155354Z">
+        <seg>このカードをゲームボードの右下にある指標スロットに配置し、その後、ゲーム1の最終ターン時に次の段落を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20108,8 +20108,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can't use it this game</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T153622Z" creationid="nakahodo" creationdate="20171224T153617Z">
-        <seg>このゲームでは、まだこれは使えません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032050Z" creationid="nakahodo" creationdate="20171224T153617Z">
+        <seg>今回のゲームでは、まだこれは使えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21771,8 +21771,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•  If you unlock a persona card during a game, place it in your Charter Chest (even if it doesn't look like your original persona).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234404Z">
-        <seg>•ゲーム中にペルソナカードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルのペルソナと同じように見なくても）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032043Z" creationid="aorin" creationdate="20171231T234404Z">
+        <seg>•ゲーム中にペルソナカードを開放した場合、自身のチャーターチェストにこれを配置します（たとえオリジナルのペルソナと同じように見えなくても）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22325,8 +22325,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• Keep all persona cards from game to game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234406Z">
-        <seg>•ゲームごとのペルソナカードは全て保持します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032102Z" creationid="aorin" creationdate="20171231T234406Z">
+        <seg>•ゲームごとのペルソナカードは全て保持されます。</seg>
       </tuv>
     </tu>
     <tu>
