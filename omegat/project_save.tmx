@@ -3275,8 +3275,9 @@ look something like the diagram above.</seg>
       <tuv lang="EN-US">
         <seg>5 for fewer than 6 Players...</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135238Z" creationid="nakahodo" creationdate="20171224T135238Z">
-        <seg>6プレイヤーよりも少ない…</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030338Z" creationid="nakahodo" creationdate="20171224T135238Z">
+        <seg>11 - For Fewer Than 6 Players
+6プレイヤーよりも少ない…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9645,8 +9646,8 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
       <tuv lang="EN-US">
         <seg>If there are fewer than 6 players, affix each remaining building sticker to a plot in the indicated (inactive) charters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135939Z" creationid="nakahodo" creationdate="20171224T135939Z">
-        <seg>6プレイヤーに満たない場合、残っている建物ごとに、示された（非アクティブチャーター）チャーターの区画1つにシールを貼り付けます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030454Z" creationid="nakahodo" creationdate="20171224T135939Z">
+        <seg>6プレイヤーに満たない場合、残っている建物ごとに、示された（非アクティブ）チャーターの区画1つにシールを貼り付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13082,8 +13083,8 @@ turn order.</seg>
       <tuv lang="EN-US">
         <seg>Place their constructed building card on the advancement mat (日) for now.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234243Z" creationid="aorin" creationdate="20171231T234243Z">
-        <seg>今のところ、発展マット（●）にそれらの建築された建物カードを配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030730Z" creationid="aorin" creationdate="20171231T234243Z">
+        <seg>今のところ、発展マット（●）に結果残る建築された建物カードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13956,8 +13957,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Regardless of the number of human players in any given game of Charterstone, there are always 6 founding villagers, each operating a different charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T135549Z" creationid="nakahodo" creationdate="20171224T135549Z">
-        <seg>チャーターストーンの任意のゲームでのプレイヤー人数に関わらず、常に6人の村創設人がいて、異なるチャーターをそれぞれ運営しています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T030410Z" creationid="nakahodo" creationdate="20171224T135549Z">
+        <seg>チャーターストーンの任意のゲームでのプレイヤー人数に関わらず、村には常に6人の村創設人がいて、異なるチャーターをそれぞれ運営しています。</seg>
       </tuv>
     </tu>
     <tu>
