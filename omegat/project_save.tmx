@@ -1612,8 +1612,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T122746Z" creationid="nakahodo" creationdate="20171224T122746Z">
-        <seg>2</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025104Z" creationid="nakahodo" creationdate="20171224T122746Z">
+        <seg>2 - Scriptrium &amp; General Supply</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,8 +4126,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After spending all day flying over the kingdom, the zeppelin sets down and the guards open the hatch for you and your companions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T123610Z" creationid="nakahodo" creationdate="20171224T120815Z">
-        <seg>ツェッペリンにて王国の空を一日過ごし、ようやく着陸したツェッペリンのハッチがガードによってあなたと、あなたの仲間たちのために開けられました。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T024959Z" creationid="nakahodo" creationdate="20171224T120815Z">
+        <seg>王国の上空をツェッペリンにて一日過ごし、ようやく着陸したツェッペリンのハッチがガードによってあなたと、あなたの仲間たちのために開けられました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15914,8 +15914,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Scriptorium tuckbox is where you'll store global components from game to game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125536Z" creationid="nakahodo" creationdate="20171224T125536Z">
-        <seg>スクリプトリウムタックボックスはゲームごとの全体のコンポーネントを保存する場所です。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025205Z" creationid="nakahodo" creationdate="20171224T125536Z">
+        <seg>スクリプトリウムタックボックスはゲームごとで使用するコンポーネント全般を保存する場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16206,8 +16206,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The guards unload a number of mysterious crates and forbid you to open any of them, except for the one labeled "Scriptorium." Open it now.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125606Z" creationid="nakahodo" creationdate="20171224T123559Z">
-        <seg>ガードはいくつかの神秘的な木箱を荷降ろし、「スクリプトリウム（Scriptrium）」がラベルされた物以外、これらを開くことを禁止しました。スクリプトリウムを開きましょう。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025148Z" creationid="nakahodo" creationdate="20171224T123559Z">
+        <seg>ガードはいくつかの神秘的な木箱を荷降ろし、「スクリプトリウム（Scriptrium）」がラベルされた物以外、これらを開くことを禁止しました。ゲームボックスにある、スクリプトリウムタックボックスを開きましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17021,8 +17021,8 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       <tuv lang="EN-US">
         <seg>The sun is setting as you venture outside.The location is a lush landscape of rolling hills, patches of trees, and a babbling brook.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234201Z" creationid="aorin" creationdate="20171231T234201Z">
-        <seg>あなたが思い切って外に出ると太陽が沈んでいます。なだらかな丘、豊かな木々、流れる小川といったのどかな風景となっています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025121Z" creationid="aorin" creationdate="20171231T234201Z">
+        <seg>あなたが思い切って外に出ると太陽はもう沈んでいます。なだらかな丘、豊かな木々、流れる小川といったのどかな風景を見ることができました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20742,8 +20742,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your goal is to bring the greatest glory to the Forever King so you may rule the village in his name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234150Z" creationid="aorin" creationdate="20171231T234150Z">
-        <seg>あなたのゴールは、永遠なる王へとさらなる栄光をもたらす事です。なので、彼の名前で村を支配しましょう。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T024932Z" creationid="aorin" creationdate="20171231T234150Z">
+        <seg>あなたのゴールは、永遠なる王へとさらなる栄光をもたらす事です。なので、彼の名前で村を支配することもあるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
