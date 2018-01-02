@@ -2384,8 +2384,8 @@ Amulet of Time</seg>
       <tuv lang="EN-US">
         <seg>3</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T130104Z" creationid="nakahodo" creationdate="20171224T130104Z">
-        <seg>3</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025258Z" creationid="nakahodo" creationdate="20171224T130104Z">
+        <seg>3 - Charter Selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -6756,8 +6756,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During the game, these global components (along with advancement cards) form the general supply, and they are all limited as follows:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T125708Z" creationid="nakahodo" creationdate="20171224T125708Z">
-        <seg>ゲーム中、これら全体コンポーネント（と発展カード）は共通サプライを形成し、これらは全て、次の数に制限されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025216Z" creationid="nakahodo" creationdate="20171224T125708Z">
+        <seg>ゲーム中、これら全体コンポーネント（と発展カード）は共通サプライを形成し、これらは全て、次の数で制限されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7199,8 +7199,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player should now adjust their seating position to permanently select their charter.Claim your Charter Chest (the box with your charter emblem;</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131017Z" creationid="nakahodo" creationdate="20171224T131017Z">
-        <seg>各プレイヤーは自身が選択するチャーターに近い場所へと、永続的に座る必要があります。あなたのキャラクターチェストを主張し（あなたのキャラクターエンブレムがあるボックス；</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025357Z" creationid="nakahodo" creationdate="20171224T131017Z">
+        <seg>各プレイヤーは自身が選択するチャーターに近い場所へと、永続的に座る必要があります。あなたのキャラクターチェストを選択し（あなたのキャラクターエンブレムがあるボックス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7572,8 +7572,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extract cards 200-205 from the Index and match them with each player (for each inactive charter, place their persona card in their Charter Chest).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T131314Z">
-        <seg>インデックスから200~205のカードを引き出し、各プレイヤーに一致させます（非アクティブキャラクターごと、自身のキャラクターチェストに自身のペルソナカードを入れます）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025518Z" creationid="nakahodo" creationdate="20171224T131314Z">
+        <seg>インデックスから200~205のカードを引き出し、各プレイヤーと一致させます（非アクティブキャラクターごとに、彼らのキャラクターチェストにペルソナカードを入れます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21187,8 +21187,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>the text on it will be explained later), then open it to reveal these components:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T131118Z" creationid="nakahodo" creationdate="20171224T131118Z">
-        <seg>このテキストについては後述）、その後、これらコンポーネントを出すために開きます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T025418Z" creationid="nakahodo" creationdate="20171224T131118Z">
+        <seg>詳しい説明については後述）、その後、これらコンポーネントを出すために開きます。</seg>
       </tuv>
     </tu>
     <tu>
