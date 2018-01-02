@@ -3013,6 +3013,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>37</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T045806Z" creationid="aorin" creationdate="20180102T045806Z">
+        <seg>37 - Peril Quota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>370</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T231827Z" creationid="aorin" creationdate="20171231T231827Z">
@@ -3307,6 +3315,14 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220500Z" creationid="nakahodo" creationdate="20171229T220500Z">
         <seg>413</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T045833Z" creationid="aorin" creationdate="20180102T045833Z">
+        <seg>47 - Treasure Cards</seg>
       </tuv>
     </tu>
     <tu>
@@ -5908,8 +5924,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Clear the board of remaining tokens and return all peril tokens to the general supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T235223Z" creationid="aorin" creationdate="20171231T235223Z">
-        <seg>ボードに残っているトークンをなくし、共通サプライに危険トークンを全て戻します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T045749Z" creationid="aorin" creationdate="20171231T235223Z">
+        <seg>ボードに残っている危険トークンを全て共通サプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
