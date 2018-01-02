@@ -1611,8 +1611,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>19</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T204042Z" creationid="nakahodo" creationdate="20171224T204042Z">
-        <seg>19</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041932Z" creationid="nakahodo" creationdate="20171224T204042Z">
+        <seg>19 - Capacity</seg>
       </tuv>
     </tu>
     <tu>
@@ -5017,8 +5017,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the end of each game, gain 1 glory(*) per 10 VP earned that game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180102T041753Z" creationid="aorin" creationdate="20171231T234432Z">
-        <seg>各ゲームの終了にて、そのゲームで得られた10VPごとに1栄光()を得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041801Z" creationid="aorin" creationdate="20171231T234432Z">
+        <seg>各ゲームの終了にて、そのゲームで得られた10VPごとに1栄光（○）を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5318,8 +5318,8 @@ also receive 2 Honey pots</seg>
       <tuv lang="EN-US">
         <seg>Be prepared to only keep 1 of each after game 2!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T205012Z" creationid="nakahodo" creationdate="20171224T204927Z">
-        <seg>_なので、ゲーム2後ではそれぞれ1つのみ保持できる準備をしてください！_</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042048Z" creationid="nakahodo" creationdate="20171224T204927Z">
+        <seg>_なので、ゲーム2後ではそれぞれ1つのみ保持することになることを覚えておいてください！_</seg>
       </tuv>
     </tu>
     <tu>
@@ -7693,8 +7693,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Fill in 1 capacity on your Charter Chest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203944Z" creationid="nakahodo" creationdate="20171224T203944Z">
-        <seg>あなたのチャーターチェストの1キャパシティを満たします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041901Z" creationid="nakahodo" creationdate="20171224T203944Z">
+        <seg>あなたのチャーターチェストの1キャパシティ拡張します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,8 +11460,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Mark those stars on your Charter Chest (you choose which stars to fill in).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234450Z" creationid="aorin" creationdate="20171231T234450Z">
-        <seg>あなたのチャーターチェストにその数の星を塗りつぶします（どの星を塗りつぶすのか選択します）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041812Z" creationid="aorin" creationdate="20171231T234450Z">
+        <seg>あなたのチャーターチェストにその数だけ星を塗りつぶします（どの星を塗りつぶすのか選択します）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17519,8 +17519,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>These will be revealed later.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T203814Z" creationid="nakahodo" creationdate="20171224T203814Z">
-        <seg>これらは後に明らかになります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041837Z" creationid="nakahodo" creationdate="20171224T203814Z">
+        <seg>これについては、後に明らかになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20316,8 +20316,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may select and use 1 extra persona card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T204017Z">
-        <seg>一枚追加でペルソナカードを選択して使用できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041919Z" creationid="nakahodo" creationdate="20171224T204017Z">
+        <seg>1枚追加でペルソナカードを選択して使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20615,8 +20615,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your Charter Chest shows your current capacity (you start the campaign with 1 in each category).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234621Z" creationid="aorin" creationdate="20171231T234621Z">
-        <seg>チャーターチェストに現在のキャパシティが示されます（各カテゴリー1からキャンペーンが始まります）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T042010Z" creationid="aorin" creationdate="20171231T234621Z">
+        <seg>チャーターチェストに現在のキャパシティが示されます（キャンペーンは各カテゴリー1から始まります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20930,8 +20930,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>discard everything else(except persona cards and player pieces) to the general supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234601Z">
-        <seg>それ以外のものは共通サプライに捨てます_（ペルソナカードとプレイヤーピースを除いて）_。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T041951Z" creationid="aorin" creationdate="20171231T234601Z">
+        <seg>それを超えるものは共通サプライに捨てます_（ペルソナカードとプレイヤーピースを除いて）_。</seg>
       </tuv>
     </tu>
     <tu>
