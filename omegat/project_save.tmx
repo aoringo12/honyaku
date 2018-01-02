@@ -1452,6 +1452,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031911Z" creationid="aorin" creationdate="20180102T031911Z">
+        <seg>15 - Persona Cards</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15 Persona Cards You're discovering that you have a variety of skills that you don't remember learning.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T153500Z" creationid="nakahodo" creationdate="20171224T151331Z">
@@ -15787,8 +15795,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Forever King seems to be happy each time you use a different persona.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T151332Z">
-        <seg>永遠なる王はあなたが様々なペルソナ（ペルソナ）を使うことを嬉しそうに観察しています。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031954Z" creationid="nakahodo" creationdate="20171224T151332Z">
+        <seg>永遠なる王はあなたが様々なペルソナを使うことを嬉しそうに観察しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16433,8 +16441,8 @@ determined by the desired Plan’s Cost.</seg>
       <tuv lang="EN-US">
         <seg>The number shown below the building (〇) is its VP value at the end of the campaign.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234334Z" creationid="aorin" creationdate="20171231T234334Z">
-        <seg>建物下に示される数字（●）は、キャンペーン終了時のVPの値です。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031855Z" creationid="aorin" creationdate="20171231T234334Z">
+        <seg>建物下に示される数字（●）は、キャンペーン終了時（つまり今回のではなく、全ゲーム終了時）のVP価値です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20532,8 +20540,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You're discovering that you have a variety of skills that you don't remember learning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234354Z" creationid="aorin" creationdate="20171231T234354Z">
-        <seg>あなたは、学んでいない様々なスキルがあることに気づきます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031943Z" creationid="aorin" creationdate="20171231T234354Z">
+        <seg>あなたは、学んでいない様々なスキルを持っていることに気づきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21100,8 +21108,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>permanently Gain 5 affix VP it and to an advance empty the plot in progress your token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T145224Z" creationid="nakahodo" creationdate="20171224T145224Z">
-        <seg>5vPを得て、進展トークンを進めます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031737Z" creationid="nakahodo" creationdate="20171224T145224Z">
+        <seg>5VPを得て、進展トークンを進めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21739,8 +21747,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>•  During setup, you may select any persona from your Charter Chest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234356Z">
-        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意のペルソナを選択できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T032022Z" creationid="aorin" creationdate="20171231T234356Z">
+        <seg>•セットアップ時、あなたは自身のチャーターチェストから任意のペルソナ1枚を選択できます。</seg>
       </tuv>
     </tu>
     <tu>
