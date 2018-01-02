@@ -3438,6 +3438,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>90</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
+        <seg>90 - Building Cards</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;,._$onemaiergames.com/games/charterstone/map f􀂕If your village's score this game was above</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T020809Z" creationid="aorin" creationdate="20171229T020809Z">
@@ -15761,8 +15769,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Forever King gave you some helpful blueprints, but architectural innovation can create new opportunities.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T235248Z" creationid="aorin" creationdate="20171231T235248Z">
-        <seg>永遠なる王から役に立つ設計図をいくつか頂きましたが、建築学のイノベーションは新しい機会を作り出します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053119Z" creationid="aorin" creationdate="20171231T235248Z">
+        <seg>永遠なる王からは役に立つ設計図をいくつか頂きましたが、建築学のイノベーションは更なる新しい機会を作り出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21372,8 +21380,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>when you use the Junkyard, discard all face-up cards on the advancement mat, then gain 1 of those newly revealed cards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T235116Z" creationid="aorin" creationdate="20171228T235116Z">
-        <seg>あなたがジャンクヤードを使用するとき、発展マットの表向きのカードを全て捨て札にして、その後、新しくカードを公開してそこから1枚得ます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053202Z" creationid="aorin" creationdate="20171228T235116Z">
+        <seg>あなたがジャンクヤードを使用するとき、発展マットの表向きのカードを全て捨て札にして、その後、新しくカードらを公開してそこから1枚得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22373,8 +22381,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>• JUNKYARD:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T235026Z" creationid="aorin" creationdate="20171228T235026Z">
-        <seg>•ジャンクヤード：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T053149Z" creationid="aorin" creationdate="20171228T235026Z">
+        <seg>•ジャンクヤード（JUNKYARD）：</seg>
       </tuv>
     </tu>
     <tu>
