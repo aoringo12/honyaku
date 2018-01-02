@@ -14225,8 +14225,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Reveal 3 random objective cards (extra cards form a face-down deck on the mat).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171228T162950Z" creationid="aorin" creationdate="20171228T162950Z">
-        <seg>目標カード3枚をランダムに公開します（余分なカードでマットに裏向きのデッキを作ります）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T055131Z" creationid="aorin" creationdate="20171228T162950Z">
+        <seg>目標カード3枚をランダムに公開します（余分なカードでマットに裏向きの目標カードデッキを作ります）。</seg>
       </tuv>
     </tu>
     <tu>
