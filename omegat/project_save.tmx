@@ -1246,6 +1246,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031508Z" creationid="aorin" creationdate="20180102T031505Z">
+        <seg>13 - An important~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13
 » When the AI performs the Place action, it will
 always place in the first available Mint Placement</seg>
@@ -1348,8 +1356,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>14 constructing a Building</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171231T234301Z" creationid="aorin" creationdate="20171231T234301Z">
-        <seg>14
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031615Z" creationid="aorin" creationdate="20171231T234301Z">
+        <seg>14 - Constructing a Building
 建物の建築</seg>
       </tuv>
     </tu>
@@ -4583,8 +4591,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An important part of Game 1 is for each player to use the Charterstone building.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142407Z" creationid="nakahodo" creationdate="20171224T142407Z">
-        <seg>ゲーム1にて重要なことは、各プレイヤーがチャーターストーンの建物を利用することです。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031531Z" creationid="nakahodo" creationdate="20171224T142407Z">
+        <seg>ゲーム1にて重要なことは、各プレイヤーが当物のチャーターストーンを利用することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5320,8 +5328,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Because of their mobility and flexibility, zeppelins are the standard way of constructing buildings in Greengully.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T144855Z" creationid="nakahodo" creationdate="20171224T144855Z">
-        <seg>その移動性と順応性により、ツェッペリンはグリーングリーでの建物を建築する一般的な方法です。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031627Z" creationid="nakahodo" creationdate="20171224T144855Z">
+        <seg>その移動性と順応性により、ツェッペリンはグリーングリーでの建物を建築する一般的な方法になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13997,8 +14005,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove the building sticker and charter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T145150Z" creationid="nakahodo" creationdate="20171224T145150Z">
-        <seg>建物シールを剥がす、自身のチャーターの空いたスロット1つに永久的に貼り付けます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031732Z" creationid="nakahodo" creationdate="20171224T145150Z">
+        <seg>建物のシールを剥がし、自身のチャーターの空いたスロット1つに永久的に貼り付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18070,8 +18078,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>This will let you unlock the crate shown on your constructed building card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142453Z" creationid="nakahodo" creationdate="20171224T142453Z">
-        <seg>これにより、あなたの建築された建物カードに示された木箱を開放できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031539Z" creationid="nakahodo" creationdate="20171224T142453Z">
+        <seg>これにより、あなたの持つ建築された建物カードに示された木箱を開放できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19218,8 +19226,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you're ready to begin Game 1, extract card 13 from the Index (place this card in the Archive without removing the sticker).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T142253Z" creationid="nakahodo" creationdate="20171224T142253Z">
-        <seg>ゲーム1を開始する準備ができたら、インデックスからカード13を引き出します（シールを剥がさずにアーカイブへとこのカードを入れます）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031452Z" creationid="nakahodo" creationdate="20171224T142253Z">
+        <seg>ゲーム1を開始する準備ができたら、インデックスからカード13を引き出します（シールを剥がさずにアーカイブへとこのカードをそのまま入れます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20284,8 +20292,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may place a worker on the Zeppelin to construct a building on an empty plot in your charter using a building card from your personal supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20171224T145020Z" creationid="nakahodo" creationdate="20171224T145020Z">
-        <seg>あなたは自身のチャーターの空いた区画1つへと建物を建築するために、ツェッペリンにワーカー1つを配置し、個人サプライから建物カード1枚を使用します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T031714Z" creationid="nakahodo" creationdate="20171224T145020Z">
+        <seg>あなたはツェッペリンにワーカー1つを配置し、個人サプライから建物カード1枚を使用して自身のチャーターの空いた区画1つへと建物を建築することができます。</seg>
       </tuv>
     </tu>
     <tu>
