@@ -1247,6 +1247,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>128</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180102T055329Z" creationid="aorin" creationdate="20180102T055329Z">
+        <seg>128 - Supporing the Kingdom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>129</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164842Z" creationid="aorin" creationdate="20171228T164842Z">
