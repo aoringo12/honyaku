@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(regardless of the action you perform)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145815Z" creationid="nakahodo" creationdate="20180108T145815Z">
+        <seg>（あなたが実行するアクションに関わらず）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(roll the supply Charterstone reveals the to break options on further the  ties):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213244Z" creationid="nakahodo" creationdate="20171224T213244Z">
@@ -6301,6 +6309,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose one Hourglass belonging to a player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145858Z" creationid="nakahodo" creationdate="20180108T145858Z">
+        <seg>プレイヤーに関する砂時計を1つ選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one of the four Eyrie leaders and place it on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
@@ -7115,6 +7131,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141704Z" creationid="aorin" creationdate="20171213T043935Z">
         <seg>ダブル提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Down With The Flu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145816Z" creationid="nakahodo" creationdate="20180108T145816Z">
+        <seg>Down With The Flu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,6 +11875,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may not be used during this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145911Z" creationid="nakahodo" creationdate="20180108T145911Z">
+        <seg>このラウンド中それは使用できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It only takes you one action, but it’s also the most expensive way to get Reward Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101139Z" creationid="aorin" creationdate="20171212T101124Z">
@@ -11959,6 +11991,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002653Z" creationid="aorin" creationdate="20171216T002653Z">
         <seg>縄張り意識。あなたは空き地ごとに止まり木1つのみ持てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joo Growded</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150039Z" creationid="nakahodo" creationdate="20180108T150039Z">
+        <seg>Joo Growded</seg>
       </tuv>
     </tu>
     <tu>
@@ -12304,6 +12344,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112638Z" creationid="nakahodo" creationdate="20171001T112638Z">
         <seg>盛大な議論、喧伝、交渉が推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low Attendance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145635Z" creationid="nakahodo" creationdate="20180108T145635Z">
+        <seg>Low Attendance</seg>
       </tuv>
     </tu>
     <tu>
@@ -12681,6 +12729,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075134Z" creationid="aorin" creationdate="20171216T075134Z">
         <seg>敵対者ペナルティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Supplier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145437Z" creationid="nakahodo" creationdate="20180108T145437Z">
+        <seg>New Supplier</seg>
       </tuv>
     </tu>
     <tu>
@@ -14604,6 +14660,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plumbing Problem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145556Z" creationid="nakahodo" creationdate="20180108T145556Z">
+        <seg>Plumbing Problem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plus, I need one of your bodies if I'm going to live another 400 years."</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135613Z" creationid="nakahodo" creationdate="20171230T135047Z">
@@ -14808,6 +14872,14 @@ in a Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T085515Z" creationid="nakahodo" creationdate="20170924T085515Z">
         <seg>ロースターに得点トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put a Malfunction token on one of the spaces in each active Storage area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150201Z" creationid="nakahodo" creationdate="20180108T150201Z">
+        <seg>Put a Malfunction token on one of the spaces in each active Storage area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16286,6 +16358,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppliers Shortage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145940Z" creationid="nakahodo" creationdate="20180108T145940Z">
+        <seg>Suppliers Shortage</seg>
       </tuv>
     </tu>
     <tu>
@@ -19617,6 +19697,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tridge Maintenance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150149Z" creationid="nakahodo" creationdate="20180108T150149Z">
+        <seg>Tridge Maintenance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trigger income for yourself (it only affects you).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200243Z" creationid="aorin" creationdate="20171231T200051Z">
@@ -20350,6 +20438,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When paying wages, pay only 1 Coin for that Hourglass.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145939Z" creationid="nakahodo" creationdate="20180108T145939Z">
+        <seg>給料を支払う時、その砂時計には1コインのみ支払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When performing a Mining action, choose the first 2 cubes from the bag.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141954Z" creationid="nakahodo" creationdate="20171213T141954Z">
@@ -20798,6 +20894,38 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160303Z" creationid="nakahodo" creationdate="20171230T160148Z">
         <seg>あなたが目標カード1枚を得るたびに、デッキの上3枚から選択してから得るようにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you go Shopping during this round, you may not place Ingredients in a Storage area if there is an Hourglass there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150430Z" creationid="nakahodo" creationdate="20180108T150149Z">
+        <seg>このラウンド中に買い物にいくたび、倉庫一箇所に砂時計がある場合に食材をそこに配置できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you go Shopping for Ingredients during this round, take one less Ingredient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150056Z" creationid="nakahodo" creationdate="20180108T150034Z">
+        <seg>このラウンド中に食材のため買い物に行くたびに、食材を1つ少なく取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you go to the Maitre d' during this round, draw one less card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145758Z" creationid="nakahodo" creationdate="20180108T145758Z">
+        <seg>このラウンド中に支配人に行くたびに、カードを1枚少なくドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you go to the Sink during this round, you may only clean one plate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145634Z" creationid="nakahodo" creationdate="20180108T145634Z">
+        <seg>このラウンド中にシンクに行くたびに、あなたは皿1枚のみを洗える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21624,6 +21752,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220258Z" creationid="nakahodo" creationdate="20171229T220258Z">
         <seg>あなたはチャーターストーンに勝利できますが、過程で敗北しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may not go Shopping during this round if an Hourglass of another color is already there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145555Z" creationid="nakahodo" creationdate="20180108T145555Z">
+        <seg>買い物に他の色の砂時計が既にある場合、あなたはこのラウンド買い物できない。</seg>
       </tuv>
     </tu>
     <tu>
