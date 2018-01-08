@@ -12585,6 +12585,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Automa charter cards will choose the second-highest or the third-highest 0 value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094140Z" creationid="nakahodo" creationdate="20180108T094140Z">
+        <seg>他のオートマチャーターカードは二番目に高い、または三番目に高い値を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Notes</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153744Z" creationid="nakahodo" creationdate="20171230T153744Z">
@@ -14663,6 +14671,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll the Charterstone die to select the charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093519Z" creationid="nakahodo" creationdate="20180108T093519Z">
+        <seg>チャーターを選択するためにチャーターストーンをロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll the Charterstone to randomly determine your charter</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T142755Z" creationid="nakahodo" creationdate="20171230T142755Z">
@@ -14859,6 +14875,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042144Z" creationid="nakahodo" creationdate="20171224T205347Z">
         <seg>ルール7の異なる7種類を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Automa' s home charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093657Z" creationid="nakahodo" creationdate="20180108T093657Z">
+        <seg>オートマのホームチャーターを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16418,6 +16442,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221223Z" creationid="aorin" creationdate="20171215T221223Z">
         <seg>その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The building is selected based upon its end-of campaign value (the number inside a purple circle).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093931Z" creationid="nakahodo" creationdate="20180108T093931Z">
+        <seg>建物はキャンペーン終了価値の値に基づいて（紫円内の数字）選択されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21440,6 +21472,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150518Z" creationid="aorin" creationdate="20171215T150518Z">
         <seg>マルキスが戦士を雇用するが、各雇用所に戦士1体を配置するだけの戦士が彼女のサプライにない場合、可能な数だけそうします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if there isn't a second or third, simply stop counting and choose second-highest building with that value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094441Z" creationid="nakahodo" creationdate="20180108T094441Z">
+        <seg>第二、第三でない場合、単純にカウントをストップし、その価値で二番目に高い建物を選択します。</seg>
       </tuv>
     </tu>
     <tu>
