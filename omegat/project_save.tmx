@@ -1034,6 +1034,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094918Z" creationid="nakahodo" creationdate="20180108T094918Z">
+        <seg>.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/ c) / Q):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202724Z" creationid="nakahodo" creationdate="20171224T202724Z">
@@ -5229,6 +5237,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094038Z" creationid="aorin" creationdate="20171212T094038Z">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automa Strength:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094917Z" creationid="nakahodo" creationdate="20180108T094917Z">
+        <seg>オートマ強度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14373,6 +14389,22 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember that the Automa does not gain VP printed on the building itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T095020Z" creationid="nakahodo" creationdate="20180108T095020Z">
+        <seg>オートマが建物自体にプリントされたVPは得ない事に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that the Automa does not get any benefits printed on buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T095517Z" creationid="nakahodo" creationdate="20180108T095517Z">
+        <seg>オートマは、建物にプリントされた任意の効果を得ないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove 1 peril token from your charter and keep it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T203752Z" creationid="nakahodo" creationdate="20171224T203752Z">
@@ -15281,6 +15313,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the icons on the Automa cards offer benefits to the Automa as described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T095429Z" creationid="nakahodo" creationdate="20180108T095429Z">
+        <seg>オートマカードのいくつかのアイコンは、下記で説明されるようにオートマに効果を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the spaces on the quota track include an additional (optional) bonus:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T211249Z" creationid="aorin" creationdate="20180101T211249Z">
@@ -15586,6 +15626,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE AUTOMA GAINS VP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094459Z" creationid="nakahodo" creationdate="20180108T094444Z">
+        <seg>オートマがVPを得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE BREWMASTER</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090458Z" creationid="nakahodo" creationdate="20170924T090458Z">
@@ -15606,6 +15654,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113350Z" creationid="nakahodo" creationdate="20171001T113350Z">
         <seg>研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TH[ AUTOMA GAINS B[N[flTS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T095049Z" creationid="nakahodo" creationdate="20180108T095049Z">
+        <seg>オートマが効果を得る</seg>
       </tuv>
     </tu>
     <tu>
@@ -21256,6 +21312,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>____________</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094918Z" creationid="nakahodo" creationdate="20180108T094918Z">
+        <seg>____________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a Pixie can only move to an empty spot on the next row.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040713Z" creationid="aorin" creationdate="20171213T040713Z">
@@ -21478,8 +21542,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>if there isn't a second or third, simply stop counting and choose second-highest building with that value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094441Z" creationid="nakahodo" creationdate="20180108T094441Z">
-        <seg>第二、第三でない場合、単純にカウントをストップし、その価値で二番目に高い建物を選択します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094449Z" creationid="nakahodo" creationdate="20180108T094441Z">
+        <seg>第二、第三がない場合、単純にカウントをストップし、その価値で二番目に高い建物を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22729,6 +22793,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133607Z" creationid="nakahodo" creationdate="20171230T133607Z">
         <seg>•合計が23を超えている場合、木箱Vを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If there is a strength icon, the Automa gains VP equal to the current Automa strength (shown below).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094913Z" creationid="nakahodo" creationdate="20180108T094520Z">
+        <seg>•強度アイコンがある場合、オートマは現在のオートマの強度に等しい数のVPを得ます（下記に示されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If there's a VP icon on the card, then the Automa gains that number of VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T094811Z" creationid="nakahodo" creationdate="20180108T094519Z">
+        <seg>•カードにVPアイコンがある場合、オートマはその数のVPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
