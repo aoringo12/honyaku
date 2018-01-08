@@ -3887,6 +3887,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOMA DECK:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
+        <seg>オートマデッキ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accompanying the Forever King's arrival are a host of advancements never before seen in the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233335Z" creationid="aorin" creationdate="20171231T233335Z">
@@ -6316,6 +6324,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DETERMINE THE NUMBER OF AUTOMAS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085624Z" creationid="nakahodo" creationdate="20180108T085624Z">
+        <seg>オートマの数を決定する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEVELOPMENT</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073316Z" creationid="nakahodo" creationdate="20171209T073316Z">
@@ -7897,6 +7913,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144552Z" creationid="nakahodo" creationdate="20171218T144552Z">
         <seg>セットアップの各ステップを順番に実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the Setup rules in the Chronicle rulebook with the following adjustments for the Automa:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085550Z" creationid="nakahodo" creationdate="20180108T085550Z">
+        <seg>オートマ用に調整して、クロニクルのルールブックのセットアップルールに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10149,6 +10173,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001729Z" creationid="aorin" creationdate="20171216T001729Z">
         <seg>アクションを実行できない場合、直ちに混乱に移行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose to include the Automa system, we recommend using 2 Automas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085836Z" creationid="nakahodo" creationdate="20180108T085836Z">
+        <seg>オートマシステムを含める選択をする場合、我々はオートマ2人を使用することを推奨します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12553,6 +12585,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PLAYER PIECES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090318Z" creationid="nakahodo" creationdate="20180108T090318Z">
+        <seg>プレイヤーピース：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PLEASE READ THIS PAGE BEFORE LOOKING AT ANYTHING ELSE IN THIS BOX.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T140839Z" creationid="nakahodo" creationdate="20171218T140839Z">
@@ -14698,6 +14738,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up regular workers, influence tokens, and VP tokens from each Automa's charter chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090401Z" creationid="nakahodo" creationdate="20180108T090401Z">
+        <seg>各オートマのチャーターチェストから、通常ワーカー、影響トークン、VPトークンをセットアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setup</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021642Z" creationid="nakahodo" creationdate="20171211T071411Z">
@@ -14820,6 +14868,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T085457Z" creationid="nakahodo" creationdate="20170924T085457Z">
         <seg>ブレンドスレートをシャッフルし、ワールドマップの西側近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Automa Deck and place it facedown next to the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090509Z" creationid="nakahodo" creationdate="20180108T090509Z">
+        <seg>オートマデッキをシャッフルして、ボード横に裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20132,6 +20188,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can add or remove Automas throughout the campaign, but unless a charter is active every game, its final score will not be relevant at the end of the campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090152Z" creationid="nakahodo" creationdate="20180108T090152Z">
+        <seg>キャンペーンを通してオートマの増減はできますが、ゲーム全体でチャーターがアクティブでない限り、キャンペーン終了時の最終得点に関われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can construct buildings on empty sky island tiles in your charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
@@ -20504,6 +20568,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T152343Z" creationid="nakahodo" creationdate="20171224T152343Z">
         <seg>あなたはゲームを通してその能力を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might decide to have an Automa replace a temporarily unavailable human player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090312Z" creationid="nakahodo" creationdate="20180108T090312Z">
+        <seg>一時的に参加できない人間プレイヤーをオートマに置き換える選択ができます。</seg>
       </tuv>
     </tu>
     <tu>
