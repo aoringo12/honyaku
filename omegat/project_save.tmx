@@ -1618,6 +1618,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>161 159</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100345Z" creationid="nakahodo" creationdate="20180108T100345Z">
+        <seg>161 159</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>162</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153739Z" creationid="nakahodo" creationdate="20171230T153739Z">
@@ -4801,6 +4809,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any rules that reference the "number" of a card on the advancement mat are referring to the number on the bottom right of the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100052Z" creationid="nakahodo" creationdate="20180108T095958Z">
+        <seg>任意のルールで指示される、発展マットのカードの「数字」は、カード右下で指示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any supporters left in forest nation boxes at the end of Daylight remain for future turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053244Z" creationid="aorin" creationdate="20171216T053244Z">
@@ -5705,6 +5721,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONSTRUCT A BUILDING</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100139Z" creationid="nakahodo" creationdate="20180108T100139Z">
+        <seg>建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONSTRUCTED BUILDING CARD:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145228Z" creationid="nakahodo" creationdate="20171224T145228Z">
@@ -6396,6 +6420,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DISCARD 2 ADVANCEMENT CARDS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100013Z" creationid="nakahodo" creationdate="20180108T100005Z">
+        <seg>発展カード2枚捨て札にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DISCARD:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223856Z" creationid="nakahodo" creationdate="20171224T223856Z">
@@ -6611,6 +6643,22 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083306Z" creationid="aorin" creationdate="20171216T083306Z">
         <seg>自身の手札上限である&lt;バッグ&gt;と同数まで、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard means "place in the advancement discard pile," not in the Archive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T095816Z" creationid="nakahodo" creationdate="20180108T095816Z">
+        <seg>捨て札はアーカイブではなく「発展カード捨て札山に配置」を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard the 2 highest numbered cards on the advancement mat, then refill the mat with new cards from the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100137Z" creationid="nakahodo" creationdate="20180108T100007Z">
+        <seg>発展マットの高い数字2枚を捨て札にして、その後、デッキから新しいカードをマットに補充します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10015,6 +10063,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no unconstructed building cards, do nothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100331Z" creationid="nakahodo" creationdate="20180108T100331Z">
+        <seg>建築されていない建物カードがない場合、なにもしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are none, do nothing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153717Z" creationid="nakahodo" creationdate="20171230T153717Z">
@@ -12025,6 +12081,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025607Z" creationid="aorin" creationdate="20171212T025607Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T095519Z" creationid="nakahodo" creationdate="20180108T095519Z">
+        <seg>注意：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14919,6 +14983,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select any empty plot in the Automa's charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100212Z" creationid="nakahodo" creationdate="20180108T100212Z">
+        <seg>オートマチャーターの任意の空いた区画1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select any open space on the quota track to determine the type and quantity of the commodity.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T211135Z" creationid="aorin" creationdate="20171219T101033Z">
@@ -15747,6 +15819,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122914Z" creationid="nakahodo" creationdate="20171213T122914Z">
         <seg>関連した報酬タイルから一番左のタイルを取り、最終得点計算まで自身のプレイヤースクリーンに隠して保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the lowest-numbered unconstructed building card from the advancement mat and construct it on the selected plot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100333Z" creationid="nakahodo" creationdate="20180108T100306Z">
+        <seg>発展マットから最も数字の低い、建築されていない建物カード1枚を取り、選択した区画にこれを建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18884,6 +18964,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNLOCK A CRATE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100347Z" creationid="nakahodo" creationdate="20180108T100347Z">
+        <seg>木箱の開放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPKEEP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T073834Z" creationid="nakahodo" creationdate="20171209T073834Z">
@@ -18952,6 +19040,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200435Z" creationid="nakahodo" creationdate="20171218T200348Z">
         <seg>あなたのペースで処理をしてください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock the crate on the lowest-numbered constructed building card on the advancement mat and follow the instructions on the Index Guide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100647Z" creationid="nakahodo" creationdate="20180108T100417Z">
+        <seg>発展マットの最も数字の低い、建築された建物カードの木箱を開放し、インデックスガイドの指示に従います。</seg>
       </tuv>
     </tu>
     <tu>
