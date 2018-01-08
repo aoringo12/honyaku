@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Orders with more than one dish, require only one additional Bread)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151122Z" creationid="nakahodo" creationdate="20180108T151029Z">
+        <seg>（複数の皿の注文は、追加のパン1つのみが必要）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -8189,10 +8197,26 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expired Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150602Z" creationid="nakahodo" creationdate="20180108T150602Z">
+        <seg>Expired Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explore</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083214Z" creationid="aorin" creationdate="20171216T083214Z">
         <seg>探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expried Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150755Z" creationid="nakahodo" creationdate="20180108T150755Z">
+        <seg>Expried Food</seg>
       </tuv>
     </tu>
     <tu>
@@ -8875,6 +8899,14 @@ in with a specific color.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T125636Z" creationid="nakahodo" creationdate="20171001T125636Z">
         <seg>フリー豆スペース
 いくつかのブレンドスレートは特定の色で塗りつぶされた1つの豆スペースがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free Bread Sticks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150942Z" creationid="nakahodo" creationdate="20180108T150942Z">
+        <seg>Free Bread Sticks</seg>
       </tuv>
     </tu>
     <tu>
@@ -13257,10 +13289,42 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order Mix-Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150818Z" creationid="nakahodo" creationdate="20180108T150818Z">
+        <seg>Order Mix-Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order during this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151022Z" creationid="nakahodo" creationdate="20180108T151022Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order of Play</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233328Z" creationid="aorin" creationdate="20171215T233328Z">
         <seg>プレイの順番</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordering System Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151123Z" creationid="nakahodo" creationdate="20180108T151123Z">
+        <seg>Ordering System Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orders may not be Served</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151035Z" creationid="nakahodo" creationdate="20180108T150837Z">
+        <seg>このラウンド中、注文は早期給仕できない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14556,6 +14620,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players may not talk during the Action phase of this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151311Z" creationid="nakahodo" creationdate="20180108T151311Z">
+        <seg>プレイヤーたちはこのラウンドのアクションフェイズ中に喋ってはいけない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players may only use a building with a minion if they first pay 1 influence.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T165730Z" creationid="nakahodo" creationdate="20171229T163719Z">
@@ -14829,6 +14901,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promptly during this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150942Z" creationid="nakahodo" creationdate="20180108T150840Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provides for each Building in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034709Z" creationid="aorin" creationdate="20171212T034709Z">
@@ -14876,10 +14956,18 @@ in a Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put a Locked token on two</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151229Z" creationid="nakahodo" creationdate="20180108T151229Z">
+        <seg>ウェイタースペースに施錠トークン2つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put a Malfunction token on one of the spaces in each active Storage area.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150201Z" creationid="nakahodo" creationdate="20180108T150201Z">
-        <seg>Put a Malfunction token on one of the spaces in each active Storage area.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150601Z" creationid="nakahodo" creationdate="20180108T150201Z">
+        <seg>それぞれのアクティブな倉庫エリアのスペース1つに、故障トークンを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15165,6 +15253,38 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove all Meat tokens from all active Storage areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150639Z" creationid="nakahodo" creationdate="20180108T150639Z">
+        <seg>全てのアクティブな倉庫エリアから、全ての肉トークンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all Pasta and Bread tokens from all active Storage areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150812Z" creationid="nakahodo" creationdate="20180108T150812Z">
+        <seg>全てのアクティブな倉庫エリアから、全てのパスタとパントークンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all Salad and Cheese tokens from all active Storage areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150754Z" creationid="nakahodo" creationdate="20180108T150709Z">
+        <seg>全てのアクティブな倉庫エリアから、全てのチーズと野菜トークンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all Vegetable tokens from all active</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150654Z" creationid="nakahodo" creationdate="20180108T150654Z">
+        <seg>全てのアクティブな倉庫エリアから、全ての野菜トークンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove all but one Spice of each size from the bag.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145436Z" creationid="nakahodo" creationdate="20180108T145436Z">
@@ -15185,6 +15305,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031732Z" creationid="nakahodo" creationdate="20171224T145150Z">
         <seg>建物のシールを剥がし、自身のチャーターの空いたスロット1つに永久的に貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove them at the end of the round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151245Z" creationid="nakahodo" creationdate="20180108T151245Z">
+        <seg>ラウンド終了時にこれらを取り除く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16362,6 +16490,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storage areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T150655Z" creationid="nakahodo" creationdate="20180108T150655Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suppliers Shortage</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145940Z" creationid="nakahodo" creationdate="20180108T145940Z">
@@ -16736,6 +16872,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110834Z" creationid="aorin" creationdate="20171212T110834Z">
         <seg>プレイヤー全員のアクションディスク全てがボード上に配置されると、アクションフェイズが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Action phase lasts 20" less.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151432Z" creationid="nakahodo" creationdate="20180108T151432Z">
+        <seg>アクションフェイズが20秒少なくなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19632,6 +19776,22 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too Much Noise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151247Z" creationid="nakahodo" creationdate="20180108T151247Z">
+        <seg>Too Much Noise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too Much Pressure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151311Z" creationid="nakahodo" creationdate="20180108T151311Z">
+        <seg>Too Much Pressure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To​ ​craft​ ​an​ ​improvement,​ ​you must exhaust crafting buildings of the nations shown on the improvement.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211807Z" creationid="aorin" creationdate="20171215T211047Z">
@@ -20200,6 +20360,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021241Z" creationid="aorin" creationdate="20171212T021241Z">
         <seg>sadf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiter spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151233Z" creationid="nakahodo" creationdate="20180108T151233Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -21872,6 +22040,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072659Z" creationid="aorin" creationdate="20171216T072659Z">
         <seg>あなたは建築する建物の派閥ルールにしたがう必要がありますが、マルキスの建物を建築するのに木を消費する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must include one additional Bread with each</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151020Z" creationid="nakahodo" creationdate="20180108T151020Z">
+        <seg>このラウンド中、各注文に追加でパン1つを含めなければならない。</seg>
       </tuv>
     </tu>
     <tu>
