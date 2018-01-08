@@ -6372,6 +6372,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DRAW 1 AUTOMA CARD</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091852Z" creationid="nakahodo" creationdate="20180108T091852Z">
+        <seg>オートマカード1枚ドロー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark tiles that are added to fill open edges are not revealed, even if they are placed in spaces that would have been affected by the initial roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T133341Z" creationid="nakahodo" creationdate="20171127T133341Z">
@@ -9251,6 +9259,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IMPORTANT:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091612Z" creationid="nakahodo" creationdate="20180108T091612Z">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN THE FIELD</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T093538Z" creationid="nakahodo" creationdate="20171001T093538Z">
@@ -9744,6 +9760,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145328Z" creationid="nakahodo" creationdate="20171224T145328Z">
         <seg>建築された建物カードに木箱が示されている場合、自身の個人サプライにこれを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the deck is empty, reshuffle all the cards to form a new deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T092358Z" creationid="nakahodo" creationdate="20180108T092358Z">
+        <seg>デッキが空の場合、全てのカードをシャッフルし、新しいデッキを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12565,6 +12589,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152518Z" creationid="nakahodo" creationdate="20171230T152518Z">
         <seg>そうでないなら、ランダムにタイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, retrieve ALL of the Automa's workers from the board and continue with the next player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091611Z" creationid="nakahodo" creationdate="20180108T091611Z">
+        <seg>そうでなければ、ボードからオートマのワーカー全てを回収し、次のプレイヤーに進みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18940,6 +18972,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using normal player order rules, when it is an Automa's turn and the Automa has a regular worker available to place, reveal the top card of the Automa deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T092331Z" creationid="nakahodo" creationdate="20180108T091902Z">
+        <seg>通常どおりプレイヤー順番ルールを使用して、オートマのターンで彼が配置するのに利用可能な通常ワーカーを持つ場合、オートマデッキの一番上のカードを公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Golden Ring Action, you can forge a Golden Ring with the Gold you obtained.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101724Z" creationid="aorin" creationdate="20171212T101724Z">
@@ -19558,6 +19598,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205509Z" creationid="nakahodo" creationdate="20171218T154130Z">
         <seg>村に新しい建物を建築することは、あなたが育んでいるこの小さな文明を発展させる機会でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a new rule or story card is added to the Chronicle, check the Automa Index Guide at the end of this rulebook to see if any Automa-specific cards have been unlocked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T092034Z" creationid="nakahodo" creationdate="20180108T091811Z">
+        <seg>クロニクルに新しいルールやストーリーカードが追加されるたびに、このルールブックの最後のオートマインデクスガイドを参照して、特定のオートマカードが開放されていないかどうか確認してください。</seg>
       </tuv>
     </tu>
     <tu>
