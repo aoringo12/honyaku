@@ -5413,6 +5413,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BUILDING IN THE COMMONS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093032Z" creationid="nakahodo" creationdate="20180108T093032Z">
+        <seg>共有地の建物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on your capacity, keep some components and discard the rest to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224033Z" creationid="nakahodo" creationdate="20171224T224033Z">
@@ -5645,6 +5653,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075744Z" creationid="nakahodo" creationdate="20171230T075744Z">
         <seg>キャンペーン勝利カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHARTERS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093049Z" creationid="nakahodo" creationdate="20180108T093049Z">
+        <seg>チャーター：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7009,6 +7025,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T043203Z" creationid="aorin" creationdate="20171228T171135Z">
         <seg>キャンペーン終了価値：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Automa card shows either a specific building in the Commons or prioritized plots in the charters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T092854Z" creationid="nakahodo" creationdate="20180108T092854Z">
+        <seg>各オートマカードは共有地の特定の建物[または]チャーターの優先区画のいずれかを示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9748,6 +9772,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the card is like those shown to the right, the worker is placed on a building in a charter, selected using the end-of-campaign values specified on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093254Z" creationid="nakahodo" creationdate="20180108T093254Z">
+        <seg>右に示されるようなカードの場合、ワーカーはカードの特定のキャンペーン終了価値を使用して選択された、チャーターの建物に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the constructed building card shows a crate, place it face up in your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171106Z" creationid="aorin" creationdate="20171228T171106Z">
@@ -9979,6 +10011,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153048Z" creationid="nakahodo" creationdate="20171230T153048Z">
         <seg>それがない場合、最も建物価値の低い区画を選択します（基本リソース建物は無視します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a tie between multiple buildings with the same value, pick the one with the name that is alphabetically first ( A-Z ) or last ( Z-A ).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093508Z" creationid="nakahodo" creationdate="20180108T093508Z">
+        <seg>それらが複数の建物で同じ価値の場合、名前のアルファベット順番で昇順（A-Z）か降順（Z-A）で1つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13060,6 +13100,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PlACE 1 AUTOMA WORKER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T092418Z" creationid="nakahodo" creationdate="20180108T092418Z">
+        <seg>オートマワーカー1つを配置する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 Automa Worker</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151704Z" creationid="nakahodo" creationdate="20171230T151704Z">
@@ -13243,6 +13291,22 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T232516Z">
         <seg>オリジナルペルソナカード（能力がないもの）とコンパニオンカードの全てをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place an Automa worker on that building (if there's another regular worker there, bump it off).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093024Z" creationid="nakahodo" creationdate="20180108T093024Z">
+        <seg>その建物にオートマワーカー1つを配置します（そこに別の通常ワーカーがある場合、それを押し出します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place an Automa worker on the building shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T093045Z" creationid="nakahodo" creationdate="20180108T093045Z">
+        <seg>示された建物にオートマワーカーを1つ配置します。</seg>
       </tuv>
     </tu>
     <tu>
