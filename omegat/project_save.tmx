@@ -1567,6 +1567,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>158 159 FOR GAME 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090920Z" creationid="nakahodo" creationdate="20180108T090920Z">
+        <seg>ゲーム1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>159</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152425Z" creationid="nakahodo" creationdate="20171230T152425Z">
@@ -4255,6 +4263,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the Automas construct their starting buildings, each Automa's constructed building card is shuffled into the advancement deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091119Z" creationid="nakahodo" creationdate="20180108T091119Z">
+        <seg>オートマが開始時の建物建築をした後、各オートマの建築した建物カードは発展カードに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the defender takes hits, the attacker may play one ambush card matching the clearing of battle to immediately deal one unpreventable hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222757Z" creationid="aorin" creationdate="20171215T222749Z">
@@ -4691,6 +4707,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133556Z" creationid="nakahodo" creationdate="20171213T133556Z">
         <seg>対戦相手の妖精を降格さえるために、リンゴ1つを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An Automa's turn follows this procedure:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091137Z" creationid="nakahodo" creationdate="20180108T091137Z">
+        <seg>この手順に従いオートマのターンを行います：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6551,6 +6575,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard the Automa card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091447Z" creationid="nakahodo" creationdate="20180108T091447Z">
+        <seg>オートマカードを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard the resulting constructed building card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153729Z" creationid="nakahodo" creationdate="20171230T153729Z">
@@ -6635,6 +6667,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092125Z" creationid="aorin" creationdate="20171116T092125Z">
         <seg>ちぇっ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw 1 Automa card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091358Z" creationid="nakahodo" creationdate="20180108T091358Z">
+        <seg>オートマカード1枚ドロー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8271,6 +8311,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From Game 4 onwards, set the top 3 cards off to the side face-down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T090907Z" creationid="nakahodo" creationdate="20180108T090907Z">
+        <seg>ゲーム4以降から、上から3枚のカードを裏向きでセットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From here on out, a player who has the Double Offering Tile is allowed to offer three different goods (Silver, Gold and the appropriate Food).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131600Z" creationid="nakahodo" creationdate="20171213T131600Z">
@@ -8574,6 +8622,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093900Z" creationid="aorin" creationdate="20171212T093900Z">
         <seg>ゲームラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gameplay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091121Z" creationid="nakahodo" creationdate="20180108T091121Z">
+        <seg>ゲームプレイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9632,6 +9688,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
         <seg>AIがどのロケーションも使用できない場合、パスアクションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Automa has any regular workers (big or small) available, follow these steps in order (detailed instructions on pages 2-3):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091344Z" creationid="nakahodo" creationdate="20180108T091344Z">
+        <seg>オートマが利用可能な通常ワーカー（大、または小）を持つ場合、次のステップに順番で従います（指示詳細はページ2~3）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12972,6 +13036,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 Automa worker (big or small).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091416Z" creationid="nakahodo" creationdate="20180108T091416Z">
+        <seg>オートマワーカー1体配置（大、または小）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 infiuence token on the reputation track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T203833Z" creationid="nakahodo" creationdate="20171224T203833Z">
@@ -15688,6 +15760,22 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083115Z" creationid="aorin" creationdate="20171216T083115Z">
         <seg>連合は、あなたが現在居る空き地に一致する森の民ボックスに、サポーターを1体配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa gains VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091422Z" creationid="nakahodo" creationdate="20180108T091422Z">
+        <seg>オートマはVPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa gains benefits (if any).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T091440Z" creationid="nakahodo" creationdate="20180108T091440Z">
+        <seg>（もしあれば）オートマは効果を得る。</seg>
       </tuv>
     </tu>
     <tu>
