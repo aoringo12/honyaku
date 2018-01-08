@@ -5289,6 +5289,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automas gain glory starting with the top row on their charter chest and moving down as each row is completed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102256Z" creationid="nakahodo" creationdate="20180108T102256Z">
+        <seg>オートマは、各行を完成させるように、チャーターチェストの一番上の行から始まり、下に移動して栄光を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automas only score from the VP track, reputation track, and guidepost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102106Z" creationid="nakahodo" creationdate="20180108T102039Z">
+        <seg>オートマはVPトラック、評判トラック、指標からのみVPを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awakening and Surfacing</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135628Z" creationid="nakahodo" creationdate="20171127T135628Z">
@@ -7949,6 +7965,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FILL QUOTA</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101529Z" creationid="nakahodo" creationdate="20180108T101529Z">
+        <seg>ノルマを満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIRST PLAYER:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145408Z" creationid="nakahodo" creationdate="20171218T145408Z">
@@ -9121,6 +9145,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heed the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101931Z" creationid="nakahodo" creationdate="20180108T101931Z">
+        <seg>次に注意してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hi!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203602Z" creationid="aorin" creationdate="20180101T203602Z">
@@ -9876,6 +9908,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the column is full, continue with the top of the column to its right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101801Z" creationid="nakahodo" creationdate="20180108T101801Z">
+        <seg>列が満杯の場合、その右列の上へと続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the constructed building card shows a crate, place it face up in your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171106Z" creationid="aorin" creationdate="20171228T171106Z">
@@ -9920,6 +9960,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221147Z" creationid="aorin" creationdate="20171215T221147Z">
         <seg>戦闘地にディフェンダーが戦士をもたない場合、そこのディフェンダーのピースを全て取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the game is part of the campaign, follow the regular endgame steps as if the Automas were human players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101910Z" creationid="nakahodo" creationdate="20180108T101910Z">
+        <seg>ゲームがキャンペーンの一部である場合、オートマも人間プレイヤーのように通常のゲーム終了ステップに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12753,6 +12801,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, moving top to bottom and beginning with the leftmost column, place an influence token on the first open space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101712Z" creationid="nakahodo" creationdate="20180108T101712Z">
+        <seg>そうでなければ、最も左の列から始まり上から下に移動して、最初の空いたスペースに影響トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise, place an influence token in the next open space on the reputation track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101507Z" creationid="nakahodo" creationdate="20180108T101507Z">
@@ -15031,6 +15087,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Guideposts section below for details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102018Z" creationid="nakahodo" creationdate="20180108T102018Z">
+        <seg>詳細は下記の指標セクションを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See rule 7 for the 7 different types.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042144Z" creationid="nakahodo" creationdate="20171224T205347Z">
@@ -16088,6 +16152,22 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100950Z" creationid="nakahodo" creationdate="20180108T100950Z">
         <seg>オートマはトラックから評判を得ませんが、人間プレイヤーのための収入はトリガーできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa doesn't gain any benefit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101810Z" creationid="nakahodo" creationdate="20180108T101810Z">
+        <seg>オートマは効果を得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa doesn't gain ongoing glory benefits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102514Z" creationid="nakahodo" creationdate="20180108T102514Z">
+        <seg>オートマは継続的な栄光効果を得ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18578,6 +18658,14 @@ region in which they place their Field Researcher.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T141347Z" creationid="nakahodo" creationdate="20171224T141347Z">
         <seg>これはソロゲームでは必須ですが、2プレイヤー以上のゲームでは、ゲーム1か2（今ではなく）後にオートマを検討することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is only used for end-of-campaign scoring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102355Z" creationid="nakahodo" creationdate="20180108T102355Z">
+        <seg>これはキャンペーン終了の得点計算でのみ、使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22076,6 +22164,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>®</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101810Z" creationid="nakahodo" creationdate="20180108T101810Z">
+        <seg>®</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>·-----­Proceed with end-game scoring;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T020208Z" creationid="aorin" creationdate="20171229T020208Z">
@@ -22853,6 +22949,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• END-GAME SCORING:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102037Z" creationid="nakahodo" creationdate="20180108T102037Z">
+        <seg>•ゲーム終了得点計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Each player places their Pixies in their mine:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093454Z" creationid="aorin" creationdate="20171212T093454Z">
@@ -22881,6 +22985,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145312Z" creationid="nakahodo" creationdate="20171230T145252Z">
         <seg>•生/死のガントレット：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GLORY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102110Z" creationid="nakahodo" creationdate="20180108T102040Z">
+        <seg>•栄光：</seg>
       </tuv>
     </tu>
     <tu>
