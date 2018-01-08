@@ -4463,6 +4463,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Air - Conditioning Not Working</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151442Z" creationid="nakahodo" creationdate="20180108T151442Z">
+        <seg>Air - Conditioning Not Working</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alignment</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073037Z" creationid="aorin" creationdate="20171216T073037Z">
@@ -5277,6 +5285,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165750Z" creationid="aorin" creationdate="20171212T165634Z">
         <seg>各ラウンドの終わりに、妖精のクイーンは彼女の要求を満たしていない怠け者を、彼女の判断で罰します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the Action phase, if there are more revealed Orders on the board than the number of players, lose Prestige equal to :the difference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152307Z" creationid="nakahodo" creationdate="20180108T152307Z">
+        <seg>アクションフェイズの終わりに、ボードに公開された注文がプレイヤーの人数を超えている場合、その差に等しいだけ名誉点を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7808,6 +7824,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player may pay 1 Coin and perform an additional action after the end of the Action phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152008Z" creationid="nakahodo" creationdate="20180108T152008Z">
+        <seg>アクションフェイズの終了後、各プレイヤーは1コインを支払い、追加アクション1回を実行できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player may score each objective once per game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210651Z" creationid="aorin" creationdate="20171219T095831Z">
@@ -8197,6 +8221,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Experinced Maite d'</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151703Z" creationid="nakahodo" creationdate="20180108T151703Z">
+        <seg>Experinced Maite d'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expired Food</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150602Z" creationid="nakahodo" creationdate="20180108T150602Z">
@@ -8217,6 +8249,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150755Z" creationid="nakahodo" creationdate="20180108T150755Z">
         <seg>Expried Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extended Working Hours</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151923Z" creationid="nakahodo" creationdate="20180108T151923Z">
+        <seg>Extended Working Hours</seg>
       </tuv>
     </tu>
     <tu>
@@ -11753,6 +11793,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ingredient from every active</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151701Z" creationid="nakahodo" creationdate="20180108T151622Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initiate a battle in any clearing whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002334Z" creationid="aorin" creationdate="20171216T002334Z">
@@ -12023,6 +12071,22 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002653Z" creationid="aorin" creationdate="20171216T002653Z">
         <seg>縄張り意識。あなたは空き地ごとに止まり木1つのみ持てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jmproved Dishwasher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152048Z" creationid="nakahodo" creationdate="20180108T152048Z">
+        <seg>Jmproved Dishwasher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jnsufficient Space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151600Z" creationid="nakahodo" creationdate="20180108T151600Z">
+        <seg>Jnsufficient Space</seg>
       </tuv>
     </tu>
     <tu>
@@ -12368,6 +12432,22 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072319Z" creationid="nakahodo" creationdate="20171209T072319Z">
         <seg>失う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose 2 Prestige.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151521Z" creationid="nakahodo" creationdate="20180108T151521Z">
+        <seg>2名誉失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose 3 Coins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151439Z" creationid="nakahodo" creationdate="20180108T151439Z">
+        <seg>3コイン失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12737,6 +12817,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015430Z" creationid="aorin" creationdate="20171229T015430Z">
         <seg>自身のコンパニオンに名前をつけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negative Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151516Z" creationid="nakahodo" creationdate="20180108T151516Z">
+        <seg>Negative Review</seg>
       </tuv>
     </tu>
     <tu>
@@ -14636,6 +14724,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players may only use one of their hands during the Action phase of this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151510Z" creationid="nakahodo" creationdate="20180108T151510Z">
+        <seg>このラウンドのアクションフェイズ中、プレイヤーたちは片手のみ使用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players promote their Pixies as many steps on the board as the amount of Food they each offered.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143836Z" creationid="nakahodo" creationdate="20171213T143836Z">
@@ -15213,6 +15309,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reliable Supplier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152307Z" creationid="nakahodo" creationdate="20180108T152307Z">
+        <seg>Reliable Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that if you run out of influence tokens during the game, you must advance the progress token at the beginning of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155108Z" creationid="nakahodo" creationdate="20171224T155108Z">
@@ -15289,6 +15393,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145436Z" creationid="nakahodo" creationdate="20180108T145436Z">
         <seg>バッグからスパイス各サイズ1つずつを残し、全てを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove one of each</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151700Z" creationid="nakahodo" creationdate="20180108T151614Z">
+        <seg>全てのアクティブな倉庫エリアから、材料ごとに1つを取り除く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15563,6 +15675,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142032Z" creationid="nakahodo" creationdate="20171213T142032Z">
         <seg>ダブルアクションスペースの対戦相手の妖精を恐喝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robbery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151433Z" creationid="nakahodo" creationdate="20180108T151433Z">
+        <seg>Robbery</seg>
       </tuv>
     </tu>
     <tu>
@@ -16490,6 +16610,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storage area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151703Z" creationid="nakahodo" creationdate="20180108T151703Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150655Z" creationid="nakahodo" creationdate="20180108T150655Z">
@@ -17407,6 +17535,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025205Z" creationid="nakahodo" creationdate="20171224T125536Z">
         <seg>スクリプトリウムタックボックスはゲームごとで使用するコンポーネント全般を保存する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shopping action may only be performed once this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152045Z" creationid="nakahodo" creationdate="20180108T152045Z">
+        <seg>買い物アクションはこの方法では一回のみ実行できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19776,6 +19912,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too Crowded</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151524Z" creationid="nakahodo" creationdate="20180108T151524Z">
+        <seg>Too Crowded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Too Much Noise</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151247Z" creationid="nakahodo" creationdate="20180108T151247Z">
@@ -20986,6 +21130,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you Replace Orders using the Maitre d' action, get 1 Coin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151921Z" creationid="nakahodo" creationdate="20180108T151921Z">
+        <seg>支配人アクションを使用して注文の置き換えをするたびに、1コイン得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you acquire a Food Tile, Permanent Ability Tile or Single Use Tile, you put it on your player screen immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043251Z" creationid="aorin" creationdate="20171213T043251Z">
@@ -21066,6 +21218,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you go Shopping during this round, you may not buy Spices if there is an Hourglass on any of the Spices spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T151600Z" creationid="nakahodo" creationdate="20180108T151600Z">
+        <seg>このラウンド中に買い物にいくたび、任意のスパイススペースに砂時計がある場合、スパイスを購入できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you go Shopping during this round, you may not place Ingredients in a Storage area if there is an Hourglass there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150430Z" creationid="nakahodo" creationdate="20180108T150149Z">
@@ -21082,6 +21242,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you go Shopping, you may pay 1 additional Coin and get three more Ingredients of another type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152559Z" creationid="nakahodo" creationdate="20180108T152559Z">
+        <seg>買い物にいくたび、追加の1コインを支払い異なる種類の材料3つを得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you go to the Maitre d' during this round, draw one less card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145758Z" creationid="nakahodo" creationdate="20180108T145758Z">
@@ -21090,10 +21258,26 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you go to the Maitre d', draw an additional card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152119Z" creationid="nakahodo" creationdate="20180108T152119Z">
+        <seg>支配人に行くたびに、追加カード1枚をドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you go to the Sink during this round, you may only clean one plate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145634Z" creationid="nakahodo" creationdate="20180108T145634Z">
         <seg>このラウンド中にシンクに行くたびに、あなたは皿1枚のみを洗える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you go to the Sink, you may perform the action twice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152102Z" creationid="nakahodo" creationdate="20180108T152102Z">
+        <seg>シンクに行くたびに、2倍のアクションを実行できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21528,6 +21712,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134717Z" creationid="aorin" creationdate="20171215T134717Z">
         <seg>ウッドランド連合のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word of Mouth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T152102Z" creationid="nakahodo" creationdate="20180108T152102Z">
+        <seg>Word of Mouth</seg>
       </tuv>
     </tu>
     <tu>
