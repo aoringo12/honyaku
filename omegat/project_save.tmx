@@ -3568,6 +3568,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>???:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110542Z" creationid="nakahodo" creationdate="20180108T110542Z">
+        <seg>？？？：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Bold Blend Blend Rank Scale
 with a Black Bean kicker would be higher ranked than a Red
 Bean Kicker.</seg>
@@ -3947,6 +3955,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033021Z" creationid="aorin" creationdate="20171213T033021Z">
         <seg>獲得した報酬ポイントは、スコアトラックの0に向かう[または]超えるようにプレイヤーのスコアマーカーを移動させるのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action -Automas are ineligible to be chosen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110506Z" creationid="nakahodo" creationdate="20180108T110506Z">
+        <seg>アクション - オートマは選択の対象になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4676,6 +4692,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also applies to Automas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110623Z" creationid="nakahodo" creationdate="20180108T110623Z">
+        <seg>オートマにも適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also stack the extra Reward Tiles
 here.</seg>
       </tuv>
@@ -5345,6 +5369,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automas gain 1 at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110532Z" creationid="nakahodo" creationdate="20180108T110532Z">
+        <seg>オートマはランダムに1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automas gain glory starting with the top row on their charter chest and moving down as each row is completed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102256Z" creationid="nakahodo" creationdate="20180108T102256Z">
@@ -5353,10 +5385,42 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automas have 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111130Z" creationid="nakahodo" creationdate="20180108T111130Z">
+        <seg>オートマは6つもちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automas ignore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110254Z" creationid="nakahodo" creationdate="20180108T110254Z">
+        <seg>オートマは無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automas only score from the VP track, reputation track, and guidepost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102106Z" creationid="nakahodo" creationdate="20180108T102039Z">
         <seg>オートマはVPトラック、評判トラック、指標からのみVPを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automas participate like humans, including the need to pay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110957Z" creationid="nakahodo" creationdate="20180108T110957Z">
+        <seg>オートマは人間のように、必要な支払いに含んで参加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automas participate like humans.???:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110426Z" creationid="nakahodo" creationdate="20180108T110426Z">
+        <seg>オートマは人間のように参加します。？？？：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5689,6 +5753,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bonus - including Automas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111121Z" creationid="nakahodo" creationdate="20180108T111121Z">
+        <seg>ボーナス - オートマも含めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both tracks score Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172800Z" creationid="aorin" creationdate="20171212T172800Z">
@@ -5925,6 +5997,46 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105911Z" creationid="nakahodo" creationdate="20180108T105911Z">
         <seg>カード124 / 128（ストーリー6）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 134/135 (story 9):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110300Z" creationid="nakahodo" creationdate="20180108T110300Z">
+        <seg>カード134 / 135（ストーリー9）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 136/137 (story 10 ):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110443Z" creationid="nakahodo" creationdate="20180108T110443Z">
+        <seg>カード136 / 137（ストーリー10）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 138/139 (story 11):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110523Z" creationid="nakahodo" creationdate="20180108T110523Z">
+        <seg>カード138 / 139（ストーリー11）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 142 (story 13):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110633Z" creationid="nakahodo" creationdate="20180108T110633Z">
+        <seg>カード142（ストーリー13）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 144 (story 14):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111013Z" creationid="nakahodo" creationdate="20180108T111013Z">
+        <seg>カード144（ストーリー14）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6628,6 +6740,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decide for the Automa, but the Automa receives 1 glory, regardless of the choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110333Z" creationid="nakahodo" creationdate="20180108T110333Z">
+        <seg>オートマの決定ですが、オートマは選択に関係なく、1栄光を受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defender Declares Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223249Z" creationid="aorin" creationdate="20171215T223249Z">
@@ -6835,6 +6955,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173004Z" creationid="aorin" creationdate="20171212T173004Z">
         <seg>スコアトラックはトラックを越えて進行できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not include Automa charters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110604Z" creationid="nakahodo" creationdate="20180108T110604Z">
+        <seg>オートマのチャーターは含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7241,6 +7369,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T092854Z" creationid="nakahodo" creationdate="20180108T092854Z">
         <seg>各オートマカードは共有地の特定の建物[または]チャーターの優先区画のいずれかを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Automa discards 3 before counting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110815Z" creationid="nakahodo" creationdate="20180108T110815Z">
+        <seg>各オートマは数える前に3つ破棄します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9908,6 +10044,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, choose 1 at random.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110646Z" creationid="nakahodo" creationdate="20180108T110646Z">
+        <seg>必要なら、ランダムに1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no Ally warriors remain, you take further hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075036Z" creationid="aorin" creationdate="20171216T075036Z">
@@ -11349,6 +11493,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000101Z" creationid="aorin" creationdate="20171216T000101Z">
         <seg>殺到する群衆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include Automas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110441Z" creationid="nakahodo" creationdate="20180108T110441Z">
+        <seg>オートマも含みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14829,6 +14981,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reroll for Automas, if necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111254Z" creationid="nakahodo" creationdate="20180108T111254Z">
+        <seg>必要なら、オートマは再びロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research
 Markers should be placed at
 the start of each Research Track.</seg>
@@ -16052,8 +16212,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>TRule refers to a Temporary Rule applied during the game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105557Z" creationid="nakahodo" creationdate="20180108T105557Z">
-        <seg>TRule	ゲーム中に適応される一時的なルールを指します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110229Z" creationid="nakahodo" creationdate="20180108T105557Z">
+        <seg>一時ルール	ゲーム中に適応される一時的なルールを指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18584,6 +18744,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030339Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They pay from general supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110521Z" creationid="nakahodo" creationdate="20180108T110521Z">
+        <seg>共通サプライから支払われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23289,6 +23457,54 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110107Z" creationid="nakahodo" creationdate="20180108T110107Z">
         <seg>•指標404：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 405:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110335Z" creationid="nakahodo" creationdate="20180108T110335Z">
+        <seg>•指標405：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 406:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110507Z" creationid="nakahodo" creationdate="20180108T110507Z">
+        <seg>•指標406：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 407:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110537Z" creationid="nakahodo" creationdate="20180108T110537Z">
+        <seg>•指標407：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 408:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110606Z" creationid="nakahodo" creationdate="20180108T110606Z">
+        <seg>•指標408：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 409:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110648Z" creationid="nakahodo" creationdate="20180108T110648Z">
+        <seg>•指標409：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 410:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111123Z" creationid="nakahodo" creationdate="20180108T111123Z">
+        <seg>•指標410：</seg>
       </tuv>
     </tu>
     <tu>
