@@ -6613,6 +6613,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cost:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153556Z" creationid="nakahodo" creationdate="20180108T153556Z">
+        <seg>コスト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cottage​ ​Industry.​ ​The Alliance score twice the victory points listed on improvements they craft.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214554Z" creationid="aorin" creationdate="20171215T214554Z">
@@ -9705,10 +9713,26 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Health Jnspection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153742Z" creationid="nakahodo" creationdate="20180108T153742Z">
+        <seg>Health Jnspection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heed the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101931Z" creationid="nakahodo" creationdate="20180108T101931Z">
         <seg>次に注意してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153610Z" creationid="nakahodo" creationdate="20180108T153610Z">
+        <seg>助っ人</seg>
       </tuv>
     </tu>
     <tu>
@@ -13593,6 +13617,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oven space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153602Z" creationid="nakahodo" creationdate="20180108T153602Z">
+        <seg>オーブンスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over time, you will add cards to your Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001124Z" creationid="aorin" creationdate="20171216T001124Z">
@@ -14627,6 +14659,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033245Z" creationid="aorin" creationdate="20171212T033245Z">
         <seg>Supplierから購入したプランは、近所に建物として配置されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plates</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153736Z" creationid="nakahodo" creationdate="20180108T153736Z">
+        <seg>皿一式</seg>
       </tuv>
     </tu>
     <tu>
@@ -16686,6 +16726,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075643Z" creationid="nakahodo" creationdate="20171209T075643Z">
         <seg>まだタイですか？　タイプレイヤー間で最も42歳に近いプレイヤーが勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage area</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153554Z" creationid="nakahodo" creationdate="20180108T153554Z">
+        <seg>倉庫エリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -22224,6 +22272,30 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175337Z" creationid="nakahodo" creationdate="20171218T175337Z">
         <seg>あなたは効果の一部または全てを得ることができます（建物の右上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may go to the Office to bring in an additional:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153640Z" creationid="nakahodo" creationdate="20180108T153605Z">
+        <seg>追加で雇うためにオフィスに行ける：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may go to the Office to buy an additional set of:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153727Z" creationid="nakahodo" creationdate="20180108T153621Z">
+        <seg>追加のセットを購入するためにオフィスに行ける：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may go to the Office to unlock an additional:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T153547Z" creationid="nakahodo" creationdate="20180108T153547Z">
+        <seg>追加で開放するためにオフィスに行ける：</seg>
       </tuv>
     </tu>
     <tu>
