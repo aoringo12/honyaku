@@ -3951,6 +3951,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action -Automas gain nothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105919Z" creationid="nakahodo" creationdate="20180108T105919Z">
+        <seg>アクション：オートマは何も得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action Discs cannot be chosen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164932Z" creationid="aorin" creationdate="20171212T164929Z">
@@ -5193,6 +5201,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of each game during the "Guidepost" step, read through each step and card one at a time and consult this list for additional information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105443Z" creationid="nakahodo" creationdate="20180108T105443Z">
+        <seg>各ゲーム終了の「指標」ステップ中に、各ステップとカードを一度に1つずつ読み、このリストで詳細を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each game, gain 1 glory per 10 VP earned that game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202349Z" creationid="nakahodo" creationdate="20171224T202303Z">
@@ -5341,6 +5357,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102106Z" creationid="nakahodo" creationdate="20180108T102039Z">
         <seg>オートマはVPトラック、評判トラック、指標からのみVPを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automas participate like regular players, except where noted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105506Z" creationid="nakahodo" creationdate="20180108T105506Z">
+        <seg>オートマは、特に明記されている場合を除き、通常のプレイヤーのように参加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5897,6 +5921,22 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card 124/128 (story 6):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105911Z" creationid="nakahodo" creationdate="20180108T105911Z">
+        <seg>カード124 / 128（ストーリー6）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card# refers to a card number and its resolution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105735Z" creationid="nakahodo" creationdate="20180108T105735Z">
+        <seg>カード番号とその解決を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cards in the Plan Deck, Plan Supply and face down
 in players’ Neighborhoods.</seg>
       </tuv>
@@ -5974,6 +6014,22 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203640Z" creationid="aorin" creationdate="20180101T203640Z">
         <seg>チャーターストーンは、ゲームがステッカーシールと（プレイヤーが行う）書き込みによって、ボードとカードを永続的に変化させるという意味で、レガシーゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Automa</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110101Z" creationid="nakahodo" creationdate="20180108T110055Z">
+        <seg>新しいルールとストーリーカードが開放された時、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Automa Index Guide when new rule and story cards are unlocked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110026Z" creationid="nakahodo" creationdate="20180108T110026Z">
+        <seg>新しいルールとストーリーカードが開放された時、オートマインデックスガイドを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6815,6 +6871,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not read ahead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105830Z" creationid="nakahodo" creationdate="20180108T105830Z">
+        <seg>先に読まないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't open ANYTHING unless specifically instructed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
@@ -7177,6 +7241,22 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T092854Z" creationid="nakahodo" creationdate="20180108T092854Z">
         <seg>各オートマカードは共有地の特定の建物[または]チャーターの優先区画のいずれかを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Automa has 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105848Z" creationid="nakahodo" creationdate="20180108T105848Z">
+        <seg>各オートマは3を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Automa scores none.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105942Z" creationid="nakahodo" creationdate="20180108T105942Z">
+        <seg>各オートマはなにも得点しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11297,6 +11377,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Index Guide when new rule and story cards are unlocked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110104Z" creationid="nakahodo" creationdate="20180108T110104Z">
+        <seg>オートマインデックスガイドを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Influence Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145915Z" creationid="nakahodo" creationdate="20171218T145915Z">
@@ -12313,6 +12401,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131825Z" creationid="nakahodo" creationdate="20171213T131825Z">
         <seg>この時、任意の妖精を降格させるためにリンゴを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110040Z" creationid="nakahodo" creationdate="20180108T110040Z">
+        <seg>なにも変更しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14661,6 +14757,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105948Z" creationid="nakahodo" creationdate="20180108T105948Z">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove 1 peril token from your charter and keep it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T203752Z" creationid="nakahodo" creationdate="20171224T203752Z">
@@ -15942,6 +16046,22 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151235Z" creationid="nakahodo" creationdate="20171230T151235Z">
         <seg>タイブレイカー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRule refers to a Temporary Rule applied during the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105557Z" creationid="nakahodo" creationdate="20180108T105557Z">
+        <seg>TRule	ゲーム中に適応される一時的なルールを指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRule:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110217Z" creationid="nakahodo" creationdate="20180108T110217Z">
+        <seg>一時ルール：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19006,6 +19126,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To minimize spoilers, we have left the descriptions deliberately vague.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105814Z" creationid="nakahodo" creationdate="20180108T105814Z">
+        <seg>ネタバレを最小限に抑えるために、意図的に曖昧な記述をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To pay the cost, discard those tokens to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173757Z" creationid="aorin" creationdate="20171228T173757Z">
@@ -22036,6 +22164,22 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>refers to determining who achieved the guidepost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105643Z" creationid="nakahodo" creationdate="20180108T105643Z">
+        <seg>誰が指標を達成するかの決定を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>refers to the revealed part of the guidepost card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105710Z" creationid="nakahodo" creationdate="20180108T105710Z">
+        <seg>公開された指標カードの部分を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sRtUarLtEinSg:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164009Z" creationid="aorin" creationdate="20171228T164009Z">
@@ -22064,6 +22208,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152432Z" creationid="nakahodo" creationdate="20171218T152432Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Automa selects the option matching the king icon on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105225Z" creationid="nakahodo" creationdate="20180108T105225Z">
+        <seg>オートマはカードに示された、王のアイコンに一致するオプションを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23105,6 +23257,38 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T191202Z" creationid="nakahodo" creationdate="20171218T191052Z">
         <seg>•グランドスタンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 400:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105842Z" creationid="nakahodo" creationdate="20180108T105842Z">
+        <seg>•指標400：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 401:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105921Z" creationid="nakahodo" creationdate="20180108T105921Z">
+        <seg>•指標401：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 402/3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110032Z" creationid="nakahodo" creationdate="20180108T110032Z">
+        <seg>•指標402 / 3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 404:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T110107Z" creationid="nakahodo" creationdate="20180108T110107Z">
+        <seg>•指標404：</seg>
       </tuv>
     </tu>
     <tu>
