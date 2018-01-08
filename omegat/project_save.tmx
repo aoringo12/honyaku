@@ -3603,6 +3603,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A charter not controlled by a player is called an inactive charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T084822Z" creationid="nakahodo" creationdate="20180108T084822Z">
+        <seg>プレイヤーによって制御されないチャーターは非アクティブチャーターと称されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A clearing is adjacent to all other clearings linked to it by a path.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
@@ -6420,6 +6428,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Designed by Morten Monrad Pedersen &amp; David J. Studley</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T084524Z" creationid="nakahodo" creationdate="20180108T084524Z">
+        <seg>Designed by Morten Monrad Pedersen &amp; David J. Studley</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Despite your villa9e's success, you've drawn the king's ire for far too long.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T093527Z" creationid="nakahodo" creationdate="20171230T093440Z">
@@ -7557,6 +7573,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Except where explicitly stated in these rules, the Automas never receive resources, coins, or cards, never pay to take actions, and never receive benefits from buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085444Z" creationid="nakahodo" creationdate="20180108T085444Z">
+        <seg>ここにあるルールによって明確に指定される場合を除き、オートマはリソース、コイン、カードを受け取らず、アクションを実行するために支払いをせず、建物から効果を受け取りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103923Z" creationid="aorin" creationdate="20171212T103923Z">
@@ -7697,6 +7721,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T141413Z" creationid="nakahodo" creationdate="20171224T141413Z">
         <seg>インデックスからカード206~218を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 377-389 from the Index.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085128Z" creationid="nakahodo" creationdate="20180108T085128Z">
+        <seg>インデックスからカード377~389を引き出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9155,6 +9187,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INITIAL SETUP:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085115Z" creationid="nakahodo" creationdate="20180108T085115Z">
+        <seg>最初のセットアップ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INVESTMENT TOKENS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114045Z" creationid="nakahodo" creationdate="20171001T114045Z">
@@ -10375,6 +10415,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
         <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you would like for 1 or more inactive charters to become active and participate as a player, use these Automa rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085055Z" creationid="nakahodo" creationdate="20180108T085055Z">
+        <seg>1つ以上の非アクティブチャーターをプレイヤーが参加してアクティブなようにシミュレートしたい場合は、これらオートマルールを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14069,6 +14117,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regardless of the number of human players in any game of Charterstone, there are always 6 founding villagers, each operating a different charter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T084545Z" creationid="nakahodo" creationdate="20180108T084545Z">
+        <seg>チャーターストーンの任意のゲームでのプレイヤー人数に関わらず、村には常に6人の村創設人がいて、異なるチャーターをそれぞれ運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regardless of the number of human players in any given game of Charterstone, there are always 6 founding villagers, each operating a different charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T030410Z" creationid="nakahodo" creationdate="20171224T135549Z">
@@ -17535,6 +17591,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These 13 cards make up the Automa deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085144Z" creationid="nakahodo" creationdate="20180108T085144Z">
+        <seg>これらカード13枚でオートマデッキを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These are considered attacks:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124803Z" creationid="nakahodo" creationdate="20171127T124803Z">
@@ -18125,6 +18189,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130623Z" creationid="nakahodo" creationdate="20171213T130623Z">
         <seg>これは、ドレイシンボルをパスしたり、提供フェイズ時に誰も適切な食料を提供できなかった場合でも、報酬フェイズであなたの妖精の昇格ステップを最初に行え、鉱山に妖精を降格させないで良いことを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This one deck is shared by all Automas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T085159Z" creationid="nakahodo" creationdate="20180108T085159Z">
+        <seg>このデッキは全てのオートマで共有します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21416,6 +21488,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043043Z" creationid="aorin" creationdate="20171213T043043Z">
         <seg>あなたがリソースを獲得するたびに、それらのいずれかを拒否することがはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with lines J. Hutter &amp; Jan Schroder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T084524Z" creationid="nakahodo" creationdate="20180108T084524Z">
+        <seg>with lines J. Hutter &amp; Jan Schroder</seg>
       </tuv>
     </tu>
     <tu>
