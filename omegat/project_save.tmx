@@ -6025,6 +6025,22 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card 129 or 130 (story 7):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112501Z" creationid="nakahodo" creationdate="20180108T112501Z">
+        <seg>カード129か130（ストーリー7）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 132 (rule 1):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112523Z" creationid="nakahodo" creationdate="20180108T112523Z">
+        <seg>カード132（ルール1）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Card 134/135 (story 9):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110300Z" creationid="nakahodo" creationdate="20180108T110300Z">
@@ -6065,10 +6081,34 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card 157 (rule 26):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112531Z" creationid="nakahodo" creationdate="20180108T112531Z">
+        <seg>カード157（ルール26）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Card 29 (rule 18):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111601Z" creationid="nakahodo" creationdate="20180108T111601Z">
         <seg>カード29（ルール18）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 33 (rule 16):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112434Z" creationid="nakahodo" creationdate="20180108T112434Z">
+        <seg>カード33（ルール16）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 36 (rule 3):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112449Z" creationid="nakahodo" creationdate="20180108T112449Z">
+        <seg>カード36（ルール3）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8105,6 +8145,54 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083214Z" creationid="aorin" creationdate="20171216T083214Z">
         <seg>探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Card 158.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112447Z" creationid="nakahodo" creationdate="20180108T112447Z">
+        <seg>カード158を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Card 159.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112526Z" creationid="nakahodo" creationdate="20180108T112526Z">
+        <seg>カード159を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Card 160.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112451Z" creationid="nakahodo" creationdate="20180108T112451Z">
+        <seg>カード160を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Card 161.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112443Z" creationid="nakahodo" creationdate="20180108T112426Z">
+        <seg>カード161を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Card 162.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112533Z" creationid="nakahodo" creationdate="20180108T112533Z">
+        <seg>カード162を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract and add Cards 390-392 to the Automa deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T112521Z" creationid="nakahodo" creationdate="20180108T112521Z">
+        <seg>カード390~392を引き出し、オートマデッキに追加します。</seg>
       </tuv>
     </tu>
     <tu>
