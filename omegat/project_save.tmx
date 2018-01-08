@@ -5305,6 +5305,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automas do not accomplish objectives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T104233Z" creationid="nakahodo" creationdate="20180108T104233Z">
+        <seg>オートマは目標を達成しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automas gain glory starting with the top row on their charter chest and moving down as each row is completed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102256Z" creationid="nakahodo" creationdate="20180108T102256Z">
@@ -8467,6 +8475,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235826Z" creationid="aorin" creationdate="20171228T235826Z">
         <seg>フレンドカードは、あなたが特定のチャーターの建物1つを使用するときに、ボーナスを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From Game 2 onwards, randomly choose an unused persona (if available) from each Automa's charter chest, mark it used, and return it to the chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103931Z" creationid="nakahodo" creationdate="20180108T103931Z">
+        <seg>ゲーム2以降で、各オートマのチェストから（もしあれば）未使用なペルソナ1枚をランダムに選択し、これを使用済みに書き込み、チェストに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19292,6 +19308,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update the strength number in the "The Automa gains VP" section to reflect this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103753Z" creationid="nakahodo" creationdate="20180108T103753Z">
+        <seg>これを反映するために、このルールブックの「オートマがVPを得る」セクションの強度数字を更新してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updates on updated rules cards are highlighted with a red arrow (●)．</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235305Z" creationid="aorin" creationdate="20171231T235305Z">
@@ -23101,6 +23125,22 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• If the average VP of all human players was at least 10 points lower than that of all Automas, then decrease the Automa's strength by 1 (though never below 2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103633Z" creationid="nakahodo" creationdate="20180108T103514Z">
+        <seg>•人間プレイヤー全員の平均VPがオートマ全員の平均よりも、少なくても10ポイントより少ない場合、オートマ強度が1減少します（2を下回りません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If the average VP of all human players was higher than that of all Automas, then increase Automa strength by 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103542Z" creationid="nakahodo" creationdate="20180108T103233Z">
+        <seg>•人間プレイヤー全員の平均VPがオートマ全員の平均を超える場合、オートマ強度が1上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• If the total is equal to or less than 23, open crate U.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133043Z" creationid="nakahodo" creationdate="20171230T133043Z">
@@ -23261,6 +23301,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• OBJECTIVES:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103959Z" creationid="nakahodo" creationdate="20180108T103959Z">
+        <seg>•目標：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• OR take 1 Apple</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144036Z" creationid="nakahodo" creationdate="20171213T144017Z">
@@ -23304,6 +23352,14 @@ added to your Neighborhood.</seg>
         <seg>• PERSONA:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171218T200218Z">
+        <seg>•ペルソナ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• PERSONAS:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103808Z" creationid="nakahodo" creationdate="20180108T103808Z">
         <seg>•ペルソナ：</seg>
       </tuv>
     </tu>
