@@ -5801,6 +5801,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broken Plates</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T144948Z" creationid="nakahodo" creationdate="20180108T144948Z">
+        <seg>Broken Plates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235210Z" creationid="aorin" creationdate="20171215T235210Z">
