@@ -5337,6 +5337,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automa Index Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111512Z" creationid="nakahodo" creationdate="20180108T111512Z">
+        <seg>オートマインデックスガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automa Strength:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T094917Z" creationid="nakahodo" creationdate="20180108T094917Z">
@@ -5361,6 +5369,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automas discard 6 before counting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111429Z" creationid="nakahodo" creationdate="20180108T111429Z">
+        <seg>各オートマは数える前に6つ破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automas do not accomplish objectives.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T104233Z" creationid="nakahodo" creationdate="20180108T104233Z">
@@ -5381,6 +5397,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102256Z" creationid="nakahodo" creationdate="20180108T102256Z">
         <seg>オートマは、各行を完成させるように、チャーターチェストの一番上の行から始まり、下に移動して栄光を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automas have 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111419Z" creationid="nakahodo" creationdate="20180108T111419Z">
+        <seg>オートマは2つもちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6037,6 +6061,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111013Z" creationid="nakahodo" creationdate="20180108T111013Z">
         <seg>カード144（ストーリー14）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card 29 (rule 18):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111601Z" creationid="nakahodo" creationdate="20180108T111601Z">
+        <seg>カード29（ルール18）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8185,6 +8217,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085128Z" creationid="nakahodo" creationdate="20180108T085128Z">
         <seg>インデックスからカード377~389を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract cards 393-398 and give to respective Automas instead of choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111349Z" creationid="nakahodo" creationdate="20180108T111349Z">
+        <seg>カード393~398を引き出し、選択する代わりにそれぞれのオートマに与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18535,6 +18575,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These are to be used in game 12 and beyond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111410Z" creationid="nakahodo" creationdate="20180108T111410Z">
+        <seg>これらはゲーム12以降に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These assistants arrived before you to set up, and they're now ready to follow your orders.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205323Z" creationid="nakahodo" creationdate="20171218T153424Z">
@@ -20294,6 +20342,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T140312Z" creationid="nakahodo" creationdate="20171230T140312Z">
         <seg>我々が再度面会する時、私の精神、身体、魂の遺産を受け継ぐ名誉を、お前たちの1人に授けるだろう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you add a new rule or story card to the Chronicle, if the number of that card is in this guide, extract the card(s) specified:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111550Z" creationid="nakahodo" creationdate="20180108T111550Z">
+        <seg>クロニクルに新しいルールやストーリーカードが追加する時、このガイドにカード番号がある場合、指定されたカードを引き出します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23505,6 +23561,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111123Z" creationid="nakahodo" creationdate="20180108T111123Z">
         <seg>•指標410：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 411:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111414Z" creationid="nakahodo" creationdate="20180108T111414Z">
+        <seg>•指標411：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• GUIDEPOST 412/413:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T111424Z" creationid="nakahodo" creationdate="20180108T111424Z">
+        <seg>•指標412 / 413：</seg>
       </tuv>
     </tu>
     <tu>
