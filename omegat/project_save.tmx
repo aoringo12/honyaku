@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(if clean plates are available, remove from those, otherwise remove from the dirty plates)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145309Z" creationid="nakahodo" creationdate="20180108T145104Z">
+        <seg>（きれいな皿が利用できる場合、これらから取り除き、そうでなければ、汚い皿から取り除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(lengthening the game).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012106Z" creationid="aorin" creationdate="20171229T012106Z">
@@ -5805,6 +5813,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T144948Z" creationid="nakahodo" creationdate="20180108T144948Z">
         <seg>Broken Plates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken Spice Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145310Z" creationid="nakahodo" creationdate="20180108T145310Z">
+        <seg>Broken Spice Cabinet</seg>
       </tuv>
     </tu>
     <tu>
@@ -13305,6 +13321,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oven Mafunchtion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145105Z" creationid="nakahodo" creationdate="20180108T145105Z">
+        <seg>Oven Mafunchtion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over time, you will add cards to your Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001124Z" creationid="aorin" creationdate="20171216T001124Z">
@@ -14788,6 +14812,14 @@ in a Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put a Malfunction token on two Oven spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145301Z" creationid="nakahodo" creationdate="20180108T145301Z">
+        <seg>故障トークンをオーブンスペース2箇所に配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put the others back in any order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160310Z" creationid="nakahodo" creationdate="20171230T160310Z">
@@ -15057,6 +15089,22 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T203752Z" creationid="nakahodo" creationdate="20171224T203752Z">
         <seg>あなたのチャーターから危険トークン1つを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all but one Spice of each size from the bag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145436Z" creationid="nakahodo" creationdate="20180108T145436Z">
+        <seg>バッグからスパイス各サイズ1つずつを残し、全てを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove one plate of each size from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T145304Z" creationid="nakahodo" creationdate="20180108T145036Z">
+        <seg>ゲームから各サイズの皿1枚を取り除く。</seg>
       </tuv>
     </tu>
     <tu>
