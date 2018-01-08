@@ -4953,6 +4953,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign this starting at the top left circle, moving down that column, returning to the top of the next column to the right when complete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102956Z" creationid="nakahodo" creationdate="20180108T102956Z">
+        <seg>割り当ては左上の円から始まり、その列の下に移動し、完了したら右列の上へと、これを繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assign​ ​Factions:​ ​Assign one faction to each player using any method.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132624Z" creationid="aorin" creationdate="20171215T132624Z">
@@ -5269,6 +5277,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094038Z" creationid="aorin" creationdate="20171212T094038Z">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto mas gain capacity (like human players).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102630Z" creationid="nakahodo" creationdate="20180108T102630Z">
+        <seg>オートマキャパシティを得ます（人間プレイヤーのように）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5845,6 +5861,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204046Z" creationid="nakahodo" creationdate="20171224T204046Z">
         <seg>キャパシティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capacity is only used for end-of-campaign scoring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103008Z" creationid="nakahodo" creationdate="20180108T103008Z">
+        <seg>これはキャンペーン終了の得点計算でのみ、使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19172,6 +19196,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless an Automa is temporarily replacing a human player, the Automa doesn't retain any of these components from game to game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T103112Z" creationid="nakahodo" creationdate="20180108T103112Z">
+        <seg>オートマが一時的に人間プレイヤーに置き換えられない限り、オートマはゲーム間で任意のコンポーネントを持ち越しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike stay on other your workers, buildings minions until  you choose to retrieve all your workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172256Z" creationid="aorin" creationdate="20171228T172256Z">
@@ -22849,6 +22881,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131455Z" creationid="nakahodo" creationdate="20171213T131455Z">
         <seg>•両プレイヤーは毎回2倍提供を行う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• CAPACITY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T102532Z" creationid="nakahodo" creationdate="20180108T102532Z">
+        <seg>•キャパシティ：</seg>
       </tuv>
     </tu>
     <tu>
