@@ -3911,6 +3911,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADVANCE PROGRESS TRACK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100903Z" creationid="nakahodo" creationdate="20180108T100903Z">
+        <seg>進展トラックを進める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMA DECK:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
@@ -4019,6 +4027,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073304Z" creationid="aorin" creationdate="20171216T073304Z">
         <seg>協力の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advance the progress token 1 space along the progress track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100920Z" creationid="nakahodo" creationdate="20180108T100920Z">
+        <seg>進展トラックに従い、進展トークンを1スペース進めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8495,6 +8511,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GAIN REPUTATION</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101052Z" creationid="nakahodo" creationdate="20180108T101052Z">
+        <seg>評判を得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GAINING CARDS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152719Z" creationid="nakahodo" creationdate="20171218T152530Z">
@@ -9804,6 +9828,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Automa has no influence tokens, do nothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101418Z" creationid="nakahodo" creationdate="20180108T101418Z">
+        <seg>オートマが影響トークンを持たない場合、なにもしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Vagabond crafts an improvement with an item, he may immediately put the crafted item into his exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214045Z" creationid="aorin" creationdate="20171215T214045Z">
@@ -10019,6 +10051,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T094747Z" creationid="nakahodo" creationdate="20171002T094747Z">
         <seg>その種類の豆がフィールドにない場合、プレイヤーたちはこの能力を使用することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no constructed building cards, do nothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100654Z" creationid="nakahodo" creationdate="20180108T100654Z">
+        <seg>建築された建物カードがない場合、なにもしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12681,6 +12721,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other cards are added to the discard piles of their respective decks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100842Z" creationid="nakahodo" creationdate="20180108T100842Z">
+        <seg>他のカードは、それぞれのデッキの捨て札山に追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other notes</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152236Z" creationid="nakahodo" creationdate="20171230T152236Z">
@@ -12701,6 +12749,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223858Z" creationid="aorin" creationdate="20171215T223858Z">
         <seg>そうでないなら、直ちに戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, place an influence token in the next open space on the reputation track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T101507Z" creationid="nakahodo" creationdate="20180108T101507Z">
+        <seg>そうでなければ、評判トラックの次の空いたスペースに影響トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13453,6 +13509,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
         <seg>各製材所に木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place persona cards in the Automa's charter chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100709Z" creationid="nakahodo" creationdate="20180108T100709Z">
+        <seg>オートマのチャーターチェストにペルソナカードを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16016,6 +16080,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083115Z" creationid="aorin" creationdate="20171216T083115Z">
         <seg>連合は、あなたが現在居る空き地に一致する森の民ボックスに、サポーターを1体配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automa does not gain reputation from the track, but it may trigger income for human players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T100950Z" creationid="nakahodo" creationdate="20180108T100950Z">
+        <seg>オートマはトラックから評判を得ませんが、人間プレイヤーのための収入はトリガーできます。</seg>
       </tuv>
     </tu>
     <tu>
