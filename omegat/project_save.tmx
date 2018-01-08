@@ -1583,6 +1583,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>158 162</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T104414Z" creationid="nakahodo" creationdate="20180108T104414Z">
+        <seg>158 162</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>159</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152425Z" creationid="nakahodo" creationdate="20171230T152425Z">
@@ -5305,6 +5313,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automa-controlled charters are considered active.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T104414Z" creationid="nakahodo" creationdate="20180108T104329Z">
+        <seg>オートマの制御するチャーターはアクティブだと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automas do not accomplish objectives.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T104233Z" creationid="nakahodo" creationdate="20180108T104233Z">
@@ -7729,6 +7745,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074124Z" creationid="aorin" creationdate="20171216T074124Z">
         <seg>終了側のタスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if an Automa should choose a revealed option on a guidepost, human players will choose on their behalf.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105034Z" creationid="nakahodo" creationdate="20180108T105034Z">
+        <seg>たとえ、オートマが公開された指標のオプションを選択する必要があるとしても、人間プレイヤーが効果の選択をします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10653,6 +10677,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205724Z" creationid="nakahodo" creationdate="20171218T174839Z">
         <seg>別のワーカー（あなたの[または]対戦相手の）によって占領された建物へと、あなたのワーカーを配置する場合、押し出してそのプレイヤーへとワーカーを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you prefer, draw an Automa card;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T105149Z" creationid="nakahodo" creationdate="20180108T105149Z">
+        <seg>望むなら、オートマカードをどろーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16240,6 +16272,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152740Z" creationid="nakahodo" creationdate="20171230T152740Z">
         <seg>オートマは空島に配置する前に、空いた区画に新しい建物を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Automas compete to achieve guideposts, but not necessarily based upon their situation on the board, and purely to gain 1 glory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T104823Z" creationid="nakahodo" creationdate="20180108T104823Z">
+        <seg>オートマは指標を達成するため行動しますが、ボード上の状況に基づくわけではなく、純粋に1栄光得るために競います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23497,6 +23537,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T103509Z" creationid="aorin" creationdate="20171219T103509Z">
         <seg>•評判トラック：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• SETUP-INACTIVE CHARTERS (REVEALED AFTER GAME 2):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180108T104329Z" creationid="nakahodo" creationdate="20180108T104329Z">
+        <seg>•非アクティブチャーターのセットアップ（ゲーム2後に明らかになります）：</seg>
       </tuv>
     </tu>
     <tu>
