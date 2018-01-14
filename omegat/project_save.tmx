@@ -8036,8 +8036,8 @@ by the Upkeep phase.</seg>
       <tuv lang="EN-US">
         <seg>Each stack should contain Discovery cards of one discipline from one specific age, so there will be an Early Age, Middle Age, and Late Age stack for Sorcery, Science and Religion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180114T192839Z" creationid="aorin" creationdate="20180114T192839Z">
-        <seg>各デッキは特定時代の、特定分野1つのディスカバリーカードで構成されます。魔法学、科学、宗教学それぞれの、早期、中期、後期デッキ。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193119Z" creationid="aorin" creationdate="20180114T192839Z">
+        <seg>各デッキは特定時代の、特定分野1つのディスカバリーカードで構成されます―魔法学、科学、宗教学それぞれの、早期、中期、後期デッキ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8641,6 +8641,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235339Z" creationid="aorin" creationdate="20171215T235339Z">
         <seg>自身の派閥ボードにある、その種類の残った建物一番左を確認する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the matching discovery token for each card chosen and place it on that card, using the included plastic stands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193228Z" creationid="aorin" creationdate="20180114T193228Z">
+        <seg>各カードに一致するディスカバリートークンを探し、プラスチックスタンドを使用してそのカードに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14132,6 +14140,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 card from each stack face-up in a 3x3 grid, with the early age discoveries forming the top row, the middle age discoveries forming the middle row, and the late age discoveries forming the bottom row.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193128Z" creationid="aorin" creationdate="20180114T193036Z">
+        <seg>各デッキから1枚のカードを表向きで、3☓3のグリッドになるように配置します―早期ディスカバリーで上の行、中期で中の行、後期で下の行を形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 infiuence token on the reputation track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T203833Z" creationid="nakahodo" creationdate="20171224T203833Z">
@@ -16284,6 +16300,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T142824Z" creationid="nakahodo" creationdate="20171230T142824Z">
         <seg>全ての空島タイルをシャッフルして、各プレイヤーにランダムに4枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle each of these stacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192849Z" creationid="aorin" creationdate="20180114T192849Z">
+        <seg>これらデッキをシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19299,6 +19323,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T124803Z" creationid="nakahodo" creationdate="20171127T124803Z">
         <seg>これらが攻撃だと考えられます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are the 9 discoveries available for the game – return the rest to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193112Z" creationid="aorin" creationdate="20180114T193112Z">
+        <seg>これら9つのディスカバリーがゲームで利用可能です―残りをゲームボックスに戻します。</seg>
       </tuv>
     </tu>
     <tu>
