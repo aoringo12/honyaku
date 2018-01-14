@@ -6341,6 +6341,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose one Court to put into play and place it next to the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193941Z" creationid="aorin" creationdate="20180114T193941Z">
+        <seg>プレイで使用する法定を1つ選択し、マップの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one Hourglass belonging to a player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145858Z" creationid="nakahodo" creationdate="20180108T145858Z">
@@ -7964,6 +7972,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T191834Z" creationid="aorin" creationdate="20180114T191834Z">
         <seg>各プレイヤーはランダムか選択で4つの種族のうち1つを選び、その後、選択した種族に一致するスクリーン、30個の木製ディスク、独自ユニットトークンを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player should immediately place 1 of their workers from their reserve in the Court.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194031Z" creationid="aorin" creationdate="20180114T194031Z">
+        <seg>各プレイヤーは自身のリザーブからワーカー1つを、法廷に直ちに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14449,6 +14465,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Spymaster Action tiles on the six empty spaces with the Espionage icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193801Z" creationid="aorin" creationdate="20180114T193801Z">
+        <seg>諜報アイコンのある6つの空きスペースに、スパイマスターアクションタイルを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093122Z" creationid="aorin" creationdate="20171212T093122Z">
@@ -14489,6 +14513,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the player score markers next to the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193831Z" creationid="aorin" creationdate="20180114T193831Z">
+        <seg>スコアトラックの横にプレイヤーのスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the remaining leaders face up near your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134537Z" creationid="aorin" creationdate="20171215T134537Z">
@@ -14511,6 +14543,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093349Z" creationid="aorin" creationdate="20171212T021848Z">
         <seg>ターン順番を決定するために、小さなキューブトラックに小さなキューブをランダムに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the turn token on the first space of the turn track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193813Z" creationid="aorin" creationdate="20180114T193813Z">
+        <seg>ターントラックの最初のスペースにターントークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15297,6 +15337,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093809Z" creationid="aorin" creationdate="20171212T093809Z">
         <seg>残った4枚は箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put the remaining cards face-down next to the game-board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193907Z" creationid="aorin" creationdate="20180114T193907Z">
+        <seg>残ったカードはゲームボードの横に、裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16380,6 +16428,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090509Z" creationid="nakahodo" creationdate="20180108T090509Z">
         <seg>オートマデッキをシャッフルして、ボード横に裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Espionage cards and deal 1 to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193847Z" creationid="aorin" creationdate="20180114T193847Z">
+        <seg>諜報カードをシャッフルし、各プレイヤーに1枚ずつ配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23108,6 +23164,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152519Z" creationid="nakahodo" creationdate="20171230T152519Z">
         <seg>b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>basic game or epic game (see p. 19 for the Epic Game Variant).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193717Z" creationid="aorin" creationdate="20180114T193714Z">
+        <seg>基本ゲーム[または]エピックゲーム（エピックゲームヴァリアントはページ19を参照）。</seg>
       </tuv>
     </tu>
     <tu>
