@@ -6343,8 +6343,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose one Court to put into play and place it next to the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180114T193941Z" creationid="aorin" creationdate="20180114T193941Z">
-        <seg>プレイで使用する法定を1つ選択し、マップの横に配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194040Z" creationid="aorin" creationdate="20180114T193941Z">
+        <seg>プレイで使用する法廷を1つ選択し、マップの横に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6488,6 +6488,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173901Z" creationid="aorin" creationdate="20171228T173901Z">
         <seg>ボードに残っているトークンをなくし、共通サプライに危険トークンを全て戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clockwork Wars uses a modular board that allows for infinite replayability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194231Z" creationid="aorin" creationdate="20180114T194231Z">
+        <seg>クロックウォーズは無限に繰り返せるようモジュラーボードを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17209,6 +17217,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Territories and the Map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194200Z" creationid="aorin" creationdate="20180114T194200Z">
+        <seg>マップと地域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That Pixie remains there until all players have performed all promotion steps.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
@@ -18312,6 +18328,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The map is made up of color-coded hexagonal tiles that come in 9 territory types:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194316Z" creationid="aorin" creationdate="20180114T194316Z">
+        <seg>マップは9つの地域タイプによる、色分けされた六角形タイルで構成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The map of the Woodland is composed of clearings​, which are connected by a network of paths​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
@@ -18413,6 +18437,14 @@ determined by the desired Plan’s Cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112254Z" creationid="aorin" creationdate="20171219T112254Z">
         <seg>チャーターストーンの各ゲームでの目標は、最も多くの勝利点を得点することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The oldest player receives the first-player token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194135Z" creationid="aorin" creationdate="20180114T194135Z">
+        <seg>最も時を過ごしたプレイヤーがファーストプレイヤートークンを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22144,6 +22176,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073711Z" creationid="aorin" creationdate="20171216T073700Z">
         <seg>あなたは今、同盟者になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are now ready to play!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194143Z" creationid="aorin" creationdate="20180114T194143Z">
+        <seg>プレイの準備が整いました！</seg>
       </tuv>
     </tu>
     <tu>
