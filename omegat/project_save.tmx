@@ -1708,6 +1708,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Game Objective The player who has the most Victory Points (VPs) at the end of the final Scoring Phase wins the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205425Z" creationid="aorin" creationdate="20180114T205425Z">
+        <seg>ゲームの目的
+最終得点フェイズの終わりに最も勝利点（VP）を持つプレイヤーがゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Pick Up Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135114Z" creationid="nakahodo" creationdate="20171127T135114Z">
@@ -5269,6 +5278,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014226Z" creationid="aorin" creationdate="20171229T014226Z">
         <seg>あなたの仲間からの陰湿な攻撃的とも取れる行動を受けた長い月の終わり、あなたはもう十分に耐えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of each age, a Scoring Phase takes place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205334Z" creationid="aorin" creationdate="20180114T205334Z">
+        <seg>各時代の終わりに、得点フェイズを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9014,6 +9031,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075905Z" creationid="aorin" creationdate="20171216T075905Z">
         <seg>移動目的の空き地にいる敵対派閥ごとに、あなたは別の&lt;ブーツ&gt;を消耗させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if it is turn 4 (Middle Age), you can only purchase early and middle age Discoveries – late age Discoveries are not available until turn 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205322Z" creationid="aorin" creationdate="20180114T205322Z">
+        <seg>例えば、ターン4時（中期）、あなたは初期と中期のディスカバリーのみ購入できます―後期ディスカバリーはターン5まで利用不可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21076,6 +21101,14 @@ DRAGON</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131537Z" creationid="nakahodo" creationdate="20171127T131537Z">
         <seg>ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
 基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VPs are primarily earned by controlling resource territories, but can also be earned through use of various Discoveries and trading in Influence Points (IPs) at the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205530Z" creationid="aorin" creationdate="20180114T205530Z">
+        <seg>VPは主にリソース地域を制御することで得ますが、いくつかのディスカバリーの使用やゲーム終了時の影響ポイント（IP）との交換によっても得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
