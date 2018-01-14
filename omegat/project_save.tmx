@@ -6550,6 +6550,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Citadels can be used to transfer additional units to adjacent battles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210611Z" creationid="aorin" creationdate="20180114T210553Z">
+        <seg>要塞は隣接戦闘に追加のユニットを送るために使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear the board &amp; mats of all components.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224515Z" creationid="nakahodo" creationdate="20171224T224515Z">
@@ -6618,6 +6626,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175358Z" creationid="nakahodo" creationdate="20171218T175358Z">
         <seg>コイン、リソースは有限です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combat Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210502Z" creationid="aorin" creationdate="20180114T210502Z">
+        <seg>戦闘フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12091,6 +12107,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Individual battles are resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210635Z" creationid="aorin" creationdate="20180114T210635Z">
+        <seg>それぞれの戦闘が解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Influence Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145915Z" creationid="nakahodo" creationdate="20171218T145915Z">
@@ -13511,6 +13535,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all players have finished, they reveal their orders and then place units on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210453Z" creationid="aorin" creationdate="20180114T210453Z">
+        <seg>プレイヤー全員がそれを終えると、自身のオーダーを公開し、その後、マップにユニットを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once an infiuence token is placed, it cannot be moved or removed until the game ends.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150609Z" creationid="nakahodo" creationdate="20171218T150609Z">
@@ -13614,6 +13646,14 @@ bean spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195738Z" creationid="aorin" creationdate="20180114T195738Z">
         <seg>片面は鳥から見たようなリアルな絵で描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One unit must be removed from each out-of-supply territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210820Z" creationid="aorin" creationdate="20180114T210820Z">
+        <seg>供給のない地形それぞれから、一体のユニットが取り除かれなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16887,6 +16927,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T130335Z" creationid="nakahodo" creationdate="20171001T130335Z">
         <seg>いくつかのブレンドスレートは特定の色で塗りつぶされた1つの豆スペースがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some Discoveries may be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210605Z" creationid="aorin" creationdate="20180114T210605Z">
+        <seg>いくつかのディスカバリーが使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20439,6 +20487,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085159Z" creationid="nakahodo" creationdate="20180108T085159Z">
         <seg>このデッキは全てのオートマで共有します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This phase is sub-divided into 3 stages:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210518Z" creationid="aorin" creationdate="20180114T210518Z">
+        <seg>このフェイズは3つのステージへと、さらに分割されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24138,6 +24194,30 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200250Z" creationid="aorin" creationdate="20171231T200111Z">
         <seg>これは、ゲームごとに1度、あなたのターンに使用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Attrition:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210653Z" creationid="aorin" creationdate="20180114T210653Z">
+        <seg>•	消耗：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Battle:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210622Z" creationid="aorin" creationdate="20180114T210622Z">
+        <seg>•	戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Reinforcement:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210625Z" creationid="aorin" creationdate="20180114T210535Z">
+        <seg>•	増強：</seg>
       </tuv>
     </tu>
     <tu>
