@@ -5275,6 +5275,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of Turns 2, 4, and 7, players conduct a Scoring Phase that is sub-divided into 3 stages:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T211235Z" creationid="aorin" creationdate="20180114T211235Z">
+        <seg>ターン2、4，7の終わりに、プレイヤーたちは3つのステージさらに別れる得点フェイズを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of Turns 2, 4, and 7, there is an additional phase called the Scoring Phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210154Z" creationid="aorin" creationdate="20180114T210154Z">
@@ -15262,6 +15270,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players receive VPs for resource territories that they control and certain Discoveries they possess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212119Z" creationid="aorin" creationdate="20180114T212119Z">
+        <seg>プレイヤーたちは自身が制御するリソース地域と所有するディスカバリーから、VPを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players should designate one player as the
 “Brewmaster,” who will control the assignment of
 Turn Order Tokens, movement of the Scoring Tokens
@@ -16485,6 +16501,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002756Z" creationid="aorin" creationdate="20171216T002756Z">
         <seg>止まり木トラックの最も右にある空いたスペースに示される勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scoring Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T211100Z" creationid="aorin" creationdate="20180114T211100Z">
+        <seg>得点フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24282,6 +24306,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210842Z" creationid="aorin" creationdate="20180114T210842Z">
         <seg>•	研究：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Victory points:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T211241Z" creationid="aorin" creationdate="20180114T211241Z">
+        <seg>•	勝利点：</seg>
       </tuv>
     </tu>
     <tu>
