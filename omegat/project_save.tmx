@@ -12115,6 +12115,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Influence Points (IPs) are generated in each of the 3 research disciplines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210943Z" creationid="aorin" creationdate="20180114T210943Z">
+        <seg>影響ポイント（IP）が3つの研究分野ごとに生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Influence Tokens</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145915Z" creationid="nakahodo" creationdate="20171218T145915Z">
@@ -15132,6 +15140,14 @@ Research (gain abilities).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players can activate certain Discoveries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T211028Z" creationid="aorin" creationdate="20180114T211028Z">
+        <seg>プレイヤーたちは特定のディスカバリーを発動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players can share the reading duties, and we recommend you double-check each other's instructions.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203935Z" creationid="nakahodo" creationdate="20171218T142712Z">
@@ -15226,6 +15242,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143836Z" creationid="nakahodo" creationdate="20171213T143836Z">
         <seg>提供した食料と同じ数だけ、ボード上にいる自身の妖精を昇進させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players purchase Discoveries and Generals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T211009Z" creationid="aorin" creationdate="20180114T211009Z">
+        <seg>プレイヤーたちはディスカバリーと将軍を購入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16021,6 +16045,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T091913Z" creationid="nakahodo" creationdate="20170924T091913Z">
         <seg>研究マーカーを各研究トラックの開始位置に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210833Z" creationid="aorin" creationdate="20180114T210833Z">
+        <seg>研究フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20491,6 +20523,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This phase is also sub-divided into 3 stages:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210836Z" creationid="aorin" creationdate="20180114T210836Z">
+        <seg>このフェイズは3つのステージへと、さらに分割されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This phase is sub-divided into 3 stages:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210518Z" creationid="aorin" creationdate="20180114T210518Z">
@@ -24198,6 +24238,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>w Activation:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T211014Z" creationid="aorin" creationdate="20180114T211014Z">
+        <seg>•	発動：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>w Attrition:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210653Z" creationid="aorin" creationdate="20180114T210653Z">
@@ -24214,10 +24262,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>w Discovery:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210951Z" creationid="aorin" creationdate="20180114T210951Z">
+        <seg>•	ディスカバリー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>w Reinforcement:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210625Z" creationid="aorin" creationdate="20180114T210535Z">
         <seg>•	増強：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Study:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210842Z" creationid="aorin" creationdate="20180114T210842Z">
+        <seg>•	研究：</seg>
       </tuv>
     </tu>
     <tu>
