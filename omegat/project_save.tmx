@@ -12157,6 +12157,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Deployment Phase, you decide if you want to assign any of your workers to territories on the map or the Court.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T223641Z" creationid="aorin" creationdate="20180114T223641Z">
+        <seg>展開フェイズにてあなたは、マップの地域または法廷にどれだけのワーカーを割り当てたいかを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the distance, the horizon is a/it with dozens of zeppelins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T085225Z" creationid="nakahodo" creationdate="20171230T085225Z">
