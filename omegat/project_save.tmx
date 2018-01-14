@@ -1726,6 +1726,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Recruitment Phase During the Recruitment Phase, you gather workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213737Z" creationid="aorin" creationdate="20180114T213737Z">
+        <seg>雇用フェイズ
+雇用フェイズ時、あなたはワーカーを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Spymaster Phase During the Spymaster Phase, you choose one special action, the effects of which will apply for only this turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212349Z" creationid="aorin" creationdate="20180114T212349Z">
@@ -7680,6 +7689,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During this turn’s Battle stage, in every battle where you are tied for highest Army Strength, you receive a +1 bonus so that you win that battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213715Z" creationid="aorin" creationdate="20180114T213715Z">
+        <seg>このターンの戦闘ステージ時、あなたが最大軍事力でタイの戦闘全てで、+1のボーナスを得てあなたが戦闘に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your Daylight, you may play a special victory card into your play area to activate it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232123Z" creationid="aorin" creationdate="20171215T232123Z">
@@ -11860,6 +11877,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T200742Z" creationid="aorin" creationdate="20180114T200742Z">
         <seg>マップはこれら9つの地域タイプに加えて、マップ外に展開できる法廷があります。これは強大な領主の宮廷裁判所を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, immediately gain 1 VP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213531Z" creationid="aorin" creationdate="20180114T213531Z">
+        <seg>さらに、直ちに1VPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17541,6 +17566,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tactical Ops:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213555Z" creationid="aorin" creationdate="20180114T213552Z">
+        <seg>戦術作戦：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take 2 Apples, 2 Honey or 2 Bread from the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040514Z" creationid="aorin" creationdate="20171213T040514Z">
@@ -20717,6 +20750,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093926Z" creationid="nakahodo" creationdate="20170924T093926Z">
         <seg>このシンボルは、国の作物スペースに豆を配置せず、その地域の国トークンを●側に裏返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This turn, you may go first in each stage of the Research Phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213526Z" creationid="aorin" creationdate="20180114T213526Z">
+        <seg>このターン、あなたは研究フェイズの各ステージで最初に行動します。</seg>
       </tuv>
     </tu>
     <tu>
