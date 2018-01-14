@@ -6365,6 +6365,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the side of the game-board that matches the type of game you have decided to play:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193545Z" creationid="aorin" creationdate="20180114T193545Z">
+        <seg>プレイしたいゲームタイプを選択し、それに一致するようにゲームボードの面を上にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose whether you want to build a Sawmill, Workshop, or Recruiter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235254Z" creationid="aorin" creationdate="20171215T235254Z">
@@ -7964,6 +7972,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025357Z" creationid="nakahodo" creationdate="20171224T131017Z">
         <seg>各プレイヤーは自身が選択するチャーターに近い場所へと、永続的に座る必要があります。あなたのキャラクターチェストを選択し（あなたのキャラクターエンブレムがあるボックス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player should take 1 IP from each discipline and place them behind their screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193415Z" creationid="aorin" creationdate="20180114T193415Z">
+        <seg>各プレイヤーは各分野から1IPを取り、自身のスクリーン裏に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14417,6 +14433,22 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the General cards and miniatures near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193300Z" creationid="aorin" creationdate="20180114T193300Z">
+        <seg>マップ近くに将軍カードとミニチュアを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Influence Point (IP) tokens, separated by discipline, next to the map within reach of all players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193345Z" creationid="aorin" creationdate="20180114T193345Z">
+        <seg>影響ポイント（IP）を分野ごとに分け、マップ横に全てのプレイヤーの手がとどくように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093122Z" creationid="aorin" creationdate="20171212T093122Z">
@@ -14445,6 +14477,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T172217Z" creationid="nakahodo" creationdate="20171229T172217Z">
         <seg>余分なものをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the game-board next to the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T193423Z" creationid="aorin" creationdate="20180114T193423Z">
+        <seg>マップの横にゲームボードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
