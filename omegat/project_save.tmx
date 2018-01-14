@@ -21042,6 +21042,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To record a deployment order, you simply write down the I.D.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T234204Z" creationid="aorin" creationdate="20180114T234204Z">
+        <seg>展開オーダーに記入するには、単純に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To vote, each player
 takes the Blend/Research Token in their hand and secretly chooses a
 side to place face-up on the table.</seg>
@@ -24460,6 +24468,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152432Z" creationid="nakahodo" creationdate="20171218T152432Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tag (e.g., L1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T231816Z" creationid="aorin" creationdate="20180114T231816Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
