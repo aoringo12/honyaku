@@ -8223,6 +8223,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn is broken down into 5 phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210119Z" creationid="aorin" creationdate="20180114T210119Z">
+        <seg>各ターンは5つのフェイズに分割されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn, a player uses 1 or 2 Action Discs to immediately perform 1 action:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
