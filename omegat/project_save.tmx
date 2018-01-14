@@ -8034,6 +8034,14 @@ by the Upkeep phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each stack should contain Discovery cards of one discipline from one specific age, so there will be an Early Age, Middle Age, and Late Age stack for Sorcery, Science and Religion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192839Z" creationid="aorin" creationdate="20180114T192839Z">
+        <seg>各デッキは特定時代の、特定分野1つのディスカバリーカードで構成されます。魔法学、科学、宗教学それぞれの、早期、中期、後期デッキ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each symbol
 listed on the Tokens represents a positive action (marked in dark brown)
 or a negative action (marked in red).</seg>
@@ -16079,6 +16087,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the instructions at the back of this manual for how to generate maps depending upon the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192334Z" creationid="aorin" creationdate="20180114T192334Z">
+        <seg>プレイヤー人数に合わせて、ルールブックの後ろにある、マップを作成する方法を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Automa' s home charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093657Z" creationid="nakahodo" creationdate="20180108T093657Z">
@@ -16110,6 +16126,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T084852Z" creationid="nakahodo" creationdate="20170924T084852Z">
         <seg>コーヒー豆を色ごとに分け、ワールドマップの下にカラーランクで並べてまとめて配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate the Discovery cards into 9 stacks of 5 cards each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192427Z" creationid="aorin" creationdate="20180114T192427Z">
+        <seg>ディスカバリーカードを、カード5枚ごと、9つのデッキに分けます。</seg>
       </tuv>
     </tu>
     <tu>
