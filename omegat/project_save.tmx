@@ -14459,6 +14459,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place these next to your screen where your opponents can see them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T191925Z" creationid="aorin" creationdate="20180114T191925Z">
+        <seg>これらが対戦相手に見えるように、自身のスクリーンの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place this card at the bottom right of the game board on the Guidepost slot, then refer to the next paragraph when the final turn is taken in Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T032201Z" creationid="nakahodo" creationdate="20171224T155354Z">
