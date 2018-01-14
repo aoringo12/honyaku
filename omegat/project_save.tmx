@@ -1702,8 +1702,17 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180102T025104Z" creationid="nakahodo" creationdate="20171224T122746Z">
-        <seg>2 - Scriptrium &amp; General Supply</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205742Z" creationid="nakahodo" creationdate="20171224T122746Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Control &amp; Units The concept of control is central in Clockwork Wars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205601Z" creationid="aorin" creationdate="20180114T205601Z">
+        <seg>制御とユニット
+制御のコンセプトはクロックウォーズのコアです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3720,6 +3729,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204843Z" creationid="aorin" creationdate="20171215T204843Z">
         <seg>森は道が通っておらずに触れている、全ての空き地に隣接しており、1つの道で隔てられている全ての森にもまた、隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A game of Clockwork Wars lasts for 7 turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205814Z" creationid="aorin" creationdate="20180114T205814Z">
+        <seg>クロックウォーズのゲームは7ターン行われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16809,6 +16826,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soldiers, Unique Units, and Generals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205735Z" creationid="aorin" creationdate="20180114T205735Z">
+        <seg>兵士、独自ユニット、将軍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Blend Slates have one bean space filled
 in with a specific color.</seg>
       </tuv>
@@ -20707,6 +20732,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn Sequence</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205752Z" creationid="aorin" creationdate="20180114T205752Z">
+        <seg>ターンシークエンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn Silver into Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141436Z" creationid="nakahodo" creationdate="20171213T141436Z">
@@ -20809,6 +20842,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235951Z" creationid="aorin" creationdate="20171228T235951Z">
         <seg>ゲームボードを開き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Units include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205729Z" creationid="aorin" creationdate="20180114T205729Z">
+        <seg>ユニットに含まれる：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22753,6 +22794,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075127Z" creationid="aorin" creationdate="20171216T075127Z">
         <seg>あなたは同盟に窃盗を使用することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You control a Court when you have more Spies on that Court than any other player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205722Z" creationid="aorin" creationdate="20180114T205722Z">
+        <seg>法廷は、ほかプレイヤーよりもあなたのスパイが多い時に制御できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You control a territory on the map when you are the only player with units in that territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205650Z" creationid="aorin" creationdate="20180114T205650Z">
+        <seg>マップの地域は、その地域にあなたのユニットのみが居る時に制御できます。</seg>
       </tuv>
     </tu>
     <tu>
