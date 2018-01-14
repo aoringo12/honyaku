@@ -1726,6 +1726,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Spymaster Phase During the Spymaster Phase, you choose one special action, the effects of which will apply for only this turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212349Z" creationid="aorin" creationdate="20180114T212349Z">
+        <seg>スパイマスターフェイズ
+スパイマスターフェイズ時、あなたはこのターンのみ効果が適応される特別アクション1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Pick Up Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135114Z" creationid="nakahodo" creationdate="20171127T135114Z">
@@ -13567,6 +13576,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once an action is chosen, it cannot be selected by another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212411Z" creationid="aorin" creationdate="20180114T212405Z">
+        <seg>アクションが選択されると、他プレイヤーはそれを選択することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once an infiuence token is placed, it cannot be moved or removed until the game ends.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150609Z" creationid="nakahodo" creationdate="20171218T150609Z">
@@ -19168,6 +19185,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143724Z" creationid="nakahodo" creationdate="20171213T143724Z">
         <seg>最もシルバーまたはゴールドそれぞれにて、最も提供できたプレイヤーは、自身のディスクをさらに1ステップ進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player who possesses the first player token gets to choose his action first, and play then proceeds clockwise around the table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212626Z" creationid="aorin" creationdate="20180114T212626Z">
+        <seg>ファーストプレイヤートークンを所持するプレイヤーが最初にアクションを選択し、テーブルを時計回りでこれを続けます。</seg>
       </tuv>
     </tu>
     <tu>
