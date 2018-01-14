@@ -402,3 +402,6 @@ Spymaster Phase	スパイマスターフェイズ
 Spymaster action	スパイマスターアクション
 Deployment Phase	展開フェイズ
 Recruitment Phase	雇用フェイズ
+Combat Phase	戦闘フェイズ
+Attrition	消耗
+out-of-supply territory	供給のない地域
