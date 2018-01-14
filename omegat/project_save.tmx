@@ -8489,6 +8489,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every map tile and Court is labeled with an I.D.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T231812Z" creationid="aorin" creationdate="20180114T231812Z">
+        <seg>全てのタイルと法廷はIDタグ（例：L1）でラベル付けされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -12354,6 +12362,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T115747Z" creationid="nakahodo" creationdate="20171213T115747Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, you record your deployment orders on a sheet of paper (a deployment-orders pad is included in the game).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T231526Z" creationid="aorin" creationdate="20180114T231526Z">
+        <seg>代わりに、あなたは展開オーダーをシートに記入します（展開オーダーパッドはゲームに含まれています）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19004,6 +19020,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most important aspect of this process is that each player makes their deployment decisions secretly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T231440Z" creationid="aorin" creationdate="20180114T231440Z">
+        <seg>このプロセスな最も重要な面は、各プレイヤーが展開決定を秘密裏に行うことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nation of a crafting building matches the nation of its clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211218Z" creationid="aorin" creationdate="20171215T211218Z">
@@ -23268,6 +23292,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
         <seg>自身の派閥ボードに建物を戻すことによって勝利点は失わず、以前に派閥ボードに戻した建物を建築した時はまた勝利点を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not place workers directly onto the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T231454Z" creationid="aorin" creationdate="20180114T231454Z">
+        <seg>あなたはマップに直接ワーカーを配置しません。</seg>
       </tuv>
     </tu>
     <tu>
