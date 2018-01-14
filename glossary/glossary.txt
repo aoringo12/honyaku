@@ -374,3 +374,11 @@ race	種族
 Unique Unit	独自ユニット
 wooden disc	木製ディスク
 deployment-order	展開オーダー
+Discovery card	ディスカバリーカード
+discipline	分野
+Early Age	早期
+Middle Age	中期
+Late Age	後期
+Sorcery	魔法学
+Science	科学
+Religion	宗教学
