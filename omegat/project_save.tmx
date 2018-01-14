@@ -7599,6 +7599,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Research Phase, these workers can be sacrificed for additional IPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235139Z" creationid="aorin" creationdate="20180114T235139Z">
+        <seg>研究フェイズ時にこれらワーカーは追加のIPを得るための犠牲にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101236Z" creationid="aorin" creationdate="20171212T101210Z">
@@ -20123,6 +20131,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is no limit to the number of workers that can be deployed to a single territory or Court.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T234957Z" creationid="aorin" creationdate="20180114T234957Z">
+        <seg>1つの地域や法廷に展開できるワーカーの数に制限はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There they remain, a constant reminder of your helplessness.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T094106Z" creationid="nakahodo" creationdate="20171230T094106Z">
@@ -23096,6 +23112,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can choose to keep some workers in your recruitment pool and not give them deployment orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235102Z" creationid="aorin" creationdate="20180114T235102Z">
+        <seg>自身の雇用プールにワーカーをいくつか保持したり、展開オーダー自体をしないこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can construct buildings on empty sky island tiles in your charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
@@ -23356,6 +23380,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
         <seg>あなたはアクション1つを消費せずにクラフトができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may also save workers for use on future turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235209Z" creationid="aorin" creationdate="20180114T235209Z">
+        <seg>あなたはまた、将来のターンのためにワーカーたちを保持しておくこともできます。</seg>
       </tuv>
     </tu>
     <tu>
