@@ -6842,6 +6842,14 @@ chosen through majority vote.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Counter-Intel:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213129Z" creationid="aorin" creationdate="20180114T213129Z">
+        <seg>防諜：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Counts as two (2) Buildings in all scenarios,
 including, but not limited to:</seg>
       </tuv>
@@ -7382,6 +7390,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091358Z" creationid="nakahodo" creationdate="20180108T091358Z">
         <seg>オートマカード1枚ドロー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw 2 Espionage cards from the Espionage deck, keep 1 and place the other on the bottom of the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213105Z" creationid="aorin" creationdate="20180114T213105Z">
+        <seg>諜報デッキから諜報カード2枚をドローし、1枚を保持し、もう1枚をデッキの下に入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,6 +9422,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072233Z" creationid="nakahodo" creationdate="20171209T072233Z">
         <seg>得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 IP in any research discipline, and you may force any (and all) of your opponents to lose 1 IP in any research discipline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213410Z" creationid="aorin" creationdate="20180114T213410Z">
+        <seg>あなたは任意の研究分野の1IPを得て、任意の対戦相手たち（全員も可）へと任意の研究分野の1IPを失わせることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15764,6 +15788,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095907Z" creationid="aorin" creationdate="20171219T095907Z">
         <seg>ノルマトラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R &amp; D:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213035Z" creationid="aorin" creationdate="20180114T213035Z">
+        <seg>R&amp;D：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23211,6 +23243,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220258Z" creationid="nakahodo" creationdate="20171229T220258Z">
         <seg>あなたはチャーターストーンに勝利できますが、過程で敗北しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may immediately move any two of your units on the map to different territories that you control (this does not include Courts).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213018Z" creationid="aorin" creationdate="20180114T213018Z">
+        <seg>直ちに、マップのユニット2体を、自身が制御するそれぞれ異なる地形へと移動させることができます（法廷は含まれません）。</seg>
       </tuv>
     </tu>
     <tu>
