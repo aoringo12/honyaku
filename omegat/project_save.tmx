@@ -6679,6 +6679,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conscription:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212736Z" creationid="aorin" creationdate="20180114T212736Z">
+        <seg>支配：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conspire</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053840Z" creationid="aorin" creationdate="20171216T053840Z">
@@ -9546,6 +9554,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gambit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212843Z" creationid="aorin" creationdate="20180114T212843Z">
+        <seg>先手：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game Set-up
 Unfold the World Map and Performance Track and
 place them on the table as shown below.</seg>
@@ -11730,6 +11746,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T201824Z" creationid="aorin" creationdate="20171231T201824Z">
         <seg>あなたが害獣トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immediately add 1 worker to your recruitment pool (taken from your reserve).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212814Z" creationid="aorin" creationdate="20180114T212814Z">
+        <seg>自身の雇用プールにワーカー1体を直ちに追加します（自身のリザーブから取って）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20745,6 +20769,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To choose an action, take a Spymaster action tile from the game-board and place it in front of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212711Z" creationid="aorin" creationdate="20180114T212711Z">
+        <seg>アクションを選択するには、ゲームボードからスパイマスターアクションタイルを1つとり、自身の前にこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To drop a player, see rule 2 (which will be unlocked after Game 2).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T143641Z" creationid="nakahodo" creationdate="20171218T143602Z">
@@ -23259,6 +23291,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T041919Z" creationid="nakahodo" creationdate="20171224T204017Z">
         <seg>1枚追加でペルソナカードを選択して使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may select one of the following actions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212726Z" creationid="aorin" creationdate="20180114T212726Z">
+        <seg>あなたは次のアクションの1つを選択できます：</seg>
       </tuv>
     </tu>
     <tu>
