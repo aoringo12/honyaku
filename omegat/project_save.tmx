@@ -13496,6 +13496,14 @@ bean spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One side depicts more realistic art from a “bird’s eye” perspective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195738Z" creationid="aorin" creationdate="20180114T195738Z">
+        <seg>片面は鳥から見たようなリアルな絵で描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only Plans the AI can currently
 afford are taken into consideration.</seg>
       </tuv>
@@ -18570,6 +18578,14 @@ least one bean.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other side has more abstract art that prominently features the color and icon associated with that territory type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195859Z" creationid="aorin" creationdate="20180114T195859Z">
+        <seg>もう片方はその地域タイプを連想させるアイコンと色による抽象的な絵が描かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pile of your wooden discs, which represent your workers, is referred to as your reserve (note that we have included 2 extra discs in the game for each player, as replacements in case you lose any – these extras are not part of your reserve).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T192134Z" creationid="aorin" creationdate="20180114T192119Z">
@@ -19193,6 +19209,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The territory tiles are double-sided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195651Z" creationid="aorin" creationdate="20180114T195651Z">
+        <seg>地域タイルは両面です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tiebreakers are the categories on the Campaign Victory Card (from top to bottom).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220626Z" creationid="nakahodo" creationdate="20171229T220626Z">
@@ -19503,6 +19527,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are no special rules associated with Barrens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195555Z" creationid="aorin" creationdate="20180114T195555Z">
+        <seg>荒れ地に関連した特別なルールは特にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are, however, a few exceptions:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031219Z" creationid="aorin" creationdate="20171212T031219Z">
@@ -19717,6 +19749,14 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074626Z" creationid="aorin" creationdate="20171213T074626Z">
         <seg>これらはバッグに戻りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can be controlled by units and used to keep your armies in supply, but have no other effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195635Z" creationid="aorin" creationdate="20180114T195635Z">
+        <seg>これらはユニットにより制御され、軍隊への供給を維持できますが、他に効果はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22760,6 +22800,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151103Z" creationid="nakahodo" creationdate="20171230T151103Z">
         <seg>あなたは木箱1つを開放しないとしても、進展トークンを進めるために記述されたコストを支払い、VPを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may pick either side to use in your games of Clockwork Wars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195713Z" creationid="aorin" creationdate="20180114T195713Z">
+        <seg>クロックウォーズのゲームでどちらの面を使用するか好みで決定してください。</seg>
       </tuv>
     </tu>
     <tu>
