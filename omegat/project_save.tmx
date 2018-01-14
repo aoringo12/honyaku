@@ -10438,6 +10438,14 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player is in control of the court, she receives a bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212209Z" creationid="aorin" creationdate="20180114T212209Z">
+        <seg>1人のプレイヤーが法廷を制御している場合、そのプレイヤーがボーナスを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player needs to place
 a fourth Marker, that player removes a Marker from another
 blend or doesn’t add a Marker to a Blend created this round.</seg>
@@ -18843,6 +18851,14 @@ determined by the desired Plan’s Cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of units in every resource territory must be reduced to 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212310Z" creationid="aorin" creationdate="20180114T212310Z">
+        <seg>全てのリソース地域のユニットの数を1に減少させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number shown below the building (〇) is its VP value at the end of the campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031855Z" creationid="aorin" creationdate="20171231T234334Z">
@@ -24286,10 +24302,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>w Court dominance:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212143Z" creationid="aorin" creationdate="20180114T212143Z">
+        <seg>•	法廷の優位性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>w Discovery:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210951Z" creationid="aorin" creationdate="20180114T210951Z">
         <seg>•	ディスカバリー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Pollution:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T212215Z" creationid="aorin" creationdate="20180114T212215Z">
+        <seg>•	汚染：</seg>
       </tuv>
     </tu>
     <tu>
