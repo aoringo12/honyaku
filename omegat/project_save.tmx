@@ -11669,6 +11669,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to these 9 territory types on the map, players will also be able to deploy units to off-map Courts, which represent palace courts of powerful lords.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T200742Z" creationid="aorin" creationdate="20180114T200742Z">
+        <seg>マップはこれら9つの地域タイプに加えて、マップ外に展開できる法廷があります。これは強大な領主の宮廷裁判所を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all subsequent turns, red negative actions must be taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
@@ -18580,8 +18588,8 @@ least one bean.</seg>
       <tuv lang="EN-US">
         <seg>The other side has more abstract art that prominently features the color and icon associated with that territory type.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180114T195859Z" creationid="aorin" creationdate="20180114T195859Z">
-        <seg>もう片方はその地域タイプを連想させるアイコンと色による抽象的な絵が描かれます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195907Z" creationid="aorin" creationdate="20180114T195859Z">
+        <seg>もう片方はその地域タイプを連想させるアイコンと色による抽象的なものになっています。</seg>
       </tuv>
     </tu>
     <tu>
