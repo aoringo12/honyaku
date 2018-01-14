@@ -17676,6 +17676,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technophilia:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T213504Z" creationid="aorin" creationdate="20180114T213504Z">
+        <seg>技術狂い：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123522Z" creationid="nakahodo" creationdate="20171213T123522Z">
