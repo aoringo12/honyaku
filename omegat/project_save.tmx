@@ -11945,6 +11945,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, you may decide to deploy one of your race’s Unique Units (see page 17).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T223736Z" creationid="aorin" creationdate="20180114T223736Z">
+        <seg>さらに、自身の種族の独自ユニット1体の展開を決定できます（ページ17参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all subsequent turns, red negative actions must be taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T111008Z" creationid="nakahodo" creationdate="20171001T111008Z">
