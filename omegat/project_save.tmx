@@ -7944,6 +7944,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player should either choose one of the 4 races or pick one randomly, and then take the screen, 30 colored wooden discs, and Unique Unit tokens associated with that race.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T191834Z" creationid="aorin" creationdate="20180114T191834Z">
+        <seg>各プレイヤーはランダムか選択で4つの種族のうち1つを選び、その後、選択した種族に一致するスクリーン、30個の木製ディスク、独自ユニットトークンを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player should now adjust their seating position to permanently select their charter.Claim your Charter Chest (the box with your charter emblem;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025357Z" creationid="nakahodo" creationdate="20171224T131017Z">
@@ -16102,6 +16110,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154100Z" creationid="nakahodo" creationdate="20171230T154100Z">
         <seg>オートマの強さを3に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T191643Z" creationid="aorin" creationdate="20180114T191643Z">
+        <seg>セットアップ</seg>
       </tuv>
     </tu>
     <tu>
