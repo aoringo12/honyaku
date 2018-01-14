@@ -3715,6 +3715,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A game of Clockwork Wars represents centuries of conflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204831Z" creationid="aorin" creationdate="20180114T204831Z">
+        <seg>クロックウォーズのゲームは紛争の続いた数世紀をプレイします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A given piece is not limited in the number of times it can move during the same turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215559Z" creationid="aorin" creationdate="20171215T215559Z">
@@ -12082,6 +12090,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instructions on how to construct such maps have also been included.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204753Z" creationid="aorin" creationdate="20180114T204753Z">
+        <seg>マップを作成する方法もまた含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T130705Z" creationid="aorin" creationdate="20171215T130705Z">
@@ -17705,6 +17721,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Early Age covers turns 1-2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204903Z" creationid="aorin" creationdate="20180114T204903Z">
+        <seg>ターン1～2は早期を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie Dynasties</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000610Z" creationid="aorin" creationdate="20171216T000610Z">
@@ -17947,6 +17971,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Middle Age covers turns 3-4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204909Z" creationid="aorin" creationdate="20180114T204909Z">
+        <seg>ターン3～4は中期を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mint Supply is not limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071430Z" creationid="nakahodo" creationdate="20171209T071430Z">
@@ -18047,6 +18079,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
         <seg>一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Three Ages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204758Z" creationid="aorin" creationdate="20180114T204758Z">
+        <seg>3つの時代</seg>
       </tuv>
     </tu>
     <tu>
@@ -20646,6 +20686,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041705Z" creationid="aorin" creationdate="20171213T041705Z">
         <seg>シルバーをゴールドに変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turns are grouped into three ages:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204845Z" creationid="aorin" creationdate="20180114T204845Z">
+        <seg>ターンは3つの時代に分けられます：</seg>
       </tuv>
     </tu>
     <tu>
