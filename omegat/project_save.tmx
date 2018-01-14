@@ -5201,6 +5201,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the back of this rulebook, you fill find several pages showing sample map layouts for 2-4 player games.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T200919Z" creationid="aorin" creationdate="20180114T200919Z">
+        <seg>ルールブックの後ろに、2-4プレイヤーゲームのためにサンプルマップがいくつか掲載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the beginning of Game 9, place the candle on a fire-safe surface on the table and carefully light it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T102336Z" creationid="nakahodo" creationdate="20171229T102336Z">
@@ -6673,6 +6681,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224804Z" creationid="aorin" creationdate="20171215T224804Z">
         <seg>ステップ4に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlling Courts with Spies gives special bonuses &amp; victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T200849Z" creationid="aorin" creationdate="20180114T200849Z">
+        <seg>スパイと法廷を制御すると、特別ボーナスと勝利点を獲得できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10037,6 +10053,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110330Z" creationid="aorin" creationdate="20171212T110330Z">
         <seg>しかし、クイーンはあなたの努力が欠如しているとして、厳しく罰するでしょう。あなたはペナルティポイント5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, Clockwork Wars is most fun when using a map of your own creation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204712Z" creationid="aorin" creationdate="20180114T204712Z">
+        <seg>ただし、クロックウォーズは自身でマップを作成するのが最も楽しいです。</seg>
       </tuv>
     </tu>
     <tu>
