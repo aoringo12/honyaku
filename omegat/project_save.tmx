@@ -8497,6 +8497,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every map tile and Court is labeled with an I.D. tag (e.g., L1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T234252Z" creationid="aorin" creationdate="20180114T234252Z">
+        <seg>全てのタイルと法廷はIDタグ（例：L1）でラベル付けされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -21046,6 +21054,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T234204Z" creationid="aorin" creationdate="20180114T234204Z">
         <seg>展開オーダーに記入するには、単純に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To record a deployment order, you simply write down the I.D. of the tile or Court that you wish to deploy units to and the number and type of units you wish to deploy there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T234929Z" creationid="aorin" creationdate="20180114T234929Z">
+        <seg>展開オーダーに記入するには、単純にあなたがユニットを展開したいと思う法廷やタイルのIDと、展開したいユニットの種類と数を書き込むだけです。</seg>
       </tuv>
     </tu>
     <tu>
