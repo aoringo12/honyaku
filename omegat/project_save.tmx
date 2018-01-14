@@ -17955,6 +17955,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Late Age covers turns 5-7.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T204914Z" creationid="aorin" creationdate="20180114T204914Z">
+        <seg>ターン5～7は後期を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Marquise also has wood​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152636Z" creationid="aorin" creationdate="20171215T152636Z">
@@ -18138,6 +18146,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123734Z" creationid="nakahodo" creationdate="20171213T123734Z">
         <seg>このアクションを選択したプレイヤーは直ちにアクションフェイズを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ages have two impacts on gameplay:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205130Z" creationid="aorin" creationdate="20180114T205127Z">
+        <seg>時代はゲームプレイに2つの影響を持ちます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19837,6 +19853,14 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153143Z" creationid="aorin" creationdate="20171212T153143Z">
         <seg>提供した適切な食料の数に等しいだけ、妖精たちを昇進させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They determine which Discoveries are currently available to research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205155Z" creationid="aorin" creationdate="20180114T205155Z">
+        <seg>研究で現在利用可能なディスカバリーを決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22616,6 +22640,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T140745Z" creationid="nakahodo" creationdate="20171127T140745Z">
         <seg>ターン毎にプライド全体から1つのキューブのみを取り除くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can research Discoveries that are of the current age or any earlier age.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T205233Z" creationid="aorin" creationdate="20180114T205233Z">
+        <seg>あなたが研究できるディスカバリーは、現在[または]以前の時代のものになります。</seg>
       </tuv>
     </tu>
     <tu>
