@@ -6478,8 +6478,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Citadel (blue-gray):</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180114T194458Z" creationid="aorin" creationdate="20180114T194458Z">
-        <seg>要塞（青灰）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194641Z" creationid="aorin" creationdate="20180114T194458Z">
+        <seg>要塞（青灰）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12435,6 +12435,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lake &amp; Forest (blue &amp; green):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194640Z" creationid="aorin" creationdate="20180114T194640Z">
+        <seg>湖と森（青と緑）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaders</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003228Z" creationid="aorin" creationdate="20171216T003228Z">
@@ -15795,6 +15803,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054100Z" creationid="aorin" creationdate="20171216T054043Z">
         <seg>策略の解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource territories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194648Z" creationid="aorin" creationdate="20180114T194648Z">
+        <seg>リソース地域です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21350,6 +21366,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111550Z" creationid="nakahodo" creationdate="20180108T111550Z">
         <seg>クロニクルに新しいルールやストーリーカードが追加する時、このガイドにカード番号がある場合、指定されたカードを引き出します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you control these during a Scoring Phase, you earn VPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
+        <seg>得点フェイズ時にこれらを制御していた場合、VPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
