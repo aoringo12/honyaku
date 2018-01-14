@@ -4776,6 +4776,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along with his Capital, this allows him to recruit a total of 9 workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214313Z" creationid="aorin" creationdate="20180114T214313Z">
+        <seg>首都とともに、彼は合計9ワーカーを雇用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also applies to Automas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110623Z" creationid="nakahodo" creationdate="20180108T110623Z">
@@ -5273,6 +5281,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202712Z" creationid="nakahodo" creationdate="20171224T202712Z">
         <seg>各ゲームのはじめに、完了した栄光の行ごとに、あなたは次のボーナスを得ます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the beginning of the Recruitment Phase, Charles is in control of 1 Village and 2 Cities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214250Z" creationid="aorin" creationdate="20180114T214250Z">
+        <seg>雇用フェイズの開始時にて、チャールズは1村と2都市を制御しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7132,6 +7148,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173456Z" creationid="aorin" creationdate="20171212T173456Z">
         <seg>妖精の降格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployment Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214316Z" creationid="aorin" creationdate="20180114T214316Z">
+        <seg>展開フェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11437,6 +11461,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not have enough discs in your reserve, you have reached your population limit (30).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214206Z" creationid="aorin" creationdate="20180114T214206Z">
+        <seg>リザーブに十分なディスクを持っていない場合、人口上限（30）に到達しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do, do not discard the card;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232311Z" creationid="aorin" creationdate="20171215T232311Z">
@@ -12387,6 +12419,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T233203Z" creationid="nakahodo" creationdate="20171229T233203Z">
         <seg>次なる久遠の都市として選択される余地は十分にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is Turn 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214232Z" creationid="aorin" creationdate="20180114T214232Z">
+        <seg>ターン5です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15925,6 +15965,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000005Z" creationid="aorin" creationdate="20171216T000005Z">
         <seg>雇用所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recruitment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214222Z" creationid="aorin" creationdate="20180114T214222Z">
+        <seg>雇用</seg>
       </tuv>
     </tu>
     <tu>
@@ -23148,6 +23196,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
         <seg>空いたスロットのない空き地には建築できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot gain workers past this limit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T214216Z" creationid="aorin" creationdate="20180114T214216Z">
+        <seg>この上限を越えてワーカーを得ることはできません。</seg>
       </tuv>
     </tu>
     <tu>
