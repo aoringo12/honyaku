@@ -6033,6 +6033,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can be upgraded into Cities if controlled by 3 or more units.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194435Z" creationid="aorin" creationdate="20180114T194435Z">
+        <seg>3体以上のユニットに制御された場合、都市にアップグレードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can exhaust as part of Craft.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072829Z" creationid="aorin" creationdate="20171216T072829Z">
@@ -6077,6 +6085,22 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T103008Z" creationid="nakahodo" creationdate="20180108T103008Z">
         <seg>これはキャンペーン終了の得点計算でのみ、使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capital:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194328Z" creationid="aorin" creationdate="20180114T194328Z">
+        <seg>首都：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capitals cannot be attacked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194347Z" creationid="aorin" creationdate="20180114T194347Z">
+        <seg>首都は攻撃されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6448,6 +6472,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223618Z" creationid="aorin" creationdate="20171024T223547Z">
         <seg>クリス、シェリリン、TCは全員同じ地域に居て、ブレンドする決定をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Citadel (blue-gray):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194458Z" creationid="aorin" creationdate="20180114T194458Z">
+        <seg>要塞（青灰）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20524,6 +20556,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Units stationed here can be used to reinforce adjacent battles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194626Z" creationid="aorin" creationdate="20180114T194626Z">
+        <seg>駐留ユニットは隣接戦闘を増強するために使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless an Automa is temporarily replacing a human player, the Automa doesn't retain any of these components from game to game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T103112Z" creationid="nakahodo" creationdate="20180108T103112Z">
@@ -20732,6 +20772,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used to recruit workers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194403Z" creationid="aorin" creationdate="20180114T194403Z">
+        <seg>ワーカーを雇用するために使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using 1 action a player can only advance 1 step on 1 track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045746Z" creationid="aorin" creationdate="20171213T045746Z">
@@ -20844,6 +20892,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213334Z" creationid="nakahodo" creationdate="20171224T213334Z">
         <seg>喜ぶ王　怒る王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Village (orange):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194354Z" creationid="aorin" creationdate="20180114T194354Z">
+        <seg>村（オレンジ）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23091,6 +23147,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235143Z" creationid="aorin" creationdate="20171215T235143Z">
         <seg>可能なアクションは次のとおりです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your race’s capital.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T194337Z" creationid="aorin" creationdate="20180114T194337Z">
+        <seg>あなたの種族の首都です。</seg>
       </tuv>
     </tu>
     <tu>
