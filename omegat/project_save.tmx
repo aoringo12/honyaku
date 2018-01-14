@@ -5275,6 +5275,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of Turns 2, 4, and 7, there is an additional phase called the Scoring Phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210154Z" creationid="aorin" creationdate="20180114T210154Z">
+        <seg>ターン2，4、7の終わりに、得点フェイズと呼ばれる追加のフェイズがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a game, pay one of the following costs to the general supply:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223009Z" creationid="aorin" creationdate="20171231T223009Z">
@@ -7066,6 +7074,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173456Z" creationid="aorin" creationdate="20171212T173456Z">
         <seg>妖精の降格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployment Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210357Z" creationid="aorin" creationdate="20180114T210348Z">
+        <seg>展開フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15194,6 +15210,22 @@ is running cmoothly.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players simultaneously and secretly write down their deployment orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210428Z" creationid="aorin" creationdate="20180114T210428Z">
+        <seg>プレイヤーたちは同時に、そして秘密裏に、自身の展開オーダーを記入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players simultaneously recruit workers from their Capital, Villages and Cities, and any applicable Discoveries they possess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210332Z" creationid="aorin" creationdate="20180114T210332Z">
+        <seg>プレイヤーたちは同時に、自身の持つディスカバリー効果を適用して首都、村、都市それぞれからワーカーたちを雇用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players split into three teams (Americas, Africa, or Asia region) and
 decide together whether they will Blend or Research.</seg>
       </tuv>
@@ -15683,6 +15715,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000005Z" creationid="aorin" creationdate="20171216T000005Z">
         <seg>雇用所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recruitment Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210236Z" creationid="aorin" creationdate="20180114T210236Z">
+        <seg>雇用フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17059,6 +17099,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spymaster Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210206Z" creationid="aorin" creationdate="20180114T210206Z">
+        <seg>スパイマスターフェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stalk the woods as the Vagabond, seize the initiative with the Eyrie birds of prey, rule over your subjects as the Marquise de Cat, or command the Woodland Alliance to create a new order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
@@ -17087,6 +17135,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
         <seg>スタートプレイヤートークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting with the first player, each player chooses one Spymaster action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T210231Z" creationid="aorin" creationdate="20180114T210231Z">
+        <seg>ファーストプレイヤーから始まり、各プレイヤーはスパイマスターアクション1つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
