@@ -22002,6 +22002,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When making deployment decisions, you must take into account the territories on the map that you and your opponents control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235320Z" creationid="aorin" creationdate="20180114T235320Z">
+        <seg>展開を決定した時、あなたは自身の対戦相手が制御するマップの地域を考慮する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When moving from one clearing to another by exhausting &lt;boot&gt;, you may move any number of Ally warriors along with you, even warriors from multiple Ally factions.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074545Z" creationid="aorin" creationdate="20171216T074545Z">
@@ -23016,6 +23024,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You always control your Capital and never need to deploy units to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235352Z" creationid="aorin" creationdate="20180114T235352Z">
+        <seg>あなたは常に首都を制御しており、そこにユニットを展開する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are a specter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222758Z" creationid="aorin" creationdate="20171231T222758Z">
@@ -23508,6 +23524,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170952Z" creationid="nakahodo" creationdate="20171229T170450Z">
         <seg>あなたは、自身のチャーターに通常ワーカーを配置することはできません（ミニオンはできます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only deploy units to a territory that...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235504Z" creationid="aorin" creationdate="20180114T235504Z">
+        <seg>あなたがユニットを展開できる地形は……</seg>
       </tuv>
     </tu>
     <tu>
