@@ -6557,6 +6557,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Construct the map in the middle of the table between all players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192256Z" creationid="aorin" creationdate="20180114T192256Z">
+        <seg>テーブル中央にマップを構築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Constructed Building Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153914Z" creationid="nakahodo" creationdate="20171218T153914Z">
@@ -7980,6 +7988,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000401Z" creationid="aorin" creationdate="20171216T000401Z">
         <seg>任意の建物をを取除かれた各プレイヤーは、取り除かれた自身の建物と同数のカードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player will also need a sheet from the deployment-orders pad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192230Z" creationid="aorin" creationdate="20180114T192127Z">
+        <seg>各プレイヤーはまた、展開オーダーパットからシート1枚を必要とします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18262,6 +18278,14 @@ least one bean.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124153Z" creationid="nakahodo" creationdate="20171001T124153Z">
         <seg>唯一の制限は、全てのプレイヤーたちが少なくとも1つの豆を提供しなければならないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pile of your wooden discs, which represent your workers, is referred to as your reserve (note that we have included 2 extra discs in the game for each player, as replacements in case you lose any – these extras are not part of your reserve).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T192134Z" creationid="aorin" creationdate="20180114T192119Z">
+        <seg>あなたのワーカーを表す木製ディスクの山は、リザーブと称されます（ゲームには各プレイヤー2つの余分なディスクがあることに注意してください―これらはリザーブの一部ではありません）。</seg>
       </tuv>
     </tu>
     <tu>
