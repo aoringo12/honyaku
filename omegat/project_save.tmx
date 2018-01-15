@@ -3948,6 +3948,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A powerful move by Charles and one that Jules should have seen coming!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151321Z" creationid="aorin" creationdate="20180115T151321Z">
+        <seg>チャールズによる強力な移動をジュールは予想しておくべきだった！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A roll of “4” is considered a “0” so the four-sided dice only produces numbers 0-3.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224252Z" creationid="aorin" creationdate="20171215T224244Z">
@@ -13146,8 +13154,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Jules will not only lose this battle (C3 vs. J2) but after it is resolved, all of his controlled territories to the southwest of the Tower (shown circled) will be out-of-supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180115T125342Z" creationid="aorin" creationdate="20180115T125342Z">
-        <seg>ジュールはこの戦闘（C3 vs J2）で敗北するだけではなく、これが解決された後、等の南西部（円で示される）で彼が制御していた地域が全て供給外となります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T143625Z" creationid="aorin" creationdate="20180115T125342Z">
+        <seg>ジュールはこの戦闘（C3 vs J2）で敗北するだけではなく、これが解決された後、塔の南西部（円で示される）で彼が制御していた地域が全て供給外となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21751,6 +21759,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165851Z" creationid="aorin" creationdate="20171212T165659Z">
         <seg>したがって、彼女は全てのプレイヤーを罰するでしょう！（（（ありがとうございます！）））</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, he will have to remove the lone Soldier on each of these territories during the Attrition stage, forfeiting this entire section of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T143848Z" creationid="aorin" creationdate="20180115T143848Z">
+        <seg>したがって、彼は消耗ステージ時にて、地図のこの部分全体それぞれの地域の孤独な兵士を取り除かなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
