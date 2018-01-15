@@ -5445,6 +5445,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At this point, you can transfer your workers and Unique Units from your recruitment pool to the territories on the map and the Court.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000358Z" creationid="aorin" creationdate="20180115T000358Z">
+        <seg>この時点で、自身の雇用プールから、ワーカーと独自ユニットをマップの地域と法廷へと、送ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At your backs are the companions who confided in you so long ago.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T100432Z" creationid="nakahodo" creationdate="20171230T100432Z">
@@ -8192,6 +8200,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T142836Z" creationid="nakahodo" creationdate="20171230T142836Z">
         <seg>各プレイヤーは2枚タイルを選択肢、他を捨て札とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player should announce when he has finished his deployment decisions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000237Z" creationid="aorin" creationdate="20180115T000237Z">
+        <seg>各プレイヤーは自身の展開決定が完了した時に宣言します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13749,6 +13765,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T212926Z" creationid="aorin" creationdate="20171024T212926Z">
         <seg>全てのブレンドするチームが完了すると、ボードに示されたローストランキングに従い、新しいブレンドは全てベストセラーリストの位置へと同時に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once all players have finished, they drop their play screens and reveal their respective deployment orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000313Z" creationid="aorin" creationdate="20180115T000313Z">
+        <seg>全てのプレイヤーが完了したら、自身のスクリーンを取り除き、各自の展開オーダーを公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23404,6 +23428,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235209Z" creationid="aorin" creationdate="20180114T235209Z">
         <seg>あなたはまた、将来のターンのためにワーカーたちを保持しておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may always deploy workers to a Court.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000122Z" creationid="aorin" creationdate="20180115T000122Z">
+        <seg>あなたは常に、法廷にワーカーを展開できます。</seg>
       </tuv>
     </tu>
     <tu>
