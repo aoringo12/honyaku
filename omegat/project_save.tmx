@@ -12014,6 +12014,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you plan things right, you could force attrition losses in several territories with just a single, strategically deployed Soldier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120806Z" creationid="aorin" creationdate="20180115T120806Z">
+        <seg>この計画が成功したら、戦略的に展開した兵士1体により、いくつもの地域に消耗を強制させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you prefer, draw an Automa card;</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105149Z" creationid="nakahodo" creationdate="20180108T105149Z">
@@ -12300,6 +12308,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210824Z" creationid="aorin" creationdate="20171215T210824Z">
         <seg>改良は勝利点の得点、永続的な利益の提供、改良を破棄して発動する一度使用の効果などがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 3 and 4 player games, feel free to negotiate with your neighbors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120835Z" creationid="aorin" creationdate="20180115T120835Z">
+        <seg>3と4プレイヤーゲームでは、隣人と気軽に交渉することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13645,6 +13661,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T174158Z" creationid="nakahodo" creationdate="20171229T174158Z">
         <seg>厳戒令は利用可能なアクションに厳しい制限があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe you want to declare a temporary peace treaty so that you’re not fighting on multiple fronts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120927Z" creationid="aorin" creationdate="20180115T120927Z">
+        <seg>おそらく、複数の相手と戦線を構えないように、一時的な和平を宣言したくなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
