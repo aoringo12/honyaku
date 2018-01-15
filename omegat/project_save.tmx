@@ -3923,6 +3923,14 @@ Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player “wins” a battle only if he is the sole player with the highest Army Strength;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071307Z" creationid="aorin" creationdate="20180115T071307Z">
+        <seg>最大軍事力をもつプレイヤーが1人のときにのみ、プレイヤーは戦闘に「勝利」します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player’s Neighborhood is the area in front of that
 player.</seg>
       </tuv>
@@ -11546,6 +11554,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030651Z" creationid="aorin" creationdate="20171212T030651Z">
         <seg>二人以上のプレイヤーが1位タイになった場合、タイプレイヤー間で最小の近所を持つプレイヤーが勝利します（つまり、建物とプランの最も少ない）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If two or more players are tied for the greatest Army Strength, then all units involved in the battle are killed and the territory is left unoccupied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071420Z" creationid="aorin" creationdate="20180115T071420Z">
+        <seg>最大軍事力が2人以上のプレイヤーでタイの場合、その戦闘に関係する全てのユニットが殺され、地域は未占領となります.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20031,6 +20047,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The remainder of his units are killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071137Z" creationid="aorin" creationdate="20180115T071137Z">
+        <seg>残りのユニットは殺されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The remainder of the turn is performed using the current order of the large cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123516Z" creationid="nakahodo" creationdate="20171213T123516Z">
@@ -20259,6 +20283,14 @@ positive part of the score track is difficult!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T071114Z" creationid="aorin" creationdate="20180115T071114Z">
         <seg>戦闘の勝者は、二番目に軍事力が高いプレイヤーとの差分だけ、地域の自身のユニット数を維持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winner of the battle now controls the territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071154Z" creationid="aorin" creationdate="20180115T071154Z">
+        <seg>戦闘の勝者は今、その地域を制御しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24626,6 +24658,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205553Z" creationid="nakahodo" creationdate="20171218T154252Z">
         <seg>建築された建物カードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a player “loses” a battle if another player has been declared the winner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071330Z" creationid="aorin" creationdate="20180115T071330Z">
+        <seg>他プレイヤーにより勝利が宣言された場合、プレイヤーは戦闘に「敗北」します。</seg>
       </tuv>
     </tu>
     <tu>
