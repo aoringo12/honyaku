@@ -6801,6 +6801,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clockwork Wars uses a simple mechanism to model the costs of attrition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T093609Z" creationid="aorin" creationdate="20180115T093609Z">
+        <seg>クロックウォーズでは消耗のコストを表現するために単純なメカニズムを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cloud Port or Grandstand)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150904Z" creationid="nakahodo" creationdate="20171218T150904Z">
@@ -7756,6 +7764,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210610Z" creationid="aorin" creationdate="20171219T095625Z">
         <seg>セットアップ時、目標カードをシャッフルしてデッキにし、目標マットにカードを3枚ランダムに公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Attrition stage, you must check to see if you control any territories that are not linked to either your Capital or a City that you currently control, via a connected series of controlled territories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
+        <seg>消耗ステージ時、任意の自身の制御している地域が、自身の現在制御している首都や都市から、制御している地域続きで接続されているかどうかを確認する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
