@@ -3979,6 +3979,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A worker placed onto a Court is called a Spy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000556Z" creationid="aorin" creationdate="20180115T000556Z">
+        <seg>法廷にワーカーが配置されると、これをスパイと称します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222954Z" creationid="nakahodo" creationdate="20171224T222954Z">
@@ -4847,6 +4855,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232300Z" creationid="aorin" creationdate="20171215T232300Z">
         <seg>もしくは、スートとして特別勝利カードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although players may do this simultaneously, it can become a bit chaotic;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000432Z" creationid="aorin" creationdate="20180115T000432Z">
+        <seg>とはいえ、これは同時に行われるので、混沌としたものになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13758,6 +13774,14 @@ no other player can choose that same Country.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a worker is placed onto a map territory, it is called a Soldier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000544Z" creationid="aorin" creationdate="20180115T000544Z">
+        <seg>マップの地域にワーカーが配置されると、これを兵士と称します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once all Blending teams are done,
 all new Blends are simultaneously placed into position on
 the Best-Seller List according to the Roast Ranking that is
@@ -21368,6 +21392,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Units deployed on to the map may not be moved during the deployment phase, although special actions such as the Spymaster action, Gambit, or reinforcement from a citadel may allow a unit to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000836Z" creationid="aorin" creationdate="20180115T000836Z">
+        <seg>マップに展開されたユニットは、展開フェイズ時に移動できませんが、例えば、スパイマスターアクション、先手、要塞からの増強などの特別なアクションによって、ユニットの移動ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Units include:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205729Z" creationid="aorin" creationdate="20180114T205729Z">
@@ -24660,6 +24692,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205358Z" creationid="nakahodo" creationdate="20171224T205358Z">
         <seg>これらは後に明らかになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>therefore, it is recommended that each player deploy their units in turn, starting with the first player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000523Z" creationid="aorin" creationdate="20180115T000523Z">
+        <seg>なので、ファーストプレイヤーから始まり、各プレイヤー一人ずつ展開を実行することをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
