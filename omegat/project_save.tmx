@@ -6471,6 +6471,22 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charles deployed 1 Soldier to the Village in the previous phase, while Jules and Ada deployed 2 each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071725Z" creationid="aorin" creationdate="20180115T071725Z">
+        <seg>以前のフェイズで、チャールズは村に1兵士、ジュールとアダは2兵士を展開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charles possesses the first-player token, and so will make his reinforcement orders first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071900Z" creationid="aorin" creationdate="20180115T071900Z">
+        <seg>チャールズがファーストプレイヤートークンを所持していますので、彼が最初に増強オーダーを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charles’ Capital is marked with a “C”.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031241Z" creationid="aorin" creationdate="20180115T031241Z">
@@ -10162,6 +10178,14 @@ Roaster...</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>He decides to send 2 of his Soldiers from the adjacent Citadel to help out in the battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072107Z" creationid="aorin" creationdate="20180115T072107Z">
+        <seg>彼は戦闘を補助するために、隣接する要塞から自身の兵士2体を送ることに決めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>He demands to know the player who is holding back the rest of the village -- it is only with that knowledge that he'll continue to consider your village as a candidate for the Eternal City.
 彼は要求する。</note>
       <tuv lang="EN-US">
@@ -12756,6 +12780,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T221905Z" creationid="aorin" creationdate="20171231T221905Z">
         <seg>私の最大の後悔だ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is now the Combat Phase and they need to make some decisions regarding reinforcement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071814Z" creationid="aorin" creationdate="20180115T071814Z">
+        <seg>今は戦闘フェイズで、増強に関するいくつかの決定を行う必要があります。</seg>
       </tuv>
     </tu>
     <tu>
