@@ -4932,6 +4932,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Soldiers in Citadels that are not currently contested may move to an adjacent territory where a battle is occurring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002000Z" creationid="aorin" creationdate="20180115T002000Z">
+        <seg>現在紛争中ではない要塞の兵士たちは、戦闘が行われている隣接地域に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -7774,6 +7782,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232123Z" creationid="aorin" creationdate="20171215T232123Z">
         <seg>昼時、これをアクティブにするために自身のプレイエリアに特別勝利カードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During your Reinforcement stage, you can make as many reinforcement orders as you wish.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001804Z" creationid="aorin" creationdate="20180115T001804Z">
+        <seg>あなたの増強ステージ時、望むだけ増強オーダーを行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11538,6 +11554,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085836Z" creationid="nakahodo" creationdate="20180108T085836Z">
         <seg>オートマシステムを含める選択をする場合、我々はオートマ2人を使用することを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you control any Citadels, you may use them to reinforce adjacent battles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001852Z" creationid="aorin" creationdate="20180115T001852Z">
+        <seg>あなたが要塞を制御している場合、隣接戦闘を増強するためにそこを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15737,6 +15761,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possible reinforcement orders:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001815Z" creationid="aorin" creationdate="20180115T001815Z">
+        <seg>可能な増強オーダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powers</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132303Z" creationid="nakahodo" creationdate="20171127T132303Z">
@@ -16182,6 +16214,22 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031759Z" creationid="aorin" creationdate="20171213T031521Z">
         <seg>発生したフェイズにかかわらず、スコアトラックのドレイシンボルにあなたのスコアマーカーが到達するか超えるとすぐに、あなたは直ちに昇進している妖精1体を降格させて、あなたの炭鉱へと再びドレイにさせなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reinforcement Stage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001614Z" creationid="aorin" creationdate="20180115T001614Z">
+        <seg>増強ステージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reinforcement orders should take place in a sequence, beginning with the player who has the first player token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001654Z" creationid="aorin" creationdate="20180115T001654Z">
+        <seg>ファーストプレイヤーから始まり、増強オーダーを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24701,6 +24749,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043542Z" creationid="aorin" creationdate="20171213T043542Z">
         <seg>食料タイル[または]一回使用タイルの余分なスペースを得ることができる永続能力タイル）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Reinforcement stage, the Battle stage, and the Attrition stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001611Z" creationid="aorin" creationdate="20180115T001611Z">
+        <seg>増強ステージ、戦闘ステージ、消耗ステージ。</seg>
       </tuv>
     </tu>
     <tu>
