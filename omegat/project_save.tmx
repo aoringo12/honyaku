@@ -7484,6 +7484,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnected territories are considered to be outof- supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T115937Z" creationid="aorin" creationdate="20180115T115937Z">
+        <seg>接続されていない地域は供給外だとみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discovery, which allows him to kill one opposing Soldier in combat during the Reinforcement stage.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072302Z" creationid="aorin" creationdate="20180115T072302Z">
