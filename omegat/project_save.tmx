@@ -12766,6 +12766,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of committing several Soldiers to a territory where you expect a large battle to occur (an unoccupied Village, for example), consider attacking a weakly defended link in your opponent’s supply chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120657Z" creationid="aorin" creationdate="20180115T120657Z">
+        <seg>大規模な戦闘が起こると予想される地域（例えば、未占領の村）へと何体かの兵士を送り込むのではなく、対戦相手の供給線の防御が弱い場所への攻撃を検討してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, take a Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173102Z" creationid="aorin" creationdate="20171212T173102Z">
@@ -16714,6 +16722,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember that your opponent is trying to guess where you’ll place your units!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120349Z" creationid="aorin" creationdate="20180115T120349Z">
+        <seg>そして、それと同じことを対戦相手も考えていることを忘れないでください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105948Z" creationid="nakahodo" creationdate="20180108T105948Z">
@@ -18195,6 +18211,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235537Z" creationid="aorin" creationdate="20171231T235537Z">
         <seg>王国への支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surprise attacks can be very effective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120449Z" creationid="aorin" creationdate="20180115T120449Z">
+        <seg>奇襲的な攻撃は非常に効果的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21963,6 +21987,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T091720Z" creationid="aorin" creationdate="20171116T091720Z">
         <seg>彼を信じ、シェリリンとTCはまずクリスのブレンドを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try not to be predictable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120438Z" creationid="aorin" creationdate="20180115T120438Z">
+        <seg>予測させないように動くことが重要です。</seg>
       </tuv>
     </tu>
     <tu>
