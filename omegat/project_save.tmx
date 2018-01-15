@@ -13497,6 +13497,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most Unique Units and the Steamtank general also contribute to Army Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070753Z" creationid="aorin" creationdate="20180115T070753Z">
+        <seg>ほとんどの独自ユニットとスチームタンク将軍もまた、軍事力に貢献します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most factions have two types of pieces:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152625Z" creationid="aorin" creationdate="20171215T152619Z">
@@ -21058,6 +21066,14 @@ using the Hiding Spots secrets card.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is called Army Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070720Z" creationid="aorin" creationdate="20180115T070720Z">
+        <seg>これを軍事力と称します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is determined for Apples, Honey, Bread, Silver and Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040135Z" creationid="aorin" creationdate="20171213T040135Z">
@@ -21463,6 +21479,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T234929Z" creationid="aorin" creationdate="20180114T234929Z">
         <seg>展開オーダーに記入するには、単純にあなたがユニットを展開したいと思う法廷やタイルのIDと、展開したいユニットの種類と数を書き込むだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To resolve a battle, each player involved totals the number of Soldiers he has in the territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070707Z" creationid="aorin" creationdate="20180115T070707Z">
+        <seg>戦闘を解決するには、各プレイヤーが地域に持つ関連する兵士の数を合計します。</seg>
       </tuv>
     </tu>
     <tu>
