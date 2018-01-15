@@ -12704,6 +12704,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible that one of your opponents, earlier in turn order, kills all your units in a contested tile during their Reinforcement stage (through use of a Unique Unit, for example).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064746Z" creationid="aorin" creationdate="20180115T064746Z">
+        <seg>あなたよりもターン順番で早い対戦相手の1人が、増強ステージ時に紛争タイルのあなたのユニット全てを殺すことができます（例えば独自ユニットを使用して）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is still an advancement card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205600Z" creationid="nakahodo" creationdate="20171218T154337Z">
@@ -19369,6 +19377,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034307Z" creationid="aorin" creationdate="20171212T034307Z">
         <seg>新しく利用可能となったロケーションは、他のロケーションと同じように使用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next player in turn sequence can now make reinforcement orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064527Z" creationid="aorin" creationdate="20180115T064527Z">
+        <seg>ターン順で次のプレイヤーガ増強オーダーを行います。</seg>
       </tuv>
     </tu>
     <tu>
