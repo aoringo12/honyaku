@@ -24752,6 +24752,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>w You must deploy at least one unit to the intervening territory when conducting a Forced March.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000002Z" creationid="aorin" creationdate="20180115T000002Z">
+        <seg>•	強行軍を行う時、あなたは間の地域に少なくとも1体のユニットを展開する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>wFoiltlho wst ethpe 2 i.Ansdtdru tchteiomn ts ofo trh Een Cdh orofn Gicalme e, along with the Setup cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164825Z" creationid="aorin" creationdate="20171228T164825Z">
@@ -24812,6 +24820,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205649Z" creationid="nakahodo" creationdate="20171218T165300Z">
         <seg>あなたのターンにて、いずれかを選択して行います。（a）ボード上の任意の建物の上に、個人サプライからワーカー1つを配置する、または（b）ボードからワーカーたちを全て回収する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you currently control, or is adjacent to a territory that you control, or is 2 tiles away from a territory that you control, if the intervening territory is currently unoccupied (the Forced March rule).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180114T235656Z" creationid="aorin" creationdate="20180114T235656Z">
+        <seg>あなたが現在制御している地域[または]あなたが制御している地域に隣接する地域[または]あなたが制御している地域から2タイル離れた地域（間の地域が未占領の場合：強行軍ルール）。</seg>
       </tuv>
     </tu>
     <tu>
