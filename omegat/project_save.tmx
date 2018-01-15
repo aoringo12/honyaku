@@ -13024,6 +13024,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Killed Soldiers are always returned to their owners’ reserves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070934Z" creationid="aorin" creationdate="20180115T070934Z">
+        <seg>殺された兵士は常に所有者のリザーブに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Killed Unique Units and a defeated Steamtank general are removed from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070957Z" creationid="aorin" creationdate="20180115T070957Z">
+        <seg>殺された独自ユニットと敗北したスチームタンク将軍はゲームから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Klaus chooses the Turn Silver into Gold action and decides to transform 6 pieces of Silver into 3 pieces of Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042126Z" creationid="aorin" creationdate="20171213T042126Z">
@@ -17558,6 +17574,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some Discoveries add bonuses to Army Strength (for example, Power Armor adds +1 to Army Strength).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070826Z" creationid="aorin" creationdate="20180115T070826Z">
+        <seg>いくつかのディスカバリーは軍事力に追加ボーナスを与えます（例えば、パワーアーマーは軍事力に+1追加します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Discoveries may be used.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210605Z" creationid="aorin" creationdate="20180114T210605Z">
@@ -19357,6 +19381,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The losers of a battle must remove all their units from the territory - these units are considered killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070920Z" creationid="aorin" creationdate="20180115T070920Z">
+        <seg>戦闘の敗北者たちは、地域から自身のユニットを全て取り除かなければなりません―これらユニットは殺されたとみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The map is made up of color-coded hexagonal tiles that come in 9 territory types:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194316Z" creationid="aorin" creationdate="20180114T194316Z">
@@ -19850,6 +19882,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The player with the greatest total Army Strength wins the battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070846Z" creationid="aorin" creationdate="20180115T070846Z">
+        <seg>最も高い合計軍事力を持つプレイヤーが戦闘に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The player with the highest total score is the overall winner, The tiebreakers are the categories on the Campaign Victory Card (from top to bottom).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220615Z" creationid="nakahodo" creationdate="20171229T215007Z">
@@ -20211,6 +20251,14 @@ positive part of the score track is difficult!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093854Z" creationid="aorin" creationdate="20171212T093854Z">
         <seg>合計得点が最も高いプレイヤーが勝者となりますが、スコアトラックのプラス側を維持できるのは難しいことに注意してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winner of a battle gets to keep a number of his units in the territory equal to the difference between the two greatest Army Strengths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071114Z" creationid="aorin" creationdate="20180115T071114Z">
+        <seg>戦闘の勝者は、二番目に軍事力が高いプレイヤーとの差分だけ、地域の自身のユニット数を維持します。</seg>
       </tuv>
     </tu>
     <tu>
