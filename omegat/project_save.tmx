@@ -6841,6 +6841,22 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Combat Strategy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120033Z" creationid="aorin" creationdate="20180115T120033Z">
+        <seg>戦闘の戦略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combat strategy in Clockwork Wars has a lot to do with guessing where your opponent is going to deploy units.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120134Z" creationid="aorin" creationdate="20180115T120134Z">
+        <seg>クロックウォーズの戦闘における戦術は、対戦相手がどうユニットを展開するのか予想することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commander</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003521Z" creationid="aorin" creationdate="20171216T003521Z">
@@ -19008,6 +19024,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Guardian and Steamtank generals and the Operative Unique Unit are not affected by attrition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120025Z" creationid="aorin" creationdate="20180115T120025Z">
+        <seg>ガーディアンとスチームタンク将軍と、工作員独自ユニットは消耗の影響を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Keep of Marquise de Cat is a clearing aligned with all nations.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
@@ -23874,6 +23898,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can choose to meet them on the field of battle with a (hopefully) larger force, or attack other poorly defended territories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120329Z" creationid="aorin" creationdate="20180115T120329Z">
+        <seg>戦場を（うまくいけば）巨大な軍で満たすか、守備がおろそかな地域を攻撃することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can construct buildings on empty sky island tiles in your charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
@@ -24430,6 +24462,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001804Z" creationid="aorin" creationdate="20171216T001804Z">
         <seg>法令に鳥カード1枚か、鳥ではないカード2枚をプレイする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must remove one unit from every out-of-supply territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T115954Z" creationid="aorin" creationdate="20180115T115954Z">
+        <seg>全ての供給のない地域からユニット1体を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
