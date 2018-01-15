@@ -16289,6 +16289,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Removing a unit from the map is also prohibited, except as a result of death in combat or from a specific card effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001113Z" creationid="aorin" creationdate="20180115T001113Z">
+        <seg>戦闘の死亡結果や特定のカード効果などを除いて、マップからユニットを取り除くことは禁止されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing​ ​Hideouts.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152103Z" creationid="aorin" creationdate="20171215T151850Z">
