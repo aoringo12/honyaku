@@ -6447,6 +6447,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charles (blue), Jules (white), and Ada (green) are battling over a Village located between 2 Citadels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071649Z" creationid="aorin" creationdate="20180115T071649Z">
+        <seg>チャールズ（青）、ジュール（白）アダ（緑）は、2つの要塞の間にある村で戦闘しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charles can Force March into the unoccupied Village, if he also deploys at least 1 worker to the intervening Tower.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T033103Z" creationid="aorin" creationdate="20180115T033103Z">
@@ -11952,6 +11960,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you took the Tactical Ops action during the Spymaster Phase, you receive an additional +1 bonus to Army Strength in tied battles and therefore emerge victorious!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071549Z" creationid="aorin" creationdate="20180115T071549Z">
+        <seg>あなたがスパイマスターアクション時に戦略作戦を取っていた場合、軍事力がタイの戦闘にて追加の+1ボーナスを得て、これにより勝利できます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you unlock a persona card, you gain that ability for the rest of the game (in addition to any other personas you're using).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T145154Z">
@@ -16450,6 +16466,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reinforcement &amp; Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071556Z" creationid="aorin" creationdate="20180115T071556Z">
+        <seg>増強と戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reinforcement Stage</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001614Z" creationid="aorin" creationdate="20180115T001614Z">
@@ -19031,6 +19055,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224054Z" creationid="aorin" creationdate="20171215T224054Z">
         <seg>アタッカーは高いロールに等しいヒットを与え、ディフェンダーは低いヒットに等しいヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The battle is considered a draw.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T071434Z" creationid="aorin" creationdate="20180115T071434Z">
+        <seg>戦闘は引き分けであるとみなされます。</seg>
       </tuv>
     </tu>
     <tu>
