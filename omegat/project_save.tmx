@@ -10206,6 +10206,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here are a couple examples:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002401Z" creationid="aorin" creationdate="20180115T002401Z">
+        <seg>いくつかの例は次のとおりです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hi!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203602Z" creationid="aorin" creationdate="20180101T203602Z">
@@ -21497,6 +21505,15 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Understanding the Forced March rule is vital to your success in Clockwork Wars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002347Z" creationid="aorin" creationdate="20180115T002347Z">
+        <seg>例：強行軍ルール
+強行軍ルールを理解することは、クロックウォーズに勝利するために必要不可欠です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfold the game board (either side) and put the objective mat and advancement mat next to the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T121125Z" creationid="nakahodo" creationdate="20171224T121010Z">
@@ -24957,6 +24974,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210842Z" creationid="aorin" creationdate="20180114T210842Z">
         <seg>•	研究：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w The Crasher activates to instantly kill up to 3 opposing Soldiers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002254Z" creationid="aorin" creationdate="20180115T002254Z">
+        <seg>•	クラッシャーは一瞬で対戦相手の兵士3体を殺すために発動できます。</seg>
       </tuv>
     </tu>
     <tu>
