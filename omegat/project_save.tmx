@@ -5534,6 +5534,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attrition</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T123601Z" creationid="aorin" creationdate="20180115T123601Z">
+        <seg>消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attrition Stage</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072608Z" creationid="aorin" creationdate="20180115T072608Z">
@@ -10668,6 +10676,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142904Z" creationid="nakahodo" creationdate="20171218T142904Z">
         <seg>しかし、ゲーム1の後に参加の可否を変更することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, no promises are binding, so beware of betrayal!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T120956Z" creationid="aorin" creationdate="20180115T120956Z">
+        <seg>しかし、これはゲームルールで強制しませんので、裏切りへの対策は怠らないようにしましょう！</seg>
       </tuv>
     </tu>
     <tu>
