@@ -15604,6 +15604,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play then progresses clockwise to the next player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T070610Z" creationid="aorin" creationdate="20180115T070610Z">
+        <seg>その後、時計回りで次プレイヤーへと続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play with the top card of the Order deck revealed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152843Z" creationid="nakahodo" creationdate="20180108T152730Z">
