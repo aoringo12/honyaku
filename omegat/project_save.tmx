@@ -10206,6 +10206,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He may determine the order in which these battles are resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T065841Z" creationid="aorin" creationdate="20180115T065841Z">
+        <seg>彼は、これら戦闘の解決順番を決めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He needs the village to grow at a rapid pace, and it doesn't seem like your interests align with his.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001420Z" creationid="aorin" creationdate="20171229T001420Z">
