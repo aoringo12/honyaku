@@ -5534,6 +5534,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attrition Stage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072608Z" creationid="aorin" creationdate="20180115T072608Z">
+        <seg>消耗ステージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto mas gain capacity (like human players).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102630Z" creationid="nakahodo" creationdate="20180108T102630Z">
