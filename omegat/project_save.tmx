@@ -5542,6 +5542,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attrition refers to a weakening of forces due to constant harassment or weak supply lines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T093536Z" creationid="aorin" creationdate="20180115T093536Z">
+        <seg>消耗は継続的な疲弊や不安定な供給による軍隊の弱体化を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto mas gain capacity (like human players).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102630Z" creationid="nakahodo" creationdate="20180108T102630Z">
