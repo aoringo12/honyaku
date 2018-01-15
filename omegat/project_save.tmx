@@ -13809,6 +13809,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all players have transferred units to the map and Court, they should assess the new gamestate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001316Z" creationid="aorin" creationdate="20180115T001316Z">
+        <seg>全てのプレイヤーガマップと法廷にユニットを送ると、新しいゲーム状況を確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once an action is chosen, it cannot be selected by another player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212411Z" creationid="aorin" creationdate="20180114T212405Z">
@@ -20215,6 +20223,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210536Z" creationid="nakahodo" creationdate="20171218T200422Z">
         <seg>カードには、理解する必要のある情報が多くありますので、ゆっくりと読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the decisions you make during the Deployment phase are of vital importance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001132Z" creationid="aorin" creationdate="20180115T001132Z">
+        <seg>したがって、展開フェイズでの決定は重要です。</seg>
       </tuv>
     </tu>
     <tu>
