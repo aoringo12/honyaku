@@ -5875,6 +5875,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battle Stage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064853Z" creationid="aorin" creationdate="20180115T064853Z">
+        <seg>戦闘ステージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battles result when units of two or more races occupy the same map territory.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001545Z" creationid="aorin" creationdate="20180115T001545Z">
@@ -10462,6 +10470,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, battles are not resolved until the Battle stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064829Z" creationid="aorin" creationdate="20180115T064756Z">
+        <seg>しかし、戦闘自体は戦闘ステージまで解決されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, he could do a Forced March into any of the territories marked</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T032024Z" creationid="aorin" creationdate="20180115T032024Z">
@@ -13974,6 +13990,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T212926Z" creationid="aorin" creationdate="20171024T212926Z">
         <seg>全てのブレンドするチームが完了すると、ボードに示されたローストランキングに従い、新しいブレンドは全てベストセラーリストの位置へと同時に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once all players have completed their reinforcement orders, the Reinforcement stage ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064849Z" creationid="aorin" creationdate="20180115T064849Z">
+        <seg>全てのプレイヤーが増強オーダーを完了したら、増強ステージが終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19019,6 +19043,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first player resolves all his battles first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T065808Z" creationid="aorin" creationdate="20180115T065808Z">
+        <seg>ファーストプレイヤーはまず、自身の戦闘全てを解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first player to reach 40 victory points immediately wins the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231918Z" creationid="aorin" creationdate="20171215T231918Z">
@@ -20488,6 +20520,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001132Z" creationid="aorin" creationdate="20180115T001132Z">
         <seg>したがって、展開フェイズでの決定は重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, you are still allowed to reinforce this tile when it is your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064823Z" creationid="aorin" creationdate="20180115T064823Z">
+        <seg>したがって、あなたはまだ、自身のターンにてこのタイルに増強を行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
