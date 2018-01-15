@@ -10230,6 +10230,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here is another example from later in that same game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T032345Z" creationid="aorin" creationdate="20180115T032345Z">
+        <seg>これは、同じゲームのその後の例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hi!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203602Z" creationid="aorin" creationdate="20180101T203602Z">
@@ -10410,6 +10418,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T032024Z" creationid="aorin" creationdate="20180115T032024Z">
         <seg>しかし、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, he could do a Forced March into any of the territories marked “FM.” Perhaps his best move would be to deploy a single worker to the Forest and use that to Force March at least 1 worker into the Village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T032330Z" creationid="aorin" creationdate="20180115T032330Z">
+        <seg>しかし、”FM”でマークされた任意の地域に強行軍することもできます。おそらく、ベストな移動は森に1体のワーカーを展開し、村に少なくとも1体のワーカーを強行軍のために使用することでしょう。</seg>
       </tuv>
     </tu>
     <tu>
