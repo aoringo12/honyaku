@@ -16988,6 +16988,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Research Areas</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151852Z" creationid="aorin" creationdate="20180115T151852Z">
+        <seg>研究分野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research Phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151405Z" creationid="aorin" creationdate="20180115T151405Z">
@@ -17432,6 +17440,22 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145935Z" creationid="nakahodo" creationdate="20171230T145935Z">
         <seg>開始ボーナス：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Science discoveries can increase your recruitment, enhance your Army Strength, or provide you with additional means of generating VPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T152114Z" creationid="aorin" creationdate="20180115T152114Z">
+        <seg>科学ディスカバリ―はあなたの雇用を増やしたり、軍事力を強化したり、VPを生成する追加の方法を提供してくれたりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Science:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T152026Z" creationid="aorin" creationdate="20180115T152026Z">
+        <seg>科学：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,10 +18078,26 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorcery discoveries are typically the most expensive and powerful in the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151917Z" creationid="aorin" creationdate="20180115T151917Z">
+        <seg>魔法学ディスカバリーは通常、ゲームで最も効果で強力です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorcery, Science, and Religion.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151641Z" creationid="aorin" creationdate="20180115T151641Z">
         <seg>魔法学、科学、宗教学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorcery:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151855Z" creationid="aorin" creationdate="20180115T151855Z">
+        <seg>魔法学：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21325,6 +21365,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030339Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They often let you do direct damage to your opponents, killing their Soldiers at no risk to your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T152023Z" creationid="aorin" creationdate="20180115T152023Z">
+        <seg>これらは対戦相手に直接ダメージを与え、リスクなしで彼らの兵士たちを殺すものが頻繁にあります。</seg>
       </tuv>
     </tu>
     <tu>
