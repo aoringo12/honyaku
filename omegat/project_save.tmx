@@ -1708,6 +1708,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Combat Phase During the Combat Phase, all battles will be resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001500Z" creationid="aorin" creationdate="20180115T001500Z">
+        <seg>戦闘フェイズ
+戦闘フェイズ時に、全ての戦闘が解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Control &amp; Units The concept of control is central in Clockwork Wars.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205601Z" creationid="aorin" creationdate="20180114T205601Z">
@@ -5846,6 +5855,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220940Z" creationid="aorin" creationdate="20171215T220940Z">
         <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Battles result when units of two or more races occupy the same map territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001545Z" creationid="aorin" creationdate="20180115T001545Z">
+        <seg>1つのマップ地域に2つ以上の種族のユニットによって占領された時、戦闘が発生します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10600,6 +10617,14 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player has sole possession of a territory, he is in control of it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001358Z" creationid="aorin" creationdate="20180115T001358Z">
+        <seg>1つの地域を1人のプレイヤーが所有している場合、そこはそのプレイヤーが制御します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player has the Permanent Ability of stealing 1 Silver bar however, this player does receive 1 Silver bar from the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T095055Z" creationid="aorin" creationdate="20171212T095055Z">
@@ -11369,6 +11394,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030651Z" creationid="aorin" creationdate="20171212T030651Z">
         <seg>二人以上のプレイヤーが1位タイになった場合、タイプレイヤー間で最小の近所を持つプレイヤーが勝利します（つまり、建物とプランの最も少ない）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If two or more players have units in the same territory, it is contested and a battle results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001442Z" creationid="aorin" creationdate="20180115T001442Z">
+        <seg>1つの地域に2人以上のプレイヤーのユニットがいる場合、そこは紛争地となり、戦闘が発生します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18192,6 +18225,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T100943Z" creationid="aorin" creationdate="20171219T100943Z">
         <seg>クラウドポート（または○利益のある任意の建物）は、価値が変わる商品1つを共通サプライに売却することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Combat Phase is sub-divided into three stages:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T001556Z" creationid="aorin" creationdate="20180115T001556Z">
+        <seg>戦闘フェイズは3つのステージに別れます：</seg>
       </tuv>
     </tu>
     <tu>
