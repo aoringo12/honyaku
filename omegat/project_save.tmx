@@ -10133,6 +10133,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He is now deciding where to deploy them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T031336Z" creationid="aorin" creationdate="20180115T031336Z">
+        <seg>彼は今、これらを展開する場所を決めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He may be old, but At the sound of the door closing behind you, you realize you are not alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133944Z" creationid="nakahodo" creationdate="20171230T100154Z">
@@ -10394,6 +10402,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150826Z" creationid="aorin" creationdate="20171215T150826Z">
         <seg>しかし、全ての種族はこのセクションで説明されている特定の用語を共有します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, he could do a Forced March into any of the territories marked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T032024Z" creationid="aorin" creationdate="20180115T032024Z">
+        <seg>しかし、</seg>
       </tuv>
     </tu>
     <tu>
@@ -12208,6 +12224,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205230Z" creationid="aorin" creationdate="20171215T205230Z">
         <seg>ヴァガボンドがゲームにいない場合、赤いボーダースロットは空きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In his Recruitment Phase, he added 4 workers to his recruitment pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T031307Z" creationid="aorin" creationdate="20180115T031307Z">
+        <seg>彼の雇用フェイズにて、自身の雇用プールにワーカー4体を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14082,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125200Z" creationid="aorin" creationdate="20171212T125200Z">
         <seg>ゲームボードの何れかのダブルアクションスペースに現在居る昇格した妖精のみが、降格できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the Lake and Forest are adjacent to territories he currently controls (his Capital).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T031518Z" creationid="aorin" creationdate="20180115T031518Z">
+        <seg>湖と森のみが、彼が現在制御している地域（首都）に隣接しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19954,6 +19986,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121912Z" creationid="nakahodo" creationdate="20171001T121912Z">
         <seg>チームは全員でロースターから豆を引き出すプレイヤーたちを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The territories shown are all the ones that he could reach on this first turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T031440Z" creationid="aorin" creationdate="20180115T031440Z">
+        <seg>示された地域は、最初のターンに到達できる場所の全てです。</seg>
       </tuv>
     </tu>
     <tu>
