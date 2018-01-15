@@ -11069,6 +11069,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he had developed his southern Village into a City, this scenario would have been averted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151403Z" creationid="aorin" creationdate="20180115T151403Z">
+        <seg>彼が村を都市にするために展開できていたら、このシナリオは避けられたでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he has no available &lt;sword&gt; to exhaust, or if he chooses not to exhaust more &lt;sword&gt;, he cannot deal further hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231832Z" creationid="aorin" creationdate="20171215T231513Z">
@@ -16956,10 +16964,26 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Research Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151405Z" creationid="aorin" creationdate="20180115T151405Z">
+        <seg>研究フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Research Phase:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210833Z" creationid="aorin" creationdate="20180114T210833Z">
         <seg>研究フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research is a central feature of gameplay in Clockwork Wars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151425Z" creationid="aorin" creationdate="20180115T151425Z">
+        <seg>研究はクロックウォーズのゲームプレイの中心的機能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20436,6 +20460,14 @@ plus the desired Location’s cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153016Z" creationid="nakahodo" creationdate="20180108T153016Z">
         <seg>残りは通常通り、オフィスで購入できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right combination of Discoveries can give you that edge you need to defeat your opponent on the field of battle and in the struggle for VPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151536Z" creationid="aorin" creationdate="20180115T151536Z">
+        <seg>ディスカバリーの適切な組み合わせは、VPへの奮闘と戦場で対戦相手を打破するために必要な手段を与えてくれます。</seg>
       </tuv>
     </tu>
     <tu>
