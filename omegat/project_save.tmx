@@ -21259,6 +21259,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To the right is a representation of the map on Turn 1 of a new game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T031159Z" creationid="aorin" creationdate="20180115T031159Z">
+        <seg>右は、新しいゲームのターン1のマップ状況が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To vote, each player
 takes the Blend/Research Token in their hand and secretly chooses a
 side to place face-up on the table.</seg>
