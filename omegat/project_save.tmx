@@ -6423,6 +6423,22 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charles can Force March into the unoccupied Village, if he also deploys at least 1 worker to the intervening Tower.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T033103Z" creationid="aorin" creationdate="20180115T033103Z">
+        <seg>チャールズは、間にある等に少なくとも1体のワーカーを塔に展開した場合、未占領の村に強行軍できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charles could also conduct a Forced March to attack the Village that Jules currently controls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T033157Z" creationid="aorin" creationdate="20180115T033157Z">
+        <seg>もしくは、ジュールが現在制御している村に攻撃するために強行軍を行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charles’ Capital is marked with a “C”.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031241Z" creationid="aorin" creationdate="20180115T031241Z">
@@ -10306,6 +10322,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153509Z" creationid="aorin" creationdate="20171212T153509Z">
         <seg>ヒント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>His opponent, Jules (white), controls the Shrine in between.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T032937Z" creationid="aorin" creationdate="20180115T032937Z">
+        <seg>彼の対戦相手のジュール（白）が、間にある神殿を制御しています。</seg>
       </tuv>
     </tu>
     <tu>
