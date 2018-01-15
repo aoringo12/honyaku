@@ -8610,6 +8610,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Early Age Discoveries tend to cost less and be less powerful than Middle Age and Late Age Discoveries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151833Z" creationid="aorin" creationdate="20180115T151833Z">
+        <seg>初期ディスカバリーは、中期や後期のディスカバリーよりも弱くコストが低い傾向にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Educate</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053452Z" creationid="aorin" creationdate="20171216T053452Z">
@@ -8734,6 +8742,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213837Z" creationid="aorin" creationdate="20180114T213837Z">
         <seg>あなたが制御する村は1ワーカーを雇用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every game of Clockwork Wars has a different set of Discoveries available for research.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151600Z" creationid="aorin" creationdate="20180115T151600Z">
+        <seg>クロックウォーズのゲーム全てで、研究で利用可能なディスカバリーのセットは異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9433,6 +9449,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080029Z" creationid="nakahodo" creationdate="20171230T080029Z">
         <seg>各非アクティブチャーターは、そのチャーターチェストにランダムに1枚入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each of these disciplines, there are 3 different Discoveries corresponding to the 3 Ages of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151713Z" creationid="aorin" creationdate="20180115T151713Z">
+        <seg>3つの分野ごとに、ゲームの3時代に対応した3つの異なるディスカバリーがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18030,6 +18054,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorcery, Science, and Religion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151641Z" creationid="aorin" creationdate="20180115T151641Z">
+        <seg>魔法学、科学、宗教学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -20944,6 +20976,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195555Z" creationid="aorin" creationdate="20180114T195555Z">
         <seg>荒れ地に関連した特別なルールは特にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three different disciplines of research that you can pursue:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T151633Z" creationid="aorin" creationdate="20180115T151633Z">
+        <seg>あなたが購入できる研究は3つの異なる分野に分かれています：</seg>
       </tuv>
     </tu>
     <tu>
