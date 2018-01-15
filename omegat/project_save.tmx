@@ -6415,6 +6415,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charles’ Capital is marked with a “C”.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T031241Z" creationid="aorin" creationdate="20180115T031241Z">
+        <seg>チャールズは”C”でマークされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charter Selection</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T130134Z" creationid="nakahodo" creationdate="20171224T130134Z">
