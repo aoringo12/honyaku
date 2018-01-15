@@ -11041,6 +11041,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Operative is in contested territory with just a single enemy Soldier, you may have the Operative kill the opposing Soldier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T033424Z" creationid="aorin" creationdate="20180115T033358Z">
+        <seg>•	工作員が敵兵士ちょうど1体の紛争地域にいる場合、対戦相手の兵士を殺すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Vagabond crafts an improvement with an item, he may immediately put the crafted item into his exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214045Z" creationid="aorin" creationdate="20171215T214045Z">
@@ -14015,6 +14023,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205208Z" creationid="aorin" creationdate="20171215T205208Z">
         <seg>ヴァガボンドが遺跡を探索してこのトークンを取ると、スロットが空いて、通常どおりに建物を保持できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the first player has finished all her reinforcement orders, she must declare a “pass.” After a player passes, she cannot make any further reinforcement orders that turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064005Z" creationid="aorin" creationdate="20180115T064005Z">
+        <seg>ファーストプレイヤーが増強オーダーの全てを終えると、</seg>
       </tuv>
     </tu>
     <tu>
@@ -25102,6 +25118,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002215Z" creationid="aorin" creationdate="20180115T002215Z">
         <seg>•	ハンターは2タイルいないの任意の戦闘を増強できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w Unique Units are discussed in detail on page 17.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T033416Z" creationid="aorin" creationdate="20180115T033416Z">
+        <seg>•	独自ユニットはページ17で詳細に解説します。</seg>
       </tuv>
     </tu>
     <tu>
