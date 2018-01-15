@@ -9010,6 +9010,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, three Unique Units can be used during the Reinforcement stage:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002142Z" creationid="aorin" creationdate="20180115T002142Z">
+        <seg>最後に、3つの独自ユニットが増強ステージ時に使用できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the leftmost building of that type remaining on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235339Z" creationid="aorin" creationdate="20171215T235339Z">
@@ -23761,6 +23769,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may play certain Espionage cards (like Ambush).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002114Z" creationid="aorin" creationdate="20180115T002054Z">
+        <seg>あなたは、特定の諜報カードをプレイできます（待ち伏せなど）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may play each card to the end of any of the four columns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001835Z" creationid="aorin" creationdate="20171216T001835Z">
@@ -23789,6 +23805,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
         <seg>3アクションまで実行でき、追加で鳥カードを消費するごとに、別のアクションをおこなえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use Discoveries (like the Dirigible) that activate during the Reinforcement stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002041Z" creationid="aorin" creationdate="20180115T002041Z">
+        <seg>あなたは増強ステージ時に発動できるディスカバリーを使用できます（飛行船のような）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24933,6 +24957,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210842Z" creationid="aorin" creationdate="20180114T210842Z">
         <seg>•	研究：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w The Hunter can reinforce any battle within 2 tiles of it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T002215Z" creationid="aorin" creationdate="20180115T002215Z">
+        <seg>•	ハンターは2タイルいないの任意の戦闘を増強できます。</seg>
       </tuv>
     </tu>
     <tu>
