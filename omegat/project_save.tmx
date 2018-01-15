@@ -24752,6 +24752,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>w You may Force March to multiple target territories (using a single intervening territory, or different intervening territories).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T000107Z" creationid="aorin" creationdate="20180115T000107Z">
+        <seg>•	複数の対象地域へと強行軍できます（間の地域1つ、または異なる間の地域を使用して）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>w You must deploy at least one unit to the intervening territory when conducting a Forced March.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000002Z" creationid="aorin" creationdate="20180115T000002Z">
