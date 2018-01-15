@@ -7452,6 +7452,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discovery, which allows him to kill one opposing Soldier in combat during the Reinforcement stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072302Z" creationid="aorin" creationdate="20180115T072302Z">
+        <seg>増強ステージ時に、戦闘にいる対戦相手の兵士1体を殺すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discs for this turn on the action space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143323Z" creationid="nakahodo" creationdate="20171213T143323Z">
@@ -10262,10 +10270,34 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He now has a C3-J2-A2 advantage in Army Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072154Z" creationid="aorin" creationdate="20180115T072154Z">
+        <seg>今はC3ーJ2ーA2で、彼に軍事力で有利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He offers them a gift.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T001341Z" creationid="nakahodo" creationdate="20171230T001341Z">
         <seg>彼にギフトが送られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He passes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072200Z" creationid="aorin" creationdate="20180115T072200Z">
+        <seg>彼はパスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He possesses the Dragonflame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072223Z" creationid="aorin" creationdate="20180115T072223Z">
+        <seg>彼はドラゴンフレイムディスカバリーを所持しており、</seg>
       </tuv>
     </tu>
     <tu>
@@ -12964,6 +12996,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150039Z" creationid="nakahodo" creationdate="20180108T150039Z">
         <seg>Joo Growded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jules’ turn is next.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072209Z" creationid="aorin" creationdate="20180115T072209Z">
+        <seg>次はジュールのターンです。</seg>
       </tuv>
     </tu>
     <tu>
