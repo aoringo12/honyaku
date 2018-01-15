@@ -4261,6 +4261,14 @@ their own Research Lab Ability Tracks!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a player passes, she cannot make any further reinforcement orders that turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064503Z" creationid="aorin" creationdate="20180115T064503Z">
+        <seg>プレイヤーガパスをした後、彼はそのターンにて追加の増強オーダーはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all
 players have contributed
 one bean, they may pull
@@ -14023,6 +14031,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205208Z" creationid="aorin" creationdate="20171215T205208Z">
         <seg>ヴァガボンドが遺跡を探索してこのトークンを取ると、スロットが空いて、通常どおりに建物を保持できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the first player has finished all her reinforcement orders, she must declare a “pass.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T064101Z" creationid="aorin" creationdate="20180115T064101Z">
+        <seg>ファーストプレイヤーが増強オーダーの全てを終えると、そのプレイヤーは「パス」を宣言しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
