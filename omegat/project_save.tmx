@@ -13144,6 +13144,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jules will not only lose this battle (C3 vs. J2) but after it is resolved, all of his controlled territories to the southwest of the Tower (shown circled) will be out-of-supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T125342Z" creationid="aorin" creationdate="20180115T125342Z">
+        <seg>ジュールはこの戦闘（C3 vs J2）で敗北するだけではなく、これが解決された後、等の南西部（円で示される）で彼が制御していた地域が全て供給外となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jules’ turn is next.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072209Z" creationid="aorin" creationdate="20180115T072209Z">
