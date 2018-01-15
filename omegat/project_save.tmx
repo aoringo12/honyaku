@@ -8746,6 +8746,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every territory that Jules (white) controls is shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T124434Z" creationid="aorin" creationdate="20180115T124434Z">
+        <seg>ジュール（白）が制御する全ての地域が示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -19729,6 +19737,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204322Z" creationid="aorin" creationdate="20171215T204322Z">
         <seg>ウッドランドのマップは空き地で構成され、道のネットワークによってつながっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The map section below shows a Combat Phase in progress.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T123638Z" creationid="aorin" creationdate="20180115T123638Z">
+        <seg>下のマップは、進行中の戦闘フェイズを示しています。</seg>
       </tuv>
     </tu>
     <tu>
