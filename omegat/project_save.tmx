@@ -6415,6 +6415,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charles (blue) is again considering his deployment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T032434Z" creationid="aorin" creationdate="20180115T032434Z">
+        <seg>チャールズ（青）は再び自身の展開を考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charles’ Capital is marked with a “C”.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031241Z" creationid="aorin" creationdate="20180115T031241Z">
@@ -8526,6 +8534,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105034Z" creationid="nakahodo" creationdate="20180108T105034Z">
         <seg>たとえ、オートマが公開された指標のオプションを選択する必要があるとしても、人間プレイヤーが効果の選択をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even though he would like to Force March some workers into the uncontrolled Citadel, he cannot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T032536Z" creationid="aorin" creationdate="20180115T032536Z">
+        <seg>彼は未制御の要塞にいくつかのワーカーたちを強行軍させたいが、それはできません。</seg>
       </tuv>
     </tu>
     <tu>
