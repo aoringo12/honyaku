@@ -17428,6 +17428,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seeing a weakness in Jules’ supply chain, Charles (blue) has struck at the Tower adjacent to Jules’ Capital.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T124853Z" creationid="aorin" creationdate="20180115T124853Z">
+        <seg>ジュールの供給線の弱点を見て、チャールズ（青）はジュール首都に隣接する塔を襲撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Automa' s home charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093657Z" creationid="nakahodo" creationdate="20180108T093657Z">
