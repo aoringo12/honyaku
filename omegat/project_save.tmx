@@ -6014,6 +6014,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both Charles and Ada lose their 2 Soldiers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072507Z" creationid="aorin" creationdate="20180115T072507Z">
+        <seg>チャールズとアダは自身の兵士2体を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both tracks score Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172800Z" creationid="aorin" creationdate="20171212T172800Z">
@@ -10178,6 +10186,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He also decides to transfer his Citadel Soldier into the battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072346Z" creationid="aorin" creationdate="20180115T072346Z">
+        <seg>彼はまた、自身の妖精の兵士を戦闘に送る決定もします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -10191,6 +10207,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072107Z" creationid="aorin" creationdate="20180115T072107Z">
         <seg>彼は戦闘を補助するために、隣接する要塞から自身の兵士2体を送ることに決めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He decides to use this Discovery now and remove one of Charles’</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072322Z" creationid="aorin" creationdate="20180115T072322Z">
+        <seg>彼はディスカバリーの使用を決め、チャールズの兵士1体を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12792,6 +12816,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is Ada’s turn, and she does not have any reinforcement orders to give.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072437Z" creationid="aorin" creationdate="20180115T072437Z">
+        <seg>アダのターンですが、特に増強オーダーはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is Turn 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214232Z" creationid="aorin" creationdate="20180114T214232Z">
@@ -12996,6 +13028,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150039Z" creationid="nakahodo" creationdate="20180108T150039Z">
         <seg>Joo Growded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jules is considered the “winner” and both Charles and Ada are “losers.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072559Z" creationid="aorin" creationdate="20180115T072559Z">
+        <seg>ジュールは「勝者」とみなされ、チャールズとアダは「敗者」であるとみなされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13908,6 +13948,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, Jules has the advantage:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072351Z" creationid="aorin" creationdate="20180115T072351Z">
+        <seg>今、ジュールが有利です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, with the aid of gorgeous, multi-use cards, a truly asymmetric design has never been more accessible.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154311Z" creationid="nakahodo" creationdate="20171103T154311Z">
@@ -14247,6 +14295,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030807Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手として、AIの内1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of Jules’ Soldiers remains on the Village and gives him control of the territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072526Z" creationid="aorin" creationdate="20180115T072526Z">
+        <seg>村にはジュールの兵士1体が残り、その地域を彼が制御します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17409,6 +17465,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She passes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072443Z" creationid="aorin" creationdate="20180115T072443Z">
+        <seg>彼女はパスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She pays 2 Gold to forge 1 Golden Ring, as she is not allowed to forge more than one Ring with 1 action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063230Z" creationid="aorin" creationdate="20171213T063230Z">
@@ -17673,6 +17737,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205735Z" creationid="aorin" creationdate="20180114T205735Z">
         <seg>兵士、独自ユニット、将軍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soldiers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072325Z" creationid="aorin" creationdate="20180115T072325Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -19004,6 +19076,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T100723Z" creationid="aorin" creationdate="20171212T100723Z">
         <seg>クイーンにファボられているプレイヤーガまずリソースを取り、ライン上の二番目以降につづいていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Reinforcement stage is over and the battle is resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T072453Z" creationid="aorin" creationdate="20180115T072453Z">
+        <seg>増強ステージが終了し、戦闘が解決されます。</seg>
       </tuv>
     </tu>
     <tu>
