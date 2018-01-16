@@ -11033,6 +11033,14 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player captures a territory that has a Discovery token through combat, she gains control of the Discovery and takes the card from the losing player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041406Z" creationid="aorin" creationdate="20180116T041406Z">
+        <seg>戦闘を通してディスカバリートークンがある土地を拿捕した場合、そのプレイヤーが敗北したプレイヤーから、ディスカバリーの制御を獲得してカードを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player does offer a different kind of Food by mistake, that player immediately receives 5 Penalty Points and puts the offered Food back into their personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123630Z" creationid="aorin" creationdate="20171212T123630Z">
@@ -14198,6 +14206,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235357Z" creationid="aorin" creationdate="20171215T235357Z">
         <seg>建物のコストは、その行の上に記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that when a territory is contested (as at the end of a Deployment Phase), ownership of a Discovery is not affected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041534Z" creationid="aorin" creationdate="20180116T041534Z">
+        <seg>地域が紛争中の時（展開フェイズの終わり）は、ディスカバリーの所有権に変化はないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22095,6 +22111,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093926Z" creationid="nakahodo" creationdate="20170924T093926Z">
         <seg>このシンボルは、国の作物スペースに豆を配置せず、その地域の国トークンを●側に裏返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This transfer of ownership occurs at the end of the Battle stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041426Z" creationid="aorin" creationdate="20180116T041426Z">
+        <seg>この所有権の移行はバトルステージの最後に発生します。</seg>
       </tuv>
     </tu>
     <tu>
