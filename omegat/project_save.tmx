@@ -7524,6 +7524,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discovery Stage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035310Z" creationid="aorin" creationdate="20180116T035310Z">
+        <seg>ディスカバリーステージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discovery, which allows him to kill one opposing Soldier in combat during the Reinforcement stage.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072302Z" creationid="aorin" creationdate="20180115T072302Z">
@@ -9499,6 +9507,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040042Z" creationid="aorin" creationdate="20171213T040042Z">
         <seg>リソースキューブの種類ごとに、個人サプライに残っているリソースが最も多いプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each worker you return to your reserve, you gain 1 IP in any research discipline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035304Z" creationid="aorin" creationdate="20180116T035304Z">
+        <seg>自身のリザーブに戻したワーカーごとに、任意の研究分野の1IPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14382,6 +14398,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064849Z" creationid="aorin" creationdate="20180115T064849Z">
         <seg>全てのプレイヤーが増強オーダーを完了したら、増強ステージが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once all players have finished gathering IPs, they move to the Discovery stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040012Z" creationid="aorin" creationdate="20180116T040012Z">
+        <seg>全てのプレイヤーがIPを集め終えたら、ディスカバリーステージに移行します。</seg>
       </tuv>
     </tu>
     <tu>
