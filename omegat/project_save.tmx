@@ -11067,6 +11067,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player took the Technophilia action during the Spymaster Phase, then she gets to choose the first Discovery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040225Z" creationid="aorin" creationdate="20180116T040225Z">
+        <seg>プレイヤーがスパイマスターアクション時に技術狂いアクションを取っていた場合、彼が最初にディスカバリーを選択して獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all Reward Tiles with a golden number have been distributed (3 tracks, 5 Tiles per track), the end of the game is triggered.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103052Z" creationid="aorin" creationdate="20171212T103052Z">
@@ -14391,6 +14399,14 @@ no other player can choose that same Country.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a player passes, her Discovery stage is over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040355Z" creationid="aorin" creationdate="20180116T040355Z">
+        <seg>プレイヤーがパスをすると、彼のディスカバリーステージは終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a worker is placed onto a map territory, it is called a Soldier.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000544Z" creationid="aorin" creationdate="20180115T000544Z">
@@ -16032,6 +16048,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T070610Z" creationid="aorin" creationdate="20180115T070610Z">
         <seg>その後、時計回りで次プレイヤーへと続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play then progresses in clockwise order from this player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040240Z" creationid="aorin" creationdate="20180116T040240Z">
+        <seg>その後は、このプレイヤーから時計回りに順番で行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19667,6 +19691,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first player may purchase one Discovery/General or “pass” (not purchase anything).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040336Z" creationid="aorin" creationdate="20180116T040336Z">
+        <seg>ファーストプレイヤーはディスカバリーか将軍1つを購入する[または]パスができます（何も購入しない）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first player resolves all his battles first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T065808Z" creationid="aorin" creationdate="20180115T065808Z">
@@ -20057,6 +20089,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064527Z" creationid="aorin" creationdate="20180115T064527Z">
         <seg>ターン順で次のプレイヤーガ増強オーダーを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next player then may purchase or pass.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040411Z" creationid="aorin" creationdate="20180116T040411Z">
+        <seg>その後、次のプレイヤーが購入かパスをします。</seg>
       </tuv>
     </tu>
     <tu>
