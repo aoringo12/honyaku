@@ -7540,6 +7540,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discoveries must be linked to specific territories on the map through the use of Discovery tokens:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041015Z" creationid="aorin" creationdate="20180116T041015Z">
+        <seg>ディスカバリーはディスカバリートークンを使用して、マップの特定地域にリンクする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discovery Stage</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035310Z" creationid="aorin" creationdate="20180116T035310Z">
@@ -8778,6 +8786,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every Discovery provides a unique benefit to the player who owns it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040847Z" creationid="aorin" creationdate="20180116T040847Z">
+        <seg>全てのディスカバリーは、これを持つプレイヤーに独自の効果を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every Village you control allows you to recruit 1 worker.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213837Z" creationid="aorin" creationdate="20180114T213837Z">
@@ -9571,6 +9587,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035000Z" creationid="aorin" creationdate="20180116T035000Z">
         <seg>制御する塔全てから、1魔法学IPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, Alchemy (shown below) is an Early Age discovery that costs 3 Science IPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040739Z" creationid="aorin" creationdate="20180116T040739Z">
+        <seg>例えば、アルケミー（下記）は初期時代ディスカバリーで3科学IPコストです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23352,6 +23376,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When there is a conflict between the rulebook and the text of a Discovery card, the Discovery card takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040947Z" creationid="aorin" creationdate="20180116T040947Z">
+        <seg>ルールブックとディスカバリーカードのテキストで衝突があった場合、ディスカバリーカードが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this occurs, it is considered surfaced immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141512Z" creationid="nakahodo" creationdate="20171127T141512Z">
@@ -24506,6 +24538,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can think of Discoveries as cards that “break” the rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040915Z" creationid="aorin" creationdate="20180116T040915Z">
+        <seg>あなたはディスカバリーを、ルール「破る」カードだと考えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can trade Apples, Honey, Bread or Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041542Z" creationid="aorin" creationdate="20171213T041542Z">
@@ -24910,6 +24950,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053402Z" creationid="aorin" creationdate="20171228T235732Z">
         <seg>あなたにはそんな一日の終わりに飲みながら愚痴をこぼす相手がいないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must discard the required number of IP tokens to purchase the Discovery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040826Z" creationid="aorin" creationdate="20180116T040826Z">
+        <seg>あなたはこのディスカバリーを購入するために、必要な数のIPトークンを破棄する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
