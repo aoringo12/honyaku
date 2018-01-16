@@ -16794,6 +16794,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Religion:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T034645Z" creationid="aorin" creationdate="20180116T034645Z">
+        <seg>宗教学：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that if you run out of influence tokens during the game, you must advance the progress token at the beginning of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155108Z" creationid="nakahodo" creationdate="20171224T155108Z">
@@ -22582,6 +22590,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194403Z" creationid="aorin" creationdate="20180114T194403Z">
         <seg>ワーカーを雇用するために使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Useful in many circumstances!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180115T152140Z" creationid="aorin" creationdate="20180115T152140Z">
+        <seg>多くの状況に役立ちます！</seg>
       </tuv>
     </tu>
     <tu>
