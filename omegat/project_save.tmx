@@ -7938,6 +7938,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During this stage, you can also sacrifice workers in your recruitment pool (those that were not deployed this turn) for additional IPs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035224Z" creationid="aorin" creationdate="20180116T035224Z">
+        <seg>このステージ時、あなたは追加のIPを得るために、雇用プールからワーカーたちを犠牲にすることもできます（このターン展開しなかったものら）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this turn’s Battle stage, in every battle where you are tied for highest Army Strength, you receive a +1 bonus so that you win that battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213715Z" creationid="aorin" creationdate="20180114T213715Z">
@@ -9495,10 +9503,34 @@ track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For every Manufactory that you control, gain 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035016Z" creationid="aorin" creationdate="20180116T035016Z">
+        <seg>制御する工房全てから、1科学IPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every Nemesis faction in the destination clearing, you must exhaust another &lt;boot&gt; in order to move.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075905Z" creationid="aorin" creationdate="20171216T075905Z">
         <seg>移動目的の空き地にいる敵対派閥ごとに、あなたは別の&lt;ブーツ&gt;を消耗させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For every Shrine that you control, gain 1 Religion IP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035029Z" creationid="aorin" creationdate="20180116T035029Z">
+        <seg>制御する神殿全てから、1宗教学IPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For every Tower that you control, gain 1 Sorcery IP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035000Z" creationid="aorin" creationdate="20180116T035000Z">
+        <seg>制御する塔全てから、1魔法学IPを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16023,6 +16055,14 @@ Research (gain abilities).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players can collect their IP tokens simultaneously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035115Z" creationid="aorin" creationdate="20180116T035115Z">
+        <seg>プレイヤーたちは同時にIPトークンを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players can share the reading duties, and we recommend you double-check each other's instructions.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203935Z" creationid="nakahodo" creationdate="20171218T142712Z">
@@ -17468,6 +17508,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Science IP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035017Z" creationid="aorin" creationdate="20180116T035017Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Science discoveries can increase your recruitment, enhance your Army Strength, or provide you with additional means of generating VPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T152114Z" creationid="aorin" creationdate="20180115T152114Z">
@@ -18371,6 +18419,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150655Z" creationid="nakahodo" creationdate="20180108T150655Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Study Stage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T034916Z" creationid="aorin" creationdate="20180116T034916Z">
+        <seg>研究ステージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21013,8 +21069,8 @@ to stop.</seg>
       <tuv lang="EN-US">
         <seg>There are 3 stages to the Research Phase:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180116T034823Z" creationid="aorin" creationdate="20180116T034823Z">
-        <seg>研究フェイズは3つのステージに別れます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T034909Z" creationid="aorin" creationdate="20180116T034823Z">
+        <seg>研究フェイズは3つのステージに別れます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22590,6 +22646,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210621Z" creationid="aorin" creationdate="20171219T095722Z">
         <seg>達成した目標を得点するためには、グランドスタンド（または○効果を持つ建物）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the included IP tokens to represent your stockpile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035103Z" creationid="aorin" creationdate="20180116T035103Z">
+        <seg>IPトークンを使用して、自身のストックをつくります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24434,6 +24498,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You generate Influence Points (IPs) during this stage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T034932Z" creationid="aorin" creationdate="20180116T034932Z">
+        <seg>このステージ時、影響ポイント（IP）が生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have 1 month to make your final impression.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135730Z" creationid="nakahodo" creationdate="20171230T135155Z">
@@ -24806,6 +24878,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073908Z" creationid="aorin" creationdate="20171216T073908Z">
         <seg>あなたは敵対者のままです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should hide your IP tokens behind your screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T035139Z" creationid="aorin" creationdate="20180116T035139Z">
+        <seg>自身のIPトークンは自身のスクリーンの後ろに隠します。</seg>
       </tuv>
     </tu>
     <tu>
