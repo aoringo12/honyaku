@@ -8066,6 +8066,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Discovery card costs a certain number of IPs within a specific discipline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040712Z" creationid="aorin" creationdate="20180116T040712Z">
+        <seg>各ディスカバリーカードのコストは、特定分野の指定数IPとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Pixie receives Food (obligatory!) according to the food icons depicted on the board at the Pixie’s position.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094653Z" creationid="aorin" creationdate="20171212T094653Z">
@@ -14539,6 +14547,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you purchase a Discovery, place the card face-up in front of your screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040638Z" creationid="aorin" creationdate="20180116T040638Z">
+        <seg>あなたがディスカバリーを購入すると、あなたのスクリーン前にカードを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One (1) Advanced Location is selected at random and placed after the Lotto</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030902Z" creationid="aorin" creationdate="20171212T030902Z">
@@ -14674,6 +14690,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040743Z" creationid="aorin" creationdate="20171213T040743Z">
         <seg>手が描かれたスポットのみが、空でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only those Discoveries of the current age and earlier ages are available for purchase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040615Z" creationid="aorin" creationdate="20180116T040615Z">
+        <seg>現在の時代か以前の時代のディスカバリーたちのみが、購入可能となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16040,6 +16064,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233351Z" creationid="aorin" creationdate="20171215T233351Z">
         <seg>マルキスからプレイが始まり、その後、鷲、連合、ヴァガボンドと続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play continues in this fashion until all players have passed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040539Z" creationid="aorin" creationdate="20180116T040539Z">
+        <seg>全てのプレイヤーがパスをするまで、上記を繰り返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24418,6 +24450,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can purchase more than 1 Discovery/General during this stage;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040429Z" creationid="aorin" creationdate="20180116T040429Z">
+        <seg>あなたはこのステージ時に複数のディスカバリーか将軍を購入できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can recognise the levels by the number of food icons depicted.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153559Z" creationid="aorin" creationdate="20171212T153559Z">
@@ -25574,6 +25614,14 @@ with the learn-to-play guide.</seg>
         <seg>幸福な王（●）：
 コンパニオンへの親切（●）：
 反抗的ペルソナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>however, you must wait until every other player has had a chance to purchase something before you can purchase another Discovery/General.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040523Z" creationid="aorin" creationdate="20180116T040523Z">
+        <seg>しかし、他のプレイヤー全てが何れかを購入するチャンスを得るまで、あなたは別のディスカバリーか将軍を購入するのを待たなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
