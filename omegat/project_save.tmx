@@ -3784,6 +3784,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A given territory, including a Capital, can only hold one Discovery token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041208Z" creationid="aorin" creationdate="20180116T041208Z">
+        <seg>首都を含む地域は、ディスカバリートークン1つのみを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074447Z" creationid="aorin" creationdate="20171213T074447Z">
@@ -12038,6 +12046,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not control a legal territory to place a Discovery token, you cannot purchase the Discovery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041320Z" creationid="aorin" creationdate="20180116T041320Z">
+        <seg>ディスカバリートークンを配置するための、自身が制御する適切な地域がない場合、あなたはディスカバリーを購入することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have enough discs in your reserve, you have reached your population limit (30).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214206Z" creationid="aorin" creationdate="20180114T214206Z">
@@ -14518,6 +14534,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205919Z" creationid="aorin" creationdate="20171215T205919Z">
         <seg>作成すると、改良は様々なボーナスを与え、ヴァガボンドが使うためのアイテムをゲームに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once placed, a Discovery token cannot be moved to another territory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041227Z" creationid="aorin" creationdate="20180116T041227Z">
+        <seg>配置されると、ディスカバリーは別の地域に移動することはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18899,6 +18923,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T084450Z">
         <seg>そのプレイヤーは、アーカイブに自身が使用したペルソナカードの1枚（現在のゲーム[または]自身のチャーターチェストから）を入れなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That token must be placed on either your Capital or a research territory that you control that matches the discipline of the Discovery (for example, the Alchemy token must be placed on a Manufactory or your Capital).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041143Z" creationid="aorin" creationdate="20180116T041143Z">
+        <seg>そのトークンはあなたの首都か、ディスカバリーの分野に一致する自身が制御する研究地域のいずれかに配置する必要があります（例えば、アルケミートークンは自身の工房か首都に配置しなければなりません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23444,6 +23476,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221008Z" creationid="aorin" creationdate="20171215T221008Z">
         <seg>あなたが戦闘を開始す時、自身が戦士を所持する空き地1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you purchase a Discovery card, you also take a matching Discovery token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T041031Z" creationid="aorin" creationdate="20180116T041031Z">
+        <seg>ディスカバリーカードを購入した時、一致するディスカバリートークンを獲得します。</seg>
       </tuv>
     </tu>
     <tu>
