@@ -5094,6 +5094,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As during the Reinforcement stage, first choice goes to the player with the first-player token and then rotates clockwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040136Z" creationid="aorin" creationdate="20180116T040136Z">
+        <seg>増強ステージ時にて、ファーストプレイヤートークンを持つプレイヤーが最初にターンを行い、その後、時計回りに続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the party finally winds down, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T171228Z" creationid="nakahodo" creationdate="20171229T171228Z">
@@ -5498,6 +5506,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133831Z" creationid="nakahodo" creationdate="20171230T133831Z">
         <seg>あなたの後ろのドアが閉まる音で、あなたは1人ではないことに気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this point, players take turns purchasing available Discoveries and Generals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180116T040039Z" creationid="aorin" creationdate="20180116T040039Z">
+        <seg>この時点で、プレイヤーたちは利用可能なディスカバリーと将軍を購入できるターンを獲得します。</seg>
       </tuv>
     </tu>
     <tu>
