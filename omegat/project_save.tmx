@@ -5858,6 +5858,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BACKSTORY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T074408Z" creationid="nakahodo" creationdate="20180209T074347Z">
+        <seg>バックストーリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BENEFIT:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175308Z" creationid="nakahodo" creationdate="20171218T175308Z">
@@ -19695,6 +19703,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205130Z" creationid="aorin" creationdate="20180114T205127Z">
         <seg>時代はゲームプレイに2つの影響を持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ashes from the first Great War still darken the snow in 1920s Europa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T090927Z" creationid="nakahodo" creationdate="20180209T090927Z">
+        <seg>The ashes from the first Great War still darken the snow in 1920s Europa.</seg>
       </tuv>
     </tu>
     <tu>
