@@ -7684,6 +7684,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T064330Z" creationid="nakahodo" creationdate="20180209T064330Z">
+        <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of cards, and set them aside.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
