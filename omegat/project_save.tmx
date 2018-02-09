@@ -12536,6 +12536,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Scythe, each player represents a character attempting to make their faction the richest and most powerful in Eastern Europa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092549Z" creationid="nakahodo" creationdate="20180209T092549Z">
+        <seg>In Scythe, each player represents a character attempting to make their faction the richest and most powerful in Eastern Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Turn Order, players place their
 Field Researcher pawns on the
 World Map and collect beans.</seg>
@@ -16275,6 +16283,14 @@ Research (gain abilities).</seg>
 
 
 Players create their own map by placing terrain tiles, beginning with the starting tile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players explore and conquer territory, enlist new recruits, produce resources and workers, build structures, and deploy monstrous mechs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092451Z" creationid="nakahodo" creationdate="20180209T092451Z">
+        <seg>Players explore and conquer territory, enlist new recruits, produce resources and workers, build structures, and deploy monstrous mechs.</seg>
       </tuv>
     </tu>
     <tu>
