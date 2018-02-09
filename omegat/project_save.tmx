@@ -8826,6 +8826,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every 2 resources controlled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T094018Z" creationid="nakahodo" creationdate="20180209T094018Z">
+        <seg>所有している資源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every 400 years, I've stood before 6 hosts in this ve,y room.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T125133Z" creationid="nakahodo" creationdate="20171230T125133Z">
@@ -8886,6 +8894,22 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T234252Z" creationid="aorin" creationdate="20180114T234252Z">
         <seg>全てのタイルと法廷はIDタグ（例：L1）でラベル付けされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every star token placed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093950Z" creationid="nakahodo" creationdate="20180209T093950Z">
+        <seg>ボード上の星トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every territory controlled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T094007Z" creationid="nakahodo" creationdate="20180209T094007Z">
+        <seg>支配している領地</seg>
       </tuv>
     </tu>
     <tu>
@@ -9940,6 +9964,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GOAL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093914Z" creationid="nakahodo" creationdate="20180209T093914Z">
+        <seg>ゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GUIDEPOST:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145346Z" creationid="nakahodo" creationdate="20171218T145346Z">
@@ -10438,6 +10470,22 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have 16 power</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093909Z" creationid="nakahodo" creationdate="20180209T093909Z">
+        <seg>戦力１６を達成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have 18 popularity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093906Z" creationid="nakahodo" creationdate="20180209T093906Z">
+        <seg>民心１８を達成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -17404,6 +17452,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal 1 completed objective card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093850Z" creationid="nakahodo" creationdate="20180209T093850Z">
+        <seg>達成した目的１つを公開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal 3 random objective cards (extra cards form a face-down deck on the mat)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145840Z" creationid="nakahodo" creationdate="20171230T145840Z">
@@ -19779,6 +19835,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amount of coins you earn depends on your level on the Popularity Track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T094024Z" creationid="nakahodo" creationdate="20180209T094024Z">
+        <seg>獲得できる資産の量は民心の値によって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ashes from the first Great War still darken the snow in 1920s Europa.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093338Z" creationid="nakahodo" creationdate="20180209T090927Z">
@@ -20036,6 +20100,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The goal is to have the greatest fortune at the end of the game;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093928Z" creationid="nakahodo" creationdate="20180209T093928Z">
+        <seg>ゲーム終了時に最も多くの資産を持っているプレイヤーが勝者となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The greatest of you will be selected to carry on my legacy based on the enclosed parameters."</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075652Z" creationid="nakahodo" creationdate="20171230T073908Z">
@@ -20072,6 +20144,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025148Z" creationid="nakahodo" creationdate="20171224T123559Z">
         <seg>ガードはいくつかの神秘的な木箱を荷降ろし、「スクリプトリウム（Scriptrium）」がラベルされた物以外、これらを開くことを禁止しました。ゲームボックスにある、スクリプトリウムタックボックスを開きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The higher your popularity, the more coins you will earn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T094031Z" creationid="nakahodo" creationdate="20180209T094031Z">
+        <seg>民心が高ければ、より多くの資産を獲得することができるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24378,6 +24458,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Win combat (up to 2 times)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093901Z" creationid="nakahodo" creationdate="20180209T093901Z">
+        <seg>戦闘に勝利する（最大２回まで）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With characters from five factions converging onto a small but highly desired swath of land, who will gain fame and fortune by establishing their empire as the leader of Eastern Europa?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093409Z" creationid="nakahodo" creationdate="20180209T093409Z">
@@ -24554,10 +24642,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can accumulate coins during the game, but you will earn most of them during end-game scoring in the following three categories:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093944Z" creationid="nakahodo" creationdate="20180209T093930Z">
+        <seg>資産はゲーム中にも獲得できますが、その多くはゲーム終了時の得点計算時に以下の３つから獲得することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add or remove Automas throughout the campaign, but unless a charter is active every game, its final score will not be relevant at the end of the campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090152Z" creationid="nakahodo" creationdate="20180108T090152Z">
         <seg>キャンペーンを通してオートマの増減はできますが、ゲーム全体でチャーターがアクティブでない限り、キャンペーン終了時の最終得点に関われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also get a few bonus coins based on where you built structures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T100257Z" creationid="nakahodo" creationdate="20180209T100257Z">
+        <seg>これ以外にも建設した建造物から多少のボーナス資産を獲得することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25650,6 +25754,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T071330Z" creationid="aorin" creationdate="20180115T071330Z">
         <seg>他プレイヤーにより勝利が宣言された場合、プレイヤーは戦闘に「敗北」します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a typical winning fortune is around $75.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093936Z" creationid="nakahodo" creationdate="20180209T093936Z">
+        <seg>勝者の資産は $75 前後になることが多いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
