@@ -3776,6 +3776,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A game of Scythe typically begins with players building up their infrastructure, exploring the world, then engaging each other in combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093440Z" creationid="nakahodo" creationdate="20180209T093440Z">
+        <seg>ゲームは通常、生産基盤の確立から始まり、続いて周辺を探索し、その後プレイヤー同士の戦闘へと展開していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A given piece is not limited in the number of times it can move during the same turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215559Z" creationid="aorin" creationdate="20171215T215559Z">
@@ -6150,6 +6158,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build all 4 structures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093529Z" creationid="nakahodo" creationdate="20180209T093529Z">
+        <seg>４種の建造物すべてを建設する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Builder</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003302Z" creationid="aorin" creationdate="20171216T003302Z">
@@ -6913,6 +6929,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete all 6 upgrades</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093517Z" creationid="nakahodo" creationdate="20180209T093517Z">
+        <seg>６つの改善すべてを行う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Congratulations for being chosen!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115228Z" creationid="nakahodo" creationdate="20171224T115228Z">
@@ -7373,6 +7397,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173456Z" creationid="aorin" creationdate="20171212T173456Z">
         <seg>妖精の降格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deploy all 4 mechs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093522Z" creationid="nakahodo" creationdate="20180209T093522Z">
+        <seg>４機のメックすべてを配備する</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +8790,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074124Z" creationid="aorin" creationdate="20171216T074124Z">
         <seg>終了側のタスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enlist all 4 recruits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093537Z" creationid="nakahodo" creationdate="20180209T093537Z">
+        <seg>４体の補充兵すべてを徴兵する</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10438,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have all 8 workers on the board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093844Z" creationid="nakahodo" creationdate="20180209T093844Z">
+        <seg>８体のワーカーすべてをボード上に配置する</seg>
       </tuv>
     </tu>
     <tu>
@@ -12538,8 +12586,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>In Scythe, each player represents a character attempting to make their faction the richest and most powerful in Eastern Europa.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092549Z" creationid="nakahodo" creationdate="20180209T092549Z">
-        <seg>In Scythe, each player represents a character attempting to make their faction the richest and most powerful in Eastern Europa.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093421Z" creationid="nakahodo" creationdate="20180209T092549Z">
+        <seg>プレイヤーは、それぞれの勢力を代表するキャラクターとなって、自勢力を東欧で最も豊かで強力な国家にすることを目指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14294,8 +14342,8 @@ they may use Leadership Council to retain it.</seg>
       <tuv lang="EN-US">
         <seg>OBJECT OF THE GAME</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092239Z" creationid="nakahodo" creationdate="20180209T092239Z">
-        <seg>OBJECT OF THE GAME</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092744Z" creationid="nakahodo" creationdate="20180209T092239Z">
+        <seg>ゲームの目的</seg>
       </tuv>
     </tu>
     <tu>
@@ -16289,8 +16337,8 @@ Players create their own map by placing terrain tiles, beginning with the starti
       <tuv lang="EN-US">
         <seg>Players explore and conquer territory, enlist new recruits, produce resources and workers, build structures, and deploy monstrous mechs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092451Z" creationid="nakahodo" creationdate="20180209T092451Z">
-        <seg>Players explore and conquer territory, enlist new recruits, produce resources and workers, build structures, and deploy monstrous mechs.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093431Z" creationid="nakahodo" creationdate="20180209T092451Z">
+        <seg>領地を探索・支配し、徴兵を行い、労働者を雇用し資源を生産し建造物を建設し、強力なメックを配備するのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19733,8 +19781,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The ashes from the first Great War still darken the snow in 1920s Europa.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180209T090927Z" creationid="nakahodo" creationdate="20180209T090927Z">
-        <seg>The ashes from the first Great War still darken the snow in 1920s Europa.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093338Z" creationid="nakahodo" creationdate="20180209T090927Z">
+        <seg>次大戦の灰が未だに雪を薄黒く染める 1920 年代のヨーロッパ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19789,8 +19837,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The capitalistic city-state known simply as “The F actory,” which fueled the war with heavily armored mechs, has closed its doors, drawing the atetntion of several nearby countries.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180209T090930Z" creationid="nakahodo" creationdate="20180209T090930Z">
-        <seg>The capitalistic city-state known simply as “The F actory,” which fueled the war with heavily armored mechs, has closed its doors, drawing the atetntion of several nearby countries.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093348Z" creationid="nakahodo" creationdate="20180209T090930Z">
+        <seg>重装甲の機械兵器 “メック” を供給して戦争の拡大を促していた資本主義都市国家 “ファクトリー” はその門を閉ざし、周辺諸国の注目を集めていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19960,6 +20008,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025227Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>ゲームにはプレイヤーに対して4つの異なるAI対戦相手が用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game progresses as players place stars (achievements) on the board, and it ends when a player places their 6th star on the Triumph Track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093447Z" creationid="nakahodo" creationdate="20180209T093447Z">
+        <seg>プレイヤーは決められた条件を満たすたびに、ボード上に星トークンを置いていきます。いずれかのプレイヤーが勝利トラックに6 つ目の星トークンを置いた時点でゲームは終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24322,6 +24378,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With characters from five factions converging onto a small but highly desired swath of land, who will gain fame and fortune by establishing their empire as the leader of Eastern Europa?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093409Z" creationid="nakahodo" creationdate="20180209T093409Z">
+        <seg>５つの勢力を代表するキャラクター達が、ファクトリーの周囲の小さな領域に集まりつつある。5 人の内の誰が、この要衝を押さえて自国を東欧の覇者の座に導く名誉と功績を手にするのであろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With creatures and cunning, you'll rule a fantastic forest kingdom in the ultimate asymmetric game of adventure and war.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
@@ -24534,6 +24598,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000814Z" creationid="aorin" creationdate="20180101T000814Z">
         <seg>あなたが不死を得るために収穫したいのなら、後にいくらでも機会があるでしょう……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can earn a star for accomplishing any of the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T093450Z" creationid="nakahodo" creationdate="20180209T093450Z">
+        <seg>星トークンを置くための条件は以下の通りです：</seg>
       </tuv>
     </tu>
     <tu>
