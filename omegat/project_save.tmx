@@ -14284,6 +14284,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OBJECT OF THE GAME</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T092239Z" creationid="nakahodo" creationdate="20180209T092239Z">
+        <seg>OBJECT OF THE GAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OBJECTIVE MAT:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145053Z" creationid="nakahodo" creationdate="20171218T145053Z">
@@ -19759,6 +19767,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093931Z" creationid="nakahodo" creationdate="20180108T093931Z">
         <seg>建物はキャンペーン終了価値の値に基づいて（紫円内の数字）選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The capitalistic city-state known simply as “The F actory,” which fueled the war with heavily armored mechs, has closed its doors, drawing the atetntion of several nearby countries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180209T090930Z" creationid="nakahodo" creationdate="20180209T090930Z">
+        <seg>The capitalistic city-state known simply as “The F actory,” which fueled the war with heavily armored mechs, has closed its doors, drawing the atetntion of several nearby countries.</seg>
       </tuv>
     </tu>
     <tu>
