@@ -1708,6 +1708,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1st Action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073048Z" creationid="nakahodo" creationdate="20180311T073034Z">
+        <seg>第1アクション：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205742Z" creationid="nakahodo" creationdate="20171224T122746Z">
@@ -2529,6 +2537,14 @@ Amulet of Time</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202940Z" creationid="aorin" creationdate="20171231T202940Z">
         <seg>299 - Defender of the Realm
 少なくとも6つの危険トークンを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd Action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073044Z" creationid="nakahodo" creationdate="20180311T073044Z">
+        <seg>第2アクション：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3992,6 +4008,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224252Z" creationid="aorin" creationdate="20171215T224244Z">
         <seg>4面ダイスの「4」は「0」と見なし、0-3の結果のみを生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A round consists of four Steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072201Z" creationid="nakahodo" creationdate="20180311T072201Z">
+        <seg>ラウンドは4つのステップで構成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6198,6 +6222,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build the Garden</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072227Z" creationid="nakahodo" creationdate="20180311T072227Z">
+        <seg>ガーデンを造る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Builder</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003302Z" creationid="aorin" creationdate="20171216T003302Z">
@@ -6218,6 +6250,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234523Z" creationid="aorin" creationdate="20171228T234523Z">
         <seg>建物カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building the Garden consists of you and your opponents taking turns in clockwise order until the last Robotanists has been placed onto the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072934Z" creationid="nakahodo" creationdate="20180311T072934Z">
+        <seg>ガーデンを構築するあなたとあなたの対戦相手たちは、ゲームボードに最期のロボタニストが配置されまで、時計回りにターンを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +8854,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112051Z" creationid="aorin" creationdate="20171219T112051Z">
         <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of Round</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072253Z" creationid="nakahodo" creationdate="20180311T072253Z">
+        <seg>ラウンドの終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -15788,6 +15836,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Robotanists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073055Z" creationid="nakahodo" creationdate="20180311T073055Z">
+        <seg>ロボタニスタの配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Hideout and one warrior on any clearing with an empty slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144748Z" creationid="aorin" creationdate="20171215T144744Z">
@@ -16360,6 +16416,22 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152645Z" creationid="aorin" creationdate="20171215T152645Z">
         <seg>プレイエリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play a Program Card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073058Z" creationid="nakahodo" creationdate="20180311T073058Z">
+        <seg>プログラムカードのプレイ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play a Program Card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073040Z" creationid="nakahodo" creationdate="20180311T073040Z">
+        <seg>プログラムカードのプレイ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17042,6 +17114,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queen,s Favor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072248Z" creationid="nakahodo" creationdate="20180311T072248Z">
+        <seg>クイーンの寵愛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quota Track</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095907Z" creationid="aorin" creationdate="20171219T095907Z">
@@ -17246,6 +17326,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001654Z" creationid="aorin" creationdate="20180115T001654Z">
         <seg>ファーストプレイヤーから始まり、増強オーダーを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Lab Robotanists</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072242Z" creationid="nakahodo" creationdate="20180311T072242Z">
+        <seg>ラボにロボタニスト返却する</seg>
       </tuv>
     </tu>
     <tu>
@@ -18850,6 +18938,38 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093917Z" creationid="aorin" creationdate="20171212T093917Z">
         <seg>窃盗フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072215Z" creationid="nakahodo" creationdate="20180311T072215Z">
+        <seg>ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072229Z" creationid="nakahodo" creationdate="20180311T072229Z">
+        <seg>ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072243Z" creationid="nakahodo" creationdate="20180311T072243Z">
+        <seg>ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072248Z" creationid="nakahodo" creationdate="20180311T072248Z">
+        <seg>ステップ4：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21688,6 +21808,22 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151633Z" creationid="aorin" creationdate="20180115T151633Z">
         <seg>あなたが購入できる研究は3つの異なる分野に分かれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three different type of Program Cards:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073245Z" creationid="nakahodo" creationdate="20180311T073245Z">
+        <seg>プログラムカードは3つの異なる種類があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two action you must take on your turn and they must be taken in the following order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073026Z" creationid="nakahodo" creationdate="20180311T073026Z">
+        <seg>あなたのターンに実行する必要のあるアクションには2つあり、これらは次の順番で実行されなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
