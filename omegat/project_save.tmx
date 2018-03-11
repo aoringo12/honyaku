@@ -4460,6 +4460,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After her Program Card is resolved, Marrissa places the x 2 Program Boost back into the Lab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T213826Z" creationid="nakahodo" creationdate="20180311T213826Z">
+        <seg>プログラムカードが解決された後、マリッサはラボに×2プログラムブーストを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
@@ -12306,6 +12314,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150607Z" creationid="aorin" creationdate="20171215T150607Z">
         <seg>コンポーネントを取り除く指示をされたが、その数だけ取り除けない場合、可能な限り取り除くようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are the first player and control the Queen Tile, you may take a special one-time free action called the Queen Action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T214426Z" creationid="nakahodo" creationdate="20180311T214426Z">
+        <seg>あなたがファーストプレイヤーでクイーンタイルを制御している場合、あなたはクイーンアクションと呼ばれる特別な一回のフリーアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20340,6 +20356,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T195759Z" creationid="nakahodo" creationdate="20180311T195759Z">
         <seg>プログラムのセクターダイスは変更前のものを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T213844Z" creationid="nakahodo" creationdate="20180311T213844Z">
+        <seg>クイーンアクション</seg>
       </tuv>
     </tu>
     <tu>
