@@ -20368,6 +20368,22 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Queen Action does not count as one of the two actions you are required to take and may be taken at any time during one of your turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T214552Z" creationid="nakahodo" creationdate="20180311T214552Z">
+        <seg>The Queen Action does not count as one of the two actions you are required to take and may be taken at any time during one of your turns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen Action may be taken to Place one Gem of any color into any Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T214541Z" creationid="nakahodo" creationdate="20180311T214541Z">
+        <seg>クイーンアクションを実行すると、任意のガーデンセクターに任意の色の宝石を1つ配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Queen doesn't remember exactly what the garden looked like, but she'll know it when she sees it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065333Z" creationid="nakahodo" creationdate="20180311T065333Z">
