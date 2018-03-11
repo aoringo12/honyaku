@@ -5438,6 +5438,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of a set number of rounds, the player who has earned the most Favor Cogs from the Queen, wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070309Z" creationid="nakahodo" creationdate="20180311T070309Z">
+        <seg>設定された数のラウンドの終わりに、クイーンから最も寵愛の歯車を得たプレイヤーが勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each age, a Scoring Phase takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205334Z" creationid="aorin" creationdate="20180114T205334Z">
@@ -14598,6 +14606,14 @@ have the chance to choose Place or Pass again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On your turn, you will play a Program Card to manipulate Gems or Sector Dice in the garden, and then place a Robotanists onto the board to earn Favor Cogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T065930Z" creationid="nakahodo" creationdate="20180311T065930Z">
+        <seg>あなたのターンでは、ガーデンのセクターダイスや宝石を操作するためにプログラムカードをプレイし、その後、寵愛の歯車を得るためにボードへとロボタニストたちを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On your turn, you will take actions using a growing set of instructions called the Decree​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001027Z" creationid="aorin" creationdate="20171216T001027Z">
@@ -15970,6 +15986,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T172217Z" creationid="nakahodo" creationdate="20171229T172217Z">
         <seg>余分なものをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the game board in the center of the table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070315Z" creationid="nakahodo" creationdate="20180311T070315Z">
+        <seg>Place the game board in the center of the table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17636,6 +17660,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Robotanists can be tricky, so watch out for deceptive plans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070055Z" creationid="nakahodo" creationdate="20180311T070055Z">
+        <seg>ロボタニストたちは油断ならないので、欺瞞の計画に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rocks are placed next to opposing Pixies in the mines on the provided spaces, chaining these Pixies into place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074317Z" creationid="aorin" creationdate="20171213T074317Z">
@@ -17800,6 +17832,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014312Z" creationid="aorin" creationdate="20171229T014312Z">
         <seg>選択：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SETOP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070313Z" creationid="nakahodo" creationdate="20180311T070313Z">
+        <seg>セットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19660,6 +19700,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
         <seg>マルキス・デ・キャットのキープは全ての民が住んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Last Garden is a worker placement and betting game for 2-4 players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T065621Z" creationid="nakahodo" creationdate="20180311T065621Z">
+        <seg>ラストガーデンは2～4人で行うワーカープレイスメントとビッティングのゲームです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25526,6 +25574,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203714Z" creationid="nakahodo" creationdate="20171218T141203Z">
         <seg>あなたはこのゲームの一部にしか触れない状態から始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will take control of a group of Robotanists and try to outwit your opponents in constructing the Queen's garden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T065720Z" creationid="nakahodo" creationdate="20180311T065720Z">
+        <seg>あなたはロボタニストたちのグループを制御し、クイーンのガーデンを構築するために対戦相手を出し抜きましょう。</seg>
       </tuv>
     </tu>
     <tu>
