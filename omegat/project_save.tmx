@@ -14821,6 +14821,14 @@ bean spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One woman is all that remain of the human race and she is known only by her title:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T063814Z" creationid="nakahodo" creationdate="20180311T063814Z">
+        <seg>全人類はもう1人の女性だけであり、彼女は、その敬称だけが知られています。つまり、「クイーン」とだけが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only Plans the AI can currently
 afford are taken into consideration.</seg>
       </tuv>
@@ -15130,6 +15138,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001124Z" creationid="aorin" creationdate="20171216T001124Z">
         <seg>ゲームが進むに連れて、法令にカードが追加されていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T062601Z" creationid="nakahodo" creationdate="20180311T062601Z">
+        <seg>概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -21215,6 +21231,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The world as we know it has ended.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T062631Z" creationid="nakahodo" creationdate="20180311T062631Z">
+        <seg>私達が知っている世界は終わりを迎えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their position will only be altered at the start of the next stealing phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123434Z" creationid="nakahodo" creationdate="20171213T123434Z">
@@ -26222,6 +26246,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043542Z" creationid="aorin" creationdate="20171213T043542Z">
         <seg>食料タイル[または]一回使用タイルの余分なスペースを得ることができる永続能力タイル）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T063016Z" creationid="nakahodo" creationdate="20180311T063016Z">
+        <seg>the Queen.</seg>
       </tuv>
     </tu>
     <tu>
