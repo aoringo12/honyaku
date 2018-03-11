@@ -11867,6 +11867,14 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no Gems in the Garden Sector you are removing from, you may still play the card but nothing happens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074340Z" creationid="nakahodo" creationdate="20180311T074340Z">
+        <seg>あなたが取り除こうとするガーデンセクターに1つも宝石がない場合、あなたはまだカードをプレイすることはできますが、何も起こりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are no beans of that type in the Fields,
 players cannot use this ability.</seg>
       </tuv>
@@ -14233,6 +14241,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Program Cards allow you to remove one Gem from a Garden Sector and place it in any Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074133Z" creationid="nakahodo" creationdate="20180311T074133Z">
+        <seg>移動プログラムカードは、ガーデンsクターから1つ宝石を取り、任意のガーデンセクターに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move all of your exhausted items to your available items.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075530Z" creationid="aorin" creationdate="20171216T075530Z">
@@ -15729,6 +15745,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T073314Z" creationid="nakahodo" creationdate="20180311T073314Z">
+        <seg>配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 Automa Worker</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151704Z" creationid="nakahodo" creationdate="20171230T151704Z">
@@ -15832,6 +15856,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T102926Z" creationid="nakahodo" creationdate="20171001T102926Z">
         <seg>フィールド研究者を配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Program Cards allow you to choose one Gem of any color from the unused Gems and place in in a Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074059Z" creationid="nakahodo" creationdate="20180311T074059Z">
+        <seg>配置プログラムカードは、未使用な宝石から任意の色の宝石を1つ選択し、ガーデンセクターに配置できます。</seg>
       </tuv>
     </tu>
     <tu>
