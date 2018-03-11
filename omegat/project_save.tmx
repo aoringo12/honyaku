@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See chart)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071508Z" creationid="nakahodo" creationdate="20180311T071508Z">
+        <seg>（チャート参照）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -8327,8 +8335,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player chooses a color and grabs a number of Robotanists of that color depending on the number of players.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071130Z" creationid="nakahodo" creationdate="20180311T071130Z">
-        <seg>各プレイヤーは色を選択し、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071459Z" creationid="nakahodo" creationdate="20180311T071130Z">
+        <seg>各プレイヤーは色を選択し、プレイヤーの人数に示された数の、その色のロボタニストを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8353,6 +8361,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132743Z" creationid="aorin" creationdate="20171215T132743Z">
         <seg>各プレイヤー、3枚ドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player draws a number of Program Cards depending on the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071610Z" creationid="nakahodo" creationdate="20180311T071610Z">
+        <seg>各プレイヤーは、プレイヤーの人数に応じてプログラムカードの枚数をドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17074,6 +17090,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Randomly determine the starting player, that player receives the Queen Tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071652Z" creationid="nakahodo" creationdate="20180311T071652Z">
+        <seg>開始プレイヤーをランダムに決定し、そのプレイヤーはクイーンタイルを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read this and affix it to the Chronicle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T005057Z" creationid="aorin" creationdate="20171229T003249Z">
@@ -17832,6 +17856,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131003Z" creationid="nakahodo" creationdate="20171213T131003Z">
         <seg>2プレイヤーゲームのルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rules of play:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071657Z" creationid="nakahodo" creationdate="20180311T071657Z">
+        <seg>プレイルール：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20409,6 +20441,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123336Z" creationid="nakahodo" creationdate="20171213T123336Z">
         <seg>大きなキューブはまだその場に残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The last Garden is played over a number of rounds depending on the number of players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T072151Z" creationid="nakahodo" creationdate="20180311T072151Z">
+        <seg>ラストガーデンはプレイヤー人数に応じるラウンド数がプレイされます。</seg>
       </tuv>
     </tu>
     <tu>
