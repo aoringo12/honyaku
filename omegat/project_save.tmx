@@ -4556,6 +4556,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After using a Program Boost, return it to any empty spot in the Lab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T200731Z" creationid="nakahodo" creationdate="20180311T200731Z">
+        <seg>プログラムブーストを使用した、ラボの空スロットにそれが戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After using a building with a clay cost, gain 1 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202150Z" creationid="aorin" creationdate="20171231T202150Z">
@@ -16993,6 +17001,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playing a Program Boost:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T195805Z" creationid="nakahodo" creationdate="20180311T195805Z">
+        <seg>プログラムブーストの使用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Playing a Program Card</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074539Z" creationid="nakahodo" creationdate="20180311T074505Z">
@@ -20304,6 +20320,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Program Card's Sector Die remains unchanged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T195759Z" creationid="nakahodo" creationdate="20180311T195759Z">
+        <seg>プログラムのセクターダイスは変更前のものを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Queen doesn't remember exactly what the garden looked like, but she'll know it when she sees it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065333Z" creationid="nakahodo" creationdate="20180311T065333Z">
@@ -23195,6 +23219,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To play a Program Boost, declare you are using your Program Boost when playing a Program Card, then add the effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T195944Z" creationid="nakahodo" creationdate="20180311T195944Z">
+        <seg>プログラムブーストをプレイするには、プログラムカードをプレイする時にプログラムブーストの使用を宣言し、その後、追加効果を適応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To play a Program Card, its Program Die must match a Sector Die in a Garden Sector.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074634Z" creationid="nakahodo" creationdate="20180311T074634Z">
@@ -24304,6 +24336,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T184053Z" creationid="nakahodo" creationdate="20180311T184053Z">
         <seg>配置プログラムカードをプレイする時、このプログラムブーストを使用して、そのセクターダイスに一致するガーデンセクター全てに任意の色の宝石1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing a Program Card, use this Program Boost to change the Program Card to any other Program Card instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T195738Z" creationid="nakahodo" creationdate="20180311T195738Z">
+        <seg>プログラムカードをプレイする時、このプログラムブーストを使用して、任意の別のプログラムカードに変更することができます。</seg>
       </tuv>
     </tu>
     <tu>
