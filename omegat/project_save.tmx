@@ -25962,6 +25962,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may only have one Program Boost at a time, and it may be held from round to round until you use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T201349Z" creationid="nakahodo" creationdate="20180311T201349Z">
+        <seg>あなたはプログラムブーストを一度に1枚のみ持つことができ、それを使用するまで、ラウンドをまたいで保持するできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may only use buildings in other charters if you first place 1 of your influence tokens on their charter emblem.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T174614Z" creationid="nakahodo" creationdate="20171229T174419Z">
