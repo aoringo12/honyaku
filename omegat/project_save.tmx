@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080312Z" creationid="nakahodo" creationdate="20180311T080312Z">
+        <seg>（ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See chart)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T071508Z" creationid="nakahodo" creationdate="20180311T071508Z">
@@ -1695,6 +1703,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T041932Z" creationid="nakahodo" creationdate="20171224T204042Z">
         <seg>19 - Capacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1:1, 1:2, and 6+ = 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080553Z" creationid="nakahodo" creationdate="20180311T080537Z">
+        <seg>1：1、1：2、6＋＝3</seg>
       </tuv>
     </tu>
     <tu>
@@ -8242,6 +8258,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Row has Sector Die numbered 1 through 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080647Z" creationid="nakahodo" creationdate="20180311T080647Z">
+        <seg>各行は出目1から6のセクターダイスがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Starter Slate
 has a column of 5
 beans of specific
@@ -8982,6 +9006,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040847Z" creationid="aorin" creationdate="20180116T040847Z">
         <seg>全てのディスカバリーは、これを持つプレイヤーに独自の効果を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Sector Die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T115347Z" creationid="nakahodo" creationdate="20180311T115347Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -15062,6 +15094,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one Robotanist may occupy a Garden Sector at one time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080305Z" creationid="nakahodo" creationdate="20180311T080305Z">
+        <seg>ロボタニスト1体のみが、1つのガーデンセクターを一度に占領できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only promoted Pixies that are currently on a double action space somewhere on the game board, can be demoted.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125200Z" creationid="aorin" creationdate="20171212T125200Z">
@@ -16444,6 +16484,22 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080229Z" creationid="nakahodo" creationdate="20180311T080229Z">
         <seg>ガーデンセクターにロボタニストを配置すると、クイーンの寵愛ステップに寵愛の歯車を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing Robotanists on any unoccupied space in the Mines will earn you Favor Cogs in The Queen's Favor step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080442Z" creationid="nakahodo" creationdate="20180311T080442Z">
+        <seg>炭鉱の任意の未占領のスペースにロボタニストを配置し、クイーンの寵愛ステップにクイーンの寵愛を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing a Robotanist on an unoccupied space with a Sector Die give you Control of that Sector Die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T081137Z" creationid="nakahodo" creationdate="20180311T081137Z">
+        <seg>セクターダイス1つの空いているスペースにロボタニストを配置すると、そのセクターダイスを制御できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18240,6 +18296,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042144Z" creationid="nakahodo" creationdate="20171224T205347Z">
         <seg>ルール7の異なる7種類を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080445Z" creationid="nakahodo" creationdate="20180311T080445Z">
+        <seg>（ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20120,6 +20184,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Mines</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080327Z" creationid="nakahodo" creationdate="20180311T080327Z">
+        <seg>炭鉱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mint Supply is not limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071430Z" creationid="nakahodo" creationdate="20171209T071430Z">
@@ -20180,6 +20252,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074709Z" creationid="aorin" creationdate="20171213T074709Z">
         <seg>クイーンはパンをもらうごとに、岩を取り除いてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen's Favor for scoring.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080322Z" creationid="nakahodo" creationdate="20180311T080322Z">
+        <seg>クイーンの寵愛得点を参照）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20276,6 +20356,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T045821Z" creationid="aorin" creationdate="20171216T045821Z">
         <seg>ウッドランド連合はいくつかの策略を公開する、幾つかの改良をクラフする、対戦相手が所有する建物を取り除くことにより勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Workshop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080451Z" creationid="nakahodo" creationdate="20180311T080451Z">
+        <seg>ワークショップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21988,10 +22076,26 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are three different rows of spaces within the Workshop:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080539Z" creationid="nakahodo" creationdate="20180311T080535Z">
+        <seg>ワークショップ内には異なる3つの行からなるスペースらがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are three different type of Program Cards:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073245Z" creationid="nakahodo" creationdate="20180311T073245Z">
         <seg>プログラムカードは3つの異なる種類があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three spaces in the Mines, each representing a different color of Gem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080357Z" creationid="nakahodo" creationdate="20180311T080357Z">
+        <seg>炭鉱には3つのスペースがあり、それぞれ異なる色の宝石を表しています。</seg>
       </tuv>
     </tu>
     <tu>
