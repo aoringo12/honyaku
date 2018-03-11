@@ -9010,6 +9010,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every Sector Die you Control that matches a Sector Die in the Garden could earn you Favor Cogs in The Queen's Favor step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180033Z" creationid="nakahodo" creationdate="20180311T180033Z">
+        <seg>ガーデンのセクターダイスに一致する、あなたが制御する全てのセクターダイスによって、クイーンの寵愛ステップで寵愛の歯車を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every Sector Die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T115347Z" creationid="nakahodo" creationdate="20180311T115347Z">
