@@ -3856,6 +3856,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number 1 Sector Die can spin to a number 6 Sector Die and vice versa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074458Z" creationid="nakahodo" creationdate="20180311T074458Z">
+        <seg>出目1のセクターダイスは、出目6のセクターダイスにスピンでき、また逆もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A piece is local if it is located in the same clearing as any of your pieces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152511Z" creationid="aorin" creationdate="20171215T152511Z">
@@ -8218,6 +8226,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Program Card has a die icon numbered 1 through 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074603Z" creationid="nakahodo" creationdate="20180311T074534Z">
+        <seg>各プログラムカードは出目1から6までのダイスアイコンを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Starter Slate
 has a column of 5
 beans of specific
@@ -9030,6 +9046,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143423Z" creationid="nakahodo" creationdate="20171213T143423Z">
         <seg>全員がシルバー、ゴールド、または適切な種類の食料を提供する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ex.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074639Z" creationid="nakahodo" creationdate="20180311T074634Z">
+        <seg>例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12624,6 +12648,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your Program Card's Program Die does not match any Sector Dice, the Program Die becomes wild and may represent any number.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075119Z" creationid="nakahodo" creationdate="20180311T075119Z">
+        <seg>あなたのプログラムカードのプログラムダイスがセクターダイスのどれにも一致しない場合、プログラムダイスはワイルドになり、任意の数字にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your building is removed, return it to the rightmost empty space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
@@ -14109,6 +14141,22 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133532Z" creationid="aorin" creationdate="20171215T133402Z">
         <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa plays a Place Program Card with a Program Die of 1 but there are no Sector Dice that match.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075139Z" creationid="nakahodo" creationdate="20180311T075139Z">
+        <seg>マリッサはプログラムダイス1の配置プログラムカードをプレイしますが、一致するセクターダイスがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa plays a Place Program Card with a Program Die of 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074810Z" creationid="nakahodo" creationdate="20180311T074634Z">
+        <seg>マリッサは出目1の配置プログラムダイスのプログラムカードをプレイします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16801,6 +16849,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playing a Program Card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074539Z" creationid="nakahodo" creationdate="20180311T074505Z">
+        <seg>プログラムカードをプレイする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plumbing Problem</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145556Z" creationid="nakahodo" creationdate="20180108T145556Z">
@@ -18337,6 +18393,22 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She may now place a Gem in any Garden Sector instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075222Z" creationid="nakahodo" creationdate="20180311T075222Z">
+        <seg>このプログラムダイスはワイルドになるので、任意のガーデンセクターに宝石を1つ配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She may only place a Gem in a Garden Sector, in its Sector Die is also a 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074953Z" creationid="nakahodo" creationdate="20180311T074754Z">
+        <seg>彼女はセクターダイスが1のガーデンセクターに宝石を1つ配置することのみができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She passes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072443Z" creationid="aorin" creationdate="20180115T072443Z">
@@ -18874,6 +18946,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054846Z" creationid="aorin" creationdate="20171216T054846Z">
         <seg>サポーター2体を消費して、一致する民の空き地に隠れ家を建築し、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074345Z" creationid="nakahodo" creationdate="20180311T074345Z">
+        <seg>スピン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spin Program Cards allow you to spin a Sector Die up one number or down one number.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074433Z" creationid="nakahodo" creationdate="20180311T074433Z">
+        <seg>スピンプログラムカードは、セクターダイス1つの出目の数字を1つ、上げるか下げることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22409,6 +22497,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This die icon is called the Program Die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074614Z" creationid="nakahodo" creationdate="20180311T074614Z">
+        <seg>このダイスアイコンはプログラムダイスを呼ばれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This doesn’t mean that this action becomes available again.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
@@ -22847,6 +22943,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T180413Z" creationid="aorin" creationdate="20171228T180413Z">
         <seg>トレジャーカードをプレイするには、発展デッキの横にこれを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To play a Program Card, its Program Die must match a Sector Die in a Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T074634Z" creationid="nakahodo" creationdate="20180311T074634Z">
+        <seg>プログラムカードをプレイするには、このプログラムダイスがガーデンセクターのセクターダイスに一致している必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24838,6 +24942,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T010520Z" creationid="aorin" creationdate="20171229T010520Z">
         <seg>なぜ彼はあなたの小さな村に気を使うのでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wild Program Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075001Z" creationid="nakahodo" creationdate="20180311T075001Z">
+        <seg>ワイルドプログラムカード</seg>
       </tuv>
     </tu>
     <tu>
