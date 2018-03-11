@@ -4386,6 +4386,14 @@ Blend Slate is full.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all Robotanists have been released from the Lab, proceed to Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232022Z" creationid="nakahodo" creationdate="20180311T232022Z">
+        <seg>全てのロボタニストがラボから戻された後、ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all promotion steps have been performed, the Pixie that reached the Loyal Servant spot is moved to the Loyal Servant Reward Tile fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163717Z" creationid="aorin" creationdate="20171212T163717Z">
@@ -8052,6 +8060,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
         <seg>消耗ステージ時、任意の自身の制御している地域が、自身の現在制御している首都や都市から、制御している地域続きで接続されているかどうかを確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Release Lab Robotanists step, Marrissa decides to place her Robotanist in an unoccupied Garden Sector, then Jordan decides to place his in an unoccupied space in the Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231641Z" creationid="nakahodo" creationdate="20180311T231641Z">
+        <seg>ラボにロボタニスト返却ステップ時に、マリッサは未占領のガーデンセクター1つに自身のロボタニストを配置することに決め、その後、ジョーダンはワークショップの未占領スペース1つにに配置すると決めました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13258,6 +13274,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152328Z" creationid="nakahodo" creationdate="20171103T152245Z">
         <seg>この尽力の中で、同盟はウッドランドのより危険な道を進むことのできる、ヴァガボンドの助けを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this step, you will earn Favor Cogs depending on the placement of your Robotanists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232111Z" creationid="nakahodo" creationdate="20180311T232111Z">
+        <seg>このステップにて、あなたは自身のロボタニストたちの場所に応じて寵愛の歯車を得ることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19350,6 +19374,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 3 :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232033Z" creationid="nakahodo" creationdate="20180311T232033Z">
+        <seg>ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072243Z" creationid="nakahodo" creationdate="20180311T072243Z">
@@ -20472,6 +20504,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Queen's Favor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232039Z" creationid="nakahodo" creationdate="20180311T232039Z">
+        <seg>クイーンの寵愛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Queen's Favor for coring.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T180104Z" creationid="nakahodo" creationdate="20180311T180104Z">
@@ -20484,6 +20524,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080322Z" creationid="nakahodo" creationdate="20180311T080322Z">
         <seg>クイーンの寵愛得点を参照）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen's Favor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232032Z" creationid="nakahodo" creationdate="20180311T232032Z">
+        <seg>クイーンの寵愛フェイズに進行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22255,6 +22303,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032033Z" creationid="aorin" creationdate="20171213T032033Z">
         <seg>妖精を降格させない方法はいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are five different scoring options, and all scoring must happen in the following order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232504Z" creationid="nakahodo" creationdate="20180311T232504Z">
+        <seg>これらは5つの異なる得点オプションがあり、全ての得点が次の順序で行う必要があります：</seg>
       </tuv>
     </tu>
     <tu>
