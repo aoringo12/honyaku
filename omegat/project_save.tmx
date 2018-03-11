@@ -5118,6 +5118,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As her final decree, the Queen aims to recreate the beautiful and lush garden from her youth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T064214Z" creationid="nakahodo" creationdate="20180311T064214Z">
+        <seg>彼女の最後の法令として、クイーンが若い頃から緑豊かで美しいガーデンの再生を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the party finally winds down, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T171228Z" creationid="nakahodo" creationdate="20171229T171228Z">
@@ -12820,6 +12828,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In her travels, the Queen has accumulated a collection of out-of-commission robots she has reprogrammed and named Robotanists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T064453Z" creationid="nakahodo" creationdate="20180311T064453Z">
+        <seg>彼女は旅の中、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In his Recruitment Phase, he added 4 workers to his recruitment pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031307Z" creationid="aorin" creationdate="20180115T031307Z">
@@ -14823,8 +14839,8 @@ bean spaces.</seg>
       <tuv lang="EN-US">
         <seg>One woman is all that remain of the human race and she is known only by her title:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180311T063814Z" creationid="nakahodo" creationdate="20180311T063814Z">
-        <seg>全人類はもう1人の女性だけであり、彼女は、その敬称だけが知られています。つまり、「クイーン」とだけが。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T063828Z" creationid="nakahodo" creationdate="20180311T063814Z">
+        <seg>全人類はもう1人の女性だけであり、彼女は、その敬称だけが知られています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22834,6 +22850,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, there is very little water left in the world so the Queen implement a new plan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T064328Z" creationid="nakahodo" creationdate="20180311T064328Z">
+        <seg>残念ながら、クイーンの新しい計画のためには、世界に残った水はあまりにも少ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Units deployed on to the map may not be moved during the deployment phase, although special actions such as the Spymaster action, Gambit, or reinforcement from a citadel may allow a unit to move.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000836Z" creationid="aorin" creationdate="20180115T000836Z">
@@ -26252,8 +26276,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>the Queen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180311T063016Z" creationid="nakahodo" creationdate="20180311T063016Z">
-        <seg>the Queen.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T064332Z" creationid="nakahodo" creationdate="20180311T063016Z">
+        <seg>つまり、「クイーン」とだけ。</seg>
       </tuv>
     </tu>
     <tu>
