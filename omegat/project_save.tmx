@@ -4588,6 +4588,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you ha e resolved your Program Card, place it in a deSignated discard pile next to the Program Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075341Z" creationid="nakahodo" creationdate="20180311T075341Z">
+        <seg>あなたのプログラムカードを解決した後、そのカードをプログラムデッキの横の捨て札山に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you peel the sticker off a building card to construct it, you're left with a new type of card:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205535Z" creationid="nakahodo" creationdate="20171218T154330Z">
@@ -15932,6 +15940,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Robotanist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075911Z" creationid="nakahodo" creationdate="20180311T075911Z">
+        <seg>ロボタニスタの配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Roost and six warriors on the Eyrie Homeland (the red fox clearing in the bottom-right corner of the map).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134431Z" creationid="aorin" creationdate="20171215T134431Z">
@@ -16420,6 +16436,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133122Z" creationid="aorin" creationdate="20171215T133122Z">
         <seg>遺跡の配置：ヴァガボンドがゲームにいる場合、遺跡トークンをシャッフルして、マップの赤い枠のスロットごとに、1つずつアイテム側を下にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placing Robotanists in a Garden Sector could earn you Favor Cogs in the Queen's Favor step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080229Z" creationid="nakahodo" creationdate="20180311T080229Z">
+        <seg>ガーデンセクターにロボタニストを配置すると、クイーンの寵愛ステップに寵愛の歯車を得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16998,6 +17022,14 @@ Roasters.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080040Z" creationid="nakahodo" creationdate="20171209T080040Z">
         <seg>
 Producer, Wholesaler, Builder, Supplier, Leadership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Boosts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075420Z" creationid="nakahodo" creationdate="20180311T075420Z">
+        <seg>プログラムブースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -20008,6 +20040,22 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Garden</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080042Z" creationid="nakahodo" creationdate="20180311T080042Z">
+        <seg>ガーデン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Garden is made up of six Garden Sectors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080109Z" creationid="nakahodo" creationdate="20180311T080109Z">
+        <seg>ガーデンは6つのガーデンセクターから成り立っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
@@ -21904,6 +21952,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121736Z" creationid="nakahodo" creationdate="20171001T121736Z">
         <seg>各ブレンドスレートには5つの豆スペースがあり、これらが各プレイヤーのロースターからランダムに惹かれて満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are four different locations to place your Robotanists:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T080039Z" creationid="nakahodo" creationdate="20180311T080039Z">
+        <seg>あなたのロボタニストを配置するために4つの異なる場所があります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24028,6 +24084,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When playing a Program Card, you may use a Program Boost to add additional effects.(See the Lab for Program Boosts.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075906Z" creationid="nakahodo" creationdate="20180311T075906Z">
+        <seg>プログラムカードをプレイする時、あなたは追加効果を得るためにプログラムブーストを使用できます（プログラムブーストのためのラボを参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When playing against any number of Automas, human players choose 1 additional starting benefit:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154344Z" creationid="nakahodo" creationdate="20171230T154344Z">
@@ -25590,6 +25654,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213018Z" creationid="aorin" creationdate="20180114T213018Z">
         <seg>直ちに、マップのユニット2体を、自身が制御するそれぞれ異なる地形へと移動させることができます（法廷は含まれません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may never look thrOugh the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T075415Z" creationid="nakahodo" creationdate="20180311T075415Z">
+        <seg>捨て札山の中身を見ることはできません。</seg>
       </tuv>
     </tu>
     <tu>
