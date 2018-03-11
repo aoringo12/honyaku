@@ -3515,6 +3515,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070948Z" creationid="nakahodo" creationdate="20180311T070948Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -8317,6 +8325,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player chooses a color and grabs a number of Robotanists of that color depending on the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T071130Z" creationid="nakahodo" creationdate="20180311T071130Z">
+        <seg>各プレイヤーは色を選択し、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player chootes 1 persona to keep (choo沢 on behalf of inactive charters).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T172202Z" creationid="nakahodo" creationdate="20171229T172023Z">
@@ -10446,6 +10462,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T090949Z" creationid="nakahodo" creationdate="20171230T090635Z">
         <seg>冷たいカップでコップをつかみ、セレモニーを始めましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grab six Gems (two of each color) and randomly place one Gem in each Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070815Z" creationid="nakahodo" creationdate="20180311T070815Z">
+        <seg>宝石6つを取り（各色2つずつ）、各ガーデンセクターに宝石をランダムに1つずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15772,6 +15796,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Sector Die in each Garden Sector, matching its starting value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070648Z" creationid="nakahodo" creationdate="20180311T070524Z">
+        <seg>各ガーデンセクターにセクターダイスを、その開始値に一致するように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a random minion on each highlighted plot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224359Z" creationid="aorin" creationdate="20171231T224359Z">
@@ -15992,8 +16024,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the game board in the center of the table.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070315Z" creationid="nakahodo" creationdate="20180311T070315Z">
-        <seg>Place the game board in the center of the table.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070330Z" creationid="nakahodo" creationdate="20180311T070315Z">
+        <seg>ゲームボードをテーブルの中央に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16036,6 +16068,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093349Z" creationid="aorin" creationdate="20171212T021848Z">
         <seg>ターン順番を決定するために、小さなキューブトラックに小さなキューブをランダムに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the three Program Boosts face-up in the Lab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070723Z" creationid="nakahodo" creationdate="20180311T070723Z">
+        <seg>ラボにプログラムブースト3つを表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18055,6 +18095,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the remaining Gems and the Favor Cogs next to the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070841Z" creationid="nakahodo" creationdate="20180311T070841Z">
+        <seg>残った宝石と寵愛の歯車らをゲームボードの横に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set this card aside and refer to it the first time a player unlocks a crate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T144622Z" creationid="nakahodo" creationdate="20171224T144622Z">
@@ -18233,6 +18281,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193847Z" creationid="aorin" creationdate="20180114T193847Z">
         <seg>諜報カードをシャッフルし、各プレイヤーに1枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Program Cards, creating a Program Deck, and place it next to the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T070952Z" creationid="nakahodo" creationdate="20180311T070947Z">
+        <seg>プログラムカードをシャッフルしてプログラムデッキを作り、ゲームボードの横にこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
