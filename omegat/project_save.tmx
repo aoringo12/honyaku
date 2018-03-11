@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180035Z" creationid="nakahodo" creationdate="20180311T180035Z">
+        <seg>（ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -16504,6 +16512,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placing a Robotanist on an unoccupied numbered space in the Lab (starting with 1) allows you to take any one of the three available Boosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180214Z" creationid="nakahodo" creationdate="20180311T180214Z">
+        <seg>ラボの未占領の数字がつけられたスペースにロボタニストを配置して（1から始まる）、3つの利用可能なブーストの任意の1つを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Placing a Robotanist on an unoccupied space with a Sector Die give you Control of that Sector Die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T081137Z" creationid="nakahodo" creationdate="20180311T081137Z">
@@ -20152,6 +20168,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Lab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180107Z" creationid="nakahodo" creationdate="20180311T180107Z">
+        <seg>ラボ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Last Garden is a worker placement and betting game for 2-4 players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065621Z" creationid="nakahodo" creationdate="20180311T065621Z">
@@ -20260,6 +20284,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074709Z" creationid="aorin" creationdate="20171213T074709Z">
         <seg>クイーンはパンをもらうごとに、岩を取り除いてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen's Favor for coring.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180104Z" creationid="nakahodo" creationdate="20180311T180104Z">
+        <seg>得点のためのクイーンの寵愛を参照）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22072,6 +22104,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195555Z" creationid="aorin" creationdate="20180114T195555Z">
         <seg>荒れ地に関連した特別なルールは特にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three different Program Boosts:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180320Z" creationid="nakahodo" creationdate="20180311T180320Z">
+        <seg>3つの異なるプログラムブーストがあります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25782,6 +25822,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145555Z" creationid="nakahodo" creationdate="20180108T145555Z">
         <seg>買い物に他の色の砂時計が既にある場合、あなたはこのラウンド買い物できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may not place a Robotanist in the Lab if there are no Program Boosts to take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180306Z" creationid="nakahodo" creationdate="20180311T180306Z">
+        <seg>実行するプログラムブーストがない場合、ラボにロボタニストを配置することはできません。</seg>
       </tuv>
     </tu>
     <tu>
