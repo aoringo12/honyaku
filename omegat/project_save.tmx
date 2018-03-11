@@ -4686,6 +4686,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Gems must be placed in the same Garden Sector, not split apart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T184333Z" creationid="nakahodo" creationdate="20180311T184333Z">
+        <seg>全ての宝石は同じガーデンセクター1つに配置される必要があり、バラバラに分けることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Plans are shuffled and stacked face down near the Locations forming the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030917Z" creationid="aorin" creationdate="20171212T030917Z">
@@ -24256,6 +24264,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152306Z" creationid="nakahodo" creationdate="20171230T152306Z">
         <seg>配置する時、オートマのミニオンは効果を得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing a Move Program Card, use this Program Boost to remove one Gem from every Garden Sector that matches its Sector Die and place them in any Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T184153Z" creationid="nakahodo" creationdate="20180311T184153Z">
+        <seg>移動プログラムカードをプレイする時、このプログラムbウースとを使用して、そのセクターダイスに一致するガーデンセクター全てから、宝石1つを鳥ノ木、任意のガーデンセクター1つにそれらを配置します。</seg>
       </tuv>
     </tu>
     <tu>
