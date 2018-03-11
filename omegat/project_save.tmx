@@ -4436,6 +4436,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After each player has placed their last Robotanist, proceed to Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231002Z" creationid="nakahodo" creationdate="20180311T231002Z">
+        <seg>各プレイヤーが自身の最後のロボタニストを配置した後、ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After extracting all cards for crate A from the Index, use those cards to follow these instructions in order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222621Z" creationid="nakahodo" creationdate="20171224T222621Z">
@@ -9146,6 +9154,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ex:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231249Z" creationid="nakahodo" creationdate="20180311T231249Z">
+        <seg>例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example of Blending</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T223252Z" creationid="aorin" creationdate="20171024T223252Z">
@@ -11471,6 +11487,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220124Z" creationid="aorin" creationdate="20171215T220124Z">
         <seg>効果が複数回の移動を与える場合、あなたは同じ[または]別々に戦士のグループを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any Robotanists are in the Lab, you and your opponents must move them, starting with the number 1 space, to any unoccupied space on the game board that could earn Favor Cogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231209Z" creationid="nakahodo" creationdate="20180311T231209Z">
+        <seg>ラボにロボタニストたちがいた場合、あなたとあなたの対戦相手たちは、数字の1のスペースから始まり、ゲームボードの任意の未占領スペースに移動しなければならず、寵愛の歯車を得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14249,6 +14273,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marrissa and Jordan both have Robotanists in the Lab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231321Z" creationid="nakahodo" creationdate="20180311T231321Z">
+        <seg>マリッサとジョーダンの両者は、ラボにロボタニストを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marrissa plays a Place Program Card with a Program Die of 1 but there are no Sector Dice that match.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075139Z" creationid="nakahodo" creationdate="20180311T075139Z">
@@ -14261,6 +14293,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074810Z" creationid="nakahodo" creationdate="20180311T074634Z">
         <seg>マリッサは出目1の配置プログラムダイスのプログラムカードをプレイします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa's Robotanist is on the number 1 space and Jordan's on the number 2 space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231408Z" creationid="nakahodo" creationdate="20180311T231408Z">
+        <seg>マリッサのロビタニストは数字の1スペースにあり、ジョーダンのものは数字の2スペースにあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15031,6 +15071,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232639Z" creationid="aorin" creationdate="20171215T232639Z">
         <seg>あなたが一度特別勝利カードをアクティブにすると、別の特別勝利カードをアクティブにして取り替えることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have taken the Queen Action, turn the Queen Tile upside down to show players that you have taken it for Round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T230855Z" creationid="nakahodo" creationdate="20180311T230855Z">
+        <seg>あなたがクイーンアクションを実行すると、そのラウンドで実行したことを他プレイヤーたちに示すために、クイーンタイルを裏返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17618,6 +17666,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Release Lab Robotanists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231012Z" creationid="nakahodo" creationdate="20180311T231012Z">
+        <seg>ラボにロボタニスト返却するに進行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Release any remaining minions from tuckbox iv and add them to the general supply for this and all future games.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224116Z" creationid="aorin" creationdate="20171231T224116Z">
@@ -18096,6 +18152,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070055Z" creationid="nakahodo" creationdate="20180311T070055Z">
         <seg>ロボタニストたちは油断ならないので、欺瞞の計画に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robotanists can not be placed back into the Lab during this Step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T231248Z" creationid="nakahodo" creationdate="20180311T231248Z">
+        <seg>ロボタニストたちは、このステップ時にラボに戻して配置することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20370,8 +20434,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Queen Action does not count as one of the two actions you are required to take and may be taken at any time during one of your turns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180311T214552Z" creationid="nakahodo" creationdate="20180311T214552Z">
-        <seg>The Queen Action does not count as one of the two actions you are required to take and may be taken at any time during one of your turns.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T230701Z" creationid="nakahodo" creationdate="20180311T214552Z">
+        <seg>クイーンアクションはあなたが実行する必要がある2つのアクションの1つに数えられず、あなたのターン時の任意のタイミングで実行できます。</seg>
       </tuv>
     </tu>
     <tu>
