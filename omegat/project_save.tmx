@@ -10702,6 +10702,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her Robotanists will turn metal and rare gems into the artificial flowers and trees stemming from her childhood memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T065058Z" creationid="nakahodo" creationdate="20180311T064456Z">
+        <seg>ロボタニストたちは、金属や宝石を、彼女の幼少時代の思い出にある木々や花々へと生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here are a couple examples:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002401Z" creationid="aorin" creationdate="20180115T002401Z">
@@ -12830,8 +12838,8 @@ cannot be chosen, unless a special action would allow it.</seg>
       <tuv lang="EN-US">
         <seg>In her travels, the Queen has accumulated a collection of out-of-commission robots she has reprogrammed and named Robotanists.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180311T064453Z" creationid="nakahodo" creationdate="20180311T064453Z">
-        <seg>彼女は旅の中、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T064533Z" creationid="nakahodo" creationdate="20180311T064453Z">
+        <seg>彼女は旅の中、集めて積み上がった動作不良のロボットたちを再プログラムし、ロボタニストと名付けました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19728,6 +19736,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Queen doesn't remember exactly what the garden looked like, but she'll know it when she sees it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T065333Z" creationid="nakahodo" creationdate="20180311T065333Z">
+        <seg>クイーンは理想とするガーデンをもはや正確に覚えてはいませんが、それを見た時、きっと"それ"だと分かることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Queen has a peculiar diet.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112627Z" creationid="aorin" creationdate="20171212T112617Z">
@@ -22958,6 +22974,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043059Z" creationid="aorin" creationdate="20171213T043059Z">
         <seg>最後のラウンドまで、タイルに描かれたリソースを獲得し続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until then, her Robotanists will strive to construct the last garden and make every effort to recreate the Queen's vision.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T065557Z" creationid="nakahodo" creationdate="20180311T065557Z">
+        <seg>それまでは、ロボタニストたちは最期の庭園を構築し、クイーンの想いを再現するためにあらゆる努力をしていくのです。</seg>
       </tuv>
     </tu>
     <tu>
