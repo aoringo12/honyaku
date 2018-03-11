@@ -14225,6 +14225,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marrisa plays a Place Program Card and declares she is using her x 2 Program Boost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T201507Z" creationid="nakahodo" creationdate="20180311T201507Z">
+        <seg>マリッサは配置プログラムカードをプレイし、彼女は自身の持つ×2プログラムブーストを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marrissa plays a Place Program Card with a Program Die of 1 but there are no Sector Dice that match.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075139Z" creationid="nakahodo" creationdate="20180311T075139Z">
@@ -18573,6 +18581,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075222Z" creationid="nakahodo" creationdate="20180311T075222Z">
         <seg>このプログラムダイスはワイルドになるので、任意のガーデンセクターに宝石を1つ配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She may now place two Gems in the Garden Sector instead of one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T213754Z" creationid="nakahodo" creationdate="20180311T213754Z">
+        <seg>ガーデンセクターに宝石を1の代わりに2つ、配置することができます。</seg>
       </tuv>
     </tu>
     <tu>
