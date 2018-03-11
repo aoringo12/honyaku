@@ -1715,6 +1715,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232514Z" creationid="nakahodo" creationdate="20180311T232506Z">
+        <seg>1；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1:1, 1:2, and 6+ = 3</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080553Z" creationid="nakahodo" creationdate="20180311T080537Z">
@@ -20640,6 +20648,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Workshop:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232509Z" creationid="nakahodo" creationdate="20180311T232509Z">
+        <seg>ワークショップ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The World Map is split into three coffee-rich regions
 (Americas, Africa, and Asia) each with its own
 Country Crop space and action that players will
@@ -25454,6 +25470,15 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075001Z" creationid="nakahodo" creationdate="20180311T075001Z">
         <seg>ワイルドプログラムカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wilting 6+ = 3 - (IMPORTANT) Before any other scoring happens, any Garden Sector that contains six or more Gems is Wilting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T232928Z" creationid="nakahodo" creationdate="20180311T232511Z">
+        <seg>枯れ草
+6＋＝3－（重要）他の任意のものを得点する前に、6つ以上の宝石が含まれる任意のガーデンセクターは萎れています。</seg>
       </tuv>
     </tu>
     <tu>
