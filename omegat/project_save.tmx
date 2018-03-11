@@ -6639,6 +6639,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T195700Z" creationid="nakahodo" creationdate="20180311T195700Z">
+        <seg>アクション変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charismatic</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003428Z" creationid="aorin" creationdate="20171216T003428Z">
