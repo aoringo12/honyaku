@@ -15206,6 +15206,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180506Z" creationid="nakahodo" creationdate="20180311T180506Z">
+        <seg>または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or 1 disc on a double action space with a Pixie on the space depicting a hand.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104138Z" creationid="aorin" creationdate="20171212T104138Z">
@@ -15972,6 +15980,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Move Gem x 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180401Z" creationid="nakahodo" creationdate="20180311T180335Z">
+        <seg>宝石の配置 / 移動×2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Program Cards allow you to choose one Gem of any color from the unused Gems and place in in a Garden Sector.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074059Z" creationid="nakahodo" creationdate="20180311T074059Z">
@@ -16484,6 +16500,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134711Z" creationid="aorin" creationdate="20171215T134711Z">
         <seg>あなたの派閥ボードの法令スペースに一致する、王家大臣カード2枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place/ Move a Gem - Multi</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180924Z" creationid="nakahodo" creationdate="20180311T180803Z">
+        <seg>宝石1つの配置 / 移動 - マルチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24232,6 +24256,30 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152306Z" creationid="nakahodo" creationdate="20171230T152306Z">
         <seg>配置する時、オートマのミニオンは効果を得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing a Move Program Card, use this Program Boost to remove two Gems from a Garden Sector and place them both in any Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180857Z" creationid="nakahodo" creationdate="20180311T180756Z">
+        <seg>移動プログラムカードをプレイする時、このプログラムブーストを使用して、ガーデンセクター1箇所から2つの宝石を取り除き、任意のガーデンセクター1箇所にそれら両方を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing a Place Program Card, use this Program Boost to Piece two Gems of any color instead of one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T180501Z" creationid="nakahodo" creationdate="20180311T180355Z">
+        <seg>配置プログラムカードをプレイする時、このプログラムブーストを使用して、1の代わりに任意の色の宝石2つを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing a Place Program Card, use this Program Boost to place one Gem of any color in every Garden Sector that matches its Sector Die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180311T184053Z" creationid="nakahodo" creationdate="20180311T184053Z">
+        <seg>配置プログラムカードをプレイする時、このプログラムブーストを使用して、そのセクターダイスに一致するガーデンセクター全てに任意の色の宝石1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
