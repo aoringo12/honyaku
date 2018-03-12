@@ -4292,6 +4292,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add together the 1st place Favor Cogs and 2nd place Favor Cogs and split them evenly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084022Z" creationid="nakahodo" creationdate="20180312T083845Z">
+        <seg>1番と2番の寵愛の歯車を合計し、均等に分け2人に与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Added hits are not​ limited by the number of warriors in the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224708Z" creationid="aorin" creationdate="20171215T224708Z">
@@ -4462,6 +4470,14 @@ Blend Slate is full.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163717Z" creationid="aorin" creationdate="20171212T163717Z">
         <seg>全ての昇進ステップが実行された後、忠実な使用人ステップに到達した妖精は忠実な使用人報酬タイルフィールドに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After any Favor Cogs have been earned, discard your unused Program Card and return all of your Robotanists from the game board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084143Z" creationid="nakahodo" creationdate="20180312T084143Z">
+        <seg>任意の寵愛の歯車を得た後、あなたの未使用のプログラムカードを捨て札にしたあと、ゲームボードから自身のロボタニストを全て戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9071,6 +9087,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223147Z" creationid="nakahodo" creationdate="20171224T223147Z">
         <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of the Round</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084045Z" creationid="nakahodo" creationdate="20180312T084045Z">
+        <seg>ラウンドの終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -14458,6 +14482,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marrissa and Jordan will each earn four Favor Cogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084043Z" creationid="nakahodo" creationdate="20180312T083844Z">
+        <seg>マリッサとジョーダンは寵愛の歯車を4つ得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marrissa has a Robotanist in a Garden Sector that contains four Gems.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T081202Z" creationid="nakahodo" creationdate="20180312T081202Z">
@@ -19062,6 +19094,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the discarded Program Cards back into the Program Deck and deal a new hand to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084523Z" creationid="nakahodo" creationdate="20180312T084523Z">
+        <seg>捨て札のプログラムカードをプログラムデッキに戻してシャッフルし、各プレイヤーに新しい手札を配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the location cards and draw one card for every 6 minions in the supply (up to 3 cards max).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224317Z" creationid="aorin" creationdate="20171231T224317Z">
@@ -21024,6 +21064,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040336Z" creationid="aorin" creationdate="20180116T040336Z">
         <seg>ファーストプレイヤーはディスカバリーか将軍1つを購入する[または]パスができます（何も購入しない）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first player passes the Queen Tile to the left and that player becomes the first player for the round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084846Z" creationid="nakahodo" creationdate="20180312T084846Z">
+        <seg>ファーストプレイヤーは左にクイーンタイルを私、そのプレイヤーが次のラウンドのファーストプレイヤーになります。</seg>
       </tuv>
     </tu>
     <tu>
