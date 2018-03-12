@@ -2573,6 +2573,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T075036Z" creationid="nakahodo" creationdate="20180312T075036Z">
+        <seg>2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd Action:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073044Z" creationid="nakahodo" creationdate="20180311T073044Z">
@@ -6157,6 +6165,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before any other scoring, Marrissa removes all six Gems from the Wilting Garden Sector and earns three Favor Cogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T075035Z" creationid="nakahodo" creationdate="20180312T075035Z">
+        <seg>他の得点の前に、マリッサは萎れたガーデンセクターから6つの宝石全てを取り除き、寵愛の歯車3つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
@@ -7214,6 +7230,15 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224804Z" creationid="aorin" creationdate="20171215T224804Z">
         <seg>ステップ4に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlled Sectors 1:1 - If you Control a Sector Die in this row that matches any Garden Sector Dice, earn one Favor Cog for every Gem in all matching Garden Sectors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T075710Z" creationid="nakahodo" creationdate="20180312T075710Z">
+        <seg>セクターを制御した 
+1:1―あなたが、任意のガーデンセクターダイスに一致する、この行のセクターダイスを制御する場合、一致するガーデンセクターらの宝石ごとに、寵愛の歯車1つを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14323,8 +14348,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Marrissa Controls the 6+ = 3 space with the Sector Die of four in the Workshop.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180312T074610Z" creationid="nakahodo" creationdate="20180312T074610Z">
-        <seg>マリッサはワークショップの6+=3スペースで4つのセクターダイスを制御しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T074821Z" creationid="nakahodo" creationdate="20180312T074610Z">
+        <seg>マリッサはワークショップの6+=3スペースで出目4のセクターダイスを制御しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22446,8 +22471,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>There is a Garden Sector with a Sector Die of four that contains six Gems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180312T074805Z" creationid="nakahodo" creationdate="20180312T074805Z">
-        <seg>これらは</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T074951Z" creationid="nakahodo" creationdate="20180312T074805Z">
+        <seg>出目4のセクターダイスのガーデンセクターには6つの宝石があります。</seg>
       </tuv>
     </tu>
     <tu>
