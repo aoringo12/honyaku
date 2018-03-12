@@ -3773,6 +3773,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A 1 can spin to a 6 and vice-versa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090325Z" creationid="nakahodo" creationdate="20180312T090325Z">
+        <seg>1は6にスピンでき、逆もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Bold Blend Blend Rank Scale
 with a Black Bean kicker would be higher ranked than a Red
 Bean Kicker.</seg>
@@ -12953,6 +12961,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your action Card's Program Die does not match any Sector Dice, the Program Die becomes wild and may be played on any Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085939Z" creationid="nakahodo" creationdate="20180312T085939Z">
+        <seg>あなたのアクションカードのプログラムダイスと任意のセクターダイスが一致しない場合、プログラムダイスはワイルドになり、任意のガーデンセクターにプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your building is removed, return it to the rightmost empty space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
@@ -20873,6 +20889,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Sector Dice and Gems in the Garden do not reset from round to round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085814Z" creationid="nakahodo" creationdate="20180312T085814Z">
+        <seg>ガーデンのセクターダイスと宝石はラウンド間でリセットしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shopping action may only be performed once this way.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152045Z" creationid="nakahodo" creationdate="20180108T152045Z">
@@ -24611,6 +24635,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When Spinning a Sector Die, you may only spin the die up one number or down one number.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090309Z" creationid="nakahodo" creationdate="20180312T090309Z">
+        <seg>セクターダイスをスピンする時、出目の数字を1だけ上下させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a Deed type Plan is built, the corresponding Location becomes open (flip it over to its ‘open’ side), the player with this deed is considered the Owner of that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034235Z" creationid="aorin" creationdate="20171212T034235Z">
@@ -24793,6 +24825,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074545Z" creationid="aorin" creationdate="20171216T074545Z">
         <seg>&lt;ブーツ&gt;を消耗させて1つの空き地から別へと移動する時、複数の同盟の戦士たちであっても、あなたと共にいる同盟戦士の数だけ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When moving multiple Gems at the same time, all gems must be placed in the same Garden Sector, not split apart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090212Z" creationid="nakahodo" creationdate="20180312T090212Z">
+        <seg>同時に複数の宝石を移動する時、全ての宝石は分けたりする事はできず、同じガーデンセクターに配置されなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25812,6 +25852,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wilting happens before any other scoring happens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090351Z" creationid="nakahodo" creationdate="20180312T090351Z">
+        <seg>任意の他の得点を行う前に、萎れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Win combat (up to 2 times)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093901Z" creationid="nakahodo" creationdate="20180209T093901Z">
@@ -26488,6 +26536,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235504Z" creationid="aorin" creationdate="20180114T235504Z">
         <seg>あなたがユニットを展開できる地形は……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only ever hold one Program Boost at a time, but you may hold onto it from round to round until you decide to use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090705Z" creationid="nakahodo" creationdate="20180312T090705Z">
+        <seg>あなたは一度に1つのプログラムブーストのみを保持でき、その使用を決定するまでラウンド間にわたり保持できます。</seg>
       </tuv>
     </tu>
     <tu>
