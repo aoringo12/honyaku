@@ -1731,6 +1731,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1:2 - If you Control a Sector Die in this row that matches any Garden Sector Dice, earn one Favor Cog for every two Gems in all matching Garden Sectors, rounding up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080512Z" creationid="nakahodo" creationdate="20180312T080302Z">
+        <seg>1：2―あなたが、任意のガーデンセクターダイスに一致する、この行のセクターダイスを制御している場合、一致するガーデンセクターの宝石2つ（切り上げ）ごとに、寵愛の歯車1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1Arrival</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T014125Z" creationid="nakahodo" creationdate="20171230T065117Z">
@@ -3296,6 +3304,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234004Z" creationid="aorin" creationdate="20171231T234004Z">
         <seg>397 - Philosopher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080627Z" creationid="nakahodo" creationdate="20180312T080627Z">
+        <seg>3:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12631,6 +12647,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you placed a Robotanist in a Garden Sector, earn one Favor Cog for every Gem in that Garden Sector.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080706Z" creationid="nakahodo" creationdate="20180312T080706Z">
+        <seg>あなたがガーデンセクターにロボタニストを配置した場合、そのガーデンセクターの宝石ごとに、寵愛の歯車1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you placed your worker on a building occupied by another worker (yours or an opponent's), bump (return) that worker back to its player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205724Z" creationid="nakahodo" creationdate="20171218T174839Z">
@@ -14354,6 +14378,30 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marrissa Controls the number 4 Sector Die in the 1:2 row.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080343Z" creationid="nakahodo" creationdate="20180312T080343Z">
+        <seg>マリッサは1：2行に出目4のセクターダイスを制御しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa Controls the number 5 Sector Die in the 1:1 row.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T075840Z" creationid="nakahodo" creationdate="20180312T075840Z">
+        <seg>マリッサは1：1行に出目5のセクターダイスを制御しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa adds the Gems together and will earn six Favor Cogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080009Z" creationid="nakahodo" creationdate="20180312T080009Z">
+        <seg>マリッサは宝石の数を数え、寵愛の歯車6つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marrissa and Jordan both have Robotanists in the Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T231321Z" creationid="nakahodo" creationdate="20180311T231321Z">
@@ -14374,6 +14422,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074810Z" creationid="nakahodo" creationdate="20180311T074634Z">
         <seg>マリッサは出目1の配置プログラムダイスのプログラムカードをプレイします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa will earn three Favor Cogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080627Z" creationid="nakahodo" creationdate="20180312T080627Z">
+        <seg>マリッサは寵愛の歯車3つを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15184,6 +15240,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030807Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手として、AIの内1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One Garden Sector has three Gems and the other has two.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080423Z" creationid="nakahodo" creationdate="20180312T080423Z">
+        <seg>片方のガーデンセクターには3つの宝石があり、もう一方は2つあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,6 +18774,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133530Z" creationid="aorin" creationdate="20171215T133238Z">
         <seg>派閥のセットアップ：以下に従い、次の順番で派閥のセットアップを行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She adds all the Gems together and round up, equaling six.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080615Z" creationid="nakahodo" creationdate="20180312T080451Z">
+        <seg>彼女は全ての宝石を数え、5を切り上げ、6と扱います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22445,6 +22517,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are three matching Garden Sectors in The Garden, each having two Gems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T075935Z" creationid="nakahodo" creationdate="20180312T075935Z">
+        <seg>これらはガーデンにある3っつのガーデンセクターに一致し、それぞれ2つの宝石を有しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are three spaces in the Mines, each representing a different color of Gem.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080357Z" creationid="nakahodo" creationdate="20180311T080357Z">
@@ -22457,6 +22537,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073026Z" creationid="nakahodo" creationdate="20180311T073026Z">
         <seg>あなたのターンに実行する必要のあるアクションには2つあり、これらは次の順番で実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two matching Garden Sectors in the Garden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T080402Z" creationid="nakahodo" creationdate="20180312T080402Z">
+        <seg>これらはガーデンの2つのガーデンセクターに一致します。</seg>
       </tuv>
     </tu>
     <tu>
