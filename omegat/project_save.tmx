@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(IMPORTANT):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T084902Z" creationid="nakahodo" creationdate="20180312T084902Z">
+        <seg>（重要）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -4732,6 +4740,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you have completed the last round, the game is over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085207Z" creationid="nakahodo" creationdate="20180312T085207Z">
+        <seg>最後のラウンドが終了した後、ゲームが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you peel the sticker off a building card to construct it, you're left with a new type of card:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205535Z" creationid="nakahodo" creationdate="20171218T154330Z">
@@ -7368,6 +7384,14 @@ Buildings in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030621Z" creationid="aorin" creationdate="20171212T030621Z">
         <seg>各プレイヤーは、自身の近所の建物の合計★を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Count the total of your Favor Cogs and the player with the most Favor Cogs wins!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085311Z" creationid="nakahodo" creationdate="20180312T085311Z">
+        <seg>自身の寵愛の歯車を数え、最も寵愛の歯車を持つプレイヤーが勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13013,6 +13037,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T074048Z" creationid="nakahodo" creationdate="20180312T074048Z">
         <seg>直ちに、萎れたガーデンセクターから全ての宝石を取り除き、未使用宝石の場所に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important Notes worth Mentioning Again:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085751Z" creationid="nakahodo" creationdate="20180312T085751Z">
+        <seg>再度記述する価値のある重要な注意事項：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20351,6 +20383,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The End of the Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085149Z" creationid="nakahodo" creationdate="20180312T085149Z">
+        <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie Dynasties</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000610Z" creationid="aorin" creationdate="20171216T000610Z">
@@ -20565,6 +20605,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080042Z" creationid="nakahodo" creationdate="20180311T080042Z">
         <seg>ガーデン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Garden Sector Dice and Gems do not reset from round to round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T085148Z" creationid="nakahodo" creationdate="20180312T085148Z">
+        <seg>ガーデンセクターダイスと宝石はラウンド間でリセットしません。</seg>
       </tuv>
     </tu>
     <tu>
