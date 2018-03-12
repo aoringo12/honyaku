@@ -5662,6 +5662,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of a round, you should have one Program Card left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090951Z" creationid="nakahodo" creationdate="20180312T090951Z">
+        <seg>ラウンドの終了時、あなたはプログラムカード1枚が残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a set number of rounds, the player who has earned the most Favor Cogs from the Queen, wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070309Z" creationid="nakahodo" creationdate="20180311T070309Z">
@@ -7977,6 +7985,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
         <seg>特定の指示があるまで、何も触らないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't worry, you did not forget to take a turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T091203Z" creationid="nakahodo" creationdate="20180312T091203Z">
+        <seg>心配しないで、ターン行動を忘れたわけではありません。ラウンド数より手札の数は一枚多くなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20781,6 +20797,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T230701Z" creationid="nakahodo" creationdate="20180311T214552Z">
         <seg>クイーンアクションはあなたが実行する必要がある2つのアクションの1つに数えられず、あなたのターン時の任意のタイミングで実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Queen Action is a one-time free action that the first player may take at any time during their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T090834Z" creationid="nakahodo" creationdate="20180312T090834Z">
+        <seg>クイーンアクションは、ファーストプレイヤーが持つ、自身のターン時の任意のタイミングで実行できる、一度のみのフリーアクションです。</seg>
       </tuv>
     </tu>
     <tu>
