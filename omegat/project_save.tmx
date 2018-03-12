@@ -1756,6 +1756,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1st Place - Five Favor Cogs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T082319Z" creationid="nakahodo" creationdate="20180312T082319Z">
+        <seg>最も数のある色 - 寵愛の歯車5つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205742Z" creationid="nakahodo" creationdate="20171224T122746Z">
@@ -2597,6 +2605,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2nd Place - Three Favor Cogs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T082351Z" creationid="nakahodo" creationdate="20180312T082330Z">
+        <seg>2番目に多い - 寵愛の歯車3つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2nd and 3rd get 2 Penalty Points and the 4th and 5th get 3 Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144215Z" creationid="nakahodo" creationdate="20171213T144215Z">
@@ -3312,6 +3328,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T080627Z" creationid="nakahodo" creationdate="20180312T080627Z">
         <seg>3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd Place - One Favor Cogs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T082349Z" creationid="nakahodo" creationdate="20180312T082349Z">
+        <seg>3番目に多い - 寵愛の歯車1つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12185,6 +12209,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031811Z" creationid="aorin" creationdate="20171212T031811Z">
         <seg>コストがタイの場合、プランの種類をチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a tie, add the contested Favor Cogs together and split them evenly amongst the tide players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T082934Z" creationid="nakahodo" creationdate="20180312T082934Z">
+        <seg>タイの場合、</seg>
       </tuv>
     </tu>
     <tu>
@@ -28103,6 +28135,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T082142Z" creationid="nakahodo" creationdate="20180312T082142Z">
+        <seg>•</seg>
       </tuv>
     </tu>
     <tu>
