@@ -6302,6 +6302,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both green Gems and blue Gems are tied for the most Gems in the Garden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T083240Z" creationid="nakahodo" creationdate="20180312T082936Z">
+        <seg>ガーデンで最も多い宝石は緑と青です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both tracks score Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172800Z" creationid="aorin" creationdate="20171212T172800Z">
@@ -12215,8 +12223,8 @@ players cannot use this ability.</seg>
       <tuv lang="EN-US">
         <seg>If there is a tie, add the contested Favor Cogs together and split them evenly amongst the tide players.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180312T082934Z" creationid="nakahodo" creationdate="20180312T082934Z">
-        <seg>タイの場合、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T083018Z" creationid="nakahodo" creationdate="20180312T082934Z">
+        <seg>タイの場合、該当する報酬の寵愛の歯車を合計し、タイプレイヤー間で均等に分けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14478,6 +14486,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T080627Z" creationid="nakahodo" creationdate="20180312T080627Z">
         <seg>マリッサは寵愛の歯車3つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marrissa's Robotanist is on the green Gem space and Gordan's is on the blue Gem space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180312T083051Z" creationid="nakahodo" creationdate="20180312T083051Z">
+        <seg>マリッサのロボタニストは緑宝石スペースに、ゴーダンのものは青宝石スペースに配置されています。</seg>
       </tuv>
     </tu>
     <tu>
