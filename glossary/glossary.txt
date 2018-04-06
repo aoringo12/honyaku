@@ -464,3 +464,6 @@ Ambush tile	待ち伏せタイル
 Blocking the Ghost	幽霊を止めろ
 Possession deck	憑依デッキ
 Possession	憑依
+Dark tile	ダークタイル
+exist	存在
+if present	居る場合
