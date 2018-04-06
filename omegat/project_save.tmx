@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -394,6 +394,22 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144931Z" creationid="aorin" creationdate="20171215T144931Z">
         <seg>（この戦士を暴動マーカーと呼称します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Thus, you can move an object into your space, and then move it away from your space in a different direction.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T174659Z" creationid="aorin" creationdate="20180406T174659Z">
+        <seg>（したがって、あなたは自身のスペースにあるオブジェクト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Visibility is defined on page 5 in Vast: The Crystal Caverns.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T174454Z" creationid="aorin" creationdate="20180406T174442Z">
+        <seg>（ヴァスト：クリスタルカーヴァンのページ5の用語集で「見えている」を参照してください）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27041,6 +27057,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134637Z" creationid="nakahodo" creationdate="20180406T134637Z">
         <seg>あなたは、移動力のスペース上の数字だけ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move an object in a straight line away from or toward your space, including into your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T174558Z" creationid="aorin" creationdate="20180406T174558Z">
+        <seg>あなたは、オブジェクト1つをあなたのスペースに向かって[または]離すように直線で移動させることができます。これはあなた自身のスペースも含みます。</seg>
       </tuv>
     </tu>
     <tu>
