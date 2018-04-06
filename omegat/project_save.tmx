@@ -20535,6 +20535,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taking a Possession Turn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T182739Z" creationid="aorin" creationdate="20180406T182739Z">
+        <seg>憑依ターンを得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk about it, lie about it,
 be detailed in your descriptions, but
 do not show what’s in it.</seg>
@@ -23499,6 +23507,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111410Z" creationid="nakahodo" creationdate="20180108T111410Z">
         <seg>これらはゲーム12以降に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are used by the Cave Ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T182724Z" creationid="aorin" creationdate="20180406T182724Z">
+        <seg>これらは洞窟ゴーストが使用します。</seg>
       </tuv>
     </tu>
     <tu>
