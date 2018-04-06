@@ -7225,6 +7225,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Components</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T122732Z" creationid="nakahodo" creationdate="20180406T122732Z">
+        <seg>Components</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Congratulations for being chosen!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115228Z" creationid="nakahodo" creationdate="20171224T115228Z">
