@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you wish, you may show off the Possession card that was on your Possession space.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T182525Z" creationid="aorin" creationdate="20180406T182525Z">
+        <seg>（あなたが望むなら、自身の憑依スペースにある憑依カードを公開できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not playable by the Vagabond or Marquise.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233321Z" creationid="aorin" creationdate="20171215T233321Z">
@@ -21187,6 +21195,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost does not use the numbers in the top-right corner of Possession cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T182716Z" creationid="aorin" creationdate="20180406T182716Z">
+        <seg>ゴーストは憑依カードの右上角の数字を使用しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost is a player role that can be added to any other combination of player numbers and roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123741Z" creationid="nakahodo" creationdate="20180406T123541Z">
@@ -23096,6 +23112,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032807Z" creationid="aorin" creationdate="20171212T032757Z">
         <seg>その後、プランサプライからプラン1枚を取り、自身の近所にこれをプランとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, choose and place a Possession card facedown on your Possession space, and set aside the other Possession cards facedown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T182643Z" creationid="aorin" creationdate="20180406T182643Z">
+        <seg>その後、憑依カード1枚を選択して裏向きで自身の憑依スペースに配置し、他の憑依カードは側に裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
