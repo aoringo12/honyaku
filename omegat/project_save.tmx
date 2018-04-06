@@ -400,8 +400,8 @@
       <tuv lang="EN-US">
         <seg>(Thus, you can move an object into your space, and then move it away from your space in a different direction.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180406T174659Z" creationid="aorin" creationdate="20180406T174659Z">
-        <seg>（したがって、あなたは自身のスペースにあるオブジェクト）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T174923Z" creationid="aorin" creationdate="20180406T174659Z">
+        <seg>（したがって、あなたは自身のスペースへとオブジェクト1つを移動させ、その後、自身のスペースから異なる方向へとこれを移動させることができます）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27604,6 +27604,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133845Z" creationid="nakahodo" creationdate="20180406T133543Z">
         <seg>あなたのフォーカスは、プレイを通して増加し、あなたの移動力と現在のターンの影響力を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Influence equals the number of different objects that you can move per turn, and it also equals the total number of spaces that you can move each such object per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T175233Z" creationid="aorin" creationdate="20180406T175233Z">
+        <seg>あなたの影響力の数に等しいだけ、ターン毎に異なるオブジェクトを移動できます。また、そうする各オブジェクトの移動スペースの合計数もまた、影響力の数に等しいです。</seg>
       </tuv>
     </tu>
     <tu>
