@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Other players may also enter your space freely and without effect.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T135543Z" creationid="nakahodo" creationdate="20180406T135543Z">
+        <seg>（他のプレイヤーたちもまた、あなたの居るスペースへと自由に、効果を無視して入ることができます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080312Z" creationid="nakahodo" creationdate="20180311T080312Z">
@@ -11586,6 +11594,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you cannot end this phase on an open space, a space with any Artifacts, or a space with player pieces who carry any Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T135813Z" creationid="nakahodo" creationdate="20180406T135813Z">
+        <seg>しかし、空のスペース、アーティファクトのあるスペース、アーティファクトを運ぶプレイヤーピースのいるスペースで、このフェイズを終了することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't return what I've taken, but I promise to stop."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
@@ -20185,6 +20201,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TELEKINESIS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T135816Z" creationid="nakahodo" creationdate="20180406T135816Z">
+        <seg>テレキネシス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TEMP AGENCY</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T080321Z" creationid="aorin" creationdate="20171212T080321Z">
@@ -27177,6 +27201,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002041Z" creationid="aorin" creationdate="20180115T002041Z">
         <seg>あなたは増強ステージ時に発動できるディスカバリーを使用できます（飛行船のような）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use Telekinesis to move an object (token or other player piece) that is orthogonal (not diagonal) from you, whether or not it is visible to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T140255Z" creationid="nakahodo" creationdate="20180406T140255Z">
+        <seg>あなたはテレキネシスを使用して、あなたが見えているかどうかに関わらず、自身から直角（斜めではなく）でオブジェクト1つ（トークン[または]他のプレイヤーピース）を移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
