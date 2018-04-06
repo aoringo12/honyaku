@@ -1171,6 +1171,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Ghost Board 1 Ghost Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123137Z" creationid="nakahodo" creationdate="20180406T123137Z">
+        <seg>1ゴーストボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Penalty Point for 1 slave, 2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143837Z" creationid="nakahodo" creationdate="20171213T143837Z">
@@ -2633,6 +2641,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025258Z" creationid="nakahodo" creationdate="20171224T130104Z">
         <seg>3 - Charter Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Ghost Pieces (Standee, Meeple, Miniature)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123016Z" creationid="nakahodo" creationdate="20180406T123016Z">
+        <seg>3ゴーストピース（スタンド、ミープル、ミニチュア）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,8 +7243,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Components</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180406T122732Z" creationid="nakahodo" creationdate="20180406T122732Z">
-        <seg>Components</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T122932Z" creationid="nakahodo" creationdate="20180406T122732Z">
+        <seg>コンポーネント</seg>
       </tuv>
     </tu>
     <tu>
