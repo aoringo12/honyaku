@@ -15430,6 +15430,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects moved with Telekinesis must obey the Forced Movement rules (page 4 in Vast: The Crystal Caverns).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T175935Z" creationid="aorin" creationdate="20180406T175935Z">
+        <seg>テレキネシスによるオブジェクトの移動は、強制移動ルールにしたがう必要があります（ヴァスト：クリスタルカーヴァンのページ4を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oddly, when you try to take the coins to the Eternal City,you find that there is an invisible barrier preventing you J,-om leaving.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222458Z" creationid="nakahodo" creationdate="20171224T222458Z">
@@ -27634,8 +27642,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your Influence equals the number of different objects that you can move per turn, and it also equals the total number of spaces that you can move each such object per turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180406T175233Z" creationid="aorin" creationdate="20180406T175233Z">
-        <seg>あなたの影響力の数に等しいだけ、ターン毎に異なるオブジェクトを移動できます。また、そうする各オブジェクトの移動スペースの合計数もまた、影響力の数に等しいです。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180157Z" creationid="aorin" creationdate="20180406T175233Z">
+        <seg>あなたの影響力の数に等しいだけ、ターン毎に異なるオブジェクトを移動できます。また、各オブジェクトは、影響力の数に等しいだけスペースを移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
