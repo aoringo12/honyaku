@@ -26783,8 +26783,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can split up an object’s total spaces of movement into multiple moves during your turn, as long as its total movement throughout your turn does not exceed your Influence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180406T175423Z" creationid="aorin" creationdate="20180406T175423Z">
-        <seg>あなたのターン全体の移動があなたの移動力を越えない限り、オブジェクト1つの合計移動スペースを複数の移動に分割することができます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180427Z" creationid="aorin" creationdate="20180406T175423Z">
+        <seg>オブジェクト1つの移動合計数があなたのターン全体を通して影響力を越えない限り、オブジェクト1つの合計移動スペースを複数の移動に分割することができます。</seg>
       </tuv>
     </tu>
     <tu>
