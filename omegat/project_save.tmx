@@ -1889,6 +1889,15 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2) Move and Act During this phase, you can move and use Telekinesis in any order and combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134615Z" creationid="nakahodo" creationdate="20180406T134615Z">
+        <seg>2）移動とアクション
+このフェイズ時、あなたは任意の順番で、組み合わせて移動とテレキネシスを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Pick Up Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T135114Z" creationid="nakahodo" creationdate="20171127T135114Z">
@@ -14634,6 +14643,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOVE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134616Z" creationid="nakahodo" creationdate="20180406T134616Z">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a Blend</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
@@ -26780,6 +26797,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot reveal this card if any player piece is on a Ghost tile with a locked Artifact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134338Z" creationid="nakahodo" creationdate="20180406T134338Z">
+        <seg>任意のプレイヤーピースがアーティファクトをロックしたゴーストタイルに居る場合、あなたはこのカードを公開できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot use Steal on an Ally!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075127Z" creationid="aorin" creationdate="20171216T075127Z">
@@ -26984,6 +27009,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213018Z" creationid="aorin" creationdate="20180114T213018Z">
         <seg>直ちに、マップのユニット2体を、自身が制御するそれぞれ異なる地形へと移動させることができます（法廷は含まれません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move a number of spaces up to your Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134637Z" creationid="nakahodo" creationdate="20180406T134637Z">
+        <seg>あなたは、移動力のスペース上の数字だけ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move through walls and into any spaces, including open spaces, freely and without effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T135450Z" creationid="nakahodo" creationdate="20180406T135450Z">
+        <seg>任意のスペースへと、壁を通り抜けて、空のスペースも含んで効果を無視して自由に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
