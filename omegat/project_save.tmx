@@ -6446,6 +6446,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both the Ghost and Cave Ghost are advanced roles that should not be used by new players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T124620Z" creationid="nakahodo" creationdate="20180406T124620Z">
+        <seg>ゴーストと洞窟ゴーストは、初めてプレイするプレイヤーが使用スべきではない上級ロールになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both tracks score Penalty Points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172800Z" creationid="aorin" creationdate="20171212T172800Z">
@@ -9207,6 +9215,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103919Z" creationid="aorin" creationdate="20171212T103919Z">
         <seg>1つのディスクを配置できるアクションスペースに、アクションディスク1つのみを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either role is best played in an experienced group by a player who is familiar with the rules of all the other roles being played.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T124959Z" creationid="nakahodo" creationdate="20180406T124959Z">
+        <seg>両ロールは、他の全てのロールのルールに精通しているプレイヤーが、経験豊富なグループでプレイされるのが良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20777,6 +20793,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T125002Z" creationid="nakahodo" creationdate="20180406T125002Z">
+        <seg>ゴースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost is a player role that can be added to any other combination of player numbers and roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123741Z" creationid="nakahodo" creationdate="20180406T123541Z">
@@ -22400,6 +22424,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223208Z" creationid="aorin" creationdate="20171231T223208Z">
         <seg>幽霊プレイヤーはこのカードを保持してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spirit of a long-lost adventurer, cursed to haunt the Cave for eternity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T125248Z" creationid="nakahodo" creationdate="20180406T125248Z">
+        <seg>消息不明であった冒険家の魂は、洞窟へと縛り付けられていたのです。永遠に。</seg>
       </tuv>
     </tu>
     <tu>
