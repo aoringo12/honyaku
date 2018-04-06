@@ -451,7 +451,7 @@ Marrisa	マリッサ
 Queen Action	クイーンアクション
 Release Lab Robotanists	ラボにロボタニスト返却
 Artifact Token	アーティファクトトークン
-Possession Card	所持カード
+Possession Card	憑依カード
 Cave Ghost	洞窟ゴースト
 Focus Cube	フォーカスキューブ
 Difficulty Variant Card	難易度ヴァリアントカード	vast
@@ -462,3 +462,5 @@ Entrance tile	エントランスタイル
 Artifact	アーティファクト
 Ambush tile	待ち伏せタイル
 Blocking the Ghost	幽霊を止めろ
+Possession deck	憑依デッキ
+Possession	憑依
