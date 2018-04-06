@@ -5870,6 +5870,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of your first turn, place the Ghost piece on any unoccupied Dark tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132753Z" creationid="nakahodo" creationdate="20180406T132753Z">
+        <seg>あなたの最初のターンの開始時に、任意の未占領のダークタイルにゴーストピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this point, players take turns purchasing available Discoveries and Generals.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040039Z" creationid="aorin" creationdate="20180116T040039Z">
@@ -8045,6 +8053,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribute Artifact tokens as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132511Z" creationid="nakahodo" creationdate="20180406T132511Z">
+        <seg>次に従いアーティファクトトークンを分配します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not advance on the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173004Z" creationid="aorin" creationdate="20171212T173004Z">
@@ -8495,6 +8511,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001804Z" creationid="aorin" creationdate="20180115T001804Z">
         <seg>あなたの増強ステージ時、望むだけ増強オーダーを行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During your turn, resolve the following phases in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133108Z" creationid="nakahodo" creationdate="20180406T133108Z">
+        <seg>あなたのターン時、次のフェイズの順番で解決します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10841,6 +10865,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give 1 Artifact token to each other player except the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132607Z" creationid="nakahodo" creationdate="20180406T132607Z">
+        <seg>洞窟を除く、他の各プレイヤーにアーティファクトトークンを1つずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give 1random Automa persona card and 2 minions (doesn't matter which) to each Automa.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T154227Z">
@@ -11828,6 +11860,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any Possession cards in the deck refer to Flare, take the Flare Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132412Z" creationid="nakahodo" creationdate="20180406T132412Z">
+        <seg>デッキの憑依カードがフレアを参照するのであれば、フレアヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any Robotanists are in the Lab, you and your opponents must move them, starting with the number 1 space, to any unoccupied space on the game board that could earn Favor Cogs.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T231209Z" creationid="nakahodo" creationdate="20180311T231209Z">
@@ -12026,6 +12066,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such tile exists, place a Dark tile (provided by the Cave, if present) and place the Ghost piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133001Z" creationid="nakahodo" creationdate="20180406T133001Z">
+        <seg>そのようなタイルが存在しない場合、ダークタイル1枚を配置し（居る場合は洞窟プレイヤーから提供されます）、そこにゴーストピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no undamaged items remain to damage, the Vagabond ignores any remaining hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231804Z" creationid="aorin" creationdate="20171215T231804Z">
@@ -12046,6 +12094,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130503Z" creationid="aorin" creationdate="20171212T130503Z">
         <seg>プレイヤー1人のみがシルバーを提供していた場合、彼はまた最もシルバーを提供したことにもなり、したがって、シルバートラックを2ステップ進行させることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If other players also get Flare, place the card near the map;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132436Z" creationid="nakahodo" creationdate="20180406T132436Z">
+        <seg>他のプレイヤーたちもまたフレアを得る場合、マップの近くにカードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14914,6 +14970,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move and Act</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133122Z" creationid="nakahodo" creationdate="20180406T133122Z">
+        <seg>移動と行動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move from any clearing whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002255Z" creationid="aorin" creationdate="20171216T002255Z">
@@ -16653,6 +16717,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place all Artifact tokens on the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132655Z" creationid="nakahodo" creationdate="20180406T132641Z">
+        <seg>エントランスタイルに全てのアーティファクトトークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place all of your advancement cards (face up), worker meeples, and 12 influence tokens in front of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163221Z" creationid="aorin" creationdate="20171228T163221Z">
@@ -16859,6 +16931,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193831Z" creationid="aorin" creationdate="20180114T193831Z">
         <seg>スコアトラックの横にプレイヤーのスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the remaining Artifact tokens on the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132630Z" creationid="nakahodo" creationdate="20180406T132630Z">
+        <seg>エントランスタイルに残ったアーティファクトトークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18437,6 +18517,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve Possession Card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133116Z" creationid="nakahodo" creationdate="20180406T133116Z">
+        <seg>憑依カードの解決</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolve all “Upkeep” effects on Buildings.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030433Z" creationid="aorin" creationdate="20171212T030433Z">
@@ -18993,6 +19081,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093657Z" creationid="nakahodo" creationdate="20180108T093657Z">
         <seg>オートマのホームチャーターを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Possession Card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133252Z" creationid="nakahodo" creationdate="20180406T133252Z">
+        <seg>憑依カードの選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -20893,6 +20989,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123741Z" creationid="nakahodo" creationdate="20180406T123541Z">
         <seg>ゴーストは任意の他のプレイヤー数字とロールに組み合わせて追加する事ができる、プレイヤーロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost is seventh in turn order, after the Ghoul.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133042Z" creationid="nakahodo" creationdate="20180406T133042Z">
+        <seg>ゴーストはターン順で7番目で、ゴーストの後になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24296,6 +24400,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn Summary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133009Z" creationid="nakahodo" creationdate="20180406T133009Z">
+        <seg>ターン概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the leftmost face-down Round Tile face up.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T120413Z" creationid="aorin" creationdate="20171212T120413Z">
@@ -27686,6 +27798,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075928Z" creationid="aorin" creationdate="20171213T075928Z">
         <seg>例えば、慈悲タイルは慈悲スペースに戻り、他の一回使用タイルのスペースには戻りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>each of those players may use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132455Z" creationid="nakahodo" creationdate="20180406T132455Z">
+        <seg>各プレイヤーはそれを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
