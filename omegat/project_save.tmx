@@ -4105,6 +4105,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A non-locked Artifact can be moved into</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180455Z" creationid="aorin" creationdate="20180406T180455Z">
+        <seg>ロックされていないアーティファクトは、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number 1 Sector Die can spin to a number 6 Sector Die and vice versa.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074458Z" creationid="nakahodo" creationdate="20180311T074458Z">
@@ -7791,6 +7799,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091852Z" creationid="nakahodo" creationdate="20180108T091852Z">
         <seg>オートマカード1枚ドロー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark or Lit tiles and into spaces that hold other player pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180555Z" creationid="aorin" creationdate="20180406T180555Z">
+        <seg>ダークタイルやライトタイル、他のプレイヤーピースを保持するスペースに移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
