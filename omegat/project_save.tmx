@@ -7379,6 +7379,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collect all Possession cards except the card (if any) on your Mental Block space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T182407Z" creationid="aorin" creationdate="20180406T182407Z">
+        <seg>メンタルブロックスペースのカードを（もしあれば）除いて、全ての憑依カードを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combat Phase:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210502Z" creationid="aorin" creationdate="20180114T210502Z">
