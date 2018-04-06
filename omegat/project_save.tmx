@@ -5848,6 +5848,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of another player’s turn, you may reveal the Possession card on your Possession space (not your Mental Block space) if the card matches that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T183107Z" creationid="aorin" creationdate="20180406T183107Z">
+        <seg>他のプレイヤーターンの終わりに、()自身の憑依スペースのカードとそのプレイヤーが一致する場合に、あなたは憑依カードの公開ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of another player’s turn, you might also take a possession turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133517Z" creationid="nakahodo" creationdate="20180406T133517Z">
