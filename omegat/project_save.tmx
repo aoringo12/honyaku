@@ -6373,6 +6373,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before you set up the Cave (page 2 in Vast:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T130625Z" creationid="nakahodo" creationdate="20180406T130625Z">
+        <seg>洞窟のセットアップの前に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235006Z" creationid="aorin" creationdate="20171215T235006Z">
@@ -9875,6 +9883,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Ghost tiles with the help of other players, lock 5 Artifacts onto Ghost tiles, and then escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T130605Z" creationid="nakahodo" creationdate="20180406T130605Z">
+        <seg>他のプレイヤーたちの助けを借りてゴーストタイルを見つけ、ゴーストタイルにアーチファクト5つをロックし、エントランスタイルに入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the leftmost building of that type remaining on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235339Z" creationid="aorin" creationdate="20171215T235339Z">
@@ -11223,6 +11239,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her only hope of finding peace is to place the few lasting remnants of her mortal life at focal points within the Cave, and then draw enough energy from them to finally escape the curse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T130439Z" creationid="nakahodo" creationdate="20180406T130439Z">
+        <seg>彼女が安らぎを得る唯一の希望は、最後に少しだけ残った彼女の生きた証、それを洞窟の根源へと残し、苦しみから抜け出すために十分なエネルギーを引き出すことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here are a couple examples:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002401Z" creationid="aorin" creationdate="20180115T002401Z">
@@ -11379,6 +11403,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141652Z" creationid="nakahodo" creationdate="20171213T141652Z">
         <seg>1ゴールドを受け取るために必要なシルバーの量は、シルバートラックの自身の位置によって変わります。この交換は複数回できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to Win</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T130443Z" creationid="nakahodo" creationdate="20180406T130443Z">
+        <seg>勝利するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -16727,6 +16759,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Blocking the Ghost Reference card where everyone can see it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131258Z" creationid="nakahodo" creationdate="20180406T131258Z">
+        <seg>幽霊を止めろリファレンスカードを、全員が見ることのできるように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the General cards and miniatures near the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193300Z" creationid="aorin" creationdate="20180114T193300Z">
@@ -20510,6 +20550,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Crystal Caverns), return 2 Ambush tiles, 2 Event tiles, and 2 Treasure tiles to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T130854Z" creationid="nakahodo" creationdate="20180406T130854Z">
+        <seg>（ヴァスト：クリスタルカーヴァンの2ページ）、アンブッシュタイル2枚、イベントタイル2枚、トレジャータイル2枚をボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Decree</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000739Z" creationid="aorin" creationdate="20171216T000739Z">
@@ -22800,6 +22848,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T124017Z" creationid="nakahodo" creationdate="20171001T124017Z">
         <seg>その後、チームは5つの豆スペースが埋まるかチーム全員で止めると決定するまで、次の豆を引くプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, when you form the three piles of Cave tiles, shuffle 2 Ghost tiles into each pile, continuing to shuffle until none of the piles shows a Ghost tile on top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131122Z" creationid="nakahodo" creationdate="20180406T131122Z">
+        <seg>その後、洞窟タイルの3つの山札を形成する時、各山札にゴーストタイル2つを入れてそれぞれシャッフルし、全ての山札の一番上にゴーストタイルがでなくなるまでシャッフルし続けます。</seg>
       </tuv>
     </tu>
     <tu>
