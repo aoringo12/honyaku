@@ -2750,6 +2750,15 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3) Select Possession Card Collect all Possession cards except the card (if any) on your Mental Block space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T181317Z" creationid="aorin" creationdate="20180406T181317Z">
+        <seg>3) Select Possession Card
+Collect all Possession cards except the card (if any) on your Mental Block space.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3, Return all components from all personal supplies and Charter Chests to the general supply, including sky island tiles and persona cards (which are shuffled to form a persona deck).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T232805Z">
@@ -7732,6 +7741,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073923Z" creationid="aorin" creationdate="20171216T073923Z">
         <seg>クロスチャートシフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crystal, Event, Vault, and Bomb tokens cannot be moved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T181020Z" creationid="aorin" creationdate="20180406T181020Z">
+        <seg>クリスタル、イベント、ヴォルト、爆弾トークンは移動させられません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15757,6 +15774,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you move a non-locked Artifact through a wall, you cannot move it further during the same turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180954Z" creationid="aorin" creationdate="20180406T180954Z">
+        <seg>あなたがロックされていないアーティファクトを壁を抜けて移動させると、同じターン時あなたは移動できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you purchase a Discovery, place the card face-up in front of your screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040638Z" creationid="aorin" creationdate="20180116T040638Z">
@@ -21190,6 +21215,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
         <seg>マルキス・デ・キャットのキープは全ての民が住んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight cannot be moved if she has a Hero cube assigned to her Shield.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T181113Z" creationid="aorin" creationdate="20180406T181113Z">
+        <seg>ナイトがヒーローキューブを彼女の盾に割り当てている場合、ナイトを移動させられません。</seg>
       </tuv>
     </tu>
     <tu>
