@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, in a game with the Knight, Dragon, and Ghost, you take the Possessed Knight, Possessed Dragon, and Ghost Possession cards.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131951Z" creationid="nakahodo" creationdate="20180406T131951Z">
+        <seg>（例えば、ナイト、ドラゴン、ゴーストがゲームに居る場合、憑依されたナイト、評されたドラゴン、ゴーストの憑依カードを取ります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
@@ -3759,8 +3767,8 @@ SCORING</seg>
       <tuv lang="EN-US">
         <seg>9 Possession Cards</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123307Z" creationid="nakahodo" creationdate="20180406T123307Z">
-        <seg>9所持カード</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131745Z" creationid="nakahodo" creationdate="20180406T123307Z">
+        <seg>9憑依カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -10294,6 +10302,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075643Z" creationid="aorin" creationdate="20171216T075643Z">
         <seg>この移動でのみ、あなたは森に入る移動ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form the Possession deck as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131819Z" creationid="nakahodo" creationdate="20180406T131707Z">
+        <seg>憑依デッキを次に従い形成します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18043,6 +18059,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to Possession in Two-Player and Solo Games (page 4) for setup and play rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132314Z" creationid="nakahodo" creationdate="20180406T132314Z">
+        <seg>2プレイヤーの憑依とソロゲーム（4ページ）のセットアップとプレイルールを参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to the Index Guide (printed on the Index tuckbox) to determine the components to extract.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200043Z" creationid="nakahodo" creationdate="20171218T200043Z">
@@ -19478,6 +19502,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Solo or two players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T132022Z" creationid="nakahodo" creationdate="20180406T132022Z">
+        <seg>ソロ、またはプレイヤー2人：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Blend Slates have one bean space filled
 in with a specific color.</seg>
       </tuv>
@@ -20121,6 +20153,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083237Z" creationid="aorin" creationdate="20171216T083237Z">
         <seg>トーカルの遺跡トークン1つを鳥、これを公開し、自身の消耗したアイテムプールにこれを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Possession cards matching the roles being played, and return the other Possession cards to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131858Z" creationid="nakahodo" creationdate="20180406T131858Z">
+        <seg>プレイヤされているロールに一致するように憑依カードを取り、他の憑依カードをボックスに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23868,6 +23908,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Three or more players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131827Z" creationid="nakahodo" creationdate="20180406T131827Z">
+        <seg>プレイヤーが3人以上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus She will punish all players!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165851Z" creationid="aorin" creationdate="20171212T165659Z">
@@ -24647,6 +24695,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T092331Z" creationid="nakahodo" creationdate="20180108T091902Z">
         <seg>通常どおりプレイヤー順番ルールを使用して、オートマのターンで彼が配置するのに利用可能な通常ワーカーを持つ場合、オートマデッキの一番上のカードを公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Focus cube, set your Focus to 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T131318Z" creationid="nakahodo" creationdate="20180406T131318Z">
+        <seg>フォーカスキューブを使用して、あなtのフォーカスを0に設定します。</seg>
       </tuv>
     </tu>
     <tu>
