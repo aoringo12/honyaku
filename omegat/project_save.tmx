@@ -14010,6 +14010,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be moved into your space, but cannot end this phase there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180905Z" creationid="aorin" creationdate="20180406T180710Z">
+        <seg>このアーティファクトを自身のスペースに移動させられますが、このフェイズをそこで終了することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be moved through a wall if you have at least 3 Influence and if you have not yet moved it during this turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T180841Z" creationid="aorin" creationdate="20180406T180841Z">
+        <seg>あなたが少なくとも3影響力を持ち、このターンあなたがまだ移動していないなら、このアーティファクトを壁を抜けて移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be placed on an empty plot on any building with no tokens on it (but not a basic resource building).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235015Z" creationid="aorin" creationdate="20171231T235015Z">
