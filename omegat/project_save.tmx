@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, with 3 Influence, you could move an object one space, move your piece, and then move the same object two more spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T175631Z" creationid="aorin" creationdate="20180406T175547Z">
+        <seg>（例えば、3影響力の時、あなたはオブジェクト1つを1スペース移動させ、自身のピースを移動し、その後、同じオブジェクトをさらに2スペース移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
@@ -14442,6 +14450,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Later in your turn, you could move up to two other objects, each up to three spaces.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T175843Z" creationid="aorin" creationdate="20180406T175843Z">
+        <seg>あなたのターンの後、あなたは別のオブジェクト2つまでを、それぞれ3スペースまで移動させることができます。移動力と影響力は別のことに注意してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaders</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003228Z" creationid="aorin" creationdate="20171216T003228Z">
@@ -27063,8 +27079,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may move a number of spaces up to your Movement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134637Z" creationid="nakahodo" creationdate="20180406T134637Z">
-        <seg>あなたは、移動力のスペース上の数字だけ移動できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T175559Z" creationid="nakahodo" creationdate="20180406T134637Z">
+        <seg>あなたは、移動力の数だけスペースを移動できます。</seg>
       </tuv>
     </tu>
     <tu>
