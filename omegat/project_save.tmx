@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, you may reveal the Possessed Dragon at the end of the Dragon’s turn.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T183157Z" creationid="aorin" creationdate="20180406T183157Z">
+        <seg>（例えば、ドラゴンのターンの終わりに、あなたは憑依ドラゴンカードを公開できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
@@ -5850,8 +5858,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the end of another player’s turn, you may reveal the Possession card on your Possession space (not your Mental Block space) if the card matches that player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180406T183107Z" creationid="aorin" creationdate="20180406T183107Z">
-        <seg>他のプレイヤーターンの終わりに、()自身の憑依スペースのカードとそのプレイヤーが一致する場合に、あなたは憑依カードの公開ができます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T183134Z" creationid="aorin" creationdate="20180406T183107Z">
+        <seg>他のプレイヤーターンの終わりに、(メンタルブロックスペースではなく)自身の憑依スペースのカードとそのプレイヤーが一致する場合に、あなたは憑依カードの公開ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26986,6 +26994,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132635Z" creationid="nakahodo" creationdate="20171127T132635Z">
         <seg>1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot reveal the Possession card if any player piece is on a Ghost tile with a locked Artifact (so you cannot take a possession turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T183303Z" creationid="aorin" creationdate="20180406T183303Z">
+        <seg>対象のプレイヤーピースがロックされたアーティファクトを持つゴーストタイルに居る場合、あなたは憑依カードを公開できません（なので憑依ターンを得られません）。</seg>
       </tuv>
     </tu>
     <tu>
