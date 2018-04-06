@@ -1130,6 +1130,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Cave Ghost Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123214Z" creationid="nakahodo" creationdate="20180406T123214Z">
+        <seg>1洞窟ゴーストボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Chartersts one token  1 progres  4 plastic bags Extract card 3 from the Index.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000108Z" creationid="aorin" creationdate="20171229T000108Z">
@@ -1163,10 +1171,26 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Focus Cube</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123407Z" creationid="nakahodo" creationdate="20180406T123407Z">
+        <seg>1フォーカスキューブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Food Tile, 1 Permanent Ability Tile and 1</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043334Z" creationid="aorin" creationdate="20171213T043334Z">
         <seg>食料タイル1、永続能力タイル1、一回使用タイル1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Ghost Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123206Z" creationid="nakahodo" creationdate="20180406T123206Z">
+        <seg>1ゴーストボード</seg>
       </tuv>
     </tu>
     <tu>
@@ -1183,6 +1207,22 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143837Z" creationid="nakahodo" creationdate="20171213T143837Z">
         <seg>•1ドレイで1ペナルティポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Reference Card (“Blocking the Ghost”)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123500Z" creationid="nakahodo" creationdate="20180406T123425Z">
+        <seg>1リファレンスカード（”幽霊を止めろ”）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Variant Card (“Crowded House”)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123545Z" creationid="nakahodo" creationdate="20180406T123527Z">
+        <seg>1ヴァリアントカード（”いっぱい屋敷”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3640,14 @@ look something like the diagram above.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 Difficulty Variant Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123425Z" creationid="nakahodo" creationdate="20180406T123425Z">
+        <seg>5難易度ヴァリアントカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 for fewer than 6 Players...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T030338Z" creationid="nakahodo" creationdate="20171224T135238Z">
@@ -3630,6 +3678,22 @@ KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071756Z" creationid="nakahodo" creationdate="20171209T071756Z">
         <seg>キーワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 Artifact Tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123338Z" creationid="nakahodo" creationdate="20180406T123338Z">
+        <seg>6アーティファクトトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 Ghost Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123350Z" creationid="nakahodo" creationdate="20180406T123350Z">
+        <seg>6ゴーストタイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -3689,6 +3753,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T074925Z" creationid="nakahodo" creationdate="20171209T074925Z">
         <seg>得点計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9 Possession Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123307Z" creationid="nakahodo" creationdate="20180406T123307Z">
+        <seg>9所持カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -13631,6 +13703,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of collecting Artifacts, she uses the Cave’s victory condition of collapsing the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T124225Z" creationid="nakahodo" creationdate="20180406T124225Z">
+        <seg>アーティファクトを集める代わりに、彼女は洞窟の勝利条件である、洞窟の崩壊を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of committing several Soldiers to a territory where you expect a large battle to occur (an unoccupied Village, for example), consider attacking a weakly defended link in your opponent’s supply chain.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120657Z" creationid="aorin" creationdate="20180115T120657Z">
@@ -19042,6 +19122,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She shares some parts of the Ghost and the Cave’s powers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T124137Z" creationid="nakahodo" creationdate="20180406T124137Z">
+        <seg>彼女はゴーストと洞窟のパワーの一部を共有しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She will earn four Favor Cogs.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T081209Z" creationid="nakahodo" creationdate="20180312T081209Z">
@@ -20366,6 +20454,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave Ghost is a player role that replaces the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T124101Z" creationid="nakahodo" creationdate="20180406T124101Z">
+        <seg>洞窟ゴーストは洞窟に置き換えられるプレイヤーロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cloud Port (or any building with ヽツas the benefit) allows a player to sell a variable amount of 1 commodity to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T100943Z" creationid="aorin" creationdate="20171219T100943Z">
@@ -20677,6 +20773,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080109Z" creationid="nakahodo" creationdate="20180311T080109Z">
         <seg>ガーデンは6つのガーデンセクターから成り立っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost is a player role that can be added to any other combination of player numbers and roles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123741Z" creationid="nakahodo" creationdate="20180406T123541Z">
+        <seg>ゴーストは任意の他のプレイヤー数字とロールに組み合わせて追加する事ができる、プレイヤーロールです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24643,6 +24747,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We recommend that you use the Ghost to replace one of the five original roles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T123839Z" creationid="nakahodo" creationdate="20180406T123839Z">
+        <seg>我々は基本ゲームのオリジナルロール5つの内1つを、ゴーストに置き換えて使用することを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to Charterstone.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203604Z" creationid="nakahodo" creationdate="20171218T140653Z">
@@ -25863,6 +25975,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131655Z" creationid="aorin" creationdate="20171215T131655Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、初心者はプレイ学習ガイドからそうすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While you can add the Ghost to the original roles to accommodate six players (or seven if you also include the Ghoul), playing with more than five players may slow down the game significantly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T124043Z" creationid="nakahodo" creationdate="20180406T124043Z">
+        <seg>6プレイヤーで遊ぶために、基本ゲームロールにゴーストを追加できますが（または、グールも含めて7人でも）、5人でのプレイよりも大幅にゲーム進行が遅くなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
