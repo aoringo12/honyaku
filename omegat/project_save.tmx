@@ -1251,6 +1251,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133848Z" creationid="nakahodo" creationdate="20180406T133848Z">
+        <seg>1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1) Move and Use Powers</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131718Z" creationid="nakahodo" creationdate="20171127T131718Z">
@@ -5770,6 +5778,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070309Z" creationid="nakahodo" creationdate="20180311T070309Z">
         <seg>設定された数のラウンドの終わりに、クイーンから最も寵愛の歯車を得たプレイヤーが勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of another player’s turn, you might also take a possession turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133517Z" creationid="nakahodo" creationdate="20180406T133517Z">
+        <seg>他のプレイヤーのターン終了時にて、あなたは憑依ターンを得ることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12517,6 +12533,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is an unrevealed Possession card on the Possession space of your player board, gain 1 Focus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134056Z" creationid="nakahodo" creationdate="20180406T134056Z">
+        <seg>あなたのプレイヤーボードの憑依スペースに未公開の憑依カードがある場合、1フォーカスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is ever no unanimous decision, players on a team must pull
 one single bean at a time
 in turn order.</seg>
@@ -13783,6 +13807,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Influence [INF] determines the strength of your Telekinesis and Possession powers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133929Z" creationid="nakahodo" creationdate="20180406T133837Z">
+        <seg>影響力は憑依とテレキネシスパワーの強さです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ingredient from every active</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151701Z" creationid="nakahodo" creationdate="20180108T151622Z">
@@ -14972,8 +15004,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Move and Act</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133122Z" creationid="nakahodo" creationdate="20180406T133122Z">
-        <seg>移動と行動</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133257Z" creationid="nakahodo" creationdate="20180406T133122Z">
+        <seg>移動とアクション</seg>
       </tuv>
     </tu>
     <tu>
@@ -15022,6 +15054,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214558Z" creationid="aorin" creationdate="20171215T214558Z">
         <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement is the number of spaces you can move per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133757Z" creationid="nakahodo" creationdate="20180406T133757Z">
+        <seg>移動力はターン毎に移動できるスペース数です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18981,6 +19021,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STAT ISTICS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133546Z" creationid="nakahodo" creationdate="20180406T133543Z">
+        <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Science IP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035017Z" creationid="aorin" creationdate="20180116T035017Z">
@@ -19554,6 +19602,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074927Z" creationid="aorin" creationdate="20171213T074927Z">
         <seg>一回使用タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip this phase during your first turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133951Z" creationid="nakahodo" creationdate="20180406T133951Z">
+        <seg>あなたの最初のターン時、このフェイズはスキップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22938,6 +22994,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, if the unrevealed card is the Ghost card, you can reveal it to gain its listed bonuses to your Movement and Influence until the end of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T134225Z" creationid="nakahodo" creationdate="20180406T134225Z">
+        <seg>その後、未公開カードがゴーストカードだった場合、あなたはこれを公開し、自身のターンが終了するまで、移動力と影響力に記述されたボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, resolve the Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002051Z" creationid="aorin" creationdate="20171216T002051Z">
@@ -24402,8 +24466,8 @@ Chris Blend first.</seg>
       <tuv lang="EN-US">
         <seg>Turn Summary</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133009Z" creationid="nakahodo" creationdate="20180406T133009Z">
-        <seg>ターン概要</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133301Z" creationid="nakahodo" creationdate="20180406T133009Z">
+        <seg>ターンサマリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -27439,6 +27503,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Focus, which may increase through play, sets your Movement and Influence for the current turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133845Z" creationid="nakahodo" creationdate="20180406T133543Z">
+        <seg>あなたのフォーカスは、プレイを通して増加し、あなたの移動力と現在のターンの影響力を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Loyal Viziers begin on Move and Battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003532Z" creationid="aorin" creationdate="20171216T003532Z">
@@ -27579,6 +27651,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194337Z" creationid="aorin" creationdate="20180114T194337Z">
         <seg>あなたの種族の首都です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your turn ends when you complete these phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133333Z" creationid="nakahodo" creationdate="20180406T133333Z">
+        <seg>あなたのターンは、これら3つのフェイズを完了した時に終了します。</seg>
       </tuv>
     </tu>
     <tu>
