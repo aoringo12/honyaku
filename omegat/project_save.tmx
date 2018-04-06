@@ -26757,6 +26757,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can split up an object’s total spaces of movement into multiple moves during your turn, as long as its total movement throughout your turn does not exceed your Influence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180406T175423Z" creationid="aorin" creationdate="20180406T175423Z">
+        <seg>あなたのターン全体の移動があなたの移動力を越えない限り、オブジェクト1つの合計移動スペースを複数の移動に分割することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can take actions by spending supporters from a forest nation box, returning spent supporters to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053017Z" creationid="aorin" creationdate="20171216T053017Z">
