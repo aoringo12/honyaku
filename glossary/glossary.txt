@@ -467,3 +467,9 @@ Possession	憑依
 Dark tile	ダークタイル
 exist	存在
 if present	居る場合
+STAT ISTICS	ステータス
+Movement	移動力
+Influence	影響力
+Influence	支配力
+Influence [INF]	影響力
+unrevealed	明らかにされていない
