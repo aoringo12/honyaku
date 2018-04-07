@@ -12070,6 +12070,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a second card is added to her Mental Block space, return the first card to her Possession deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T231209Z" creationid="aorin" creationdate="20180407T231209Z">
+        <seg>メンタルブロックスペースに二枚目のカードが追加される場合、前のカードは憑依デッキに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all Reward Tiles with a golden number have been distributed (3 tracks, 5 Tiles per track), the end of the game is triggered.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103052Z" creationid="aorin" creationdate="20171212T103052Z">
