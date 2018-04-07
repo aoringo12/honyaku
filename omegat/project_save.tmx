@@ -248,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>(For example, if the Possessed Ghoul prompted you to roll 4 Ghoul dice, you could reroll one die to get a fourth result, but you could choose from all four results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180407T153409Z" creationid="aorin" creationdate="20180407T153409Z">
-        <seg>（例えば、憑依されたグールであなたがグールダイスを4つロールするよう指示された場合、4つの結果を得るために1つのダイスを振り直すことになりますが、結果は4つ全ての中から選択します）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T153625Z" creationid="aorin" creationdate="20180407T153409Z">
+        <seg>（例えば、憑依されたグールであなたがグールダイスを4つロールするよう指示された場合、4つの結果を得るために1つのダイスを振り直すことになりますが、結果は4つ全ての中から選択します</seg>
       </tuv>
     </tu>
     <tu>
@@ -8089,8 +8089,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Dice: If a Possession card prompts you to roll more dice than there are available for use or are included in the game, you can substitute dice or reroll dice to represent the additional dice you need to roll.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180407T153244Z" creationid="aorin" creationdate="20180407T153244Z">
-        <seg>ダイス：憑依カードが</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T153617Z" creationid="aorin" creationdate="20180407T153244Z">
+        <seg>ダイス：憑依カードがゲームの内容物として利用可能な数を越えてダイスのロールを指示する場合、あなたは代わりのダイスを使用するか、ダイスを振り直し、これをロールする必要がある追加のダイスとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16125,6 +16125,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104144Z" creationid="aorin" creationdate="20171212T104055Z">
         <seg>または、妖精のいない、ダブルアクションスペースにディスク2つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or if the Possessed Vile Ghoul prompted you to roll 2 Ghoul dice, but all the Vile Ghoul player’s dice were assigned to its dice chart, you could roll the Thief die twice and choose from the two results.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T153859Z" creationid="aorin" creationdate="20180407T153859Z">
+        <seg>または、憑依されたバイルグールであなたが2つのグールダイスのロールを指示されたが、バイルグールプレイヤーのダイス全てがダイスチャートに割り当てられていた場合、シーフダイスを2回ロールし、2つの結果から選択します）</seg>
       </tuv>
     </tu>
     <tu>
