@@ -5664,6 +5664,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At any time during a possession turn, the Ghost may force the possessed player to drop a carried Artifact onto their space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235110Z" creationid="aorin" creationdate="20180407T235110Z">
+        <seg>憑依ターン時の任意のタイミングにて、ゴーストは自身のスペースに運んだアーティファクトを落とすよう、憑依したプレイヤーに強制させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At dawn, fig11res eme1ye fi·om the h11ge tents just outside of town.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223951Z" creationid="aorin" creationdate="20171231T223823Z">
@@ -14110,6 +14118,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T232111Z" creationid="nakahodo" creationdate="20180311T232111Z">
         <seg>このステップにて、あなたは自身のロボタニストたちの場所に応じて寵愛の歯車を得ることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In total, the Goblin Tribes can carry one Artifact, not three.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T234843Z" creationid="aorin" creationdate="20180407T234843Z">
+        <seg>ゴブリン全体で3つではなく、1つのアーティファクトのみを運びます。</seg>
       </tuv>
     </tu>
     <tu>
