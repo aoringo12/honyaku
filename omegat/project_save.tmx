@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Cave does not have a player piece, so it cannot block Possession cards in this way.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225158Z" creationid="aorin" creationdate="20180407T225158Z">
+        <seg>（洞窟はプレイヤーピースを持っていないので、この方法で憑依カードを防御できません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -6568,6 +6576,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225126Z" creationid="aorin" creationdate="20180407T225126Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bonus - including Automas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111121Z" creationid="nakahodo" creationdate="20180108T111121Z">
@@ -8436,6 +8452,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T022642Z" creationid="aorin" creationdate="20171229T022642Z">
         <seg>ゲーム7時、プレイヤーガ対戦相手のコイン[または]リソースコストのある建物を使用するたびに、共通サプライの代わりに、対戦相手にそのコストを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During another player’s turn, if their player piece is on the same space as the Ghost or on an adjacent space (ignore walls), that player can cause the Ghost to have a Mental Block by spending the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225335Z" creationid="aorin" creationdate="20180407T225335Z">
+        <seg>ゴースト以外のプレイヤーのターン時、ゴーストと同じか隣接スペースにプレイヤーピースがある場合（壁は無視）、そのプレイヤーは次を消費することでメンタルブロックをゴーストに仕掛けることができます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11129,6 +11153,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093837Z" creationid="aorin" creationdate="20171212T093837Z">
         <seg>ゲームのゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goblins: Discard [INF] Secrets cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225416Z" creationid="aorin" creationdate="20180407T225416Z">
+        <seg>ゴブリン：影響力の数だけシークレットカードを破棄する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14567,6 +14599,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042016Z" creationid="aorin" creationdate="20171213T042016Z">
         <seg>クラウスはシルバートラックの4段目にいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knight: Lose [INF+2] Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225358Z" creationid="aorin" creationdate="20180407T225358Z">
+        <seg>ナイト：影響力+2の経験値を失う。</seg>
       </tuv>
     </tu>
     <tu>
