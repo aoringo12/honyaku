@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>(For example, the possessed Dragon cannot remove a second Pride cube for revealing an Event tile if the Dragon player already removed a cube during his turn, the possessed Thief cannot target the same player with Backstab a second time, and the possessed Cave must spend more Omen tokens to use omens such as Hatred and Past Plunder if they were used during the Cave player’s turn.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180407T152107Z" creationid="aorin" creationdate="20180407T152107Z">
-        <seg>（例えば、憑依されたドラゴンは、ドラゴンプレイヤーが既に自身のターン時にブライドのキューブを取り除いていた場合、イベントタイルを公開することによって2つめのプライドキューブを取り除くことは出来ません。憑依されたシーフは二度目のバックスタブを同じプレイヤーへと対象にすることはできません。憑依された洞窟は、）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T152309Z" creationid="aorin" creationdate="20180407T152107Z">
+        <seg>（例えば、憑依されたドラゴンは、ドラゴンプレイヤーが既に自身のターン時にブライドのキューブを取り除いていた場合、イベントタイルを公開することによって2つめのプライドキューブを取り除くことは出来ません。憑依されたシーフは二度目のバックスタブを同じプレイヤーへと対象にすることはできません。憑依された洞窟は、洞窟プレイヤーが自身のターンで憎悪や過去の略奪品を使用していた場合、それらを使用するために、さらに前兆トークンを消費する必要があります）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13965,6 +13965,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133929Z" creationid="nakahodo" creationdate="20180406T133837Z">
         <seg>影響力は憑依とテレキネシスパワーの強さです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information: You do not gain access to private information held by the possessed player, such as cards in their own hand, except for the Cave’s hand of tiles (as described on its card).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T152900Z" creationid="aorin" creationdate="20180407T152900Z">
+        <seg>情報：あなたは、（カードに記述されているように）洞窟の手札タイルを除いて、憑依したプレイヤーの持つ個人情報を知ることはできません。例えば彼らの手札カードなどです。</seg>
       </tuv>
     </tu>
     <tu>
