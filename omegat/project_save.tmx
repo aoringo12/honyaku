@@ -13665,8 +13665,8 @@ cannot be chosen, unless a special action would allow it.</seg>
       <tuv lang="EN-US">
         <seg>In games without the Cave player, the player taking a turn places or collapses tiles before the Ghost chooses to reveal a Possession card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180407T143245Z" creationid="aorin" creationdate="20180407T143245Z">
-        <seg>洞窟プレイヤーの居ないゲームでは、ゴーストが憑依カードを公開する選択をする前に、ターンプレイヤーがタイルの配置[または]崩壊の処理を行います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T144640Z" creationid="aorin" creationdate="20180407T143245Z">
+        <seg>洞窟プレイヤーの居ないゲームでは、ゴーストが憑依カードを公開するかの選択をする前に、ターンプレイヤーがタイルの配置[または]崩壊の処理を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19091,6 +19091,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T071657Z" creationid="nakahodo" creationdate="20180311T071657Z">
         <seg>プレイルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rules: You play the turn from its beginning, following the normal rules for the role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T144900Z" creationid="aorin" creationdate="20180407T144900Z">
+        <seg>ルール：ロールの通常ルールに従い、ターンを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25775,6 +25783,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041031Z" creationid="aorin" creationdate="20180116T041031Z">
         <seg>ディスカバリーカードを購入した時、一致するディスカバリートークンを獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you reveal a matching Possession card, you begin a possession turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T144732Z" creationid="aorin" creationdate="20180407T144732Z">
+        <seg>あなたが一致する憑依カードを公開した時、あなたの憑依ターン1回が始まります。</seg>
       </tuv>
     </tu>
     <tu>
