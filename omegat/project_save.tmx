@@ -12508,6 +12508,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the matching card came from the Ghost’s Possession space, she does not take a possession turn at the end of the matching player’s turn, and she does not gain 1 Focus during her next Resolve Possession Card phase for having an unrevealed card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T231139Z" creationid="aorin" creationdate="20180407T231139Z">
+        <seg>ターンプレイヤーとゴーストの憑依スペースにあるカードが一致する場合、ゴーストはそのプレイヤーのターン終了時に憑依ターンを獲得できず、自身のターンの憑依カードフェイズの解決時、未公開カードを持っていることによるフォーカス1つを得ることもできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the only slaves that can still get Rocks are the player’s own slaves, the player is obliged to enchain their own slaves.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074534Z" creationid="aorin" creationdate="20171213T074534Z">
