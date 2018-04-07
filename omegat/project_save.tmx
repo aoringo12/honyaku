@@ -11691,6 +11691,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you must use the statistics and follow the restrictions listed on the Possession card (not the possessed player’s statistics).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T150304Z" creationid="aorin" creationdate="20180407T150304Z">
+        <seg>しかし、（憑依されたプレイヤーのステータスではなく）憑依カードに記述されたステータスを使用し、制限に従う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't return what I've taken, but I promise to stop."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
