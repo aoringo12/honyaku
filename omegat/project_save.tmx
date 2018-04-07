@@ -24568,6 +24568,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Track the role’s victory conditions and other states (Grit, Wakefulness, Fury, etc.) as normal unless noted otherwise on the Possession card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T150847Z" creationid="aorin" creationdate="20180407T150847Z">
+        <seg>憑依カードに特に記述がない限り、ロールの勝利条件と他のステータスを通常どおり参照します（経験値、覚醒、怒り、など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041547Z" creationid="aorin" creationdate="20171213T041408Z">
