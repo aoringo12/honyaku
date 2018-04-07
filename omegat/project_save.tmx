@@ -26356,6 +26356,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever the Goblins’ Artifact is off the map, give it to the next Tribe to reveal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T234756Z" creationid="aorin" creationdate="20180407T234756Z">
+        <seg>ゴブリンのアーティファクトがマップから無くなるたびに、次に明らかになる部族がこれを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever the deck is empty or new cards are unlocked, shuffle the discard pile into the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205258Z" creationid="aorin" creationdate="20180101T205258Z">
