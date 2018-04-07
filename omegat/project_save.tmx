@@ -15886,6 +15886,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the blocking player pays for the Mental Block, the Ghost removes the Possession card matching the blocking player from her Possession deck or Possession space, and places the card face-up in her Mental Block space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T230551Z" creationid="aorin" creationdate="20180407T230551Z">
+        <seg>プレイヤーがメンタルブロックを仕掛けると、ゴーストはブロックするプレイヤーに一致する憑依カードを自身の憑依デッキや憑依スペースから取り除き、メンタルブロックスペースに表向きでカードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the first player has finished all her reinforcement orders, she must declare a “pass.”</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064101Z" creationid="aorin" creationdate="20180115T064101Z">
