@@ -13663,6 +13663,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In games without the Cave player, the player taking a turn places or collapses tiles before the Ghost chooses to reveal a Possession card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T143245Z" creationid="aorin" creationdate="20180407T143245Z">
+        <seg>洞窟プレイヤーの居ないゲームでは、ゴーストが憑依カードを公開する選択をする前に、ターンプレイヤーがタイルの配置[または]崩壊の処理を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games without the Vagabond, the red-bordered slots begin open.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205230Z" creationid="aorin" creationdate="20171215T205230Z">
