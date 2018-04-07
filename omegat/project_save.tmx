@@ -14932,6 +14932,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Likewise, if the possessed player is not carrying an Artifact, the Ghost may instead force them to collect a non-locked Artifact on their space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235344Z" creationid="aorin" creationdate="20180407T235344Z">
+        <seg>同様に、憑依されたプレイヤーがアーティファクトを運んでいない場合、ゴーストは自身のスペースにあるロックされていないアーティファクトを強制的に拾わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line them up in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080028Z" creationid="nakahodo" creationdate="20171209T080028Z">
