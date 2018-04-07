@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(In games without the Cave player, Ghost tiles do not take priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235627Z" creationid="aorin" creationdate="20180407T235627Z">
+        <seg>（洞窟プレイヤーのいないゲームでは、ゴーストタイルは優先されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not playable by the Vagabond or Marquise.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233321Z" creationid="aorin" creationdate="20171215T233321Z">
