@@ -8287,6 +8287,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not lock an Artifact in these cases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233132Z" creationid="aorin" creationdate="20180407T233132Z">
+        <seg>これらのケースではアーティファクトはロックされません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not look through the cards and do not shuffle them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203746Z" creationid="nakahodo" creationdate="20171218T141357Z">
@@ -11996,6 +12004,23 @@ on the List, the old Blend is considered inferior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a non-possessed player carrying an
+Artifact enters such a Ghost tile on their own turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233215Z" creationid="aorin" creationdate="20180407T233215Z">
+        <seg>憑依されていないプレイヤーが自身のターンにて、ゴーストタイルへアーティファクトを運び入れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a non-possessed player forces another non-possessed player carrying an Artifact to enter such a Ghost tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233255Z" creationid="aorin" creationdate="20180407T233255Z">
+        <seg>憑依されていないプレイヤーが、別の憑依されていないアーティファクトを運ぶプレイヤーをゴーストタイルへと強制的に入れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player already has a Food Tile, the player is not allowed to choose this action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043120Z" creationid="aorin" creationdate="20171213T043120Z">
@@ -13405,8 +13430,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>If you use Telekinesis to move an Artifact, or a player carrying an Artifact, onto such a Ghost tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180407T232934Z" creationid="aorin" creationdate="20180407T232934Z">
-        <seg>ゴーストタイル1枚にアーティファクト1つをテレキネシスを使用して移動させる[または]プレイヤー1人がアーティファクト1つを運び込む。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233116Z" creationid="aorin" creationdate="20180407T232934Z">
+        <seg>ゴーストタイルにアーティファクト1つをテレキネシスを使用して移動させる[または]プレイヤーがアーティファクト1つを運び込む。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27970,6 +27995,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065720Z" creationid="nakahodo" creationdate="20180311T065720Z">
         <seg>あなたはロボタニストたちのグループを制御し、クイーンのガーデンを構築するために対戦相手を出し抜きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you lock 5 Artifacts to Ghost tiles, and then escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233358Z" creationid="aorin" creationdate="20180407T233358Z">
+        <seg>ゴーストタイルにアーティファクト5つをロックし、その後、エントランスタイルに入ることで洞窟から脱出することで、ゴーストは勝利します。</seg>
       </tuv>
     </tu>
     <tu>
