@@ -6016,6 +6016,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of the game, each Artifact shows its side without the blue border.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232443Z" creationid="aorin" creationdate="20180407T232443Z">
+        <seg>ゲーム開始時にて、各アーティファクトは青いボーダーの無い面になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of your first turn, place the Ghost piece on any unoccupied Dark tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132753Z" creationid="nakahodo" creationdate="20180406T132753Z">
@@ -14037,6 +14045,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210635Z" creationid="aorin" creationdate="20180114T210635Z">
         <seg>それぞれの戦闘が解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Individually they are of little value, but when placed on focal points they amplify the Ghost’s powers until she is strong enough to escape the Cave and her curse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232331Z" creationid="aorin" creationdate="20180407T232331Z">
+        <seg>それぞれは小さなそれが、フォーカスポイントに配置された時にゴーストのパワーを増幅し、洞窟から解き放たれるほどの強力な力となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23058,6 +23074,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T221656Z" creationid="nakahodo" creationdate="20171229T221656Z">
         <seg>あなたの過去の影はもう昔で、グリーングリーの新しい成功の時代へと導く準備ができています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The six Artifact tokens have different artwork, but they do not follow different rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232403Z" creationid="aorin" creationdate="20180407T232403Z">
+        <seg>6つのアーティファクトは異なる絵で表現されますが、全て同じルールに従います。</seg>
       </tuv>
     </tu>
     <tu>
