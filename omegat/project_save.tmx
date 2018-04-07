@@ -16209,6 +16209,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T153904Z" creationid="aorin" creationdate="20180407T153904Z">
+        <seg>他のプレイヤーたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other cards are added to the discard piles of their respective decks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100842Z" creationid="nakahodo" creationdate="20180108T100842Z">
@@ -24905,6 +24913,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T103112Z" creationid="nakahodo" creationdate="20180108T103112Z">
         <seg>オートマが一時的に人間プレイヤーに置き換えられない限り、オートマはゲーム間で任意のコンポーネントを持ち越しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless specifically noted, other players cannot target the Ghost with attacks, powers, or other effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T154312Z" creationid="aorin" creationdate="20180407T154312Z">
+        <seg>特に記述がない限り、他のプレイヤーたちは攻撃、パワー、他の効果の対象にゴースト選択できません。</seg>
       </tuv>
     </tu>
     <tu>
