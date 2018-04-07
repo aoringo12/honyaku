@@ -8431,6 +8431,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dropping or collecting an Artifact does not cost an action or any resource.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235426Z" creationid="aorin" creationdate="20180407T235426Z">
+        <seg>アーティファクトを落とす事と拾う事は、任意のリソースとアクションコストを必要としません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the village's rapid expansion, extra help is needed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235034Z" creationid="aorin" creationdate="20171231T235034Z">
@@ -11110,6 +11118,15 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T220508Z" creationid="nakahodo" creationdate="20171224T220508Z">
         <seg>グリーングリーでぎりーぎりーまで集める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghost Tiles Ghost tiles are a new type of Cave tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235445Z" creationid="aorin" creationdate="20180407T235445Z">
+        <seg>ゴーストタイル
+ゴーストタイルは新しいタイプの洞窟タイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26052,6 +26069,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031509Z" creationid="aorin" creationdate="20171212T031509Z">
         <seg>AIがプレイスアクションを実行する時、Producerから始まり、常に最初に使用できるロケーションラインのミントプレイスメントスペースへと配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Cave has a Ghost tile in its hand, it must place the Ghost tile before any other tiles (including Crystal tiles), even when another player is taking a turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235550Z" creationid="aorin" creationdate="20180407T235550Z">
+        <seg>洞窟が手札にゴーストタイルを持つ時、別のプレイヤーのターンであっても、（クリスタルタイルを含み）他のタイルよりも先にゴーストタイルを配置しなければなりませn。</seg>
       </tuv>
     </tu>
     <tu>
