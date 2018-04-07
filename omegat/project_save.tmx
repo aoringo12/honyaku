@@ -8733,6 +8733,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your turn or a possession turn, if an Artifact, or a player carrying one, enters a Ghost tile without a locked Artifact, then lock the Artifact to the Ghost tile, placing the Artifact there and flipping the Artifact to its blue-bordered side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232804Z" creationid="aorin" creationdate="20180407T232804Z">
+        <seg>あなたのターンか憑依ターン時に、アーティファクトがロックされていないゴーストタイルへとアーティファクト1つか、アーティファクト1つをプレイヤーが運んで入った場合、アーティファクトをそこに配置し、青いボーダーの面へ裏返し、その後ゴーストタイルにアーティファクトがロックされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your turn, resolve the following phases in order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133108Z" creationid="nakahodo" creationdate="20180406T133108Z">
