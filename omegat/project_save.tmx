@@ -12035,6 +12035,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Tribe carrying an Artifact leaves the map for any reason, the Artifact leaves the map as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T234203Z" creationid="aorin" creationdate="20180407T234203Z">
+        <seg>何らかの理由でアーティファクトを運ぶ部族がマップから去った場合、アーティファクトもまたマップから去ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a new Blend is exactly the same as a Blend already
 on the List, the old Blend is considered inferior.</seg>
       </tuv>
