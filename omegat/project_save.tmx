@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, if the Possessed Ghoul prompted you to roll 4 Ghoul dice, you could reroll one die to get a fourth result, but you could choose from all four results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T153409Z" creationid="aorin" creationdate="20180407T153409Z">
+        <seg>（例えば、憑依されたグールであなたがグールダイスを4つロールするよう指示された場合、4つの結果を得るために1つのダイスを振り直すことになりますが、結果は4つ全ての中から選択します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, if you have 3 warriors and roll 3 hits, then add 1 hit because of a special ability, you deal 4 hits.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224758Z" creationid="aorin" creationdate="20171215T224758Z">
