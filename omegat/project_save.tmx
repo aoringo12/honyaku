@@ -8735,8 +8735,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During your turn or a possession turn, if an Artifact, or a player carrying one, enters a Ghost tile without a locked Artifact, then lock the Artifact to the Ghost tile, placing the Artifact there and flipping the Artifact to its blue-bordered side.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180407T232804Z" creationid="aorin" creationdate="20180407T232804Z">
-        <seg>あなたのターンか憑依ターン時に、アーティファクトがロックされていないゴーストタイルへとアーティファクト1つか、アーティファクト1つをプレイヤーが運んで入った場合、アーティファクトをそこに配置し、青いボーダーの面へ裏返し、その後ゴーストタイルにアーティファクトがロックされます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232817Z" creationid="aorin" creationdate="20180407T232804Z">
+        <seg>あなたのターンか憑依ターン時に、アーティファクトがロックされていないゴーストタイルへとアーティファクト1つか、アーティファクト1つをプレイヤーが運んで入った場合、アーティファクトをそこに配置して青いボーダーの面へ裏返し、その後、ゴーストタイルにアーティファクトがロックされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,6 +12102,22 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a possessed player carrying an Artifact enters such a Ghost tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233005Z" creationid="aorin" creationdate="20180407T233005Z">
+        <seg>憑依されたプレイヤーがゴーストタイルにアーティファクトを運び入れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a possessed player forces another player carrying an Artifact to enter such a Ghost tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233105Z" creationid="aorin" creationdate="20180407T233105Z">
+        <seg>憑依されたプレイヤーが別のアーティファクトを運ぶプレイヤーを強制的にゴーストタイルに入れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a second card is added to her Mental Block space, return the first card to her Possession deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T231209Z" creationid="aorin" creationdate="20180407T231209Z">
@@ -13383,6 +13399,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T145154Z">
         <seg>あなたがペルソナカード1枚を開放した場合、あなたはゲームの残りでその能力を得ます（あなたが今使用している別のペルソナに加えて）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use Telekinesis to move an Artifact, or a player carrying an Artifact, onto such a Ghost tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232934Z" creationid="aorin" creationdate="20180407T232934Z">
+        <seg>ゴーストタイル1枚にアーティファクト1つをテレキネシスを使用して移動させる[または]プレイヤー1人がアーティファクト1つを運び込む。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20213,6 +20237,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205944Z" creationid="aorin" creationdate="20171215T205944Z">
         <seg>特別勝利カード。デッキのカード4枚は特別勝利カードとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifically, lock an Artifact in these cases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232836Z" creationid="aorin" creationdate="20180407T232836Z">
+        <seg>具体的には、これらのケースでアーティファクトがロックされます：</seg>
       </tuv>
     </tu>
     <tu>
