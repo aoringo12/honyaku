@@ -7459,6 +7459,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Components: If you are prompted to gain or use components of the possessed player (such as drawing cards), take them from the appropriate deck or supply, not from the player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T151041Z" creationid="aorin" creationdate="20180407T151041Z">
+        <seg>コンポーネント：あなたが憑依したプレイヤーのコンポーネントを得る[または]使用するよう指示された場合（カードのドローなど）、プレイヤーからではなく、サプライや該当デッキからそれらを獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Congratulations for being chosen!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115228Z" creationid="nakahodo" creationdate="20171224T115228Z">
