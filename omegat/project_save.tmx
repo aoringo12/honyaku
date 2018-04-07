@@ -8327,6 +8327,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dragon: Discard [INF] Power cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225434Z" creationid="aorin" creationdate="20180407T225434Z">
+        <seg>ドラゴン：影響力の数だけパワーカードを破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drat!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092125Z" creationid="aorin" creationdate="20171116T092125Z">
@@ -21032,6 +21040,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave can cause a Mental Block by just affecting the Ghost with Soporific Spores.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225752Z" creationid="aorin" creationdate="20180407T225752Z">
+        <seg>洞窟はゴーストに催眠胞子の影響を与えるだけでメンタルブロックを仕掛ける事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cloud Port (or any building with ヽツas the benefit) allows a player to sell a variable amount of 1 commodity to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T100943Z" creationid="aorin" creationdate="20171219T100943Z">
@@ -23964,6 +23980,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thief: Spend [INF] Action cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225505Z" creationid="aorin" creationdate="20180407T225505Z">
+        <seg>シーフ：影響力の数だけアクションキューブを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thieves have stolen precious artifacts from the Foreve1·King's personal treasury and smuggled them into your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235227Z" creationid="aorin" creationdate="20171231T235227Z">
@@ -24945,6 +24969,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T064328Z" creationid="nakahodo" creationdate="20180311T064328Z">
         <seg>残念ながら、クイーンの新しい計画のためには、世界に残った水はあまりにも少ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicorn: Discard [INF] Unicorn cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225449Z" creationid="aorin" creationdate="20180407T225449Z">
+        <seg>ユニコーン：影響力の数だけユニコーンカードを捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28126,6 +28158,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131954Z" creationid="nakahodo" creationdate="20171230T131954Z">
         <seg>あなたの村と人生における最後の戦いのグループの運命は、キャンペーンを通してあなたの選択に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Vile] Ghoul: Spend [INF+1] movement points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225528Z" creationid="aorin" creationdate="20180407T225528Z">
+        <seg>バイルグール：影響力+1の数だけ移動力ポイントを消費する。</seg>
       </tuv>
     </tu>
     <tu>
