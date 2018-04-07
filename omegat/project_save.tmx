@@ -5520,6 +5520,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Artifacts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T231213Z" creationid="aorin" creationdate="20180407T231213Z">
+        <seg>アーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artifacts are items that once belonged to the Ghost and are now all that remains of her former, mortal life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T232109Z" creationid="aorin" creationdate="20180407T232109Z">
+        <seg>アーティファクトはゴーストにゆかりの物であり、生前、人生があったことを示す全てです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a group, decide the name of the village and write it on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
