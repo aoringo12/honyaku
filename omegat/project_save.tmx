@@ -6816,6 +6816,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COLLECTING, CARRYING, AND DROPPING ARTIFACTS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233824Z" creationid="aorin" creationdate="20180407T233726Z">
+        <seg>アーティファクトを拾う、運ぶ、落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CONSTRUCT A BUILDING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100139Z" creationid="nakahodo" creationdate="20180108T100139Z">
@@ -9004,6 +9012,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223353Z" creationid="aorin" creationdate="20171215T223353Z">
         <seg>プレイされたアンブッシュカードごとに、直ちに不可避の2ヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player can carry only one Artifact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233740Z" creationid="aorin" creationdate="20180407T233740Z">
+        <seg>各プレイヤーはアーティファクト1つのみを運べます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11811,6 +11827,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Cave and the Ghost cannot collect or carry Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233814Z" creationid="aorin" creationdate="20180407T233814Z">
+        <seg>しかし、洞窟とゴーストはアーティファクトを拾ったり運んだりすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the large cubes will now be arranged to match the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
@@ -12489,6 +12513,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101418Z" creationid="nakahodo" creationdate="20180108T101418Z">
         <seg>オートマが影響トークンを持たない場合、なにもしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Goblins player gets an Artifact during setup, the Artifact starts the game off the map, and it is given to the first Tribe to reveal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T234055Z" creationid="aorin" creationdate="20180407T234055Z">
+        <seg>ゴブリンプレイヤーがセットアップ時にアーティファクトを得た場合、アーティファクトはマップ外にある状態からゲームを開始し、最初に明らかになった部族がアーティファクを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
