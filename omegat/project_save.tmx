@@ -10109,6 +10109,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, if any player piece, except the Ghost, is on a Ghost tile with a locked Artifact, the Ghost cannot reveal a Possession card for any purpose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T225017Z" creationid="aorin" creationdate="20180407T225017Z">
+        <seg>1つ目は、ゴーストを除く、プレイヤーピースがロックされたアーティファクトのあるゴーストタイルに居る場合、ゴーストはそのプレイヤーの憑依カードを公開することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you may Reform and Craft any number of times.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001854Z" creationid="aorin" creationdate="20171216T001854Z">
@@ -23427,6 +23435,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195555Z" creationid="aorin" creationdate="20180114T195555Z">
         <seg>荒れ地に関連した特別なルールは特にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are only two ways for other players to affect the Ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T154351Z" creationid="aorin" creationdate="20180407T154351Z">
+        <seg>他のプレイヤーたちがゴーストに影響与えるための方法が2つだけあります。</seg>
       </tuv>
     </tu>
     <tu>
