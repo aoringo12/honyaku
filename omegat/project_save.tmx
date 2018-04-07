@@ -4130,6 +4130,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A locked Artifact cannot be moved in any way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233413Z" creationid="aorin" creationdate="20180407T233413Z">
+        <seg>ロックされたアーティファクトはどんな方法でも移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074447Z" creationid="aorin" creationdate="20171213T074447Z">
@@ -11971,6 +11979,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Ghost tile with a locked Artifact is ever removed from the map, the Artifact still counts toward the Ghost’s victory condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233604Z" creationid="aorin" creationdate="20180407T233604Z">
+        <seg>ロックされたアーティファクトのあるゴーストタイルがマップから取り除かれた場合、そのアーティファクトは依然としてゴーストの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a Hideout is removed, also remove half (rounded up) of the supporters in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052810Z" creationid="aorin" creationdate="20171216T052810Z">
@@ -12155,6 +12171,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103052Z" creationid="aorin" creationdate="20171212T103052Z">
         <seg>ゴールドの数字を持つ報酬タイル全てが分配された場合（3トラック、トラックごとにタイル5枚）、ゲーム終了のトリガーが引かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an Artifact is locked during a possession turn, the possession turn ends immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T233623Z" creationid="aorin" creationdate="20180407T233623Z">
+        <seg>憑依ターン時にアーティファクトがロックされた場合、直ちに憑依ターンが終了します。</seg>
       </tuv>
     </tu>
     <tu>
