@@ -17987,6 +17987,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place spent Omen tokens in the Past Plunder space on your player board (instead of returning them to the bag).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040937Z" creationid="aorin" creationdate="20180408T040937Z">
+        <seg>（バッグに戻す代わりに）消費する前兆トークンは自身のプレイヤーボードの過去の略奪品スペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the 6 Automa persona cards in the Scriptorium.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T153850Z">
@@ -19965,6 +19973,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T135911Z" creationid="nakahodo" creationdate="20171213T135911Z">
         <seg>自身のドレイがつながれている岩を取り除くプレイヤーは、パンを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rockslide, Hatred, and Crystal Curse function as the Cave’s same omens, except for the following changes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T041113Z" creationid="aorin" creationdate="20180408T041113Z">
+        <seg>次の変更を除いて、地滑り、憎悪、クリスタルの呪いは洞窟の同じ前兆のように機能します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26031,6 +26047,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USING POWERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040750Z" creationid="aorin" creationdate="20180408T040750Z">
+        <seg>パワーの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unclaimed minions of that type are kept on their reference card in the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171718Z" creationid="aorin" creationdate="20171228T171718Z">
@@ -28853,6 +28877,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T152343Z" creationid="nakahodo" creationdate="20171224T152343Z">
         <seg>あなたはゲームを通してその能力を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use the powers shown on your player board by spending Omen tokens, following the rules for the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040827Z" creationid="aorin" creationdate="20180408T040827Z">
+        <seg>洞窟のルールに従い、前兆トークンを使用することで自身のプレイヤーボードに示されるパワーを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
