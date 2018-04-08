@@ -26317,6 +26317,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you or a possessed player piece enters the River, you may immediately move that piece for free in the direction of the current.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T001009Z" creationid="aorin" creationdate="20180408T001001Z">
+        <seg>ゴーストまたは憑依されたプレイヤーのピースが川に入った時、あなたは直ちに、流れに沿って無料でそのピースを移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you purchase a Discovery card, you also take a matching Discovery token.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041031Z" creationid="aorin" creationdate="20180116T041031Z">
@@ -27716,6 +27724,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T143417Z" creationid="aorin" creationdate="20171231T143417Z">
         <seg>あなたのターン時にこのカードを捨て札にすることで、発展デッキを全て見て、任意のトレジャー以外のカード1枚を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may enter and move through Pits, spending movement points as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T001105Z" creationid="aorin" creationdate="20180408T001105Z">
+        <seg>あなたは通常どおり移動力を支払って、横穴へと入って通り抜けて移動できます。</seg>
       </tuv>
     </tu>
     <tu>
