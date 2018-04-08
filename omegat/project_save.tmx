@@ -10392,6 +10392,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For any position (1–7) in turn order— except the position of the non-Ghost player—that has multiple roles, randomly remove cards from that position until only one remains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015246Z" creationid="aorin" creationdate="20180408T015246Z">
+        <seg>ターン順番（1-7）を持つロールを、1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For buildings you constructed this game, the first time you use them, gain 4 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T201746Z" creationid="aorin" creationdate="20171231T201746Z">
@@ -13867,6 +13875,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T132046Z" creationid="nakahodo" creationdate="20171213T132046Z">
         <seg>昇格を実行するための空いたスポットがない場合、これをスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a two-player game, remove the Possession card matching the non-Ghost player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015004Z" creationid="aorin" creationdate="20180408T015004Z">
+        <seg>2プレイヤーゲームでは、ゴーストではないプレイヤーに一致する憑依カードを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19856,6 +19872,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090401Z" creationid="nakahodo" creationdate="20180108T090401Z">
         <seg>各オートマのチャーターチェストから、通常ワーカー、影響トークン、VPトークンをセットアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set up the Possession deck as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T014935Z" creationid="aorin" creationdate="20180408T014935Z">
+        <seg>次に従い憑依デッキをセットアップします：</seg>
       </tuv>
     </tu>
     <tu>
