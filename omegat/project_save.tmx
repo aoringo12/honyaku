@@ -12878,6 +12878,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such tile exists, do not place the Treasure token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050354Z" creationid="aorin" creationdate="20180408T050354Z">
+        <seg>そのようなタイルが無い場合、トレジャートークンを配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such tile exists, place a Dark tile (provided by the Cave, if present) and place the Ghost piece there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133001Z" creationid="nakahodo" creationdate="20180406T133001Z">
@@ -12994,6 +13002,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T033424Z" creationid="aorin" creationdate="20180115T033358Z">
         <seg>•	工作員が敵兵士ちょうど1体の紛争地域にいる場合、対戦相手の兵士を殺すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Past Plunder space on your player board holds 6 or more Omen tokens, return 6 Omen tokens to the bag and place a Treasure token on a Dark tile that does not hold a player piece or Treasure token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050535Z" creationid="aorin" creationdate="20180408T050535Z">
+        <seg>自身のプレイヤーボードの過去の略奪品スペースに前兆トークン6つ以上がある場合、（全てではなく）バッグに前兆トークン6つを戻し、プレイヤーピースやトレジャートークンがないダークタイルにトレジャートークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17853,6 +17869,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070648Z" creationid="nakahodo" creationdate="20180311T070524Z">
         <seg>各ガーデンセクターにセクターダイスを、その開始値に一致するように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Treasure token on a Dark tile that does not hold a player piece or Treasure token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050339Z" creationid="aorin" creationdate="20180408T050339Z">
+        <seg>プレイヤーピースやトレジャートークンを持たないダークタイルに、トレジャートークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27146,6 +27170,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203215Z" creationid="aorin" creationdate="20171231T203148Z">
         <seg>あなたが対戦相手のミニオンがいる建物を使用するとき、そのミニオンの能力を無視する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using this power, treat your Influence [INF] as 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050216Z" creationid="aorin" creationdate="20180408T050216Z">
+        <seg>このパワーを使用する時、あなたの影響力は2として扱います。</seg>
       </tuv>
     </tu>
     <tu>
