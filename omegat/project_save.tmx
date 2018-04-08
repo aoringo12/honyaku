@@ -19337,6 +19337,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revealing a Possession card to begin a possession turn works differently:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021416Z" creationid="aorin" creationdate="20180408T021416Z">
+        <seg>憑依カードを公開で発生する憑依ターンは次のように動作します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review the steps on rule 19 the first time this happens this in Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T143341Z" creationid="nakahodo" creationdate="20171224T143341Z">
@@ -22113,6 +22121,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T085814Z" creationid="nakahodo" creationdate="20180312T085814Z">
         <seg>ガーデンのセクターダイスと宝石はラウンド間でリセットしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Select Possession Card phase works as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021317Z" creationid="aorin" creationdate="20180408T021317Z">
+        <seg>憑依カードの選択フェイズは通常どおり処理されます。</seg>
       </tuv>
     </tu>
     <tu>
