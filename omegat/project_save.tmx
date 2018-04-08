@@ -7385,6 +7385,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check Past Plunder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035510Z" creationid="aorin" creationdate="20180408T035510Z">
+        <seg>過去の略奪品の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check to see if at least 1 player offered the right type of Food.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125917Z" creationid="aorin" creationdate="20171212T124025Z">
@@ -7663,6 +7671,22 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034944Z" creationid="aorin" creationdate="20180408T034944Z">
         <seg>洞窟を崩壊させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collect Omen Tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035445Z" creationid="aorin" creationdate="20180408T035445Z">
+        <seg>前兆トークンの収集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collect Omen tokens based on your Isolation plus the number of Crystal tokens and Ghost tiles on the map, as shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035859Z" creationid="aorin" creationdate="20180408T035859Z">
+        <seg>下記に示すように、マップのゴーストタイルとクリスタルトークンの数に孤独を加えた数をベースに前兆トークンを収集します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,6 +10485,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow all of the setup rules for the Cave (page 12 in Vast: The Crystal Caverns).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035314Z" creationid="aorin" creationdate="20180408T035314Z">
+        <seg>洞窟のセットアップルールの全てに従います（ヴァスト：クリスタルカーヴァンのページ12）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow each step of setup in sequential order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144552Z" creationid="nakahodo" creationdate="20171218T144552Z">
@@ -12762,6 +12794,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133001Z" creationid="nakahodo" creationdate="20180406T133001Z">
         <seg>そのようなタイルが存在しない場合、ダークタイル1枚を配置し（居る場合は洞窟プレイヤーから提供されます）、そこにゴーストピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no such tile exists, place a Dark tile from your hand, and then place the Ghost piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035356Z" creationid="aorin" creationdate="20180408T035356Z">
+        <seg>そのようなタイルがない場合、あなたの手札からダークタイルを配置し、そこにゴーストピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15902,6 +15942,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move and Use Powers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035458Z" creationid="aorin" creationdate="20180408T035458Z">
+        <seg>移動とパワーの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move from any clearing whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002255Z" creationid="aorin" creationdate="20171216T002255Z">
@@ -17645,6 +17693,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073055Z" creationid="nakahodo" creationdate="20180311T073055Z">
         <seg>ロボタニスタの配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Treasure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035503Z" creationid="aorin" creationdate="20180408T035503Z">
+        <seg>トレジャーの配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -20326,6 +20382,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shape the Cave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035452Z" creationid="aorin" creationdate="20180408T035452Z">
+        <seg>洞窟の形成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She adds all the Gems together and round up, equaling six.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T080615Z" creationid="nakahodo" creationdate="20180312T080451Z">
@@ -21854,6 +21918,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124101Z" creationid="nakahodo" creationdate="20180406T124101Z">
         <seg>洞窟ゴーストは洞窟に置き換えられるプレイヤーロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave Ghost replaces the Cave in turn order, after the Dragon and before the Thief.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035431Z" creationid="aorin" creationdate="20180408T035431Z">
+        <seg>洞窟ゴーストのターン順番は洞窟と置き換えられ、ドラゴンの後、シーフの前になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29221,8 +29293,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your turn ends when you complete these phases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180406T133333Z" creationid="nakahodo" creationdate="20180406T133333Z">
-        <seg>あなたのターンは、これら3つのフェイズを完了した時に終了します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035524Z" creationid="nakahodo" creationdate="20180406T133333Z">
+        <seg>あなたのターンは、これらフェイズを完了した時に終了します。</seg>
       </tuv>
     </tu>
     <tu>
