@@ -19744,6 +19744,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Ghost tiles at random, returning them facedown to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T161109Z" creationid="aorin" creationdate="20180408T161030Z">
+        <seg>ランダムにゴーストタイルらを取り除き、裏向きでボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove all Meat tokens from all active Storage areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150639Z" creationid="nakahodo" creationdate="20180108T150639Z">
@@ -21317,6 +21325,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specter (Easy): Remove 1 tile of each type, including Ghost tiles, during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T161123Z" creationid="aorin" creationdate="20180408T161123Z">
+        <seg>魂（もっとも簡単）：セットアップ時に、ゴーストタイルを含む各種タイル1つずつを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specter (Easy): You must lock 4 Artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T025054Z" creationid="aorin" creationdate="20180408T025054Z">
@@ -21409,6 +21425,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074433Z" creationid="nakahodo" creationdate="20180311T074433Z">
         <seg>スピンプログラムカードは、セクターダイス1つの出目の数字を1つ、上げるか下げることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spirit (Easiest): Remove 2 tiles of each type, including Ghost tiles, during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T161113Z" creationid="aorin" creationdate="20180408T161005Z">
+        <seg>魂（もっとも簡単）：セットアップ時に、ゴーストタイルを含む各種タイル2つずつを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22304,6 +22328,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225752Z" creationid="aorin" creationdate="20180407T225752Z">
         <seg>洞窟はゴーストに催眠胞子の影響を与えるだけでメンタルブロックを仕掛ける事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave collapses when 3 Crystal tiles have been removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T161106Z" creationid="aorin" creationdate="20180408T161106Z">
+        <seg>洞窟はクリスタルタイル3つを取り除き崩壊させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,6 +28510,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090152Z" creationid="nakahodo" creationdate="20180108T090152Z">
         <seg>キャンペーンを通してオートマの増減はできますが、ゲーム全体でチャーターがアクティブでない限り、キャンペーン終了時の最終得点に関われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can adjust the difficulty level for the Cave Ghost as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T160921Z" creationid="aorin" creationdate="20180408T160921Z">
+        <seg>次に従い、洞窟ゴーストの難易度レベルを調整できます：</seg>
       </tuv>
     </tu>
     <tu>
