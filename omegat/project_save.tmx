@@ -5560,6 +5560,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Artifacts cannot be moved through walls during forced movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000629Z" creationid="aorin" creationdate="20180408T000629Z">
+        <seg>アーティファクトは強制移動時に壁を通り抜けられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a group, decide the name of the village and write it on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
@@ -12260,6 +12268,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T231209Z" creationid="aorin" creationdate="20180407T231209Z">
         <seg>メンタルブロックスペースに二枚目のカードが追加される場合、前のカードは憑依デッキに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a tile with a non-locked Artifact is removed, the player who removed the tile must move the Artifact to any adjacent space without the Ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000556Z" creationid="aorin" creationdate="20180408T000556Z">
+        <seg>ロックされていないアーティファクトを持つタイルが取り除かれた場合、タイルを取り除いたプレイヤーはゴーストの居ない隣接スペースへとアーティファクトを移動させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21019,6 +21035,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terrain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000641Z" creationid="aorin" creationdate="20180408T000641Z">
+        <seg>地形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Territories and the Map</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194200Z" creationid="aorin" creationdate="20180114T194200Z">
@@ -21673,6 +21697,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133042Z" creationid="nakahodo" creationdate="20180406T133042Z">
         <seg>ゴーストはターン順で7番目で、ゴーストの後になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost, possessed players, and Artifacts interact with Terrain tiles as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000731Z" creationid="aorin" creationdate="20180408T000731Z">
+        <seg>ゴースト、憑依されたプレイヤー、アーティファクトは次のように地形タイルと作用します。</seg>
       </tuv>
     </tu>
     <tu>
