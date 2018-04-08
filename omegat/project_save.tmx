@@ -11499,6 +11499,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost tiles on the map contribute to the number of Omen tokens that you draw during the Collect Omen Tokens phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113810Z" creationid="aorin" creationdate="20180408T113810Z">
+        <seg>マップ上のゴーストタイルは洞窟ゴーストが前兆トークンの収集フェイズ時にドローできる前兆トークンの数に影響します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost tiles without a locked Artifact cannot be collapsed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000241Z" creationid="aorin" creationdate="20180408T000241Z">
