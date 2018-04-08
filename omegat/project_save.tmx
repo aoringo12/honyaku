@@ -13807,6 +13807,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to an Ambush, Event, or Treasure symbol, the Lit side of each Ghost tile shows a new symbol, the Ghost symbol, which shows that the tile can lock an Artifact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000129Z" creationid="aorin" creationdate="20180408T000129Z">
+        <seg>待ち伏せ、イベント、トレジャーシンボルに加えて、各ゴーストタイルのライトサイドには新しいシンボル、ゴーストシンボルが表示され、そのタイルにはアーティファクトがロックできることを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to avoiding penalties, there are three types of Reward Points to achieve:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T100855Z" creationid="aorin" creationdate="20171212T100825Z">
@@ -24071,6 +24079,14 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074626Z" creationid="aorin" creationdate="20171213T074626Z">
         <seg>これらはバッグに戻りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are placed exactly like other Cave tiles when drawn from the stack.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180407T235927Z" creationid="aorin" creationdate="20180407T235927Z">
+        <seg>これらは山札からドローされた時に、他の洞窟タイルとまったく同じように配置されます）</seg>
       </tuv>
     </tu>
     <tu>
