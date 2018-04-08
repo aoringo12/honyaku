@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, if a Goblin Tribe is in a space marked “2” and the Knight is in one marked “3”, your Isolation is 2.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114500Z" creationid="aorin" creationdate="20180408T114500Z">
+        <seg>（例えば、ゴブリン部族1つが”2”でマークされたスペースにいて、ナイトが”3”でマークされたスペースに居る場合、あなたの孤独は2になります。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, if playing against the Dragon, you could choose the Possessed Knight card during the Select Possession Card phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021646Z" creationid="aorin" creationdate="20180408T021646Z">
@@ -14959,8 +14967,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Isolation is measured in rings of surrounding spaces, ignoring the presence of walls, tile features, and open spaces: During the Collect Omen Tokens phase, measure your Isolation from the closest player piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T114410Z" creationid="aorin" creationdate="20180408T114410Z">
-        <seg>孤独はリング状に広がる周囲スペースの距離で、壁、タイル特性、空きスペースを無視します：前兆トークンの収集フェイズ時、最も近いプレイヤーピースとあなたの距離を測り、孤独を決定します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114510Z" creationid="aorin" creationdate="20180408T114410Z">
+        <seg>孤独はリング状に広がる周囲スペースによる距離で、壁、タイル特性、空きスペースを無視します：前兆トークンの収集フェイズ時、最も近いプレイヤーピースとあなたの距離を測り、孤独を決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17175,6 +17183,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T153904Z" creationid="aorin" creationdate="20180407T153904Z">
         <seg>他のプレイヤーたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Players Unless specifically noted, other players cannot target the Cave Ghost with attacks, powers, or other effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114736Z" creationid="aorin" creationdate="20180408T114736Z">
+        <seg>他のプレイヤーたちは特に記述がない限り、洞窟ゴーストを攻撃、パワー、他の効果の対象にできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27262,6 +27278,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using Telekinesis or Possession, measure your Isolation from your target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114616Z" creationid="aorin" creationdate="20180408T114616Z">
+        <seg>テレキネシスや憑依を使用する時、対象とあなたの距離を測り、孤独を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When using a building with an opponent's minion on it, ignore the minion's ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203215Z" creationid="aorin" creationdate="20171231T203148Z">
@@ -28157,6 +28181,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131515Z" creationid="aorin" creationdate="20171215T131515Z">
         <seg>狡猾な生き物たちとともに、冒険と戦争に彩られた究極の非対称のゲームを制し、この素晴らしい深き森の王国を支配しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With greater Isolation, you will collect more Omen tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114548Z" creationid="aorin" creationdate="20180408T114548Z">
+        <seg>大きな孤独は、あなたにより多くの前兆トークンをもたらします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With lower Isolation, your power will be more powerful or less expensive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114643Z" creationid="aorin" creationdate="20180408T114643Z">
+        <seg>小さな孤独は、あなたのパワーを強力にしてコストを下げます。</seg>
       </tuv>
     </tu>
     <tu>
