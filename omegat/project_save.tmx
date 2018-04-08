@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Do not shuffle them into the tile stack, as the Ghost does.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035148Z" creationid="aorin" creationdate="20180408T035148Z">
+        <seg>（ゴーストプレイヤーのように、ゴーストタイルをスタックに混ぜてシャッフルしないようにしてください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Draw these cards in addition to your draw on the Marquise’s turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052943Z" creationid="aorin" creationdate="20171216T052943Z">
@@ -7647,6 +7655,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175358Z" creationid="nakahodo" creationdate="20171218T175358Z">
         <seg>コイン、リソースは有限です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T034944Z" creationid="aorin" creationdate="20180408T034944Z">
+        <seg>洞窟を崩壊させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15253,6 +15269,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave the Artifact tokens in the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035242Z" creationid="aorin" creationdate="20180408T035242Z">
+        <seg>アーティファクトトークンはボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave the small cube track untouched.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123831Z" creationid="nakahodo" creationdate="20171213T123831Z">
@@ -17859,6 +17883,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Ghost tiles near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035055Z" creationid="aorin" creationdate="20180408T035055Z">
+        <seg>あなたの近くにゴーストタイルを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Influence Point (IP) tokens, separated by discipline, next to the map within reach of all players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193345Z" creationid="aorin" creationdate="20180114T193345Z">
@@ -19605,6 +19637,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030509Z" creationid="aorin" creationdate="20171212T030509Z">
         <seg>ロケーションにある●を全てをミントサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return the other Possession cards to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035232Z" creationid="aorin" creationdate="20180408T035222Z">
+        <seg>他の憑依カードはボックスに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21389,6 +21429,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131858Z" creationid="nakahodo" creationdate="20180406T131858Z">
         <seg>プレイヤされているロールに一致するように憑依カードを取り、他の憑依カードをボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Possession cards matching the roles being played, except for the Ghost card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035228Z" creationid="aorin" creationdate="20180408T035210Z">
+        <seg>ゴーストカードを除いて、プレイされるロールに一致する憑依カード全てを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25428,6 +25476,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212711Z" creationid="aorin" creationdate="20180114T212711Z">
         <seg>アクションを選択するには、ゲームボードからスパイマスターアクションタイルを1つとり、自身の前にこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do so, you must first place all of the Cave tiles, then remove Cave tiles until 5 Crystal tiles have been removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035044Z" creationid="aorin" creationdate="20180408T035044Z">
+        <seg>そうするには、あなたはまず洞窟タイルを全て配置し、その後、クリスタルタイル5枚を取り除くまで洞窟タイルを取り除いていきます。</seg>
       </tuv>
     </tu>
     <tu>
