@@ -4862,6 +4862,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After locking the number of Artifacts specified by your Difficulty card, you must end your turn on any Ghost tile without a locked Artifact, or you can simply lock another Artifact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T034551Z" creationid="aorin" creationdate="20180408T034551Z">
+        <seg>難易度カードに指定された数のアーティファクトをロックした後、あなたはロックしたアーティファクトのないゴーストタイルで自身のターンを終了するか、単純に別のアーティファクトをロックする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
@@ -27896,6 +27904,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can combine this variant with any Difficulty card except Wraith to increase your difficulty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T033513Z" creationid="aorin" creationdate="20180408T033513Z">
+        <seg>難易度を上げるために、怨霊を除いた任意の難易度カードにこのヴァリアントを組み合わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can construct buildings on empty sky island tiles in your charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
@@ -29119,6 +29135,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133333Z" creationid="nakahodo" creationdate="20180406T133333Z">
         <seg>あなたのターンは、これら3つのフェイズを完了した時に終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your victory condition changes as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T033522Z" creationid="aorin" creationdate="20180408T033522Z">
+        <seg>あなたの勝利条件は次に変更されます：</seg>
       </tuv>
     </tu>
     <tu>
