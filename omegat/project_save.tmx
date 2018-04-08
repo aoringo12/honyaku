@@ -14957,6 +14957,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Isolation is measured in rings of surrounding spaces, ignoring the presence of walls, tile features, and open spaces: During the Collect Omen Tokens phase, measure your Isolation from the closest player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114410Z" creationid="aorin" creationdate="20180408T114410Z">
+        <seg>孤独はリング状に広がる周囲スペースの距離で、壁、タイル特性、空きスペースを無視します：前兆トークンの収集フェイズ時、最も近いプレイヤーピースとあなたの距離を測り、孤独を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also contains setup instructions for the game’s many scenarios.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131831Z" creationid="aorin" creationdate="20171215T131831Z">
