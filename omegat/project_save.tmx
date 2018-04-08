@@ -23017,6 +23017,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cost in Omen tokens to possess a player depends on your Isolation from the target plus the role’s Possession value (the number listed in the upper corner of the Possession card).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050104Z" creationid="aorin" creationdate="20180408T050104Z">
+        <seg>プレイヤーに憑依する前兆トークンのコストは、そのロールの憑依値（憑依カードの上部角に数字が表示）に加えて、対象からの距離とボードの孤独レート表を参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current guidepost is kept face-up on the board and is processed at the end of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T210635Z" creationid="nakahodo" creationdate="20171224T210635Z">
