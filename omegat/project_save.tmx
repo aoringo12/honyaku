@@ -22236,6 +22236,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave Ghost is an alternative to the Cave, so she may be used in any variant that would include the Cave player, using the setup instructions and victory conditions of the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T120552Z" creationid="aorin" creationdate="20180408T120552Z">
+        <seg>プレイヤーヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave Ghost replaces the Cave in turn order, after the Dragon and before the Thief.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035431Z" creationid="aorin" creationdate="20180408T035431Z">
@@ -26357,6 +26365,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T103112Z" creationid="nakahodo" creationdate="20180108T103112Z">
         <seg>オートマが一時的に人間プレイヤーに置き換えられない限り、オートマはゲーム間で任意のコンポーネントを持ち越しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless specifically noted, other players cannot target the Cave Ghost with attacks, powers, or other effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T120535Z" creationid="aorin" creationdate="20180408T120535Z">
+        <seg>特に記述がない限り、他のプレイヤーたちは攻撃、パワー、他の効果の対象にゴースト選択できません。</seg>
       </tuv>
     </tu>
     <tu>
