@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Tiles placed during other players’ turns do not have to be Crystal tiles.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040452Z" creationid="aorin" creationdate="20180408T040452Z">
+        <seg>（他のプレイヤーのターン時にタイルを配置する場合は、クリスタルタイルである必要はありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Visibility is defined on page 5 in Vast: The Crystal Caverns.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T174454Z" creationid="aorin" creationdate="20180406T174442Z">
@@ -13707,6 +13715,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have any Crystal tiles in your hand, you must place them before placing any other tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040417Z" creationid="aorin" creationdate="20180408T040417Z">
+        <seg>あなたが手札に任意のクリスタルタイルを保持している場合、あなたは任意の他のタイルの前に、これを配置しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have more available &lt;sword&gt; than that player’s local warriors, take a random card from that player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083002Z" creationid="aorin" creationdate="20171216T083002Z">
@@ -24339,6 +24355,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055013Z" creationid="aorin" creationdate="20171216T055013Z">
         <seg>その後、自身の手札上限である2枚までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, draw a new tile from tile stack and add it to your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040348Z" creationid="aorin" creationdate="20180408T040348Z">
+        <seg>その後、タイルスタックから新しいタイル1枚をドローし、手札に追加します。</seg>
       </tuv>
     </tu>
     <tu>
