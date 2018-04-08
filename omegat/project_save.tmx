@@ -11491,6 +11491,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost tiles are a new type of Cave tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113453Z" creationid="aorin" creationdate="20180408T113453Z">
+        <seg>ゴーストタイルは新しいタイプの洞窟タイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost tiles without a locked Artifact cannot be collapsed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000241Z" creationid="aorin" creationdate="20180408T000241Z">
@@ -14339,6 +14347,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000129Z" creationid="aorin" creationdate="20180408T000129Z">
         <seg>待ち伏せ、イベント、トレジャーシンボルに加えて、各ゴーストタイルのライトサイドには新しいシンボル、ゴーストシンボルが表示され、そのタイルにはアーティファクトがロックできることを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to an Ambush, Event, or Treasure symbol, the Lit side of each Ghost tile shows a new symbol: the Ghost symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113540Z" creationid="aorin" creationdate="20180408T113540Z">
+        <seg>待ち伏せ、イベント、トレジャーシンボルに加えて、各ゴーストタイルのライトサイドには新しいシンボル：ゴーストシンボルがあります。</seg>
       </tuv>
     </tu>
     <tu>
