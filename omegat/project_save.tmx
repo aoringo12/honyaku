@@ -10402,8 +10402,8 @@ please see page 13.</seg>
       <tuv lang="EN-US">
         <seg>For any position (1–7) in turn order— except the position of the non-Ghost player—that has multiple roles, randomly remove cards from that position until only one remains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T015902Z" creationid="aorin" creationdate="20180408T015246Z">
-        <seg>（ゴーストではないプレイヤーの番号を除く）ターン順番（1-7）が重複しているロールを、重複しないようにカードをランダムに取り除きます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T020104Z" creationid="aorin" creationdate="20180408T015246Z">
+        <seg>（ゴーストではないプレイヤーの番号を除く）ターン順番（1-7）が重複しているロールを、それらロールで重複しなくなるまで、ランダムにカードを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12774,6 +12774,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the non-Ghost player shares a position with other roles, randomly remove cards of the other roles from that position until only the non-Ghost player and one other role remain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T020029Z" creationid="aorin" creationdate="20180408T020029Z">
+        <seg>ゴーストではないプレイヤーの順番が他の複数のロールと重複している場合、ゴーストではないプレイヤーと他のロール1つのみが残るまで、ランダムにそれらロールのカードを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the only slaves that can still get Rocks are the player’s own slaves, the player is obliged to enchain their own slaves.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074534Z" creationid="aorin" creationdate="20171213T074534Z">
@@ -13883,6 +13891,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T132046Z" creationid="nakahodo" creationdate="20171213T132046Z">
         <seg>昇格を実行するための空いたスポットがない場合、これをスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a solo game, remove the Ghost Possession card, so that positions 1–6 each have only one Possession card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T020154Z" creationid="aorin" creationdate="20180408T020154Z">
+        <seg>ソロゲームでは、ゴーストの憑依カードを取り除きますので、1-6の各憑依カード1枚ずつのみがデッキに入ります。</seg>
       </tuv>
     </tu>
     <tu>
