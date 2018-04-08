@@ -8503,6 +8503,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not count those removed from the map, and do not count Treasure tokens (as the Cave does).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T035933Z" creationid="aorin" creationdate="20180408T035933Z">
+        <seg>マップから取り除かれたこれらはカウントせず、（洞窟のように）トレジャートークンはカウントしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not include Automa charters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110604Z" creationid="nakahodo" creationdate="20180108T110604Z">
@@ -12280,6 +12288,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114045Z" creationid="nakahodo" creationdate="20171001T114045Z">
         <seg>投資トークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISOLATION + CRYSTALS &amp; GHOSTS OMEN TOKENS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040036Z" creationid="aorin" creationdate="20180408T040036Z">
+        <seg>孤独+クリスタルトークンとゴーストタイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -20386,6 +20402,15 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035452Z" creationid="aorin" creationdate="20180408T035452Z">
         <seg>洞窟の形成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shape the Cave Choose a tile from your hand and place it, Dark side up, adjacent to any tile on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040315Z" creationid="aorin" creationdate="20180408T040315Z">
+        <seg>洞窟の形成
+手札からタイル1枚を選択し、マップの任意のタイルに隣接するよう、ダークたサイドを上にしてこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
