@@ -14363,6 +14363,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of being able to possess an opponent, you can briefly summon the ghostly remnants of long-lost adventurers and other cavedwelling creatures to do your bidding before they disappear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T014924Z" creationid="aorin" creationdate="20180408T014924Z">
+        <seg>対戦相手に憑依する代わりに、あなたは冒険家の名残の幽霊や他のケイブウェリィング・クリーチャーを少しの間だけ召喚して、彼らが消失する前に指示することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of collecting Artifacts, she uses the Cave’s victory condition of collapsing the Cave.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124225Z" creationid="nakahodo" creationdate="20180406T124225Z">
