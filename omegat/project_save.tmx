@@ -12452,6 +12452,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Ghost tile is removed from the map before the Collapse, return the tile to your supply (not to the bottom of a tile stack).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113946Z" creationid="aorin" creationdate="20180408T113946Z">
+        <seg>ゴーストタイルが崩壊前にマップから取り除かれた場合、単純にあなたにタイルが返されます（タイルスタックの下ではなく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a Ghost tile with a locked Artifact is ever removed from the map, the Artifact still counts toward the Ghost’s victory condition.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233604Z" creationid="aorin" creationdate="20180407T233604Z">
@@ -14505,6 +14513,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In games with the Cave Ghost, Ghost symbols only show which tiles are Ghost tiles;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113846Z" creationid="aorin" creationdate="20180408T113846Z">
+        <seg>洞窟ゴーストのいるゲームでは、ゴーストタイルはゴーストシンボルのみが表示されていると扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games with the Vagabond, each red-bordered slot begins covered with a ruin​ token.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205111Z" creationid="aorin" creationdate="20171215T205111Z">
@@ -14929,6 +14945,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214330Z" creationid="aorin" creationdate="20171024T214330Z">
         <seg>スレートの投資トークンは共通サプライに戻されます（ページ18を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Isolation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114010Z" creationid="aorin" creationdate="20180408T114010Z">
+        <seg>孤独</seg>
       </tuv>
     </tu>
     <tu>
@@ -28457,6 +28481,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can place Ghost tiles by using the Plot Twist omen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114008Z" creationid="aorin" creationdate="20180408T114008Z">
+        <seg>区画のひずみ前兆を使用することでゴーストタイルを配置することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can purchase more than 1 Discovery/General during this stage;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040429Z" creationid="aorin" creationdate="20180116T040429Z">
@@ -30229,6 +30261,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
         <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>they have no other effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113852Z" creationid="aorin" creationdate="20180408T113852Z">
+        <seg>他の効果はありません。</seg>
       </tuv>
     </tu>
     <tu>
