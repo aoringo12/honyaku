@@ -8089,6 +8089,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crystal Curse: This power can only affect a space surrounding your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T041212Z" creationid="aorin" creationdate="20180408T041212Z">
+        <seg>クリスタルの呪い：このパワーはあなたのスペースの周囲スペースにのみ影響できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crystal, Event, Vault, and Bomb tokens cannot be moved.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T181020Z" creationid="aorin" creationdate="20180406T181020Z">
@@ -8855,6 +8863,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
         <seg>消耗ステージ時、任意の自身の制御している地域が、自身の現在制御している首都や都市から、制御している地域続きで接続されているかどうかを確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Collapse, tiles you wish to remove with Hatred still follow the normal requirement based on the number of tiles they touch, while also needing to be in a surrounding space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T044507Z" creationid="aorin" creationdate="20180408T044507Z">
+        <seg>崩壊時、憎悪で取り除こうとするタイルは、依然として触れているタイルの数をベースとした通常ルールに従いつつ、それらも周囲スペース内にある必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11690,6 +11706,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024821Z" creationid="aorin" creationdate="20180408T024821Z">
         <seg>ハード：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hatred: This power can only affect a space surrounding your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T041220Z" creationid="aorin" creationdate="20180408T041220Z">
+        <seg>憎悪：このパワーはあなたのスペースの周囲スペースにのみ影響できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19981,6 +20005,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T041113Z" creationid="aorin" creationdate="20180408T041113Z">
         <seg>次の変更を除いて、地滑り、憎悪、クリスタルの呪いは洞窟の同じ前兆のように機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rockslide: The Rockslide token can only be placed on an edge adjacent to your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T041145Z" creationid="aorin" creationdate="20180408T041145Z">
+        <seg>地滑り：地滑りトークンはあなたのスペースに隣接された辺にのみ配置できます。</seg>
       </tuv>
     </tu>
     <tu>
