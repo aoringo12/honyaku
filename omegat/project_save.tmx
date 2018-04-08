@@ -8747,6 +8747,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During setup, remove the Ghost card from your Possession deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T033114Z" creationid="aorin" creationdate="20180408T033053Z">
+        <seg>セットアップ時に、憑依デッキからゴーストカードを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During setup, shuffle the objective cards into a deck and reveal 3 of those cards at random on the objective mat.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210610Z" creationid="aorin" creationdate="20171219T095625Z">
@@ -10265,6 +10273,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145408Z" creationid="nakahodo" creationdate="20171218T145408Z">
         <seg>ファーストプレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FULLY FOCUSED VARIANT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T033250Z" creationid="aorin" creationdate="20180408T033250Z">
+        <seg>完全なるフォーカスヴァリアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -17378,6 +17394,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T025432Z" creationid="aorin" creationdate="20180408T025229Z">
         <seg>死霊（ハード）:アーティファクトを</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phantom (Hard): You must lock 5 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T033056Z" creationid="aorin" creationdate="20180408T033052Z">
+        <seg>死霊（ハード）:アーティファクト5つをロック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,6 +27724,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152102Z" creationid="nakahodo" creationdate="20180108T152102Z">
         <seg>Word of Mouth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wraith (Expert): You must lock 6 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T033132Z" creationid="aorin" creationdate="20180408T033132Z">
+        <seg>怨霊（エキスパート）：アーティファクト6つをロック。</seg>
       </tuv>
     </tu>
     <tu>
