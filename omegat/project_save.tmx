@@ -7289,6 +7289,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cave Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050652Z" creationid="aorin" creationdate="20180408T050652Z">
+        <seg>洞窟ルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T195700Z" creationid="nakahodo" creationdate="20180311T195700Z">
@@ -17875,8 +17883,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a Treasure token on a Dark tile that does not hold a player piece or Treasure token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T050339Z" creationid="aorin" creationdate="20180408T050339Z">
-        <seg>プレイヤーピースやトレジャートークンを持たないダークタイルに、トレジャートークンを配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050541Z" creationid="aorin" creationdate="20180408T050339Z">
+        <seg>プレイヤーピースやトレジャートークンを持たないダークタイルに、トレジャートークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19707,6 +19715,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082805Z" creationid="aorin" creationdate="20171216T082805Z">
         <seg>修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat this phase if 6 or more Omen tokens remain on your Past Plunder space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050648Z" creationid="aorin" creationdate="20180408T050648Z">
+        <seg>まだ6つ以上の前兆トークンが過去の略奪品スペースに残っている場合、このフェイズを繰り返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22103,6 +22119,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034719Z" creationid="aorin" creationdate="20180408T034719Z">
         <seg>洞窟ゴースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave Ghost follows all of the rules for the Cave listed in its Cave Tiles, Treasures, and Events boxes, except that the Cave Ghost cannot examine the top three cards of the Event deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050920Z" creationid="aorin" creationdate="20180408T050920Z">
+        <seg>洞窟ゴーストは、イベント、トレジャー、洞窟タイルに記述されている洞窟のルール全てに従いますが、イベントデッキの一番上からカード3枚を調べることはできません。</seg>
       </tuv>
     </tu>
     <tu>
