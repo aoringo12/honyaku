@@ -11474,6 +11474,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T113441Z" creationid="aorin" creationdate="20180408T113441Z">
+        <seg>6ゴーストタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost Tiles Ghost tiles are a new type of Cave tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T235445Z" creationid="aorin" creationdate="20180407T235445Z">
@@ -22119,6 +22127,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034719Z" creationid="aorin" creationdate="20180408T034719Z">
         <seg>洞窟ゴースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave Ghost also follows all of the rules for the Cave listed in its The Collapse section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050947Z" creationid="aorin" creationdate="20180408T050947Z">
+        <seg>洞窟ゴーストはまた、崩壊セクションに記述された洞窟のルール全てに従います。</seg>
       </tuv>
     </tu>
     <tu>
