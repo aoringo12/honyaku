@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, two players are setting up and are playing the Ghost and Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015309Z" creationid="aorin" creationdate="20180408T015309Z">
+        <seg>（例えば、2プレイヤーゲームをセットアップし、ゴーストとドラゴンでプレイしたとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, with 3 Influence, you could move an object one space, move your piece, and then move the same object two more spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T175631Z" creationid="aorin" creationdate="20180406T175547Z">
@@ -15759,6 +15767,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next, she sets out the remaining Possession cards, finding that the Possessed Goblins and Possessed Vile Ghoul share position 2 in turn order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015502Z" creationid="aorin" creationdate="20180408T015502Z">
+        <seg>次に、残った憑依カードの中で、憑依されたゴブリンたちと憑依されたバイルグールがターン順番で2で重複していることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nimble.​ The Vagabond can move into a clearing without permission, and can move into forests with Slip or when retreating from battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220339Z" creationid="aorin" creationdate="20171215T220339Z">
@@ -19950,6 +19966,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She cannot possess her opponent, so she returns the Possessed Dragon card to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015346Z" creationid="aorin" creationdate="20180408T015346Z">
+        <seg>彼女は相手に憑依できませんので、ボックスに憑依されたドラゴンカードを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She cannot use Field Hospitals if she does not rule the Keep.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230303Z" creationid="aorin" creationdate="20171215T230303Z">
@@ -20002,6 +20026,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124137Z" creationid="nakahodo" creationdate="20180406T124137Z">
         <seg>彼女はゴーストと洞窟のパワーの一部を共有しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She shuffles those two cards and draws one, the Possessed Goblins, so she returns the Possessed Vile Ghoul to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015553Z" creationid="aorin" creationdate="20180408T015553Z">
+        <seg>それら2枚をシャッフルして1枚をドローし、憑依されたゴブリンたちだったので、ボックスにもう一方の憑依されたバイルグールを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21753,6 +21785,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133042Z" creationid="nakahodo" creationdate="20180406T133042Z">
         <seg>ゴーストはターン順で7番目で、ゴーストの後になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost starts setting up her Possession deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015320Z" creationid="aorin" creationdate="20180408T015320Z">
+        <seg>ゴーストは自身の憑依デッキをセットアップします。</seg>
       </tuv>
     </tu>
     <tu>
