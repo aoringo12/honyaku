@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Like the Cave, there is no solo variant for the Cave Ghost.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T160320Z" creationid="aorin" creationdate="20180408T160320Z">
+        <seg>（洞窟のように、洞窟ゴーストのソロヴァリアントはありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Likewise, other players may enter your space freely and without effect.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040704Z" creationid="aorin" creationdate="20180408T040704Z">
@@ -7072,6 +7080,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CROWDED HOUSE (VARIANT)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T160347Z" creationid="aorin" creationdate="20180408T160347Z">
+        <seg>いっぱい屋敷（ヴァリアント）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camp</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T134005Z" creationid="nakahodo" creationdate="20171124T134005Z">
@@ -8117,6 +8133,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073923Z" creationid="aorin" creationdate="20171216T073923Z">
         <seg>クロスチャートシフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crowded House is intended for use in games with many players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T160441Z" creationid="aorin" creationdate="20180408T160423Z">
+        <seg>いっぱい屋敷はプレイヤーが多くいるゲームでの使用を想定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23174,6 +23198,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210324Z" creationid="nakahodo" creationdate="20171218T195805Z">
         <seg>あなたと共に到着したこれらの貨物は、時が来れば開放できるようになるでしょう……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The change for games with 4 or more players applies only in games without a Cave [Ghost] player, and it slows down the Collapse to give players more time to complete their victory conditions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T160625Z" creationid="aorin" creationdate="20180408T160511Z">
+        <seg>4人以上のプレイヤーによるゲームへの変更は、洞窟[ゴースト]プレイヤーが居ないゲームにのみ適応され、彼らの勝利条件のための時間を与えるために、崩壊が遅くなるものです。</seg>
       </tuv>
     </tu>
     <tu>
