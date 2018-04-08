@@ -18942,6 +18942,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possession works as the Ghost’s same ability, except that you start the possession turn immediately when you use the power (instead of at the end of the target player’s turn), and other players cannot block it in any way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T045616Z" creationid="aorin" creationdate="20180408T045616Z">
+        <seg>憑依はゴーストの同じアビリティのように動作しますが、（対象プレイヤーターンの終了時ではなく）あなたが憑依パワーを使用して直ちに憑依ターンを開始するときを除いて、他プレイヤーはこれをブロックすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possible reinforcement orders:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001815Z" creationid="aorin" creationdate="20180115T001815Z">
@@ -28909,6 +28917,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
         <seg>3アクションまで実行でき、追加で鳥カードを消費するごとに、別のアクションをおこなえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may target the same object with multiple uses of Telekinesis (unlike the Ghost).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T045241Z" creationid="aorin" creationdate="20180408T045241Z">
+        <seg>（ゴーストと違い）あなたは同じオブジェクトに複数回テレキネシスを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
