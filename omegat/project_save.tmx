@@ -10402,8 +10402,8 @@ please see page 13.</seg>
       <tuv lang="EN-US">
         <seg>For any position (1–7) in turn order— except the position of the non-Ghost player—that has multiple roles, randomly remove cards from that position until only one remains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T015246Z" creationid="aorin" creationdate="20180408T015246Z">
-        <seg>ターン順番（1-7）を持つロールを、1</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015902Z" creationid="aorin" creationdate="20180408T015246Z">
+        <seg>（ゴーストではないプレイヤーの番号を除く）ターン順番（1-7）が重複しているロールを、重複しないようにカードをランダムに取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15853,6 +15853,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T143350Z" creationid="nakahodo" creationdate="20171224T143350Z">
         <seg>さあゲームを始めましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that each position in turn order only has one card, she collects them to form her Possession deck.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T015642Z" creationid="aorin" creationdate="20180408T015631Z">
+        <seg>これで、各ターン順番の番号のカードは1枚ずつのみとなり、それらを集めて憑依デッキを形成します）</seg>
       </tuv>
     </tu>
     <tu>
