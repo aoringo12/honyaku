@@ -3559,6 +3559,14 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4+ PLAYERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022737Z" creationid="aorin" creationdate="20180408T022726Z">
+        <seg>4人以上のプレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145316Z" creationid="nakahodo" creationdate="20171218T145316Z">
@@ -21893,6 +21901,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost can be added as a player role to any variant designed for 3 or more other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022959Z" creationid="aorin" creationdate="20180408T022959Z">
+        <seg>ゴーストは他のプレイヤーたちが3人以上のために設計された任意のヴァリアントにプレイヤーロールとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost does not use the numbers in the top-right corner of Possession cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T182716Z" creationid="aorin" creationdate="20180406T182716Z">
@@ -21913,6 +21929,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133042Z" creationid="nakahodo" creationdate="20180406T133042Z">
         <seg>ゴーストはターン順で7番目で、ゴーストの後になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost places or collapses tiles only at the end of her turn, not after possession turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022726Z" creationid="aorin" creationdate="20180408T022726Z">
+        <seg>ゴーストは自身のターン終了時にのみ、タイルの配置や崩壊をして、憑依ターンの後では行いません。</seg>
       </tuv>
     </tu>
     <tu>
