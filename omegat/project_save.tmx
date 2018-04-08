@@ -1315,6 +1315,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 PLAYER / SOLO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024145Z" creationid="aorin" creationdate="20180408T024145Z">
+        <seg>1プレイヤー / ソロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Penalty Point for 1 slave, 2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143837Z" creationid="nakahodo" creationdate="20171213T143837Z">
@@ -4906,6 +4914,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012055Z" creationid="aorin" creationdate="20171229T012055Z">
         <seg>ゲーム4セットアップ時、進展トークンを配置した後、トークンを2スペース後退する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After placing tiles according to Alone in the Dark II, roll Flare for each Artifact on a Dark tile, using the Artifact as the center space for the roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024447Z" creationid="aorin" creationdate="20180408T024447Z">
+        <seg>アローンインザダークⅡに従いタイルを配置した後、ダークタイルにあるアーティファクトごとに、アーティファクトを中心としてフレアをロールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17683,6 +17699,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place or remove tiles only at the end of your turn, not at the end of possession turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024228Z" creationid="aorin" creationdate="20180408T024228Z">
+        <seg>あなたのターン終了時にのみ、タイルの配置[または]崩壊を行います。憑依ターン終了時はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place persona cards in the Automa's charter chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100709Z" creationid="nakahodo" creationdate="20180108T100709Z">
@@ -21209,6 +21233,22 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the Alone in the Dark II Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024157Z" creationid="aorin" creationdate="20180408T024157Z">
+        <seg>アローンインザダークⅡヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Flare Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024237Z" creationid="aorin" creationdate="20180408T024237Z">
+        <seg>フレアヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the Possession cards matching the roles being played, and return the other Possession cards to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131858Z" creationid="nakahodo" creationdate="20180406T131858Z">
@@ -21967,8 +22007,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Ghost always gets the Past Plunder Variant card, even if another player would get it or if the variant would not include it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T023240Z" creationid="aorin" creationdate="20180408T023240Z">
-        <seg>ゴーストは常に過去の略奪品ヴァリアントカードを得ることができます。たとえ他プレイヤーがそれを得たくても、ヴァリアントが含まれなくても。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024327Z" creationid="aorin" creationdate="20180408T023240Z">
+        <seg>ゴーストは常に過去の略奪品ヴァリアントカードを得ます。たとえ他プレイヤーがそれを得たくても、ヴァリアントが含まれなくてもです。</seg>
       </tuv>
     </tu>
     <tu>
