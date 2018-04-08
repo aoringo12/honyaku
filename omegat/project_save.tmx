@@ -5944,6 +5944,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of a possession turn, drop the Artifact (if any) carried by the possessed player piece onto its space, remove the possessed player piece from the map, and then remove the revealed Possession card from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022233Z" creationid="aorin" creationdate="20180408T022233Z">
+        <seg>憑依ターンの終了時に、憑依されたプレイヤーピースの居るスペースに（もしあれば）運んでいたアーティファクトを落とし、マップから憑依されたプレイヤーピースを取り除き、その後、ゲームから公開された憑依カードを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of a round, you should have one Program Card left.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T090951Z" creationid="nakahodo" creationdate="20180312T090951Z">
@@ -13243,6 +13251,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are also playing with the Ghoul, set up the game using the instructions in the Ghoul’s Player Variants section first, then add the Ghost using the appropriate instructions below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022433Z" creationid="aorin" creationdate="20180408T022433Z">
+        <seg>グールと共にゲームをプレイする場合、まずグールのプレイヤーヴァリアントセクションの指示を使用してゲームをセットアップして、その後、下記の指示を適切に使用してゴーストを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in a forest, move all of your damaged items to your exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083341Z" creationid="aorin" creationdate="20171216T083341Z">
@@ -18125,6 +18141,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
         <seg>プレイヤースケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player Variants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022239Z" creationid="aorin" creationdate="20180408T022239Z">
+        <seg>プレイヤーヴァリアント</seg>
       </tuv>
     </tu>
     <tu>
