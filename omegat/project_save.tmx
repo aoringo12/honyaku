@@ -21766,8 +21766,8 @@ do not show what’s in it.</seg>
       <tuv lang="EN-US">
         <seg>Telekinesis works as the Ghost’s same ability, but you can move only one object (regardless of Influence), and the distance you can move an object depends on your Isolation from the target object.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T045158Z" creationid="aorin" creationdate="20180408T045158Z">
-        <seg>テレキネシスはゴーストの同じアビリティのように動作しますが、（影響力に関係なく）オブジェクト1つのみを移動でき、オブジェクトを移動できる距離は、対象オブジェクトからあなたの孤独に示されます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T050157Z" creationid="aorin" creationdate="20180408T045158Z">
+        <seg>テレキネシスはゴーストの同じアビリティのように動作しますが、（影響力に関係なく）オブジェクト1つのみを移動でき、移動できる距離は、対象からの距離とボードの孤独レート表を参照します。</seg>
       </tuv>
     </tu>
     <tu>
