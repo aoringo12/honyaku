@@ -21901,6 +21901,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost always gets the Past Plunder Variant card, even if another player would get it or if the variant would not include it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023240Z" creationid="aorin" creationdate="20180408T023240Z">
+        <seg>ゴーストは常に過去の略奪品ヴァリアントカードを得ることができます。たとえ他プレイヤーがそれを得たくても、ヴァリアントが含まれなくても。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost can be added as a player role to any variant designed for 3 or more other players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022959Z" creationid="aorin" creationdate="20180408T022959Z">
