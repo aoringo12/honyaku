@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Players should agree during setup on the goal number.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024013Z" creationid="aorin" creationdate="20180408T024013Z">
+        <seg>（プレイヤーたちの間でゴールの数をセットアップ時に相談して決めてください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080312Z" creationid="nakahodo" creationdate="20180311T080312Z">
@@ -13323,6 +13331,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are playing Goblins vs. Ghost, the Goblins must smash 4 or 5 Crystals to win.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023941Z" creationid="aorin" creationdate="20180408T023941Z">
+        <seg>あなたがゴブリンたち vs. ゴーストをプレイしている場合、ゴブリンたちは4または5クリスタルを砕けば勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to place a building, take the leftmost building from its track on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150152Z" creationid="aorin" creationdate="20171215T150152Z">
@@ -22001,6 +22017,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133042Z" creationid="nakahodo" creationdate="20180406T133042Z">
         <seg>ゴーストはターン順で7番目で、ゴーストの後になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost must lock one more Artifact than the number of Crystals the Goblins must smash.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024139Z" creationid="aorin" creationdate="20180408T024139Z">
+        <seg>ゴーストはゴブリンがクリスタルを砕く必要がある数を1つ超える数だけ、アーティファクトをロックする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
