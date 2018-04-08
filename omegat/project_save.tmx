@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Tiles added or removed during the Shape the Cave phase do not need to be in surrounding spaces.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T044559Z" creationid="aorin" creationdate="20180408T044559Z">
+        <seg>（洞窟の形成フェイズ時での、タイルの追加と取り除きには周囲スペースである必要はありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Tiles placed during other players’ turns do not have to be Crystal tiles.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040452Z" creationid="aorin" creationdate="20180408T040452Z">
@@ -18850,6 +18858,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074539Z" creationid="nakahodo" creationdate="20180311T074505Z">
         <seg>プログラムカードをプレイする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plot Twist lets you place a Ghost tile (of your choice), Dark side up, in a surrounding space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T044750Z" creationid="aorin" creationdate="20180408T044750Z">
+        <seg>区画のひずみは、周囲スペースに（あなたの選択した）ゴーストタイルをダークサイドを上にして配置できます。</seg>
       </tuv>
     </tu>
     <tu>
