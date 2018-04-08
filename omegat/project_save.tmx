@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(On Ghost or Phantom, this Ghost tile will be the last one remaining.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T034624Z" creationid="aorin" creationdate="20180408T034624Z">
+        <seg>（ゴーストまたは死霊では、このゴーストタイルが最後の1つとして残ります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Orders with more than one dish, require only one additional Bread)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151122Z" creationid="nakahodo" creationdate="20180108T151029Z">
@@ -4818,6 +4826,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224649Z" creationid="aorin" creationdate="20171215T224649Z">
         <seg>これらヒットをカウントした後に、アタッカーとディフェンダーは、自身のプレイエリアにある特別アビリティや他の効果を使用してヒットを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After doing so, you win if you escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T034715Z" creationid="aorin" creationdate="20180408T034715Z">
+        <seg>そうした後、エントランスタイルに入ることで洞窟から脱出した場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
