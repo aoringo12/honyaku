@@ -5640,6 +5640,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T025204Z" creationid="aorin" creationdate="20180408T025204Z">
+        <seg>アーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a group, decide the name of the village and write it on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
@@ -11294,6 +11302,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T220508Z" creationid="nakahodo" creationdate="20171224T220508Z">
         <seg>グリーングリーでぎりーぎりーまで集める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghost (Standard): You must lock 5 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T025234Z" creationid="aorin" creationdate="20180408T025127Z">
+        <seg>幽霊（基本）：アーティファクト5つをロック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17358,6 +17374,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phantom (Hard): You must lock 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T025432Z" creationid="aorin" creationdate="20180408T025229Z">
+        <seg>死霊（ハード）:アーティファクトを</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phase, your Pixies can be promoted into the castle of the Queen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101238Z" creationid="aorin" creationdate="20171212T101238Z">
@@ -20893,8 +20917,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spirit (Easiest): You must lock 3 Artifacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T024940Z" creationid="aorin" creationdate="20180408T024940Z">
-        <seg>魂（もっとも簡単）：アーティファクトを3つロックすれば勝利します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T025104Z" creationid="aorin" creationdate="20180408T024940Z">
+        <seg>魂（もっとも簡単）：アーティファクト3つをロック。</seg>
       </tuv>
     </tu>
     <tu>
