@@ -8287,6 +8287,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Difficulty Variants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024856Z" creationid="aorin" creationdate="20180408T024856Z">
+        <seg>難易度ヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard all components to the general supply and place them in the Scriptorium.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151355Z" creationid="nakahodo" creationdate="20171230T151355Z">
@@ -11530,6 +11538,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard: After forming the Possession deck, shuffle the deck, draw three cards to use, and remove the rest from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024821Z" creationid="aorin" creationdate="20180408T024821Z">
+        <seg>ハード：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20779,6 +20795,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specter (Easy): You must lock 4 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T025054Z" creationid="aorin" creationdate="20180408T025054Z">
+        <seg>うつろう影 （イージー）：アーティファクト4つをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend a bird card and one supporter to place a warrior in any clearing whose nation matches the spent supporter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053732Z" creationid="aorin" creationdate="20171216T053732Z">
@@ -20863,6 +20887,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074433Z" creationid="nakahodo" creationdate="20180311T074433Z">
         <seg>スピンプログラムカードは、セクターダイス1つの出目の数字を1つ、上げるか下げることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spirit (Easiest): You must lock 3 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024940Z" creationid="aorin" creationdate="20180408T024940Z">
+        <seg>魂（もっとも簡単）：アーティファクトを3つロックすれば勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27776,6 +27808,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can adjust the difficulty level for the Ghost as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024920Z" creationid="aorin" creationdate="20180408T024920Z">
+        <seg>次に従い、ゴーストの難易度レベルを調整できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also get a few bonus coins based on where you built structures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T100257Z" creationid="nakahodo" creationdate="20180209T100257Z">
@@ -28130,8 +28170,24 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You lose if 5 Crystal tiles collapse.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T024646Z" creationid="aorin" creationdate="20180408T024646Z">
-        <seg>クリスタルタイルが5つ崩壊した場合にあなたは敗北します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024759Z" creationid="aorin" creationdate="20180408T024646Z">
+        <seg>クリスタルタイル5枚が崩壊した場合、あなたは敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You lose if 5 Crystal tiles or 2 Ghost tiles collapse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024845Z" creationid="aorin" creationdate="20180408T024749Z">
+        <seg>クリスタルタイル5枚[または]ゴーストタイル2枚が崩壊した場合、あなたは敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You lose if 5 Crystal tiles or any Ghost tiles collapse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024840Z" creationid="aorin" creationdate="20180408T024823Z">
+        <seg>クリスタルタイル5枚[または]任意のゴーストタイル1枚が崩壊した場合、あなたは敗北します。</seg>
       </tuv>
     </tu>
     <tu>
