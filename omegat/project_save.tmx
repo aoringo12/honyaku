@@ -4009,6 +4009,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Ghost tile with a locked Artifact may be collapsed normally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000208Z" creationid="aorin" creationdate="20180408T000208Z">
+        <seg>ロックされたアーティファクトがあるゴーストタイルは通常どおり崩壊できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Location must have at least one occupied space in
 order to be targeted by the Temp Agency.</seg>
       </tuv>
@@ -10620,6 +10628,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forced Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000345Z" creationid="aorin" creationdate="20180408T000345Z">
+        <seg>強制移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form the Possession deck as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131819Z" creationid="nakahodo" creationdate="20180406T131707Z">
@@ -11135,6 +11151,14 @@ place them on the table as shown below.</seg>
       <tuv lang="JA" changeid="aorin" changedate="20180407T235445Z" creationid="aorin" creationdate="20180407T235445Z">
         <seg>ゴーストタイル
 ゴーストタイルは新しいタイプの洞窟タイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghost tiles without a locked Artifact cannot be collapsed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000241Z" creationid="aorin" creationdate="20180408T000241Z">
+        <seg>アーティファクトがロックされていないゴーストタイルは崩壊できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12040,6 +12064,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233604Z" creationid="aorin" creationdate="20180407T233604Z">
         <seg>ロックされたアーティファクトのあるゴーストタイルがマップから取り除かれた場合、そのアーティファクトは依然としてゴーストの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a Ghost tile would be removed by the Collapse, remove the next eligible tile instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000338Z" creationid="aorin" creationdate="20180408T000338Z">
+        <seg>ゴーストタイルを崩壊の対象になる場合、代わりに次の対象を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22474,6 +22506,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The locked Artifact still counts toward the Ghost’s victory condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000229Z" creationid="aorin" creationdate="20180408T000229Z">
+        <seg>ロックされたアーティファクトは依然としてゴーストの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The longer you can entertain them, the more benefits you will reap,</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235237Z" creationid="aorin" creationdate="20171231T235237Z">
@@ -25965,6 +26005,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T081621Z" creationid="nakahodo" creationdate="20171001T081621Z">
         <seg>少ないフィールド研究者が貴重な豆のためにフィールドを探索すると、ビバジャワは最低限のバランスを維持するために（それがあまり良い風味ではなくても）一般的なブレンドを市場にリリースするでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When forced to move (due to collapsing tiles), the Ghost cannot be moved onto spaces that hold Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T000452Z" creationid="aorin" creationdate="20180408T000452Z">
+        <seg>強制的に移動させられる時（タイル崩壊のせいで）、ゴーストはアーティファクトを保持するスペースへと移動できません。</seg>
       </tuv>
     </tu>
     <tu>
