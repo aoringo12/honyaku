@@ -12272,6 +12272,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a possessed player piece enters the Mushroom Forest, the possession turn ends immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T001441Z" creationid="aorin" creationdate="20180408T001441Z">
+        <seg>憑依されたプレイヤーピースがキノコの森に入った場合、直ちに憑依ターンは終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a second card is added to her Mental Block space, return the first card to her Possession deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T231209Z" creationid="aorin" creationdate="20180407T231209Z">
@@ -18338,6 +18346,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T103822Z" creationid="nakahodo" creationdate="20171001T103822Z">
         <seg>ポジティブアクションは任意であるのに対して、ネガティブアクションは実行シなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possession in Two-Player and Solo Games</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T014615Z" creationid="aorin" creationdate="20180408T014615Z">
+        <seg>2プレイヤーゲームとソロゲームの憑依</seg>
       </tuv>
     </tu>
     <tu>
@@ -27240,6 +27256,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You and Artifacts may enter Magma without effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T001529Z" creationid="aorin" creationdate="20180408T001529Z">
+        <seg>ゴーストとアーティファクトは効果を受けずマグマに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are a specter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222758Z" creationid="aorin" creationdate="20171231T222758Z">
@@ -27602,8 +27626,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You cannot target player pieces in the Mushroom Forest with Telekinesis or Possession.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T001417Z" creationid="aorin" creationdate="20180408T001417Z">
-        <seg>ゴーストはキノコの森のプレイヤーピースを対象としてテレキネシスや憑依ができません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T001456Z" creationid="aorin" creationdate="20180408T001417Z">
+        <seg>ゴーストはキノコの森に居るプレイヤーピースを対象としてテレキネシスや憑依ができません。</seg>
       </tuv>
     </tu>
     <tu>
