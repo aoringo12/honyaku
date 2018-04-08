@@ -19079,6 +19079,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than seeking escape or merely an end, she has claimed the Cave as her own, twisting its powers so she might destroy all trespassers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T034939Z" creationid="aorin" creationdate="20180408T034939Z">
+        <seg>解放や純然たる終わりを求めるのではなく、彼女は洞窟を自分のものとし、そのパワーを振りかざし、全ての侵入者を滅ぼすことができるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read this and affix it to the Chronicle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T005057Z" creationid="aorin" creationdate="20171229T003249Z">
@@ -21782,6 +21790,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113947Z" creationid="nakahodo" creationdate="20171001T113947Z">
         <seg>醸造長は、投票が完了するまで、ブレンド[または]研究をチームが開始しないように監視してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave Ghost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T034719Z" creationid="aorin" creationdate="20180408T034719Z">
+        <seg>洞窟ゴースト</seg>
       </tuv>
     </tu>
     <tu>
