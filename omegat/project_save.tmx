@@ -7388,6 +7388,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a difficulty level:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024602Z" creationid="aorin" creationdate="20180408T024602Z">
+        <seg>難易度レベルの選択：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a location with a promoted Pixie of an opposing player’s colour.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164905Z" creationid="aorin" creationdate="20171212T164905Z">
@@ -9625,6 +9633,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151833Z" creationid="aorin" creationdate="20180115T151833Z">
         <seg>初期ディスカバリーは、中期や後期のディスカバリーよりも弱くコストが低い傾向にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Easy: Form the Possession deck as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024622Z" creationid="aorin" creationdate="20180408T024622Z">
+        <seg>イージー：憑依デッキを通常どおり形成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15650,6 +15666,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
         <seg>一方、地域の一角では誇り高きアイリーは新しい司令官を見つけ、自身らの種族が持っていた権利を取り戻そうとしていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium: After forming the Possession deck, shuffle the deck, draw three cards to use, and remove the rest from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024726Z" creationid="aorin" creationdate="20180408T024726Z">
+        <seg>ミディアム：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28104,6 +28128,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You lose if 5 Crystal tiles collapse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024646Z" creationid="aorin" creationdate="20180408T024646Z">
+        <seg>クリスタルタイルが5つ崩壊した場合にあなたは敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may Craft without spending an action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
@@ -28676,6 +28708,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065720Z" creationid="nakahodo" creationdate="20180311T065720Z">
         <seg>あなたはロボタニストたちのグループを制御し、クイーンのガーデンを構築するために対戦相手を出し抜きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you lock 5 Artifacts and then escape the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T024529Z" creationid="aorin" creationdate="20180408T024529Z">
+        <seg>アーティファクトを5つロックし、その後、洞窟から脱出できればあなたは勝利します。</seg>
       </tuv>
     </tu>
     <tu>
