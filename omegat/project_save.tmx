@@ -11858,6 +11858,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, If you reveal the Ghost Possession card, remove it from the game at the end of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021257Z" creationid="aorin" creationdate="20180408T021257Z">
+        <seg>しかし、あなたがゴーストの憑依カードを公開した場合、あなたのターンは終了し、それはゲームから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, all factions share certain terms which are described in this section.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150826Z" creationid="aorin" creationdate="20171215T150826Z">
@@ -22073,6 +22081,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072453Z" creationid="aorin" creationdate="20180115T072453Z">
         <seg>増強ステージが終了し、戦闘が解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Resolve Possession Card phase works as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T020227Z" creationid="aorin" creationdate="20180408T020227Z">
+        <seg>憑依カードの解決フェイズは通常どおり処理されます。</seg>
       </tuv>
     </tu>
     <tu>
