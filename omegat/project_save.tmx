@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, if playing against the Dragon, you could choose the Possessed Knight card during the Select Possession Card phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021646Z" creationid="aorin" creationdate="20180408T021646Z">
+        <seg>（例えば、ドラゴンと対戦している場合、あなたは憑依カードの選択フェイズで憑依されたナイトカードを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, if the Possessed Ghoul prompted you to roll 4 Ghoul dice, you could reroll one die to get a fourth result, but you could choose from all four results.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T153625Z" creationid="aorin" creationdate="20180407T153409Z">
@@ -12794,6 +12802,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074534Z" creationid="aorin" creationdate="20171213T074534Z">
         <seg>岩に繋がれるドレイがプレイヤー自身のドレイのみだった場合、プレイヤーは自身のドレイを繋ぐ必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the position in turn order of the Possession card is before the non-Ghost player, reveal the card at the end of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021517Z" creationid="aorin" creationdate="20180408T021517Z">
+        <seg>憑依カードのターン順番がゴーストではないプレイヤーの前である場合、あなたのターン終了時にカードを公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the position is after, reveal the card at the end of the non-Ghost player’s turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021550Z" creationid="aorin" creationdate="20180408T021550Z">
+        <seg>順番が後の場合、ゴーストではないプレイヤーのターン終了時にカードを公開します。</seg>
       </tuv>
     </tu>
     <tu>
