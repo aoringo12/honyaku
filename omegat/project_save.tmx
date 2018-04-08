@@ -6064,6 +6064,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of your turn, before the Dragon’s turn begins, you could reveal the Possessed Knight card to begin the possession turn with the Knight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021731Z" creationid="aorin" creationdate="20180408T021731Z">
+        <seg>あなたのターン終了時にて、ドラゴンのターンが開始される前に、あなたは憑依されたナイトカードを公開して、ナイトの憑依ターンを開始することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the highest level of a track a player even receives a Reward Point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172942Z" creationid="aorin" creationdate="20171212T172913Z">
@@ -6076,6 +6084,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133831Z" creationid="nakahodo" creationdate="20171230T133831Z">
         <seg>あなたの後ろのドアが閉まる音で、あなたは1人ではないことに気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the start of a possession turn, place the player piece (if any) of the possessed role on the map according to its setup rules for placement on its first turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021933Z" creationid="aorin" creationdate="20180408T021933Z">
+        <seg>憑依ターンの開始にて、憑依されたロールの最初のターンの配置セットアップルールに従い、マップにプレイヤーのピースを配置します（もしあれば）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13475,6 +13491,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you instead chose the Possessed Thief, you could reveal the card at the end of the Dragon’s turn.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T021807Z" creationid="aorin" creationdate="20180408T021807Z">
+        <seg>代わりに憑依されたシーフカードを選択した場合、ドラゴンのターン終了時にカードを公開できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you interrogate your companion about their odd behavior, open crate G.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000327Z" creationid="aorin" creationdate="20180101T000327Z">
@@ -14569,6 +14593,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031935Z" creationid="aorin" creationdate="20171213T031935Z">
         <seg>彼は絶対に炭鉱に送られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not begin with any Artifacts, but may collect an Artifact from the map to carry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T022016Z" creationid="aorin" creationdate="20180408T022016Z">
+        <seg>これはアーティファクトを持って開始できませんが、運ぶためにマップのアーティファクトを拾うことが出来ます。</seg>
       </tuv>
     </tu>
     <tu>
