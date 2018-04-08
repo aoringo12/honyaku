@@ -17189,8 +17189,9 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Other Players Unless specifically noted, other players cannot target the Cave Ghost with attacks, powers, or other effects.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T114736Z" creationid="aorin" creationdate="20180408T114736Z">
-        <seg>他のプレイヤーたちは特に記述がない限り、洞窟ゴーストを攻撃、パワー、他の効果の対象にできません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T120515Z" creationid="aorin" creationdate="20180408T114736Z">
+        <seg>他のプレイヤー
+特に記述がない限り、洞窟ゴーストを攻撃、パワー、他の効果の対象にできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18684,6 +18685,14 @@ Plan Supply.</seg>
         <seg>Player Variants</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022239Z" creationid="aorin" creationdate="20180408T022239Z">
+        <seg>プレイヤーヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player Variants The Cave Ghost is an alternative to the Cave, so she may be used in any variant that would include the Cave player, using the setup instructions and victory conditions of the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T114759Z" creationid="aorin" creationdate="20180408T114759Z">
         <seg>プレイヤーヴァリアント</seg>
       </tuv>
     </tu>
