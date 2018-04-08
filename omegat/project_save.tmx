@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Likewise, other players may enter your space freely and without effect.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040704Z" creationid="aorin" creationdate="20180408T040704Z">
+        <seg>（他のプレイヤーたちもまた、あなたの居るスペースへと自由に、効果を無視して入ることができます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not playable by the Vagabond or Marquise.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233321Z" creationid="aorin" creationdate="20171215T233321Z">
@@ -8981,6 +8989,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During this phase, you may move and use powers in any order and combination, up to the limits described in their sections.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040645Z" creationid="aorin" creationdate="20180408T040645Z">
+        <seg>このフェイズ時、あなたは任意の順番と組み合わせで、次のセクションの説明の上限まで、移動とパワーの使用ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During this phase, you may move up to six spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040703Z" creationid="aorin" creationdate="20180408T040703Z">
+        <seg>このフェイズ時、あなたは6スペースまで移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this stage, you can also sacrifice workers in your recruitment pool (those that were not deployed this turn) for additional IPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035224Z" creationid="aorin" creationdate="20180116T035224Z">
@@ -12192,6 +12216,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T135813Z" creationid="nakahodo" creationdate="20180406T135813Z">
         <seg>しかし、空のスペース、アーティファクトのあるスペース、アーティファクトを運ぶプレイヤーピースのいるスペースで、このフェイズを終了することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you cannot end this phase on an open space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040741Z" creationid="aorin" creationdate="20180408T040741Z">
+        <seg>しかし、あなたはこのフェイズ空きスペースで終了することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15590,6 +15622,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOVING</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040646Z" creationid="aorin" creationdate="20180408T040646Z">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a Blend</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
@@ -16636,6 +16676,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064005Z" creationid="aorin" creationdate="20180115T064005Z">
         <seg>ファーストプレイヤーが増強オーダーの全てを終えると、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the last tile in your hand has been placed, the Collapse begins on your next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T040523Z" creationid="aorin" creationdate="20180408T040523Z">
+        <seg>あなたの手札から最後のタイルが配置されると、次のあなたのターンから崩壊が始まります。</seg>
       </tuv>
     </tu>
     <tu>
