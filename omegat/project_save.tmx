@@ -1967,6 +1967,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 PLAYERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023453Z" creationid="aorin" creationdate="20180408T023453Z">
+        <seg>2プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Recruitment Phase During the Recruitment Phase, you gather workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213737Z" creationid="aorin" creationdate="20180114T213737Z">
@@ -2810,6 +2818,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123016Z" creationid="nakahodo" creationdate="20180406T123016Z">
         <seg>3ゴーストピース（スタンド、ミープル、ミニチュア）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 PLAYERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023348Z" creationid="aorin" creationdate="20180408T023337Z">
+        <seg>3プレイヤー</seg>
       </tuv>
     </tu>
     <tu>
@@ -9304,6 +9320,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player places or collapses only 1 tile at the end of their turn (instead of placing 1 or collapsing 3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023345Z" creationid="aorin" creationdate="20180408T023332Z">
+        <seg>各プレイヤーは自身のターン終了時にタイル1枚のみを配置[または]崩壊します（配置1枚か崩壊3枚ではなく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player reads their companion card, maks their choice on the card, and also marks their selection on their Charter Chest (either 1 capacity of 1 glory).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235631Z" creationid="aorin" creationdate="20171231T235631Z">
@@ -12380,6 +12404,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220124Z" creationid="aorin" creationdate="20171215T220124Z">
         <seg>効果が複数回の移動を与える場合、あなたは同じ[または]別々に戦士のグループを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If another player would get the Past Plunder Variant card, the Ghost gets it instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023452Z" creationid="aorin" creationdate="20180408T023452Z">
+        <seg>他のプレイヤーが過去の略奪品ヴァリアントカードを得たい場合、ゴーストがこれを変わりに得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21909,10 +21941,26 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost can be added as a player role to any 2-player variant designed for 2 players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023426Z" creationid="aorin" creationdate="20180408T023426Z">
+        <seg>ゴーストは2プレイヤーのためにデザインされた、任意の2プレイヤーヴァリアントにプレイヤーロールとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost can be added as a player role to any variant designed for 3 or more other players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022959Z" creationid="aorin" creationdate="20180408T022959Z">
         <seg>ゴーストは他のプレイヤーたちが3人以上のために設計された任意のヴァリアントにプレイヤーロールとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost can be added as a player role to the solo variant of any other role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180408T023517Z" creationid="aorin" creationdate="20180408T023517Z">
+        <seg>ゴーストは他のロールのソロヴァリアントロールにプレイヤーとして追加できます。</seg>
       </tuv>
     </tu>
     <tu>
