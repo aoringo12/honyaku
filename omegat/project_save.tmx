@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, in a two-player game, you would need 9 Fury, while in a five-player game, you would need 12 Fury.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133337Z" creationid="aorin" creationdate="20180409T133300Z">
+        <seg>（例えば、2プレイヤーゲームでは、あなたは9怒り必要で、5プレイヤーゲームでは、12怒りが必要になります。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, the possessed Dragon cannot remove a second Pride cube for revealing an Event tile if the Dragon player already removed a cube during his turn, the possessed Thief cannot target the same player with Backstab a second time, and the possessed  Cave must spend more Omen tokens to use omens such as Hatred and Past Plunder if they were used during the Cave player’s turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T155956Z" creationid="aorin" creationdate="20180408T155956Z">
@@ -6331,6 +6339,14 @@ Mint Supply.</seg>
         <seg>At the start of your first turn, place the Ghost piece on any unoccupied Dark tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132753Z" creationid="nakahodo" creationdate="20180406T132753Z">
+        <seg>あなたの最初のターンの開始時に、任意の未占領のダークタイルにゴーストピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the start of your first turn, place the Ghoul piece on any unoccupied Dark tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133500Z" creationid="aorin" creationdate="20180409T133500Z">
         <seg>あなたの最初のターンの開始時に、任意の未占領のダークタイルにゴーストピースを配置します。</seg>
       </tuv>
     </tu>
@@ -18540,6 +18556,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Fury cube on the “0” space of the Fury track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133503Z" creationid="aorin" creationdate="20180409T133459Z">
+        <seg>怒りトラックの”0”スペースに怒りキューブを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the General cards and miniatures near the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193300Z" creationid="aorin" creationdate="20180114T193300Z">
@@ -18552,6 +18576,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035055Z" creationid="aorin" creationdate="20180408T035055Z">
         <seg>あなたの近くにゴーストタイルを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Ghoul piece, Ghoul dice, and Ghoul discs near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133415Z" creationid="aorin" creationdate="20180409T133415Z">
+        <seg>グールピース、グールダイス、グールディスクを自身のプレイヤーボードの近くに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21288,6 +21320,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070952Z" creationid="nakahodo" creationdate="20180311T070947Z">
         <seg>プログラムカードをシャッフルしてプログラムデッキを作り、ゲームボードの横にこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Terror cards to form the Terror deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133433Z" creationid="aorin" creationdate="20180409T133433Z">
+        <seg>恐怖カードをシャッフルして恐怖デッキを形成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30233,6 +30273,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133845Z" creationid="nakahodo" creationdate="20180406T133543Z">
         <seg>あなたのフォーカスは、プレイを通して増加し、あなたの移動力と現在のターンの影響力を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Fury goal equals 7 + the number of players, up to a maximum of 14.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133314Z" creationid="aorin" creationdate="20180409T133259Z">
+        <seg>あなたの怒りの目標値はプレイヤー数+7に等しく、最大値は14です。</seg>
       </tuv>
     </tu>
     <tu>
