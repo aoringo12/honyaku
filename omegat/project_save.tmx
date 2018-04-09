@@ -14595,6 +14595,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you resolve a once per game effect that begins with “During this turn,” remove the card from the game at the end of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225505Z" creationid="aorin" creationdate="20180409T225505Z">
+        <seg>”このターン時”で始まる、ゲームごとに1度の効果を解決する場合、あなたのターン終了時にこれをゲームから取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you rule the origin clearing, you may move your warriors to any​ adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215508Z" creationid="aorin" creationdate="20171215T215250Z">
@@ -29910,6 +29918,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001204Z" creationid="aorin" creationdate="20180408T001204Z">
         <seg>アーティファクトを横穴上や通り抜けるようにテレキネシスは使用できませんが、他のプレイヤーはアーティファクトを運んで横穴を通り抜けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot use both of a card’s effects on the same turn, and you cannot use the once per game effect of identical cards on the same turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225827Z" creationid="aorin" creationdate="20180409T225827Z">
+        <seg>同じターンにカードの効果両方を使用することはできず、同じターンに同じカードのゲームごとに1度の効果を使用でき千。</seg>
       </tuv>
     </tu>
     <tu>
