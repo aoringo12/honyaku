@@ -6346,8 +6346,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the start of your first turn, place the Ghoul piece on any unoccupied Dark tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T133500Z" creationid="aorin" creationdate="20180409T133500Z">
-        <seg>あなたの最初のターンの開始時に、任意の未占領のダークタイルにゴーストピースを配置します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133612Z" creationid="aorin" creationdate="20180409T133500Z">
+        <seg>あなたの最初のターンの開始時に、任意の未占領のダークタイルにグールピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10005,6 +10005,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn, resolve the following phases in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133706Z" creationid="aorin" creationdate="20180409T133706Z">
+        <seg>各ターン、次の順番に従いフェイズを解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each wooden disc represents 1 worker.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213752Z" creationid="aorin" creationdate="20180114T213752Z">
@@ -13230,6 +13238,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such tile exists, place a Dark tile (provided by the Cave, if present) and place the Ghoul piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133621Z" creationid="aorin" creationdate="20180409T133606Z">
+        <seg>そのようなタイルが存在しない場合、ダークタイル1枚を配置し（居る場合は洞窟プレイヤーから提供されます）、そこにグールピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such tile exists, place a Dark tile from your hand, and then place the Ghost piece there.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035356Z" creationid="aorin" creationdate="20180408T035356Z">
@@ -15232,6 +15248,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T115747Z" creationid="nakahodo" creationdate="20171213T115747Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, the Ghoul rolls dice each turn, giving it points to spend on various actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133856Z" creationid="aorin" creationdate="20180409T133856Z">
+        <seg>代わりに、グールはターン毎にダイスをロールし、様々なアクションのために消費されるポイントを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20850,6 +20874,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STATISTICS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133710Z" creationid="aorin" creationdate="20180409T133710Z">
+        <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Science IP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035017Z" creationid="aorin" creationdate="20180116T035017Z">
@@ -23251,6 +23283,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T125028Z" creationid="aorin" creationdate="20180409T125028Z">
         <seg>グールは任意の他のプレイヤー数字とロールに組み合わせて追加する事ができる、プレイヤーロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghoul is sixth in turn order, after the Thief and before the Ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133643Z" creationid="aorin" creationdate="20180409T133643Z">
+        <seg>グールはターン順番で6となり、シーフの後、ゴーストの前になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27029,6 +27069,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235042Z" creationid="aorin" creationdate="20171231T235042Z">
         <seg>他のワーカーとは違い、ミニオンはそこから押し出せません――ミニオンは、あなたが自身のワーカー全てを戻す選択をするまで、あなたの建物にとどまります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the other roles, the Ghoul doesn’t have statistics that remain stable throughout play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133819Z" creationid="aorin" creationdate="20180409T133819Z">
+        <seg>他のプレイヤーロールと違い、グールはプレイを通して維持されるステータスを持ちません。</seg>
       </tuv>
     </tu>
     <tu>
