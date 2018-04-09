@@ -4926,6 +4926,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After forming the Possession deck, shuffle the deck, draw three cards to use, and remove the rest from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082628Z" creationid="aorin" creationdate="20180409T082628Z">
+        <seg>ハード：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After gaining a face-up card from the mat, replace it with the top card from the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205220Z" creationid="nakahodo" creationdate="20171218T152751Z">
@@ -8455,6 +8463,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dice:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082445Z" creationid="aorin" creationdate="20180409T082445Z">
+        <seg>ダイス：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dice: If a Possession card prompts you to roll more dice than there are available for use or are included in the game, you can substitute dice or reroll dice to represent the additional dice you need to roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T153617Z" creationid="aorin" creationdate="20180407T153244Z">
@@ -8467,6 +8483,30 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024856Z" creationid="aorin" creationdate="20180408T024856Z">
         <seg>難易度ヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard [INF] Power cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082523Z" creationid="aorin" creationdate="20180409T082523Z">
+        <seg>影響力の数だけパワーカードを破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard [INF] Secrets cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082515Z" creationid="aorin" creationdate="20180409T082515Z">
+        <seg>影響力の数だけシークレットカードを破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard [INF] Unicorn cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082532Z" creationid="aorin" creationdate="20180409T082532Z">
+        <seg>影響力の数だけユニコーンカードを捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8699,6 +8739,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145816Z" creationid="nakahodo" creationdate="20180108T145816Z">
         <seg>Down With The Flu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragon:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082519Z" creationid="aorin" creationdate="20180409T082519Z">
+        <seg>ドラゴン：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9865,6 +9913,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151833Z" creationid="aorin" creationdate="20180115T151833Z">
         <seg>初期ディスカバリーは、中期や後期のディスカバリーよりも弱くコストが低い傾向にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Easy:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082616Z" creationid="aorin" creationdate="20180409T082616Z">
+        <seg>イージー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11036,6 +11092,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form the Possession deck as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082621Z" creationid="aorin" creationdate="20180409T082621Z">
+        <seg>憑依デッキを通常どおり形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fortunately, there is a way to get your body back.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222945Z" creationid="aorin" creationdate="20171231T222945Z">
@@ -11718,6 +11782,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goblins:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082511Z" creationid="aorin" creationdate="20180409T082511Z">
+        <seg>ゴブリンたち：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goblins: Discard [INF] Secrets cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225416Z" creationid="aorin" creationdate="20180407T225416Z">
@@ -11818,6 +11890,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082633Z" creationid="aorin" creationdate="20180409T082633Z">
+        <seg>ハード：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12576,6 +12656,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104333Z" creationid="aorin" creationdate="20171212T104333Z">
         <seg>妖精とアクションディスクが互いに隣り合って配置されている場合、まれにアクションフェイズ中に妖精がこの場所を離れる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a Possession card prompts you to roll more dice than there are available for use or are included in the game, you can substitute dice or reroll dice to represent the additional dice you need to roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082450Z" creationid="aorin" creationdate="20180409T082450Z">
+        <seg>憑依カードがゲームの内容物として利用可能な数を越えてダイスのロールを指示する場合、あなたは代わりのダイスを使用するか、ダイスを振り直し、これをロールする必要がある追加のダイスとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14915,6 +15003,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082431Z" creationid="aorin" creationdate="20180409T082431Z">
+        <seg>情報：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information: You do not gain access to private information held by the possessed player, such as cards in their own hand, except for the Cave’s hand of tiles (as described on its card).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T152900Z" creationid="aorin" creationdate="20180407T152900Z">
@@ -15533,6 +15629,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knight:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082455Z" creationid="aorin" creationdate="20180409T082455Z">
+        <seg>ナイト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Knight: Lose [INF+2] Grit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225358Z" creationid="aorin" creationdate="20180407T225358Z">
@@ -15794,6 +15898,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151439Z" creationid="nakahodo" creationdate="20180108T151439Z">
         <seg>3コイン失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose [INF+2] Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082505Z" creationid="aorin" creationdate="20180409T082505Z">
+        <seg>影響力+2の経験値を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16090,6 +16202,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
         <seg>一方、地域の一角では誇り高きアイリーは新しい司令官を見つけ、自身らの種族が持っていた権利を取り戻そうとしていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082628Z" creationid="aorin" creationdate="20180409T082628Z">
+        <seg>ミディアム：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21445,6 +21565,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend [INF+1] movement points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082603Z" creationid="aorin" creationdate="20180409T082603Z">
+        <seg>影響力+1の移動力ポイントを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend [INF] Action cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082539Z" creationid="aorin" creationdate="20180409T082539Z">
+        <seg>影響力の数だけアクションキューブを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend a bird card and one supporter to place a warrior in any clearing whose nation matches the spent supporter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053732Z" creationid="aorin" creationdate="20171216T053732Z">
@@ -25560,6 +25696,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thief:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082535Z" creationid="aorin" creationdate="20180409T082535Z">
+        <seg>シーフ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thief: Spend [INF] Action cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225505Z" creationid="aorin" creationdate="20180407T225505Z">
@@ -26565,6 +26709,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T064328Z" creationid="nakahodo" creationdate="20180311T064328Z">
         <seg>残念ながら、クイーンの新しい計画のためには、世界に残った水はあまりにも少ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicorn:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082528Z" creationid="aorin" creationdate="20180409T082528Z">
+        <seg>ユニコーン：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29018,6 +29170,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You do not gain access to private information held by the possessed player, such as cards in their own hand, except for the Cave’s hand of tiles (as described on its card).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082442Z" creationid="aorin" creationdate="20180409T082442Z">
+        <seg>あなたは、（カードに記述されているように）洞窟の手札タイルを除いて、憑依したプレイヤーの持つ個人情報を知ることはできません。例えば彼らの手札カードなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not lose victory points for returning a building to your faction board, and you still score victory points when you build a building that was previously returned to your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
@@ -29486,6 +29646,30 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151020Z" creationid="nakahodo" creationdate="20180108T151020Z">
         <seg>このラウンド中、各注文に追加でパン1つを含めなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must lock 3 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082657Z" creationid="aorin" creationdate="20180409T082657Z">
+        <seg>アーティファクト3つをロックしなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must lock 4 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082659Z" creationid="aorin" creationdate="20180409T082659Z">
+        <seg>アーティファクト4つをロックしなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must lock 5 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082701Z" creationid="aorin" creationdate="20180409T082701Z">
+        <seg>アーティファクト5つをロックしなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30002,6 +30186,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131954Z" creationid="nakahodo" creationdate="20171230T131954Z">
         <seg>あなたの村と人生における最後の戦いのグループの運命は、キャンペーンを通してあなたの選択に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Vile] Ghoul:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082548Z" creationid="aorin" creationdate="20180409T082548Z">
+        <seg>バイルグール：</seg>
       </tuv>
     </tu>
     <tu>
