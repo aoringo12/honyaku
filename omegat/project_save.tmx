@@ -13205,8 +13205,8 @@ Cloud Port or Grandstand)</seg>
       <tuv lang="EN-US">
         <seg>If it does not affect the center tile, take a Treasure token from the Cave’s supply (or map, if supply empty) and return the Gem to the Dragon’s supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T210537Z" creationid="aorin" creationdate="20180409T210537Z">
-        <seg>中央タイルに影響を与えない場合、洞窟のサプライからトレジャートークン1つを取り（サプライにない場合、マップから）、ドラゴンのサプライにジェムを戻します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210654Z" creationid="aorin" creationdate="20180409T210537Z">
+        <seg>中央タイルに影響を与えない場合、洞窟のサプライからトレジャートークン1つを取り（サプライにない場合、マップから）、ドラゴンのサプライにジェムを戻します。その後、トレジャートークン収集時の処理を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14175,6 +14175,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T202430Z" creationid="aorin" creationdate="20180409T202430Z">
         <seg>ドラゴンジェムを収集する場合、ドラゴンダイスを1回ロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you collect a Treasure token, place it on the Treasure space on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210628Z" creationid="aorin" creationdate="20180409T210628Z">
+        <seg>トレジャートークン1つを収集する場合、自身のプレイヤーボードのトレジャースペースにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23731,6 +23739,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
         <seg>一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thief can use Pickpocket to steal Treasure tokens on your Treasure space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210812Z" creationid="aorin" creationdate="20180409T210812Z">
+        <seg>シーフはスリを使用して、あなたのトレジャースペースにあるトレジャートークンを盗む事ができます。</seg>
       </tuv>
     </tu>
     <tu>
