@@ -13558,6 +13558,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If she enters your space, she attacks you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T231143Z" creationid="aorin" creationdate="20180409T231143Z">
+        <seg>あなたのスペースにナイトが入った場合、あなたを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If text in the learn to play conflicts with text in this rules reference, this rules reference takes precedence.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145812Z" creationid="aorin" creationdate="20171215T145812Z">
@@ -23723,6 +23731,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
         <seg>マルキス・デ・キャットのキープは全ての民が住んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight can enter your space only if her Strength is greater than your Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T231118Z" creationid="aorin" creationdate="20180409T231118Z">
+        <seg>ナイトはその攻撃力があなたの防御力を超える場合にのみ、あなたのスペースに入れます。</seg>
       </tuv>
     </tu>
     <tu>
