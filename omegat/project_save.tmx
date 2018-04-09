@@ -13195,6 +13195,14 @@ Cloud Port or Grandstand)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it affects the center tile, you skitter (it’s a trap!) and return the Gem to the Dragon’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210439Z" creationid="aorin" creationdate="20180409T210439Z">
+        <seg>中央タイルに影響を与える場合、あなたは飛び退き（トラップだ！）、ジェムをドラゴンのサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it goes out for any reason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000649Z" creationid="aorin" creationdate="20180101T000649Z">
@@ -14151,6 +14159,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085836Z" creationid="nakahodo" creationdate="20180108T085836Z">
         <seg>オートマシステムを含める選択をする場合、我々はオートマ2人を使用することを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you collect a Dragon Gem, roll the Dragon die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T202430Z" creationid="aorin" creationdate="20180409T202430Z">
+        <seg>ドラゴンジェムを収集する場合、ドラゴンダイスを1回ロールします。</seg>
       </tuv>
     </tu>
     <tu>
