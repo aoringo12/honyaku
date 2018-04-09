@@ -6408,6 +6408,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of your turn, your remaining attack points become your defensive attribute:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T230728Z" creationid="aorin" creationdate="20180409T230728Z">
+        <seg>ターン終了時にて、あなたの残りの攻撃ポイントが防御力になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the highest level of a track a player even receives a Reward Point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172942Z" creationid="aorin" creationdate="20171212T172913Z">
