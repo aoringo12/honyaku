@@ -10789,6 +10789,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, remove any Ghoul discs from your</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134206Z" creationid="aorin" creationdate="20180409T134206Z">
+        <seg>まず、あなたのアクションスペースから任意の数、グールディスクを取り除き、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you may Reform and Craft any number of times.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001854Z" creationid="aorin" creationdate="20171216T001854Z">
@@ -20646,6 +20654,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223905Z" creationid="aorin" creationdate="20171215T223905Z">
         <seg>ダイスロールとヒットのカウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roll and Set Statistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133907Z" creationid="aorin" creationdate="20180409T133907Z">
+        <seg>ダイスロールとステータスの設定</seg>
       </tuv>
     </tu>
     <tu>
