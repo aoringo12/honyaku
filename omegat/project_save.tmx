@@ -14123,6 +14123,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you attack a player, you do not spend +1 movement point to enter their tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211530Z" creationid="aorin" creationdate="20180409T211530Z">
+        <seg>あなたがプレイヤー1人を攻撃する場合、そのタイルに入るために必要な追加の+1移動力ポイントの消費はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can't pay the cost, you can't place a workerhere.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205741Z" creationid="aorin" creationdate="20180101T205741Z">
@@ -21352,6 +21360,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She loses 1 Grit for each Hero cube she has available, or 1 Health, or 1 Treasure card, her choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211718Z" creationid="aorin" creationdate="20180409T211718Z">
+        <seg>利用可能なヒーローキューブごとに1経験値[または]1ヘルス[または]1トレージャードを、ナイトが選択して失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She may now place a Gem in any Garden Sector instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075222Z" creationid="nakahodo" creationdate="20180311T075222Z">
@@ -28227,6 +28243,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111550Z" creationid="nakahodo" creationdate="20180108T111550Z">
         <seg>クロニクルに新しいルールやストーリーカードが追加する時、このガイドにカード番号がある場合、指定されたカードを引き出します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you attack, deal the following effect:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211552Z" creationid="aorin" creationdate="20180409T211552Z">
+        <seg>攻撃する時、効果を次のように適用します：</seg>
       </tuv>
     </tu>
     <tu>
