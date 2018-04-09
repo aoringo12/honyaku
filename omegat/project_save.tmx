@@ -29594,6 +29594,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot attack the same player piece more than once during the same turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211428Z" creationid="aorin" creationdate="20180409T211428Z">
+        <seg>同じターン時に同じ対象を再度攻撃できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot build in a clearing with no open slots.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
