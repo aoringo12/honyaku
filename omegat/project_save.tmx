@@ -11522,6 +11522,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost (Standard):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081913Z" creationid="aorin" creationdate="20180409T081913Z">
+        <seg>幽霊（基本）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost (Standard): You must lock 5 Artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T025234Z" creationid="aorin" creationdate="20180408T025127Z">
@@ -17759,6 +17767,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phantom (Hard):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081928Z" creationid="aorin" creationdate="20180409T081928Z">
+        <seg>死霊（ハード）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phantom (Hard): You must lock 5</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T025432Z" creationid="aorin" creationdate="20180408T025229Z">
@@ -17907,6 +17923,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173532Z" creationid="aorin" creationdate="20171228T173532Z">
         <seg>チャーターの全ての建物へと、ランダムに危険トークン1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 4 Hatred tokens near your board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081946Z" creationid="aorin" creationdate="20180409T081946Z">
+        <seg>自身のボード近くに憎悪トークン4つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22376,6 +22400,30 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T161106Z" creationid="aorin" creationdate="20180408T161106Z">
         <seg>洞窟はクリスタルタイル3つを取り除き崩壊させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave collapses when 4 Crystal tiles have been removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081854Z" creationid="aorin" creationdate="20180409T081854Z">
+        <seg>洞窟はクリスタルタイル4つを取り除き崩壊させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave collapses when 5 Crystal tiles and all Hatred tokens have been removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082132Z" creationid="aorin" creationdate="20180409T082132Z">
+        <seg>洞窟は5つのクリスタルタイルと全ての憎悪トークンが取り除かれた時、崩壊します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave collapses when 5 Crystal tiles have been removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081921Z" creationid="aorin" creationdate="20180409T081921Z">
+        <seg>洞窟はクリスタルタイル5つを取り除き崩壊させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27579,6 +27627,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234903Z" creationid="aorin" creationdate="20171231T234903Z">
         <seg>あなたが収入建物を使用する時、あなたが消費する影響トークンは建物の八角形アイコンに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you use the Hatred omen while any Hatred tokens remain, you may ignore its effect to instead remove a Hatred token from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082046Z" creationid="aorin" creationdate="20180409T082046Z">
+        <seg>任意の憎悪トークンが残っている間に憎悪前兆を使用する時、あなたはその効果を発動させない代わりに、ゲームから憎悪トークンを取り除くことができます。</seg>
       </tuv>
     </tu>
     <tu>
