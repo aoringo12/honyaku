@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You won’t need to do this on your first turn.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134310Z" creationid="aorin" creationdate="20180409T134310Z">
+        <seg>（あなたのゲーム最初のターン、kろえを行う必要はありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(and other revealed cards):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105730Z" creationid="nakahodo" creationdate="20171225T105655Z">
@@ -6372,6 +6380,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T100432Z" creationid="nakahodo" creationdate="20171230T100432Z">
         <seg>あなたの後ろには、長い間共に時間を過ごしてきた仲間たちがいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attack space and return them to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134210Z" creationid="aorin" creationdate="20180409T134210Z">
+        <seg>自身のサプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13546,6 +13562,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224116Z" creationid="aorin" creationdate="20171215T224116Z">
         <seg>同値の場合、アタッカーとディフェンダーは同じ数のヒットを与え合います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the sum of all three dice is 7 or less, draw a Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134506Z" creationid="aorin" creationdate="20180409T134506Z">
+        <seg>3つ全てのダイスのの合計が7以下だった場合、恐怖カード1枚をドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25364,6 +25388,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002051Z" creationid="aorin" creationdate="20171216T002051Z">
         <seg>その後、法令を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, roll all three Ghoul dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134323Z" creationid="aorin" creationdate="20180409T134323Z">
+        <seg>その後、グールダイスを3つ全てロールします。</seg>
       </tuv>
     </tu>
     <tu>
