@@ -352,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>(For example, you may use the once per game effect of a Chase card and the once per game effect of a Hunt card on the same turn, but cannot use the one per game effect of two Chase cards.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T225913Z" creationid="aorin" creationdate="20180409T225913Z">
-        <seg>（例えば、）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T230039Z" creationid="aorin" creationdate="20180409T225913Z">
+        <seg>（例えば、あなたはチェイスカードのゲームごとに1度の効果とハントカードのゲームごとに1度の効果を同じターンに使用できますが、2枚めのチェイスカードのゲームごとに1度の効果を使用はできません）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21981,6 +21981,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some effects require that you spend movement points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T230124Z" creationid="aorin" creationdate="20180409T230124Z">
+        <seg>いくつかの効果は、移動力ポイントを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some guideposts_have temporary rules for the current game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T210734Z" creationid="nakahodo" creationdate="20171224T210734Z">
@@ -26589,6 +26597,14 @@ using the Hiding Spots secrets card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173705Z" creationid="aorin" creationdate="20171228T173705Z">
         <seg>これは良いことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is abbreviated to “movement” to save space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T230415Z" creationid="aorin" creationdate="20180409T230415Z">
+        <seg>これはカードテキストを省略するため単に「移動力」と記述されています。</seg>
       </tuv>
     </tu>
     <tu>
