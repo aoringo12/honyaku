@@ -11479,6 +11479,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain Fury equal to your Fury goal by attacking other players and collecting Treasures, then escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T133236Z" creationid="aorin" creationdate="20180409T133236Z">
+        <seg>他のプレイヤーを攻撃し、トレジャーを収集して怒りの目標値まで怒りを得て、エントランスタイルに入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain VP and advance the progress token.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T170949Z" creationid="aorin" creationdate="20171228T170949Z">
