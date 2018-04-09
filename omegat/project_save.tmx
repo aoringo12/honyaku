@@ -7160,6 +7160,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COLLECT TREASURES AND GEMS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T202151Z" creationid="aorin" creationdate="20180409T202151Z">
+        <seg>トレジャーとジェムの収集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COLLECTING, CARRYING, AND DROPPING ARTIFACTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233824Z" creationid="aorin" creationdate="20180407T233726Z">
@@ -10185,6 +10193,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105034Z" creationid="nakahodo" creationdate="20180108T105034Z">
         <seg>たとえ、オートマが公開された指標のオプションを選択する必要があるとしても、人間プレイヤーが効果の選択をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if you cannot attack a player piece, you may still enter its space if you spend +1 movement point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T202211Z" creationid="aorin" creationdate="20180409T202137Z">
+        <seg>逆に言えば、あなたがプレイヤーピースを攻撃できなくても、追加で+1移動力ポイントを支払えばそのスペースに入ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13360,8 +13376,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If that space holds any player pieces that you cannot attack, you must spend +1 movement point even if you immediately attack another player piece on that space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T135901Z" creationid="aorin" creationdate="20180409T135901Z">
-        <seg>そのスペースが保持する任意のプレイヤーピースをあなたが攻撃できない場合、そのほかのプレイヤーピースを直ちに攻撃するとしても、あなたは+1移動力ポイントを消費する必要があります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T202217Z" creationid="aorin" creationdate="20180409T135901Z">
+        <seg>そのスペースが保持する任意のプレイヤーピースをあなたが攻撃できない場合、そのほかのプレイヤーピースを直ちに攻撃するとしても、あなたは追加で+1移動力ポイントを消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29710,6 +29726,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000122Z" creationid="aorin" creationdate="20180115T000122Z">
         <seg>あなたは常に、法廷にワーカーを展開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may collect Treasure tokens and Dragon Gems on your space by spending 2 movement points per Treasure or Gem collected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T202412Z" creationid="aorin" creationdate="20180409T202412Z">
+        <seg>あなたは、収集するトレジャーやジェムごとに2移動力ポイント消費することにより、自身のスペースにあるそれらからトークン1つを収集することができます。</seg>
       </tuv>
     </tu>
     <tu>
