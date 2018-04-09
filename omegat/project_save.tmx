@@ -21437,6 +21437,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spirit (Easiest):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081657Z" creationid="aorin" creationdate="20180409T081657Z">
+        <seg>魂（もっとも簡単）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spirit (Easiest): Remove 2 tiles of each type, including Ghost tiles, during setup.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T161113Z" creationid="aorin" creationdate="20180408T161005Z">
