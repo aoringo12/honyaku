@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Crystals you smash count toward the victory conditions of other players.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223625Z" creationid="aorin" creationdate="20180409T223625Z">
+        <seg>（あなたが砕いたクリスタルは他プレイヤーの勝利条件にカウントされます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The Unicorn Teleports after you skitter.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T223501Z" creationid="aorin" creationdate="20180409T223501Z">
@@ -578,6 +586,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T174454Z" creationid="aorin" creationdate="20180406T174442Z">
         <seg>（ヴァスト：クリスタルカーヴァンのページ5の用語集で「見えている」を参照してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(When resolving this attack, if the Thief uses Unnatural Evasion and rolls successfully, he moves after you skitter.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223923Z" creationid="aorin" creationdate="20180409T223923Z">
+        <seg>（攻撃を解決した後、シーフが不自然な回避を使用し、ダイスロールが成功した場合、あなたが飛び退いた後で彼は移動します）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8951,6 +8967,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw Terror cards equal in number to the Thief’s Loot Drop Level (minimum 1), keep one, and return the others to the bottom of the Terror deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223739Z" creationid="aorin" creationdate="20180409T223739Z">
+        <seg>シーフのルートドロップレベルに等しい数だけ（最小1）恐怖カードをドローし、1枚保持し、他を恐怖デッキの下に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of cards, and set them aside.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
@@ -12245,6 +12269,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134247Z" creationid="nakahodo" creationdate="20171127T134247Z">
         <seg>彼がスペースに入ると殺され、運んでいたジェムやトレジャーをそのスペースに落とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223633Z" creationid="aorin" creationdate="20180409T223633Z">
+        <seg>彼は殺されます。</seg>
       </tuv>
     </tu>
     <tu>
