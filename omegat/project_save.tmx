@@ -11974,6 +11974,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goblin Tribe:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211746Z" creationid="aorin" creationdate="20180409T211746Z">
+        <seg>ゴブリン部族：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goblins:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082511Z" creationid="aorin" creationdate="20180409T082511Z">
@@ -12189,6 +12197,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T093302Z" creationid="nakahodo" creationdate="20171230T073523Z">
         <seg>王は村の成長を阻害しているプレイヤーを知ろうとします――そこには、村を久遠の都の候補にしようという認識しかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He discards Power cards equal in number to his Armor, or loses 1 Health, or returns 1 Sloth token from his Wakefulness track to any open Sloth space, his choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T212236Z" creationid="aorin" creationdate="20180409T212236Z">
+        <seg>アーマーに等しい数、ドラゴンが選択してパワーカードを破棄する[または]1ヘルスを失う[または]1怠惰キューブを覚醒トラックから任意の怠惰スペースへと戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18642,6 +18658,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place lost Treasure cards at the bottom of the Treasure deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211742Z" creationid="aorin" creationdate="20180409T211742Z">
+        <seg>失うトレジャーカードはトレジャーデッキの下に入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place on the Best-Seller List</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095905Z" creationid="nakahodo" creationdate="20171002T095905Z">
@@ -23787,6 +23811,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T204758Z" creationid="aorin" creationdate="20180114T204758Z">
         <seg>3つの時代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tribe scatters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211802Z" creationid="aorin" creationdate="20180409T211802Z">
+        <seg>部族は散ります。</seg>
       </tuv>
     </tu>
     <tu>
