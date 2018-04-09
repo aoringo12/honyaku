@@ -8345,6 +8345,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crystal:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223506Z" creationid="aorin" creationdate="20180409T223506Z">
+        <seg>クリスタル：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D 3
 d
 Place the board in the middle of the table.</seg>
@@ -30334,6 +30342,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135641Z" creationid="aorin" creationdate="20180409T135641Z">
         <seg>壁を通り抜けて移動する場合、加えて+1移動力ポイントを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must spend 3 Ghoul discs to smash a Crystal token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223543Z" creationid="aorin" creationdate="20180409T223543Z">
+        <seg>あなたは3グールディスクを消費することで、クリスタルトークンを砕くことができます。</seg>
       </tuv>
     </tu>
     <tu>
