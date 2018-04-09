@@ -14195,6 +14195,22 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you gain attack points, add Ghoul discs to this space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135103Z" creationid="aorin" creationdate="20180409T135103Z">
+        <seg>あなたが攻撃ポイントを得た場合、このスペースにグールディスクを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you gain movement points and need to track a number higher than 6, use Ghoul discs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134906Z" creationid="aorin" creationdate="20180409T134906Z">
+        <seg>あなたが移動力ポイントを得て、6を超えた数字を管理する必要が出た場合、グールディスクを使用してこれを記録します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have any Crystal tiles in your hand, you must place them before placing any other tiles.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040417Z" creationid="aorin" creationdate="20180408T040417Z">
@@ -23908,8 +23924,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The die with the higher value is your movement points, and the die with the lower value is your attack points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T134729Z" creationid="aorin" creationdate="20180409T134729Z">
-        <seg>最も高い値のダイスがあなたの移動力ポイントで、</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134801Z" creationid="aorin" creationdate="20180409T134729Z">
+        <seg>最も高い値のダイスがあなたの移動力ポイントで、最も低い値のダイスがあなたの攻撃ポイントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26750,6 +26766,22 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031159Z" creationid="aorin" creationdate="20180115T031159Z">
         <seg>右は、新しいゲームのターン1のマップ状況が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To track your attack points, place an equal number of Ghoul discs on the Attack space of your player board, and set aside the die you rolled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135025Z" creationid="aorin" creationdate="20180409T135025Z">
+        <seg>攻撃力を記録するには、その数に等しいだけのグールディスクを、自身のプレイヤーボードの攻撃スペースに配置し、あなたがロールしたダイスを側に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To track your movement points, use the die you rolled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134823Z" creationid="aorin" creationdate="20180409T134823Z">
+        <seg>あなたの移動力ポイントを記録するには、あなたがロールしたダイスを使用します。</seg>
       </tuv>
     </tu>
     <tu>
