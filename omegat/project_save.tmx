@@ -4306,6 +4306,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A non-locked Artifact can be moved into Dark or Lit tiles and into spaces that hold other player pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082319Z" creationid="aorin" creationdate="20180409T082319Z">
+        <seg>ロックされていないアーティファクトは、他のプレイヤーピースがある、ダークタイルやライトタイルスペースへと移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number 1 Sector Die can spin to a number 6 Sector Die and vice versa.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074458Z" creationid="nakahodo" creationdate="20180311T074458Z">
@@ -7815,6 +7823,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T122932Z" creationid="nakahodo" creationdate="20180406T122732Z">
         <seg>コンポーネント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Components:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082343Z" creationid="aorin" creationdate="20180409T082341Z">
+        <seg>コンポーネント：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13707,6 +13723,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to gain or use components of the possessed player (such as drawing cards), take them from the appropriate deck or supply, not from the player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082349Z" creationid="aorin" creationdate="20180409T082342Z">
+        <seg>あなたが憑依したプレイヤーのコンポーネントを得る[または]使用するよう指示された場合（カードのドローなど）、プレイヤーからではなく、サプライや該当デッキからそれらを獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to place a building, take the leftmost building from its track on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150152Z" creationid="aorin" creationdate="20171215T150152Z">
@@ -16601,6 +16625,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects moved with Telekinesis must obey the Forced Movement rules (page 4 in Vast： The Crystal Caverns).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082229Z" creationid="aorin" creationdate="20180409T082229Z">
+        <seg>テレキネシスによるオブジェクトの移動は、強制移動ルールにしたがう必要があります（ヴァスト：クリスタルカーヴァンのページ4を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oddly, when you try to take the coins to the Eternal City,you find that there is an invisible barrier preventing you J,-om leaving.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222458Z" creationid="nakahodo" creationdate="20171224T222458Z">
@@ -17931,6 +17963,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T081946Z" creationid="aorin" creationdate="20180409T081946Z">
         <seg>自身のボード近くに憎悪トークン4つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 8 Hatred tokens near your board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082201Z" creationid="aorin" creationdate="20180409T082201Z">
+        <seg>自身のボード近くに憎悪トークン8つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20394,6 +20434,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rules:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082323Z" creationid="aorin" creationdate="20180409T082323Z">
+        <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rules: You play the turn from its beginning, following the normal rules for the role.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T144900Z" creationid="aorin" creationdate="20180407T144900Z">
@@ -22398,16 +22446,16 @@ the Turn Order Track in proper order for the Round.</seg>
       <tuv lang="EN-US">
         <seg>The Cave collapses when 3 Crystal tiles have been removed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T161106Z" creationid="aorin" creationdate="20180408T161106Z">
-        <seg>洞窟はクリスタルタイル3つを取り除き崩壊させます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082145Z" creationid="aorin" creationdate="20180408T161106Z">
+        <seg>洞窟はクリスタルタイル3つを取り除き崩壊します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Cave collapses when 4 Crystal tiles have been removed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T081854Z" creationid="aorin" creationdate="20180409T081854Z">
-        <seg>洞窟はクリスタルタイル4つを取り除き崩壊させます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082141Z" creationid="aorin" creationdate="20180409T081854Z">
+        <seg>洞窟はクリスタルタイル4つを取り除き崩壊します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22422,8 +22470,8 @@ the Turn Order Track in proper order for the Round.</seg>
       <tuv lang="EN-US">
         <seg>The Cave collapses when 5 Crystal tiles have been removed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T081921Z" creationid="aorin" creationdate="20180409T081921Z">
-        <seg>洞窟はクリスタルタイル5つを取り除き崩壊させます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082136Z" creationid="aorin" creationdate="20180409T081921Z">
+        <seg>洞窟はクリスタルタイル5つを取り除き崩壊します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24370,6 +24418,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053251Z" creationid="aorin" creationdate="20171228T235438Z">
         <seg>ポータルは進展トークンのトークンを進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The possession turn is not a separate turn, so you continue to follow any limits on the number of times that actions and effects can be used per turn, counting any actions and effects used by the possessed player during their normal turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082424Z" creationid="aorin" creationdate="20180409T082424Z">
+        <seg>憑依ターンはターンを分割しないので、憑依したプレイヤーの通常ターン時に使用した任意のアクションと効果を数え、その上限を引き継いだ上で、ターン毎に上限数までアクションと効果を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26721,6 +26777,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Limits:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082358Z" creationid="aorin" creationdate="20180409T082358Z">
+        <seg>使用制限：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Limits: The possession turn is not a separate turn, so you continue to follow any limits on the number of times that actions and effects can be used per turn, counting any actions and effects used by the possessed player during their normal turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T151450Z" creationid="aorin" creationdate="20180407T151450Z">
@@ -28474,6 +28538,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wraith (Expert):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082157Z" creationid="aorin" creationdate="20180409T082157Z">
+        <seg>怨霊（エキスパート）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wraith (Expert): You must lock 6 Artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T033132Z" creationid="aorin" creationdate="20180408T033132Z">
@@ -29462,6 +29534,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122520Z" creationid="nakahodo" creationdate="20171213T122520Z">
         <seg>あなたは自身のサプライから共通サプライへと、これらリソースを支払います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You play the turn from its beginning, following the normal rules for the role.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082353Z" creationid="aorin" creationdate="20180409T082340Z">
+        <seg>プレイヤーロールの通常ルールに従い、ターンを行います。</seg>
       </tuv>
     </tu>
     <tu>
