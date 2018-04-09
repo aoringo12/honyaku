@@ -15661,6 +15661,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also completes her Fearless Sidequest if you were on a Dark tile that she just revealed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T231630Z" creationid="aorin" creationdate="20180409T231630Z">
+        <seg>また、あなたがいるダークタイルが明らかになったターンで攻撃された場合、ナイトの恐れなしサイドクエストが達成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also completes her Stalwart Sidequest if your Defense was 3 or greater.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T231504Z" creationid="aorin" creationdate="20180409T231504Z">
@@ -21628,6 +21636,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074953Z" creationid="nakahodo" creationdate="20180311T074754Z">
         <seg>彼女はセクターダイスが1のガーデンセクターに宝石を1つ配置することのみができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She may shoot you with her Bow if her Strength is 2 or greater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T231950Z" creationid="aorin" creationdate="20180409T231950Z">
+        <seg>ナイトの筋力が2以上の場合、彼女はあなたを弓で撃つことができます。</seg>
       </tuv>
     </tu>
     <tu>
