@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you are playing on Hard or Expert difficulty level, you roll only 2 dice, and you draw a Terror card if the total roll is 4 or less.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134615Z" creationid="aorin" creationdate="20180409T134615Z">
+        <seg>（ハードやエキスパートの難易度レベルをプレイしている場合、あなたはダイス2つのみロールし、その値の合計が4以下の場合に恐怖カード1枚をドローします）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you have two crafting buildings in a fox clearing, you may not craft two cards which require two foxes each.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211940Z" creationid="aorin" creationdate="20171215T211940Z">
@@ -16743,6 +16751,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next, choose two dice and set aside the third die (it will not be used on this turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134741Z" creationid="aorin" creationdate="20180409T134708Z">
+        <seg>次に、ダイス2つを選択し、3つめのダイスは脇に置いてきおきます（これはこのターンに使用しません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next, she sets out the remaining Possession cards, finding that the Possessed Goblins and Possessed Vile Ghoul share position 2 in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T015502Z" creationid="aorin" creationdate="20180408T015502Z">
@@ -23886,6 +23902,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222504Z" creationid="aorin" creationdate="20171215T222504Z">
         <seg>ディフェンダーは彼が隣接空き地を支配している場合に撤退できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The die with the higher value is your movement points, and the die with the lower value is your attack points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T134729Z" creationid="aorin" creationdate="20180409T134729Z">
+        <seg>最も高い値のダイスがあなたの移動力ポイントで、</seg>
       </tuv>
     </tu>
     <tu>
