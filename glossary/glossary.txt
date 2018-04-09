@@ -550,3 +550,7 @@ even-numbered	偶数
 trigger condition	発動条件
 once per game effect	ゲームごとに1度の効果
 attribute	属性
+Sidequest card	サイドクエストカード
+Daring	大胆
+Sidequest	サイドクエスト
+Stalwart	猛者
