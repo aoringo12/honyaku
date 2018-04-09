@@ -9269,6 +9269,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During this phase, you can spend movement points to move and to collect Treasure tokens and Dragon Gems, and you can spend attack points to attack other players and smash Crystal tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135439Z" creationid="aorin" creationdate="20180409T135439Z">
+        <seg>このフェイズ時、あなたは移動力ポイントを消費して移動し、トレジャートークンやドラゴンジェムを集めることができ、攻撃ポイントを消費して他のプレイヤーたちを攻撃し、クリスタルトークンを砕くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this phase, you may move and use powers in any order and combination, up to the limits described in their sections.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040645Z" creationid="aorin" creationdate="20180408T040645Z">
