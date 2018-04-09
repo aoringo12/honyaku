@@ -4442,10 +4442,26 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A once per game effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225107Z" creationid="aorin" creationdate="20180409T225107Z">
+        <seg>ゲームごとに一度だけの効果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A persistent effect applies every time its trigger condition is met.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225227Z" creationid="aorin" creationdate="20180409T225227Z">
+        <seg>永続効果はその発動条件に一致している間、効果が適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A persistent effect or a once per turn effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T224945Z" creationid="aorin" creationdate="20180409T224930Z">
-        <seg>永続効果[または]ターン毎の効果を持ちます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225242Z" creationid="aorin" creationdate="20180409T224930Z">
+        <seg>永続効果[または]ターン毎に一度の効果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17540,6 +17556,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040638Z" creationid="aorin" creationdate="20180116T040638Z">
         <seg>あなたがディスカバリーを購入すると、あなたのスクリーン前にカードを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you resolve a card’s once per game effect, you must remove the card from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225334Z" creationid="aorin" creationdate="20180409T225334Z">
+        <seg>ゲームごとに一度の効果が解決されると、そのカードをゲームから取り除かなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
