@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Unicorn Teleports after you skitter.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T223501Z" creationid="aorin" creationdate="20180409T223501Z">
+        <seg>（あなたが飛び退いた後、ユニコーンはテレポートします）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -12203,8 +12211,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>He discards Power cards equal in number to his Armor, or loses 1 Health, or returns 1 Sloth token from his Wakefulness track to any open Sloth space, his choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T212236Z" creationid="aorin" creationdate="20180409T212236Z">
-        <seg>アーマーに等しい数、ドラゴンが選択してパワーカードを破棄する[または]1ヘルスを失う[または]1怠惰キューブを覚醒トラックから任意の怠惰スペースへと戻します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T212458Z" creationid="aorin" creationdate="20180409T212236Z">
+        <seg>アーマーに等しい数、ドラゴンが選択してパワーカード1枚を破棄する[または]ヘルス1を失う[または]怠惰キューブ1を覚醒トラックから任意の怠惰スペースへと戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21394,8 +21402,8 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>She loses 1 Grit for each Hero cube she has available, or 1 Health, or 1 Treasure card, her choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T211718Z" creationid="aorin" creationdate="20180409T211718Z">
-        <seg>利用可能なヒーローキューブごとに1経験値[または]1ヘルス[または]1トレージャードを、ナイトが選択して失います。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T212548Z" creationid="aorin" creationdate="20180409T211718Z">
+        <seg>利用可能なヒーローキューブごとにナイトが選択して、経験値1[または]ヘルス1[または]トレージャカード1枚を失います。</seg>
       </tuv>
     </tu>
     <tu>
