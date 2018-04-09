@@ -23159,6 +23159,22 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghoul focuses on building up Fury by hunting and stalking indiscriminately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T130555Z" creationid="aorin" creationdate="20180409T130555Z">
+        <seg>グールは無差別な追跡や狩りにより怒りを高めることに執着します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghoul is a player role that can be added to any other combination of player numbers and roles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T125028Z" creationid="aorin" creationdate="20180409T125028Z">
+        <seg>グールは任意の他のプレイヤー数字とロールに組み合わせて追加する事ができる、プレイヤーロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
