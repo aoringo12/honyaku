@@ -7907,6 +7907,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Claw counts as the Dragon eating 1 Goblin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232543Z" creationid="aorin" creationdate="20180409T232543Z">
+        <seg>クロウはゴブリン1匹食べたとしてカウントします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear the board &amp; mats of all components.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224515Z" creationid="nakahodo" creationdate="20171224T224515Z">
@@ -12405,6 +12413,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T212443Z" creationid="aorin" creationdate="20180409T212443Z">
         <seg>アーマーの数に等しいだけ、ユニコーンが選択して、ユニコーンカード1枚を破棄する[または]ヘルス1を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He may attack you using Claw or Scratch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232517Z" creationid="aorin" creationdate="20180409T232517Z">
+        <seg>ドラゴンはクロウか叩き潰すを使用してあなたを攻撃できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21334,6 +21350,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T211100Z" creationid="aorin" creationdate="20180114T211100Z">
         <seg>得点フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scratch counts as the Dragon eating 3 Goblins and forces you to discard 1 Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232713Z" creationid="aorin" creationdate="20180409T232713Z">
+        <seg>叩き潰すはゴブリン3匹を食べたとしてカウントし、あなたに強制的に恐怖カード1枚を破棄させます。</seg>
       </tuv>
     </tu>
     <tu>
