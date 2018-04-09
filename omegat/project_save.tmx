@@ -5182,6 +5182,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After resolving any attack, shot, or effect listed below, you immediately skitter unless otherwise noted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T230834Z" creationid="aorin" creationdate="20180409T230834Z">
+        <seg>攻撃、ショット、下記に示す効果を解決した後、特に記述がない限り、あなたは直ちに飛び退きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After resolving the attack, you gain 1 Fury and then skitter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224027Z" creationid="aorin" creationdate="20180409T224027Z">
@@ -8592,6 +8600,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221637Z" creationid="aorin" creationdate="20171215T221611Z">
         <seg>ディフェンダーはアタッカーにヒットを与えるためにアンブッシュカード1枚以上をプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T230734Z" creationid="aorin" creationdate="20180409T230734Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
