@@ -13403,6 +13403,14 @@ Cloud Port or Grandstand)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it enters your space, it attacks you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232119Z" creationid="aorin" creationdate="20180409T232119Z">
+        <seg>あなたのスペースに入った場合、あなたを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it goes out for any reason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000649Z" creationid="aorin" creationdate="20180101T000649Z">
@@ -23743,6 +23751,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Goblins gain 1 Rage (instead of losing 1), and the Tribe does not scatter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232249Z" creationid="aorin" creationdate="20180409T232249Z">
+        <seg>ゴブリンたちは1怒りを得て（1失う代わりに）、部族は散りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
@@ -29397,6 +29413,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131655Z" creationid="aorin" creationdate="20171215T131655Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、初心者はプレイ学習ガイドからそうすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While on the surface, the Dragon can enter your space only if his Armor is greater than your Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232428Z" creationid="aorin" creationdate="20180409T232428Z">
+        <seg>出現している間、ドラゴンはアーマーがあなたの防御力を超える場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While underground, the Dragon can enter your space freely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232316Z" creationid="aorin" creationdate="20180409T232316Z">
+        <seg>ドラゴンは地下にいる間、あなたのスペースに自由に入ることができます。</seg>
       </tuv>
     </tu>
     <tu>
