@@ -4265,6 +4265,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe can enter your space only if its Strength is greater than your Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T232101Z" creationid="aorin" creationdate="20180409T232101Z">
+        <seg>ゴブリン部族は、その筋力があなたの防御力を超える場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Location must have at least one occupied space in
 order to be targeted by the Temp Agency.</seg>
       </tuv>
