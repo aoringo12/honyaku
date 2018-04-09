@@ -12241,6 +12241,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He loses 1 Health or discards Unicorn cards equal in number to his Armor, his choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T212443Z" creationid="aorin" creationdate="20180409T212443Z">
+        <seg>アーマーの数に等しいだけ、ユニコーンが選択して、ユニコーンカード1枚を破棄する[または]ヘルス1を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He may be old, but At the sound of the door closing behind you, you realize you are not alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133944Z" creationid="nakahodo" creationdate="20171230T100154Z">
