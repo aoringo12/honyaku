@@ -7540,6 +7540,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a tile from your hand and place it, Dark side up, adjacent to any tile on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082729Z" creationid="aorin" creationdate="20180409T082729Z">
+        <seg>手札からタイル1枚を選択し、マップの任意のタイルに隣接するよう、ダークたサイドを上にしてこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose from the faceup advancement card(s) of that type (if any).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205142Z" creationid="nakahodo" creationdate="20171218T152712Z">
@@ -8173,6 +8181,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T160441Z" creationid="aorin" creationdate="20180408T160423Z">
         <seg>いっぱい屋敷はプレイヤーが多くいるゲームでの使用を想定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crystal Curse:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082807Z" creationid="aorin" creationdate="20180409T082807Z">
+        <seg>クリスタルの呪い：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10693,6 +10709,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow all of the setup rules for the Cave (page 12 in Vast： The Crystal Caverns).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082724Z" creationid="aorin" creationdate="20180409T082724Z">
+        <seg>洞窟のセットアップルールの全てに従います（ヴァスト：クリスタルカーヴァンのページ12）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow each step of setup in sequential order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144552Z" creationid="nakahodo" creationdate="20171218T144552Z">
@@ -11906,6 +11930,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024821Z" creationid="aorin" creationdate="20180408T024821Z">
         <seg>ハード：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hatred:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082812Z" creationid="aorin" creationdate="20180409T082812Z">
+        <seg>憎悪：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14539,6 +14571,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000129Z" creationid="aorin" creationdate="20180408T000129Z">
         <seg>待ち伏せ、イベント、トレジャーシンボルに加えて、各ゴーストタイルのライトサイドには新しいシンボル、ゴーストシンボルが表示され、そのタイルにはアーティファクトがロックできることを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to an Ambush, Event, or Treasure symbol, the Lit side of each Ghost tile shows a new symbol:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082906Z" creationid="aorin" creationdate="20180409T082906Z">
+        <seg>待ち伏せ、イベント、トレジャーシンボルに加えて、各ゴーストタイルのライトサイドには新しいシンボル：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20426,6 +20466,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rockslide:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082751Z" creationid="aorin" creationdate="20180409T082751Z">
+        <seg>地すべり：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rockslide: The Rockslide token can only be placed on an edge adjacent to your space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T041145Z" creationid="aorin" creationdate="20180408T041145Z">
@@ -22572,6 +22620,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave Ghost’s power over entities in the Cave and her attunement to the Cave itself change as she becomes more or less isolated from them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124101Z" creationid="aorin" creationdate="20180409T124101Z">
+        <seg>洞窟ゴーストが多かれ少なかれ孤独になるつれ洞窟自体と同調し、支配します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave can cause a Mental Block by just affecting the Ghost with Soporific Spores.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225752Z" creationid="aorin" creationdate="20180407T225752Z">
@@ -23299,6 +23355,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101828Z" creationid="aorin" creationdate="20171212T101828Z">
         <seg>特別な提供、忠実な使用人、ゴールデンリングなどの報酬タイルは左から右に配られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Rockslide token can only be placed on an edge adjacent to your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082747Z" creationid="aorin" creationdate="20180409T082747Z">
+        <seg>地滑りトークンはあなたのスペースに隣接された辺にのみ配置できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26097,6 +26161,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125904Z" creationid="aorin" creationdate="20171212T125904Z">
         <seg>提供フェイズ（Ⅲ）時に、少なくとも1人のプレイヤーガ適切な食料を提供できていた場合、このフェイズが実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This power can only affect a space surrounding your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082842Z" creationid="aorin" creationdate="20180409T082805Z">
+        <seg>このパワーはあなたのスペースの周囲スペースにのみ影響を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29674,6 +29746,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must lock 6 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082713Z" creationid="aorin" creationdate="20180409T082713Z">
+        <seg>アーティファクト6つをロックしなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must play one bird card or one or two non-bird cards to the Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001804Z" creationid="aorin" creationdate="20171216T001804Z">
@@ -30702,6 +30782,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T090917Z" creationid="nakahodo" creationdate="20171230T090634Z">
         <seg>永遠なる王のフェスティバルは自由な祝宴と陽気な騒ぎに彩られた豪華な祭典が一ヶ月全体に渡り開催されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Ghost symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T082909Z" creationid="aorin" creationdate="20180409T082909Z">
+        <seg>ゴーストシンボルがあります。</seg>
       </tuv>
     </tu>
     <tu>
