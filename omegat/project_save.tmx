@@ -19752,6 +19752,22 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove 1 tile of each type, including Ghost tiles, during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081846Z" creationid="aorin" creationdate="20180409T081846Z">
+        <seg>セットアップ時に、ゴーストタイルを含む各種タイル1つずつを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove 2 tiles of each type, including Ghost tiles, during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081705Z" creationid="aorin" creationdate="20180409T081705Z">
+        <seg>セットアップ時に、ゴーストタイルを含む各種タイル2つずつを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Ghost tiles at random, returning them facedown to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T161109Z" creationid="aorin" creationdate="20180408T161030Z">
@@ -21333,6 +21349,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specter (Easy):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081723Z" creationid="aorin" creationdate="20180409T081723Z">
+        <seg>うつろう影（イージー）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specter (Easy): Remove 1 tile of each type, including Ghost tiles, during setup.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T161123Z" creationid="aorin" creationdate="20180408T161123Z">
@@ -21439,8 +21463,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spirit (Easiest):</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T081657Z" creationid="aorin" creationdate="20180409T081657Z">
-        <seg>魂（もっとも簡単）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T081726Z" creationid="aorin" creationdate="20180409T081657Z">
+        <seg>魂（もっとも簡単）：</seg>
       </tuv>
     </tu>
     <tu>
