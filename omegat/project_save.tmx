@@ -13358,6 +13358,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that space holds any player pieces that you cannot attack, you must spend +1 movement point even if you immediately attack another player piece on that space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135901Z" creationid="aorin" creationdate="20180409T135901Z">
+        <seg>そのスペースが保持する任意のプレイヤーピースをあなたが攻撃できない場合、そのほかのプレイヤーピースを直ちに攻撃するとしても、あなたは+1移動力ポイントを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the AI is unable to use any Location, it chooses the Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
@@ -30142,6 +30150,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115954Z" creationid="aorin" creationdate="20180115T115954Z">
         <seg>全ての供給のない地域からユニット1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must spend +1 movement point to enter a space that holds any number of other player pieces without immediately attacking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135737Z" creationid="aorin" creationdate="20180409T135737Z">
+        <seg>任意の数の他のプレイヤーピースを保持するスペースへ、直ちに攻撃することなく移動する場合、加えて+1移動力ポイントを消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
