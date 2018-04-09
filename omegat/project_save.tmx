@@ -12650,6 +12650,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hiss does not affect you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T233048Z" creationid="aorin" creationdate="20180409T233048Z">
+        <seg>ヒスはあなたに影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hits</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150829Z" creationid="aorin" creationdate="20171215T150829Z">
