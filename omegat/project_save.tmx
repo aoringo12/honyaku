@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, you may use the once per game effect of a Chase card and the once per game effect of a Hunt card on the same turn, but cannot use the one per game effect of two Chase cards.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225913Z" creationid="aorin" creationdate="20180409T225913Z">
+        <seg>（例えば、）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
@@ -29924,8 +29932,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You cannot use both of a card’s effects on the same turn, and you cannot use the once per game effect of identical cards on the same turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T225827Z" creationid="aorin" creationdate="20180409T225827Z">
-        <seg>同じターンにカードの効果両方を使用することはできず、同じターンに同じカードのゲームごとに1度の効果を使用でき千。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T225937Z" creationid="aorin" creationdate="20180409T225827Z">
+        <seg>同じターンにカードの効果両方を使用することはできず、同じターンに別の同一カードのゲームごとに1度の効果を使用できません。</seg>
       </tuv>
     </tu>
     <tu>
