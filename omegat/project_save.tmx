@@ -4442,6 +4442,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A persistent effect or a once per turn effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224945Z" creationid="aorin" creationdate="20180409T224930Z">
+        <seg>永続効果[または]ターン毎の効果を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A piece is local if it is located in the same clearing as any of your pieces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152511Z" creationid="aorin" creationdate="20171215T152511Z">
@@ -9532,6 +9540,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090913Z" creationid="nakahodo" creationdate="20170924T090913Z">
         <seg>各スタータースレートは特定色の5つの豆の行を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Terror card has two effects:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224908Z" creationid="aorin" creationdate="20180409T224908Z">
+        <seg>各恐怖カードは2つ効果を持ちます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22773,6 +22789,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terror Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224823Z" creationid="aorin" creationdate="20180409T224823Z">
+        <seg>恐怖カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That Pixie remains there until all players have performed all promotion steps.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
@@ -28755,6 +28779,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
         <seg>あなたが建物を取り除くヒットをするたびに、あなたは1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you draw a Terror card, place it face-up near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224850Z" creationid="aorin" creationdate="20180409T224850Z">
+        <seg>あなたが恐怖カード1枚をドローするたびに、自身のプレイヤーボードの近くに表向きにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
