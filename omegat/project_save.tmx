@@ -1363,6 +1363,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Fury Cube</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124957Z" creationid="aorin" creationdate="20180409T124957Z">
+        <seg>1怒りキューブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Ghost Board</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123206Z" creationid="nakahodo" creationdate="20180406T123206Z">
@@ -1375,6 +1383,22 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123137Z" creationid="nakahodo" creationdate="20180406T123137Z">
         <seg>1ゴーストボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Ghoul Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124800Z" creationid="aorin" creationdate="20180409T124800Z">
+        <seg>1グールボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Ghoul Reference Card (“Attacking the Ghoul”)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T125017Z" creationid="aorin" creationdate="20180409T125017Z">
+        <seg>1グールリファレンスカード（”グールの攻撃”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1407,6 +1431,14 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123545Z" creationid="nakahodo" creationdate="20180406T123527Z">
         <seg>1ヴァリアントカード（”いっぱい屋敷”）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Vile Ghoul Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124841Z" creationid="aorin" creationdate="20180409T124841Z">
+        <seg>1バイルグールボード</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1614,14 @@ always place in the first available Mint Placement</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T081253Z" creationid="nakahodo" creationdate="20171209T081233Z">
         <seg>•AIがプレイスアクションを実行する時、Producerから始まり、使用できるロケーションラインの最初に利用可能なミントプレイスメントスペースへと常に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>13 Terror Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124929Z" creationid="aorin" creationdate="20180409T124929Z">
+        <seg>13恐怖カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2942,22 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 Ghoul Dice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124851Z" creationid="aorin" creationdate="20180409T124851Z">
+        <seg>3グールダイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Ghoul Pieces (Standee, Meeple, Miniature)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124740Z" creationid="aorin" creationdate="20180409T124740Z">
+        <seg>3グールピース（スタンド、ミープル、ミニチュア）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 PLAYERS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023348Z" creationid="aorin" creationdate="20180408T023337Z">
@@ -3987,6 +4043,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T074925Z" creationid="nakahodo" creationdate="20171209T074925Z">
         <seg>得点計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9 Ghoul Discs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T124933Z" creationid="aorin" creationdate="20180409T124933Z">
+        <seg>9グールダイス</seg>
       </tuv>
     </tu>
     <tu>
