@@ -13203,6 +13203,14 @@ Cloud Port or Grandstand)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it does not affect the center tile, take a Treasure token from the Cave’s supply (or map, if supply empty) and return the Gem to the Dragon’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210537Z" creationid="aorin" creationdate="20180409T210537Z">
+        <seg>中央タイルに影響を与えない場合、洞窟のサプライからトレジャートークン1つを取り（サプライにない場合、マップから）、ドラゴンのサプライにジェムを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it goes out for any reason, note whose turn it is, and do not light the candle again If you use a building with a fuel shortage peril token, you must immediately blow out the candle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000649Z" creationid="aorin" creationdate="20180101T000649Z">
