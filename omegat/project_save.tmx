@@ -5142,6 +5142,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After resolving the attack, you gain 1 Fury and then skitter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224027Z" creationid="aorin" creationdate="20180409T224027Z">
+        <seg>攻撃を解決した後、あなたは怒りを1得て、その後、飛び退きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After setting up Game 10, place this card in the Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224415Z" creationid="aorin" creationdate="20171231T224415Z">
@@ -16983,6 +16991,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note how many Ghoul discs you have remaining on your Attack space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224141Z" creationid="aorin" creationdate="20180409T224141Z">
+        <seg>あなたの攻撃スペースにいくつグールディスクが残っているのか注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that building’s cost, listed at the top of its column.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235357Z" creationid="aorin" creationdate="20171215T235357Z">
@@ -21297,6 +21313,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154100Z" creationid="nakahodo" creationdate="20171230T154100Z">
         <seg>オートマの強さを3に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224055Z" creationid="aorin" creationdate="20180409T224050Z">
+        <seg>防御力の設定</seg>
       </tuv>
     </tu>
     <tu>
