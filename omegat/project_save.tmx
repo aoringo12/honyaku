@@ -29274,6 +29274,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also use the effects of your Terror cards (page 3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135504Z" creationid="aorin" creationdate="20180409T135504Z">
+        <seg>あなたはまた、恐怖カードの効果を使用することができます（ページ3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can choose to keep some workers in your recruitment pool and not give them deployment orders.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235102Z" creationid="aorin" creationdate="20180114T235102Z">
@@ -29610,6 +29618,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You do not reveal Dark tiles when you enter them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135559Z" creationid="aorin" creationdate="20180409T135559Z">
+        <seg>あなたがダークタイルに入った時、そのタイルは明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You don't have a body.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222836Z" creationid="aorin" creationdate="20171231T222836Z">
@@ -29722,6 +29738,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may enter Lit and Dark tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135545Z" creationid="aorin" creationdate="20180409T135545Z">
+        <seg>ライトタイルとダークタイルに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may enter and move through Pits, spending movement points as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001314Z" creationid="aorin" creationdate="20180408T001105Z">
@@ -29830,6 +29854,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T135450Z" creationid="nakahodo" creationdate="20180406T135450Z">
         <seg>任意のスペースへと、壁を通り抜けて、空のスペースも含んで効果を無視して自由に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move to an adjacent space by spending 1 movement point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135527Z" creationid="aorin" creationdate="20180409T135527Z">
+        <seg>移動力ポイントを1消費することにより、隣接スペース1つに移動することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30110,6 +30142,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115954Z" creationid="aorin" creationdate="20180115T115954Z">
         <seg>全ての供給のない地域からユニット1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must spend +1 movement point to move through a wall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T135641Z" creationid="aorin" creationdate="20180409T135641Z">
+        <seg>壁を通り抜けて移動する場合、加えて+1移動力ポイントを消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
