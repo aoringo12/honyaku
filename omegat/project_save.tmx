@@ -15661,6 +15661,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also completes her Stalwart Sidequest if your Defense was 3 or greater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T231504Z" creationid="aorin" creationdate="20180409T231504Z">
+        <seg>また、あなたの防御力が3以上を超える状態で攻撃された場合、ナイトの猛者サイドクエストが達成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also contains setup instructions for the game’s many scenarios.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131831Z" creationid="aorin" creationdate="20171215T131831Z">
@@ -26580,6 +26588,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143356Z" creationid="nakahodo" creationdate="20171213T143356Z">
         <seg>このアクションは、このラウンドの終了まで「クイーンからのファボ」を一時的にあなたに与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This attack completes her Daring Sidequest card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T231328Z" creationid="aorin" creationdate="20180409T231328Z">
+        <seg>この攻撃は大胆サイドクエストカードを達成させます。</seg>
       </tuv>
     </tu>
     <tu>
