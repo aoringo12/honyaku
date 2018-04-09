@@ -5936,6 +5936,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you gain Fury, move the Fury cube up the Fury track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224630Z" creationid="aorin" creationdate="20180409T224630Z">
+        <seg>あなたが怒りを得ると、怒りトラックの怒りキューブを上昇するように移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you place a worker in your charter, you may discard this (instead of paying the building's cost) to gain the building's benefit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T194737Z" creationid="aorin" creationdate="20171231T194737Z">
@@ -28639,6 +28647,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever it reaches an even-numbered space, draw a Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224712Z" creationid="aorin" creationdate="20180409T224712Z">
+        <seg>これが偶数のスペースに到達するたびに、恐怖カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever the Goblins’ Artifact is off the map, give it to the next Tribe to reveal.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T234756Z" creationid="aorin" creationdate="20180407T234756Z">
@@ -29914,6 +29930,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You gain 1 Fury whenever you attack a player and whenever you have collected 2 Treasure tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224526Z" creationid="aorin" creationdate="20180409T224526Z">
+        <seg>あなたはプレイヤーを攻撃するたび、集めたトレジャートークンが2つになるたびに、1怒りを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You generate Influence Points (IPs) during this stage.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T034932Z" creationid="aorin" creationdate="20180116T034932Z">
@@ -30630,6 +30654,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065720Z" creationid="nakahodo" creationdate="20180311T065720Z">
         <seg>あなたはロボタニストたちのグループを制御し、クイーンのガーデンを構築するために対戦相手を出し抜きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you have Fury equal to 7 + the number of players, and then you escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T224818Z" creationid="aorin" creationdate="20180409T224818Z">
+        <seg>あなたがプレイヤー人数+7に等しいだけの怒りを持ち、その後、エントランスタイルに入ることで洞窟から脱出した場合、あなたは勝利します。</seg>
       </tuv>
     </tu>
     <tu>
