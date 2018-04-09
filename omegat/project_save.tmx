@@ -4654,6 +4654,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210917Z" creationid="aorin" creationdate="20180409T210917Z">
+        <seg>攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMA DECK:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
@@ -14031,6 +14039,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135007Z" creationid="nakahodo" creationdate="20171124T135007Z">
         <seg>あなたがセーフハウスにいる場合（水色ゾーン）、あなたは追加の1ヘルスか1士気回復するののいずれかを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are on a space with another player piece, you can attack the player piece by spending Ghoul discs equal to 1 + the target’s defense statistic (Strength, Armor, or Stealth).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T211200Z" creationid="aorin" creationdate="20180409T211200Z">
+        <seg>あなたが他のプレイヤーピースがいるスペースに居る場合、対象の防御ステータス（筋力、アーマー、ステルス）+1に等しいだけグールディスクを消費して、対象1体を攻撃できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28651,6 +28667,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152804Z" creationid="nakahodo" creationdate="20180108T152804Z">
         <seg>注文を取るためにウェイターに行くたび、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you have 2 Treasure tokens, you gain 1 Fury and return both tokens to the Cave’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180409T210915Z" creationid="aorin" creationdate="20180409T210915Z">
+        <seg>あなたがトレジャートークン2つを持つたびに、あなたは1怒りを得て、洞窟のサプライに両トークンを戻します。</seg>
       </tuv>
     </tu>
     <tu>
