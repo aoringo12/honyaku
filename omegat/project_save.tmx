@@ -13750,6 +13750,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such tile exists, place a Dark tile (provided by the Cave player, if present) and place the Ghoul piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080218Z" creationid="aorin" creationdate="20180410T080218Z">
+        <seg>そのようなタイルが存在しない場合、ダークタイル1枚を配置し（居る場合は洞窟プレイヤーから提供されます）、そこにグールピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such tile exists, place a Dark tile (provided by the Cave, if present) and place the Ghost piece there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133001Z" creationid="nakahodo" creationdate="20180406T133001Z">
@@ -21941,6 +21949,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the Ghoul piece, Ghoul dice, and Ghoul discs near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080036Z" creationid="aorin" creationdate="20180410T080036Z">
+        <seg>グールピース、グールダイス、グールディスクを自身のプレイヤーボードの近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the remaining Gems and the Favor Cogs next to the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070841Z" creationid="nakahodo" creationdate="20180311T070841Z">
@@ -24779,6 +24795,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T130729Z" creationid="aorin" creationdate="20180409T130729Z">
         <seg>バイルグールはゴブリンたちに置き換えられるプレイヤーロールで、ナイト、ドラゴン、ユニコーンを倒すことが目的になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vile Ghoul replaces the Goblins in turn order, after the Knight and before the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080254Z" creationid="aorin" creationdate="20180410T080254Z">
+        <seg>バイルグールターン順番でゴブリンと置き換えられ、ナイトの後、ドラゴンの前になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28501,6 +28525,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210621Z" creationid="aorin" creationdate="20171219T095722Z">
         <seg>達成した目標を得点するためには、グランドスタンド（または○効果を持つ建物）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Vile Ghoul player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080028Z" creationid="aorin" creationdate="20180410T080028Z">
+        <seg>バイルグールプレイヤーボードを使用します。</seg>
       </tuv>
     </tu>
     <tu>
