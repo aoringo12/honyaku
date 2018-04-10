@@ -9135,6 +9135,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not remove Ghoul discs from your Attack space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092235Z" creationid="aorin" creationdate="20180410T092235Z">
+        <seg>あなたの攻撃スペースからグールディスクを取り除きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't open ANYTHING unless specifically instructed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
@@ -14879,6 +14887,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134906Z" creationid="aorin" creationdate="20180409T134906Z">
         <seg>あなたが移動力ポイントを得て、6を超えた数字を管理する必要が出た場合、グールディスクを使用してこれを記録します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a victory condition of killing the player whom you are attacking, they must choose to lose Health as the result of the attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092441Z" creationid="aorin" creationdate="20180410T092441Z">
+        <seg>あなたが攻撃する、対象プレイヤーを殺すことが勝利条件である場合、対象は攻撃の結果としてヘルスを失わなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24543,6 +24559,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Knight must lose 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
+        <seg>ナイトは1ヘルス失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight wins if she smashes 5 Crystals and then escapes the Cave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T072930Z" creationid="aorin" creationdate="20180410T072930Z">
@@ -28054,6 +28078,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T070707Z" creationid="aorin" creationdate="20180115T070707Z">
         <seg>戦闘を解決するには、各プレイヤーが地域に持つ関連する兵士の数を合計します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To smash a Crystal, you must have at least 3 Attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092139Z" creationid="aorin" creationdate="20180410T092139Z">
+        <seg>クリスタルを砕くには、少なくとも3攻撃力が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32029,6 +32061,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Attack remains constant throughout your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092250Z" creationid="aorin" creationdate="20180410T092250Z">
+        <seg>あなたの攻撃力はターンを通して変わりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Capital always allows you to recruit 4 workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213814Z" creationid="aorin" creationdate="20180114T213814Z">
@@ -32121,6 +32161,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073541Z" creationid="aorin" creationdate="20171216T073541Z">
         <seg>あなたの協力は戦闘時にあなたがアタッカーかディフェンダーかに関わらず、戦闘を取り除くことにより調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your attack deals the same effects as the Ghoul’s attack, except for three differences:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092220Z" creationid="aorin" creationdate="20180410T092220Z">
+        <seg>攻撃はグールの攻撃と同じ効果を当てますが、3つの例外があります：</seg>
       </tuv>
     </tu>
     <tu>
