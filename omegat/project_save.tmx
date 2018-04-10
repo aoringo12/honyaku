@@ -15535,6 +15535,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In any setup with the Knight, she also takes the Goblin Infestation Variant card and the Monster tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T100645Z" creationid="aorin" creationdate="20180410T100645Z">
+        <seg>セットアップにナイトがいる場合、彼女も</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the affected clearing is the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
