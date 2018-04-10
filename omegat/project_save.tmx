@@ -22215,8 +22215,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Some groups may want the Ghoul to move further when it skitters, or may want to give opposing players more input.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T010442Z" creationid="aorin" creationdate="20180410T010442Z">
-        <seg>人によっては、グールが飛び退く場所</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011125Z" creationid="aorin" creationdate="20180410T010442Z">
+        <seg>人によっては、グールが飛び退く時にさらに移動させたり、対戦相手が場所を選びたかったりするでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28045,6 +28045,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035103Z" creationid="aorin" creationdate="20180116T035103Z">
         <seg>IPトークンを使用して、自身のストックをつくります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the standard skitter rules for attacks not involving another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010944Z" creationid="aorin" creationdate="20180410T010944Z">
+        <seg>他プレイヤーが攻撃に含まれない場合、通常の飛び退くルールが使用されます。</seg>
       </tuv>
     </tu>
     <tu>
