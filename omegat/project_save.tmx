@@ -6040,6 +6040,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor helps you defend against attacks on other players’ turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114839Z" creationid="aorin" creationdate="20180410T114839Z">
+        <seg>アーマーは他プレイヤーのターン時に攻撃に対する防御になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrival</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T113041Z" creationid="nakahodo" creationdate="20171224T101645Z">
@@ -18956,6 +18964,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pace is the maximum number of actions you can perform during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114814Z" creationid="aorin" creationdate="20180410T114814Z">
+        <seg>ペースはあなたのターン時に実行できるアクションの最大数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay 1 Apple from your personal supply to demote the opponent’s Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164944Z" creationid="aorin" creationdate="20171212T164944Z">
@@ -19179,6 +19195,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093938Z" creationid="aorin" creationdate="20171212T093938Z">
         <seg>ペナルティフェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114605Z" creationid="aorin" creationdate="20180410T114605Z">
+        <seg>アクションの実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -21536,6 +21560,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace Hand and Reset Anger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114614Z" creationid="aorin" creationdate="20180410T114614Z">
+        <seg>手札の入れ替えと憤りのリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request it at stonemaiergames.com/replacement-partst</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144503Z" creationid="nakahodo" creationdate="20171218T144444Z">
@@ -23281,6 +23313,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T025104Z" creationid="aorin" creationdate="20180408T024940Z">
         <seg>魂（もっとも簡単）：アーティファクト3つをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spirit is the number of cards you draw to make your new hand at the end of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114748Z" creationid="aorin" creationdate="20180410T114748Z">
+        <seg>魂はあなたのターン終了時に新しい手札を作るためにドローするカードの枚数になります。</seg>
       </tuv>
     </tu>
     <tu>
