@@ -16107,6 +16107,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase your Radiance to 9 by marking Crystals, collecting Treasures, and attacking other players, and then escape the Cave by entering the Entrance tile during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112615Z" creationid="aorin" creationdate="20180410T112615Z">
+        <seg>クリスタルをマーキングする、トレジャーを収集する、他のプレイヤーを攻撃することにより、あなたの輝きを9まで上昇させ、その後、あなたのターンにエントランスタイルに入ることで洞窟から脱出するのが目的になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index Guide when new rule and story cards are unlocked.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110104Z" creationid="nakahodo" creationdate="20180108T110104Z">
@@ -16991,8 +16999,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Like the Dragon, the Unicorn wants to escape the Cave, but rather than needing to wake up, the Nightmare Unicorn must siphon power from the Cave by exploring it and from other players by getting angry and attacking them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T105531Z" creationid="aorin" creationdate="20180410T105429Z">
-        <seg>ドラゴンのように、ユニコーンは洞窟を脱出するのが目的ですが、目覚めるのではなく、ナイトメアユニコーンは洞窟を探索し、他のプレイヤーから怒りを得たり攻撃したりすることで洞窟からパワーを吸い上げます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112714Z" creationid="aorin" creationdate="20180410T105429Z">
+        <seg>ドラゴンのように、ユニコーンは洞窟を脱出するのが目的ですが、目覚めるのではなく、ナイトメアユニコーンは洞窟を探索し、他のプレイヤーから憤りを得たり攻撃したりすることで洞窟からパワーを吸い上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29033,6 +29041,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Nightmare Unicorn board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112622Z" creationid="aorin" creationdate="20180410T112622Z">
+        <seg>ナイトメアユニコーンボードを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the Normal Goblins difficulty level (line A).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101529Z" creationid="aorin" creationdate="20180410T101529Z">
@@ -29149,6 +29165,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101026Z" creationid="aorin" creationdate="20171212T101026Z">
         <seg>あなたが特別提供アクションを使用することにより、迅速に報酬ポイントを達成することができるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Tracking cubes, set your Health to 5 and your Anger to 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112654Z" creationid="aorin" creationdate="20180410T112654Z">
+        <seg>記録キューブを使用し、あなたのヘルスを5、憤りを1に設定します。</seg>
       </tuv>
     </tu>
     <tu>
