@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If this reduces your movement points to 0, you cannot move.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005026Z" creationid="aorin" creationdate="20180410T005026Z">
+        <seg>（これによってあなたの移動力が0に減少する場合、あなたは移動できません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you are playing on Hard or Expert difficulty level, you roll only 2 dice, and you draw a Terror card if the total roll is 4 or less.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134615Z" creationid="aorin" creationdate="20180409T134615Z">
@@ -28423,6 +28431,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T233729Z" creationid="aorin" creationdate="20180409T233729Z">
         <seg>あなたのスペースに入る時、彼はあなたを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When he uses Backstab, it reduces your Movement during your next turn by 1 for each Action cube he spends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T004914Z" creationid="aorin" creationdate="20180410T004914Z">
+        <seg>彼が不意打ちをする時、彼が消費するアクションキューブ1つごとに、次のターン時あなたの移動力が1減少します。</seg>
       </tuv>
     </tu>
     <tu>
