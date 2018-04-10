@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Do not add Ghoul discs to your Attack space.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T091621Z" creationid="aorin" creationdate="20180410T091621Z">
+        <seg>（このボーナスであなたの攻撃スペースにはグールディスクを追加しません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Do not remove discs when attacked by other players.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224334Z" creationid="aorin" creationdate="20180409T224334Z">
@@ -27436,6 +27444,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T231328Z" creationid="aorin" creationdate="20180409T231328Z">
         <seg>この攻撃は大胆サイドクエストカードを達成させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This bonus lasts only for the current movement and the immediate attack upon entering a space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T091559Z" creationid="aorin" creationdate="20180410T091559Z">
+        <seg>このボーナスは、現在の移動とスペースに入る際の即時攻撃にのみ適応されます。</seg>
       </tuv>
     </tu>
     <tu>
