@@ -13814,6 +13814,30 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If neither, you must smash 4 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102644Z" creationid="aorin" creationdate="20180410T102644Z">
+        <seg>どちらでもない場合、クリスタル4つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If neither, you must smash 5 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102650Z" creationid="aorin" creationdate="20180410T102650Z">
+        <seg>どちらでもない場合、クリスタル5つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If neither, you must smash 6 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102702Z" creationid="aorin" creationdate="20180410T102702Z">
+        <seg>どちらでもない場合、クリスタル6つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no Ally warriors remain, you take further hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075036Z" creationid="aorin" creationdate="20171216T075036Z">
@@ -15067,10 +15091,58 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you must kill the Dragon, he starts with 4 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102642Z" creationid="aorin" creationdate="20180410T102642Z">
+        <seg>ドラゴンを殺す必要がある場合、ドラゴンのヘルスは4からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Dragon, he starts with 5 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102649Z" creationid="aorin" creationdate="20180410T102649Z">
+        <seg>ドラゴンを殺す必要がある場合、ドラゴンのヘルスは5からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Dragon, he starts with 6 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102701Z" creationid="aorin" creationdate="20180410T102701Z">
+        <seg>ドラゴンを殺す必要がある場合、ドラゴンのヘルスは6からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you must kill the Knight, she starts with 5 Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102556Z" creationid="aorin" creationdate="20180410T102556Z">
         <seg>ナイトを殺す必要がある場合、ナイトのヘルスは5からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Knight, she starts with 6 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102640Z" creationid="aorin" creationdate="20180410T102640Z">
+        <seg>ナイトを殺す必要がある場合、ナイトのヘルスは6からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Knight, she starts with 7 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102647Z" creationid="aorin" creationdate="20180410T102647Z">
+        <seg>ナイトを殺す必要がある場合、ナイトのヘルスは7からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Knight, she starts with 8 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102700Z" creationid="aorin" creationdate="20180410T102700Z">
+        <seg>ナイトを殺す必要がある場合、ナイトのヘルスは8からスタートします。</seg>
       </tuv>
     </tu>
     <tu>
