@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You may track your actions by using extra Unicorn cubes in your supply.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115211Z" creationid="aorin" creationdate="20180410T115211Z">
+        <seg>（サプライにある余分なユニコーンキューブを使用し、アクションの使用回数を管理できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You will perform this step on your first turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080731Z" creationid="aorin" creationdate="20180410T080731Z">
@@ -17710,6 +17718,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move, Turn, and Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115314Z" creationid="aorin" creationdate="20180410T115314Z">
+        <seg>移動、ターン、テレポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214558Z" creationid="aorin" creationdate="20171215T214558Z">
@@ -25319,6 +25335,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unicorn has three actions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115306Z" creationid="aorin" creationdate="20180410T115306Z">
+        <seg>ユニコーンは3つのアクションを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
@@ -28386,6 +28410,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To Move or Turn, you must play a card that shows “Move” or “Turn.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115425Z" creationid="aorin" creationdate="20180410T115425Z">
+        <seg>ターンかいどうするには、「移動」か「ターン」が示されるカードをプレイする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add a player, let them choose an inactive charter, give them 1 random unconstructed or constructed building card from the advancement deck, and assign them an equitable amount of glory and capacity (those terms will make more sense after Games 1 and 2).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204054Z" creationid="nakahodo" creationdate="20171218T143544Z">
@@ -30083,6 +30115,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211757Z" creationid="aorin" creationdate="20171215T211757Z">
         <seg>あなたがクラフト建物を消耗させる時、これを裏返し、その後、あなたの夜が終了したら表に返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have performed actions equal in number to your Pace, or if you choose to stop performing actions, move to the next phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115259Z" creationid="aorin" creationdate="20180410T115259Z">
+        <seg>ペースの数に等しいだけアクションを実行した場合か、アクションの実行をこれ以上しない場合、次のフェイズに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32174,6 +32214,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053402Z" creationid="aorin" creationdate="20171228T235732Z">
         <seg>あなたにはそんな一日の終わりに飲みながら愚痴をこぼす相手がいないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must complete an action before starting another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115400Z" creationid="aorin" creationdate="20180410T115400Z">
+        <seg>他を開始する前に、アクションを完全に完了する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
