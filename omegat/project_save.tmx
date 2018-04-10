@@ -23937,8 +23937,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Ghoul can be added as another role to any existing variant for four or more players.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T012525Z" creationid="aorin" creationdate="20180410T012525Z">
-        <seg>グールは、プレイヤーたちが4人以上のために設計された、任意のヴァリアントに別のロールとして追加できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T012828Z" creationid="aorin" creationdate="20180410T012525Z">
+        <seg>グールは、プレイヤーたちが4人以上のために設計された、任意の既存ヴァリアントに別のロールとして追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23947,6 +23947,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T130555Z" creationid="aorin" creationdate="20180409T130555Z">
         <seg>グールは無差別な追跡や狩りにより怒りを高めることに執着します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghoul gets this card instead of any other player, and gets this card even if the variant would not include it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013246Z" creationid="aorin" creationdate="20180410T013246Z">
+        <seg>たとえ、ヴァリアントでそれを含まない場合でも、グールが他プレイヤーの代わりにカードを得ます。</seg>
       </tuv>
     </tu>
     <tu>
