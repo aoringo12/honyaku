@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>(For example, the possessed Dragon cannot remove a second Pride cube for revealing an Event tile if the Dragon player already removed a cube during his turn, the possessed Thief cannot target the same player with Backstab a second time, and the possessed  Cave must spend more Omen tokens to use omens such as Hatred and Past Plunder if they were used during the Cave player’s turn.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T155956Z" creationid="aorin" creationdate="20180408T155956Z">
-        <seg>（例えば、憑依されたドラゴンは、ドラゴンプレイヤーが既に自身のターン時にブライドのキューブを取り除いていた場合、イベントタイルを公開することによって2つめのプライドキューブを取り除くことは出来ません。憑依されたシーフは二度目のバックスタブを同じプレイヤーへと対象にすることはできません。憑依された洞窟は、洞窟プレイヤーが自身のターンで憎悪や過去の略奪品を使用していた場合、それらを使用するために、さらに前兆トークンを消費する必要があります）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T004024Z" creationid="aorin" creationdate="20180408T155956Z">
+        <seg>（例えば、憑依されたドラゴンは、ドラゴンプレイヤーが既に自身のターン時にブライドのキューブを取り除いていた場合、イベントタイルを公開することによって2つめのプライドキューブを取り除くことは出来ません。憑依されたシーフは二度目の不意打ちを同じプレイヤーへと対象にすることはできません。憑依された洞窟は、洞窟プレイヤーが自身のターンで憎悪や過去の略奪品を使用していた場合、それらを使用するために、さらに前兆トークンを消費する必要があります）</seg>
       </tuv>
     </tu>
     <tu>
