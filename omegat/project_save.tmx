@@ -11133,6 +11133,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, select one die from your supply (do not roll it) and place it on the matching die face on the dice chart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T085337Z" creationid="aorin" creationdate="20180410T085337Z">
+        <seg>まず、あなたのサプライからダイスを1つ選択し（ダイスロールすることなく）、ダイスチャートに一致する出目にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you may Reform and Craft any number of times.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001854Z" creationid="aorin" creationdate="20171216T001854Z">
@@ -21060,6 +21068,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145436Z" creationid="nakahodo" creationdate="20180108T145436Z">
         <seg>バッグからスパイス各サイズ1つずつを残し、全てを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove any Ghoul discs on your Attack space and set them beside your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T083708Z" creationid="aorin" creationdate="20180410T083708Z">
+        <seg>攻撃スペースのグールディスクを取り除き、それらをプレイヤーボードの側に置きます。</seg>
       </tuv>
     </tu>
     <tu>
