@@ -13742,6 +13742,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the attack did not involve another player (for example, if you smash a Crystal in a game with no Cave player, or if you are attacked by the non-player Shadow Unicorn), then you must place your piece on any unoccupied Dark tile whose symbol matches the top tile of the Cave tile stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010046Z" creationid="aorin" creationdate="20180410T010046Z">
+        <seg>攻撃が他プレイヤーを含まない場合（例えば、洞窟プレイヤーの居ないゲームでクリスタルを砕いた場合や、ノンプレイヤーのシャドウユニコーンから攻撃された場合など）、洞窟タイルスタックの一番上のタイルシンボルに一致する、任意の未占領ダークタイルを選択して自身のピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the candle burned out on a player's turn, open crate 0.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000653Z" creationid="aorin" creationdate="20180101T000653Z">
@@ -26054,6 +26062,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000600Z" creationid="aorin" creationdate="20171216T000600Z">
         <seg>その後、あなたは自身の手札上限5枚までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you must place your figure on any unoccupied Dark tile showing the matching symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005750Z" creationid="aorin" creationdate="20180410T005750Z">
+        <seg>その後、あなたはそのシンボルに一致する、未占領のダークタイルを選択してそこに自身のフィギュアを配置しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
