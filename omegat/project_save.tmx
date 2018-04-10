@@ -11735,6 +11735,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GHOUL vs. GHOST</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073551Z" creationid="aorin" creationdate="20180410T073551Z">
+        <seg>グール vs. ゴースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GLORY:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T173314Z" creationid="nakahodo" creationdate="20171224T173314Z">
@@ -20640,6 +20648,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to the Ghost’s Player Variants section for details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073709Z" creationid="aorin" creationdate="20180410T073709Z">
+        <seg>ゴーストのプレイヤーヴァリアントセクションで詳細を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to the Index Guide (printed on the Index tuckbox) to determine the components to extract.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T200043Z" creationid="nakahodo" creationdate="20171218T200043Z">
@@ -21566,6 +21582,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031134Z" creationid="aorin" creationdate="20171212T031134Z">
         <seg>ソリティア-特別ルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOLO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073710Z" creationid="aorin" creationdate="20180410T073710Z">
+        <seg>ソロ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22982,6 +23006,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THIEF vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073502Z" creationid="aorin" creationdate="20180410T073502Z">
+        <seg>シーフ vs. グール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TH[ AUTOMA GAINS B[N[flTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T095049Z" creationid="nakahodo" creationdate="20180108T095049Z">
@@ -23071,6 +23103,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083237Z" creationid="aorin" creationdate="20171216T083237Z">
         <seg>トーカルの遺跡トークン1つを鳥、これを公開し、自身の消耗したアイテムプールにこれを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Alone in the Dark II</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074114Z" creationid="aorin" creationdate="20180410T074114Z">
+        <seg>アローンインザダークⅡ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24159,6 +24199,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghoul wins if it gains 9 Fury or smashes 6 Crystals, and then escapes the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073455Z" creationid="aorin" creationdate="20180410T073455Z">
+        <seg>グールは、9怒りを得るか6クリスタルを砕き、その後、洞窟から脱出した場合に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghoul wins if the Dragon is killed, or if it escapes the Cave after gaining 9 Fury.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073357Z" creationid="aorin" creationdate="20180410T073357Z">
@@ -24531,6 +24579,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T210812Z" creationid="aorin" creationdate="20180409T210812Z">
         <seg>シーフはスリを使用して、あなたのトレジャースペースにあるトレジャートークンを盗む事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thief wins if he stashes 6 Treasure tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073540Z" creationid="aorin" creationdate="20180410T073540Z">
+        <seg>シーフは6トレジャートークンをスタッシュした場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
