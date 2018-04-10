@@ -5350,6 +5350,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you resolve an attack, or after you are attacked by another player, you immediately skitter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005240Z" creationid="aorin" creationdate="20180410T005240Z">
+        <seg>あなたが攻撃を解決した後や、他プレイヤーから攻撃された後、あなたは直ちに飛び退きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you use the Charterstone building, gain +2 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154512Z" creationid="nakahodo" creationdate="20171230T154502Z">
@@ -19100,6 +19108,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Thief’s Action cubes on your player board as a reminder, and return them to the Thief after adjusting your movement points during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005129Z" creationid="aorin" creationdate="20180410T005129Z">
+        <seg>忘れないように、あなたのプレイヤーボードにシーフのアクションキューブを配置し、あなたのターン時に移動力ポイントを調整した後、シーフにこれらを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093122Z" creationid="aorin" creationdate="20171212T093122Z">
@@ -22032,6 +22048,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133951Z" creationid="nakahodo" creationdate="20180406T133951Z">
         <seg>あなたの最初のターン時、このフェイズはスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skittering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005219Z" creationid="aorin" creationdate="20180410T005219Z">
+        <seg>飛び退く</seg>
       </tuv>
     </tu>
     <tu>
@@ -25306,6 +25330,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174708Z" creationid="aorin" creationdate="20171228T174708Z">
         <seg>この木箱を解放したプレイヤーは、これらトレジャーカードから1枚をランダムに得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player whom you attacked, or who attacked you, announces a Dark tile symbol (Fangs, Bones, or Eye) that is shown on any unoccupied Dark tile on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005641Z" creationid="aorin" creationdate="20180410T005641Z">
+        <seg>あなたが攻撃したプレイヤー、またはあなたへと攻撃したプレイヤーは、マップの未占領のダークタイルに示されるダークタイルシンボル（牙、骨、瞳）を宣言します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30118,6 +30150,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211428Z" creationid="aorin" creationdate="20180409T211428Z">
         <seg>同じターン時に同じ対象を再度攻撃できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot be forced to move through walls or onto spaces that hold other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T005216Z" creationid="aorin" creationdate="20180410T005216Z">
+        <seg>あなたは壁を通り抜けたり、他のプレイヤーたちが居るスペースに強制移動できません。</seg>
       </tuv>
     </tu>
     <tu>
