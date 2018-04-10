@@ -14851,6 +14851,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have no dice in your supply, then collect all three Ghoul dice from the dice chart, roll them, and place them in your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080708Z" creationid="aorin" creationdate="20180410T080708Z">
+        <seg>あなたのサプライにディスクがない場合、その後、ダイスチャートからグールダイス3つ全てを集め、それらをロールし、自身のサプライにディスクを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have no warriors, you must remove one of your other pieces of your choice from the affected clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151044Z" creationid="aorin" creationdate="20171215T151044Z">
@@ -20327,6 +20335,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prepare Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080337Z" creationid="aorin" creationdate="20180410T080337Z">
+        <seg>ボードの準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prepare​ ​Deck:​ ​If playing with three or fewer players, return the Coalition Victory special victory card and the Chaos Victory special victory card to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132926Z" creationid="aorin" creationdate="20171215T132926Z">
@@ -21870,6 +21886,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133252Z" creationid="nakahodo" creationdate="20180406T133252Z">
         <seg>憑依カードの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Statistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080448Z" creationid="aorin" creationdate="20180410T080448Z">
+        <seg>ステータスの選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -24801,8 +24825,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Vile Ghoul replaces the Goblins in turn order, after the Knight and before the Dragon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T080254Z" creationid="aorin" creationdate="20180410T080254Z">
-        <seg>バイルグールターン順番でゴブリンと置き換えられ、ナイトの後、ドラゴンの前になります。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080303Z" creationid="aorin" creationdate="20180410T080254Z">
+        <seg>バイルグールはターン順番でゴブリンと置き換えられ、ナイトの後、ドラゴンの前になります。</seg>
       </tuv>
     </tu>
     <tu>
