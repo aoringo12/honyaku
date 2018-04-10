@@ -2258,6 +2258,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2+ PLAYERS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T094946Z" creationid="aorin" creationdate="20180410T094946Z">
+        <seg>2人以上のプレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145045Z" creationid="nakahodo" creationdate="20171218T145045Z">
@@ -6044,6 +6052,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T064214Z" creationid="nakahodo" creationdate="20180311T064214Z">
         <seg>彼女の最後の法令として、クイーンが若い頃から緑豊かで美しいガーデンの再生を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such, the Vile Ghoul does not need to track Fury.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T094919Z" creationid="aorin" creationdate="20180410T094919Z">
+        <seg>そのため、バイルグールは怒りを記録する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24945,8 +24961,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Vile Ghoul draws a Terror card each time it successfully attacks or collects 2 Treasures or Dragon Gems (not every other time, as the Ghoul does).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T094807Z" creationid="aorin" creationdate="20180410T094807Z">
-        <seg>バイルグールは攻撃が成功する[または]トレジャーかドラゴンジェム2つを収集するたびに、恐怖カード1枚をドローします。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T094945Z" creationid="aorin" creationdate="20180410T094807Z">
+        <seg>バイルグールは攻撃が成功する[または]トレジャーかドラゴンジェム2つを収集するたびに、恐怖カード1枚をドローします（グールのように偶数の怒りごとにではなく）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24955,6 +24971,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T130729Z" creationid="aorin" creationdate="20180409T130729Z">
         <seg>バイルグールはゴブリンたちに置き換えられるプレイヤーロールで、ナイト、ドラゴン、ユニコーンを倒すことが目的になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vile Ghoul is an alternative to the Goblins, so it may be used in any variants that would include the Goblins, using their setup instructions and victory conditions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T095353Z" creationid="aorin" creationdate="20180410T095353Z">
+        <seg>バイルグールはゴブリンの代わりなので、ゴブリンの勝利条件とセットアップ指示を使用し、ヴァリアントをゴブリンプレイヤー用のものを含めて使用できます。</seg>
       </tuv>
     </tu>
     <tu>
