@@ -14089,6 +14089,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no unoccupied Dark tiles on the map, the opposing player may place the Ghoul piece on any unoccupied space surrounding the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010857Z" creationid="aorin" creationdate="20180410T010857Z">
+        <seg>マップに未占領ダークタイルがない場合、対戦相手はエントランスタイル周囲の未占領スペースを選択してグールを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are none, do nothing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153717Z" creationid="nakahodo" creationdate="20171230T153717Z">
@@ -15511,6 +15519,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T232111Z" creationid="nakahodo" creationdate="20180311T232111Z">
         <seg>このステップにて、あなたは自身のロボタニストたちの場所に応じて寵愛の歯車を得ることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this variant, when the Ghoul skitters, the Ghoul chooses a Dark symbol (Fangs, Bones, or Eye) matching an unoccupied Dark tile, and then the opposing player in the attack places the Ghoul piece on any unoccupied Dark tile showing the matching symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010759Z" creationid="aorin" creationdate="20180410T010759Z">
+        <seg>このヴァリアントでは、グールが飛び退いた場合、グールは未占領ダークタイルに一致するダークシンボルを選択し、それに一致する、未占領ダークタイルを攻撃した対戦相手が選択してグールピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
