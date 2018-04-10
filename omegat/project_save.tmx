@@ -12326,6 +12326,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He can attack you with Pickpocket or Backstab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T004131Z" creationid="aorin" creationdate="20180410T004131Z">
+        <seg>彼はあなたをスリや不意打ちで攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -28407,6 +28415,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T233729Z" creationid="aorin" creationdate="20180409T233729Z">
         <seg>あなたのスペースに入る時、彼はあなたを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When he uses Pickpocket, he may choose to steal a Treasure token from your player board or to discard a Terror card, shuffling it back into the Terror deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T004609Z" creationid="aorin" creationdate="20180410T004609Z">
+        <seg>彼がスリを使用する時、あなたのプレイヤーボードにあるトレジャートークン1つを盗む[または]恐怖カード1枚を破棄させ恐怖デッキに戻してシャッフルする、のいずれかを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
