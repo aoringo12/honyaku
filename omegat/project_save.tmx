@@ -16261,6 +16261,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It remains there, but it cannot be spent again on this turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T091038Z" creationid="aorin" creationdate="20180410T091038Z">
+        <seg>そこに残りますが、このターンで再度消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It sets down just outside the village limits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T083848Z" creationid="nakahodo" creationdate="20171230T083848Z">
@@ -29519,6 +29527,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you spend a Boost die, do not remove it from its space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T090945Z" creationid="aorin" creationdate="20180410T090945Z">
+        <seg>あなたがブーストダイスを消費する時、このスペースからダイスを取り除きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you take a move​, you may take any number of your warriors (or your Vagabond pawn) from one clearing and move them to one adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215125Z" creationid="aorin" creationdate="20171215T215125Z">
@@ -30706,6 +30722,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can enter a space with another player piece, but you must spend +1 movement point to do so if your Attack is less than or equal to that player’s defense statistic (Strength, Armor, or Stealth) or if you choose not to immediately attack that player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T091330Z" creationid="aorin" creationdate="20180410T091330Z">
+        <seg>あなたは他のプレイヤーピースのいるスペースに入れますが、あなたの攻撃力がそのプレイヤーの防御力ステータス（筋力、アーマー、ステルス）以下の場合や、そのプレイヤーピースを直ちに攻撃しない場合、追加で+1移動力ポイントが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can exhaust a &lt;boot&gt; to move to an adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075821Z" creationid="aorin" creationdate="20171216T075821Z">
@@ -30806,6 +30830,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205233Z" creationid="aorin" creationdate="20180114T205233Z">
         <seg>あなたが研究できるディスカバリーは、現在[または]以前の時代のものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can spend Boost dice in place of movement points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T091111Z" creationid="aorin" creationdate="20180410T091111Z">
+        <seg>移動力ポイントに配置されたブーストダイスを消費できます。</seg>
       </tuv>
     </tu>
     <tu>
