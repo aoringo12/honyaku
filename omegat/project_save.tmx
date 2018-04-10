@@ -9143,6 +9143,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not change the Unicorn’s facing unless directed by a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114357Z" creationid="aorin" creationdate="20180410T114357Z">
+        <seg>カードによる指示がない限り、ユニコーンの向きは変えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not count those removed from the map, and do not count Treasure tokens (as the Cave does).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035933Z" creationid="aorin" creationdate="20180408T035933Z">
@@ -16761,6 +16769,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T152328Z" creationid="nakahodo" creationdate="20171224T152328Z">
         <seg>それを表向きで保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the Unicorn piece clearly facing in one cardinal direction on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114325Z" creationid="aorin" creationdate="20180410T114325Z">
+        <seg>ユニコーンピースはマップ上の主要方向の1つに明確に向いているよう維持してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24955,6 +24971,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T104231Z" creationid="aorin" creationdate="20180410T104231Z">
         <seg>ナイトメアユニコーンはプレイヤーロールとしてドラゴンと置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Nightmare Unicorn replaces the Dragon in turn order, after the Goblins and before the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114557Z" creationid="aorin" creationdate="20180410T114557Z">
+        <seg>ナイトメアユニコーンはターン順番でドラゴンに置き換えられ、ゴブリンの後、洞窟の前になります。</seg>
       </tuv>
     </tu>
     <tu>
