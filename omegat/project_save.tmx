@@ -13806,6 +13806,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If neither, you must smash 3 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102637Z" creationid="aorin" creationdate="20180410T102637Z">
+        <seg>どちらでもない場合、クリスタル3つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no Ally warriors remain, you take further hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075036Z" creationid="aorin" creationdate="20171216T075036Z">
@@ -15047,6 +15055,22 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111842Z" creationid="aorin" creationdate="20171219T111842Z">
         <seg>○のスペースに進展トークンが移動すると、あなたは1評判を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Dragon, he starts with 3 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102611Z" creationid="aorin" creationdate="20180410T102611Z">
+        <seg>ドラゴンを殺す必要がある場合、ドラゴンのヘルスは3からスタートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must kill the Knight, she starts with 5 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102556Z" creationid="aorin" creationdate="20180410T102556Z">
+        <seg>ナイトを殺す必要がある場合、ナイトのヘルスは5からスタートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30866,6 +30890,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can adjust the difficulty of the Vile Ghoul as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102359Z" creationid="aorin" creationdate="20180410T102359Z">
+        <seg>次に従い、バイルグールの難易度レベルを調整できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also get a few bonus coins based on where you built structures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T100257Z" creationid="nakahodo" creationdate="20180209T100257Z">
@@ -31890,6 +31922,30 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must smash 5 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102348Z" creationid="aorin" creationdate="20180410T102348Z">
+        <seg>クリスタル5つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must smash 6 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102350Z" creationid="aorin" creationdate="20180410T102350Z">
+        <seg>クリスタル6つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must smash 7 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102352Z" creationid="aorin" creationdate="20180410T102352Z">
+        <seg>クリスタル7つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must spend +1 movement point to enter a space that holds any number of other player pieces without immediately attacking.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135737Z" creationid="aorin" creationdate="20180409T135737Z">
@@ -32134,6 +32190,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233358Z" creationid="aorin" creationdate="20180407T233358Z">
         <seg>ゴーストタイルにアーティファクト5つをロックし、その後、エントランスタイルに入ることで洞窟から脱出することで、ゴーストは勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you smash enough Crystals and then escape the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102339Z" creationid="aorin" creationdate="20180410T102339Z">
+        <seg>あなたは十分な数のクリスタルを砕き、その後、洞窟から脱出した場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
