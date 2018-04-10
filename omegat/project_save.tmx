@@ -23919,6 +23919,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghoul can be added as another role to any existing variant for four or more players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T012525Z" creationid="aorin" creationdate="20180410T012525Z">
+        <seg>グールは、プレイヤーたちが4人以上のために設計された、任意のヴァリアントに別のロールとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghoul focuses on building up Fury by hunting and stalking indiscriminately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T130555Z" creationid="aorin" creationdate="20180409T130555Z">
