@@ -15979,6 +15979,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of spending attack points, your Attack remains constant throughout your turn, except for temporary bonuses that you add by spending Boost dice and using the effects of the Hunt Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T090201Z" creationid="aorin" creationdate="20180410T090201Z">
+        <seg>攻撃ポイントを消費する代わりに、あなたの攻撃はターンを通して変わりません。ただし、ブーストダイスを消費したり、ハントの恐怖カードの効果をしようすることにより追加される一時的なボーナスは除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, take a Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173102Z" creationid="aorin" creationdate="20171212T173102Z">
@@ -27689,6 +27697,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T125904Z" creationid="aorin" creationdate="20171212T125904Z">
         <seg>提供フェイズ（Ⅲ）時に、少なくとも1人のプレイヤーガ適切な食料を提供できていた場合、このフェイズが実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This phase works identically to the Move and Act phase of the Ghoul, except for the following changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T085742Z" creationid="aorin" creationdate="20180410T085742Z">
+        <seg>このフェイズは次の変更を除き、グールの移動とアクションフェイズと同様に動作します。</seg>
       </tuv>
     </tu>
     <tu>
