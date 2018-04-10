@@ -5486,6 +5486,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you resolve the action, discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T115434Z" creationid="aorin" creationdate="20180410T115434Z">
+        <seg>アクションを解決した後、カードは破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you use the Charterstone building, gain +2 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154512Z" creationid="nakahodo" creationdate="20171230T154502Z">
