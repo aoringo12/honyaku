@@ -19783,6 +19783,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players must agree during setup whether to use this variant, and the variant rules must be used for the entire game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010600Z" creationid="aorin" creationdate="20180410T010600Z">
+        <seg>プレイヤーたちはこのヴァリアントを含むかどうかをセットアップ時に同意し、そうした場合はゲーム全体でこのヴァリアントを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players promote their Pixies as many steps on the board as the amount of Food they each offered.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143836Z" creationid="nakahodo" creationdate="20171213T143836Z">
@@ -21338,6 +21346,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SKITTER VARIANT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010237Z" creationid="aorin" creationdate="20180410T010237Z">
+        <seg>飛び退くヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SKY ISLAND TILES:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003026Z" creationid="aorin" creationdate="20171229T003026Z">
@@ -22177,6 +22193,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T230124Z" creationid="aorin" creationdate="20180409T230124Z">
         <seg>いくつかの効果は、移動力ポイントを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some groups may want the Ghoul to move further when it skitters, or may want to give opposing players more input.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010442Z" creationid="aorin" creationdate="20180410T010442Z">
+        <seg>人によっては、グールが飛び退く場所</seg>
       </tuv>
     </tu>
     <tu>
@@ -27134,6 +27158,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213526Z" creationid="aorin" creationdate="20180114T213526Z">
         <seg>このターン、あなたは研究フェイズの各ステージで最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This variant switches the choices of the players involved in an attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010507Z" creationid="aorin" creationdate="20180410T010507Z">
+        <seg>このヴァリアントは攻撃するプレイヤーへ選択肢を与えます。</seg>
       </tuv>
     </tu>
     <tu>
