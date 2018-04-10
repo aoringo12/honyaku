@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(However, if the Ghost is also present, she gets the card instead.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013724Z" creationid="aorin" creationdate="20180410T013724Z">
+        <seg>（しかし、ゴーストもまた居る場合、彼女が代わりにカードを得ます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(IMPORTANT):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T084902Z" creationid="nakahodo" creationdate="20180312T084902Z">
@@ -2179,6 +2187,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023453Z" creationid="aorin" creationdate="20180408T023453Z">
         <seg>2プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 PLAYERS KNIGHT vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T072150Z" creationid="aorin" creationdate="20180410T072150Z">
+        <seg>1</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,6 +13304,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player other than the Ghoul would get the Past Plunder Variant card, give it to the Ghoul instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013703Z" creationid="aorin" creationdate="20180410T013703Z">
+        <seg>グール以外のプレイヤーが過去の略奪品ヴァリアントカードを得る場合、代わりにグールがこれを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player took the Technophilia action during the Spymaster Phase, then she gets to choose the first Discovery.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040225Z" creationid="aorin" creationdate="20180116T040225Z">
@@ -24027,6 +24051,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T013628Z" creationid="aorin" creationdate="20180410T013628Z">
         <seg>グールは1移動力ポイントを消費するたびに、現在のスペースをフレアの対象にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghoul wins if it gains 10 Fury and then escapes the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013800Z" creationid="aorin" creationdate="20180410T013800Z">
+        <seg>グールが10怒りを得て、その後、洞窟を脱出した場合、勝利します。</seg>
       </tuv>
     </tu>
     <tu>
