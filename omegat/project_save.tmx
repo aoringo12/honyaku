@@ -25079,6 +25079,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn doesn’t have a victory condition, but rather acts as an antagonist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T110109Z" creationid="aorin" creationdate="20180410T110109Z">
+        <seg>シャドウユニコーンはは勝利条件を持ちませんが、敵対者として行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shadow Unicorn is a non-player role that you can add to a solo or multiplayer game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T105600Z" creationid="aorin" creationdate="20180410T105600Z">
