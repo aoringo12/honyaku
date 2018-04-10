@@ -18132,6 +18132,14 @@ no other player can choose that same Country.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a guardian of the overworld forests, the Nightmare Unicorn now haunts this dark place, shifting in and out of reality, manifesting when the terrible is afoot, anger boiling inside him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112018Z" creationid="aorin" creationdate="20180410T112018Z">
+        <seg>外界の森の守護者であるナイトメアユニコーンは、今やこの暗い場所をさまよい、姿を隠し、恐怖を体現するよう現れ、自身の中にある憤りをたぎらせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a player passes, her Discovery stage is over.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040355Z" creationid="aorin" creationdate="20180116T040355Z">
@@ -24875,6 +24883,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031015Z" creationid="aorin" creationdate="20171212T031015Z">
         <seg>ミントトークン全てをプランサプライ近くに配置してミントサプライを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Nightmare Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T111407Z" creationid="aorin" creationdate="20180410T111407Z">
+        <seg>ナイトメアユニコーン</seg>
       </tuv>
     </tu>
     <tu>
