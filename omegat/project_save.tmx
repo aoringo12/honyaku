@@ -30810,6 +30810,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can spend Boost dice to gain various bonuses during this phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T090929Z" creationid="aorin" creationdate="20180410T090929Z">
+        <seg>あなたはブーストダイスを消費することで、このフェイズ時のさまざまなボーナスを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can split up an object’s total spaces of movement into multiple moves during your turn, as long as its total movement throughout your turn does not exceed your Influence.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T180427Z" creationid="aorin" creationdate="20180406T175423Z">
