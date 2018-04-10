@@ -31050,6 +31050,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot spend Boost dice to improve your Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092945Z" creationid="aorin" creationdate="20180410T092945Z">
+        <seg>防御力を高めるためにブーストダイスを消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot target player pieces in the Mushroom Forest with Telekinesis or Possession.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001456Z" creationid="aorin" creationdate="20180408T001417Z">
