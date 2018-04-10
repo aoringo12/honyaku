@@ -14563,6 +14563,14 @@ in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no Knight, instead place the Unicorn piece on the Entrance tile facing in any cardinal direction, away from other player pieces if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T113841Z" creationid="aorin" creationdate="20180410T113841Z">
+        <seg>ナイトが居ない場合、エントランスタイルに配置し、可能な限り離れた他のプレイヤーピースへと、主要方向に顔を向けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no Knight, you must kill the Dragon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075925Z" creationid="aorin" creationdate="20180410T075925Z">
