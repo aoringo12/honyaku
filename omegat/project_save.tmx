@@ -1186,6 +1186,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-ANY 2 ROLES- vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013302Z" creationid="aorin" creationdate="20180410T013302Z">
+        <seg>任意のプレイヤーロール2つ vs. グール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-Dragon abilities that can attack the Thief (Claw, Scratch, Flame Wall) ignore Stealth.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T133052Z" creationid="nakahodo" creationdate="20171127T133052Z">
@@ -5523,6 +5531,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All other players follow the rules for the corresponding two-player variant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013359Z" creationid="aorin" creationdate="20180410T013359Z">
+        <seg>他の全てのプレイヤーたちは、2プレイヤーヴァリアントに一致するルールに従いプレイします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All persona cards (except the original personas) give each player a special ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171224T151334Z">
@@ -8983,6 +8999,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not move any cubes from the Hunger track to the Wakefulness track on the Dragon’s player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013513Z" creationid="aorin" creationdate="20180410T013513Z">
+        <seg>ドラゴンは自身のプレイヤーボードの任意の怠惰キューブを飢えトラックから覚醒トラックに移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not perform any more Decree actions, and skip Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003224Z" creationid="aorin" creationdate="20171216T003224Z">
@@ -12122,6 +12146,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165711Z" creationid="aorin" creationdate="20171212T165711Z">
         <seg>次の順番でペナルティポイントを配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give the Ghoul the Flare Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013525Z" creationid="aorin" creationdate="20180410T013525Z">
+        <seg>グールはフレアヴァリアントカードを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21685,6 +21717,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up and play the Ghoul as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013317Z" creationid="aorin" creationdate="20180410T013317Z">
+        <seg>通常どおり、グールをセットアップしプレイします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up regular workers, influence tokens, and VP tokens from each Automa's charter chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090401Z" creationid="nakahodo" creationdate="20180108T090401Z">
@@ -23979,6 +24019,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133643Z" creationid="aorin" creationdate="20180409T133643Z">
         <seg>グールはターン順番で6となり、シーフの後、ゴーストの前になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghoul may target its current space with Flare, spending 1 movement point each time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T013628Z" creationid="aorin" creationdate="20180410T013628Z">
+        <seg>グールは1移動力ポイントを消費するたびに、現在のスペースをフレアの対象にできます。</seg>
       </tuv>
     </tu>
     <tu>
