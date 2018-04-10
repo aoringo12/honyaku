@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You won’t spend these Ghoul discs, but they do provide a helpful reminder of your Attack to the other players.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T085701Z" creationid="aorin" creationdate="20180410T085701Z">
+        <seg>（消費しなかったこれらグールディスクは、他プレイヤーからあなたが攻撃されるのを防ぐために使用します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(and other revealed cards):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105730Z" creationid="nakahodo" creationdate="20171225T105655Z">
@@ -5843,6 +5851,14 @@ Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113155Z" creationid="nakahodo" creationdate="20171001T113155Z">
         <seg>ブレンドが多く表向きに公開されたチームはブレンドに、研究が多く公開されたチームは研究になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any dice on the right side of the selected row are Boost dice, which you can spend during the Move and Act phase of this turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T085502Z" creationid="aorin" creationdate="20180410T085502Z">
+        <seg>選択した行の右側のダイスはブーストダイスで、このターンの移動とアクションフェイズ時に消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19106,6 +19122,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Ghoul discs equal in number to your Attack on the Attack space on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T085538Z" creationid="aorin" creationdate="20180410T085538Z">
+        <seg>自身のプレイヤーボードの攻撃スペースに、あなたの攻撃に等しいだけのグールディスクを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Move Gem x 2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T180401Z" creationid="nakahodo" creationdate="20180311T180335Z">
@@ -26214,6 +26238,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131613Z" creationid="aorin" creationdate="20171215T131613Z">
         <seg>ルールリファレンスは簡潔で信頼できる完全な目録を目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected row lists your Movement and Attack for this turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T085419Z" creationid="aorin" creationdate="20180410T085419Z">
+        <seg>選択した行は、このターンのあなたの攻撃と移動力が記述されています。</seg>
       </tuv>
     </tu>
     <tu>
