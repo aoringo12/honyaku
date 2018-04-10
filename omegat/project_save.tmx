@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The players must agree to the goal number during setup.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102210Z" creationid="aorin" creationdate="20180410T102210Z">
+        <seg>（プレイヤーたちはセットアップ時に勝利条件に同意しなければなりません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The ruin tokens consist of the following items:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
@@ -23451,6 +23459,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the Alone in the Dark II Variant card and the Flare Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102318Z" creationid="aorin" creationdate="20180410T102318Z">
+        <seg>アローンインザダークⅡヴァリアントカードとフレアヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the Alone in the Dark II Variant card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024157Z" creationid="aorin" creationdate="20180408T024157Z">
@@ -24927,6 +24943,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief must stash 5 or 6 Treasures to win.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102124Z" creationid="aorin" creationdate="20180410T102124Z">
+        <seg>シーフは勝利するためにトレジャーを5か6つスタッシュする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief wins if he stashes 6 Treasure tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073540Z" creationid="aorin" creationdate="20180410T073540Z">
@@ -25019,6 +25043,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101813Z" creationid="aorin" creationdate="20180410T101813Z">
         <seg>バイルグールはクリスタル6つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vile Ghoul must smash one more Crystal than the number of Treasures that the Thief must stash.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102254Z" creationid="aorin" creationdate="20180410T102254Z">
+        <seg>バイルグールは、シーフがスタッシュする必要があるトレジャーの数よりも1つ多く、クリスタルを砕く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29017,6 +29049,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101932Z" creationid="aorin" creationdate="20180410T101932Z">
         <seg>バイルグール vs. シーフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vile Ghoul vs. Thief (vs. Cave):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T102041Z" creationid="aorin" creationdate="20180410T102018Z">
+        <seg>バイルグール vs. シーフ（vs. 洞窟）：</seg>
       </tuv>
     </tu>
     <tu>
