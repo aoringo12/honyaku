@@ -29863,6 +29863,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you add the Shadow Unicorn to a game, one player can change their victory condition to killing the Shadow Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T111404Z" creationid="aorin" creationdate="20180410T111404Z">
+        <seg>ゲームにシャドウユニコーンを追加する時、1人のプレイヤーは勝利条件をシャドウユニコーンを倒すことに変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you attack, deal the following effect:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211552Z" creationid="aorin" creationdate="20180409T211552Z">
