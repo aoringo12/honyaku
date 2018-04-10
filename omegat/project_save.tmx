@@ -12126,6 +12126,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give the Ghoul the Past Plunder Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T012626Z" creationid="aorin" creationdate="20180410T012626Z">
+        <seg>グールは過去の略奪品ヴァリアントカードを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glory</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T200132Z" creationid="nakahodo" creationdate="20171224T200122Z">
@@ -15341,6 +15349,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022440Z" creationid="aorin" creationdate="20180408T022440Z">
         <seg>洞窟プレイヤーのいないゲームでは：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games without the Cave player, make the following changes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T012608Z" creationid="aorin" creationdate="20180410T012608Z">
+        <seg>洞窟プレイヤーがゲームに居ないなら、次の変更を加えます：</seg>
       </tuv>
     </tu>
     <tu>
