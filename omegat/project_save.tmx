@@ -9299,6 +9299,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Collapse, randomly select a Dark tile symbol using tiles that have already collapsed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010122Z" creationid="aorin" creationdate="20180410T010122Z">
+        <seg>崩壊時、既に崩壊したタイルを使用して、ダークタイルシンボルをランダムに決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Collapse, tiles you wish to remove with Hatred still follow the normal requirement based on the number of tiles they touch, while also needing to be in a surrounding space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T044507Z" creationid="aorin" creationdate="20180408T044507Z">
@@ -14069,6 +14077,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100331Z" creationid="nakahodo" creationdate="20180108T100331Z">
         <seg>建築されていない建物カードがない場合、なにもしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no unoccupied Dark tiles on the map (usually due to the Collapse), you must instead place the Ghoul on any unoccupied space surrounding the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T010230Z" creationid="aorin" creationdate="20180410T010230Z">
+        <seg>マップに未占領ダークタイルがない場合（崩壊が原因などで）、エントランスタイル周囲の任意の未占領スペースを選択して自身のピースを配置しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
