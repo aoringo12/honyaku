@@ -6648,6 +6648,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of your first turn, place the Unicorn piece on a Lit tile adjacent to the Knight, facing directly away from the Knight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T113142Z" creationid="aorin" creationdate="20180410T113142Z">
+        <seg>あなたのゲーム最初のターン開始時に、ナイトに隣接したライトタイルに、直接対面するようにユニコーンピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this point, players take turns purchasing available Discoveries and Generals.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040039Z" creationid="aorin" creationdate="20180116T040039Z">
@@ -16749,6 +16757,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the remaining cubes in a supply near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112815Z" creationid="aorin" creationdate="20180410T112815Z">
+        <seg>自身のプレイヤーボード近くのサプライに残ったキューブを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep these in the Scriptorium.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T084533Z" creationid="nakahodo" creationdate="20171230T084457Z">
@@ -22660,6 +22676,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the Unicorn deck and draw 4 cards to form your starting hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112843Z" creationid="aorin" creationdate="20180410T112843Z">
+        <seg>ユニコーンデッキをシャッフルし、あなたの開始手札として4枚のカードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the advancement deck, then reveal cards until you find an unconstructed building card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235337Z" creationid="aorin" creationdate="20171231T235337Z">
@@ -26996,6 +27020,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134225Z" creationid="nakahodo" creationdate="20180406T134225Z">
         <seg>その後、未公開カードがゴーストカードだった場合、あなたはこれを公開し、自身のターンが終了するまで、移動力と影響力に記述されたボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, place Unicorn cubes on the 12 spaces of the Radiance track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T112756Z" creationid="aorin" creationdate="20180410T112756Z">
+        <seg>その後、輝きトラックの12個のスペースにユニコーンキューブを配置します。</seg>
       </tuv>
     </tu>
     <tu>
