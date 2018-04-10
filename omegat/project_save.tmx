@@ -24143,6 +24143,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief can enter your space only if his Stealth is greater than your Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T003940Z" creationid="aorin" creationdate="20180410T003940Z">
+        <seg>シーフはそのステルスがあなたの防御力を超えている場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief can use Pickpocket to steal Treasure tokens on your Treasure space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T210812Z" creationid="aorin" creationdate="20180409T210812Z">
