@@ -13990,6 +13990,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no valid Lit tile is available and the Entrance is occupied by another player piece, place the Unicorn piece on an unoccupied Dark tile adjacent to the Entrance tile, and reveal the Dark tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114121Z" creationid="aorin" creationdate="20180410T114121Z">
+        <seg>利用可能なライトタイルがなく、エントランスタイルが他プレイヤーピースで占領されている場合、エントランスタイルに隣接する、未占領のダークタイルにユニコーンピースを配置し、そのダークタイルを明らかにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If nobody offered the right type of Food, the Queen is outraged by the lack of respect her subordinates have shown her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T124258Z" creationid="aorin" creationdate="20171212T124258Z">
