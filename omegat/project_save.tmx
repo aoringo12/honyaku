@@ -23911,6 +23911,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghoul interacts with Terrain tiles as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011205Z" creationid="aorin" creationdate="20180410T011205Z">
+        <seg>グールは次のように地形タイルと作用します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghoul is a player role that can be added to any other combination of player numbers and roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T125028Z" creationid="aorin" creationdate="20180409T125028Z">
@@ -28843,6 +28851,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
         <seg>得点フェイズ時にこれらを制御していた場合、VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you enter the River, you may immediately move for free in the direction of the current.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011643Z" creationid="aorin" creationdate="20180410T011643Z">
+        <seg>あなたが皮に入った時、流れに沿って無料で直ちに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
