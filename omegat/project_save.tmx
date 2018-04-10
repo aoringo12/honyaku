@@ -14571,6 +14571,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you added a temporary bonus to your Attack in order to move into your current space, the temporary bonus persists until you complete your attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092128Z" creationid="aorin" creationdate="20180410T092128Z">
+        <seg>今のスペースに入るための攻撃に一時的なボーナスを追加する場合、このボーナスは攻撃が完了するまで継続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are also playing with the Ghost, set up the game for the desired variant below, then follow the instructions in the Ghost’s Player Variants section.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T012127Z" creationid="aorin" creationdate="20180410T012127Z">
@@ -30686,6 +30694,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135504Z" creationid="aorin" creationdate="20180409T135504Z">
         <seg>あなたはまた、恐怖カードの効果を使用することができます（ページ3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can attack a player piece on your space only if your Attack is greater than that player’s defense statistic (Strength, Armor, or Stealth).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092013Z" creationid="aorin" creationdate="20180410T092013Z">
+        <seg>攻撃力が相手の防御力ステータス（筋力、アーマー、ステルス）を超える場合にのみ、あなたのスペースにいるプレイヤーピース1体を攻撃できます。</seg>
       </tuv>
     </tu>
     <tu>
