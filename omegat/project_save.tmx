@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you do not have any Treasure tokens or Terror cards, he cannot Pickpocket you.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T004750Z" creationid="aorin" creationdate="20180410T004750Z">
+        <seg>（あなたがトレジャートークンや恐怖カードがない場合、彼はあなたをスリできません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you have two crafting buildings in a fox clearing, you may not craft two cards which require two foxes each.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211940Z" creationid="aorin" creationdate="20171215T211940Z">
