@@ -12171,6 +12171,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghoul (Standard):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074850Z" creationid="aorin" creationdate="20180410T074850Z">
+        <seg>グール（基本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gift</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082527Z" creationid="aorin" creationdate="20171216T082527Z">
@@ -13048,6 +13056,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T150304Z" creationid="aorin" creationdate="20180407T150304Z">
         <seg>しかし、（憑依されたプレイヤーのステータスではなく）憑依カードに記述されたステータスを使用し、制限に従う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hunter (Expert):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074931Z" creationid="aorin" creationdate="20180410T074931Z">
+        <seg>ハンター（エキスパート）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20586,8 +20602,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Ragpicker (Easiest):</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T074749Z" creationid="aorin" creationdate="20180410T074749Z">
-        <seg>くず拾い（もっとも簡単）</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074842Z" creationid="aorin" creationdate="20180410T074749Z">
+        <seg>くず拾い（もっとも簡単）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20724,6 +20740,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001856Z" creationid="aorin" creationdate="20171216T001856Z">
         <seg>リフォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regardless of the difficulty level or number of players, the Ghoul’s Fury goal cannot exceed 14.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075023Z" creationid="aorin" creationdate="20180410T075023Z">
+        <seg>難易度レベルやプレイヤー人数に関わらず、グールの怒りの目標値は14を超えられません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21654,6 +21678,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133710Z" creationid="aorin" creationdate="20180409T133710Z">
         <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scavenger (Easy):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074911Z" creationid="aorin" creationdate="20180410T074840Z">
+        <seg>スカヴェンジャー（イージー）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22769,6 +22801,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
         <seg>あなたは、ヴァガボンドとして森を徘徊し、いや、鷲の巣からイニシアチブを握り、はたまたマルキス・デ・キャットとして下々を圧政し、もしやもすると、ウッドランド同盟を動かし新しい秩序を生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stalker (Hard):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074904Z" creationid="aorin" creationdate="20180410T074904Z">
+        <seg>スターカー（ハード）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24675,6 +24715,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055640Z" creationid="aorin" creationdate="20171216T055640Z">
         <seg>ヴァガボンドはほかプレイヤーに影響を与えるタスクを完了する、いくつかの改良をクラフトする、他プレイヤーガ所有する建物を取り除くことにより、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vile Ghoul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075027Z" creationid="aorin" creationdate="20180410T075024Z">
+        <seg>バイルグール</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,6 +31322,38 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must gain Fury equal to 5 + the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074828Z" creationid="aorin" creationdate="20180410T074828Z">
+        <seg>プレイヤー人数に+5に等しいだけの怒りを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain Fury equal to 6 + the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074845Z" creationid="aorin" creationdate="20180410T074845Z">
+        <seg>プレイヤー人数に+6に等しいだけの怒りを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain Fury equal to 7 + the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074852Z" creationid="aorin" creationdate="20180410T074852Z">
+        <seg>プレイヤー人数に+7に等しいだけの怒りを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain Fury equal to 8 + the number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074935Z" creationid="aorin" creationdate="20180410T074935Z">
+        <seg>プレイヤー人数に+8に等しいだけの怒りを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must include one additional Bread with each</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151020Z" creationid="nakahodo" creationdate="20180108T151020Z">
@@ -31430,6 +31510,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032858Z" creationid="aorin" creationdate="20171213T032858Z">
         <seg>スコアトラックにある今の位置から、あなたの報酬ポイントのカウントが始まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You use only 2 Ghoul dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074925Z" creationid="aorin" creationdate="20180410T074925Z">
+        <seg>グールダイス2つのみを使用します。</seg>
       </tuv>
     </tu>
     <tu>
