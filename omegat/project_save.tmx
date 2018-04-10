@@ -28881,6 +28881,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike the other player pieces, the facing of the Unicorn piece matters because it determines the direction it moves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T114217Z" creationid="aorin" creationdate="20180410T114217Z">
+        <seg>他のプレイヤーピースとは違い、ユニコーンピースの向きは、移動方向を決定するのに重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike the other roles, the Ghoul doesn’t have statistics that remain stable throughout play.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133819Z" creationid="aorin" creationdate="20180409T133819Z">
