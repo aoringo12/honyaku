@@ -11751,6 +11751,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fury and Terror Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092950Z" creationid="aorin" creationdate="20180410T092950Z">
+        <seg>怒りと恐怖カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fury is a measure of the Ghoul’s anger and growing power.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224451Z" creationid="aorin" creationdate="20180409T224451Z">
