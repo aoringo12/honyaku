@@ -32061,6 +32061,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Attack is also your Defense, as described in the Set Defense phase of the Ghoul’s rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T092919Z" creationid="aorin" creationdate="20180410T092919Z">
+        <seg>あなたの攻撃はまた防御でもあり、グールの防御力の設定フェイズの説明を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Attack remains constant throughout your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092250Z" creationid="aorin" creationdate="20180410T092250Z">
