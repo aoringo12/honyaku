@@ -23316,6 +23316,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave can target you with Soporific Spores to reduce your Fury by 1 (you do not lose any Terror cards).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T003654Z" creationid="aorin" creationdate="20180410T003654Z">
+        <seg>洞窟はあなたを催眠胞子の対象にして、あなたの怒りを1減少させることができます（恐怖カードを失うことはありません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave collapses when 3 Crystal tiles have been removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082145Z" creationid="aorin" creationdate="20180408T161106Z">
