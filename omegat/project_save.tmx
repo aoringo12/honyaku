@@ -14323,6 +14323,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are also playing with the Ghost, set up the game for the desired variant below, then follow the instructions in the Ghost’s Player Variants section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T012127Z" creationid="aorin" creationdate="20180410T012127Z">
+        <seg>ゴーストがプレイしていて、ゲームのセットアップ時に下記ヴァリアントを望む場合、ゴーストのプレイヤーヴァリアントセクションの指示に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are also playing with the Ghoul, set up the game using the instructions in the Ghoul’s Player Variants section first, then add the Ghost using the appropriate instructions below.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022433Z" creationid="aorin" creationdate="20180408T022433Z">
@@ -14559,6 +14567,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215451Z" creationid="aorin" creationdate="20171215T215451Z">
         <seg>あなたが支配していない空き地の場合、あなたが支配する[または]支配者のいない[または]入ることであなたが支配できる隣接空き地にのみ、戦士たちを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you end your turn on Magma, you skitter but are otherwise unaffected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011838Z" creationid="aorin" creationdate="20180410T011828Z">
+        <seg>マグマ上でターンが終了した場合、あなたは飛び退きますが、それ以外の効果は受けません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28857,8 +28873,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you enter the River, you may immediately move for free in the direction of the current.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T011643Z" creationid="aorin" creationdate="20180410T011643Z">
-        <seg>あなたが皮に入った時、流れに沿って無料で直ちに移動できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011803Z" creationid="aorin" creationdate="20180410T011643Z">
+        <seg>川に入った時、流れに沿って無料で直ちに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30276,8 +30292,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You cannot enter the impassable spaces of the Canyon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T011740Z" creationid="aorin" creationdate="20180410T011740Z">
-        <seg>あなたは谷の移動不可スペースに入れません。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011806Z" creationid="aorin" creationdate="20180410T011740Z">
+        <seg>谷の移動不可スペースに入れません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30644,8 +30660,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may move through Pits, spending movement points normally.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T011711Z" creationid="aorin" creationdate="20180410T011711Z">
-        <seg>あなたは通常どおり移動力を支払って、横穴を通り抜けて移動できます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011758Z" creationid="aorin" creationdate="20180410T011711Z">
+        <seg>通常どおり移動力を支払って、横穴を通り抜けて移動できます。</seg>
       </tuv>
     </tu>
     <tu>
