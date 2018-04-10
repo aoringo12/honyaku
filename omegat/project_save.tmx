@@ -14339,6 +14339,22 @@ in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no Dragon or Knight, you must smash 5 Crystals and then escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080003Z" creationid="aorin" creationdate="20180410T080003Z">
+        <seg>ドラゴンもナイトも居ない場合、あなたはクリスタル5つを砕き、その後、エントランスタイルを入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Knight, you must kill the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075925Z" creationid="aorin" creationdate="20180410T075925Z">
+        <seg>ナイトが居ない場合、ドラゴンを殺す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no opposing promoted Pixie on the game board, this action can’t be chosen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064229Z" creationid="aorin" creationdate="20171213T064229Z">
@@ -16465,6 +16481,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150657Z" creationid="aorin" creationdate="20171215T150657Z">
         <seg>主な用語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the Knight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075916Z" creationid="aorin" creationdate="20180410T075916Z">
+        <seg>ナイトを殺します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29127,6 +29151,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154344Z" creationid="nakahodo" creationdate="20171230T154344Z">
         <seg>任意の数のオートマたちと対戦するとき、人間プレイヤーは追加の開始利益を1つ選択します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing the Vile Ghoul, follow all of the rules for the Ghoul except where noted otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075910Z" creationid="aorin" creationdate="20180410T075910Z">
+        <seg>バイルグールをプレイする時、特に記載がない限り、グールのルールに全て従います。</seg>
       </tuv>
     </tu>
     <tu>
