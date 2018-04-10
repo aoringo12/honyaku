@@ -7152,6 +7152,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both players lose if the Cave collapses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073044Z" creationid="aorin" creationdate="20180410T073044Z">
+        <seg>洞窟の崩壊が達成された場合は両プレイヤーが敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both the Ghost and Cave Ghost are advanced roles that should not be used by new players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124620Z" creationid="nakahodo" creationdate="20180406T124620Z">
@@ -11715,6 +11723,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093914Z" creationid="nakahodo" creationdate="20180209T093914Z">
         <seg>ゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GOBLINS vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073052Z" creationid="aorin" creationdate="20180410T073052Z">
+        <seg>ゴブリン vs. グール</seg>
       </tuv>
     </tu>
     <tu>
@@ -19204,6 +19220,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Flare Variant card near the map;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073111Z" creationid="aorin" creationdate="20180410T073111Z">
+        <seg>マップ近くにフレアヴァリアントカードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Fury cube on the “0” space of the Fury track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133503Z" creationid="aorin" creationdate="20180409T133459Z">
@@ -24079,6 +24103,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghoul wins if the Knight is killed, or if it gains 9 Fury and then escapes the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073007Z" creationid="aorin" creationdate="20180410T073007Z">
+        <seg>グールはナイトを殺した場合[または]9怒りを得て、その後、洞窟から脱出した場合、のいずれかで勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Goblins gain 1 Rage (instead of losing 1), and the Tribe does not scatter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232249Z" creationid="aorin" creationdate="20180409T232249Z">
@@ -24123,6 +24155,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T181113Z" creationid="aorin" creationdate="20180406T181113Z">
         <seg>ナイトがヒーローキューブを彼女の盾に割り当てている場合、ナイトを移動させられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight wins if she smashes 5 Crystals and then escapes the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T072930Z" creationid="aorin" creationdate="20180410T072930Z">
+        <seg>ナイトはクリスタルを5つ砕き、その後、洞窟から脱出することで勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28197,6 +28237,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035103Z" creationid="aorin" creationdate="20180116T035103Z">
         <seg>IPトークンを使用して、自身のストックをつくります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the rules for Normal Goblins (line A).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T072902Z" creationid="aorin" creationdate="20180410T072902Z">
+        <seg>ノーマルのゴブリンたち（Aライン）のルールを使用します。</seg>
       </tuv>
     </tu>
     <tu>
