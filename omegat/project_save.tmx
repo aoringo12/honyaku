@@ -30274,6 +30274,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot enter the impassable spaces of the Canyon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011740Z" creationid="aorin" creationdate="20180410T011740Z">
+        <seg>あなたは谷の移動不可スペースに入れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot gain workers past this limit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214216Z" creationid="aorin" creationdate="20180114T214216Z">
@@ -30630,6 +30638,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T174558Z" creationid="aorin" creationdate="20180406T174558Z">
         <seg>あなたは、オブジェクト1つをあなたのスペースに向かって[または]離すように直線で移動させることができます。これはあなた自身のスペースも含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move through Pits, spending movement points normally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T011711Z" creationid="aorin" creationdate="20180410T011711Z">
+        <seg>あなたは通常どおり移動力を支払って、横穴を通り抜けて移動できます。</seg>
       </tuv>
     </tu>
     <tu>
