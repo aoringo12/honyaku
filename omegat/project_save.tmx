@@ -13910,6 +13910,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If she is killed by an Ambush, it counts toward the Vile Ghoul’s victory condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101605Z" creationid="aorin" creationdate="20180410T101605Z">
+        <seg>ナイトが待ち伏せに殺された場合、バイルグールの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If text in the learn to play conflicts with text in this rules reference, this rules reference takes precedence.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145812Z" creationid="aorin" creationdate="20171215T145812Z">
@@ -28757,6 +28765,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210621Z" creationid="aorin" creationdate="20171219T095722Z">
         <seg>達成した目標を得点するためには、グランドスタンド（または○効果を持つ建物）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Normal Goblins difficulty level (line A).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101529Z" creationid="aorin" creationdate="20180410T101529Z">
+        <seg>ノーマルのゴブリンたち（Aライン）を使用します。</seg>
       </tuv>
     </tu>
     <tu>
