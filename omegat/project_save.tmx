@@ -12182,6 +12182,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give the Knight the Goblin Infestation Variant card and the Monster tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T072827Z" creationid="aorin" creationdate="20180410T072827Z">
+        <seg>ナイトにゴブリン蔓延ヴァリアントカードとモンスタートークンを渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glory</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T200132Z" creationid="nakahodo" creationdate="20171224T200122Z">
@@ -16233,6 +16241,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025833Z" creationid="aorin" creationdate="20171212T025833Z">
         <seg>キーワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KNIGHT vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T072638Z" creationid="aorin" creationdate="20180410T072638Z">
+        <seg>ナイト vs. グール</seg>
       </tuv>
     </tu>
     <tu>
