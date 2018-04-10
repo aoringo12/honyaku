@@ -9127,6 +9127,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not move any of the Dragon’s Hunger cubes to Wakefulness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101749Z" creationid="aorin" creationdate="20180410T101744Z">
+        <seg>ドラゴンの飢えキューブは覚醒に移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not perform any more Decree actions, and skip Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003224Z" creationid="aorin" creationdate="20171216T003224Z">
@@ -15515,6 +15523,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213531Z" creationid="aorin" creationdate="20180114T213531Z">
         <seg>さらに、直ちに1VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, make these changes to the rules of specific role combinations:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101656Z" creationid="aorin" creationdate="20180410T101610Z">
+        <seg>さらに、これら特定のプレイヤーロール組み合わせのルールに変更が加えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24999,6 +25015,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vile Ghoul must smash 6 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101813Z" creationid="aorin" creationdate="20180410T101813Z">
+        <seg>バイルグールはクリスタル6つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vile Ghoul replaces the Goblins in turn order, after the Knight and before the Dragon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080303Z" creationid="aorin" creationdate="20180410T080254Z">
@@ -28969,6 +28993,30 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213334Z" creationid="nakahodo" creationdate="20171224T213334Z">
         <seg>喜ぶ王　怒る王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vile Ghoul vs. Cave:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101759Z" creationid="aorin" creationdate="20180410T101759Z">
+        <seg>バイルグール vs. 洞窟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vile Ghoul vs. Dragon (+Any):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101709Z" creationid="aorin" creationdate="20180410T101709Z">
+        <seg>バイルグール vs. ドラゴン（+他）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vile Ghoul vs. Thief (vs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T101932Z" creationid="aorin" creationdate="20180410T101932Z">
+        <seg>バイルグール vs. シーフ</seg>
       </tuv>
     </tu>
     <tu>
