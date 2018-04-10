@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You will perform this step on your first turn.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080731Z" creationid="aorin" creationdate="20180410T080731Z">
+        <seg>（ゲーム最初のターンにこのステップを実行することになるでしょう）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You won’t need to do this on your first turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134310Z" creationid="aorin" creationdate="20180409T134310Z">
@@ -9067,6 +9075,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T013513Z" creationid="aorin" creationdate="20180410T013513Z">
         <seg>ドラゴンは自身のプレイヤーボードの任意の怠惰キューブを飢えトラックから覚醒トラックに移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not move any dice already on the right side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080846Z" creationid="aorin" creationdate="20180410T080846Z">
+        <seg>既に右側にあるダイスは移動しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18424,6 +18440,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091611Z" creationid="nakahodo" creationdate="20180108T091611Z">
         <seg>そうでなければ、ボードからオートマのワーカー全てを回収し、次のプレイヤーに進みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, slide the die from the left side of the dice chart to the right side of the same row.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T080826Z" creationid="aorin" creationdate="20180410T080826Z">
+        <seg>そうでなければ、ダイスをダイスチャーの左側から、同じ行の右側にスライドさせます。</seg>
       </tuv>
     </tu>
     <tu>
