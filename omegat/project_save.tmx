@@ -7304,6 +7304,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAVE vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073402Z" creationid="aorin" creationdate="20180410T073402Z">
+        <seg>洞窟 vs. グール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHARTERS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093049Z" creationid="nakahodo" creationdate="20180108T093049Z">
@@ -8580,6 +8588,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DRAGON vs. GHOUL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073154Z" creationid="aorin" creationdate="20180410T073154Z">
+        <seg>ゴラゴン vs. グール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DRAW 1 AUTOMA CARD</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091852Z" creationid="nakahodo" creationdate="20180108T091852Z">
@@ -9019,6 +9035,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203746Z" creationid="nakahodo" creationdate="20171218T141357Z">
         <seg>それらの内容を見ず、シャッフルもしないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not move any cubes from the Hunger track to Wakefulness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073241Z" creationid="aorin" creationdate="20180410T073241Z">
+        <seg>任意のキューブを飢えトラックから覚醒に移動しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19212,6 +19236,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Ash Dragon Variant card near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073208Z" creationid="aorin" creationdate="20180410T073208Z">
+        <seg>マップ近くにアッシュドラゴンヴァリアントカードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Blocking the Ghost Reference card where everyone can see it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131258Z" creationid="nakahodo" creationdate="20180406T131258Z">
@@ -23604,6 +23636,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave wins if it collapses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073413Z" creationid="aorin" creationdate="20180410T073413Z">
+        <seg>洞窟は崩壊を達成した場合に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cloud Port (or any building with ヽツas the benefit) allows a player to sell a variable amount of 1 commodity to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T100943Z" creationid="aorin" creationdate="20171219T100943Z">
@@ -23673,6 +23713,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030306Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>開発フェイズは全てのプレイヤーが連続してパスをするまで続けられてから、終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dragon wins if he awakens, comes to the surface, and then escapes the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073314Z" creationid="aorin" creationdate="20180410T073314Z">
+        <seg>ドラゴンは、目覚め、出現し、その後、洞窟から脱出した場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24103,6 +24151,22 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghoul wins if it gains 9 Fury and then escapes the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073147Z" creationid="aorin" creationdate="20180410T073147Z">
+        <seg>グールが9怒りを得て、その後、洞窟を脱出した場合、勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghoul wins if the Dragon is killed, or if it escapes the Cave after gaining 9 Fury.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073357Z" creationid="aorin" creationdate="20180410T073357Z">
+        <seg>グールは、ドラゴンを殺した場合[または]9怒りを得た後で洞窟から脱出した場合、勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghoul wins if the Knight is killed, or if it gains 9 Fury and then escapes the Cave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073007Z" creationid="aorin" creationdate="20180410T073007Z">
@@ -24115,6 +24179,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232249Z" creationid="aorin" creationdate="20180409T232249Z">
         <seg>ゴブリンたちは1怒りを得て（1失う代わりに）、部族は散りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Goblins win if they smash 5 Crystals and then escape the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073138Z" creationid="aorin" creationdate="20180410T073138Z">
+        <seg>ゴブリンはクリスタルを5つ砕き、その後、洞窟から脱出することで勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31834,6 +31906,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205405Z" creationid="aorin" creationdate="20171215T205405Z">
         <seg>鳥、キツネ、ウサギ、ネズミ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>both players may use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T073119Z" creationid="aorin" creationdate="20180410T073119Z">
+        <seg>両プレイヤーがこれを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
