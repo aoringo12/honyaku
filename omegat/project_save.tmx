@@ -16983,8 +16983,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Like the Dragon, the Unicorn wants to escape the Cave, but rather than needing to wake up, the Nightmare Unicorn must siphon power from the Cave by exploring it and from other players by getting angry and attacking them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T105429Z" creationid="aorin" creationdate="20180410T105429Z">
-        <seg>ドラゴンのように、ユニコーンは洞窟を脱出するのが目的ですが、目覚めるのではなく、ナイトメアユニコーンは洞窟を探索し、他のプレイヤーを苛立たせたり攻撃したりすることで洞窟からパワーを吸い上げます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T105531Z" creationid="aorin" creationdate="20180410T105429Z">
+        <seg>ドラゴンのように、ユニコーンは洞窟を脱出するのが目的ですが、目覚めるのではなく、ナイトメアユニコーンは洞窟を探索し、他のプレイヤーから怒りを得たり攻撃したりすることで洞窟からパワーを吸い上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25075,6 +25075,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021317Z" creationid="aorin" creationdate="20180408T021317Z">
         <seg>憑依カードの選択フェイズは通常どおり処理されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Unicorn is a non-player role that you can add to a solo or multiplayer game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T105600Z" creationid="aorin" creationdate="20180410T105600Z">
+        <seg>シャドウユニコーンはソロまたは複数プレイヤーゲームに追加できる、ノンプレイヤーのロールです。</seg>
       </tuv>
     </tu>
     <tu>
