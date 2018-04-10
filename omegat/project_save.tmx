@@ -31138,6 +31138,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may target your current space with Flare, spending 1 movement point each time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074449Z" creationid="aorin" creationdate="20180410T074449Z">
+        <seg>グールは1移動力ポイントを消費するたびに、現在のスペースをフレアの対象にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may use Discoveries (like the Dirigible) that activate during the Reinforcement stage.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002041Z" creationid="aorin" creationdate="20180115T002041Z">
