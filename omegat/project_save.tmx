@@ -7900,6 +7900,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose your difficulty level:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074600Z" creationid="aorin" creationdate="20180410T074600Z">
+        <seg>難易度レベルを選択してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choosing a Permanent Ability Tile is only
 performed once all players understand the
 rules of the game.</seg>
@@ -11843,6 +11851,30 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T231519Z" creationid="aorin" creationdate="20171231T231519Z">
         <seg>4VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 7 Fury or smash 5 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074630Z" creationid="aorin" creationdate="20180410T074630Z">
+        <seg>7怒りを得るか、5クリスタルを砕く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 8 Fury or smash 6 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074635Z" creationid="aorin" creationdate="20180410T074635Z">
+        <seg>8怒りを得るか、6クリスタルを砕く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 9 Fury or smash 7 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074639Z" creationid="aorin" creationdate="20180410T074639Z">
+        <seg>9怒りを得るか、7クリスタルを砕く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20548,6 +20580,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223009Z" creationid="nakahodo" creationdate="20171224T223009Z">
         <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ragpicker (Easiest):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074749Z" creationid="aorin" creationdate="20180410T074749Z">
+        <seg>くず拾い（もっとも簡単）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30330,6 +30370,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can adjust the difficulty of the Ghoul as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074719Z" creationid="aorin" creationdate="20180410T074719Z">
+        <seg>次に従い、グールの難易度レベルを調整できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also get a few bonus coins based on where you built structures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T100257Z" creationid="nakahodo" creationdate="20180209T100257Z">
@@ -30786,6 +30834,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You lose if the Cave collapses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074709Z" creationid="aorin" creationdate="20180410T074709Z">
+        <seg>洞窟が崩壊を達成した場合、敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may Craft without spending an action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
@@ -31140,8 +31196,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may target your current space with Flare, spending 1 movement point each time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180410T074449Z" creationid="aorin" creationdate="20180410T074449Z">
-        <seg>グールは1移動力ポイントを消費するたびに、現在のスペースをフレアの対象にできます。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074510Z" creationid="aorin" creationdate="20180410T074449Z">
+        <seg>あなたは1移動力ポイントを消費するたびに、現在のスペースをフレアの対象にできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31478,6 +31534,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065720Z" creationid="nakahodo" creationdate="20180311T065720Z">
         <seg>あなたはロボタニストたちのグループを制御し、クイーンのガーデンを構築するために対戦相手を出し抜きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you gain enough Fury or smash enough Crystals, and then escape the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T074551Z" creationid="aorin" creationdate="20180410T074506Z">
+        <seg>あなたは十分な数の怒りを貯めるかクリスタルを砕き、その後、洞窟を脱出すると勝利します。</seg>
       </tuv>
     </tu>
     <tu>
