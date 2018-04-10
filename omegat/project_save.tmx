@@ -8668,6 +8668,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decades? Now, interlopers are no mere prey to be spooked and scared away with bared claws and an ancient blade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075619Z" creationid="aorin" creationdate="20180410T075619Z">
+        <seg>それとももっと？　今、侵入者は古びた刃と下劣の爪に怯えて震えるだけの獲物でしかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decide for the Automa, but the Automa receives 1 glory, regardless of the choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110333Z" creationid="nakahodo" creationdate="20180108T110333Z">
@@ -17435,6 +17443,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110040Z" creationid="nakahodo" creationdate="20180108T110040Z">
         <seg>なにも変更しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, the Vile Ghoul needs more, seeks more, wants more decorations for its home and food for its belly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075820Z" creationid="aorin" creationdate="20180410T075820Z">
+        <seg>タりナィ。ヴァイルグールはもっと必要で、もっと漁り、もっとホームを骨で飾り、腹を膨らませたがっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27276,6 +27292,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145614Z" creationid="nakahodo" creationdate="20171230T145614Z">
         <seg>このカードは、「セットアップ―非アクティブチャーターカード」カードに置き換えられ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This creature has grown quite at home in the Cave, in the—how long has it been now? Years?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T075625Z" creationid="aorin" creationdate="20180410T075444Z">
+        <seg>このクリーチャーは洞窟をホームとして成長してきました――どれだけの月日？　年数を？</seg>
       </tuv>
     </tu>
     <tu>
