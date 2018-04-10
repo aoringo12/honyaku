@@ -24943,6 +24943,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vile Ghoul draws a Terror card each time it successfully attacks or collects 2 Treasures or Dragon Gems (not every other time, as the Ghoul does).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T094807Z" creationid="aorin" creationdate="20180410T094807Z">
+        <seg>バイルグールは攻撃が成功する[または]トレジャーかドラゴンジェム2つを収集するたびに、恐怖カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vile Ghoul is a player role that replaces the Goblins and focuses on killing the Knight, Dragon, or Unicorn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T130729Z" creationid="aorin" creationdate="20180409T130729Z">
