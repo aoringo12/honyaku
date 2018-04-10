@@ -1531,6 +1531,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Nightmare Unicorn Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104103Z" creationid="aorin" creationdate="20180410T104103Z">
+        <seg>1ナイトメアユニコーンカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 PLAYER / SOLO</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024145Z" creationid="aorin" creationdate="20180408T024145Z">
@@ -1551,6 +1559,22 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123500Z" creationid="nakahodo" creationdate="20180406T123425Z">
         <seg>1リファレンスカード（”幽霊を止めろ”）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Shadow Unicorn Board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104109Z" creationid="aorin" creationdate="20180410T104109Z">
+        <seg>1シャドウユニコーンボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Unicorn Reference Card (“Attacking the Unicorn”)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104155Z" creationid="aorin" creationdate="20180410T104155Z">
+        <seg>1ユニコーンリファレンスカード（”ユニコーンを攻撃する”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2249,6 +2273,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Tracking Cubes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104116Z" creationid="aorin" creationdate="20180410T104116Z">
+        <seg>2記録キューブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Move and Act During this phase, you can move and use Telekinesis in any order and combination.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134615Z" creationid="nakahodo" creationdate="20180406T134615Z">
@@ -2330,6 +2362,14 @@ assistant - sherpa</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042315Z" creationid="nakahodo" creationdate="20171224T213336Z">
         <seg>21 - Extract card~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>21 Unicorn Cubes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104124Z" creationid="aorin" creationdate="20180410T104124Z">
+        <seg>21ユニコーンキューブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2628,6 +2668,14 @@ tome of peace</seg>
       <tuv lang="JA" changeid="aorin" changedate="20171231T143517Z" creationid="aorin" creationdate="20171231T143517Z">
         <seg>239
 tome pf prosperity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24 Unicorn Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104055Z" creationid="aorin" creationdate="20180410T104055Z">
+        <seg>24ユニコーンカード</seg>
       </tuv>
     </tu>
     <tu>
@@ -3106,6 +3154,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023348Z" creationid="aorin" creationdate="20180408T023337Z">
         <seg>3プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Unicorn Pieces (Standee, Meeple, Miniature)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104048Z" creationid="aorin" creationdate="20180410T104048Z">
+        <seg>3ユニコーンピース（スタンド、ミープル、ミニチュア）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16925,6 +16981,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like the Dragon, the Unicorn wants to escape the Cave, but rather than needing to wake up, the Nightmare Unicorn must siphon power from the Cave by exploring it and from other players by getting angry and attacking them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T105429Z" creationid="aorin" creationdate="20180410T105429Z">
+        <seg>ドラゴンのように、ユニコーンは洞窟を脱出するのが目的ですが、目覚めるのではなく、ナイトメアユニコーンは洞窟を探索し、他のプレイヤーを苛立たせたり攻撃したりすることで洞窟からパワーを吸い上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like with the other cards, you can spend a special victory card from your hand for its suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210043Z" creationid="aorin" creationdate="20171215T210043Z">
@@ -24811,6 +24875,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031015Z" creationid="aorin" creationdate="20171212T031015Z">
         <seg>ミントトークン全てをプランサプライ近くに配置してミントサプライを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Nightmare Unicorn is a player role that replaces the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180410T104231Z" creationid="aorin" creationdate="20180410T104231Z">
+        <seg>ナイトメアユニコーンはプレイヤーロールとしてドラゴンと置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
