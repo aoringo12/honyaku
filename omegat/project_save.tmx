@@ -4457,6 +4457,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe can enter your space only if its Strength is greater than your Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094921Z" creationid="nakahodo" creationdate="20180411T094921Z">
+        <seg>ゴブリン部族は、その筋力があなたのアーマーを超える場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Goblin Tribe can enter your space only if its Strength is greater than your Defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232101Z" creationid="aorin" creationdate="20180409T232101Z">
@@ -5402,6 +5410,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T230834Z" creationid="aorin" creationdate="20180409T230834Z">
         <seg>攻撃、ショット、下記に示す効果を解決した後、特に記述がない限り、あなたは直ちに飛び退きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After resolving the attack, you are forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094704Z" creationid="nakahodo" creationdate="20180411T094704Z">
+        <seg>攻撃を解決した後、あなたは強制的にテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8263,6 +8279,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114934Z" creationid="aorin" creationdate="20180410T114934Z">
         <seg>透明は強制テレポート時に公開するカードの枚数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Claw counts as eating 1 Goblin, Scratch counts as eating 3 Goblins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095040Z" creationid="nakahodo" creationdate="20180411T095040Z">
+        <seg>クロウはゴブリン1匹を食べたとして、叩き潰すは3匹食べたとしてカウントします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13978,6 +14002,22 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If her Strength is equal, she must roll the Dragon die, and the attack succeeds only if the die affects the center space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094854Z" creationid="nakahodo" creationdate="20180411T094854Z">
+        <seg>筋力が等しい場合、彼女はドラゴンダイスをロールし、中央スペースに影響を与える場合にのみ、攻撃は成功します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If her Strength is greater, the attack succeeds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094814Z" creationid="nakahodo" creationdate="20180411T094814Z">
+        <seg>筋力が超えている場合、攻撃は成功します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If infiuence is listed as a cost (e.g., to use a building), discard an infiuence token to the general supply unless the building's benefit indicates a specific use of the infiuence token (e.g.,</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150851Z" creationid="nakahodo" creationdate="20171218T150610Z">
@@ -14232,8 +14272,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If she enters your space, she attacks you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T231143Z" creationid="aorin" creationdate="20180409T231143Z">
-        <seg>あなたのスペースにナイトが入った場合、あなたを攻撃します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094802Z" creationid="aorin" creationdate="20180409T231143Z">
+        <seg>あなたのスペースにナイトが入った場合、あなたを攻撃してきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15263,6 +15303,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T011838Z" creationid="aorin" creationdate="20180410T011828Z">
         <seg>マグマ上でターンが終了した場合、あなたは飛び退きますが、それ以外の効果は受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you enter a space with a Flame Wall, you are forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095057Z" creationid="nakahodo" creationdate="20180411T095057Z">
+        <seg>炎の壁を持つスペースにあなたが入った場合、あなたは強制的にテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24725,6 +24773,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dragon can enter your space freely, and he can freely attack you with Claw or Scratch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095009Z" creationid="nakahodo" creationdate="20180411T095009Z">
+        <seg>ドラゴンはあなたのスペースに自由に入ることができ、クロウか叩き潰すにて攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dragon discards 1 / 2 / 3 Power cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T084331Z" creationid="nakahodo" creationdate="20180411T084331Z">
@@ -25235,6 +25291,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
         <seg>マルキス・デ・キャットのキープは全ての民が住んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight can enter your space only if her Strength is equal to or greater than your Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094754Z" creationid="nakahodo" creationdate="20180411T094754Z">
+        <seg>ナイトはその筋力があなたのアーマー以上の場合にのみ、あなたのスペースに入れます。</seg>
       </tuv>
     </tu>
     <tu>
