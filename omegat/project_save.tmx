@@ -19094,8 +19094,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Other changes and clarifications to rules for other players are listed below:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095609Z" creationid="nakahodo" creationdate="20180411T095609Z">
-        <seg>Other changes and clarifications to rules for other players are listed below:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T100147Z" creationid="nakahodo" creationdate="20180411T095609Z">
+        <seg>その他の他プレイヤールールへの変更と明確化は下記になります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22976,6 +22976,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She may shoot you with the Enchanted Bow to force you to discard Unicorn cards, as if shooting the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T100148Z" creationid="nakahodo" creationdate="20180411T100148Z">
+        <seg>She may shoot you with the Enchanted Bow to force you to discard Unicorn cards, as if shooting the Dragon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She passes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072443Z" creationid="aorin" creationdate="20180115T072443Z">
@@ -25347,6 +25355,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T100028Z" creationid="nakahodo" creationdate="20180411T100028Z">
         <seg>The Knight may complete her Daring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight may complete her Daring Sidequest by attacking you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T100218Z" creationid="nakahodo" creationdate="20180411T100057Z">
+        <seg>ナイトはあなたを攻撃することで大胆サイドクエストを達成できます。</seg>
       </tuv>
     </tu>
     <tu>
