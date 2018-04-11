@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Thus, you do not gain Radiance by doing so.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T073749Z" creationid="nakahodo" creationdate="20180411T073749Z">
+        <seg>（したがって、これにより輝きを得ることはありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Tiles added or removed during the Shape the Cave phase do not need to be in surrounding spaces.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T044559Z" creationid="aorin" creationdate="20180408T044559Z">
