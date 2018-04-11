@@ -26726,6 +26726,14 @@ least one bean.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other spaces correspond to the surrounding spaces, and the marked space indicates the destination space of the Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T195010Z" creationid="nakahodo" creationdate="20180411T195010Z">
+        <seg>他の位置は周囲スペースと、テレポートする行き先を示すためにマークされたスペースになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pile of your wooden discs, which represent your workers, is referred to as your reserve (note that we have included 2 extra discs in the game for each player, as replacements in case you lose any – these extras are not part of your reserve).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T192134Z" creationid="aorin" creationdate="20180114T192119Z">
@@ -30201,6 +30209,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When Teleporting, orient the chosen card so the arrow (^) above the grid points in the same direction as the facing of your piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T195532Z" creationid="nakahodo" creationdate="20180411T195532Z">
+        <seg>テレポートする時、あなたのピースの方向と同じになるよう、カードグリッド上の矢印（^）を回転させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a Deed type Plan is built, the corresponding Location becomes open (flip it over to its ‘open’ side), the player with this deed is considered the Owner of that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034235Z" creationid="aorin" creationdate="20171212T034235Z">
@@ -30659,6 +30675,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T140312Z" creationid="nakahodo" creationdate="20171230T140312Z">
         <seg>我々が再度面会する時、私の精神、身体、魂の遺産を受け継ぐ名誉を、お前たちの1人に授けるだろう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you Teleport, pick up your piece and place it on the destination space, without changing your piece’s orientation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T195639Z" creationid="nakahodo" creationdate="20180411T195639Z">
+        <seg>そして、あなたのプレイヤーピースを取り、ピース方向を選択する事なく、指示されたスペースに配置します。</seg>
       </tuv>
     </tu>
     <tu>
