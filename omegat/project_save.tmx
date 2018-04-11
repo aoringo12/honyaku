@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(All Dark tiles are provided by the Cave player, if present.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201523Z" creationid="nakahodo" creationdate="20180411T201440Z">
+        <seg>（洞窟プレイヤーがいる場合、全てのダークタイルは彼から提供されます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird cards are wild, so you can always gift bird cards.) Then, for each card you give, you may take one item from above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082657Z" creationid="aorin" creationdate="20171216T082657Z">
@@ -7343,6 +7351,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before the Collapse, you can use the Teleport action to move to an open space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201240Z" creationid="nakahodo" creationdate="20180411T201240Z">
+        <seg>崩壊前、あなたはテレポートアクションを使用して空きスペースに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
@@ -9375,6 +9391,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not gain Anger, even if the played cards show angry actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200924Z" creationid="nakahodo" creationdate="20180411T200924Z">
+        <seg>たとえプレイされたカードに憤りアクションがあったとしても、憤りを得られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not include Automa charters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110604Z" creationid="nakahodo" creationdate="20180108T110604Z">
@@ -9791,6 +9815,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T044507Z" creationid="aorin" creationdate="20180408T044507Z">
         <seg>崩壊時、憎悪で取り除こうとするタイルは、依然として触れているタイルの数をベースとした通常ルールに従いつつ、それらも周囲スペース内にある必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Collapse, you cannot use the Teleport action to move to open spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201550Z" creationid="nakahodo" creationdate="20180411T201550Z">
+        <seg>崩壊中、あなたはテレポートアクションを使用して空きスペースに移動できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15471,6 +15503,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151044Z" creationid="aorin" creationdate="20171215T151044Z">
         <seg>戦士をもたない場合、影響を受けた空き地からあなたの選択した別のあなたのコンポーネント1つを取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have only one card in your hand, you cannot perform the Teleport action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201011Z" creationid="nakahodo" creationdate="20180411T201011Z">
+        <seg>あなたの手札にカードが一枚のみの場合、テレポートアクションは実行できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28986,6 +29026,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Though you play two cards to Teleport, it costs only one action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201153Z" creationid="nakahodo" creationdate="20180411T201153Z">
+        <seg>テレポートのためにカードを2枚プレイしても、コストはアクション1回分のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Three or more players:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131827Z" creationid="nakahodo" creationdate="20180406T131827Z">
@@ -30795,6 +30843,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
         <seg>得点フェイズ時にこれらを制御していた場合、VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you do, you must place a Dark tile there, connect that space to the map using the fewest possible Dark tiles, reveal the destination Dark tile, and then place your piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201443Z" creationid="nakahodo" creationdate="20180411T201439Z">
+        <seg>そうした場合、そこにダークタイルを配置し、そのスペースから可能な限り少なくダークタイルを使用してマップに接続し、指示されたダークタイルを明らかにして、その後、そこにあなたのピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
