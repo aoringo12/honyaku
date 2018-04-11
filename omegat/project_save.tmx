@@ -15019,6 +15019,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot orient the tile so you can move out of it, you stop moving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080223Z" creationid="nakahodo" creationdate="20180411T080223Z">
+        <seg>あなたが移動できるようにタイルを配置できない場合、そこであなたの移動は停止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot place a warrior, you fall into turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002307Z" creationid="aorin" creationdate="20171216T002229Z">
@@ -15103,6 +15111,22 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215451Z" creationid="aorin" creationdate="20171215T215451Z">
         <seg>あなたが支配していない空き地の場合、あなたが支配する[または]支配者のいない[または]入ることであなたが支配できる隣接空き地にのみ、戦士たちを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you end a Move on a Crystal tile that does not hold a Unicorn cube, you may place a Unicorn cube on it to gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080448Z" creationid="nakahodo" creationdate="20180411T080448Z">
+        <seg>あなたがユニコーンキューブを保持するクリスタルタイルで移動を終了する場合、ユニコーンキューブをそこに配置して、1輝きを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you end a Move on a space with a Treasure token, you may collect it to gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080612Z" creationid="nakahodo" creationdate="20180411T080612Z">
+        <seg>トレジャートークンのあるスペースで移動を終了する場合、これを収集して1輝き得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15223,6 +15247,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224213Z" creationid="aorin" creationdate="20171231T224213Z">
         <seg>あなたがこれあミニオンのルールを解放していない場合、インデックスからカード227、234、278、297、309、332を引き出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you haven’t finished your Move, you must also orient this tile so you can move into the next space in a straight line, if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080146Z" creationid="nakahodo" creationdate="20180411T080146Z">
+        <seg>あなたが移動をまだ完了していない場合、可能な限り、直線にして次のスペースにあなたが移動できるようにそのタイルを回転させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18936,6 +18968,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055134Z" creationid="aorin" creationdate="20171216T055134Z">
         <seg>暴動はマルキスがリクルートアクションを実行するたび、隠れ家が取り除かれるたびに上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outside your turn, you cannot mark Crystal tiles with cubes or collect Treasures, so you cannot gain Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080722Z" creationid="nakahodo" creationdate="20180411T080722Z">
+        <seg>あなたのターン外では、キューブを持つクリスタルタイルをマーキングやトレジャーを収集できないので、輝きを得られません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23786,6 +23826,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110217Z" creationid="nakahodo" creationdate="20180108T110217Z">
         <seg>一時ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TURN</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080724Z" creationid="nakahodo" creationdate="20180411T080724Z">
+        <seg>ターン</seg>
       </tuv>
     </tu>
     <tu>
@@ -28918,6 +28966,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn your piece in the direction shown on the played card by your choice of 90° or 180°.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T081209Z" creationid="nakahodo" creationdate="20180411T081209Z">
+        <seg>90°か180°を選択して、プレイしたカードに示される方向に、あなたのピースを方向転換させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turning Silver into Gold</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041705Z" creationid="aorin" creationdate="20171213T041705Z">
@@ -30603,6 +30659,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T075915Z" creationid="nakahodo" creationdate="20180411T075915Z">
         <seg>ダークタイルに入るたびに、それが明らかにされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you enter a space that holds another player piece, you immediately attack it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080319Z" creationid="nakahodo" creationdate="20180411T080319Z">
+        <seg>あなたが他プレイヤーピースを保持するすペースに入るたびに、あなたはそれを直ちに攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
