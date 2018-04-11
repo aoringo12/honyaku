@@ -22992,6 +22992,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She may use the Mighty Axe for the Strength bonus, but cannot discard a Hero cube to increase damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T192127Z" creationid="nakahodo" creationdate="20180411T192127Z">
+        <seg>マイティアックスを使用して筋力ボーナスを得られますが、ダメージを増加させるためにヒーローキューブを破棄することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She passes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072443Z" creationid="aorin" creationdate="20180115T072443Z">
@@ -24724,6 +24732,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave may target you with Soporific</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T192659Z" creationid="nakahodo" creationdate="20180411T192659Z">
+        <seg>洞窟はっk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave wins if it collapses.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073413Z" creationid="aorin" creationdate="20180410T073413Z">
@@ -25291,6 +25307,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232249Z" creationid="aorin" creationdate="20180409T232249Z">
         <seg>ゴブリンたちは1怒りを得て（1失う代わりに）、部族は散りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Goblins may target you with Hex to force you to discard cards, as if targeting the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T192721Z" creationid="nakahodo" creationdate="20180411T192244Z">
+        <seg>ゴブリンたちはヘキサの対象をあなたにすることで、あたかもドラゴンのように強制的にカードを破棄させることができます。</seg>
       </tuv>
     </tu>
     <tu>
