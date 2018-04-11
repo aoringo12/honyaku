@@ -5438,6 +5438,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the Thief moves 1 space away, you are forced to Teleport, but you do not gain Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T090851Z" creationid="nakahodo" creationdate="20180411T090827Z">
+        <seg>シーフが1スペース離れて移動した後、あなたは強制的にテレポートしますが、輝きを得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the defender takes hits, the attacker may play one ambush card matching the clearing of battle to immediately deal one unpreventable hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222757Z" creationid="aorin" creationdate="20171215T222749Z">
@@ -14278,6 +14286,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Goblins have the Trap card face-up and choose to discard it, the targeted Tribe ignores the attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T090511Z" creationid="nakahodo" creationdate="20180411T090511Z">
+        <seg>コブリンたちがトラップカードを表にしてそれを捨て札にする選択をした場合、対象にされた部族は攻撃を無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Goblins player gets an Artifact during setup, the Artifact starts the game off the map, and it is given to the first Tribe to reveal.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T234055Z" creationid="aorin" creationdate="20180407T234055Z">
@@ -14298,6 +14314,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050535Z" creationid="aorin" creationdate="20180408T050535Z">
         <seg>自身のプレイヤーボードの過去の略奪品スペースに前兆トークン6つ以上がある場合、（全てではなく）バッグに前兆トークン6つを戻し、プレイヤーピースやトレジャートークンがないダークタイルにトレジャートークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Thief has the Unnatural Evasion upgrade and rolls successfully, he ignores the attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T090834Z" creationid="nakahodo" creationdate="20180411T090800Z">
+        <seg>シーフが不自然な回避アップグレードを持ち、ロールが成功した場合、彼が攻撃を無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18984,6 +19008,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100842Z" creationid="nakahodo" creationdate="20180108T100842Z">
         <seg>他のカードは、それぞれのデッキの捨て札山に追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other clarifications to attacking players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T090408Z" creationid="nakahodo" creationdate="20180411T090408Z">
+        <seg>プレイヤーを攻撃することの明確化：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30391,6 +30423,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you attack the [Vile] Ghoul, you are forced to Teleport after it skitters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T091129Z" creationid="nakahodo" creationdate="20180411T091129Z">
+        <seg>あなたがバイルグールを攻撃した時、対象が飛び退いた後、強制的にテレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you attack, deal the following effect:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211552Z" creationid="aorin" creationdate="20180409T211552Z">
@@ -31566,6 +31606,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000751Z" creationid="aorin" creationdate="20180101T000751Z">
         <seg>あなたは今、あなたの身体に凄み、魂から力を得る不滅の独裁者のポーンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are still forced to Teleport, but you do not gain Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T090534Z" creationid="nakahodo" creationdate="20180411T090534Z">
+        <seg>あなたは強制的にテレポートしますが、輝きを得ません。</seg>
       </tuv>
     </tu>
     <tu>
