@@ -2321,6 +2321,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083618Z" creationid="nakahodo" creationdate="20180411T083618Z">
+        <seg>2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Move and Act During this phase, you can move and use Telekinesis in any order and combination.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134615Z" creationid="nakahodo" creationdate="20180406T134615Z">
@@ -6768,6 +6776,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083753Z" creationid="nakahodo" creationdate="20180411T083753Z">
+        <seg>攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking or being attacked by another player is option.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
@@ -9083,6 +9099,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082532Z" creationid="aorin" creationdate="20180409T082532Z">
         <seg>影響力の数だけユニコーンカードを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard all Unicorn cards in your hand, then draw cards equal in number to your Spirit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083657Z" creationid="nakahodo" creationdate="20180411T083657Z">
+        <seg>あなたの手札のユニコーンカード全てを破棄し、その後、魂の数に等しいだけカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13732,6 +13756,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T231209Z" creationid="aorin" creationdate="20180407T231209Z">
         <seg>メンタルブロックスペースに二枚目のカードが追加される場合、前のカードは憑依デッキに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a space holds multiple players, you choose which one to attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083926Z" creationid="nakahodo" creationdate="20180411T083926Z">
+        <seg>複数プレイヤーたちを保持するスペースの場合、1体を選択して攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27312,6 +27344,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, reset your Anger to 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083752Z" creationid="nakahodo" creationdate="20180411T083752Z">
+        <seg>その後、憤りを1にリセットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, resolve the Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002051Z" creationid="aorin" creationdate="20171216T002051Z">
@@ -31103,6 +31143,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever your Unicorn deck is empty, shuffle the discard pile to form a new deck before drawing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083739Z" creationid="nakahodo" creationdate="20180411T083739Z">
+        <seg>あなたのユニコーンデッキが空になるたびに、ドローする前に捨て札山をシャッフルして新しいデッキを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When​ ​you​ ​craft​ ​an​ ​improvement,​ resolve its text, and then do the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212249Z" creationid="aorin" creationdate="20171215T212249Z">
@@ -31438,6 +31486,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221014Z" creationid="aorin" creationdate="20171215T221014Z">
         <seg>あなたがアタッカーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You attack immediately when you enter a space that holds another player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083839Z" creationid="nakahodo" creationdate="20180411T083839Z">
+        <seg>あなたが他プレイヤーピースを保持するスペース1つに入る時、直ちに攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33033,6 +33089,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073541Z" creationid="aorin" creationdate="20171216T073541Z">
         <seg>あなたの協力は戦闘時にあなたがアタッカーかディフェンダーかに関わらず、戦闘を取り除くことにより調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your attack always succeeds, regardless of the defending player’s statistics (such as Armor or Stealth).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084108Z" creationid="nakahodo" creationdate="20180411T084108Z">
+        <seg>あなたの攻撃は常に成功し、プレイヤーの防御ステータス（アーマーやステルスなど）を無視します。</seg>
       </tuv>
     </tu>
     <tu>
