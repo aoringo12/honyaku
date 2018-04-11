@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -634,6 +634,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040452Z" creationid="aorin" creationdate="20180408T040452Z">
         <seg>（他のプレイヤーのターン時にタイルを配置する場合は、クリスタルタイルである必要はありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Visibility is defined on page 5 in Vast:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T071535Z" creationid="nakahodo" creationdate="20180411T071535Z">
+        <seg>(Visibility is defined on page 5 in Vast:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23925,6 +23933,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teleport works differently, since “Teleport” is not shown on any cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T071829Z" creationid="nakahodo" creationdate="20180411T071829Z">
+        <seg>Teleport works differently, since “Teleport” is not shown on any cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123522Z" creationid="nakahodo" creationdate="20171213T123522Z">
@@ -28422,6 +28438,22 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115425Z" creationid="aorin" creationdate="20180410T115425Z">
         <seg>ターンかいどうするには、「移動」か「ターン」が示されるカードをプレイする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Move or Turn, you must play a card that shows “Move” or “Turn.” After you resolve the action, discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072005Z" creationid="nakahodo" creationdate="20180411T071553Z">
+        <seg>ターンするには、あなたは「移動」または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Teleport, you must play any two cards at once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T071843Z" creationid="nakahodo" creationdate="20180411T071843Z">
+        <seg>To Teleport, you must play any two cards at once.</seg>
       </tuv>
     </tu>
     <tu>
