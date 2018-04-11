@@ -14018,6 +14018,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If his Stealth is greater than your Armor, he can attack using Backstab by spending 3 Action cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095138Z" creationid="nakahodo" creationdate="20180411T095138Z">
+        <seg>彼のステルスがあなたのアーマーよりも高い場合、彼は3アクションキューブを消費することで不意打ちを使用してあなたを攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If infiuence is listed as a cost (e.g., to use a building), discard an infiuence token to the general supply unless the building's benefit indicates a specific use of the infiuence token (e.g.,</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T150851Z" creationid="nakahodo" creationdate="20171218T150610Z">
@@ -19080,6 +19088,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100842Z" creationid="nakahodo" creationdate="20180108T100842Z">
         <seg>他のカードは、それぞれのデッキの捨て札山に追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other changes and clarifications to rules for other players are listed below:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095609Z" creationid="nakahodo" creationdate="20180411T095609Z">
+        <seg>Other changes and clarifications to rules for other players are listed below:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25327,6 +25343,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Knight may complete her Daring</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T100028Z" creationid="nakahodo" creationdate="20180411T100028Z">
+        <seg>The Knight may complete her Daring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight must lose 1 Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
@@ -25663,6 +25687,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief can enter your space freely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095105Z" creationid="nakahodo" creationdate="20180411T095105Z">
+        <seg>シーフは自由にあなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief can enter your space only if his Stealth is greater than your Defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T003940Z" creationid="aorin" creationdate="20180410T003940Z">
@@ -25675,6 +25707,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T210812Z" creationid="aorin" creationdate="20180409T210812Z">
         <seg>シーフはスリを使用して、あなたのトレジャースペースにあるトレジャートークンを盗む事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thief cannot attack you with Pickpocket.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095146Z" creationid="nakahodo" creationdate="20180411T095146Z">
+        <seg>シーフはスリであなたを攻撃できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25846,6 +25886,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
         <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The [Vile] Ghoul may spend movement points to enter your space regardless of its Attack, but it can attack you if its number of spent Ghoul discs (Ghoul) or Attack (Vile Ghoul) is greater than your Armor (you are forced to Teleport after it skitters).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T095431Z" creationid="nakahodo" creationdate="20180411T095431Z">
+        <seg>グールは攻撃の有無に関わらず、移動力ポイントを消費してあなたのスペースに入れますが、グールはあなたのアーマーよりもグールディスクを消費して、バイルグールはあなたのアーマーよりも攻撃力が高い場合に、あなたを攻撃できます（彼が飛び退いた後で、あなたは強制的にテレポート）。</seg>
       </tuv>
     </tu>
     <tu>
