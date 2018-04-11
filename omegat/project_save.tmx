@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(These effects are cumulative.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084311Z" creationid="nakahodo" creationdate="20180411T084242Z">
+        <seg>（これら効果は累積します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(These warriors are referred to as alignment markers)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145337Z" creationid="aorin" creationdate="20171215T145337Z">
@@ -4457,6 +4465,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe scatters / +Discards a Secrets card / ++Population is reduced to 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084302Z" creationid="nakahodo" creationdate="20180411T084240Z">
+        <seg>ゴブリン部族は散る / +シークレットカード1枚を捨て札 / ++人口が0に減少します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Location must have at least one occupied space in
 order to be targeted by the Temp Agency.</seg>
       </tuv>
@@ -5200,6 +5216,14 @@ Blend Slate is full.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T084143Z" creationid="nakahodo" creationdate="20180312T084143Z">
         <seg>任意の寵愛の歯車を得た後、あなたの未使用のプログラムカードを捨て札にしたあと、ゲームボードから自身のロボタニストを全て戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After attacking, you are forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084947Z" creationid="nakahodo" creationdate="20180411T084947Z">
+        <seg>攻撃した後、あなたは強制的にテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6292,6 +6316,22 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205345Z" creationid="nakahodo" creationdate="20171218T153512Z">
         <seg>アシスタントは村のいくつかの主要機能を実行する時にボーナスを与えてくれる種類の発展カードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 3 Anger, it also discards a Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084906Z" creationid="nakahodo" creationdate="20180411T084906Z">
+        <seg>3憤りだと、恐怖カード1枚も破棄させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 3 Anger, the Thief also loses an upgrade (but keeps the Treasure token).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084840Z" creationid="nakahodo" creationdate="20180411T084840Z">
+        <seg>3憤りだと、シーフはアップグレード1つを失います（が、トレジャートークンは保持します）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15637,6 +15677,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your Anger is 3, you also gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084928Z" creationid="nakahodo" creationdate="20180411T084928Z">
+        <seg>あなたの憤りが3の場合、あなたはまた1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your Program Card's Program Die does not match any Sector Dice, the Program Die becomes wild and may represent any number.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075119Z" creationid="nakahodo" creationdate="20180311T075119Z">
@@ -24613,6 +24661,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dragon discards 1 / 2 / 3 Power cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084331Z" creationid="nakahodo" creationdate="20180411T084331Z">
+        <seg>ドラゴンはパワーカードを1 / 2 / 3枚破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dragon wins if he awakens, comes to the surface, and then escapes the Cave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073314Z" creationid="aorin" creationdate="20180410T073314Z">
@@ -25135,6 +25191,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Knight loses 1 / 3 / 5 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084144Z" creationid="nakahodo" creationdate="20180411T084144Z">
+        <seg>ナイトは1 / 3 / 5経験値を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight must lose 1 Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
@@ -25487,6 +25551,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief is killed, and you draw cards equal to his Loot Drop Level + 0 / 1 / 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084423Z" creationid="nakahodo" creationdate="20180411T084423Z">
+        <seg>シーフは殺され、ルートドロップレベルに追加して +0 / 1 / 2枚カードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief must stash 5 or 6 Treasures to win.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102124Z" creationid="aorin" creationdate="20180410T102124Z">
@@ -25646,6 +25718,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
         <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The [Vile] Ghoul skitters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084851Z" creationid="nakahodo" creationdate="20180411T084851Z">
+        <seg>バイルグールは飛び退きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30319,6 +30399,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you attack, you deal the following effect based on your Anger:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084129Z" creationid="nakahodo" creationdate="20180411T084129Z">
+        <seg>あなたが攻撃する時、あなたの憤りに基づいた次の効果を適応します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you control these during a Scoring Phase, you earn VPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
@@ -31582,6 +31670,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092013Z" creationid="aorin" creationdate="20180410T092013Z">
         <seg>攻撃力が相手の防御力ステータス（筋力、アーマー、ステルス）を超える場合にのみ、あなたのスペースにいるプレイヤーピース1体を攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can attack the same player multiple times per turn, but you only gain 1 Radiance the first time you attack that player on each turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T090339Z" creationid="nakahodo" creationdate="20180411T090339Z">
+        <seg>あなたは同じターンに同じプレイヤーを複数回攻撃できますが、各ターンでそのプレイヤーを初めて攻撃した時に限り、輝き1のみを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33646,6 +33742,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T023652Z" creationid="aorin" creationdate="20171229T023652Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084109Z" creationid="nakahodo" creationdate="20180411T084109Z">
+        <seg>p3</seg>
       </tuv>
     </tu>
     <tu>
