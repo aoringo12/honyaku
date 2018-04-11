@@ -14891,6 +14891,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are on a Crystal tile without a Unicorn cube, you may also place a Unicorn cube on it to gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T081851Z" creationid="nakahodo" creationdate="20180411T081851Z">
+        <seg>あなたがユニコーンキューブのないクリスタルタイルにいる場合、そこにユニコーンキューブ1つを配置し、1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are on a space with another player piece, you can attack the player piece by spending Ghoul discs equal to 1 + the target’s defense statistic (Strength, Armor, or Stealth).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211200Z" creationid="aorin" creationdate="20180409T211200Z">
@@ -15617,6 +15625,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
         <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your space contains a Treasure token, you may also collect it to gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083617Z" creationid="nakahodo" creationdate="20180411T083617Z">
+        <seg>あなたのスペースにトレジャートークン1つが含まれている場合、それを収集して輝き1を得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
