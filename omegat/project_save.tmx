@@ -23733,6 +23733,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spores to remove one upgrade of your choice (but you do not lose Radiance).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T193509Z" creationid="nakahodo" creationdate="20180411T193509Z">
+        <seg>Spores to remove one upgrade of your choice (but you do not lose Radiance).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spy</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053247Z" creationid="aorin" creationdate="20171216T053247Z">
