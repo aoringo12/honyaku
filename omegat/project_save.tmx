@@ -9488,6 +9488,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During an angry action, you cannot mark Crystal tiles with Unicorn cubes or collect Treasures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T073726Z" creationid="nakahodo" creationdate="20180411T073726Z">
+        <seg>憤りアクション時、あなたはユニコーンキューブのあるクリスタルタイルをマーキング[または]トレジャーの収集できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During another player’s turn, if their player piece is on the same space as the Ghost or on an adjacent space (ignore walls), that player can cause the Ghost to have a Mental Block by spending the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225335Z" creationid="aorin" creationdate="20180407T225335Z">
@@ -21248,6 +21256,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to Teleportation for more details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072244Z" creationid="nakahodo" creationdate="20180411T072244Z">
+        <seg>テレポーテーションのセクションに詳細があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to the Ghost’s Player Variants section for details.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073709Z" creationid="aorin" creationdate="20180410T073709Z">
@@ -23037,6 +23053,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some Unicorn cards show an angry action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072312Z" creationid="nakahodo" creationdate="20180411T072312Z">
+        <seg>いくつかのユニコーンカードは憤りアクションが記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some buildings have a specific type of peril token as the cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173737Z" creationid="aorin" creationdate="20171228T173737Z">
@@ -23935,8 +23959,8 @@ do not show what’s in it.</seg>
       <tuv lang="EN-US">
         <seg>Teleport works differently, since “Teleport” is not shown on any cards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T071829Z" creationid="nakahodo" creationdate="20180411T071829Z">
-        <seg>Teleport works differently, since “Teleport” is not shown on any cards.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072209Z" creationid="nakahodo" creationdate="20180411T071829Z">
+        <seg>テレポートは異なる動作をして、カードに「テレポート」とは書かれていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28444,16 +28468,16 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To Move or Turn, you must play a card that shows “Move” or “Turn.” After you resolve the action, discard the card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072005Z" creationid="nakahodo" creationdate="20180411T071553Z">
-        <seg>ターンするには、あなたは「移動」または</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072143Z" creationid="nakahodo" creationdate="20180411T071553Z">
+        <seg>移動やターンをするには、あなたは「移動」または「ターン」のカードをプレイしなければなりません。アクションを解決した後、カードを破棄します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>To Teleport, you must play any two cards at once.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T071843Z" creationid="nakahodo" creationdate="20180411T071843Z">
-        <seg>To Teleport, you must play any two cards at once.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072227Z" creationid="nakahodo" creationdate="20180411T071843Z">
+        <seg>テレポートするには、2枚のカードを1度にプレイする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30179,6 +30203,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001009Z" creationid="aorin" creationdate="20180408T001001Z">
         <seg>ゴーストまたは憑依されたプレイヤーのピースが川に入った時、あなたは直ちに、流れに沿って無料でそのピースを移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you play an angry action, first increase your Anger by 1, then perform the listed action (Move or Turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T072511Z" creationid="nakahodo" creationdate="20180411T072511Z">
+        <seg>憤りあクションをプレイする時、まずはあなたの憤りを1上昇させて、その後、記述されたアクション（移動やターン）を実行します。</seg>
       </tuv>
     </tu>
     <tu>
