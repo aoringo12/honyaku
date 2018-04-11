@@ -5438,6 +5438,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After she resolves the shot, you are forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T192021Z" creationid="nakahodo" creationdate="20180411T192021Z">
+        <seg>撃つ解決をした後、あなたは強制的にテレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After spending all day flying over the kingdom, the zeppelin sets down and the guards open the hatch for you and your companions.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T024959Z" creationid="nakahodo" creationdate="20171224T120815Z">
@@ -22978,8 +22986,8 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>She may shoot you with the Enchanted Bow to force you to discard Unicorn cards, as if shooting the Dragon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T100148Z" creationid="nakahodo" creationdate="20180411T100148Z">
-        <seg>She may shoot you with the Enchanted Bow to force you to discard Unicorn cards, as if shooting the Dragon.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T175027Z" creationid="nakahodo" creationdate="20180411T100148Z">
+        <seg>また、エンチャントボウでユニコーンを撃つことで、ドラゴンのように、ユニコーンカードを強制的に破棄させることができます。</seg>
       </tuv>
     </tu>
     <tu>
