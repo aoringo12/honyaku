@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Refer to Attacking for more details.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T074825Z" creationid="nakahodo" creationdate="20180411T074825Z">
+        <seg>（攻撃のセクションに詳細があります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080312Z" creationid="nakahodo" creationdate="20180311T080312Z">
@@ -6200,6 +6208,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you perform actions, you will have the chance to mark Crystal tiles with your Unicorn cubes and to collect Treasure tokens, both of which increase your Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T075718Z" creationid="nakahodo" creationdate="20180411T075718Z">
+        <seg>あなたがアクションを実行すると、あなたのユニコ―キューブのあるクリスタルタイルをマークしトレジャートークンを収集する機会があり、両方ともに輝きを上昇させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you place a worker in your charter, you may discard this (instead of paying the building's cost) to gain the building's benefit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T194737Z" creationid="aorin" creationdate="20171231T194737Z">
@@ -6212,6 +6228,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052051Z" creationid="aorin" creationdate="20171228T174652Z">
         <seg>あなたは、それらには膨大な力が秘められていることを気づきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As your Anger increases, your attacks deal more harm to other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T074807Z" creationid="nakahodo" creationdate="20180411T074807Z">
+        <seg>あなたの憤りが増加すると、あなたの攻撃は他プレイヤーにより多くの影響を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32769,6 +32793,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205313Z" creationid="nakahodo" creationdate="20171218T153335Z">
         <seg>あなたは、村の運営を円滑に進めるために助けを必要としてます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Anger cannot exceed 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T074834Z" creationid="nakahodo" creationdate="20180411T074834Z">
+        <seg>あなたの憤りは3を超えません。</seg>
       </tuv>
     </tu>
     <tu>
