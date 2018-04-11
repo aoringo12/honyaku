@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The attack will force you to Teleport again, so you won’t continue to the next step for this Teleport.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T195920Z" creationid="nakahodo" creationdate="20180411T195755Z">
+        <seg>（攻撃は再度強制的にテレポートさせるので、テレポートの次のステップは続行しません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The players must agree to the goal number during setup.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102210Z" creationid="aorin" creationdate="20180410T102210Z">
@@ -8196,6 +8204,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose your destination from either card, and place your piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200334Z" creationid="nakahodo" creationdate="20180411T200334Z">
+        <seg>いずれかのカードから位置を選択し、そこにあなたのピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose your difficulty level:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074600Z" creationid="aorin" creationdate="20180410T074600Z">
@@ -9427,6 +9443,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003224Z" creationid="aorin" creationdate="20171216T003224Z">
         <seg>それ以上の法令は実行せず、夜へとスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not perform the actions listed on these cards (Move or Turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200854Z" creationid="nakahodo" creationdate="20180411T200854Z">
+        <seg>これらカードに記述されたアクションは実行できません（移動やターン）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11417,6 +11441,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003138Z" creationid="aorin" creationdate="20171216T003138Z">
         <seg>最後に、あなたのターンを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, only during your turn, if you are on a Crystal tile without a Unicorn cube, you may place a Unicorn cube to gain 1 Radiance, and if you are on a space with a Treasure token, you may collect it to gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200044Z" creationid="nakahodo" creationdate="20180411T200044Z">
+        <seg>最後に、あなたのターン時にのみ、ユニコーンキューブのないクリスタルタイルにいた場合、そこにユニコーンキューブを配置して輝き1を得ることができます。そこにトレジャートークンがある場合、これを収集して輝き1を得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15909,6 +15941,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore the destination on the other card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200350Z" creationid="nakahodo" creationdate="20180411T200350Z">
+        <seg>もう一方のカードの指示は無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediately add 1 worker to your recruitment pool (taken from your reserve).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212814Z" creationid="aorin" creationdate="20180114T212814Z">
@@ -18195,6 +18235,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134741Z" creationid="aorin" creationdate="20180409T134708Z">
         <seg>次に、ダイス2つを選択し、3つめのダイスは脇に置いてきおきます（これはこのターンに使用しません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, if you are on a Dark tile, reveal it as if you had moved into it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T195733Z" creationid="nakahodo" creationdate="20180411T195733Z">
+        <seg>そこがダークタイルだった場合、移動したかのように、タイルを明らかにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24054,6 +24102,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE TELEPORT ACTION</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200050Z" creationid="nakahodo" creationdate="20180411T200050Z">
+        <seg>テレポートアクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE VOTE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113350Z" creationid="nakahodo" creationdate="20171001T113350Z">
@@ -27700,6 +27756,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134225Z" creationid="nakahodo" creationdate="20180406T134225Z">
         <seg>その後、未公開カードがゴーストカードだった場合、あなたはこれを公開し、自身のターンが終了するまで、移動力と影響力に記述されたボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, if your space holds another player piece, you attack it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T195814Z" creationid="nakahodo" creationdate="20180411T195754Z">
+        <seg>その後、あなたのスペースに他プレイヤーピースが保持されていた場合、これを攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32134,6 +32198,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083212Z" creationid="aorin" creationdate="20171216T083212Z">
         <seg>あなたは隠れ家がある空き地にいる間でのみ、このアクションを使用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can perform the Teleport action by playing two cards at once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T200312Z" creationid="nakahodo" creationdate="20180411T200312Z">
+        <seg>あなたは一度にカード二枚をプレイすることにより、テレポートアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
