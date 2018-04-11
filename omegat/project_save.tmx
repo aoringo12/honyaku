@@ -10112,6 +10112,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Unicorn card shows a grid with the Unicorn in the center space, which is your current space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T194907Z" creationid="nakahodo" creationdate="20180411T194907Z">
+        <seg>各ユニコーンカードは、あなたの現在位置を示す中央スペースにユニコーンを持つグリッドで表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each action lists its cost in supporters, which must come from the same forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053154Z" creationid="aorin" creationdate="20171216T053154Z">
@@ -13844,6 +13852,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001441Z" creationid="aorin" creationdate="20180408T001441Z">
         <seg>憑依されたプレイヤーピースがキノコの森に入った場合、直ちに憑依ターンは終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a rule refers to “Teleport” alone without stating “the Teleport action” or “forced to Teleport,” the rule refers to both cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T194348Z" creationid="nakahodo" creationdate="20180411T194348Z">
+        <seg>ルールが「テレポートアクション」や「強制的にテレポート」から始まらず単に「テレポート」と指示する場合、そのルールは両方に当てはまります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24317,6 +24333,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teleportation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T193933Z" creationid="nakahodo" creationdate="20180411T193933Z">
+        <seg>テレポーテーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123522Z" creationid="nakahodo" creationdate="20171213T123522Z">
@@ -24708,6 +24732,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave cannot affect you with Giant Bats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T193929Z" creationid="nakahodo" creationdate="20180411T193929Z">
+        <seg>洞窟はジャイアントバッドであなたに影響を与えられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave collapses when 3 Crystal tiles have been removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082145Z" creationid="aorin" creationdate="20180408T161106Z">
@@ -24744,6 +24776,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T192659Z" creationid="nakahodo" creationdate="20180411T192659Z">
         <seg>洞窟はっk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cave may target you with Soporific Spores to remove one upgrade of your choice (but you do not lose Radiance).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T193846Z" creationid="nakahodo" creationdate="20180411T193846Z">
+        <seg>洞窟はあなたを催眠胞子の対象にして、あなたが選択したアップグレード1つを取り除けます（が、輝きは失いません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25811,6 +25851,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211802Z" creationid="aorin" creationdate="20180409T211802Z">
         <seg>部族は散ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn can Teleport, moving from one space to another while ignoring all walls, effects, and player pieces on spaces in between.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T194046Z" creationid="nakahodo" creationdate="20180411T194046Z">
+        <seg>ユニコーンはテレポートにより、間のプレイヤーピース、効果、壁を全て無視して1つのスペースから、別のスペースへと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27887,6 +27935,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T080402Z" creationid="nakahodo" creationdate="20180312T080402Z">
         <seg>これらはガーデンの2つのガーデンセクターに一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two ways to Teleport:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T194103Z" creationid="nakahodo" creationdate="20180411T194103Z">
+        <seg>2つの方法でテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34446,6 +34502,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205649Z" creationid="nakahodo" creationdate="20171218T165300Z">
         <seg>あなたのターンにて、いずれかを選択して行います。（a）ボード上の任意の建物の上に、個人サプライからワーカー1つを配置する、または（b）ボードからワーカーたちを全て回収する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you can use the Teleport action, and you can be forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T194118Z" creationid="nakahodo" creationdate="20180411T194118Z">
+        <seg>テレポートアクションを使用するか、強制的にテレポートするかです。</seg>
       </tuv>
     </tu>
     <tu>
