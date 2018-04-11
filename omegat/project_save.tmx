@@ -5990,6 +5990,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An attack resolves before marking Crystal tiles or collecting Treasures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T091324Z" creationid="nakahodo" creationdate="20180411T091324Z">
+        <seg>攻撃はクリスタイルタイルのマーキングやトレジャーの収集の前に解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An important part of Game 1 is for each player to use the Charterstone building.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031531Z" creationid="nakahodo" creationdate="20171224T142407Z">
@@ -7275,6 +7283,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231717Z" creationid="aorin" creationdate="20171215T231636Z">
         <seg>アタッカーとディフェンダーは同時にヒットを受けるので、ヴァガボンドの&lt;ソード&gt;は消耗と同時に壊せます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because you are forced to Teleport immediately after attacking, you cannot mark your tile or collect Treasures there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T091431Z" creationid="nakahodo" creationdate="20180411T091431Z">
+        <seg>なぜなたら、攻撃の後に強制的にテレポートするからで、そうなるとあなたはタイルのマーキングやトレジャーの収集ができません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14358,6 +14374,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the attacker has the victory condition of killing you, the attack causes you to lose 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T094649Z" creationid="nakahodo" creationdate="20180411T094649Z">
+        <seg>攻撃者が勝利条件にあなたを殺すことを持つ場合、攻撃はあなたのヘルスを1減少させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the candle burned out on a player's turn, open crate 0.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000653Z" creationid="aorin" creationdate="20180101T000653Z">
@@ -19032,6 +19056,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
         <seg>他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other players may choose to attack you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T091448Z" creationid="nakahodo" creationdate="20180411T091448Z">
+        <seg>他のプレイヤーたちはあなたを攻撃の対象にできます。</seg>
       </tuv>
     </tu>
     <tu>
