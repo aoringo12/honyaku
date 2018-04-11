@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Refer to Radiance and Upgrades for more details.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T075743Z" creationid="nakahodo" creationdate="20180411T075743Z">
+        <seg>（輝きとアップグレードのセクションに詳細があります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080312Z" creationid="nakahodo" creationdate="20180311T080312Z">
@@ -17774,6 +17782,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move your piece forward (in the direction you are facing) by the number of spaces listed on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T075827Z" creationid="nakahodo" creationdate="20180411T075827Z">
+        <seg>カードに記述されているスペース数まで、（あなたが向いている方向に）ピースを前進させて移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move, Turn, and Teleport.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115314Z" creationid="aorin" creationdate="20180410T115314Z">
@@ -30239,6 +30255,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you orient this tile, you must connect an open edge to the tile from which you entered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T080032Z" creationid="nakahodo" creationdate="20180411T080032Z">
+        <seg>このタイルが回転する時、あなたが入ってきた側面に開いた側面を合わせるように接続する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you play an angry action, first increase your Anger by 1, then perform the listed action (Move or Turn).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T072511Z" creationid="nakahodo" creationdate="20180411T072511Z">
@@ -30571,6 +30595,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224850Z" creationid="aorin" creationdate="20180409T224850Z">
         <seg>あなたが恐怖カード1枚をドローするたびに、自身のプレイヤーボードの近くに表向きにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you enter a Dark tile, reveal it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T075915Z" creationid="nakahodo" creationdate="20180411T075915Z">
+        <seg>ダークタイルに入るたびに、それが明らかにされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32414,6 +32446,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082713Z" creationid="aorin" creationdate="20180409T082713Z">
         <seg>アーティファクト6つをロックしなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must move as many spaces as possible, up to the listed distance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T075857Z" creationid="nakahodo" creationdate="20180411T075857Z">
+        <seg>あなたは、示される距離まで、可能な限り多くのスペースを移動する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
