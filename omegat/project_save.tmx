@@ -7383,6 +7383,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before the Collapse, if no Dark tiles were revealed during your turn, place 1 Dark tile on the map adjacent to any other tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114042Z" creationid="nakahodo" creationdate="20180412T114042Z">
+        <seg>崩壊前、あなたのターン時にダークタイルが明らかにされなかった場合、任意の別のタイルに隣接するよう、マップにダークタイル1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before the Collapse, you can use the Teleport action to move to an open space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T201240Z" creationid="nakahodo" creationdate="20180411T201240Z">
@@ -9503,6 +9511,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not move any of the Dragon’s Hunger cubes to Wakefulness during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114443Z" creationid="nakahodo" creationdate="20180412T114443Z">
+        <seg>セットアップ時、任意のドラゴンの飢えキューブを覚醒に移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not move any of the Dragon’s Hunger cubes to Wakefulness.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101749Z" creationid="aorin" creationdate="20180410T101744Z">
@@ -9819,6 +9835,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During setup, if everyone agrees, one player may change their victory condition to “Kill the Nightmare Unicorn by reducing his Health to 0.” Players who do not have this victory condition can still attack the Unicorn, but their attacks only force him to Teleport, not to lose Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114623Z" creationid="nakahodo" creationdate="20180412T114623Z">
+        <seg>セットアップ時、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During setup, place all Artifact tokens on the Entrance tile, and form the Possession deck as described in Possession in Two-Player and Solo Games (page 4).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023857Z" creationid="aorin" creationdate="20180408T023857Z">
@@ -9847,6 +9871,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
         <seg>消耗ステージ時、任意の自身の制御している地域が、自身の現在制御している首都や都市から、制御している地域続きで接続されているかどうかを確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Collapse, instead remove 3 tiles, regardless of whether tiles were revealed during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114247Z" creationid="nakahodo" creationdate="20180412T114247Z">
+        <seg>崩壊中、あなたのターン時にタイルが明らかにされたかどうか関わらず、タイル3枚を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16513,6 +16545,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In games without the Cave [Ghost], modify the standard rules for placing and removing tiles at the end of each player’s turn as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113956Z" creationid="nakahodo" creationdate="20180412T113956Z">
+        <seg>洞窟（またはゴースト）がいないゲームでは、次にしたがい、各プレイヤーのターン終了時のタイルの配置と取り除き基本ルールに変更を加えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games without the Cave player, make the following changes:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T012608Z" creationid="aorin" creationdate="20180410T012608Z">
@@ -18218,6 +18258,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045307Z" creationid="aorin" creationdate="20171213T045307Z">
         <seg>奇跡的なことに、これは成功し、プレイヤーは妖精を降格させる必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify the rules for specific role combinations as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114315Z" creationid="nakahodo" creationdate="20180412T114315Z">
+        <seg>次に従い、特定のプレイヤーロールの組み合わせのルールに変更を行います：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26271,6 +26319,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unicorn takes his turn after the Dragon (before the Cave).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114506Z" creationid="nakahodo" creationdate="20180412T114506Z">
+        <seg>ユニコーンはドラゴンの後にターンを行います（洞窟の前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
@@ -29957,6 +30013,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T064328Z" creationid="nakahodo" creationdate="20180311T064328Z">
         <seg>残念ながら、クイーンの新しい計画のためには、世界に残った水はあまりにも少ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicorn vs. Dragon (+Any):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114334Z" creationid="nakahodo" creationdate="20180412T114334Z">
+        <seg>ユニコーン vs. ドラゴン（＋他）：</seg>
       </tuv>
     </tu>
     <tu>
