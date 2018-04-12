@@ -10045,6 +10045,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your turn, if you end a non-angry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T094402Z" creationid="nakahodo" creationdate="20180412T094402Z">
+        <seg>During your turn, if you end a non-angry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During your turn, if you end a nonangry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T094402Z" creationid="nakahodo" creationdate="20180412T094402Z">
+        <seg>During your turn, if you end a nonangry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your turn, resolve the following phases in order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133108Z" creationid="nakahodo" creationdate="20180406T133108Z">
