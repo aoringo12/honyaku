@@ -25103,8 +25103,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Displacement Blast upgrade gives you the Displacement Blast action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102736Z" creationid="nakahodo" creationdate="20180412T102736Z">
-        <seg>The Displacement Blast upgrade gives you the Displacement Blast action.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103757Z" creationid="nakahodo" creationdate="20180412T102736Z">
+        <seg>置換えの暴風アップグレードは、あなたに置換えの暴風アクションを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32434,6 +32434,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can only perform the Displacement Blast action once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103801Z" creationid="nakahodo" creationdate="20180412T103526Z">
+        <seg>あなたはターン毎に1度のみ、置換えの暴風アクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can only use this action while you are in a clearing with a Hideout.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083212Z" creationid="aorin" creationdate="20171216T083212Z">
@@ -33598,6 +33606,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065720Z" creationid="nakahodo" creationdate="20180311T065720Z">
         <seg>あなたはロボタニストたちのグループを制御し、クイーンのガーデンを構築するために対戦相手を出し抜きましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you gain 9 Radiance and then escape the Cave by entering the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103709Z" creationid="nakahodo" creationdate="20180412T103709Z">
+        <seg>You win if you gain 9 Radiance and then escape the Cave by entering the Entrance tile.</seg>
       </tuv>
     </tu>
     <tu>
