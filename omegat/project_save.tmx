@@ -14251,6 +14251,14 @@ Cloud Port or Grandstand)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it does not affect the center tile, you gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T105546Z" creationid="nakahodo" creationdate="20180412T105037Z">
+        <seg>中央タイルに影響を与えない場合、1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it enters your space, it attacks you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232119Z" creationid="aorin" creationdate="20180409T232119Z">
@@ -14706,6 +14714,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221147Z" creationid="aorin" creationdate="20171215T221147Z">
         <seg>戦闘地にディフェンダーが戦士をもたない場合、そこのディフェンダーのピースを全て取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the die affects the center tile, you do not gain Radiance (the Dragon Gem is a trap!) and you are forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T105010Z" creationid="nakahodo" creationdate="20180412T105010Z">
+        <seg>ダイスが中央タイルに影響を与える場合、輝きを得られず（そのジェムはトラップだ！）、強制的にテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28008,6 +28024,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, return the Dragon Gem to the Dragon, regardless of the die result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T105543Z" creationid="nakahodo" creationdate="20180412T105543Z">
+        <seg>その後、ダイスの結果に関わらず、ドラゴンにドラゴンジェムを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, roll all three Ghoul dice.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134323Z" creationid="aorin" creationdate="20180409T134323Z">
@@ -30703,6 +30727,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000452Z" creationid="aorin" creationdate="20180408T000452Z">
         <seg>強制的に移動させられる時（タイル崩壊のせいで）、ゴーストはアーティファクトを保持するスペースへと移動できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When forced to move, rather than forced to Teleport, you cannot be moved through walls, onto Dark tiles, or onto spaces with other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T110835Z" creationid="nakahodo" creationdate="20180412T110835Z">
+        <seg>強制テレポートではなく強制移動する時、</seg>
       </tuv>
     </tu>
     <tu>
