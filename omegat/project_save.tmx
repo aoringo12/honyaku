@@ -14626,6 +14626,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he is on a Dark tile, reveal the tile as if he had moved to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153509Z" creationid="nakahodo" creationdate="20180412T153436Z">
+        <seg>彼がダークタイルに居る場合、そこに移動したかのように、このタイルを明らかにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he is on a Dark tile, reveal the tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142049Z" creationid="nakahodo" creationdate="20180412T142049Z">
@@ -15170,6 +15178,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151557Z" creationid="nakahodo" creationdate="20180412T151557Z">
         <seg>ユニコーンが炎の壁のあるスペースに入った場合、ユニコーンはテレポートしますが、それ以外の効果を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Unicorn is ever on a tile that collapses, or on a tile with no open edges, he immediately Teleports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153627Z" creationid="nakahodo" creationdate="20180412T153627Z">
+        <seg>ユニコーンが崩壊するタイルや開いた側面のないタイルに居る場合、直ちにテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27079,6 +27095,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn does not use Difficulty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153853Z" creationid="nakahodo" creationdate="20180412T153853Z">
+        <seg>シャドウユニコーンは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shadow Unicorn doesn’t have a victory condition, but rather acts as an antagonist.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T110109Z" creationid="aorin" creationdate="20180410T110109Z">
@@ -27323,6 +27347,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150700Z" creationid="nakahodo" creationdate="20180412T150700Z">
         <seg>ユニコーンの攻撃は、対象の防御力ステータスに関わらず、常に成功します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn’s movement and teleportation can expand the map quickly in unpredictable directions, so make sure that you have more table space than normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153825Z" creationid="nakahodo" creationdate="20180412T153825Z">
+        <seg>ユニコーンの移動とテレポートは予測不可能な方向へと、急速にマップを拡大していくので、テーブル上に通常よりも多くのスペースがあるかを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31617,6 +31649,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223214Z" creationid="aorin" creationdate="20171215T223214Z">
         <seg>ヴァガボンドが撤退する。ヴァガボンドは撤退する時、撤退する戦士の数ではなく、所持する利用可能[そして]消耗したアイテムの合計数に基づいてヒットを受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153916Z" creationid="nakahodo" creationdate="20180412T153916Z">
+        <seg>Variant cards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35934,6 +35974,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142336Z" creationid="nakahodo" creationdate="20180412T142336Z">
         <seg>p6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153826Z" creationid="nakahodo" creationdate="20180412T153826Z">
+        <seg>p7</seg>
       </tuv>
     </tu>
     <tu>
