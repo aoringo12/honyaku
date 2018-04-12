@@ -5779,6 +5779,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of your rules that refer to Treasure tokens now also refer to Dragon Gems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T104008Z" creationid="nakahodo" creationdate="20180412T104008Z">
+        <seg>ドラゴンジェムに関する基本的なルールはトレジャートークンに関する説明を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All other players follow the rules for the corresponding two-player variant.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T013359Z" creationid="aorin" creationdate="20180410T013359Z">
@@ -8976,6 +8984,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223856Z" creationid="nakahodo" creationdate="20171224T223856Z">
         <seg>破棄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRAGON GEMS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103838Z" creationid="nakahodo" creationdate="20180412T103838Z">
+        <seg>ドラゴンジェム</seg>
       </tuv>
     </tu>
     <tu>
@@ -16389,6 +16405,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092821Z" creationid="nakahodo" creationdate="20171001T092821Z">
         <seg>3から5プレイヤーゲームでは、ベストセラーリストの古い場所はコーヒーブレンドが占めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with a Dragon player, you may also collect Dragon Gems to gain Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103914Z" creationid="nakahodo" creationdate="20180412T103914Z">
+        <seg>ドラゴンプレイヤーがゲームに居る場合、ドラゴンジェムを収集して輝きを得ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31023,6 +31047,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you collect a Dragon Gem, you must roll the Dragon die:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T104924Z" creationid="nakahodo" creationdate="20180412T104924Z">
+        <seg>ドラゴンジェム1つを収集する時、あなたはドラゴンダイスを1回ロールします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you control these during a Scoring Phase, you earn VPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
@@ -33612,8 +33644,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You win if you gain 9 Radiance and then escape the Cave by entering the Entrance tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103709Z" creationid="nakahodo" creationdate="20180412T103709Z">
-        <seg>You win if you gain 9 Radiance and then escape the Cave by entering the Entrance tile.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103835Z" creationid="nakahodo" creationdate="20180412T103709Z">
+        <seg>あなたは9輝きを得て、その後、エントランスタイルに入ることで洞窟から脱出した場合、勝利します。</seg>
       </tuv>
     </tu>
     <tu>
