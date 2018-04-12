@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Visibility is defined in Vast:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140602Z" creationid="nakahodo" creationdate="20180412T140602Z">
+        <seg>(Visibility is defined in Vast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Visibility is defined on page 5 in Vast:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T071535Z" creationid="nakahodo" creationdate="20180411T071535Z">
@@ -17341,6 +17349,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is any player piece, except the [Cave] Ghost, visible to the Unicorn?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140525Z" creationid="nakahodo" creationdate="20180412T140525Z">
+        <seg>洞窟（または洞窟ゴースト）を覗いた任意のプレイヤーピースはユニコーンが見えるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is the prompted action a Move or any angry action?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T140121Z" creationid="nakahodo" creationdate="20180412T140121Z">
@@ -25648,6 +25664,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T183414Z" creationid="nakahodo" creationdate="20171218T183330Z">
         <seg>共有地には次の建物が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Crystal Caverns on page 5.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140602Z" creationid="nakahodo" creationdate="20180412T140602Z">
+        <seg>The Crystal Caverns on page 5.)</seg>
       </tuv>
     </tu>
     <tu>
