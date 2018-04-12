@@ -11221,6 +11221,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End-of-Turn Tile Placement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150352Z" creationid="nakahodo" creationdate="20180412T150352Z">
+        <seg>プレイヤーターン終了時のタイル配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enlist all 4 recruits</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093537Z" creationid="nakahodo" creationdate="20180209T093537Z">
@@ -13892,6 +13900,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Unicorn cannot attack the [Cave] Ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150552Z" creationid="nakahodo" creationdate="20180412T150421Z">
+        <seg>しかし、ユニコーンは洞窟（または洞窟ゴースト）を攻撃できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the large cubes will now be arranged to match the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
@@ -16231,6 +16247,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T111842Z" creationid="aorin" creationdate="20171219T111842Z">
         <seg>○のスペースに進展トークンが移動すると、あなたは1評判を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you must draw cards but the Unicorn deck is empty, shuffle his discard pile to form a new deck before drawing new cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150335Z" creationid="nakahodo" creationdate="20180412T150335Z">
+        <seg>カードをドローする必要があり、ユニコーンデッキが空の場合、新しいカードをドローする前に、捨て札山をシャッフルして新しいユニコーンデッキを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26847,6 +26871,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn never places or removes tiles at the end of his turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150419Z" creationid="nakahodo" creationdate="20180412T150419Z">
+        <seg>シャドウユニコーンは彼のターン終了時にタイルの配置や取り除きを行いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shadow Unicorn takes his turn after all players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T133636Z" creationid="nakahodo" creationdate="20180412T133636Z">
@@ -32355,6 +32387,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T234756Z" creationid="aorin" creationdate="20180407T234756Z">
         <seg>ゴブリンのアーティファクトがマップから無くなるたびに、次に明らかになる部族がこれを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the Unicorn enters a space with a player piece, he attacks it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150505Z" creationid="nakahodo" creationdate="20180412T150420Z">
+        <seg>ユニコーンがプレイヤーピースのいるスペースに入るたびに、これを攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
