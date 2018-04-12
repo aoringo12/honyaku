@@ -4577,6 +4577,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe scatters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150856Z" creationid="nakahodo" creationdate="20180412T150856Z">
+        <seg>ゴブリン部族は散ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Location must have at least one occupied space in
 order to be targeted by the Temp Agency.</seg>
       </tuv>
@@ -5514,6 +5522,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T230834Z" creationid="aorin" creationdate="20180409T230834Z">
         <seg>攻撃、ショット、下記に示す効果を解決した後、特に記述がない限り、あなたは直ちに飛び退きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After resolving the attack, he Teleports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150932Z" creationid="nakahodo" creationdate="20180412T150917Z">
+        <seg>攻撃を解決した後、彼はテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14538,6 +14554,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If her Strength is greater, the attack succeeds, so he loses 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151112Z" creationid="nakahodo" creationdate="20180412T151112Z">
+        <seg>彼女の筋力が高い場合、攻撃は成功し、彼のヘルスは1減少します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If her Strength is greater, the attack succeeds.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T094814Z" creationid="nakahodo" creationdate="20180411T094814Z">
@@ -14874,6 +14898,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132301Z" creationid="aorin" creationdate="20171215T132301Z">
         <seg>3人でプレイする場合、ヴァガボンドなしでプレイするのを推奨し、ウッドランド連合をヴァガボンドの変わりにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If she enters his space, she attacks him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151043Z" creationid="nakahodo" creationdate="20180412T151043Z">
+        <seg>彼女が彼のスペースに入った場合、彼を攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20072,6 +20104,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
         <seg>他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other players may choose to attack the Shadow Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150943Z" creationid="nakahodo" creationdate="20180412T150943Z">
+        <seg>他のプレイヤーたちはシャドウユニコーンを攻撃の対象にできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25957,6 +25997,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dragon loses 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150903Z" creationid="nakahodo" creationdate="20180412T150903Z">
+        <seg>ドラゴンは1ヘルス失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dragon wins if he awakens, comes to the surface, and then escapes the Cave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073314Z" creationid="aorin" creationdate="20180410T073314Z">
@@ -26471,6 +26519,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Knight can enter the Unicorn’s space only if her Strength is equal to or greater than his Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151018Z" creationid="nakahodo" creationdate="20180412T151018Z">
+        <seg>ナイトはその筋力がユニコーンのアーマー以上の場合にのみ、ユニコーンのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight can enter your space only if her Strength is equal to or greater than your Armor.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T094754Z" creationid="nakahodo" creationdate="20180411T094754Z">
@@ -26499,6 +26555,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T084144Z" creationid="nakahodo" creationdate="20180411T084144Z">
         <seg>ナイトは1 / 3 / 5経験値を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight loses 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150815Z" creationid="nakahodo" creationdate="20180412T150815Z">
+        <seg>ナイトは1ヘルス失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26951,6 +27015,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief is killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150908Z" creationid="nakahodo" creationdate="20180412T150908Z">
+        <seg>シーフは殺されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief must stash 5 or 6 Treasures to win.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102124Z" creationid="aorin" creationdate="20180410T102124Z">
@@ -27051,6 +27123,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T114506Z" creationid="nakahodo" creationdate="20180412T114506Z">
         <seg>ユニコーンはドラゴンの後にターンを行います（洞窟の前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn’s attack always succeeds, regardless of the defender’s statistics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150700Z" creationid="nakahodo" creationdate="20180412T150700Z">
+        <seg>ユニコーンの攻撃は、対象の防御力ステータスに関わらず、常に成功します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27188,8 +27268,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The [Vile] Ghoul skitters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T084851Z" creationid="nakahodo" creationdate="20180411T084851Z">
-        <seg>バイルグールは飛び退きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150924Z" creationid="nakahodo" creationdate="20180411T084851Z">
+        <seg>グール（またはバイルグール）は飛び退きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31735,6 +31815,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111115Z" creationid="nakahodo" creationdate="20180412T110835Z">
         <seg>強制テレポートではなく強制移動する時、壁を通り抜ける、ダークタイル、他プレイヤーが居るスペースへの移動はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When he attacks, he deals the following effect:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150803Z" creationid="nakahodo" creationdate="20180412T150803Z">
+        <seg>彼が攻撃した時、下記の効果を適用します。</seg>
       </tuv>
     </tu>
     <tu>
