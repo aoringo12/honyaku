@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Even cards are the second, fourth, and sixth cards drawn during this phase.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135740Z" creationid="nakahodo" creationdate="20180412T135740Z">
+        <seg>（偶数カードはこのフェイズ時にドローされる、2枚目、4枚目、6枚目のカードです。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, if a Goblin Tribe is in a space marked “2” and the Knight is in one marked “3”, your Isolation is 2.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T114500Z" creationid="aorin" creationdate="20180408T114500Z">
@@ -470,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you want to change which actions provoke a Rampage, see Difficulty Variants.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140337Z" creationid="nakahodo" creationdate="20180412T140337Z">
+        <seg>（あなたが暴走を引き起こすアクションを変更したい場合は、難易度ヴァリアントを参照してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you wish, you may show off the Possession card that was on your Possession space.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T182525Z" creationid="aorin" creationdate="20180406T182525Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T223501Z" creationid="aorin" creationdate="20180409T223501Z">
         <seg>（あなたが飛び退いた後、ユニコーンはテレポートします）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The Unicorn does not Rampage on his first turn.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140055Z" creationid="nakahodo" creationdate="20180412T140055Z">
+        <seg>（ユニコーンはゲーム最初のターン暴走しません）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,6 +4582,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131208Z" creationid="nakahodo" creationdate="20171230T131208Z">
         <seg>王の後ろから、ガードたちの幹部が現れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A card with an angry action prompts its listed action, regardless of whether the card is odd or even.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135853Z" creationid="nakahodo" creationdate="20180412T135821Z">
+        <seg>偶数か奇数かに関わらず、憤りアクションを持つカードは、ここに記述されたアクションを指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10448,6 +10480,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each even card prompts a Turn action unless the card shows an angry action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135900Z" creationid="nakahodo" creationdate="20180412T135720Z">
+        <seg>各偶数カードは憤りアクションが示されない限り、ターンアクションを指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each faction can craft cards in their hand into improvements​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210654Z" creationid="aorin" creationdate="20171215T210654Z">
@@ -10482,8 +10522,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each odd card prompts a Move action unless the card shows an angry action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135611Z" creationid="nakahodo" creationdate="20180412T135611Z">
-        <seg>各奇数カードは憤りアクションが示されない限り、移動アクションを実行します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135906Z" creationid="nakahodo" creationdate="20180412T135611Z">
+        <seg>各奇数カードは憤りアクションが示されない限り、移動アクションを指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14974,6 +15014,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the following two conditions are true, perform the Rampage action and do not perform the prompted action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140027Z" creationid="nakahodo" creationdate="20180412T135909Z">
+        <seg>次の2つの条件に当てはまる場合は、暴走アクションを実行し、支持されたアクションは実行しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the game is part of the campaign, follow the regular endgame steps as if the Automas were human players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101910Z" creationid="nakahodo" creationdate="20180108T101910Z">
@@ -17281,6 +17329,22 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T214330Z" creationid="aorin" creationdate="20171024T214330Z">
         <seg>スレートの投資トークンは共通サプライに戻されます（ページ18を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is any player piece, except the [Cave]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140405Z" creationid="nakahodo" creationdate="20180412T140405Z">
+        <seg>Is any player piece, except the [Cave]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the prompted action a Move or any angry action?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140121Z" creationid="nakahodo" creationdate="20180412T140121Z">
+        <seg>支持されたアクションが移動か任意の憤りアクションか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28484,6 +28548,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032807Z" creationid="aorin" creationdate="20171212T032757Z">
         <seg>その後、プランサプライからプラン1枚を取り、自身の近所にこれをプランとして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, check whether the Unicorn performs the prompted action or a Rampage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135944Z" creationid="nakahodo" creationdate="20180412T135850Z">
+        <seg>その後、支持されたアクションか暴走アクションをユニコーンが実行するかどうかを確認します。</seg>
       </tuv>
     </tu>
     <tu>
