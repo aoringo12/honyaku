@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(He can smell you.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141746Z" creationid="nakahodo" creationdate="20180412T141746Z">
+        <seg>（彼はあなたのニオイを嗅ぎ取った）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(However, if the Ghost is also present, she gets the card instead.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T013724Z" creationid="aorin" creationdate="20180410T013724Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T140602Z" creationid="nakahodo" creationdate="20180412T140602Z">
         <seg>(Visibility is defined in Vast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Visibility is defined in Vast： The Crystal Caverns on page 5.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141658Z" creationid="nakahodo" creationdate="20180412T141658Z">
+        <seg>（「見えている」はヴァストの基本ルールページ5で説明されています）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10997,6 +11013,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time the Unicorn enters a new space, follow these steps in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142040Z" creationid="nakahodo" creationdate="20180412T142040Z">
+        <seg>ユニコーンが新しいスペースに入るたびに、次の順番でステップに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time the Vagabond takes a hit, he must damage one available item.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231553Z" creationid="aorin" creationdate="20171215T231553Z">
@@ -11781,6 +11805,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, if the Spirit pile is not empty, repeat this phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141836Z" creationid="nakahodo" creationdate="20180412T141836Z">
+        <seg>最後に、魂山札が空ではない場合、このフェイズを繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, only during your turn, if you are on a Crystal tile without a Unicorn cube, you may place a Unicorn cube to gain 1 Radiance, and if you are on a space with a Treasure token, you may collect it to gain 1 Radiance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T200044Z" creationid="nakahodo" creationdate="20180411T200044Z">
@@ -11865,6 +11897,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225017Z" creationid="aorin" creationdate="20180407T225017Z">
         <seg>1つ目は、ゴーストを除く、プレイヤーピースがロックされたアーティファクトのあるゴーストタイルに居る場合、ゴーストはそのプレイヤーの憑依カードを公開することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, if the Unicorn piece is facing a wall, turn it right until it faces an open edge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141949Z" creationid="nakahodo" creationdate="20180412T141949Z">
+        <seg>まず、ユニコーンピースが壁を向いて触れている場合、開いた側面を向くまで、右に回転します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14434,6 +14474,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he is on a Dark tile, reveal the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142049Z" creationid="nakahodo" creationdate="20180412T142049Z">
+        <seg>ダークタイルの場合、タイルを明らかにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If her Strength is equal, she must roll the Dragon die, and the attack succeeds only if the die affects the center space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T094854Z" creationid="nakahodo" creationdate="20180411T094854Z">
@@ -14521,6 +14569,14 @@ Cloud Port or Grandstand)</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T102914Z" creationid="nakahodo" creationdate="20171229T102914Z">
         <seg>何らかの理由で火が消える場合、誰のターンであるかを確認し、再度キャンドルに火をつけないでください。
 燃料不足危険トークンのある建物を使用する場合、あなたは直ちにキャンドルを消さなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it is empty, move to the next phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141845Z" creationid="nakahodo" creationdate="20180412T141845Z">
+        <seg>空の場合、次のフェイズへ移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14894,6 +14950,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Unicorn Teleports for any reason, ignore any remaining movement prompted by the revealed card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142517Z" creationid="nakahodo" creationdate="20180412T142517Z">
+        <seg>何らかの理由でユニコーンがテレポートした場合、公開されたカードに指示される残った移動力は無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Unicorn attacks while he has 3 Anger, you must discard 1 Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T233828Z" creationid="aorin" creationdate="20180409T233828Z">
@@ -14904,8 +14968,16 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If the Unicorn does not Rampage, resolve the prompted action (Move or Turn).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140634Z" creationid="nakahodo" creationdate="20180412T140634Z">
-        <seg>If the Unicorn does not Rampage, resolve the prompted action (Move or Turn).</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141820Z" creationid="nakahodo" creationdate="20180412T140634Z">
+        <seg>ユニコーンが暴走しない場合、支持されたアクションを解決します（移動やターン）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Unicorn is facing a wall, he marks the tile with a Unicorn cube, and then turns right until he faces an open edge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142219Z" creationid="nakahodo" creationdate="20180412T142219Z">
+        <seg>ユニコーンが壁に面した場合、彼はユニコーンキューブでそこをマーキングし、その後、開いた側面を向くまで、その場で右に回転します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15114,6 +15186,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224116Z" creationid="aorin" creationdate="20171215T224116Z">
         <seg>同値の場合、アタッカーとディフェンダーは同じ数のヒットを与え合います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the space holds a Unicorn cube, he Teleports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142132Z" creationid="nakahodo" creationdate="20180412T142132Z">
+        <seg>スペースがユニコーンキューブを保持する場合、ユニコーンはテレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the space holds another player piece, he attacks it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142107Z" creationid="nakahodo" creationdate="20180412T142107Z">
+        <seg>スペースに他のプレイヤーが居る場合、それを攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25173,6 +25261,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teleporting or attacking will move him to a new space, returning him to step 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142336Z" creationid="nakahodo" creationdate="20180412T142336Z">
+        <seg>テレポートか攻撃すると、彼は新しいスペースに移動し、ステップ1に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teleporting to empty spaces allows you to quickly escape from danger, but it also adds many more tiles to the map than normal movement does.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T082708Z" creationid="nakahodo" creationdate="20180412T082708Z">
@@ -26815,6 +26911,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unicorn must move as many spaces as possible, up to the distance listed on the revealed card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142412Z" creationid="nakahodo" creationdate="20180412T142412Z">
+        <seg>ユニコーンは公開されたカードに記述された距離まで、可能な限りのスペースを移動しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Unicorn takes his turn after the Dragon (before the Cave).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T114506Z" creationid="nakahodo" creationdate="20180412T114506Z">
@@ -27142,6 +27246,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153459Z" creationid="nakahodo" creationdate="20180108T153459Z">
         <seg>追加の倉庫エリアはオフィスで購入できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The facing of the Unicorn piece does not affect visibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T141727Z" creationid="nakahodo" creationdate="20180412T141603Z">
+        <seg>ユニコーンピースの向きは見えているかどうかに影響しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28668,6 +28780,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T195814Z" creationid="nakahodo" creationdate="20180411T195754Z">
         <seg>その後、あなたのスペースに他プレイヤーピースが保持されていた場合、これを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, move the Unicorn forward (in the direction of his facing) by the number of spaces listed on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142014Z" creationid="nakahodo" creationdate="20180412T142014Z">
+        <seg>その後、カードに示されたスペース数まで、ユニコーンは前進します（向いている方向hへと）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35334,6 +35454,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115458Z" creationid="nakahodo" creationdate="20180412T115458Z">
         <seg>p5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142336Z" creationid="nakahodo" creationdate="20180412T142336Z">
+        <seg>p6</seg>
       </tuv>
     </tu>
     <tu>
