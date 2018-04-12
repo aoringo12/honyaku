@@ -14474,6 +14474,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he hasn’t finished his Move, you must also orient this tile so he can move into it, if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142803Z" creationid="nakahodo" creationdate="20180412T142803Z">
+        <seg>彼が移動を終えていない場合、可能な限り、移動を続けられるようにタイルの方向を合わせる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he is on a Dark tile, reveal the tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142049Z" creationid="nakahodo" creationdate="20180412T142049Z">
@@ -15839,6 +15847,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002321Z" creationid="aorin" creationdate="20171216T002321Z">
         <seg>少なくとも戦士1体を移動できない場合、混乱に移行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot orient the tile so he can move into it, he stops moving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142832Z" creationid="nakahodo" creationdate="20180412T142832Z">
+        <seg>彼が移動できるようにタイルを回転できない場合、彼の移動はストップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22308,6 +22324,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213035Z" creationid="aorin" creationdate="20180114T213035Z">
         <seg>R&amp;D：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAMPAGE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142837Z" creationid="nakahodo" creationdate="20180412T142837Z">
+        <seg>暴走</seg>
       </tuv>
     </tu>
     <tu>
@@ -30534,6 +30558,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn the Unicorn piece to face the target and move it to the space with the target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144042Z" creationid="nakahodo" creationdate="20180412T144042Z">
+        <seg>対象に向かってユニコーンピースをターンさせ、対象のスペースにこれを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the leftmost face-down Round Tile face up.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T120413Z" creationid="aorin" creationdate="20171212T120413Z">
@@ -32179,6 +32211,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever he reveals a Dark tile, you must connect an open edge to the tile from which he entered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T142655Z" creationid="nakahodo" creationdate="20180412T142655Z">
+        <seg>ユニコーンがダークタイルを明らかにするたいに、あなたは彼が入った方向を基点として開いた側面を接続する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
