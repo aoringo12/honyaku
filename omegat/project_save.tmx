@@ -14982,6 +14982,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If playing as the Knight, Dragon, Thief, or [Vile] Ghoul, you must also escape the Cave by entering the Entrance tile.” The other players will use their standard victory condition for the given player variant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154547Z" creationid="nakahodo" creationdate="20180412T154547Z">
+        <seg>また、ナイト、ドラゴン、シーフ、グール（またはバイルグール）でプレイしている場合、あなたはエントランスタイルに入ることで洞窟から脱出する必要があります」に変更できます。他のプレイヤーたちは与えられたプレイヤーヴァリアントの標準勝利条件を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If playing as the Knight, take the Goblin Infestation Variant card and the Monster tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132358Z" creationid="nakahodo" creationdate="20180412T132358Z">
@@ -17161,6 +17169,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In games with multiple players, if everyone agrees during setup, one player can change their victory condition to “Kill the Shadow Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154356Z" creationid="nakahodo" creationdate="20180412T154248Z">
+        <seg>複数プレイヤーたちが居るゲームにて、セットアップ時に全員が同意するなら、プレイヤーの1人は自身の勝利条件を「シャドウユニコーンを殺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games with the Cave Ghost, Ghost symbols only show which tiles are Ghost tiles;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T113846Z" creationid="aorin" creationdate="20180408T113846Z">
@@ -17648,6 +17664,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133856Z" creationid="aorin" creationdate="20180409T133856Z">
         <seg>代わりに、グールはターン毎にダイスをロールし、様々なアクションのために消費されるポイントを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, you can adjust which prompted actions will provoke the Unicorn to Rampage as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154052Z" creationid="nakahodo" creationdate="20180412T153934Z">
+        <seg>代わりに、あなたはどのアクションでユニコーンが暴走を引き起こすのかを、次のように調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19126,6 +19150,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiplayer Variant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154259Z" creationid="nakahodo" creationdate="20180412T154248Z">
+        <seg>複数プレイヤーヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Museum, Obelisk,
 Corporate HQ and Tiebreakers.</seg>
       </tuv>
@@ -19593,6 +19625,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Unicorn’s first turn, the player whose goal is killing the Unicorn places the Unicorn piece, following the setup rules for solo play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154807Z" creationid="nakahodo" creationdate="20180412T154807Z">
+        <seg>ゲーム最初のユニコーンのターンにて、ユニコーンを殺す目標を持つプレイヤーは、ソロプレイルールのセットアップに従いユニコーンピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the bright side, your opponents must address you as King (or Queen) from now on.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220440Z" creationid="nakahodo" creationdate="20171229T220440Z">
@@ -20019,6 +20059,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only the player with the victory condition of killing the Unicorn can decrease the Unicorn’s Health by attacking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154841Z" creationid="nakahodo" creationdate="20180412T154841Z">
+        <seg>勝利条件がユニコーンを殺すことのプレイヤーのみが、ユニコーンを攻撃することでそのヘルスを減少させられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only the spot depicting a hand has to be empty though.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040743Z" creationid="aorin" creationdate="20171213T040743Z">
@@ -20240,6 +20288,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135938Z" creationid="nakahodo" creationdate="20171124T135938Z">
         <seg>他プレイヤーはキャンプする必要はありません。しかし、相手からの同意を得る必要はあります（別途記述がある場合、例えばカードに●シンボルがある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other players may attack the Unicorn, but doing so will only force the Unicorn to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154946Z" creationid="nakahodo" creationdate="20180412T154946Z">
+        <seg>他のプレイヤーたちはユニコーンを攻撃できますが、ユニコーンを強制テレポートさせるだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22644,6 +22700,30 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074842Z" creationid="aorin" creationdate="20180410T074749Z">
         <seg>くず拾い（もっとも簡単）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rampage is only provoked by an angry action (not by a non-angry Move or Turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154217Z" creationid="nakahodo" creationdate="20180412T154140Z">
+        <seg>暴走は憤りアクションでのみ引き起こされます（憤りではない移動やターンではなく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rampage is provoked by a Move or an angry action (not by a non-angry Turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154234Z" creationid="nakahodo" creationdate="20180412T154234Z">
+        <seg>暴走は移動と憤りアクションで引き起こされます（憤りではないターンではなく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rampage is provoked by any action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154247Z" creationid="nakahodo" creationdate="20180412T154247Z">
+        <seg>暴走は任意のアクションで引き起こされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27103,10 +27183,26 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn does not use Difficulty Variant cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153949Z" creationid="nakahodo" creationdate="20180412T153949Z">
+        <seg>シャドウユニコーンは難易度ヴァリアントカードを使用しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shadow Unicorn doesn’t have a victory condition, but rather acts as an antagonist.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T110109Z" creationid="aorin" creationdate="20180410T110109Z">
         <seg>シャドウユニコーンはは勝利条件を持ちませんが、敵対者として行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Unicorn follows the rules for solo play with the following changes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154651Z" creationid="nakahodo" creationdate="20180412T154651Z">
+        <seg>シャドウユニコーンはソロプレイルールに次の変更を加えたものに従います：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32215,6 +32311,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075910Z" creationid="aorin" creationdate="20180410T075910Z">
         <seg>バイルグールをプレイする時、特に記載がない限り、グールのルールに全て従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selecting a multiplayer variant, do not count the Shadow Unicorn as a player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154623Z" creationid="nakahodo" creationdate="20180412T154623Z">
+        <seg>複数プレイヤーヴァリアントを選択している時、シャドウユニコーンはプレイヤーとしてカウントしません。</seg>
       </tuv>
     </tu>
     <tu>
