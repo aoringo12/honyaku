@@ -13314,6 +13314,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He simply wants you to lose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T130712Z" creationid="nakahodo" creationdate="20180412T130712Z">
+        <seg>彼は単純にあなたの敗北を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He still  gives players the freedom to choose their path,  even if their choice displeases him.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T210251Z" creationid="nakahodo" creationdate="20171224T210251Z">
@@ -14546,6 +14554,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132436Z" creationid="nakahodo" creationdate="20180406T132436Z">
         <seg>他のプレイヤーたちもまたフレアを得る場合、マップの近くにカードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If playing as the Knight, Dragon, Thief, or [Vile] Ghoul, you must also escape the Cave by entering the Entrance tile.” As normal, the Dragon must awaken and come to the surface before he can escape the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T131708Z" creationid="nakahodo" creationdate="20180412T131641Z">
+        <seg>ナイト、ドラゴン、シーフ、グール（またはバイルグール）でプレイしている場合、あなたはまた、エントランスタイルに入ることで洞窟から脱出する必要があります”</seg>
       </tuv>
     </tu>
     <tu>
@@ -16355,6 +16371,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T132046Z" creationid="nakahodo" creationdate="20171213T132046Z">
         <seg>昇格を実行するための空いたスポットがない場合、これをスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a solo game against the Shadow Unicorn, your victory condition changes to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T130739Z" creationid="nakahodo" creationdate="20180412T130739Z">
+        <seg>シャドウユニコーンを対象としたソロゲームでは、あなたの勝利条件は変更されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35693,6 +35717,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Kill the Shadow Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T131646Z" creationid="nakahodo" creationdate="20180412T131508Z">
+        <seg>”シャドウユニコーンを殺す。</seg>
       </tuv>
     </tu>
     <tu>
