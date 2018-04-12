@@ -9928,6 +9928,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During a Rampage, he does not immediately</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144254Z" creationid="nakahodo" creationdate="20180412T144254Z">
+        <seg>暴走時、ユニコーンは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During an angry action, you cannot mark Crystal tiles with Unicorn cubes or collect Treasures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T073726Z" creationid="nakahodo" creationdate="20180411T073726Z">
@@ -11889,6 +11897,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T134030Z" creationid="nakahodo" creationdate="20180412T134030Z">
         <seg>まず、魂山札からカード1枚をドローして解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, form a new Spirit pile by drawing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144508Z" creationid="nakahodo" creationdate="20180412T144508Z">
+        <seg>まず、</seg>
       </tuv>
     </tu>
     <tu>
@@ -14614,6 +14630,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If multiple Goblin Tribes are visible, he targets the Tribe with the highest Strength, regardless of distance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144146Z" creationid="nakahodo" creationdate="20180412T144146Z">
+        <seg>複数のゴブリン部族が見えている場合、ユニコーンは距離に関係なく、最も筋力の高い部族を対象にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If multiple free locations are available on the next level, a player can choose which location they want to move their Pixie to.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153954Z" creationid="aorin" creationdate="20171212T153954Z">
@@ -15555,6 +15579,22 @@ stack is first in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T102704Z" creationid="nakahodo" creationdate="20171001T102704Z">
         <seg>タイの場合、右の例に示されるように、スタックの一番上プレイヤーがターン順番最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these Tribes have equal Strength, he targets the closest of these Tribes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144206Z" creationid="nakahodo" creationdate="20180412T144206Z">
+        <seg>それら部族の筋力が等しい場合、近い部族を対象にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they are at equal distance, you choose which one he targets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144222Z" creationid="nakahodo" creationdate="20180412T144222Z">
+        <seg>距離も等しい場合、あなたがユニコーンの対象を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17375,6 +17415,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T090201Z" creationid="aorin" creationdate="20180410T090201Z">
         <seg>攻撃ポイントを消費する代わりに、あなたの攻撃はターンを通して変わりません。ただし、ブーストダイスを消費したり、ハントの恐怖カードの効果をしようすることにより追加される一時的なボーナスは除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, he continues moving to his target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144339Z" creationid="nakahodo" creationdate="20180412T144339Z">
+        <seg>代わりに、対象へと移動し続けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25269,6 +25317,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teleport when he enters a tile that holds only a Unicorn cube (as he would during Move).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144328Z" creationid="nakahodo" creationdate="20180412T144328Z">
+        <seg>ユニコーンキューブのみを保持したタイルに入っても（移動時のように）直ちにテレポートしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teleport works differently, since “Teleport” is not shown on any cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T072209Z" creationid="nakahodo" creationdate="20180411T071829Z">
@@ -26915,6 +26971,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T233707Z" creationid="aorin" creationdate="20180409T233707Z">
         <seg>ユニコーンは自由にあなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn cannot target the [Cave] Ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144121Z" creationid="nakahodo" creationdate="20180412T144121Z">
+        <seg>ユニコーンは洞窟（または洞窟ゴースト）を対象にできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28896,6 +28960,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, the Unicorn attacks the target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144053Z" creationid="nakahodo" creationdate="20180412T144053Z">
+        <seg>その後、ユニコーンは対象を攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, the team decides which player pulls the next bean
 until all five spaces have been filled or the team unanimously decides
 to stop.</seg>
@@ -30554,6 +30626,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133301Z" creationid="nakahodo" creationdate="20180406T133009Z">
         <seg>ターンサマリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn the Unicorn piece in the listed direction until the piece faces the first open edge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T144427Z" creationid="nakahodo" creationdate="20180412T144427Z">
+        <seg>ユニコーンピースが開いた側面へと面するまで、示された方向に回転します。</seg>
       </tuv>
     </tu>
     <tu>
