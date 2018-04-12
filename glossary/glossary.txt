@@ -619,3 +619,5 @@ Monster token	モンスタートークン
 Revealed Crystals track	明らかにされたクリスタルトラック
 Spirit Pile	魂山札
 Rampage action	暴走アクション
+odd	奇数
+even	偶数
