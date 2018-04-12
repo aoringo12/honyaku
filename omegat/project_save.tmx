@@ -14822,6 +14822,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the variant instructs you to take the Ash Dragon Variant card, instead take a Unicorn cube from your supply (not your Radiance track) and place it on the first Armor upgrade space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113816Z" creationid="nakahodo" creationdate="20180412T113816Z">
+        <seg>ヴァリアントがあなたにアッシュドラゴンヴァリアントカードを取るように指示する場合、あなたの（輝きトラックではなく）サプライからユニコーンカード1つを取り、アーマーアップグレードスペースの最初にこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the victim no longer possesses all of the resources which are to be stolen, the player only hands over the resources they have remaining.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064158Z" creationid="aorin" creationdate="20171213T064158Z">
@@ -23157,6 +23165,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up all other players as directed by the variant, and set up the Nightmare Unicorn normally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113651Z" creationid="nakahodo" creationdate="20180412T113242Z">
+        <seg>ヴァリアントで指示される他プレイヤーたち全員のセットアップと、通常のナイトメアユニコーンのセットアップを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up and play the Ghoul as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T013317Z" creationid="aorin" creationdate="20180410T013317Z">
@@ -25899,6 +25915,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T104231Z" creationid="aorin" creationdate="20180410T104231Z">
         <seg>ナイトメアユニコーンはプレイヤーロールとしてドラゴンと置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Nightmare Unicorn is an alternative to the Dragon, so you can replace the Dragon in any variants that include him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113246Z" creationid="nakahodo" creationdate="20180412T113239Z">
+        <seg>ナイトメアユニコーンはドラゴンの代わりで、ドラゴンを含む任意のヴァリアントを彼と置換えて使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28960,6 +28984,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This cube cannot be removed by the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113836Z" creationid="nakahodo" creationdate="20180412T113836Z">
+        <seg>このキューブは洞窟によって取り除かれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This die icon is called the Program Die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074614Z" creationid="nakahodo" creationdate="20180311T074614Z">
@@ -29342,6 +29374,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T143848Z" creationid="aorin" creationdate="20180115T143848Z">
         <seg>したがって、彼は消耗ステージ時にて、地図のこの部分全体それぞれの地域の孤独な兵士を取り除かなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, the Unicorn’s Armor starts at 2 instead of 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113828Z" creationid="nakahodo" creationdate="20180412T113828Z">
+        <seg>したがって、ユニコーンのアーマーは1ではなく2から開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32075,8 +32115,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>While this variant will reduce your options somewhat, it drastically reduces the complexity of planning movement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T112813Z" creationid="nakahodo" creationdate="20180412T112813Z">
-        <seg>このヴァリアントはあなたの選択肢を減少させ、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T113133Z" creationid="nakahodo" creationdate="20180412T112813Z">
+        <seg>このヴァリアントはあなたの選択肢を減少させ、移動計画の複雑さを大幅に軽減させます。</seg>
       </tuv>
     </tu>
     <tu>
