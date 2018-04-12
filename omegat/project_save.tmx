@@ -4958,6 +4958,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A random visible player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160333Z" creationid="nakahodo" creationdate="20180412T160333Z">
+        <seg>ランダムな見えているプレイヤーピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A roll of “4” is considered a “0” so the four-sided dice only produces numbers 0-3.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224252Z" creationid="aorin" creationdate="20171215T224244Z">
@@ -14496,6 +14504,22 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If another player has the victory condition of killing the Dragon, then when the Unicorn attacks the Dragon, he discards 2 Power cards instead of losing Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160811Z" creationid="nakahodo" creationdate="20180412T160736Z">
+        <seg>他プレイヤーが勝利条件にドラゴンを殺すことを持つ場合、ユニコーンがドラゴンを攻撃した時、彼はヘルスを失う代わりにパワーカード2枚を破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If another player has the victory condition of killing the Knight, then when the Unicorn attacks the Knight, she loses 5 Grit instead of losing Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160741Z" creationid="nakahodo" creationdate="20180412T160703Z">
+        <seg>他プレイヤーが勝利条件にナイトを殺すことを持っている場合、ユニコーンがナイトを攻撃した時、彼女はヘルスを失う代わりに5経験値を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If another player would get the Past Plunder Variant card, the Ghost gets it instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023452Z" creationid="aorin" creationdate="20180408T023452Z">
@@ -15202,6 +15226,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142219Z" creationid="nakahodo" creationdate="20180412T142219Z">
         <seg>ユニコーンが壁に面した場合、彼はユニコーンキューブでそこをマーキングし、その後、開いた側面を向くまで、その場で右に回転します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Unicorn kills the Knight or the Dragon and no other player’s victory condition is to kill her or him, that player is eliminated but play continues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160914Z" creationid="nakahodo" creationdate="20180412T160914Z">
+        <seg>ユニコーンがナイトかドラゴンを殺し、他プレイヤーの勝利条件に彼らを殺すものが無い場合、そのプレイヤーたちは脱落しますが、プレイは続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24604,6 +24636,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skip their turn for the rest of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160928Z" creationid="nakahodo" creationdate="20180412T160928Z">
+        <seg>ゲームの残りで、彼らのターンはスキップされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip this phase during your first turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133951Z" creationid="nakahodo" creationdate="20180406T133951Z">
@@ -27722,6 +27762,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The closest visible player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160317Z" creationid="nakahodo" creationdate="20180412T160317Z">
+        <seg>最も近くの見えているプレイヤーピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The color that represents the most Gems in the Garden (all six Garden Sectors) will earn you Favor Cogs accordingly.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T082141Z" creationid="nakahodo" creationdate="20180312T082141Z">
@@ -29079,8 +29127,8 @@ from Roasters.</seg>
       <tuv lang="EN-US">
         <seg>The visible player piece whose victory condition is killing the Unicorn (if any).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160212Z" creationid="nakahodo" creationdate="20180412T160212Z">
-        <seg>ユニコーンを殺すことが勝利条件のプレイヤーピースが見えている（もし入れば）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160429Z" creationid="nakahodo" creationdate="20180412T160212Z">
+        <seg>見えているプレイヤーの勝利条件がユニコーンを殺すこと（もしいれば）。</seg>
       </tuv>
     </tu>
     <tu>
