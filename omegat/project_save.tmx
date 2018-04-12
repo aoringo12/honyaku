@@ -15267,6 +15267,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you attack another player while at 3 Anger, gain 1 Radiance after resolving the attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T094243Z" creationid="nakahodo" creationdate="20180412T094243Z">
+        <seg>あなたが3憤りの時に他プレイヤーを攻撃した場合、攻撃の解決後、1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can't pay the cost, you can't place a workerhere.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205741Z" creationid="aorin" creationdate="20180101T205741Z">
@@ -28079,6 +28087,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080357Z" creationid="nakahodo" creationdate="20180311T080357Z">
         <seg>炭鉱には3つのスペースがあり、それぞれ異なる色の宝石を表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three ways to gain Radiance:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T094146Z" creationid="nakahodo" creationdate="20180412T094146Z">
+        <seg>輝きを得るには3つの方法があります。</seg>
       </tuv>
     </tu>
     <tu>
