@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Multiplayer Variant on page 7.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T131911Z" creationid="nakahodo" creationdate="20180412T131911Z">
+        <seg>（ページ7の複数プレイヤーヴァリアントを参照）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080312Z" creationid="nakahodo" creationdate="20180311T080312Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T223625Z" creationid="aorin" creationdate="20180409T223625Z">
         <seg>（あなたが砕いたクリスタルは他プレイヤーの勝利条件にカウントされます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The Monsters level is recommended, but firsttime players may want to use the Normal or Tough Goblins level instead.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132451Z" creationid="nakahodo" creationdate="20180412T132451Z">
+        <seg>（モンスターレベルを推奨しますが、はじめてのプレイヤーたちには通常やタフゴブリンレベルでも良いでしょう）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5981,6 +5997,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, if playing as the Knight or Dragon, you still lose if your Health decreases to 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132109Z" creationid="nakahodo" creationdate="20180412T132109Z">
+        <seg>また、ナイトやドラゴンでプレイしている場合、そのヘルスが0に減少した場合もあなたは敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alter play priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143042Z" creationid="nakahodo" creationdate="20171213T143042Z">
@@ -6268,6 +6292,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
         <seg>グループとして、村の名前を決定してボードに書き込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a result, this player makes some decisions for the Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132307Z" creationid="nakahodo" creationdate="20180412T132307Z">
+        <seg>結果として、このプレイヤーはユニコーンのいくつかの決定を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8288,6 +8320,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074600Z" creationid="aorin" creationdate="20180410T074600Z">
         <seg>難易度レベルを選択してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose your role and set it up normally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132327Z" creationid="nakahodo" creationdate="20180412T132327Z">
+        <seg>あなたのプレイヤーロールを選択して、通常どおりセットアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14558,10 +14598,26 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If playing as the Goblins, Thief, or [Vile]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132610Z" creationid="nakahodo" creationdate="20180412T132610Z">
+        <seg>ゴブリンたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If playing as the Knight, Dragon, Thief, or [Vile] Ghoul, you must also escape the Cave by entering the Entrance tile.” As normal, the Dragon must awaken and come to the surface before he can escape the Cave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T131708Z" creationid="nakahodo" creationdate="20180412T131641Z">
-        <seg>ナイト、ドラゴン、シーフ、グール（またはバイルグール）でプレイしている場合、あなたはまた、エントランスタイルに入ることで洞窟から脱出する必要があります”</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T131754Z" creationid="nakahodo" creationdate="20180412T131641Z">
+        <seg>ナイト、ドラゴン、シーフ、グール（またはバイルグール）でプレイしている場合、あなたはまた、エントランスタイルに入ることで洞窟から脱出する必要があります”ドラゴンは通常どおり、目覚め、出現してから洞窟を脱出する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If playing as the Knight, take the Goblin Infestation Variant card and the Monster tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132358Z" creationid="nakahodo" creationdate="20180412T132358Z">
+        <seg>ナイトでプレイする場合、ゴブリン蔓延ヴァリアントカードとモンスタートークンを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14642,6 +14698,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101418Z" creationid="nakahodo" creationdate="20180108T101418Z">
         <seg>オートマが影響トークンを持たない場合、なにもしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Cave collapses, everyone loses except for the Cave [Ghost] and the Shadow Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132008Z" creationid="nakahodo" creationdate="20180412T132008Z">
+        <seg>洞窟が完全に崩壊した場合、洞窟（または洞窟ゴースト）とシャドウユニコーンを除く全員が敗北します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16367,6 +16431,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a multiplayer game against the Shadow Unicorn, one player can change their victory condition to the one listed above.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T131852Z" creationid="nakahodo" creationdate="20180412T131852Z">
+        <seg>シャドウユニコーンに複数のプレイヤーで相手をするには、プレイヤー1人が自身の勝利条件を上記に記述されているように変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a situation where there are no free spots to perform the promotion, skip it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T132046Z" creationid="nakahodo" creationdate="20171213T132046Z">
@@ -17072,6 +17144,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T231526Z" creationid="aorin" creationdate="20180114T231526Z">
         <seg>代わりに、あなたは展開オーダーをシートに記入します（展開オーダーパッドはゲームに含まれています）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, “you” refers to the player who has the victory condition of killing the Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132234Z" creationid="nakahodo" creationdate="20180412T132234Z">
+        <seg>「あなた」は勝利条件をユニコーンを殺すことにしているプレイヤーを指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21198,6 +21278,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
         <seg>プレイヤースケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132311Z" creationid="nakahodo" creationdate="20180412T132311Z">
+        <seg>プレイヤーセットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -29562,6 +29650,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Throughout these rules, references to “you” do not refer to the Shadow Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132135Z" creationid="nakahodo" creationdate="20180412T132135Z">
+        <seg>これらルールを通して、「あなた」と称しているものは、シャドウユニコーンを指しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus She will punish all players!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165851Z" creationid="aorin" creationdate="20171212T165659Z">
@@ -33278,6 +33374,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000122Z" creationid="aorin" creationdate="20180115T000122Z">
         <seg>あなたは常に、法廷にワーカーを展開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may choose any difficulty level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132410Z" creationid="nakahodo" creationdate="20180412T132410Z">
+        <seg>難易度レベルを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
