@@ -5356,6 +5356,22 @@ Blend Slate is full.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After being attacked, the Unicorn immediately Teleports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152240Z" creationid="nakahodo" creationdate="20180412T152207Z">
+        <seg>ユニコーンは攻撃された後、直ちにテレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After collapsing, draw more cards, one at a time, until a valid destination is found, and place the Unicorn piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153132Z" creationid="nakahodo" creationdate="20180412T153132Z">
+        <seg>その後、有効な場所が見つかるまで、1度に1枚ずつカードをドローし、そこにユニコーンピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After completing Game 11 setup, as a group, open the following crates (if they haven't already been unlocked).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233416Z" creationid="aorin" creationdate="20171231T233416Z">
@@ -5562,6 +5578,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224415Z" creationid="aorin" creationdate="20171231T224415Z">
         <seg>ゲーム10のセットアップ後、アーカイブにこのカードを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After she resolves the shot, he is forced to Teleport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152337Z" creationid="nakahodo" creationdate="20180412T152337Z">
+        <seg>撃つ解決をした後、ユニコーンは強制テレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6146,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000432Z" creationid="aorin" creationdate="20180115T000432Z">
         <seg>とはいえ、これは同時に行われるので、混沌としたものになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always orient the card so the arrow (^) points in the same direction as the Unicorn piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152726Z" creationid="nakahodo" creationdate="20180412T152726Z">
+        <seg>常に、ユニコーンピースの向きと同じになるように、カードの矢印（^）を合わせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7507,6 +7539,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T075035Z" creationid="nakahodo" creationdate="20180312T075035Z">
         <seg>他の得点の前に、マリッサは萎れたガーデンセクターから6つの宝石全てを取り除き、寵愛の歯車3つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before the Collapse, if he would Teleport to an open space, then add a Dark tile there, connect it to the map with the fewest possible Dark tiles (all Dark tiles are provided by the Cave player, if present), and then place the Unicorn piece there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152938Z" creationid="nakahodo" creationdate="20180412T152938Z">
+        <seg>崩壊前、彼が空きスペースにテレポートする場合、そこにダークタイルを配置し、できるだけ少なくダークタイルを使用してそこからマップへと接続し（もしいるなら、洞窟プレイヤーが全てのダークタイルを提供します）、その後、ユニコーンピースをそこへと配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10079,6 +10119,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
         <seg>消耗ステージ時、任意の自身の制御している地域が、自身の現在制御している首都や都市から、制御している地域続きで接続されているかどうかを確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Collapse, if he would Teleport to an open space, then collapse 3 tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153026Z" creationid="nakahodo" creationdate="20180412T153026Z">
+        <seg>崩壊中、彼が空きスペースにテレポートする場合、タイル3枚が崩壊します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18093,6 +18141,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the facing of the Unicorn piece the same.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152535Z" creationid="nakahodo" creationdate="20180412T152535Z">
+        <seg>ユニコーンピースの向きは変えないように維持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep the remaining cubes in a supply near your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T112815Z" creationid="aorin" creationdate="20180410T112815Z">
@@ -24088,6 +24144,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She may shoot him with the Enchanted Bow to force him to discard Unicorn cards from his Spirit pile, as if shooting the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152327Z" creationid="nakahodo" creationdate="20180412T152327Z">
+        <seg>彼女はエンチャントボウでユニコーンを撃つことで、ドラゴンのように、魂山札からユニコーンカードを強制的に破棄させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She may shoot you with her Bow if her Strength is 2 or greater.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T231950Z" creationid="aorin" creationdate="20180409T231950Z">
@@ -24107,6 +24171,14 @@ Place the board in the middle of the table.</seg>
         <seg>She may use the Mighty Axe for the Strength bonus, but cannot discard a Hero cube to increase damage.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T192127Z" creationid="nakahodo" creationdate="20180411T192127Z">
+        <seg>マイティアックスを使用して筋力ボーナスを得られますが、ダメージを増加させるためにヒーローキューブを破棄することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She may use the Mighty Axe for the Strength bonus, but cannot discard the Hero cube to increase damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152343Z" creationid="nakahodo" creationdate="20180412T152343Z">
         <seg>マイティアックスを使用して筋力ボーナスを得られますが、ダメージを増加させるためにヒーローキューブを破棄することはできません。</seg>
       </tuv>
     </tu>
@@ -25884,6 +25956,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave cannot affect him with Giant Bats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152428Z" creationid="nakahodo" creationdate="20180412T152428Z">
+        <seg>洞窟はジャイアントバッドでユニコーンに影響を与えられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave cannot affect you with Giant Bats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T193929Z" creationid="nakahodo" creationdate="20180411T193929Z">
@@ -26543,6 +26623,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Goblins may target him with Hex to force him to discard Unicorn cards from his Spirit pile, as if targeting the Dragon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152416Z" creationid="nakahodo" creationdate="20180412T152416Z">
+        <seg>ゴブリンたちはヘキサの対象をユニコーンにすることで、あたかもドラゴンのように強制的に魂山札からカードを破棄させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Goblins may target you with Hex to force you to discard cards, as if targeting the Dragon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T192721Z" creationid="nakahodo" creationdate="20180411T192244Z">
@@ -26635,6 +26723,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T100028Z" creationid="nakahodo" creationdate="20180411T100028Z">
         <seg>The Knight may complete her Daring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight may complete her Daring Sidequest by attacking the Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152251Z" creationid="nakahodo" creationdate="20180412T152251Z">
+        <seg>ナイトはユニコーンを攻撃することで大胆サイドクエストを達成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27340,8 +27436,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The [Vile] Ghoul may spend Movement to enter the Unicorn’s space regardless of its Attack, but it can attack him only if its Attack is greater than his Armor (the Unicorn Teleports after th[Vile] Ghoul skitters).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152205Z" creationid="nakahodo" creationdate="20180412T152205Z">
-        <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してウニコーンのスペースに入れますが、その攻撃力がユニコーンのアーマーよりも高い場合にのみ攻撃できます（グールmまたはバイルグールが飛び退いた後でユニコーンがテレポートします）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152218Z" creationid="nakahodo" creationdate="20180412T152205Z">
+        <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してウニコーンのスペースに入れますが、その攻撃力がユニコーンのアーマーよりも高い場合にのみ攻撃できます（グール、またはバイルグールが飛び退いた後でユニコーンがテレポートします）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31907,6 +32003,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When he Teleports, draw and reveal a Unicorn card, and place the Unicorn piece on the destination shown on that card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152617Z" creationid="nakahodo" creationdate="20180412T152617Z">
+        <seg>彼がテレポートする時、ユニコーンカードをドローして公開し、そのカードに示された場所にユニコーンピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When he attacks, he deals the following effect:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150803Z" creationid="nakahodo" creationdate="20180412T150803Z">
@@ -32563,6 +32667,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T234756Z" creationid="aorin" creationdate="20180407T234756Z">
         <seg>ゴブリンのアーティファクトがマップから無くなるたびに、次に明らかになる部族がこれを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the Unicorn enters a space with a Unicorn cube, attacks a player, or is attacked by a player, he then Teleports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152512Z" creationid="nakahodo" creationdate="20180412T152512Z">
+        <seg>ユニコーンがユニコーンキューブのあるスペースに入る、プレイヤーを攻撃する、プレイヤーから攻撃されるたびに、その後、彼はテレポートします。</seg>
       </tuv>
     </tu>
     <tu>
