@@ -20294,8 +20294,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Other players may attack the Unicorn, but doing so will only force the Unicorn to Teleport.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154946Z" creationid="nakahodo" creationdate="20180412T154946Z">
-        <seg>他のプレイヤーたちはユニコーンを攻撃できますが、ユニコーンを強制テレポートさせるだけです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T154958Z" creationid="nakahodo" creationdate="20180412T154946Z">
+        <seg>他のプレイヤーたちはユニコーンを攻撃できますが、ユニコーンを強制テレポートさせるのみになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29077,6 +29077,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The visible player piece whose victory condition is killing the Unicorn (if any).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T160212Z" creationid="nakahodo" creationdate="20180412T160212Z">
+        <seg>ユニコーンを殺すことが勝利条件のプレイヤーピースが見えている（もし入れば）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The winner is the player with the highest overall score, but be aware that getting on the
 positive part of the score track is difficult!</seg>
       </tuv>
@@ -32343,6 +32351,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T235550Z" creationid="aorin" creationdate="20180407T235550Z">
         <seg>洞窟が手札にゴーストタイルを持つ時、別のプレイヤーのターンであっても、（クリスタルタイルを含み）他のタイルよりも先にゴーストタイルを配置しなければなりませn。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Unicorn performs a Rampage, determine which player piece the Unicorn targets in the following order of priority:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T155030Z" creationid="nakahodo" creationdate="20180412T155030Z">
+        <seg>ユニコーンが暴走を実行する時、次の優先順位に従い対象のプレイヤーピースを決定します。</seg>
       </tuv>
     </tu>
     <tu>
