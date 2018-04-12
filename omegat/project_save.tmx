@@ -9263,6 +9263,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dire Unicorn (Hard):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115432Z" creationid="nakahodo" creationdate="20180412T115432Z">
+        <seg>恐ろしきユニコーン（ハード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard [INF] Power cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082523Z" creationid="aorin" creationdate="20180409T082523Z">
@@ -9837,8 +9845,8 @@ position on the Best-Seller List.</seg>
       <tuv lang="EN-US">
         <seg>During setup, if everyone agrees, one player may change their victory condition to “Kill the Nightmare Unicorn by reducing his Health to 0.” Players who do not have this victory condition can still attack the Unicorn, but their attacks only force him to Teleport, not to lose Health.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114623Z" creationid="nakahodo" creationdate="20180412T114623Z">
-        <seg>セットアップ時、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T114948Z" creationid="nakahodo" creationdate="20180412T114623Z">
+        <seg>セットアップ時、全員が同意した場合、1人のプレイヤーは自身の勝利条件を「ナイトメアユニコーンのヘルスを0に減少させる」に変更できます。この勝利条件を持たないプレイヤーたちは依然としてユニコーンを攻撃できますが、彼らに攻撃されたユニコーンはヘルスを失わず、強制テレポートするだけになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14598,6 +14606,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Dragon changes his victory condition to killing the Unicorn, he must also awaken, come to the surface, and escape the Cave, as normal, in order to win.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115046Z" creationid="nakahodo" creationdate="20180412T115046Z">
+        <seg>ドラゴンが自身の勝利条件をユニコーンを殺すことに変更した場合、ドラゴンは依然として、勝利するために通常どおり、目覚め、出現し、洞窟から脱出する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Goblins have the Trap card face-up and choose to discard it, the targeted Tribe ignores the attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T090511Z" creationid="nakahodo" creationdate="20180411T090511Z">
@@ -17205,6 +17221,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is said that a unicorn once roamed these caverns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115857Z" creationid="nakahodo" creationdate="20180412T115857Z">
+        <seg>ユニコーンはかつて洞窟をさまよっていたと言われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is still an advancement card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205600Z" creationid="nakahodo" creationdate="20171218T154337Z">
@@ -18563,6 +18587,22 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T015502Z" creationid="aorin" creationdate="20180408T015502Z">
         <seg>次に、残った憑依カードの中で、憑依されたゴブリンたちと憑依されたバイルグールがターン順番で2で重複していることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Night Mare (Easy):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115349Z" creationid="nakahodo" creationdate="20180412T115349Z">
+        <seg>ナイト・メア（簡単）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nightmare Unicorn (Standard):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115409Z" creationid="nakahodo" creationdate="20180412T115409Z">
+        <seg>ナイトメアユニコーン（スタンダード）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20027,6 +20067,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045537Z" creationid="aorin" creationdate="20171213T045537Z">
         <seg>ファーギスは3鞭をロールし、インディギウスにペナルティポイント1を、フィレンツェに2ペナルティポイントを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phantasm Unicorn (Expert):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115454Z" creationid="nakahodo" creationdate="20180412T115454Z">
+        <seg>ファンタズムユニコーン（エキスパート）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24781,6 +24829,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terror Pony (Easiest):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115323Z" creationid="nakahodo" creationdate="20180412T115323Z">
+        <seg>恐怖のポニー（もっとも簡単）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That Pixie remains there until all players have performed all promotion steps.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
@@ -26175,6 +26231,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115502Z" creationid="nakahodo" creationdate="20180412T115502Z">
+        <seg>シャドウユニコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shadow Unicorn doesn’t have a victory condition, but rather acts as an antagonist.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T110109Z" creationid="aorin" creationdate="20180410T110109Z">
@@ -26259,6 +26323,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073540Z" creationid="aorin" creationdate="20180410T073540Z">
         <seg>シーフは6トレジャートークンをスタッシュした場合に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thief wins if he stashes 6 Treasures or if he kills the Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115137Z" creationid="nakahodo" creationdate="20180412T115137Z">
+        <seg>シーフはトレジャー6つをスタッシュする[または]ユニコーンを殺した場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30025,6 +30097,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unicorn vs. Thief or Unicorn vs. Cave vs Thief:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115105Z" creationid="nakahodo" creationdate="20180412T115105Z">
+        <seg>ユニコーン vs. シーフ、またはユニコーン vs. 洞窟 vs. シーフ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unicorn:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082528Z" creationid="aorin" creationdate="20180409T082528Z">
@@ -32530,6 +32610,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can adjust the difficulty of the Nightmare Unicorn as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115243Z" creationid="nakahodo" creationdate="20180412T115243Z">
+        <seg>次に従い、ナイトメアユニコーンの難易度を調節できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can adjust the difficulty of the Vile Ghoul as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102359Z" creationid="aorin" creationdate="20180410T102359Z">
@@ -33562,6 +33650,46 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must gain 10 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115438Z" creationid="nakahodo" creationdate="20180412T115438Z">
+        <seg>輝き10を得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain 11 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115456Z" creationid="nakahodo" creationdate="20180412T115456Z">
+        <seg>輝き11を得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain 7 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115359Z" creationid="nakahodo" creationdate="20180412T115333Z">
+        <seg>輝き7つを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain 8 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115356Z" creationid="nakahodo" creationdate="20180412T115356Z">
+        <seg>輝き8つを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain 9 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115410Z" creationid="nakahodo" creationdate="20180412T115410Z">
+        <seg>輝き9つを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must gain Fury equal to 5 + the number of players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074828Z" creationid="aorin" creationdate="20180410T074828Z">
@@ -33902,6 +34030,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T103835Z" creationid="nakahodo" creationdate="20180412T103709Z">
         <seg>あなたは9輝きを得て、その後、エントランスタイルに入ることで洞窟から脱出した場合、勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you gain 9 Radiance and then escape the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115210Z" creationid="nakahodo" creationdate="20180412T115210Z">
+        <seg>あなたは9輝きを得て、その後、洞窟から脱出した場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34718,6 +34854,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T085205Z" creationid="nakahodo" creationdate="20180412T085205Z">
         <seg>p4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T115458Z" creationid="nakahodo" creationdate="20180412T115458Z">
+        <seg>p5</seg>
       </tuv>
     </tu>
     <tu>
