@@ -11909,6 +11909,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, form a new Spirit pile by drawing Unicorn cards equal in number to his Spirit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T150230Z" creationid="nakahodo" creationdate="20180412T150230Z">
+        <seg>まず、ユニコーンの魂に等しい数だけ、ユニコーンカードをドローして新しい魂山札を形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, if any player piece, except the Ghost, is on a Ghost tile with a locked Artifact, the Ghost cannot reveal a Possession card for any purpose.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225017Z" creationid="aorin" creationdate="20180407T225017Z">
