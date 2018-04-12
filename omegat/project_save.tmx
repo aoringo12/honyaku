@@ -13514,6 +13514,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How Players Win</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T121030Z" creationid="nakahodo" creationdate="20180412T121030Z">
+        <seg>プレイヤーたちが勝利するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How dare you?!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033557Z" creationid="aorin" creationdate="20171213T033557Z">
@@ -26275,6 +26283,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T110109Z" creationid="aorin" creationdate="20180410T110109Z">
         <seg>シャドウユニコーンはは勝利条件を持ちませんが、敵対者として行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Unicorn has no victory condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T130656Z" creationid="nakahodo" creationdate="20180412T130656Z">
+        <seg>シャドウユニコーンは勝利条件を持ちません。</seg>
       </tuv>
     </tu>
     <tu>
