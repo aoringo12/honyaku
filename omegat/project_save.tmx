@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Odd cards are the first, third, fifth, and seventh cards drawn during this phase.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135658Z" creationid="nakahodo" creationdate="20180412T135658Z">
+        <seg>（奇数カードはこのフェイズ時にドローされる、1枚目、3枚目、5枚目、7枚目のカードです。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(On Ghost or Phantom, this Ghost tile will be the last one remaining.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034624Z" creationid="aorin" creationdate="20180408T034624Z">
@@ -10468,6 +10476,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each odd card prompts a Move action unless the card shows an angry action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135611Z" creationid="nakahodo" creationdate="20180412T135611Z">
+        <seg>各奇数カードは憤りアクションが示されない限り、移動アクションを実行します。</seg>
       </tuv>
     </tu>
     <tu>
