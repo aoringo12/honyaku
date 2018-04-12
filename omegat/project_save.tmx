@@ -6232,6 +6232,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor helps him defend against attacks during other players’ turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133841Z" creationid="nakahodo" creationdate="20180412T133841Z">
+        <seg>アーマーは他プレイヤーのターン時の攻撃に対するユニコーンの防御になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor helps you defend against attacks on other players’ turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114839Z" creationid="aorin" creationdate="20180410T114839Z">
@@ -8789,6 +8797,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Count all Crystal tiles revealed throughout the game, even Crystal tiles that are revealed when being collapsed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T134005Z" creationid="nakahodo" creationdate="20180412T134005Z">
+        <seg>ゲームを通して明らかにされた全てのクリスタルタイルをカウントします。これは崩壊したものも含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Count the total number of each player earns from
 Buildings in their Neighborhood.</seg>
       </tuv>
@@ -9615,6 +9631,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not perform this action yet, because it may provoke the Unicorn to perform the Rampage action instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T135145Z" creationid="nakahodo" creationdate="20180412T135145Z">
+        <seg>このアクションはまだ実行しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not place Sloth cubes on the Shield icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T141311Z" creationid="nakahodo" creationdate="20171127T141311Z">
@@ -10388,6 +10412,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205335Z" creationid="aorin" creationdate="20171215T205335Z">
         <seg>各カードは3つの用途があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each card will prompt either a Move or Turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T134049Z" creationid="nakahodo" creationdate="20180412T134049Z">
+        <seg>各カードは移動かターンの何れかを指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11753,6 +11785,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045636Z" creationid="aorin" creationdate="20171213T045636Z">
         <seg>フィレンツェはスコアトラックのドレイシンボルを越えたので、彼は直ちに昇進済み妖精を炭鉱に降格させなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, draw and reveal a card from the Spirit pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T134030Z" creationid="nakahodo" creationdate="20180412T134030Z">
+        <seg>まず、魂山札からカード1枚をドローして解決します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22280,6 +22320,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh Spirit Pile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133658Z" creationid="nakahodo" creationdate="20180412T133658Z">
+        <seg>魂山札のリフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regardless of the difficulty level or number of players, the Ghoul’s Fury goal cannot exceed 14.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075023Z" creationid="aorin" creationdate="20180410T075023Z">
@@ -24405,6 +24453,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spirit is the number of cards he draws to form a Spirit pile at the end of his turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133820Z" creationid="nakahodo" creationdate="20180412T133820Z">
+        <seg>魂は、ユニコーンのターン終了時に魂山札を形成するためにドローするカードの枚数を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spirit is the number of cards you draw to make your new hand at the end of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114748Z" creationid="aorin" creationdate="20180410T114748Z">
@@ -26503,6 +26559,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn’s turn ends when he completes these phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133714Z" creationid="nakahodo" creationdate="20180412T133714Z">
+        <seg>シャドウユニコーンのターンは、これらフェイズが完了した時に終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shopping action may only be performed once this way.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152045Z" creationid="nakahodo" creationdate="20180108T152045Z">
@@ -26643,6 +26707,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T114506Z" creationid="nakahodo" creationdate="20180412T114506Z">
         <seg>ユニコーンはドラゴンの後にターンを行います（洞窟の前）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn’s statistics improve as Crystal tiles are revealed, as shown by his Revealed Crystals track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133918Z" creationid="nakahodo" creationdate="20180412T133918Z">
+        <seg>ユニコーンのステータスは、明らかにされたクリスタルトラックで示されるように、明らかにされているクリスタルタイルによって上昇します。</seg>
       </tuv>
     </tu>
     <tu>
