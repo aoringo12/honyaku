@@ -5502,6 +5502,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After placing the Unicorn piece, follow these steps in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153227Z" creationid="nakahodo" creationdate="20180412T153227Z">
+        <seg>ユニコーンピースを配置した後、次の順番でこれらステップに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After placing the progress token during Game 4 setup, advance it 2 spaces (shortening the game).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235917Z" creationid="aorin" creationdate="20171231T235830Z">
@@ -9651,6 +9659,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114357Z" creationid="aorin" creationdate="20180410T114357Z">
         <seg>カードによる指示がない限り、ユニコーンの向きは変えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not collapse more tiles during this Teleport if more invalid destinations are drawn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T153213Z" creationid="nakahodo" creationdate="20180412T153213Z">
+        <seg>再度有効ではない場所がどろーされた場合、このテレポートでのタイルのさらなる崩壊はありません。</seg>
       </tuv>
     </tu>
     <tu>
