@@ -7648,6 +7648,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But that was before, and he failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T120040Z" creationid="nakahodo" creationdate="20180412T120040Z">
+        <seg>それはかつての事、失われた過去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By choosing this action, a player can exchange 1 of their Tiles with a Tile of the same type on the game board OR on an opponent’s player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075214Z" creationid="aorin" creationdate="20171213T075214Z">
@@ -9451,6 +9459,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035933Z" creationid="aorin" creationdate="20180408T035933Z">
         <seg>マップから取り除かれたこれらはカウントせず、（洞窟のように）トレジャートークンはカウントしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not cross him, for as riders break in their mounts, so will he break you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T121024Z" creationid="nakahodo" creationdate="20180412T121024Z">
+        <seg>進行を妨げることなかれ、理性なく、あなたは破壊されることになる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18705,6 +18721,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now he is a simple, wild beast, a shadow at home in the darkness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T120306Z" creationid="nakahodo" creationdate="20180412T120306Z">
+        <seg>彼は今、単なる野生であり、闇の中、そのまた影に住まう獣となり果てました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now that each position in turn order only has one card, she collects them to form her Possession deck.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T015642Z" creationid="aorin" creationdate="20180408T015631Z">
@@ -18877,6 +18901,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131357Z" creationid="nakahodo" creationdate="20171213T131357Z">
         <seg>提供フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, how he wished to be free, to run again through the plains and forests, to rejoin with the light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T120019Z" creationid="nakahodo" creationdate="20180412T120019Z">
+        <seg>彼は自由を、平原と草原を走り、再び光を見たいと望みました。</seg>
       </tuv>
     </tu>
     <tu>
