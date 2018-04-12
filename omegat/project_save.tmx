@@ -11421,6 +11421,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FORCED TELEPORT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T082845Z" creationid="nakahodo" creationdate="20180412T082845Z">
+        <seg>強制的なテレポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FULLY FOCUSED VARIANT</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T033250Z" creationid="aorin" creationdate="20180408T033250Z">
@@ -14346,6 +14354,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T124258Z" creationid="aorin" creationdate="20171212T124258Z">
         <seg>誰も提供できていなかった場合、クイーンは自身の部下の敬意のなさに激怒します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If none of the revealed cards show a valid destination, reveal more cards, one at a time, until you find a valid destination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T085203Z" creationid="nakahodo" creationdate="20180412T085203Z">
+        <seg>もし公開されたカードに有効な場所が示されていない場合、有効な場所が見つかるまで1度に1枚ずつ、カードをさらに公開していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29897,6 +29913,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use it sparingly to prevent the Collapse from beginning too quickly, and to avoid helping the Cave player too much.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T082839Z" creationid="nakahodo" creationdate="20180412T082839Z">
+        <seg>崩壊があまりにも早く始まらないように、洞窟プレイヤーの補助にならないように、よく考えて使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use that card to place the tile in the Automa's charter (same as you would a worker, but ignoring the basic resource building).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152716Z" creationid="nakahodo" creationdate="20171230T152716Z">
@@ -30827,6 +30851,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T111404Z" creationid="aorin" creationdate="20180410T111404Z">
         <seg>ゲームにシャドウユニコーンを追加する時、1人のプレイヤーは勝利条件をシャドウユニコーンを倒すことに変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you are forced to Teleport, draw and reveal Unicorn cards equal in number to your Clarity, choose your destination from one revealed card, place your piece there, and then discard the cards you revealed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T083204Z" creationid="nakahodo" creationdate="20180412T083204Z">
+        <seg>あなたが強制的にテレポートする時、あなたの透明の数だけ、ユニコーンカードをドローして公開し、公開されたカードの1枚を選択して位置を決定してそこにあなたのピースを配置し、その後、公開したカードを全て破棄します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32406,6 +32438,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211428Z" creationid="aorin" creationdate="20180409T211428Z">
         <seg>同じターン時に同じ対象を再度攻撃できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot be forced to Teleport to an open space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T083217Z" creationid="nakahodo" creationdate="20180412T083217Z">
+        <seg>あなたは空きスペースに強制的にテレポートできません。</seg>
       </tuv>
     </tu>
     <tu>
