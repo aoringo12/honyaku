@@ -14902,6 +14902,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Unicorn does not Rampage, resolve the prompted action (Move or Turn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T140634Z" creationid="nakahodo" creationdate="20180412T140634Z">
+        <seg>If the Unicorn does not Rampage, resolve the prompted action (Move or Turn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Vagabond crafts an improvement with an item, he may immediately put the crafted item into his exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214045Z" creationid="aorin" creationdate="20171215T214045Z">
