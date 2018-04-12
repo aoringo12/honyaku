@@ -7391,6 +7391,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beware!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180411T201557Z" creationid="nakahodo" creationdate="20180411T201557Z">
+        <seg>注意してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235006Z" creationid="aorin" creationdate="20171215T235006Z">
@@ -24433,6 +24441,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T193933Z" creationid="nakahodo" creationdate="20180411T193933Z">
         <seg>テレポーテーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teleporting to empty spaces allows you to quickly escape from danger, but it also adds many more tiles to the map than normal movement does.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T082708Z" creationid="nakahodo" creationdate="20180412T082708Z">
+        <seg>空きスペースへのテレポートは、危険から緊急避難するために使用できますが、通常の移動よりもマップに多くのタイルを追加します。</seg>
       </tuv>
     </tu>
     <tu>
