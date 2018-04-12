@@ -5965,6 +5965,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, during the Replace Hand and Reset Anger phase, your Anger resets to 2 (not 1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102630Z" creationid="nakahodo" creationdate="20180412T102630Z">
+        <seg>また、手札の入れ替えと憤りをリセットフェイズ時に、あなたの憤りは2にリセットされます（1ではなく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alter play priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143042Z" creationid="nakahodo" creationdate="20171213T143042Z">
@@ -6056,8 +6064,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An upgrade to Spirit, Pace, Armor, or Clarity immediately increases that statistic by the amount shown.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101850Z" creationid="nakahodo" creationdate="20180412T101850Z">
-        <seg>魂、ペース、アーマー、透明を1つアップグレードして、直ちに示される数値にステータスが上昇します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102606Z" creationid="nakahodo" creationdate="20180412T101850Z">
+        <seg>魂、ペース、アーマー、透明を1つアップグレードして、直ちに示される数値だけステータスが上昇します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16811,6 +16819,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, remove the marked tile shown on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T103522Z" creationid="nakahodo" creationdate="20180412T103522Z">
+        <seg>代わりに、カードに指示された場所のタイルを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, take a Reward</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173102Z" creationid="aorin" creationdate="20171212T173102Z">
@@ -25085,6 +25101,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Displacement Blast upgrade gives you the Displacement Blast action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102736Z" creationid="nakahodo" creationdate="20180412T102736Z">
+        <seg>The Displacement Blast upgrade gives you the Displacement Blast action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dragon can enter your space freely, and he can freely attack you with Claw or Scratch.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T095009Z" creationid="nakahodo" creationdate="20180411T095009Z">
@@ -29334,6 +29358,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123656Z" creationid="nakahodo" creationdate="20171213T123656Z">
         <seg>このアクションを実行するには、このターンに残っているあなたのアクションディスクを全て、アクションスペースに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To perform this action, play a card but do not resolve its listed action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102807Z" creationid="nakahodo" creationdate="20180412T102807Z">
+        <seg>このアクションを実行するには、カード1枚をプレイしますが、それに記述されたアクションは解決しません。</seg>
       </tuv>
     </tu>
     <tu>
