@@ -21600,6 +21600,22 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Radiance and Upgrades</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T085212Z" creationid="nakahodo" creationdate="20180412T085212Z">
+        <seg>輝きとアップグレード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radiance represents the Unicorn’s power, which he drains from the other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T094134Z" creationid="nakahodo" creationdate="20180412T094134Z">
+        <seg>輝きは他のプレイヤーから吸い取った、ユニコーンのパワーを表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ragpicker (Easiest):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074842Z" creationid="aorin" creationdate="20180410T074749Z">
@@ -34262,6 +34278,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T084109Z" creationid="nakahodo" creationdate="20180411T084109Z">
         <seg>p3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T085205Z" creationid="nakahodo" creationdate="20180412T085205Z">
+        <seg>p4</seg>
       </tuv>
     </tu>
     <tu>
