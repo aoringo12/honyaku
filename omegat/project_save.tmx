@@ -9487,6 +9487,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not change the Unicorn’s facing unless directed by a card or a rule in this chapter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133623Z" creationid="nakahodo" creationdate="20180412T133623Z">
+        <seg>このチャプターのルールやカードで指示されない限り、ユニコーンの向きは変更しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not change the Unicorn’s facing unless directed by a card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114357Z" creationid="aorin" creationdate="20180410T114357Z">
@@ -9699,6 +9707,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213105Z" creationid="aorin" creationdate="20180114T213105Z">
         <seg>諜報デッキから諜報カード2枚をドローし、1枚を保持し、もう1枚をデッキの下に入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw 3 Unicorn cards and place them near his player board to form the Spirit pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133222Z" creationid="nakahodo" creationdate="20180412T133222Z">
+        <seg>ユニコーンカード3枚をドローし、ユニコーンのプレイヤーボード近くにこれらを配置し、魂山札を形成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14606,6 +14622,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If playing as the Goblins, Thief, or [Vile] Ghoul, take the Flare Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132711Z" creationid="nakahodo" creationdate="20180412T132711Z">
+        <seg>ゴブリンたち、シーフ、グール（またはバイルグール）でプレイする場合、フレアヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If playing as the Knight, Dragon, Thief, or [Vile] Ghoul, you must also escape the Cave by entering the Entrance tile.” As normal, the Dragon must awaken and come to the surface before he can escape the Cave.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131754Z" creationid="nakahodo" creationdate="20180412T131641Z">
@@ -14618,6 +14642,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132358Z" creationid="nakahodo" creationdate="20180412T132358Z">
         <seg>ナイトでプレイする場合、ゴブリン蔓延ヴァリアントカードとモンスタートークンを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If playing solo, do not take the Alone in the Dark Variant card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132723Z" creationid="nakahodo" creationdate="20180412T132723Z">
+        <seg>ソロでプレイする場合、アローンインザダークヴァリアントカードは取りません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15239,6 +15271,14 @@ in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075925Z" creationid="aorin" creationdate="20180410T075925Z">
         <seg>ナイトが居ない場合、ドラゴンを殺す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Lit tile available, place the Unicorn on an unoccupied, adjacent Dark tile and then reveal that tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133544Z" creationid="nakahodo" creationdate="20180412T133544Z">
+        <seg>利用可能なライトタイルがない場合、プレイヤーピースに隣接する、未占領のダークタイル1つにユニコーンを配置し、その後、このタイルを明らかにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16169,6 +16209,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132407Z" creationid="aorin" creationdate="20171215T132407Z">
         <seg>2プレイヤーゲームを望む場合、鷲に対マルキスでプレイするといいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish to play as one of those roles, play a multiplayer game (page 7).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132832Z" creationid="nakahodo" creationdate="20180412T132755Z">
+        <seg>これらのプレイヤーロールの1つとプレイすることを望む場合、複数プレイヤーゲームをプレイします（ページ7）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19041,6 +19089,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Unicorn’s first turn, place him on any Lit tile adjacent to your player piece, facing directly away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133349Z" creationid="nakahodo" creationdate="20180412T133349Z">
+        <seg>ゲーム最初のユニコーンのターン開始時に、あなたのプレイヤーピースに隣接した任意のライトタイル1つにユニコーンを顔を合わせるように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the bright side, your opponents must address you as King (or Queen) from now on.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220440Z" creationid="nakahodo" creationdate="20171229T220440Z">
@@ -20776,6 +20832,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193345Z" creationid="aorin" creationdate="20180114T193345Z">
         <seg>影響ポイント（IP）を分野ごとに分け、マップ横に全てのプレイヤーの手がとどくように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Shadow Unicorn player board near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132859Z" creationid="nakahodo" creationdate="20180412T132859Z">
+        <seg>あなたのプレイヤーボードの近くにシャドウユニコーンのプレイヤーボードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22614,6 +22678,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133116Z" creationid="nakahodo" creationdate="20180406T133116Z">
         <seg>憑依カードの解決</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolve Spirit Pile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133642Z" creationid="nakahodo" creationdate="20180412T133642Z">
+        <seg>魂山札の解決</seg>
       </tuv>
     </tu>
     <tu>
@@ -26411,6 +26483,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T105600Z" creationid="aorin" creationdate="20180410T105600Z">
         <seg>シャドウユニコーンはソロまたは複数プレイヤーゲームに追加できる、ノンプレイヤーのロールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Unicorn is not designed for use against the Cave or Cave Ghost alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132759Z" creationid="nakahodo" creationdate="20180412T132754Z">
+        <seg>シャドウユニコーンはソロの洞窟や洞窟ゴーストに対するようデザインされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Unicorn takes his turn after all players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133636Z" creationid="nakahodo" creationdate="20180412T133636Z">
+        <seg>シャドウユニコーンは全てのプレイヤーたちの後にターンを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30257,6 +30345,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unicorn Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T132838Z" creationid="nakahodo" creationdate="20180412T132838Z">
+        <seg>ユニコーンセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unicorn vs. Dragon (+Any):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T114334Z" creationid="nakahodo" creationdate="20180412T114334Z">
@@ -30701,6 +30797,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101026Z" creationid="aorin" creationdate="20171212T101026Z">
         <seg>あなたが特別提供アクションを使用することにより、迅速に報酬ポイントを達成することができるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Tracking cubes, set his Health to 7, and set the Revealed Crystals track to 0–2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T133036Z" creationid="nakahodo" creationdate="20180412T133036Z">
+        <seg>記録キューブを使用して、ユニコーンのヘルスを7に、明らかにされたクリスタルトラックの0-2にセットします。</seg>
       </tuv>
     </tu>
     <tu>
