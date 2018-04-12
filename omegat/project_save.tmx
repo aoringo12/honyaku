@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you upgrade Spirit, wait until the Replace Hand and Reset Anger phase to draw more cards.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102209Z" creationid="nakahodo" creationdate="20180412T102209Z">
+        <seg>（あなたが魂をアップグレードした場合、手札の入れ替えと憤りをリセットフェイズでさらにカードをドローするまで数値は反映しません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you wish, you may show off the Possession card that was on your Possession space.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T182525Z" creationid="aorin" creationdate="20180406T182525Z">
@@ -6046,6 +6054,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An upgrade to Spirit, Pace, Armor, or Clarity immediately increases that statistic by the amount shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101850Z" creationid="nakahodo" creationdate="20180412T101850Z">
+        <seg>魂、ペース、アーマー、透明を1つアップグレードして、直ちに示される数値にステータスが上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And did you recently choose a rebel persona?</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T132818Z">
@@ -10053,10 +10069,26 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your turn, if you end a non-angry Move, Turn, or Teleport on a Crystal tile (even if it is smashed) that does not hold a Unicorn cube, you may place a Unicorn cube there to gain 1 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101435Z" creationid="nakahodo" creationdate="20180412T101435Z">
+        <seg>あなたのターン時、憤りを得ない移動、ターン、テレポートを、ユニコーンキューブを持たない（クリスタルの有無問わず）クリスタルタイルで終えたあ愛、そこにユニコーンキューブを配置し、1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your turn, if you end a nonangry</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T094402Z" creationid="nakahodo" creationdate="20180412T094402Z">
         <seg>During your turn, if you end a nonangry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During your turn, if you end a nonangry Move, Turn, or Teleport on a space with a Treasure token, you may collect it to gain 1 Radiance, returning the Treasure to the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101534Z" creationid="nakahodo" creationdate="20180412T101534Z">
+        <seg>あなたのターン時、憤りを得ない移動、ターン、テレポートを、トレジャートークンのあるスペースでお得た場合、それを1つ収集でき、1輝きを得て、洞窟にトレジャーを返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,6 +10769,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231553Z" creationid="aorin" creationdate="20171215T231553Z">
         <seg>ヴァガボンドがヒット1つを受けるたびに、利用可能なアイテム1つが壊れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time you gain Radiance, remove a Unicorn cube from your Radiance track and place it on an upgrade space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101815Z" creationid="nakahodo" creationdate="20180412T101815Z">
+        <seg>あなたが輝き1つを得るたびに、自身の輝きトラックからユニコーンキューブ1つを取り、アップグレードスペースにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13720,6 +13760,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134100Z" creationid="nakahodo" creationdate="20171127T134100Z">
         <seg>炎の壁がプレイヤーが既に存在するスペースに配置された場合、彼らがそのタイルから出てまた入るまで影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a Crystal tile with a Unicorn cube is collapsed, remove the cube with the tile, but do not return a cube to your Radiance track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101740Z" creationid="nakahodo" creationdate="20180412T101740Z">
+        <seg>ユニコーンキューブのあるクリスタルタイルが崩壊した場合、タイルとキューブを取り除きますが、あなたの輝きトラックにキューブを戻すことはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26023,6 +26071,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unbridled upgrade increases your Anger by 1 immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T102601Z" creationid="nakahodo" creationdate="20180412T102601Z">
+        <seg>拘束解除アップグレードはあなたの憤りを直ちに1上昇させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Unicorn can Teleport, moving from one space to another while ignoring all walls, effects, and player pieces on spaces in between.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T194046Z" creationid="nakahodo" creationdate="20180411T194046Z">
@@ -32750,6 +32806,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T202412Z" creationid="aorin" creationdate="20180409T202412Z">
         <seg>あなたは、収集するトレジャーやジェムごとに2移動力ポイント消費することにより、自身のスペースにあるそれらからトークン1つを収集することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may collect multiple Treasure tokens on a space, gaining 1 Radiance each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T101650Z" creationid="nakahodo" creationdate="20180412T101650Z">
+        <seg>スペースにある複数のトレジャートークンも収集でき、その場合は1つごとに1輝きを得ます。</seg>
       </tuv>
     </tu>
     <tu>
