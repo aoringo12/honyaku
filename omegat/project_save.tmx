@@ -4553,6 +4553,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe can enter the Unicorn’s space only if its Strength is greater than his Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151131Z" creationid="nakahodo" creationdate="20180412T151131Z">
+        <seg>ゴブリン部族は、その筋力がユニコーンのアーマーを超える場合にのみ、ユニコーンのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Goblin Tribe can enter your space only if its Strength is greater than your Armor.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T094921Z" creationid="nakahodo" creationdate="20180411T094921Z">
@@ -8503,6 +8511,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114934Z" creationid="aorin" creationdate="20180410T114934Z">
         <seg>透明は強制テレポート時に公開するカードの枚数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Claw counts as eating 1 Goblin and causes the Unicorn to lose 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151502Z" creationid="nakahodo" creationdate="20180412T151502Z">
+        <seg>クロウはゴブリン1匹を食べたとしてカウントし、ユニコーンのヘルスを1減少させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13722,6 +13738,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hiss does not affect the Unicorn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151525Z" creationid="nakahodo" creationdate="20180412T151525Z">
+        <seg>ヒスはユニコーンに影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hiss does not affect you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T233048Z" creationid="aorin" creationdate="20180409T233048Z">
@@ -14619,6 +14643,14 @@ Cloud Port or Grandstand)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it enters his space, it attacks him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151149Z" creationid="nakahodo" creationdate="20180412T151149Z">
+        <seg>彼のスペースに部族が入る場合、彼を攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it enters your space, it attacks you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232119Z" creationid="aorin" creationdate="20180409T232119Z">
@@ -15038,6 +15070,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Thief’s Stealth is greater than the Unicorn’s Armor, the Thief can attack with Backstab by spending 3 Action cubes, causing the Unicorn to lose 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151952Z" creationid="nakahodo" creationdate="20180412T151952Z">
+        <seg>シーフのステルスがユニコーンのアーマーよりも高い場合、シーフは3アクションキューブを消費することで不意打ちを使用してユニコーンのヘルスを1減少させられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Unicorn Teleports for any reason, ignore any remaining movement prompted by the revealed card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142517Z" creationid="nakahodo" creationdate="20180412T142517Z">
@@ -15058,6 +15098,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T141820Z" creationid="nakahodo" creationdate="20180412T140634Z">
         <seg>ユニコーンが暴走しない場合、支持されたアクションを解決します（移動やターン）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Unicorn enters a space with a Flame Wall, he Teleports but is otherwise unaffected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151557Z" creationid="nakahodo" creationdate="20180412T151557Z">
+        <seg>ユニコーンが炎の壁のあるスペースに入った場合、ユニコーンはテレポートしますが、それ以外の効果を受けません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23674,6 +23722,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scratch counts as eating 3 Goblins and causes the Unicorn to lose 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151517Z" creationid="nakahodo" creationdate="20180412T151517Z">
+        <seg>叩き潰すはゴブリン3匹を食べたとしてカウントし、ユニコーンのヘルスを1減少させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scratch counts as the Dragon eating 3 Goblins and forces you to discard 1 Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232713Z" creationid="aorin" creationdate="20180409T232713Z">
@@ -25981,6 +26037,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dragon can enter the Unicorn’s space freely, and the Dragon can freely attack the Unicorn with Claw or Scratch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151428Z" creationid="nakahodo" creationdate="20180412T151428Z">
+        <seg>ドラゴンはユニコーンのスペースに自由に入ることができ、クロウや叩き潰すでユニコーンを自由に攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dragon can enter your space freely, and he can freely attack you with Claw or Scratch.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T095009Z" creationid="nakahodo" creationdate="20180411T095009Z">
@@ -26975,6 +27039,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief can enter the Unicorn’s space freely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151604Z" creationid="nakahodo" creationdate="20180412T151604Z">
+        <seg>シーフは自由にユニコーンのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief can enter your space freely.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T095105Z" creationid="nakahodo" creationdate="20180411T095105Z">
@@ -27107,6 +27179,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111400Z" creationid="nakahodo" creationdate="20180412T111400Z">
         <seg>ユニコーンは次のように地形タイルと作用します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn loses 1 Health, the Tribe scatters, and the Goblins lose 1 Rage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T151228Z" creationid="nakahodo" creationdate="20180412T151228Z">
+        <seg>ユニコーンは1ヘルス失い、部族は散り、ゴブリンたちは1怒りを失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27254,6 +27334,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
         <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The [Vile] Ghoul may spend Movement to enter the Unicorn’s space regardless of its Attack, but it can attack him only if its Attack is greater than his Armor (the Unicorn Teleports after th[Vile] Ghoul skitters).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152205Z" creationid="nakahodo" creationdate="20180412T152205Z">
+        <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してウニコーンのスペースに入れますが、その攻撃力がユニコーンのアーマーよりも高い場合にのみ攻撃できます（グールmまたはバイルグールが飛び退いた後でユニコーンがテレポートします）。</seg>
       </tuv>
     </tu>
     <tu>
