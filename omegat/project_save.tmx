@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Knight can attack if equal, but must roll.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073215Z" creationid="nakahodo" creationdate="20180413T073141Z">
+        <seg>（ナイトは同値でも攻撃できるが、ダイスロールが必要）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Like the Cave, there is no solo variant for the Cave Ghost.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T160320Z" creationid="aorin" creationdate="20180408T160320Z">
@@ -7230,6 +7238,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071637Z" creationid="nakahodo" creationdate="20180413T071615Z">
         <seg>ユニコーンへ攻撃する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking the Unicorn counts for Daring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073252Z" creationid="nakahodo" creationdate="20180413T073252Z">
+        <seg>ユニコーンへの攻撃は大胆にカウントされる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14096,6 +14112,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her Mighty Axe cannot increase damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073233Z" creationid="nakahodo" creationdate="20180413T073233Z">
+        <seg>マイティアックスはダメージを上昇させない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Her Robotanists will turn metal and rare gems into the artificial flowers and trees stemming from her childhood memories.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065058Z" creationid="nakahodo" creationdate="20180311T064456Z">
@@ -18790,6 +18814,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knight can shoot him with Enchanted Bow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073201Z" creationid="nakahodo" creationdate="20180413T073201Z">
+        <seg>ナイトはエンチャントされた弓で彼を撃てる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Knight's attack completes Daring, and completes Stalwart if its Defense was 3 or greater, and completes Fearless if she revealed a Dark tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T063823Z" creationid="nakahodo" creationdate="20180413T063823Z">
@@ -18800,8 +18832,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Knight, Goblins, and [Vile] Ghoul can attack him if their Strength or Attack is greater than his Armor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073120Z" creationid="nakahodo" creationdate="20180413T071620Z">
-        <seg>ナイト、ゴブリン、グール（またはバイルグール）は、その筋力や攻撃力がユニコーンのアーマーを超える場合に彼を攻撃できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073205Z" creationid="nakahodo" creationdate="20180413T071620Z">
+        <seg>ナイト、ゴブリン、グール（またはバイルグール）は、その筋力や攻撃力がユニコーンのアーマーを超える場合に彼を攻撃できる。</seg>
       </tuv>
     </tu>
     <tu>
