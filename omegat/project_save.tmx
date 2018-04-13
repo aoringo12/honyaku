@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Who knew something so noble could fall so far?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073704Z" creationid="nakahodo" creationdate="20180413T073704Z">
+        <seg>”その光がここまで堕ちるとは、誰が思ったろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$2 or 3 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150052Z" creationid="nakahodo" creationdate="20171230T150052Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040452Z" creationid="aorin" creationdate="20180408T040452Z">
         <seg>（他のプレイヤーのターン時にタイルを配置する場合は、クリスタルタイルである必要はありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Unicorn does not lose Radiance.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073328Z" creationid="nakahodo" creationdate="20180413T073328Z">
+        <seg>（イニコーンは輝きを失わない）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8396,6 +8412,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cave's Soporific Spores removes an upgrade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073317Z" creationid="nakahodo" creationdate="20180413T073317Z">
+        <seg>洞窟の催眠胞子はアップグレード1つを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T195700Z" creationid="nakahodo" creationdate="20180311T195700Z">
@@ -10566,6 +10590,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130755Z" creationid="nakahodo" creationdate="20171213T130755Z">
         <seg>しかし、次の窃盗フェイズ時は、小さなキューブトラックに一致するように大きなキューブトラックが変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the possession turn, you can use the Ancient Map, Bomb (tokens only), and Bow once each, even if the Knight player already used them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075646Z" creationid="nakahodo" creationdate="20180413T075646Z">
+        <seg>憑依ターン時、あなたはナイトプレイヤーが既に使用していたとしても、弓、爆弾（トークンのみ）、古代の地図を1度ずつ使用できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13680,6 +13712,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211746Z" creationid="aorin" creationdate="20180409T211746Z">
         <seg>ゴブリン部族：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goblins can target him with Hex.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073301Z" creationid="nakahodo" creationdate="20180413T073301Z">
+        <seg>ゴブリンはヘキサで彼を対象にできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18494,6 +18534,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's a shame to end it, but it must be done."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073727Z" creationid="nakahodo" creationdate="20180413T073727Z">
+        <seg>終わらせるのは残念だが、しなければならない”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's not like we need to get married tomorrow, but would you go on a date with me?"</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211117Z" creationid="aorin" creationdate="20171231T211117Z">
@@ -19701,6 +19749,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214558Z" creationid="aorin" creationdate="20171215T214558Z">
         <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement = 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073746Z" creationid="nakahodo" creationdate="20180413T073746Z">
+        <seg>移動力＝5</seg>
       </tuv>
     </tu>
     <tu>
@@ -21386,6 +21442,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perception = [INF +1]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073842Z" creationid="nakahodo" creationdate="20180413T073842Z">
+        <seg>感知力＝影響力＋1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform Actions</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114605Z" creationid="aorin" creationdate="20180410T114605Z">
@@ -22934,6 +22998,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T103822Z" creationid="nakahodo" creationdate="20171001T103822Z">
         <seg>ポジティブアクションは任意であるのに対して、ネガティブアクションは実行シなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Knight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073740Z" creationid="nakahodo" creationdate="20180413T073740Z">
+        <seg>憑依されたナイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -25979,6 +26051,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150655Z" creationid="nakahodo" creationdate="20180108T150655Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength = 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073846Z" creationid="nakahodo" creationdate="20180413T073846Z">
+        <seg>筋力＝3</seg>
       </tuv>
     </tu>
     <tu>
@@ -30829,6 +30909,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230355Z" creationid="aorin" creationdate="20171215T230355Z">
         <seg>マルキス・デ・キャットのキープ。キープでの任意の戦闘中、マルキスは撤退するとしても、受けるヒット1つを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thief can attack him with Backstab by spending 3 Action cubes, if Thief's Stealth is greater than Unicorn's Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073413Z" creationid="nakahodo" creationdate="20180413T073413Z">
+        <seg>シーフはそのステルスがユニコーンのアーマーを超える場合に、3アクションキューブを消費することで、不意打ちにより彼を攻撃できる。</seg>
       </tuv>
     </tu>
     <tu>
