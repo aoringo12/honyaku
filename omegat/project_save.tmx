@@ -5207,6 +5207,15 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adapt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061047Z" creationid="nakahodo" creationdate="20180413T060736Z">
+        <seg>Adapt
+適応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new cards on top of cards already in a column.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001211Z" creationid="aorin" creationdate="20171216T001211Z">
@@ -7725,6 +7734,15 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T094825Z" creationid="nakahodo" creationdate="20171001T094825Z">
         <seg>その後、ブレンドは"劣化"し、衰退します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blink</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060939Z" creationid="nakahodo" creationdate="20180413T060506Z">
+        <seg>Blink
+ブリンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -19243,6 +19261,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move from a Crystal tile to any unoccupied space, without spending movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060657Z" creationid="nakahodo" creationdate="20180413T060657Z">
+        <seg>移動力を消費せずに、クリスタルタイル1枚から、任意の未占領スペースに移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move from any clearing whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002255Z" creationid="aorin" creationdate="20171216T002255Z">
@@ -24191,6 +24217,15 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seize</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061230Z" creationid="nakahodo" creationdate="20180413T060955Z">
+        <seg>Seize
+強奪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Automa' s home charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093657Z" creationid="nakahodo" creationdate="20180108T093657Z">
@@ -25135,6 +25170,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T025054Z" creationid="aorin" creationdate="20180408T025054Z">
         <seg>うつろう影 （イージー）：アーティファクト4つをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend 1 movement to collect a Treasure or Gem, or spend 2 movement to collect a Gem without rolling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061330Z" creationid="nakahodo" creationdate="20180413T061330Z">
+        <seg>1移動力を消費して、トレジャーかジェム1つを収集する[または]2移動力を消費して、ドラゴンダイスのロールをせずにジェム1つを収集する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend 2 movement to move from a Crystal tile to another Crystal tile with no player pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060610Z" creationid="nakahodo" creationdate="20180413T060610Z">
+        <seg>2移動力を消費して、クリスタルタイル1枚から、別のプレイヤーピースのいないクリスタルタイルへと移動する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32989,10 +33040,18 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you would draw a Terror card, instead search the Terror deck, take any card, and then shuffle the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060910Z" creationid="nakahodo" creationdate="20180413T060910Z">
+        <seg>恐怖カード1枚をドローする時、ドローするのではなく恐怖デッキの中身を見て、任意のカード1枚を取り、その後、デッキをシャッフルする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you would roll the Ghoul dice or Dragon die, you may instead choose the result of one die and roll the rest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060307Z" creationid="nakahodo" creationdate="20180413T060307Z">
-        <seg>あなたがグールダイスやドラゴンダイスをロールする時、その内のダイス1つの結果を選択して決定し、残りをロールします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060439Z" creationid="nakahodo" creationdate="20180413T060307Z">
+        <seg>あなたがグールダイスやドラゴンダイスをロールする時、その内のダイス1つの結果を選択して決定し、残りをロールする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33681,6 +33740,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154522Z" creationid="nakahodo" creationdate="20171230T154522Z">
         <seg>あなたがツェッペリンを使用するたびに、＋2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you would draw a Terror card, instead draw two, keep one, and place the other on the bottom of the Terror deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060823Z" creationid="nakahodo" creationdate="20180413T060823Z">
+        <seg>あなたが恐怖カード1枚をドローするたびに、1枚ではなく2枚をドローし、1枚を保持、もう1枚を恐怖デッキの下へと入れる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37191,6 +37258,22 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Nasty little cheatses...”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060415Z" creationid="nakahodo" creationdate="20180413T060415Z">
+        <seg>”ちょトだけのズる……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Sha-sha-sha!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060731Z" creationid="nakahodo" creationdate="20180413T060731Z">
+        <seg>”シュッシュッシュッ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Stabbity stab stab!”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055455Z" creationid="nakahodo" creationdate="20180413T055455Z">
@@ -37203,6 +37286,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055725Z" creationid="nakahodo" creationdate="20180413T055725Z">
         <seg>”ばぁあアアァア！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Tricksy...”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061009Z" creationid="nakahodo" creationdate="20180413T060934Z">
+        <seg>"ちょっトしたおフザケだ……"</seg>
       </tuv>
     </tu>
     <tu>
