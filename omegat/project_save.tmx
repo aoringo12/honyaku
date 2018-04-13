@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Such a foul, unnatural creature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070108Z" creationid="nakahodo" creationdate="20180413T070108Z">
+        <seg>"Such a foul, unnatural creature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"The process of moving the soul ft·om one body to anothe,:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T002204Z" creationid="aorin" creationdate="20171229T002204Z">
@@ -7518,6 +7526,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backstab reduces its Movement on its next turn by 1 per Action cube he spends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T064744Z" creationid="nakahodo" creationdate="20180413T064744Z">
+        <seg>不意打ちはシーフが消費するアクションキューブ1つごとに、グールの次ターンの移動力を1減少させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrens (brown):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195534Z" creationid="aorin" creationdate="20180114T195534Z">
@@ -8288,6 +8304,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050652Z" creationid="aorin" creationdate="20180408T050652Z">
         <seg>洞窟ルール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cave's Soporific Spores decreases Fury by 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T064555Z" creationid="nakahodo" creationdate="20180413T064534Z">
+        <seg>洞窟の催眠胞子は1怒り減少させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9968,6 +9992,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145816Z" creationid="nakahodo" creationdate="20180108T145816Z">
         <seg>Down With The Flu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragon's Claw counts as eating 1 Goblin, and Scratch counts as eating 3 Goblins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T064123Z" creationid="nakahodo" creationdate="20180413T064123Z">
+        <seg>ドラゴンのクロウはゴブリン1匹を食べたとして、叩き潰すは3匹食べたとしてカウントする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30567,6 +30599,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thief may Pickpocket to steal a Treasure or discard a Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T064635Z" creationid="nakahodo" creationdate="20180413T064541Z">
+        <seg>シーフはスリでトレジャー1つを盗む[または]恐怖カード1枚を破棄させることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thief:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082535Z" creationid="aorin" creationdate="20180409T082535Z">
@@ -31796,6 +31836,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115105Z" creationid="nakahodo" creationdate="20180412T115105Z">
         <seg>ユニコーン vs. シーフ、またはユニコーン vs. 洞窟 vs. シーフ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicorn's attack at 3 Anger discards a Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T064542Z" creationid="nakahodo" creationdate="20180413T064510Z">
+        <seg>ユニコーンの3憤りによる攻撃は、恐怖カード1枚を破棄させる。</seg>
       </tuv>
     </tu>
     <tu>
