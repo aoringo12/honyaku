@@ -35448,6 +35448,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you roll th[Vile] Ghoul dice or Dragon die, you may reroll one die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162928Z" creationid="nakahodo" creationdate="20180413T162928Z">
+        <seg>あなたがグールダイスやドラゴンダイスをロールするたびに、ダイス1つを振りなおせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you roll the Ghoul dice or Dragon die, you may reroll one die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055907Z" creationid="nakahodo" creationdate="20180413T055907Z">
