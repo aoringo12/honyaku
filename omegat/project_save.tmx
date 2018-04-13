@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(May be used before, during, or after movement.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161052Z" creationid="nakahodo" creationdate="20180413T160947Z">
+        <seg>（移動の前、中、後に使用できる）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not playable by the Vagabond or Marquise.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233321Z" creationid="aorin" creationdate="20171215T233321Z">
@@ -9812,6 +9820,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decide as a group before starting if you'd like to use them or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161428Z" creationid="nakahodo" creationdate="20180413T161428Z">
+        <seg>これらカードを使用するかどうか、ゲームを開始するまえに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decide for the Automa, but the Automa receives 1 glory, regardless of the choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110333Z" creationid="nakahodo" creationdate="20180108T110333Z">
@@ -11961,6 +11977,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124959Z" creationid="nakahodo" creationdate="20180406T124959Z">
         <seg>両ロールは、他の全てのロールのルールに精通しているプレイヤーが、経験豊富なグループでプレイされるのが良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enchanted Bow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160711Z" creationid="nakahodo" creationdate="20180413T160711Z">
+        <seg>エンチャントされた弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -19836,6 +19860,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Made from the bones of some ancient creature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161148Z" creationid="nakahodo" creationdate="20180413T160948Z">
+        <seg>古代の生き物の骨から作られた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a Blend</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
@@ -20837,6 +20869,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082229Z" creationid="aorin" creationdate="20180409T082229Z">
         <seg>テレキネシスによるオブジェクトの移動は、強制移動ルールにしたがう必要があります（ヴァスト：クリスタルカーヴァンのページ4を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oddly warm to the touch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161153Z" creationid="nakahodo" creationdate="20180413T161153Z">
+        <seg>不思議なことにあたたかい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24657,6 +24697,15 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replacement Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161203Z" creationid="nakahodo" creationdate="20180413T161156Z">
+        <seg>Replacement Cards
+カードを入れ替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request it at stonemaiergames.com/replacement-partst</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144503Z" creationid="nakahodo" creationdate="20171218T144444Z">
@@ -25856,6 +25905,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090333Z" creationid="nakahodo" creationdate="20180413T080958Z">
         <seg>移ろい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shoot the Dragon/Unicorn or Thief up to 5 tiles away in a straight line, even if underground or if there are walls or Dark tiles between.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160823Z" creationid="nakahodo" creationdate="20180413T160823Z">
+        <seg>間にダークタイルや壁があったり、ドラゴンが地下にいたとしても、直線上に5タイルまで離れたドラゴン、ユニコーン、シーフを撃つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27924,6 +27981,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dragon/Unicorn chooses and discards cards equal in number to your Strength – 1 (max 3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160946Z" creationid="nakahodo" creationdate="20180413T160910Z">
+        <seg>ドラゴンやユニコーンはあなたの筋力ー1の数に等しい枚数のカードを、彼らが選択して破棄する（最大3枚）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Early Age covers turns 1-2.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T204903Z" creationid="aorin" creationdate="20180114T204903Z">
@@ -29018,6 +29083,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T095146Z" creationid="nakahodo" creationdate="20180411T095146Z">
         <seg>シーフはスリであなたを攻撃できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thief is killed if your Perception is greater than his Stealth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160938Z" creationid="nakahodo" creationdate="20180413T160938Z">
+        <seg>シーフはそのステルスよりも、あなたの感知力が高い場合に殺される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31538,6 +31611,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These cards function exactly the same as they did before, but they now include rules for the addon roles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161350Z" creationid="nakahodo" creationdate="20180413T161350Z">
+        <seg>これらカードは基本的に同じ内容ですが、追加プレイヤーロールが新たに含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These penalties stack, so moving into a clearing with two Nemesis factions will cost a total of three &lt;boot&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075500Z" creationid="aorin" creationdate="20171216T075500Z">
@@ -33849,6 +33930,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We've included several cards as replacements for cards from the original game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161244Z" creationid="nakahodo" creationdate="20180413T161244Z">
+        <seg>基本ゲームから入れ替えを行うカードが何枚かあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weeee!"</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080333Z" creationid="nakahodo" creationdate="20180413T080333Z">
@@ -33877,6 +33966,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132545Z" creationid="aorin" creationdate="20171215T132545Z">
         <seg>プレイに必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are we poorwiddle helpless Gobbies gonna doooo?”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160705Z" creationid="nakahodo" creationdate="20180413T160705Z">
+        <seg>私達、哀れで小さくて無力なゴッビーはどうすればいいんだぁー？”</seg>
       </tuv>
     </tu>
     <tu>
@@ -39245,6 +39342,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071212Z" creationid="nakahodo" creationdate="20180413T071212Z">
         <seg>”ﾆｨｨｲｩ…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Oh NO, the bigscary KNIGHT is coming!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160642Z" creationid="nakahodo" creationdate="20180413T160642Z">
+        <seg>”うおあ、大きくて恐ろしいナイトがくるよう！</seg>
       </tuv>
     </tu>
     <tu>
