@@ -8614,6 +8614,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cave [Ghost]:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160124Z" creationid="nakahodo" creationdate="20180413T160124Z">
+        <seg>洞窟（または洞窟ゴースト）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cave's Soporific Spores decreases Fury by 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T064555Z" creationid="nakahodo" creationdate="20180413T064534Z">
@@ -9812,6 +9820,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decrease Stealth by X until the Goblins' next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160214Z" creationid="nakahodo" creationdate="20180413T160214Z">
+        <seg>ゴブリンの次のターンまで、ステルスがX減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defender Declares Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223249Z" creationid="aorin" creationdate="20171215T223249Z">
@@ -9995,6 +10011,30 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115432Z" creationid="nakahodo" creationdate="20180412T115432Z">
         <seg>恐ろしきユニコーン（ハード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard X Omen tokens (Cave [Ghost] chooses).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160150Z" creationid="nakahodo" creationdate="20180413T160150Z">
+        <seg>X前兆トークンを破棄する（洞窟、または洞窟ゴーストが選択して）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard X Power cards (Dragon chooses).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160108Z" creationid="nakahodo" creationdate="20180413T160042Z">
+        <seg>Xパワーカードを破棄する（ドラゴンが選択して）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard X Unicorn cards (Unicorn chooses).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160112Z" creationid="nakahodo" creationdate="20180413T160102Z">
+        <seg>Xユニコーンカードを破棄する（ユニコーンが選択して）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18151,8 +18191,8 @@ World Map and collect beans.</seg>
       <tuv lang="EN-US">
         <seg>In each effect, X equals the Eye Tribe's Population.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T150950Z" creationid="nakahodo" creationdate="20180413T150950Z">
-        <seg>In each effect, X equals the Eye Tribe's Population.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160022Z" creationid="nakahodo" creationdate="20180413T150950Z">
+        <seg>各効果は、瞳部族の人口をXとして、その数に等しい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19712,6 +19752,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151439Z" creationid="nakahodo" creationdate="20180108T151439Z">
         <seg>3コイン失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose X Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160028Z" creationid="nakahodo" creationdate="20180413T160028Z">
+        <seg>X経験値を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22866,6 +22914,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T032201Z" creationid="nakahodo" creationdate="20171224T155354Z">
         <seg>このカードをゲームボードの右下にある指標スロットに配置し、その後、ゲーム1の最終ターン時に次の段落を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place this card face-up on the table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160333Z" creationid="nakahodo" creationdate="20180413T160333Z">
+        <seg>このカードをテーブルに表向きで配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26801,6 +26857,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073846Z" creationid="nakahodo" creationdate="20180413T073846Z">
         <seg>筋力＝3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength and +1 Perception until the attack resolves, then discard this card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160520Z" creationid="nakahodo" creationdate="20180413T160459Z">
+        <seg>筋力と、＋1感知力を得る。その後、このカードを破棄する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32740,6 +32804,15 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160308Z" creationid="nakahodo" creationdate="20180413T160308Z">
+        <seg>Trap
+トラップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Treasure Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174047Z" creationid="aorin" creationdate="20171228T174047Z">
@@ -33947,6 +34020,22 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152418Z" creationid="nakahodo" creationdate="20171230T152418Z">
         <seg>対戦相手1人がオートマミニオンのある建物にワーカー1つを配置する時、そのオートマは1VPを得て、他はなにも得せん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When any Tribe is attacked, it gets +1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160511Z" creationid="nakahodo" creationdate="20180413T160441Z">
+        <seg>任意の部族が攻撃された時、攻撃を解決するまで、その部族は＋1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When any Tribe is targeted by a Dragon power or attacked by the Unicorn, you may discard this card to ignore that power or attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160608Z" creationid="nakahodo" creationdate="20180413T160608Z">
+        <seg>任意の部族がドラゴンのパワーやユニコーンの攻撃の対象にされた時、あなたはこのカードを破棄して、そのパワーや攻撃を無視できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38948,6 +39037,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Boil, boil and… yeah just keep boiling.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T160302Z" creationid="nakahodo" creationdate="20180413T160302Z">
+        <seg>”ぐつぐつ、ぐつぐつ……フフ、ぐつぐつ”</seg>
       </tuv>
     </tu>
     <tu>
