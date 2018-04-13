@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If no Thief player, return the Treasure or Gem to supply without effect.) “Wait, why did I pick up this piece of junk?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082743Z" creationid="nakahodo" creationdate="20180413T082641Z">
+        <seg>（シーフプレイヤーがいない場合、）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -23162,6 +23170,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possessed Ghoul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082744Z" creationid="nakahodo" creationdate="20180413T082744Z">
+        <seg>Possessed Ghoul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possessed Goblins</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T075951Z" creationid="nakahodo" creationdate="20180413T075951Z">
@@ -31703,6 +31719,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031539Z" creationid="nakahodo" creationdate="20171224T142453Z">
         <seg>これにより、あなたの持つ建築された建物カードに示された木箱を開放できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This won’t help with MY curse!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082642Z" creationid="nakahodo" creationdate="20180413T082642Z">
+        <seg>This won’t help with MY curse!”</seg>
       </tuv>
     </tu>
     <tu>
