@@ -5280,6 +5280,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T094847Z" creationid="nakahodo" creationdate="20180413T094847Z">
+        <seg>ALL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTACK</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T210917Z" creationid="aorin" creationdate="20180409T210917Z">
