@@ -8843,6 +8843,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a player to hex.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T151105Z" creationid="nakahodo" creationdate="20180413T150938Z">
+        <seg>ヘキサの対象とするプレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a space and roll the Dragon die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092357Z" creationid="nakahodo" creationdate="20180413T092357Z">
@@ -14564,6 +14572,15 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hex</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T150948Z" creationid="nakahodo" creationdate="20180413T150936Z">
+        <seg>Hex
+ヘキサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hi!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203602Z" creationid="aorin" creationdate="20180101T203602Z">
@@ -18128,6 +18145,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001652Z" creationid="aorin" creationdate="20171216T001652Z">
         <seg>各列にて、列にあるカード1枚ごとに1つのアクションができ、カードスートに一致する民の空き地でアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In each effect, X equals the Eye Tribe's Population.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T150950Z" creationid="nakahodo" creationdate="20180413T150950Z">
+        <seg>In each effect, X equals the Eye Tribe's Population.</seg>
       </tuv>
     </tu>
     <tu>
