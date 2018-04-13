@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>"Walk.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075909Z" creationid="nakahodo" creationdate="20180413T075909Z">
-        <seg>"歩いて。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090254Z" creationid="nakahodo" creationdate="20180413T075909Z">
+        <seg>"歩く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7235,6 +7235,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of the possession turn, draw [INF + 2] Unicorn cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090723Z" creationid="nakahodo" creationdate="20180413T090723Z">
+        <seg>憑依ターンの開始時にて、影響力＋2のユニコーンカードをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of the possession turn, you may reveal one Tribe.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080008Z" creationid="nakahodo" creationdate="20180413T080008Z">
@@ -8869,6 +8877,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210611Z" creationid="aorin" creationdate="20180114T210553Z">
         <seg>要塞は隣接戦闘に追加のユニットを送るために使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clarity = 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090810Z" creationid="nakahodo" creationdate="20180413T090810Z">
+        <seg>透明＝2</seg>
       </tuv>
     </tu>
     <tu>
@@ -10561,6 +10577,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Prepare Board phase, roll [INF] Ghoul dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090946Z" creationid="nakahodo" creationdate="20180413T090946Z">
+        <seg>ボード準備フェイズ時、影響力の数だけグールダイスをロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Release Lab Robotanists step, Marrissa decides to place her Robotanist in an unoccupied Garden Sector, then Jordan decides to place his in an unoccupied space in the Workshop.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T231641Z" creationid="nakahodo" creationdate="20180311T231641Z">
@@ -12029,8 +12053,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Expand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081023Z" creationid="nakahodo" creationdate="20180413T081000Z">
-        <seg>広くなあれ。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090327Z" creationid="nakahodo" creationdate="20180413T081000Z">
+        <seg>広くなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16949,6 +16973,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you gain Radiance, the Unicorn player chooses the upgrade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090829Z" creationid="nakahodo" creationdate="20180413T090829Z">
+        <seg>あなたが輝きを得た場合、ユニコーンプレイヤーはアップグレードを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you gain attack points, add Ghoul discs to this space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135103Z" creationid="aorin" creationdate="20180409T135103Z">
@@ -21400,6 +21432,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pace = 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090806Z" creationid="nakahodo" creationdate="20180413T090806Z">
+        <seg>ペース＝4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pace is the maximum number of actions you can perform during your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114814Z" creationid="aorin" creationdate="20180410T114814Z">
@@ -23255,6 +23295,22 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T081158Z" creationid="nakahodo" creationdate="20180413T081158Z">
         <seg>憑依されたシーフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090646Z" creationid="nakahodo" creationdate="20180413T090646Z">
+        <seg>憑依されたユニコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Vile Ghoul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090913Z" creationid="nakahodo" creationdate="20180413T090913Z">
+        <seg>憑依されたバイルグール</seg>
       </tuv>
     </tu>
     <tu>
@@ -25370,8 +25426,8 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>Shift.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081042Z" creationid="nakahodo" creationdate="20180413T080958Z">
-        <seg>変わって。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090333Z" creationid="nakahodo" creationdate="20180413T080958Z">
+        <seg>移ろい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31782,8 +31838,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>This won’t help with MY curse!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085224Z" creationid="nakahodo" creationdate="20180413T082642Z">
-        <seg>これは私には役に立たない！”</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090353Z" creationid="nakahodo" creationdate="20180413T082642Z">
+        <seg>これは私の役に立たない！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -31888,6 +31944,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T093523Z" creationid="nakahodo" creationdate="20171230T093523Z">
         <seg>あなたが彼を失望させた後。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time to take matters into my own hands…”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090628Z" creationid="nakahodo" creationdate="20180413T090628Z">
+        <seg>私自身を取り戻すための……”</seg>
       </tuv>
     </tu>
     <tu>
@@ -32233,8 +32297,8 @@ side to place face-up on the table.</seg>
       <tuv lang="EN-US">
         <seg>Tremble.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081153Z" creationid="nakahodo" creationdate="20180413T080952Z">
-        <seg>揺れて。”</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090338Z" creationid="nakahodo" creationdate="20180413T080952Z">
+        <seg>揺れる”</seg>
       </tuv>
     </tu>
     <tu>
@@ -33189,8 +33253,8 @@ COMPONENTS</seg>
       <tuv lang="EN-US">
         <seg>Walk.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075927Z" creationid="nakahodo" creationdate="20180413T075927Z">
-        <seg>歩いて。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090257Z" creationid="nakahodo" creationdate="20180413T075927Z">
+        <seg>歩く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35624,6 +35688,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092945Z" creationid="aorin" creationdate="20180410T092945Z">
         <seg>防御力を高めるためにブーストダイスを消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot spend Boost dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090955Z" creationid="nakahodo" creationdate="20180413T090955Z">
+        <seg>あんたはブーストダイスを消費できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38349,8 +38421,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>“Grow.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081010Z" creationid="nakahodo" creationdate="20180413T080938Z">
-        <seg>“大きくなあれ。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090322Z" creationid="nakahodo" creationdate="20180413T080938Z">
+        <seg>“大きくなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38367,6 +38439,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085849Z" creationid="nakahodo" creationdate="20180413T085849Z">
         <seg>”私はこの幽霊のような女性がとても楽しく、彼女を補助できることを喜ばしく思います”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“I’m terribly sorry for frightening you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091029Z" creationid="nakahodo" creationdate="20180413T091029Z">
+        <seg>"おお、怖がって申し訳ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38389,8 +38469,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>“Kraaaaaghh...uuhhhugh…”</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080627Z" creationid="nakahodo" creationdate="20180413T080627Z">
-        <seg>”ウグルルル……ガオー……”</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090655Z" creationid="nakahodo" creationdate="20180413T080627Z">
+        <seg>”ウグルルル……ウォウウウゥ……”</seg>
       </tuv>
     </tu>
     <tu>
@@ -38471,6 +38551,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071527Z" creationid="nakahodo" creationdate="20180413T071527Z">
         <seg>“ﾆｨｲｴｰｲｨ!?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeighh...uuhhhugh…”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090859Z" creationid="nakahodo" creationdate="20180413T090859Z">
+        <seg>”ﾈｨｲｲｲﾝ……ｳｫｫｵｵﾌ……”</seg>
       </tuv>
     </tu>
     <tu>
