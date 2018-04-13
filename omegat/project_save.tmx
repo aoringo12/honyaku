@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You may draw a Monster instead of fighting Normal or Tough Goblins.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T150005Z" creationid="nakahodo" creationdate="20180413T150005Z">
+        <seg>（あなたはモンスターカード1枚をドローする代わりに、通常やタフゴブリンたちと多々ける）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You may track your actions by using extra Unicorn cubes in your supply.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115211Z" creationid="aorin" creationdate="20180410T115211Z">
@@ -12533,6 +12541,15 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fearless</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T143302Z" creationid="nakahodo" creationdate="20180413T143302Z">
+        <seg>Fearless
+恐れなし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field​ ​Hospitals.​ Whenever a Marquise warrior takes a hit, the Marquise may spend any card to move the warrior to the Keep, instead of removing it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230240Z" creationid="aorin" creationdate="20171215T230240Z">
@@ -16603,6 +16620,14 @@ in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T141600Z" creationid="nakahodo" creationdate="20180413T141600Z">
         <seg>ゴブリンかグール（またはバイルグール）プレイヤーがいない場合、代わりに待ち伏せタイルか待ち伏せカード2枚を1つのターンでかいけつする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Goblins or [Vile] Ghoul player, instead resolve an Ambush tile or Ambush card, attacking a Monster and losing no Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T143524Z" creationid="nakahodo" creationdate="20180413T143524Z">
+        <seg>ゴブリンかグール（またはバイルグール）プレイヤーがいない場合、代わりに、待ち伏せタイルか待ち伏せカード1枚を明らかにし、モンスターを攻撃してヘルスを失わない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24733,6 +24758,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204406Z" creationid="nakahodo" creationdate="20171218T145112Z">
         <seg>目標カード3枚をランダムに公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal a Dark tile with a Goblin Tribe or the [Vile] Ghoul on it, then attack that player on the same Encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T143405Z" creationid="nakahodo" creationdate="20180413T143405Z">
+        <seg>ゴブリン部族かグール（またはバイルグール）のいるダークタイル1枚を明らかにし、その後、同じエンカウンターでそのプレイヤーを攻撃する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38922,6 +38955,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071135Z" creationid="nakahodo" creationdate="20180413T071135Z">
         <seg>”ﾋｨｲｲｲｲｲﾌｨｲｲｲﾝ……ﾌﾞﾙﾙ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“I didn’t come all this way to die in the dark!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T143253Z" creationid="nakahodo" creationdate="20180413T143253Z">
+        <seg>”私はこの闇で死ぬために、わざわざ来たわけじゃない！”</seg>
       </tuv>
     </tu>
     <tu>
