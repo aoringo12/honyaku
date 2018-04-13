@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"This card will self-destruct in 10...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162143Z" creationid="nakahodo" creationdate="20180413T162143Z">
+        <seg>”このカードは自動で消滅する。10……9……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Walk.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090254Z" creationid="nakahodo" creationdate="20180413T075909Z">
@@ -4649,6 +4657,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9..."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162147Z" creationid="nakahodo" creationdate="20180413T162147Z">
+        <seg>”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -6178,6 +6194,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212221Z" creationid="aorin" creationdate="20171215T212221Z">
         <seg>ヴァガボンドの&lt;ハンマー&gt;は全て、彼が現在いる空き地の民と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the replacement cards are marked with an addon icon ( ), so they can be easily identified and separated from the originals if desired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T161955Z" creationid="nakahodo" creationdate="20180413T161711Z">
+        <seg>入れ替えるカードは全てに拡張アイコン（●）を持つので、必要に応じて簡単に探して分けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9748,6 +9772,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Daring (Sidequest)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162007Z" creationid="nakahodo" creationdate="20180413T162007Z">
+        <seg>大胆（サイドクエスト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark or Lit tiles and into spaces that hold other player pieces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T180555Z" creationid="aorin" creationdate="20180406T180555Z">
@@ -11989,6 +12021,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enchanted Bow (Treasure)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162044Z" creationid="nakahodo" creationdate="20180413T162044Z">
+        <seg>エンチャントされた弓（トレジャー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End of Game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112051Z" creationid="aorin" creationdate="20171219T112051Z">
@@ -12622,6 +12662,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fearless (Sidequest)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162015Z" creationid="nakahodo" creationdate="20180413T162015Z">
+        <seg>恐れなし（サイドクエスト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field​ ​Hospitals.​ Whenever a Marquise warrior takes a hit, the Marquise may spend any card to move the warrior to the Keep, instead of removing it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230240Z" creationid="aorin" creationdate="20171215T230240Z">
@@ -12810,6 +12858,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T091913Z" creationid="nakahodo" creationdate="20180413T091913Z">
         <seg>フレア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flare (Variant)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162054Z" creationid="nakahodo" creationdate="20180413T162054Z">
+        <seg>フレア（ヴァリアント）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14641,6 +14697,14 @@ Roaster...</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T150948Z" creationid="nakahodo" creationdate="20180413T150936Z">
         <seg>Hex
 ヘキサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hex (Secrets)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162030Z" creationid="nakahodo" creationdate="20180413T162030Z">
+        <seg>ヘクス（シークレット）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26749,6 +26813,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stalwart (Sidequest)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162021Z" creationid="nakahodo" creationdate="20180413T162021Z">
+        <seg>猛者（サイドクエスト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start the game with no</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153411Z" creationid="nakahodo" creationdate="20180108T153411Z">
@@ -32890,6 +32962,14 @@ side to place face-up on the table.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160308Z" creationid="nakahodo" creationdate="20180413T160308Z">
         <seg>Trap
 トラップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trap (Secrets)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T162036Z" creationid="nakahodo" creationdate="20180413T162036Z">
+        <seg>トラップ（シークレット）</seg>
       </tuv>
     </tu>
     <tu>
