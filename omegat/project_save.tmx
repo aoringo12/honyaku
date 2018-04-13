@@ -7371,6 +7371,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack a Goblin Tribe with Population of 3 or greater, or the [Vile] Ghoul with a Defense of 3 or greater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T140318Z" creationid="nakahodo" creationdate="20180413T140318Z">
+        <seg>人口3以上のゴブリン部族[または]防御3以上のグール（またはバイルグール）を攻撃する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack space and return them to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134210Z" creationid="aorin" creationdate="20180409T134210Z">
@@ -16570,6 +16578,14 @@ in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080003Z" creationid="aorin" creationdate="20180410T080003Z">
         <seg>ドラゴンもナイトも居ない場合、あなたはクリスタル5つを砕き、その後、エントランスタイルを入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Goblin or [Vile] Ghoul player, resolve 2 Ambush tiles or Ambush cards, in any combination, during one turn instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T141600Z" creationid="nakahodo" creationdate="20180413T141600Z">
+        <seg>ゴブリンかグール（またはバイルグール）プレイヤーがいない場合、代わりに待ち伏せタイルか待ち伏せカード2枚を1つのターンでかいけつする。</seg>
       </tuv>
     </tu>
     <tu>
