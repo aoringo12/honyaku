@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If no Thief player, return the Treasure or Gem to supply without effect.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085123Z" creationid="nakahodo" creationdate="20180413T085123Z">
+        <seg>（シーフプレイヤーがいない場合、効果無しでサプライにトレジャーやジェムを返す）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If no Thief player, return the Treasure or Gem to supply without effect.) “Wait, why did I pick up this piece of junk?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T082743Z" creationid="nakahodo" creationdate="20180413T082641Z">
@@ -1102,6 +1110,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+1 Influence “My strength is slowly returning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T090242Z" creationid="nakahodo" creationdate="20180413T090242Z">
+        <seg>＋1影響力
+"私は少しずつ力を取り戻している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+1 Movement</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055248Z" creationid="nakahodo" creationdate="20180413T055248Z">
@@ -1123,6 +1140,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101426Z" creationid="aorin" creationdate="20171219T101426Z">
         <seg>+1VP、または1評判（○）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+2 Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085856Z" creationid="nakahodo" creationdate="20180413T085856Z">
+        <seg>＋2移動力</seg>
       </tuv>
     </tu>
     <tu>
@@ -9956,6 +9981,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not add or remove Ghoul discs from the Ghoul player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085353Z" creationid="nakahodo" creationdate="20180413T085353Z">
+        <seg>グールプレイヤーにグールディスクを追加したり、取り除いたりしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not advance on the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173004Z" creationid="aorin" creationdate="20171212T173004Z">
@@ -10552,6 +10585,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Roll and Set Statistics phase, roll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085259Z" creationid="nakahodo" creationdate="20180413T085043Z">
+        <seg>ステータスのロールと設定フェイズ時、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Upkeep phase, gain for each Building in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T033922Z" creationid="aorin" creationdate="20171212T033922Z">
@@ -10726,6 +10767,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061438Z" creationid="nakahodo" creationdate="20180413T061438Z">
         <seg>このターン時、移動力を消費せずに次のトレジャーかジェム（ロールなしで）1つを収集する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During this turn:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085855Z" creationid="nakahodo" creationdate="20180413T085855Z">
+        <seg>このターン時、</seg>
       </tuv>
     </tu>
     <tu>
@@ -13563,6 +13612,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T220508Z" creationid="nakahodo" creationdate="20171224T220508Z">
         <seg>グリーングリーでぎりーぎりーまで集める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085851Z" creationid="nakahodo" creationdate="20180413T085851Z">
+        <seg>ゴースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -23172,8 +23229,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Possessed Ghoul</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082744Z" creationid="nakahodo" creationdate="20180413T082744Z">
-        <seg>Possessed Ghoul</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085232Z" creationid="nakahodo" creationdate="20180413T082744Z">
+        <seg>憑依されたグール</seg>
       </tuv>
     </tu>
     <tu>
@@ -31725,8 +31782,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>This won’t help with MY curse!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082642Z" creationid="nakahodo" creationdate="20180413T082642Z">
-        <seg>This won’t help with MY curse!”</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085224Z" creationid="nakahodo" creationdate="20180413T082642Z">
+        <seg>これは私には役に立たない！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -35619,6 +35676,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot use the effects of Terror cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085401Z" creationid="nakahodo" creationdate="20180413T085401Z">
+        <seg>あなたは恐怖カードの効果を使用できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You control a Court when you have more Spies on that Court than any other player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205722Z" creationid="aorin" creationdate="20180114T205722Z">
@@ -36167,6 +36232,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002041Z" creationid="aorin" creationdate="20180115T002041Z">
         <seg>あなたは増強ステージ時に発動できるディスカバリーを使用できます（飛行船のような）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use Flare by spending 1 movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085417Z" creationid="nakahodo" creationdate="20180413T085417Z">
+        <seg>1移動力を消費することで、フレアを使用できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37033,8 +37106,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>[INF + 1] Ghoul dice and choose two.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085001Z" creationid="nakahodo" creationdate="20180413T085001Z">
-        <seg>[INF + 1] Ghoul dice and choose two.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085328Z" creationid="nakahodo" creationdate="20180413T085001Z">
+        <seg>影響力＋1の数、グールダイスをロールして2つを選択する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38290,6 +38363,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“I find that ghostly lady to be quite delightful, and am pleased to be of assistance to her.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085849Z" creationid="nakahodo" creationdate="20180413T085849Z">
+        <seg>”私はこの幽霊のような女性がとても楽しく、彼女を補助できることを喜ばしく思います”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Just small peeksies...”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062001Z" creationid="nakahodo" creationdate="20180413T061859Z">
@@ -38446,6 +38527,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061009Z" creationid="nakahodo" creationdate="20180413T060934Z">
         <seg>"ちょっトしたおフザケだ……"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Wait, why did I pick up this piece of junk?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T085211Z" creationid="nakahodo" creationdate="20180413T085211Z">
+        <seg>”待って、なんでこんなガラクタを拾ったんだろう？</seg>
       </tuv>
     </tu>
     <tu>
