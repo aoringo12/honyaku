@@ -966,10 +966,43 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*skitter* *skitter* *skitter*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054252Z" creationid="nakahodo" creationdate="20180413T054252Z">
+        <seg>*跳ねる音* *跳ねる音* *跳ねる音*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+1 Attack ONCE PER GAME:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055213Z" creationid="nakahodo" creationdate="20180413T055213Z">
+        <seg>+1 Attack ONCE PER GAME:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+1 Movement ONCE PER GAME:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054127Z" creationid="nakahodo" creationdate="20180413T054005Z">
+        <seg>+1移動力
+ゲームごとに1度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+1 VP or 1 reputation(,£).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101426Z" creationid="aorin" creationdate="20171219T101426Z">
         <seg>+1VP、または1評判（○）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+4 Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054135Z" creationid="nakahodo" creationdate="20180413T054135Z">
+        <seg>＋移動力</seg>
       </tuv>
     </tu>
     <tu>
@@ -8313,6 +8346,15 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054027Z" creationid="nakahodo" creationdate="20180413T053932Z">
+        <seg>Chase
+チェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Automa</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110101Z" creationid="nakahodo" creationdate="20180108T110055Z">
@@ -14076,6 +14118,15 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hunt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054259Z" creationid="nakahodo" creationdate="20180413T054253Z">
+        <seg>Hunt
+ハント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hunter (Expert):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074931Z" creationid="aorin" creationdate="20180410T074931Z">
@@ -15206,6 +15257,15 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Treasure token is removed for any reason (for example, when targeted by Soporific Spores) and regained later, only the unused charges remain (they do not reset to the original count).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054012Z" creationid="nakahodo" creationdate="20180413T054012Z">
+        <seg>
+If the Treasure token is removed for any reason (for example, when targeted by Soporific Spores) and regained later, only the unused charges remain (they do not reset to the original count).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Unicorn Teleports for any reason, ignore any remaining movement prompted by the revealed card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142517Z" creationid="nakahodo" creationdate="20180412T142517Z">
@@ -15306,6 +15366,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000718Z" creationid="aorin" creationdate="20180101T000718Z">
         <seg>キャンドルがまだ燃えている場合、火を消し、木箱Pを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054014Z" creationid="nakahodo" creationdate="20180413T054014Z">
+        <seg>If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19541,6 +19609,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T174839Z" creationid="nakahodo" creationdate="20171218T165511Z">
         <seg>占領された建物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ONCE PER TURN:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T053955Z" creationid="nakahodo" creationdate="20180413T053955Z">
+        <seg>ターン毎に1度：</seg>
       </tuv>
     </tu>
     <tu>
