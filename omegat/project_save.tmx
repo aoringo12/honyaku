@@ -974,10 +974,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+1 Attack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055320Z" creationid="nakahodo" creationdate="20180413T055241Z">
+        <seg>＋1攻撃力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+1 Attack ONCE PER GAME:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055213Z" creationid="nakahodo" creationdate="20180413T055213Z">
         <seg>+1 Attack ONCE PER GAME:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+1 Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055248Z" creationid="nakahodo" creationdate="20180413T055248Z">
+        <seg>＋1移動力</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,16 +1017,16 @@
       <tuv lang="EN-US">
         <seg>+3 Attack</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055214Z" creationid="nakahodo" creationdate="20180413T055214Z">
-        <seg>+3 Attack</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055331Z" creationid="nakahodo" creationdate="20180413T055214Z">
+        <seg>＋3攻撃力</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>+4 Movement</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054135Z" creationid="nakahodo" creationdate="20180413T054135Z">
-        <seg>＋移動力</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055310Z" creationid="nakahodo" creationdate="20180413T054135Z">
+        <seg>＋4移動力</seg>
       </tuv>
     </tu>
     <tu>
@@ -8363,6 +8379,15 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cheat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055732Z" creationid="nakahodo" creationdate="20180413T055732Z">
+        <seg>Cheat
+チート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Automa</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110101Z" creationid="nakahodo" creationdate="20180108T110055Z">
@@ -10427,6 +10452,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035224Z" creationid="aorin" creationdate="20180116T035224Z">
         <seg>このステージ時、あなたは追加のIPを得るために、雇用プールからワーカーたちを犠牲にすることもできます（このターン展開しなかったものら）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During this turn, you can move through walls and enter spaces with player pieces without spending extra movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055701Z" creationid="nakahodo" creationdate="20180413T055701Z">
+        <seg>このターン時、あなたは追加の移動力を支払わずに、任意の数の壁を通り抜け、プレイヤーピースのあるスペース入るように移動できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19234,6 +19267,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move through one wall, or enter one space with player pieces, without spending extra movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055602Z" creationid="nakahodo" creationdate="20180413T055602Z">
+        <seg>追加の移動力を消費せずに、壁1枚を通り抜ける[または]プレイヤーピースのあるスペース1つへ移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move your large cube to the front of the track immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143334Z" creationid="nakahodo" creationdate="20171213T143334Z">
@@ -19621,10 +19662,18 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ONCE PER GAME:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055259Z" creationid="nakahodo" creationdate="20180413T055259Z">
+        <seg>ゲームごとに1度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ONCE PER TURN:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T053955Z" creationid="nakahodo" creationdate="20180413T053955Z">
-        <seg>ターン毎に1度：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055303Z" creationid="nakahodo" creationdate="20180413T053955Z">
+        <seg>ターンごとに1度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20596,6 +20645,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152753Z" creationid="nakahodo" creationdate="20171230T152753Z">
         <seg>危険：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERSISTENT:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055911Z" creationid="nakahodo" creationdate="20180413T055734Z">
+        <seg>持続：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24788,6 +24845,15 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T005219Z" creationid="aorin" creationdate="20180410T005219Z">
         <seg>飛び退く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sneak</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055505Z" creationid="nakahodo" creationdate="20180413T055505Z">
+        <seg>Sneak
+スニーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -32923,6 +32989,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you would roll the Ghoul dice or Dragon die, you may instead choose the result of one die and roll the rest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T060307Z" creationid="nakahodo" creationdate="20180413T060307Z">
+        <seg>あなたがグールダイスやドラゴンダイスをロールする時、その内のダイス1つの結果を選択して決定し、残りをロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you're ready to begin Game 1, extract card 13 from the Index (place this card in the Archive without removing the sticker).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031452Z" creationid="nakahodo" creationdate="20171224T142253Z">
@@ -33479,6 +33553,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T204058Z" creationid="aorin" creationdate="20171231T204048Z">
         <seg>あなたがワーカーたちを戻すたびに、少なくとも2体のロボットを戻す場合に、2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you roll the Ghoul dice or Dragon die, you may reroll one die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055907Z" creationid="nakahodo" creationdate="20180413T055907Z">
+        <seg>あなたがグールダイスやドラゴンダイスをロールするたびに、ダイス1つを振りなおせる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37105,6 +37187,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131646Z" creationid="nakahodo" creationdate="20180412T131508Z">
         <seg>”シャドウユニコーンを殺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Stabbity stab stab!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055455Z" creationid="nakahodo" creationdate="20180413T055455Z">
+        <seg>”サして、刺すシて、サスゥすル！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Surprise!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055725Z" creationid="nakahodo" creationdate="20180413T055725Z">
+        <seg>”ばぁあアアァア！”</seg>
       </tuv>
     </tu>
     <tu>
