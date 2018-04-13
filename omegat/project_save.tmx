@@ -7363,6 +7363,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack a Goblin Tribe with Population of 3 or greater, or the [Vile]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T135940Z" creationid="nakahodo" creationdate="20180413T135940Z">
+        <seg>Attack a Goblin Tribe with Population of 3 or greater, or the [Vile]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack space and return them to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134210Z" creationid="aorin" creationdate="20180409T134210Z">
