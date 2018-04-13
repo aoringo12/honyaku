@@ -14061,6 +14061,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghoul with a Defense of 3 or greater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T163211Z" creationid="nakahodo" creationdate="20180413T163211Z">
+        <seg>Ghoul with a Defense of 3 or greater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghoul:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102542Z" creationid="nakahodo" creationdate="20180413T102542Z">
