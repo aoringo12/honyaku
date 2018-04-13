@@ -10131,6 +10131,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T053910Z" creationid="nakahodo" creationdate="20180413T053910Z">
+        <seg>During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During setup, remove the Ghost card from your Possession deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T033114Z" creationid="aorin" creationdate="20180408T033053Z">
@@ -18710,6 +18718,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOVING ENTRANCE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T050440Z" creationid="nakahodo" creationdate="20180413T050440Z">
+        <seg>移動するエントランス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a Blend</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
@@ -22476,6 +22492,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105823Z" creationid="aorin" creationdate="20171219T105823Z">
         <seg>進展トラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promo Cards &amp; Bonus Variants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T050425Z" creationid="nakahodo" creationdate="20180413T050425Z">
+        <seg>プロモカード＆ボーナスヴァリアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -27287,6 +27311,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Unicorn is not designed for use against the Cave or Cav[Cave] Ghost alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T045757Z" creationid="nakahodo" creationdate="20180413T045757Z">
+        <seg>シャドウユニコーンはソロの洞窟や洞窟ゴーストに対するようデザインされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shadow Unicorn is not designed for use against the Cave or Cave Ghost alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132759Z" creationid="nakahodo" creationdate="20180412T132754Z">
@@ -31833,6 +31865,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223214Z" creationid="aorin" creationdate="20171215T223214Z">
         <seg>ヴァガボンドが撤退する。ヴァガボンドは撤退する時、撤退する戦士の数ではなく、所持する利用可能[そして]消耗したアイテムの合計数に基づいてヒットを受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T050432Z" creationid="nakahodo" creationdate="20180413T050432Z">
+        <seg>ヴァリアントルール</seg>
       </tuv>
     </tu>
     <tu>
