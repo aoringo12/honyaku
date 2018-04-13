@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Hrmpphpphhphhhhhh!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071438Z" creationid="nakahodo" creationdate="20180413T071438Z">
+        <seg>"ﾋｨｲｲﾝﾌﾞﾙﾙﾙﾌﾞﾌｳ！"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I consider you the future of Greengulfy.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080118Z" creationid="nakahodo" creationdate="20171230T074702Z">
@@ -990,10 +998,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*clipclopclipclop*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071424Z" creationid="nakahodo" creationdate="20180413T071424Z">
+        <seg>*蹄の音* *蹄の音*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*clop* *clop* *clop*</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071006Z" creationid="nakahodo" creationdate="20180413T071006Z">
         <seg>*蹄の音* *蹄の音* *蹄の音*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*clop* *clop* “Neeeeeigh!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071351Z" creationid="nakahodo" creationdate="20180413T071351Z">
+        <seg>*蹄の音* *蹄の音* "ｨｲｲｨｲｲｲﾝ！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -7196,8 +7220,16 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Attacking the Ghoul</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062604Z" creationid="nakahodo" creationdate="20180413T062604Z">
-        <seg>グールの攻撃</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071634Z" creationid="nakahodo" creationdate="20180413T062604Z">
+        <seg>グールへ攻撃する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking the Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071637Z" creationid="nakahodo" creationdate="20180413T071615Z">
+        <seg>ユニコーンへ攻撃する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9648,6 +9680,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024856Z" creationid="aorin" creationdate="20180408T024856Z">
         <seg>難易度ヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dire Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071559Z" creationid="nakahodo" creationdate="20180413T071559Z">
+        <seg>恐ろしきユニコーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -13052,6 +13092,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain 10 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071600Z" creationid="nakahodo" creationdate="20180413T071600Z">
+        <seg>10輝きを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 11 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071605Z" creationid="nakahodo" creationdate="20180413T071605Z">
+        <seg>11輝きを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain 2 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T231641Z" creationid="aorin" creationdate="20171231T231641Z">
@@ -13084,6 +13140,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain 7 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071542Z" creationid="nakahodo" creationdate="20180413T071542Z">
+        <seg>7輝きを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain 8 Fury or smash 6 Crystals.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074635Z" creationid="aorin" creationdate="20180410T074635Z">
@@ -13092,10 +13156,26 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain 8 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071548Z" creationid="nakahodo" creationdate="20180413T071548Z">
+        <seg>8輝きを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain 9 Fury or smash 7 Crystals.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074639Z" creationid="aorin" creationdate="20180410T074639Z">
         <seg>9怒りを得るか、7クリスタルを砕く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 9 Radiance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071553Z" creationid="nakahodo" creationdate="20180413T071553Z">
+        <seg>9輝きを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,6 +18798,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knight, Goblins, and [Vile] Ghoul can attack him if their Strength or Attack is greater than his Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T073120Z" creationid="nakahodo" creationdate="20180413T071620Z">
+        <seg>ナイト、ゴブリン、グール（またはバイルグール）は、その筋力や攻撃力がユニコーンのアーマーを超える場合に彼を攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Knight:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082455Z" creationid="aorin" creationdate="20180409T082455Z">
@@ -19682,6 +19770,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neigh!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071303Z" creationid="nakahodo" creationdate="20180413T071303Z">
+        <seg>ﾆｪｲ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neighborhood</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071812Z" creationid="nakahodo" creationdate="20171209T071812Z">
@@ -19746,10 +19842,26 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Night Mare</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071547Z" creationid="nakahodo" creationdate="20180413T071547Z">
+        <seg>ナイト・メア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Night Mare (Easy):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115349Z" creationid="nakahodo" creationdate="20180412T115349Z">
         <seg>ナイト・メア（簡単）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nightmare Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071551Z" creationid="nakahodo" creationdate="20180413T071551Z">
+        <seg>ナイトメアユニコーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -21318,6 +21430,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045537Z" creationid="aorin" creationdate="20171213T045537Z">
         <seg>ファーギスは3鞭をロールし、インディギウスにペナルティポイント1を、フィレンツェに2ペナルティポイントを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phantasm Unicorn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071604Z" creationid="nakahodo" creationdate="20180413T071604Z">
+        <seg>ファンタズムユニコーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -26290,6 +26410,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224823Z" creationid="aorin" creationdate="20180409T224823Z">
         <seg>恐怖カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terror Pony</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071532Z" creationid="nakahodo" creationdate="20180413T071532Z">
+        <seg>恐怖のポニー</seg>
       </tuv>
     </tu>
     <tu>
@@ -34274,6 +34402,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whinnnny.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071319Z" creationid="nakahodo" creationdate="20180413T071319Z">
+        <seg>ﾌｨｨｲﾆｪｲｲｲ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Why does he care so much about your little village?</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235807Z" creationid="aorin" creationdate="20171231T235807Z">
@@ -37706,6 +37842,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Moo.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071508Z" creationid="nakahodo" creationdate="20180413T071508Z">
+        <seg>“ｳﾓｰｩ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Nasty little cheatses...”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T060415Z" creationid="nakahodo" creationdate="20180413T060415Z">
@@ -37746,6 +37890,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Neeeeeigh!” *clop*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071403Z" creationid="nakahodo" creationdate="20180413T071403Z">
+        <seg>“ｨｲｲｨｲｲｲﾝ！” *蹄の音*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Neeeeeigh?!”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071205Z" creationid="nakahodo" creationdate="20180413T071205Z">
@@ -37758,6 +37910,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071228Z" creationid="nakahodo" creationdate="20180413T071228Z">
         <seg>“ｨｲｲｨｲｲｲﾝ？！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeigh?!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071527Z" creationid="nakahodo" creationdate="20180413T071527Z">
+        <seg>“ﾆｨｲｴｰｲｨ!?”</seg>
       </tuv>
     </tu>
     <tu>
