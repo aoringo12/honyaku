@@ -9289,6 +9289,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DIFFICULTY:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062203Z" creationid="nakahodo" creationdate="20180413T062203Z">
+        <seg>難易度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DISCARD 2 ADVANCEMENT CARDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100013Z" creationid="nakahodo" creationdate="20180108T100005Z">
@@ -10474,10 +10482,26 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During this turn, peek at all Dark tiles that you enter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061746Z" creationid="nakahodo" creationdate="20180413T061721Z">
+        <seg>このターン時、あなたが入るダークタイル全てのライト側を密かに見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this turn, you can move through walls and enter spaces with player pieces without spending extra movement.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055701Z" creationid="nakahodo" creationdate="20180413T055701Z">
         <seg>このターン時、あなたは追加の移動力を支払わずに、任意の数の壁を通り抜け、プレイヤーピースのあるスペース入るように移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During this turn, you collect the next Treasure or Gem (no roll) without spending movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061438Z" creationid="nakahodo" creationdate="20180413T061438Z">
+        <seg>このターン時、移動力を消費せずに次のトレジャーかジェム（ロールなしで）1つを収集する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10550,6 +10574,22 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133108Z" creationid="nakahodo" creationdate="20180406T133108Z">
         <seg>あなたのターン時、次のフェイズの順番で解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EASIEST</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062207Z" creationid="nakahodo" creationdate="20180413T062207Z">
+        <seg>もっとも簡単</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EASY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062237Z" creationid="nakahodo" creationdate="20180413T062237Z">
+        <seg>イージー</seg>
       </tuv>
     </tu>
     <tu>
@@ -12836,6 +12876,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GHOUL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062018Z" creationid="nakahodo" creationdate="20180413T062018Z">
+        <seg>グール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GLORY:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T173314Z" creationid="nakahodo" creationdate="20171224T173314Z">
@@ -12960,6 +13008,30 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074639Z" creationid="aorin" creationdate="20180410T074639Z">
         <seg>9怒りを得るか、7クリスタルを砕く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Fury equal to 5 + number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062057Z" creationid="nakahodo" creationdate="20180413T062057Z">
+        <seg>プレイヤー数＋5に等しいだけの怒りを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Fury equal to 6 + number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062224Z" creationid="nakahodo" creationdate="20180413T062224Z">
+        <seg>プレイヤー数＋6に等しいだけの怒りを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Fury equal to 7 + number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062248Z" creationid="nakahodo" creationdate="20180413T062248Z">
+        <seg>プレイヤー数＋7に等しいだけの怒りを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13252,6 +13324,15 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T172250Z" creationid="nakahodo" creationdate="20171230T172250Z">
         <seg>幽霊たちは身体から抜き出された人の魂の名残です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghoul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062245Z" creationid="nakahodo" creationdate="20180413T062245Z">
+        <seg>Ghoul
+グール</seg>
       </tuv>
     </tu>
     <tu>
@@ -20908,6 +20989,14 @@ at the Builder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peek at the Dark tile that you occupy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061742Z" creationid="nakahodo" creationdate="20180413T061641Z">
+        <seg>あなたが占領するダークタイルのライト側を密かに見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peel the sticker off this card and affix it to the  indicated space (page 6), then lace the card remnant in the Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T122638Z" creationid="nakahodo" creationdate="20171224T122638Z">
@@ -22943,6 +23032,15 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ragpicker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062015Z" creationid="nakahodo" creationdate="20180413T061948Z">
+        <seg>Ragpicker
+くず拾い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ragpicker (Easiest):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074842Z" creationid="aorin" creationdate="20180410T074749Z">
@@ -24089,6 +24187,15 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scavenger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062220Z" creationid="nakahodo" creationdate="20180413T062220Z">
+        <seg>Scavenger
+スカヴェンジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scavenger (Easy):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074911Z" creationid="aorin" creationdate="20180410T074840Z">
@@ -24133,6 +24240,15 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T211100Z" creationid="aorin" creationdate="20180114T211100Z">
         <seg>得点フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061944Z" creationid="nakahodo" creationdate="20180413T061542Z">
+        <seg>Scour
+隠れ見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -27148,6 +27264,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
         <seg>ナイトは1ヘルス失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight starts with 5 Health, or the Dragon starts with 3 Health, or you must smash 3 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062155Z" creationid="nakahodo" creationdate="20180413T062155Z">
+        <seg>ナイトは5ヘルス、ドラゴンは3ヘルスからスタートし、あなたは3クリスタルを砕かなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight starts with 6 Health, or the Dragon starts with 4 Health, or you must smash 4 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062231Z" creationid="nakahodo" creationdate="20180413T062231Z">
+        <seg>ナイトは6ヘルス、ドラゴンは4ヘルスからスタートし、あなたは4クリスタルを砕かなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32030,6 +32162,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VILE GHOUL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062106Z" creationid="nakahodo" creationdate="20180413T062106Z">
+        <seg>バイルグール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VPs are primarily earned by controlling resource territories, but can also be earned through use of various Discoveries and trading in Influence Points (IPs) at the end of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205530Z" creationid="aorin" creationdate="20180114T205530Z">
@@ -32868,6 +33008,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
         <seg>得点フェイズ時にこれらを制御していた場合、VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you do, draw 2 Terror cards (not 1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061510Z" creationid="nakahodo" creationdate="20180413T061510Z">
+        <seg>そうする時、恐怖カード2枚をドローする（1枚ではない）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34947,6 +35095,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may immediately reveal it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061658Z" creationid="nakahodo" creationdate="20180413T061658Z">
+        <seg>そこを直ちに公開できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may move a number of spaces up to your Movement.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T175559Z" creationid="nakahodo" creationdate="20180406T134637Z">
@@ -35111,6 +35267,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001835Z" creationid="aorin" creationdate="20171216T001835Z">
         <seg>各カード、4列のいずれか最後にプレイしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may reveal any tiles that you peek at.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061819Z" creationid="nakahodo" creationdate="20180413T061725Z">
+        <seg>そうして見たタイルを任意の数、公開できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37250,6 +37414,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Just small peeksies...”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062001Z" creationid="nakahodo" creationdate="20180413T061859Z">
+        <seg>”スこシだけ……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Kill the Shadow Unicorn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131646Z" creationid="nakahodo" creationdate="20180412T131508Z">
@@ -37262,6 +37434,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T060415Z" creationid="nakahodo" creationdate="20180413T060415Z">
         <seg>”ちょトだけのズる……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Preciousss!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T061544Z" creationid="nakahodo" creationdate="20180413T061541Z">
+        <seg>“おタからダ！”</seg>
       </tuv>
     </tu>
     <tu>
