@@ -32561,8 +32561,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you attack the [Vile] Ghoul, you are forced to Teleport after it skitters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T110920Z" creationid="nakahodo" creationdate="20180411T091129Z">
-        <seg>あなたがバイルグールを攻撃した時、対象が飛び退いた後、強制テレポートします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044036Z" creationid="nakahodo" creationdate="20180411T091129Z">
+        <seg>あなたがグール（またはバイルグール）を攻撃した時、対象が飛び退いた後、強制テレポートします。</seg>
       </tuv>
     </tu>
     <tu>
