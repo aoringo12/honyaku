@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Gonna pick up this shiny and puts it over there!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080319Z" creationid="nakahodo" creationdate="20180413T080319Z">
+        <seg>”光ってるこれを拾って、そこに置いて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Good news!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T085452Z" creationid="nakahodo" creationdate="20171230T085452Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T125405Z" creationid="nakahodo" creationdate="20171230T125405Z">
         <seg>「この古い身体から、新しい宿主へと移る時がきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Walk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075909Z" creationid="nakahodo" creationdate="20180413T075909Z">
+        <seg>"歩いて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7162,6 +7178,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of the possession turn, you may reveal one Tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080008Z" creationid="nakahodo" creationdate="20180413T080008Z">
+        <seg>憑依ターンの開始時にて、あなたは部族1つを明らかにできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of your first turn, place the Ghost piece on any unoccupied Dark tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132753Z" creationid="nakahodo" creationdate="20180406T132753Z">
@@ -10881,6 +10905,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224908Z" creationid="aorin" creationdate="20180409T224908Z">
         <seg>各恐怖カードは2つ効果を持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Tribe may use Flare once, before or after moving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080256Z" creationid="nakahodo" creationdate="20180413T080256Z">
+        <seg>各部族は移動する前か後に、1度フレアを使用できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14764,6 +14796,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Tribe with a Monster scatters, do not discard the Monster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080235Z" creationid="nakahodo" creationdate="20180413T080235Z">
+        <seg>モンスターを持つ部族が散った場合、モンスターを破棄しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a new Blend is exactly the same as a Blend already
 on the List, the old Blend is considered inferior.</seg>
       </tuv>
@@ -16716,6 +16756,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you earn a Hero cube, the Knight player sets it aside until her next Pick Up Hero Cubes phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075758Z" creationid="nakahodo" creationdate="20180413T075758Z">
+        <seg>あなたがヒーローキューブ1つを得る場合、ナイトプレイヤーは次のヒーローキューブをピックアップフェイズまで、側にこれを置いておく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you end a Move on a Crystal tile that does not hold a Unicorn cube, you may place a Unicorn cube on it to gain 1 Radiance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T080448Z" creationid="nakahodo" creationdate="20180411T080448Z">
@@ -17056,6 +17104,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105149Z" creationid="nakahodo" creationdate="20180108T105149Z">
         <seg>望むなら、オートマカードをどろーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you receive a Treasure card, the Knight player chooses whether to keep it or decline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075901Z" creationid="nakahodo" creationdate="20180413T075901Z">
+        <seg>あなたがトレジャーカード1枚を受け取った場合、これを保持するか拒否するかに関わらず、ナイトプレイヤーが選択する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18982,6 +19038,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left foot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075919Z" creationid="nakahodo" creationdate="20180413T075919Z">
+        <seg>左の足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legend says that the Forever King learned the secrets of immortality by studying cats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T160857Z" creationid="nakahodo" creationdate="20171230T160703Z">
@@ -19769,6 +19833,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement through Lit tiles is limited as normal, but do not remove Goblin discs for this purpose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080140Z" creationid="nakahodo" creationdate="20180413T080054Z">
+        <seg>通常どおり上限までライトタイルを通り移動できるが、これによりゴブリンディスクは取り除かない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-use Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205255Z" creationid="aorin" creationdate="20171215T205255Z">
@@ -19790,6 +19862,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131630Z" creationid="nakahodo" creationdate="20171211T131630Z">
         <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must go this way—no, that way."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075944Z" creationid="nakahodo" creationdate="20180413T075944Z">
+        <seg>こっちへ――そっちじゃない”</seg>
       </tuv>
     </tu>
     <tu>
@@ -22986,6 +23066,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Population (each Tribe) = [INF]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080059Z" creationid="nakahodo" creationdate="20180413T080028Z">
+        <seg>人口（各部族）=影響力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Positive Tasks (right side)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073552Z" creationid="aorin" creationdate="20171216T073552Z">
@@ -22998,6 +23086,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T103822Z" creationid="nakahodo" creationdate="20171001T103822Z">
         <seg>ポジティブアクションは任意であるのに対して、ネガティブアクションは実行シなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Goblins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075951Z" creationid="nakahodo" creationdate="20180413T075951Z">
+        <seg>憑依されたゴブリンたち</seg>
       </tuv>
     </tu>
     <tu>
@@ -24218,6 +24314,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101430Z" creationid="aorin" creationdate="20171219T101430Z">
         <seg>評判トラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right foot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075922Z" creationid="nakahodo" creationdate="20180413T075922Z">
+        <seg>右の足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31926,6 +32030,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tribes cannot use Hide or special actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080215Z" creationid="nakahodo" creationdate="20180413T080215Z">
+        <seg>部族たちは隠すや特別アクションを使用できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tridge Maintenance</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150149Z" creationid="nakahodo" creationdate="20180108T150149Z">
@@ -32862,6 +32974,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151233Z" creationid="nakahodo" creationdate="20180108T151233Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T075927Z" creationid="nakahodo" creationdate="20180413T075927Z">
+        <seg>歩いて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35815,6 +35935,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212726Z" creationid="aorin" creationdate="20180114T212726Z">
         <seg>あなたは次のアクションの1つを選択できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may still activate this Tribe as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080035Z" creationid="nakahodo" creationdate="20180413T080022Z">
+        <seg>あなたは依然として通常どおりにこの部族をアクティブにできる。</seg>
       </tuv>
     </tu>
     <tu>
