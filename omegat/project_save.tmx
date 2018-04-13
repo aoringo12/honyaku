@@ -17230,6 +17230,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you stash a Treasure or Gem, the Thief player chooses the upgrade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082224Z" creationid="nakahodo" creationdate="20180413T082224Z">
+        <seg>あなたがトレジャーやジェムをスタッシュした場合、シーフプレイヤーがアップグレードを選択肢ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you think all players should receive the exact same end of campaign VP for each category, open crate L.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000549Z" creationid="aorin" creationdate="20180101T000549Z">
@@ -35407,6 +35415,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205616Z" creationid="nakahodo" creationdate="20171218T154443Z">
         <seg>あなたはチャーターストーン建物にて、その木箱を開放することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use Flare by spending 1 Action cube.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082158Z" creationid="nakahodo" creationdate="20180413T082158Z">
+        <seg>1アクションキューブを消費することで、フレアを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
