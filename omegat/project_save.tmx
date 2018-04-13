@@ -27740,8 +27740,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The change for games with 4 or more players applies only in games without a Cave [Ghost] player, and it slows down the Collapse to give players more time to complete their victory conditions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T160625Z" creationid="aorin" creationdate="20180408T160511Z">
-        <seg>4人以上のプレイヤーによるゲームへの変更は、洞窟[ゴースト]プレイヤーが居ないゲームにのみ適応され、彼らの勝利条件のための時間を与えるために、崩壊が遅くなるものです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044003Z" creationid="aorin" creationdate="20180408T160511Z">
+        <seg>4人以上のプレイヤーによるゲームへの変更は、洞窟（または洞窟ゴースト）プレイヤーが居ないゲームにのみ適応され、彼らの勝利条件のための時間を与えるために、崩壊が遅くなるものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35704,8 +35704,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>[Vile] Ghoul:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T082548Z" creationid="aorin" creationdate="20180409T082548Z">
-        <seg>バイルグール：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T043933Z" creationid="aorin" creationdate="20180409T082548Z">
+        <seg>グール（またはバイルグール）：</seg>
       </tuv>
     </tu>
     <tu>
