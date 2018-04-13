@@ -999,6 +999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+3 Attack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T055214Z" creationid="nakahodo" creationdate="20180413T055214Z">
+        <seg>+3 Attack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+4 Movement</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T054135Z" creationid="nakahodo" creationdate="20180413T054135Z">
