@@ -7178,6 +7178,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of the possession turn, draw [INF + 2] Power cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080403Z" creationid="nakahodo" creationdate="20180413T080403Z">
+        <seg>憑依ターンの開始時にて、影響力＋2のパワーカードをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of the possession turn, you may reveal one Tribe.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080008Z" creationid="nakahodo" creationdate="20180413T080008Z">
@@ -23090,6 +23098,22 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possessed Cave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080520Z" creationid="nakahodo" creationdate="20180413T080520Z">
+        <seg>Possessed Cave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Dragon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080337Z" creationid="nakahodo" creationdate="20180413T080337Z">
+        <seg>憑依されたドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possessed Goblins</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T075951Z" creationid="nakahodo" creationdate="20180413T075951Z">
@@ -25479,6 +25503,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074927Z" creationid="aorin" creationdate="20171213T074927Z">
         <seg>一回使用タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip the Place Dragon Gem and Replace Hand phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080446Z" creationid="nakahodo" creationdate="20180413T080446Z">
+        <seg>ドラゴンジェムの配置と手札の入れ替えフェイズをスキップする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33018,6 +33050,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weeee!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080333Z" creationid="nakahodo" creationdate="20180413T080333Z">
+        <seg>そうそうそう！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to Charterstone.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203604Z" creationid="nakahodo" creationdate="20171218T140653Z">
@@ -35391,6 +35431,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092945Z" creationid="aorin" creationdate="20180410T092945Z">
         <seg>防御力を高めるためにブーストダイスを消費することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot spend symbols from</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080520Z" creationid="nakahodo" creationdate="20180413T080520Z">
+        <seg>あなたは</seg>
       </tuv>
     </tu>
     <tu>
