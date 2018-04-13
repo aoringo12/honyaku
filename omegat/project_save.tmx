@@ -7237,8 +7237,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the end of your turn, instead of drawing and placing 1 Dark tile, draw and place Dark tiles equal in number to the greatest of the following:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T094843Z" creationid="nakahodo" creationdate="20180413T094843Z">
-        <seg>At the end of your turn, instead of drawing and placing 1 Dark tile, draw and place Dark tiles equal in number to the greatest of the following:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102500Z" creationid="nakahodo" creationdate="20180413T094843Z">
+        <seg>あなたのターン終了時にて、ダークタイル1枚をどろーして配置する代わりに、次の最も高い数値に等しいだけダークタイルをドローして配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7351,6 +7351,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T100432Z" creationid="nakahodo" creationdate="20171230T100432Z">
         <seg>あなたの後ろには、長い間共に時間を過ごしてきた仲間たちがいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attack a Goblin Tribe with</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T103144Z" creationid="nakahodo" creationdate="20180413T103144Z">
+        <seg>Attack a Goblin Tribe with</seg>
       </tuv>
     </tu>
     <tu>
@@ -10642,6 +10650,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Collapse, instead remove the same number of tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102738Z" creationid="nakahodo" creationdate="20180413T102654Z">
+        <seg>崩壊中、上記ルールの数だけ、タイルを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Collapse, randomly select a Dark tile symbol using tiles that have already collapsed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T010122Z" creationid="aorin" creationdate="20180410T010122Z">
@@ -13834,6 +13850,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102601Z" creationid="nakahodo" creationdate="20180413T102601Z">
+        <seg>ゴースト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghosts are all that remain of a person whose soul has been torn free of their body.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T172250Z" creationid="nakahodo" creationdate="20171230T172250Z">
@@ -13855,6 +13879,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074850Z" creationid="aorin" creationdate="20180410T074850Z">
         <seg>グール（基本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghoul:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102542Z" creationid="nakahodo" creationdate="20180413T102542Z">
+        <seg>グール：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16966,6 +16998,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you chose the Ghost, this equals [INF + 1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102658Z" creationid="nakahodo" creationdate="20180413T102633Z">
+        <seg>ゴーストを選択肢た場合、影響力＋1の数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you collect a Dragon Gem, roll the Dragon die.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T202430Z" creationid="aorin" creationdate="20180409T202430Z">
@@ -17162,6 +17202,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083002Z" creationid="aorin" creationdate="20171216T083002Z">
         <seg>そのプレイヤーのローカル戦士数を越えて、より多くの利用可能な&lt;ソード&gt;を持っている場合、そのプレイヤーからランダムにカード1枚を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have no Possession cards left, this equals [INF].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102702Z" creationid="nakahodo" creationdate="20180413T102652Z">
+        <seg>憑依カードがない場合、影響力の数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26480,6 +26528,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stalwart</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T103143Z" creationid="nakahodo" creationdate="20180413T103137Z">
+        <seg>猛者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start the game with no</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153411Z" creationid="nakahodo" creationdate="20180108T153411Z">
@@ -29784,6 +29840,14 @@ determined by the desired Plan’s Cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of revealed Crystal tiles (including collapsed tiles).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102528Z" creationid="nakahodo" creationdate="20180413T102528Z">
+        <seg>明らかにされたクリスタルタイルの数（崩壊されたタイルを含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of units in every resource territory must be reduced to 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212310Z" creationid="aorin" creationdate="20180114T212310Z">
@@ -30386,6 +30450,14 @@ plus the desired Location’s cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of your chosen Attack die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102600Z" creationid="nakahodo" creationdate="20180413T102600Z">
+        <seg>あなたの選択した攻撃ダイスの結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The right combination of Discoveries can give you that edge you need to defeat your opponent on the field of battle and in the struggle for VPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151536Z" creationid="aorin" creationdate="20180115T151536Z">
@@ -30572,6 +30644,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134752Z" creationid="nakahodo" creationdate="20171127T134752Z">
         <seg>ドラゴンがいるタイルには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of the Possession card you chose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102614Z" creationid="nakahodo" creationdate="20180413T102614Z">
+        <seg>あなたの選択した憑依カードの値。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33464,6 +33544,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vile Ghoul:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102536Z" creationid="nakahodo" creationdate="20180413T102536Z">
+        <seg>バイルグール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Village (orange):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194354Z" creationid="aorin" creationdate="20180114T194354Z">
@@ -33520,6 +33608,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021241Z" creationid="aorin" creationdate="20171212T021241Z">
         <seg>sadf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait, who am I talking to?”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T103139Z" creationid="nakahodo" creationdate="20180413T103136Z">
+        <seg>待て、私は今だれと話している？”</seg>
       </tuv>
     </tu>
     <tu>
@@ -33994,6 +34090,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T154623Z" creationid="nakahodo" creationdate="20180412T154623Z">
         <seg>複数プレイヤーヴァリアントを選択している時、シャドウユニコーンはプレイヤーとしてカウントしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selecting tiles to collapse, choose Crystal tiles first, then locked Ghost tiles, then Dark tiles, then Lit tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102823Z" creationid="nakahodo" creationdate="20180413T102823Z">
+        <seg>崩壊するタイルを選択する時、まずクリスタルタイルを選択し、その後ロックされたゴーストタイルを、その後ダークタイル、その後ライトタイルとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37336,6 +37440,22 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102541Z" creationid="nakahodo" creationdate="20180413T102541Z">
+        <seg>あなたの移動力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Pace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T102534Z" creationid="nakahodo" creationdate="20180413T102534Z">
+        <seg>あなたのペース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your alignment shifts for removing warriors in battle regardless of whether you are the attacker or defender.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073541Z" creationid="aorin" creationdate="20171216T073541Z">
@@ -38728,6 +38848,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Did you hear that?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T103111Z" creationid="nakahodo" creationdate="20180413T103111Z">
+        <seg>”聞こえたか？</seg>
       </tuv>
     </tu>
     <tu>
