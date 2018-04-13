@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Return any previous card on the Mental Block space to Possession deck.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091827Z" creationid="nakahodo" creationdate="20180413T091827Z">
+        <seg>（以前のメンタルブロックスペースのカードは憑依デッキに戻されます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Multiplayer Variant on page 7.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131911Z" creationid="nakahodo" creationdate="20180412T131911Z">
@@ -5433,6 +5441,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affect the Ghost with Soporific Spores.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091910Z" creationid="nakahodo" creationdate="20180413T091900Z">
+        <seg>催眠胞子でゴーストを対象にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Affix the building sticker in your charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T170358Z" creationid="aorin" creationdate="20171228T170358Z">
@@ -7687,6 +7703,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BLOCK POSSESSION:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091350Z" creationid="nakahodo" creationdate="20180413T091350Z">
+        <seg>憑依をブロック：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BRIDGE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131635Z" creationid="nakahodo" creationdate="20171211T131635Z">
@@ -7956,6 +7980,15 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocking the Ghost "G-G-G-GHOST?!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091341Z" creationid="nakahodo" creationdate="20180413T091341Z">
+        <seg>ゴーストをブロックする
+”ゆ、ゆゆゆ、幽霊！？”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bonus - including Automas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111121Z" creationid="nakahodo" creationdate="20180108T111121Z">
@@ -8136,6 +8169,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075744Z" creationid="nakahodo" creationdate="20171230T075744Z">
         <seg>キャンペーン勝利カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CAVE GHOST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091203Z" creationid="nakahodo" creationdate="20180413T091203Z">
+        <seg>洞窟ゴースト：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8509,6 +8550,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cave:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091832Z" creationid="nakahodo" creationdate="20180413T091832Z">
+        <seg>ドウクツ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T195700Z" creationid="nakahodo" creationdate="20180311T195700Z">
@@ -8710,6 +8759,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164905Z" creationid="aorin" creationdate="20171212T164905Z">
         <seg>対戦相手のプレイヤーの色の昇格済み妖精の場所を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a space and roll the Dragon die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092357Z" creationid="nakahodo" creationdate="20180413T092357Z">
+        <seg>スペース1つを選択肢、ドラゴンダイスを1回ロールする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10731,6 +10788,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During their own turn, a player on the same space as the Ghost, or on an adjacent space, can move the matching Possession card to the Mental Block space by paying cost below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091801Z" creationid="nakahodo" creationdate="20180413T091801Z">
+        <seg>ゴースト以外のプレイヤーは自身のターン時、ゴーストと同じ、または隣接スペースにいるプレイヤーは、下記に示されるコストを支払い、自身に一致する憑依カードをメンタルブロックに移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this phase, you can spend movement points to move and to collect Treasure tokens and Dragon Gems, and you can spend attack points to attack other players and smash Crystal tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135439Z" creationid="aorin" creationdate="20180409T135439Z">
@@ -12555,6 +12620,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flare</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091913Z" creationid="nakahodo" creationdate="20180413T091913Z">
+        <seg>フレア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow all of the setup rules for the Cave (page 12 in Vast: The Crystal Caverns).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035314Z" creationid="aorin" creationdate="20180408T035314Z">
@@ -13185,6 +13258,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145803Z" creationid="nakahodo" creationdate="20171218T144626Z">
         <seg>共通サプライ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GHOST:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091138Z" creationid="nakahodo" creationdate="20180413T091138Z">
+        <seg>ゴースト：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15213,6 +15294,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030413Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>いずれかのプレイヤーが7以上の●を持つ建物を近所に持つ場合、ゲームは終了し得点計算を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any player is on a Ghost tihle with a locked Artifact, the Ghost cannot reveal a Possession card for any purpose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091602Z" creationid="nakahodo" creationdate="20180413T091602Z">
+        <seg>任意のプレイヤーがロックされたアーティファクトを持つゴーストタイルに居る場合、ゴースト任意の目的のために憑依カードを公開できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19311,6 +19400,38 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lock 3 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091158Z" creationid="nakahodo" creationdate="20180413T091158Z">
+        <seg>3アーティファクトをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock 4 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091221Z" creationid="nakahodo" creationdate="20180413T091221Z">
+        <seg>4アーティファクトをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock 5 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091225Z" creationid="nakahodo" creationdate="20180413T091225Z">
+        <seg>5アーティファクトをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock 6 Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091304Z" creationid="nakahodo" creationdate="20180413T091304Z">
+        <seg>6アーティファクトをロック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lone​ ​Wanderer.​ ​The Vagabond pawn is not a warrior, so he cannot be the ruler of a clearing or cause another player to cease being ruler.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154320Z" creationid="aorin" creationdate="20171215T154320Z">
@@ -19412,6 +19533,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173449Z" creationid="aorin" creationdate="20171228T173449Z">
         <seg>幸いにも、あなたは村を保全する術を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MENTAL BLOCK:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091610Z" creationid="nakahodo" creationdate="20180413T091610Z">
+        <seg>メンタルブロック：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21783,6 +21912,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115454Z" creationid="nakahodo" creationdate="20180412T115454Z">
         <seg>ファンタズムユニコーン（エキスパート）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phantom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091232Z" creationid="nakahodo" creationdate="20180413T091232Z">
+        <seg>死霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -25998,6 +26135,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091218Z" creationid="nakahodo" creationdate="20180413T091218Z">
+        <seg>うつろう影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specter (Easy):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T081723Z" creationid="aorin" creationdate="20180409T081723Z">
@@ -26042,6 +26187,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082603Z" creationid="aorin" creationdate="20180409T082603Z">
         <seg>影響力+1の移動力ポイントを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend [INF+1] movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091904Z" creationid="nakahodo" creationdate="20180413T091904Z">
+        <seg>Spend [INF+1] movement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26138,6 +26291,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074433Z" creationid="nakahodo" creationdate="20180311T074433Z">
         <seg>スピンプログラムカードは、セクターダイス1つの出目の数字を1つ、上げるか下げることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spirit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091133Z" creationid="nakahodo" creationdate="20180413T091133Z">
+        <seg>魂</seg>
       </tuv>
     </tu>
     <tu>
@@ -34089,6 +34250,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use the Hatred omen while any Hatred tokens remain, you may ignore its effect to instead remove a Hatred token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091256Z" creationid="nakahodo" creationdate="20180413T091256Z">
+        <seg>任意の憎悪トークンが残っている間に憎悪前兆を使用する時、あなたはその効果を発動させない代わりに、ゲームから憎悪トークンを取り除ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you use the Shoemaker, select another persona card from your Charter Chest and activate it(in addition to other perosna cards youre using game)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235358Z" creationid="aorin" creationdate="20171228T235358Z">
@@ -35064,6 +35233,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152102Z" creationid="nakahodo" creationdate="20180108T152102Z">
         <seg>Word of Mouth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you care for a beverage—some tea, perhaps?”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091131Z" creationid="nakahodo" creationdate="20180413T091131Z">
+        <seg>飲み物はいかがですか――ええっと、お茶？”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wraith</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T091302Z" creationid="nakahodo" creationdate="20180413T091302Z">
+        <seg>怨霊</seg>
       </tuv>
     </tu>
     <tu>
