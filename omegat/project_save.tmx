@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Tiles revealed by the Knight are worth Grit as if she had revealed them normally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092933Z" creationid="nakahodo" creationdate="20180413T092933Z">
+        <seg>（ナイトによって明らかにされたタイルは、彼女が通常時にそれらを明らかにしたように、経験値を持つ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Unicorn does not lose Radiance.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073328Z" creationid="nakahodo" creationdate="20180413T073328Z">
@@ -4775,6 +4783,14 @@ Bean Kicker.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232101Z" creationid="aorin" creationdate="20180409T232101Z">
         <seg>ゴブリン部族は、その筋力があなたの防御力を超える場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Goblin Tribe may target its current space without using an action, before or after moving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092621Z" creationid="nakahodo" creationdate="20180413T092443Z">
+        <seg>ゴブリン部族は移動の前か後に、アクションを使用することなく、自身がいるスペースを対象にできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22127,6 +22143,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Event tokens on any Event tiles revealed.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092954Z" creationid="nakahodo" creationdate="20180413T092954Z">
+        <seg>明らかにされたイベントタイルにイベントトークンを配置する）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Field Researchers</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T102926Z" creationid="nakahodo" creationdate="20171001T102926Z">
@@ -24564,6 +24588,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204406Z" creationid="nakahodo" creationdate="20171218T145112Z">
         <seg>目標カード3枚をランダムに公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal all Dark tiles affected by the roll, with the selected space as the center.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092416Z" creationid="nakahodo" creationdate="20180413T092416Z">
+        <seg>選択肢たスペースを中央として、ロールの影響を受けたダークタイル全てを明らかにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28202,6 +28234,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Knight may target any space on the map, once per turn (does not use an Encounter).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092518Z" creationid="nakahodo" creationdate="20180413T092442Z">
+        <seg>ナイトはターンごとに1度、マップの任意のスペースを対象にできる（エンカウンターを使用せず）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight must lose 1 Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
@@ -28714,6 +28754,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief may target his current space, spending 1 Action cube each time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092831Z" creationid="nakahodo" creationdate="20180413T092702Z">
+        <seg>1アクションキューブを消費するごとに、その部族を中央スペースの対象にできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief must stash 5 or 6 Treasures to win.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102124Z" creationid="aorin" creationdate="20180410T102124Z">
@@ -28977,6 +29025,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T044119Z" creationid="nakahodo" creationdate="20180411T095431Z">
         <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してあなたのスペースに入れますが、グールはあなたのアーマーよりもグールディスクを消費して、バイルグールはあなたのアーマーよりも攻撃力が高い場合に、あなたを攻撃できます（彼が飛び退いた後で、あなたは強制テレポートします）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The [Vile] Ghoul may target its current space, spending 1 movement each time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T092847Z" creationid="nakahodo" creationdate="20180413T092741Z">
+        <seg>グール（またはバイルグール）は、1移動力を消費するたびに、自身を中央スペースとして対象にできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38656,6 +38712,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090655Z" creationid="nakahodo" creationdate="20180413T080627Z">
         <seg>”ウグルルル……ウォウウウゥ……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“May this be a light for you, when all else falls dark.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093058Z" creationid="nakahodo" creationdate="20180413T093058Z">
+        <seg>”全てが闇に陥るとしても、これはあなたのための光だ”</seg>
       </tuv>
     </tu>
     <tu>
