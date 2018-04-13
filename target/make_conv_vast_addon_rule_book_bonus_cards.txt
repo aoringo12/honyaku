@@ -1,0 +1,86 @@
+プロモカード＆ボーナスヴァリアント
+
+ヴァリアントルール
+移動するエントランス
+During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.
+The Entrance piece, not the Entrance tile, marks the entrance to the Cave for the whole game. All victory conditions or rules that refer to “the Entrance tile” now read “the space holding the Entrance piece.”
+During play, treat the Entrance tile in all ways as a normal Cave tile. If you later place the Entrance tile on the map, place it Dark side up, as normal.
+When the tile with the Entrance piece is collapsed, the player who removed the tile must move the Entrance piece to an adjacent, unoccupied Lit tile. It cannot be moved through walls, onto a Dark tile, or onto a Terrain tile. If player pieces are also forced to move because of collapsing tiles, move the Entrance piece last. If it cannot be moved onto a legal tile, the tile holding the Entrance piece cannot be collapsed;ignore it, and collapse the next eligible tile.
+Other than marking the entrance to the Cave, the Entrance piece does not interact with any other effects. (It is ignored by effects that refer to unoccupied spaces.)
+The Entrance piece only ever moves if the tile holding it collapses.
+If the Goblins use Poison, place the Knight’s Hero cubes on the space holding the Entrance piece. If the tile holding the Entrance piece is removed, also remove the Hero cubes, and place the Hero cubes on the new space with the Entrance piece.
+The Knight regains them by moving to the Entrance piece.
+UNCERTAIN TREASURES
+This variant gives the Knight some more control over the Treasures she receives, and adds uncertainty for the Cave. This reduces the difficulty for the Knight and slightly increases the difficulty for the Cave, so the players must agree to use this variant during setup.
+In games with a Cave player:
+If the Knight collects a Treasure token, the Cave draws 3 Treasure cards, chooses 1 card to place on the bottom of the deck, and then gives the remaining 2 cards to the Knight.
+The Knight chooses 1 card to place on the bottom of the deck, and then she may keep or decline the remaining card. If she declines, she gains 5 Grit and removes the declined card from the game. Treasure cards that the Knight declines or returns to the bottom of the deck are not revealed to the Cave.
+洞窟プレイヤーのいないゲームでは：
+If the Knight collects a Treasure token, she draws 2 Treasure cards, chooses 1 card to place on the bottom of the deck, and keeps or declines the remaining card. If she declines, she gains 5 Grit and removes the declined card from the game.
+RANDOM TERRAIN
+In this variant, players must place random
+Terrain tiles instead of getting to choose which to place.
+During setup, shuffle the 6 Terrain cards and place them facedown near the map.
+During play, whenever you are prompted to place Terrain, draw a Terrain card to show which Terrain tile you must place, as normal.
+Keep the drawn Terrain cards face-up near the map as a rules reference.
+Promo Cards
+You can add most of the included promo cards to their matching decks and use them as normal. However, the Goblins’ “Scheme”
+Secrets cards, the Dragon’s “Scale” Power cards, and the Thief’s Upgrade cards have some additional rules, as described later.
+PREPARED (SIDEQUEST)
+Any additional Hero cubes gained by revealing this Sidequest may be placed normally, but because you must end your turn to gain the Grit, the extra cubes will not generate additional Movement or Encounters, and cannot be used to activate any other effects of equipment or Treasure cards, even if they do not normally require an Encounter (such as the Bomb, Bow, or Potion Kit).
+CURSED AMULET (TREASURE)
+While this Treasure is in play, its effects are always active. It does not require allocating a Hero cube.
+This Treasure may be declined for Grit, as normal, but if you choose to keep it, you must reveal it immediately. “Negative effects” refer to any effects that do not benefit you, such as:
+•	Attacks or ambushes that reduce your Health will reduce it by 2 instead of 1. (When using the Goblin Infestation Variant card, the Flame Giant will reduce your Health by 4 if you have insufficient Strength.)
+•	Effects that reduce your Grit will reduce it by double. (The Shield will reduce this loss to 2 instead of 1.)
+•	Effects that force you to move (Giant Bats, Claw, Telekinesis, etc.) can move you twice as many spaces.
+•	The Thief’s Pickpocket can steal two Treasures instead of one.
+When you lose Health, you must resolve the entire attack (including any secondary effects from Secrets, Monsters, etc.) before discarding the Treasure.
+RUNE STAFF (TREASURE)
+The distance you move is determined by the Grit you spend. (For example, if you spend 4 Grit, you can teleport to a space 2 spaces away in any direction.)
+You cannot teleport if you do not have enough Grit to spend.
+If spending Grit requires you to return a Hero cube, you cannot return the cube assigned to the Rune Staff.
+The Shield does not reduce the Grit cost of using this Treasure.
+CAVE BREAD, HEROIC BOOTS,
+& JAVELIN
+These three cards are replacements for the same cards from Vast:The Crystal Caverns. Replacing these cards as a set is highly recommended but not required.
+
+p2
+
+The Cave Bread has been adjusted so it is useful in a wider range of scenarios while also removing some confusions and ambiguities.
+The Heroic Boots have been rebalanced so that finding them early doesn’t give the Knight as big of an advantage, but they still remain more valuable than adding one cube to movement.
+The Javelin has been updated so it can also be thrown at a visible target. Throwing it follows the same rules as an attack, but simply at a distance. Your Strength (or Perception) must still be sufficient to hit when compared to the target’s defensive attribute.
+Any text that refers to an attack (Sidequests, Rage, Unnatural Evasion, etc.) applies to attacking with the Javelin.
+SLINGSHOT (SECRETS)
+The Slingshot’s effect is not an attack and does not harm the target player;it only makes it easier for other Tribes to attack.
+The Slingshot can be used by any Tribe regardless of its Population or the target’s defensive attribute.
+Goblin Schemes
+Schemes are Secrets cards that provide various permanent effects but must be purchased to be used. Schemes are denoted by the Treasure Chest icon ( ) in their upper-right corner.
+If you choose to use Schemes, during setup shuffle all of the Schemes into the Secrets deck. They work as Secrets cards, except that they cannot be used for their effects until they are purchased.
+When you purchase a Scheme, you place it face-up near your player board. Once there, it takes effect immediately and until the end of the game. Purchased Schemes cannot be removed or lost by any means, and do not count against your hand limit while in play.
+The first Scheme you purchase costs 1 Treasure, the second costs 2 Treasures, the third costs 3 Treasures, and so on.
+You may pay for Schemes in the following ways:
+•	When you Plunder a Treasure token or Dragon Gem, in addition to gaining Rage, you may spend it to purchase a Scheme.
+•	If you Plunder a Treasure or Gem but cannot or do not wish to purchase a Scheme immediately, you may store the Treasure near your player board until you can purchase a Scheme. (If you Plunder a Dragon Gem, return it to the Dragon and replace it with a Treasure token from the Cave’s supply, or from the map if none are in the supply.)You can store Treasures up to a maximum equaling your number of purchased Schemes. If you Plunder a Treasure but cannot spend or store it immediately, you must return it to the Cave’s supply. Stored Treasures can be stolen by the Thief with Pickpocket.
+•	When purchasing a Scheme card, you may discard other Scheme cards in your hand in place of spending Treasures, in any combination. When you purchase a Scheme, if you have any stored Treasures tokens you must spend all of them first, before you can spend other Scheme cards.
+MEAT!AND ARMORY
+The number of Strength discs included in the game is a hard limit. If all are in use and a card is drawn that would require one (Meat!, Armory, or a Monster), that card will have no effect until a Strength disc becomes available, at which time the disc moves to the card.
+CAVE OIL
+This card has no effect on Population losses caused by entering Terrain tiles or a space with a Flame Wall.
+Dragon Scales
+The three Scale cards are bonuses that the Dragon can earn during play.
+During setup, shuffle the three Scale cards together as their own deck and place them facedown near your player board (do not shuffle them into your Power deck).
+Each time that you use Smash to smash a Crystal token or you use Wrath to collapse a Crystal tile, draw one Scale card and shuffle it into your Power deck. (You cannot gain multiple Scale cards from one use of a power.)
+Scale cards in the Power deck are drawn into your hand like normal Power cards, and may be used during the Move and Use Powers phase of your turn. Once used, Scales are shuffled into the Power deck during the Replace Hand phase, unless noted otherwise.
+The Golden Scale can be used as any one symbol of your choice (Claw, Flame, or Wing).
+The Silver Scale can be used as any one symbol of your choice (Claw, Flame, or Wing) that matches a Dragon Gem in your supply.
+If all three Gems are on the map, the Silver Scale has no effect. If you do not play the Silver Scale, you may reveal it during your Replace Hand phase in order to keep the card in your hand instead of discarding it.
+If you do, then draw one fewer card after discarding your other cards.
+The Platinum Scale allows you to immediately move a Sloth cube from any category to Wakefulness. Remove the Platinum Scale from the game after moving the cube.
+Thief Upgrade Cards
+The three included Upgrade cards give the Thief more upgrade options.
+During setup, shuffle the Upgrade cards, draw one, and place it facedown near your player board (you may look at it, but do not reveal it). Return the other cards to the box.
+When you stash a Treasure, you may reveal an Upgrade card and place a Treasure token on it to gain its upgrade (instead of an upgrade on your player board).
+The Warlock’s Wand has 5 charges (tracked by using any tokens or markers you have available). Each time you use its effect, remove a charge. If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space. 
+If the Treasure token is removed for any reason (for example, when targeted by Soporific Spores) and regained later, only the unused charges remain (they do not reset to the original count).
+
