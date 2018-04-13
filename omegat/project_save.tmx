@@ -8845,8 +8845,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose a player to hex.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T151105Z" creationid="nakahodo" creationdate="20180413T150938Z">
-        <seg>ヘキサの対象とするプレイヤー</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T155952Z" creationid="nakahodo" creationdate="20180413T150938Z">
+        <seg>ヘキサの対象とするプレイヤーを選択する。</seg>
       </tuv>
     </tu>
     <tu>
