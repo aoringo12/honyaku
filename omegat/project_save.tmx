@@ -27644,8 +27644,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The [Vile] Ghoul may spend Movement to enter the Unicorn’s space regardless of its Attack, but it can attack him only if its Attack is greater than his Armor (the Unicorn Teleports after th[Vile] Ghoul skitters).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T152218Z" creationid="nakahodo" creationdate="20180412T152205Z">
-        <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してウニコーンのスペースに入れますが、その攻撃力がユニコーンのアーマーよりも高い場合にのみ攻撃できます（グール、またはバイルグールが飛び退いた後でユニコーンがテレポートします）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044759Z" creationid="nakahodo" creationdate="20180412T152205Z">
+        <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してユニコーンのスペースに入れますが、その攻撃力がユニコーンのアーマーよりも高い場合にのみ攻撃できます（グール、またはバイルグールが飛び退いた後でユニコーンがテレポートします）。</seg>
       </tuv>
     </tu>
     <tu>
