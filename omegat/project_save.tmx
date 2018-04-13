@@ -26554,8 +26554,9 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Stalwart</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T103143Z" creationid="nakahodo" creationdate="20180413T103137Z">
-        <seg>猛者</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T141806Z" creationid="nakahodo" creationdate="20180413T103137Z">
+        <seg>Stalwart
+猛者</seg>
       </tuv>
     </tu>
     <tu>
@@ -38872,6 +38873,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031122Z" creationid="aorin" creationdate="20171212T025227Z">
         <seg>あなたの対戦相手の開始ミントトークンシェアに等しいだけの○をミントサプライから取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Come and get it, you little creeps!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T141801Z" creationid="nakahodo" creationdate="20180413T141801Z">
+        <seg>“Come and get it, you little creeps!”</seg>
       </tuv>
     </tu>
     <tu>
