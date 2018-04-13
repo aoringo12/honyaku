@@ -27748,8 +27748,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The change for games with 6 or more players gives the Cave [Ghost] player a small boost to help offset the greater number of players who will be collecting Treasures, smashing Crystals, and affecting Isolation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T160906Z" creationid="aorin" creationdate="20180408T160906Z">
-        <seg>6人以上のプレイヤーの居るゲームへの変更は、トレジャーを収集したり、クリスタルを破壊したり、孤独に影響を与えすぎる多すぎるプレイヤーに対抗するため、洞窟[ゴースト]プレイヤーへ小さな補助を与えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044020Z" creationid="aorin" creationdate="20180408T160906Z">
+        <seg>6人以上のプレイヤーの居るゲームへの変更は、トレジャーを収集したり、クリスタルを破壊したり、孤独に影響を与えすぎる多すぎるプレイヤーに対抗するため、洞窟（または洞窟ゴースト）プレイヤーへ小さな補助を与えます。</seg>
       </tuv>
     </tu>
     <tu>
