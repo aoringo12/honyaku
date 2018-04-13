@@ -7162,6 +7162,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacking the Ghoul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062604Z" creationid="nakahodo" creationdate="20180413T062604Z">
+        <seg>グールの攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attention:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094038Z" creationid="aorin" creationdate="20171212T094038Z">
@@ -10634,6 +10642,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXPERT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062410Z" creationid="nakahodo" creationdate="20180413T062410Z">
+        <seg>エキスパート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Automa card shows either a specific building in the Commons or prioritized plots in the charters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T092854Z" creationid="nakahodo" creationdate="20180108T092854Z">
@@ -13036,6 +13052,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain Fury equal to 8 + number of players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062340Z" creationid="nakahodo" creationdate="20180413T062340Z">
+        <seg>プレイヤー数＋8に等しいだけの怒りを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain Fury equal to your Fury goal by attacking other players and collecting Treasures, then escape the Cave by entering the Entrance tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133236Z" creationid="aorin" creationdate="20180409T133236Z">
@@ -13600,6 +13624,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HARD</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062330Z" creationid="nakahodo" creationdate="20180413T062330Z">
+        <seg>ハード</seg>
       </tuv>
     </tu>
     <tu>
@@ -14263,6 +14295,15 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T054259Z" creationid="nakahodo" creationdate="20180413T054253Z">
         <seg>Hunt
 ハント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hunter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062337Z" creationid="nakahodo" creationdate="20180413T062337Z">
+        <seg>Hunter
+ハンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -24163,6 +24204,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STANDARD</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062301Z" creationid="nakahodo" creationdate="20180413T062301Z">
+        <seg>基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STARTING BONUS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145935Z" creationid="nakahodo" creationdate="20171230T145935Z">
@@ -25478,6 +25527,15 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
         <seg>あなたは、ヴァガボンドとして森を徘徊し、いや、鷲の巣からイニシアチブを握り、はたまたマルキス・デ・キャットとして下々を圧政し、もしやもすると、ウッドランド同盟を動かし新しい秩序を生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stalker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062310Z" creationid="nakahodo" creationdate="20180413T062310Z">
+        <seg>Stalker
+スターカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -27188,6 +27246,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Knight and Goblins can attack the Ghoul if their Strength is greater than its Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T063003Z" creationid="nakahodo" creationdate="20180413T063003Z">
+        <seg>The Knight and Goblins can attack the Ghoul if their Strength is greater than its Defense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight can enter the Unicorn’s space only if her Strength is equal to or greater than his Armor.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151018Z" creationid="nakahodo" creationdate="20180412T151018Z">
@@ -27270,16 +27336,32 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Knight starts with 5 Health, or the Dragon starts with 3 Health, or you must smash 3 Crystals.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062155Z" creationid="nakahodo" creationdate="20180413T062155Z">
-        <seg>ナイトは5ヘルス、ドラゴンは3ヘルスからスタートし、あなたは3クリスタルを砕かなければならない。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062541Z" creationid="nakahodo" creationdate="20180413T062155Z">
+        <seg>ナイトは5ヘルスからスタートする、またはドラゴンは3ヘルスからスタートする、またはあなたは3クリスタルを砕かなければならない。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Knight starts with 6 Health, or the Dragon starts with 4 Health, or you must smash 4 Crystals.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062231Z" creationid="nakahodo" creationdate="20180413T062231Z">
-        <seg>ナイトは6ヘルス、ドラゴンは4ヘルスからスタートし、あなたは4クリスタルを砕かなければならない。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062524Z" creationid="nakahodo" creationdate="20180413T062231Z">
+        <seg>ナイトは6ヘルスからスタートする、またはドラゴンは4ヘルスからスタートする、またはあなたは4クリスタルを砕かなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight starts with 7 Health, or the Dragon starts with 5 Health, or you must smash 5 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062502Z" creationid="nakahodo" creationdate="20180413T062256Z">
+        <seg>ナイトは7ヘルスからスタートする、またはドラゴンは5ヘルスからスタートする、またはあなたは5クリスタルを砕かなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight starts with 8 Health, or the Dragon starts with 6 Health, or you must smash 6 Crystals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062441Z" creationid="nakahodo" creationdate="20180413T062357Z">
+        <seg>ナイトは8ヘルスからスタートする、またはドラゴンは6ヘルスからスタートする、またはあなたは6クリスタルを砕かなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31954,6 +32036,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T082839Z" creationid="nakahodo" creationdate="20180412T082839Z">
         <seg>崩壊があまりにも早く始まらないように、洞窟プレイヤーの補助にならないように、よく考えて使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use only 2 Ghoul dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T062321Z" creationid="nakahodo" creationdate="20180413T062321Z">
+        <seg>グールダイス2つのみを使用する。</seg>
       </tuv>
     </tu>
     <tu>
