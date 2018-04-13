@@ -38967,6 +38967,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“I don’t need to see you to strike you down!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T150932Z" creationid="nakahodo" creationdate="20180413T150932Z">
+        <seg>”お前たちを倒すために見える必要なんてない！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“I find that ghostly lady to be quite delightful, and am pleased to be of assistance to her.”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085849Z" creationid="nakahodo" creationdate="20180413T085849Z">
