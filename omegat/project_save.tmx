@@ -7379,6 +7379,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack a Goblin Tribe with a Monster, attack the [Vile] Ghoul, attack the Dragon or Unicorn successfully, or attack and kill the Thief.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T143159Z" creationid="nakahodo" creationdate="20180413T143159Z">
+        <seg>モンスターと居るゴブリン部族1つ、またはグール（またはバイルグール）、またはドラゴンかユニコーンを攻撃してそれらを成功させる、またはシーフを攻撃して殺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack space and return them to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134210Z" creationid="aorin" creationdate="20180409T134210Z">
@@ -9695,6 +9703,15 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091852Z" creationid="nakahodo" creationdate="20180108T091852Z">
         <seg>オートマカード1枚ドロー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daring</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T141946Z" creationid="nakahodo" creationdate="20180413T141917Z">
+        <seg>Daring
+大胆</seg>
       </tuv>
     </tu>
     <tu>
@@ -38879,8 +38896,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>“Come and get it, you little creeps!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T141801Z" creationid="nakahodo" creationdate="20180413T141801Z">
-        <seg>“Come and get it, you little creeps!”</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T141942Z" creationid="nakahodo" creationdate="20180413T141801Z">
+        <seg>”来るなら来い。お前らなんて雑魚だ！”</seg>
       </tuv>
     </tu>
     <tu>
