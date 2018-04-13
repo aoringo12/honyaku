@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>"Such a foul, unnatural creature.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070108Z" creationid="nakahodo" creationdate="20180413T070108Z">
-        <seg>"Such a foul, unnatural creature.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070540Z" creationid="nakahodo" creationdate="20180413T070108Z">
+        <seg>”汚く、異常なクリーチャー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +970,30 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213551Z" creationid="nakahodo" creationdate="20171224T213545Z">
         <seg>（あなたの最初の指標）、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Clipclopclipclopclipclop*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071033Z" creationid="nakahodo" creationdate="20180413T071033Z">
+        <seg>*蹄の音*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*clapping coconuts*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071111Z" creationid="nakahodo" creationdate="20180413T071111Z">
+        <seg>*蹄の音が続く*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*clop* *clop* *clop*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071006Z" creationid="nakahodo" creationdate="20180413T071006Z">
+        <seg>*蹄の音* *蹄の音* *蹄の音*</seg>
       </tuv>
     </tu>
     <tu>
@@ -8123,6 +8147,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot mark Crystals or collect Treasures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070649Z" creationid="nakahodo" creationdate="20180413T070629Z">
+        <seg>クリスタルのマーキングやトレジャーの収集はできない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capacity</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204046Z" creationid="nakahodo" creationdate="20171224T204046Z">
@@ -12968,6 +13000,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072233Z" creationid="nakahodo" creationdate="20171209T072233Z">
         <seg>得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 Anger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070619Z" creationid="nakahodo" creationdate="20180413T070619Z">
+        <seg>1憤りを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18782,6 +18822,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let's put it out of our misery."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070555Z" creationid="nakahodo" creationdate="20180413T070555Z">
+        <seg>我々がソレを生み出したのだ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Level 1 has action spaces with 1 food icon, Level 2 has action spaces with 2 food icons, etc.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153625Z" creationid="aorin" creationdate="20171212T153625Z">
@@ -19395,6 +19443,32 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040623Z" creationid="aorin" creationdate="20171213T040623Z">
         <seg>あなたの妖精1体を一行昇進させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move 1 or</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071033Z" creationid="nakahodo" creationdate="20180413T071033Z">
+        <seg>1移動
+または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move 2 or</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070821Z" creationid="nakahodo" creationdate="20180413T070821Z">
+        <seg>2移動
+または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move 3 (Angry)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070901Z" creationid="nakahodo" creationdate="20180413T070901Z">
+        <seg>3移動（憤り）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31645,6 +31719,38 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070831Z" creationid="nakahodo" creationdate="20180413T070831Z">
+        <seg>左へターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn Left (Angry)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070614Z" creationid="nakahodo" creationdate="20180413T070614Z">
+        <seg>左へターン（憤り）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070909Z" creationid="nakahodo" creationdate="20180413T070909Z">
+        <seg>右へターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn Right (Angry)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070936Z" creationid="nakahodo" creationdate="20180413T070936Z">
+        <seg>右へターン（憤り）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn Sequence</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205752Z" creationid="aorin" creationdate="20180114T205752Z">
@@ -37576,6 +37682,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Hrrrmmmhrmrrmrm...pff”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071135Z" creationid="nakahodo" creationdate="20180413T071135Z">
+        <seg>”ﾋｨｲｲｲｲｲﾌｨｲｲｲﾝ……ﾌﾞﾙﾙ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Just small peeksies...”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062001Z" creationid="nakahodo" creationdate="20180413T061859Z">
@@ -37596,6 +37710,70 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T060415Z" creationid="nakahodo" creationdate="20180413T060415Z">
         <seg>”ちょトだけのズる……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeeeeeeeeeigh!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071243Z" creationid="nakahodo" creationdate="20180413T071243Z">
+        <seg>“ﾆｨｲｲｱｨｲｲｲｲｲﾝ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeeeeeeigh.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071155Z" creationid="nakahodo" creationdate="20180413T071155Z">
+        <seg>“ﾈｨｲｲｲｲｲｲｲｨｲｨ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeeeigh!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071247Z" creationid="nakahodo" creationdate="20180413T071247Z">
+        <seg>“ｨｲｲｨｲｲｲﾝ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeeeigh!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070810Z" creationid="nakahodo" creationdate="20180413T070630Z">
+        <seg>“ｨｲｲｨｲｲｲﾝ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeeeigh?!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071205Z" creationid="nakahodo" creationdate="20180413T071205Z">
+        <seg>“ｨｲｲｨｲｲｲﾝ？！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeeeeigh?”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071228Z" creationid="nakahodo" creationdate="20180413T071228Z">
+        <seg>“ｨｲｲｨｲｲｲﾝ？！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeigh!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070923Z" creationid="nakahodo" creationdate="20180413T070923Z">
+        <seg>”ﾆｨｨｲｩ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Neeigh...”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071212Z" creationid="nakahodo" creationdate="20180413T071212Z">
+        <seg>”ﾆｨｨｲｩ…”</seg>
       </tuv>
     </tu>
     <tu>
@@ -37636,6 +37814,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061009Z" creationid="nakahodo" creationdate="20180413T060934Z">
         <seg>"ちょっトしたおフザケだ……"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Whiiiiinny!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T071220Z" creationid="nakahodo" creationdate="20180413T071220Z">
+        <seg>”ｩｨｩｲｲｲｲｲﾝｨｲｲ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Whiiiiinny.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T070854Z" creationid="nakahodo" creationdate="20180413T070854Z">
+        <seg>”ｩｨｩｲｲｲｲｲﾝｨｲｲ！”</seg>
       </tuv>
     </tu>
     <tu>
