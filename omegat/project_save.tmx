@@ -6302,6 +6302,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alone in the Dark II</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093808Z" creationid="nakahodo" creationdate="20180413T093748Z">
+        <seg>アローンインザダークⅡ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along with his Capital, this allows him to recruit a total of 9 workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214313Z" creationid="aorin" creationdate="20180114T214313Z">
@@ -7215,6 +7223,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021731Z" creationid="aorin" creationdate="20180408T021731Z">
         <seg>あなたのターン終了時にて、ドラゴンのターンが開始される前に、あなたは憑依されたナイトカードを公開して、ナイトの憑依ターンを開始することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of your turn, instead of drawing and placing 1 Dark tile, draw and place Dark tiles equal in number to the greatest of the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T094843Z" creationid="nakahodo" creationdate="20180413T094843Z">
+        <seg>At the end of your turn, instead of drawing and placing 1 Dark tile, draw and place Dark tiles equal in number to the greatest of the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9508,6 +9524,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073923Z" creationid="aorin" creationdate="20171216T073923Z">
         <seg>クロスチャートシフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crowded House</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093110Z" creationid="nakahodo" creationdate="20180413T093110Z">
+        <seg>いっぱい屋敷</seg>
       </tuv>
     </tu>
     <tu>
@@ -15624,6 +15648,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no Cave [Ghost], players place or remove only 1 tile at the end of their own turn (instead of place 1, remove 3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093238Z" creationid="nakahodo" creationdate="20180413T093238Z">
+        <seg>洞窟（または洞窟ゴースト）がいない場合、プレイヤーたちは自身のターン終了時にタイル1枚のみを配置[または]取り除きを行う（1枚配置、3枚取り除きの代わりに）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no available items remain to damage, the Vagabond may damage an exhausted item.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231707Z" creationid="aorin" creationdate="20171215T231707Z">
@@ -17992,6 +18024,22 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T092821Z" creationid="nakahodo" creationdate="20171001T092821Z">
         <seg>3から5プレイヤーゲームでは、ベストセラーリストの古い場所はコーヒーブレンドが占めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with 4 or more players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093130Z" creationid="nakahodo" creationdate="20180413T093130Z">
+        <seg>4人以上のプレイヤーたちによるゲーム：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with 6 or more players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093241Z" creationid="nakahodo" creationdate="20180413T093241Z">
+        <seg>6人以上のプレイヤーたちによるゲーム：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27415,6 +27463,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave [Ghost] draws Omen tokens as if there were one more Crystal token on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093350Z" creationid="nakahodo" creationdate="20180413T093350Z">
+        <seg>洞窟（または洞窟ゴースト）は、マップにクリスタルトークンが1つ多くあるとして前兆トークンをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave can cause a Mental Block by just affecting the Ghost with Soporific Spores.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225752Z" creationid="aorin" creationdate="20180407T225752Z">
@@ -33484,6 +33540,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We know they won't win.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093758Z" creationid="nakahodo" creationdate="20180413T093351Z">
+        <seg>彼らが勝利できないことを、我々は知っている”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We recommend that the same people play the entire Charterstone campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142826Z" creationid="nakahodo" creationdate="20171218T142738Z">
@@ -38872,6 +38936,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085211Z" creationid="nakahodo" creationdate="20180413T085211Z">
         <seg>”待って、なんでこんなガラクタを拾ったんだろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“When the world comes in, they come, they come, to build a wall between us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T093746Z" creationid="nakahodo" creationdate="20180413T093350Z">
+        <seg>”この場が広がり、誰かが来て、彼らも来た。我々の間に壁を作るために。</seg>
       </tuv>
     </tu>
     <tu>
