@@ -13516,6 +13516,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goblins gain 1 Rage upon attack, and the attacking Tribe does not scatter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T064058Z" creationid="nakahodo" creationdate="20180413T064058Z">
+        <seg>ゴブリンたちは攻撃時に1怒りを得て、部族は散らない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goblins:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082511Z" creationid="aorin" creationdate="20180409T082511Z">
@@ -18626,6 +18634,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042016Z" creationid="aorin" creationdate="20171213T042016Z">
         <seg>クラウスはシルバートラックの4段目にいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knight's attack completes Daring, and completes Stalwart if its Defense was 3 or greater, and completes Fearless if she revealed a Dark tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T063823Z" creationid="nakahodo" creationdate="20180413T063823Z">
+        <seg>ナイトの攻撃は、大胆を達成させ、グールの防御力が3以上の場合に猛者を達成させ、その場所のダークタイルを明らかにしていた場合に恐れなしを達成させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24629,6 +24645,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She can shoot it with her Bow, causing it to skitter, if her Strength is 2 or greater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T063910Z" creationid="nakahodo" creationdate="20180413T063910Z">
+        <seg>ナイトは弓でグール撃つことができ、彼女の筋力が2以上の場合にグールは飛び退く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She cannot possess her opponent, so she returns the Possessed Dragon card to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T015346Z" creationid="aorin" creationdate="20180408T015346Z">
@@ -27248,8 +27272,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Knight and Goblins can attack the Ghoul if their Strength is greater than its Defense.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T063003Z" creationid="nakahodo" creationdate="20180413T063003Z">
-        <seg>The Knight and Goblins can attack the Ghoul if their Strength is greater than its Defense.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T063041Z" creationid="nakahodo" creationdate="20180413T063003Z">
+        <seg>ナイトとゴブリンはその筋力がグールの防御力を超える場合、グールを攻撃できる。</seg>
       </tuv>
     </tu>
     <tu>
