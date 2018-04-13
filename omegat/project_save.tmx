@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If no Cave player, draw 3 Cave tiles as hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080720Z" creationid="nakahodo" creationdate="20180413T080720Z">
+        <seg>（洞窟プレイヤーがいない場合、手札として洞窟タイル3枚をドローする）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -6914,6 +6922,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At end of possession turn, return them to top of their stack in any order.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080806Z" creationid="nakahodo" creationdate="20180413T080806Z">
+        <seg>憑依ターンの終了時、任意の順番でスタックの一番上にこれらを返す）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the back of this rulebook, you fill find several pages showing sample map layouts for 2-4 player games.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T200919Z" creationid="aorin" creationdate="20180114T200919Z">
@@ -10488,6 +10504,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Collect Omen Tokens phase, draw [INF + 1] Omen tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080831Z" creationid="nakahodo" creationdate="20180413T080831Z">
+        <seg>前兆トークンの収集フェイズ時、影響力＋1の前兆トークンをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Collect Omen Tokens phase, measure your Isolation from the closest player piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T160029Z" creationid="aorin" creationdate="20180408T160029Z">
@@ -11942,6 +11966,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075459Z" creationid="aorin" creationdate="20171213T075459Z">
         <seg>ゲームボード上のタイルと交換する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081023Z" creationid="nakahodo" creationdate="20180413T081000Z">
+        <seg>広くなあれ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19825,6 +19857,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement = 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081159Z" creationid="nakahodo" creationdate="20180413T081159Z">
+        <seg>移動力＝4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement = 5</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073746Z" creationid="nakahodo" creationdate="20180413T073746Z">
@@ -23100,8 +23140,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Possessed Cave</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080520Z" creationid="nakahodo" creationdate="20180413T080520Z">
-        <seg>Possessed Cave</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080634Z" creationid="nakahodo" creationdate="20180413T080520Z">
+        <seg>憑依された洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -23126,6 +23166,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073740Z" creationid="nakahodo" creationdate="20180413T073740Z">
         <seg>憑依されたナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Thief</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081158Z" creationid="nakahodo" creationdate="20180413T081158Z">
+        <seg>憑依されたシーフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25239,6 +25287,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081042Z" creationid="nakahodo" creationdate="20180413T080958Z">
+        <seg>変わって。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should a player collect 60 Penalty Points throughout the game, they disappoint the Queen so badly that She has that player thrown into the Pit of Oblivion.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173316Z" creationid="aorin" creationdate="20171212T173316Z">
@@ -26110,6 +26166,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stealth = 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081204Z" creationid="nakahodo" creationdate="20180413T081204Z">
+        <seg>ステルス＝3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072215Z" creationid="nakahodo" creationdate="20180311T072215Z">
@@ -26456,6 +26520,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024157Z" creationid="aorin" creationdate="20180408T024157Z">
         <seg>アローンインザダークⅡヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Cave player's hand of Cave tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080656Z" creationid="nakahodo" creationdate="20180413T080546Z">
+        <seg>洞窟プレイヤーの手札の洞窟タイル全てを受け取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31081,6 +31153,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thievery = [INF + 1]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081234Z" creationid="nakahodo" creationdate="20180413T081234Z">
+        <seg>窃盗力＝影響力＋1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thieves have stolen precious artifacts from the Foreve1·King's personal treasury and smuggled them into your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235227Z" creationid="aorin" creationdate="20171231T235227Z">
@@ -32058,6 +32138,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T180342Z" creationid="aorin" creationdate="20171228T180342Z">
         <seg>トレジャーカードは、あなたが使用を望んだ時に、一度限りの強力な能力を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tremble.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081153Z" creationid="nakahodo" creationdate="20180413T080952Z">
+        <seg>揺れて。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -35323,6 +35411,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use all of the Thief's upgrades, including those not gained by the Thief player, but you do not gain their increases to statistics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T082140Z" creationid="nakahodo" creationdate="20180413T082140Z">
+        <seg>シーフプレイヤーが得ていないものを含めて、シーフのアップグレードを全て使用できますが、ステータス上昇効果は得られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can't use it this game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T032050Z" creationid="nakahodo" creationdate="20171224T153617Z">
@@ -35439,6 +35535,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080520Z" creationid="nakahodo" creationdate="20180413T080520Z">
         <seg>あなたは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot spend symbols from Dragon Gems on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080602Z" creationid="nakahodo" creationdate="20180413T080602Z">
+        <seg>あなたはマップのドラゴンジェムからシンボルを消費できない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36023,6 +36127,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002041Z" creationid="aorin" creationdate="20180115T002041Z">
         <seg>あなたは増強ステージ時に発動できるディスカバリーを使用できます（飛行船のような）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use Giant Bats to target an Artifact, moving it one space per Omen token spent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080933Z" creationid="nakahodo" creationdate="20180413T080933Z">
+        <seg>あなたはジャイアントバッドでアーティファクトを対象にして使用し、消費した前兆トークン1つごとに1スペースそれを移動できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38114,6 +38226,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Grow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T081010Z" creationid="nakahodo" creationdate="20180413T080938Z">
+        <seg>“大きくなあれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Hrrrmmmhrmrrmrm...pff”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071135Z" creationid="nakahodo" creationdate="20180413T071135Z">
@@ -38134,6 +38254,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131646Z" creationid="nakahodo" creationdate="20180412T131508Z">
         <seg>”シャドウユニコーンを殺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Kraaaaaghh...uuhhhugh…”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T080627Z" creationid="nakahodo" creationdate="20180413T080627Z">
+        <seg>”ウグルルル……ガオー……”</seg>
       </tuv>
     </tu>
     <tu>
