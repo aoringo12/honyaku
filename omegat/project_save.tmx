@@ -808,8 +808,8 @@
       <tuv lang="EN-US">
         <seg>(You won’t need to do this on your first turn.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180409T134310Z" creationid="aorin" creationdate="20180409T134310Z">
-        <seg>（あなたのゲーム最初のターン、kろえを行う必要はありません）</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044447Z" creationid="aorin" creationdate="20180409T134310Z">
+        <seg>（あなたのゲーム最初のターン、これを行う必要はありません）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9292,6 +9292,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decades?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044336Z" creationid="nakahodo" creationdate="20180413T044336Z">
+        <seg>それともさらに・・・？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decades? Now, interlopers are no mere prey to be spooked and scared away with bared claws and an ancient blade.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075619Z" creationid="aorin" creationdate="20180410T075619Z">
@@ -12049,6 +12057,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134206Z" creationid="aorin" creationdate="20180409T134206Z">
         <seg>まず、あなたのアクションスペースから任意の数、グールディスクを取り除き、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, remove any Ghoul discs from your Attack space and return them to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044444Z" creationid="nakahodo" creationdate="20180413T044444Z">
+        <seg>まず、あなたの攻撃スペースから任意の枚数のグールディスクを取り除き、自身のサプライにこれらを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19469,6 +19485,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072351Z" creationid="aorin" creationdate="20180115T072351Z">
         <seg>今、ジュールが有利です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, interlopers are no mere prey to be spooked and scared away with bared claws and an ancient blade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044346Z" creationid="nakahodo" creationdate="20180413T044346Z">
+        <seg>今、侵入者は古びた刃と下劣の爪に怯えて震えるだけの獲物でしかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27628,8 +27652,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The [Vile] Ghoul may spend movement points to enter your space regardless of its Attack, but it can attack you if its number of spent Ghoul discs (Ghoul) or Attack (Vile Ghoul) is greater than your Armor (you are forced to Teleport after it skitters).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180412T110946Z" creationid="nakahodo" creationdate="20180411T095431Z">
-        <seg>グールは攻撃の有無に関わらず、移動力ポイントを消費してあなたのスペースに入れますが、グールはあなたのアーマーよりもグールディスクを消費して、バイルグールはあなたのアーマーよりも攻撃力が高い場合に、あなたを攻撃できます（彼が飛び退いた後で、あなたは強制テレポートします）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044119Z" creationid="nakahodo" creationdate="20180411T095431Z">
+        <seg>グール（またはバイルグール）は攻撃の有無に関わらず、移動力ポイントを消費してあなたのスペースに入れますが、グールはあなたのアーマーよりもグールディスクを消費して、バイルグールはあなたのアーマーよりも攻撃力が高い場合に、あなたを攻撃できます（彼が飛び退いた後で、あなたは強制テレポートします）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30260,6 +30284,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145614Z" creationid="nakahodo" creationdate="20171230T145614Z">
         <seg>このカードは、「セットアップ―非アクティブチャーターカード」カードに置き換えられ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This creature has grown quite at home in the Cave, in the—how long has it been now?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044325Z" creationid="nakahodo" creationdate="20180413T044325Z">
+        <seg>このクリーチャーは洞窟をホームとして成長してきました――どれだけの月日？</seg>
       </tuv>
     </tu>
     <tu>
@@ -33710,6 +33742,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133020Z" creationid="nakahodo" creationdate="20171230T133020Z">
         <seg>合計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Years?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180413T044326Z" creationid="nakahodo" creationdate="20180413T044326Z">
+        <seg>年数を？</seg>
       </tuv>
     </tu>
     <tu>
