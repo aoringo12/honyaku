@@ -6326,6 +6326,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All victory conditions or rules that refer to “the Entrance tile” now read “the space holding the Entrance piece.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180424T160505Z" creationid="nakahodo" creationdate="20180424T160505Z">
+        <seg>勝利条件やルールが示す全ての「エントランスタイル」は「エントランスピースを保持するスペース」と読み替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alliance​ ​Movement.​ ​The Alliance is uniquely restricted in its ability to move.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220758Z" creationid="aorin" creationdate="20171215T220758Z">
@@ -10741,8 +10749,8 @@ position on the Best-Seller List.</seg>
       <tuv lang="EN-US">
         <seg>During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T053910Z" creationid="nakahodo" creationdate="20180413T053910Z">
-        <seg>During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180424T160246Z" creationid="nakahodo" creationdate="20180413T053910Z">
+        <seg>セットアップ時、エントランスタイルにエントランスピース（または任意のプロクシーピース）を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28081,6 +28089,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T085149Z" creationid="nakahodo" creationdate="20180312T085149Z">
         <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Entrance piece, not the Entrance tile, marks the entrance to the Cave for the whole game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180424T160342Z" creationid="nakahodo" creationdate="20180424T160342Z">
+        <seg>エントランスピースはエントランスタイルではなく、ゲーム全体の洞窟のエントランスを追跡します。</seg>
       </tuv>
     </tu>
     <tu>
