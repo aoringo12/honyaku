@@ -23449,6 +23449,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160800Z" creationid="nakahodo" creationdate="20180430T160800Z">
+        <seg>横穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixies in mines are slaves and do not receive any resources.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094744Z" creationid="aorin" creationdate="20171212T094744Z">
@@ -36660,6 +36668,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111010Z" creationid="nakahodo" creationdate="20180412T083204Z">
         <seg>あなたが強制テレポートする時、あなたの透明の数だけ、ユニコーンカードをドローして公開し、公開されたカードの1枚を選択して位置を決定してそこにあなたのピースを配置し、その後、公開したカードを全て破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you are prompted to place the Pits, you must place all three.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160818Z" creationid="nakahodo" creationdate="20180430T160818Z">
+        <seg>あなたが横穴の配置を指示された時、</seg>
       </tuv>
     </tu>
     <tu>
