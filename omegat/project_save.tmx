@@ -20541,6 +20541,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lots o' pointy.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142353Z" creationid="nakahodo" creationdate="20180430T142353Z">
+        <seg>たくさんのチクチクだ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loud debating, advertising, and negotiation are encouraged.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112638Z" creationid="nakahodo" creationdate="20171001T112638Z">
@@ -35268,6 +35276,15 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>War Banner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142420Z" creationid="nakahodo" creationdate="20180430T142355Z">
+        <seg>War Banner
+闘争の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We Don’t Need Playtesters/Editors</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131934Z" creationid="aorin" creationdate="20171215T131934Z">
@@ -39432,6 +39449,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your maximum Rage increases to 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142356Z" creationid="nakahodo" creationdate="20180430T142356Z">
+        <seg>Your maximum Rage increases to 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your possible actions are listed below:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235143Z" creationid="aorin" creationdate="20171215T235143Z">
@@ -40968,6 +40993,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160642Z" creationid="nakahodo" creationdate="20180413T160642Z">
         <seg>”うおあ、大きくて恐ろしいナイトがくるよう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Pointy...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142344Z" creationid="nakahodo" creationdate="20180430T142344Z">
+        <seg>”チクチクだ……</seg>
       </tuv>
     </tu>
     <tu>
