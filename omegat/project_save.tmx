@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If none available, she gains 6 Grit.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135611Z" creationid="nakahodo" creationdate="20180430T135611Z">
+        <seg>（利用できない場合、あなたは6経験値を得る）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -8834,6 +8842,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045814Z" creationid="aorin" creationdate="20171213T045814Z">
         <seg>カジノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cave Bread</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135437Z" creationid="nakahodo" creationdate="20180430T135437Z">
+        <seg>洞窟パン</seg>
       </tuv>
     </tu>
     <tu>
@@ -27170,6 +27186,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some old adventurer’s rations, strangely unspoiled and heartening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135819Z" creationid="nakahodo" creationdate="20180430T135819Z">
+        <seg>これら誰とも知らない冒険者の食料は、不思議なことに汚れておらず、食べられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some rule cards replace older versions in the Chronicle;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053643Z" creationid="nakahodo" creationdate="20171224T222658Z">
@@ -29498,6 +29522,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
         <seg>ナイトは1ヘルス失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight regains 1 Hero cube from the Discarded Hero Cubes space on her player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135522Z" creationid="nakahodo" creationdate="20180430T135522Z">
+        <seg>ナイトは自身のプレイヤーボードの破棄されたヒーローキューブスペースからヒーローキューブ1つを回復する。</seg>
       </tuv>
     </tu>
     <tu>
