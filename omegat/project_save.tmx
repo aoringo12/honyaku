@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"That's mine!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144824Z" creationid="nakahodo" creationdate="20180430T144824Z">
+        <seg>”それはおれんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"The process of moving the soul ft·om one body to anothe,:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T002204Z" creationid="aorin" creationdate="20171229T002204Z">
@@ -6697,6 +6705,15 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancient Rituals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144112Z" creationid="nakahodo" creationdate="20180430T144050Z">
+        <seg>Ancient Rituals
+古代の儀式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And did you recently choose a rebel persona?</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T132818Z">
@@ -8927,6 +8944,15 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cave Oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144848Z" creationid="nakahodo" creationdate="20180430T144837Z">
+        <seg>Cave Oil
+洞窟オイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cave Rules</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050652Z" creationid="aorin" creationdate="20180408T050652Z">
@@ -9035,6 +9061,15 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031241Z" creationid="aorin" creationdate="20180115T031241Z">
         <seg>チャールズは”C”でマークされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145019Z" creationid="nakahodo" creationdate="20180430T145019Z">
+        <seg>Charm
+魅了</seg>
       </tuv>
     </tu>
     <tu>
@@ -12982,6 +13017,15 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eye of Rage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144617Z" creationid="nakahodo" creationdate="20180430T144603Z">
+        <seg>Eye of Rage
+瞳の怒り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eyrie Dynasties Setup</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133851Z" creationid="aorin" creationdate="20171215T133851Z">
@@ -14780,8 +14824,8 @@ and a Research Lab.</seg>
       <tuv lang="EN-US">
         <seg>Hah ha hah ha hah ha-OW!"</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144025Z" creationid="nakahodo" creationdate="20180430T144025Z">
-        <seg>Hah ha hah ha hah ha-OW!"</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144047Z" creationid="nakahodo" creationdate="20180430T144025Z">
+        <seg>ハーハーハーハッハッハッハワオ！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -20621,6 +20665,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MINE!MINE!MINE!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144835Z" creationid="nakahodo" creationdate="20180430T144835Z">
+        <seg>俺のオレのおれんだ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MINIONS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151707Z" creationid="nakahodo" creationdate="20171230T151707Z">
@@ -20938,6 +20990,15 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024726Z" creationid="aorin" creationdate="20180408T024726Z">
         <seg>ミディアム：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mercenaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144339Z" creationid="nakahodo" creationdate="20180430T144327Z">
+        <seg>Mercenaries
+傭兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -21941,6 +22002,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205919Z" creationid="aorin" creationdate="20171215T205919Z">
         <seg>作成すると、改良は様々なボーナスを与え、ヴァガボンドが使うためのアイテムをゲームに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once per turn, as a free action, you may gain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145041Z" creationid="nakahodo" creationdate="20180430T145041Z">
+        <seg>ターン毎に1度、フリーアクションとして、</seg>
       </tuv>
     </tu>
     <tu>
@@ -35614,6 +35683,22 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When drawing Monsters, you may reduce your Rage by 1 to draw another Monster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144509Z" creationid="nakahodo" creationdate="20180430T144436Z">
+        <seg>モンスターカードをドローする時、あなたは自身の怒りを1減少させて、別のモンスターカードを追加でドローできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When drawing Secrets, you may remove 1 Goblin disc from any Tribe to draw another Secrets card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144516Z" creationid="nakahodo" creationdate="20180430T144053Z">
+        <seg>シークレットカードをドローする時、あなたは任意の部族からゴブリンディスク1つを取り除き、別のシークレットカード1枚を追加でドローできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When everyone is ready, The Brewmaster will signal all players to reveal their Tokens
 simultaneously;</seg>
       </tuv>
@@ -35733,6 +35818,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T090212Z" creationid="nakahodo" creationdate="20180312T090212Z">
         <seg>同時に複数の宝石を移動する時、全ての宝石は分けたりする事はできず、同じガーデンセクターに配置されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When moving, a Tribe loses 1 Population for every 3 Lit tiles it exits (instead of every 2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144957Z" creationid="nakahodo" creationdate="20180430T144838Z">
+        <seg>移動する時、部族はライトタイル3枚を出るたびに人口が1減少する（2枚ごとの代わりに）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38140,6 +38233,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224526Z" creationid="aorin" creationdate="20180409T224526Z">
         <seg>あなたはプレイヤーを攻撃するたび、集めたトレジャートークンが2つになるたびに、1怒りを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You gain 1 Rage when the Thief stashes a Treasure or Gem, or when any player besides the Thief gains a Treasure or Gem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144815Z" creationid="nakahodo" creationdate="20180430T144604Z">
+        <seg>シーフがトレジャーやジェムトークンをスタッシュした時や、シーフ以外のプレイヤーがトレジャーやジェムトークンを得た時、あなたは1怒りを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41131,6 +41232,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085211Z" creationid="nakahodo" creationdate="20180413T085211Z">
         <seg>”待って、なんでこんなガラクタを拾ったんだろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“We is demanding sacrifice!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144322Z" creationid="nakahodo" creationdate="20180430T144322Z">
+        <seg>”さらなる血が必要ダ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“When payday come, we buy rocks.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144557Z" creationid="nakahodo" creationdate="20180430T144557Z">
+        <seg>”給料日が来たら、岩を買おう”</seg>
       </tuv>
     </tu>
     <tu>
