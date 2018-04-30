@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I more smarty than you, join the Eye now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144023Z" creationid="nakahodo" creationdate="20180430T144023Z">
+        <seg>”俺はお前よりも賢いぜ、瞳部族に参加しよう！今！すぐ！なう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I never thought this would happen, but I can't help how I feel.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T211030Z" creationid="aorin" creationdate="20171231T211030Z">
@@ -12288,8 +12296,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Each turn, after choosing a War card but before placing Goblins, you may move 1 Goblin disc from one Tribe to another.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143440Z" creationid="nakahodo" creationdate="20180430T143440Z">
-        <seg>Each turn, after choosing a War card but before placing Goblins, you may move 1 Goblin disc from one Tribe to another.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143910Z" creationid="nakahodo" creationdate="20180430T143440Z">
+        <seg>各ターン、戦争カード1枚を選択した後、かつゴブリンディスクを配置する前に、あなたは部族1つからゴブリンディスク1つを別の部族に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14766,6 +14774,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062330Z" creationid="nakahodo" creationdate="20180413T062330Z">
         <seg>ハード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hah ha hah ha hah ha-OW!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T144025Z" creationid="nakahodo" creationdate="20180430T144025Z">
+        <seg>Hah ha hah ha hah ha-OW!"</seg>
       </tuv>
     </tu>
     <tu>
