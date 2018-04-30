@@ -18183,6 +18183,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you enter any River space during movement, you may immediately move in the direction of the current, indicated by the arrows, to any other space on the River tile as free movement with no penalty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162102Z" creationid="nakahodo" creationdate="20180430T162102Z">
+        <seg>あなたが移動時にいずれかの川スペースに移動した場合、直ちに、矢印で示される方向で川にある任意の他スペースへと、ペナルティなく無料で移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you enter the River, you may immediately move for free in the direction of the current, as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111424Z" creationid="nakahodo" creationdate="20180412T111424Z">
@@ -24030,6 +24038,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the first as close as possible to your player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T161000Z" creationid="nakahodo" creationdate="20180430T161000Z">
+        <seg>まず、あなたのプレイヤーピースとできるだけ近く配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the game board in the center of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070330Z" creationid="nakahodo" creationdate="20180311T070315Z">
@@ -24042,6 +24058,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193423Z" creationid="aorin" creationdate="20180114T193423Z">
         <seg>マップの横にゲームボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the other two Pit tiles as far from the first Pit and from each other as possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T161156Z" creationid="nakahodo" creationdate="20180430T161156Z">
+        <seg>他2つの横穴を最初の横穴と他のそれぞれから、できるだけ遠くに配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24580,6 +24604,14 @@ Research (gain abilities).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035115Z" creationid="aorin" creationdate="20180116T035115Z">
         <seg>プレイヤーたちは同時にIPトークンを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players can move between Pit tiles as if they were adjacent, but a player cannot end their own turn on a Pit tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T161407Z" creationid="nakahodo" creationdate="20180430T161302Z">
+        <seg>プレイヤーたちは横穴タイル間を隣接しているかのように移動できるが、横穴タイル上で自身のターンを終了できない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26349,6 +26381,15 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T075922Z" creationid="nakahodo" creationdate="20180413T075922Z">
         <seg>右の足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>River</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T161415Z" creationid="nakahodo" creationdate="20180430T161415Z">
+        <seg>River
+川</seg>
       </tuv>
     </tu>
     <tu>
@@ -30896,6 +30937,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T102601Z" creationid="nakahodo" creationdate="20180412T102601Z">
         <seg>拘束解除アップグレードはあなたの憤りを直ちに1上昇させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Unicorn Teleports immediately if he ends any movement on a Pit tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T161358Z" creationid="nakahodo" creationdate="20180430T161358Z">
+        <seg>ユニコーンは横穴タイル上で移動を終了した場合、直ちにテレポートする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36674,8 +36723,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you are prompted to place the Pits, you must place all three.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160818Z" creationid="nakahodo" creationdate="20180430T160818Z">
-        <seg>あなたが横穴の配置を指示された時、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160916Z" creationid="nakahodo" creationdate="20180430T160818Z">
+        <seg>あなたが横穴の配置を指示された時、あなたは3つ全てを配置しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
