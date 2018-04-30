@@ -16219,6 +16219,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Goblins use Poison, place the Knight’s Hero cubes on the space holding the Entrance piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085353Z" creationid="nakahodo" creationdate="20180430T085206Z">
+        <seg>ゴブリンがポイズンを使用した場合、ナイトのヒーローキューブはエントランスピースを保持するスペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Operative is in contested territory with just a single enemy Soldier, you may have the Operative kill the opposing Soldier.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T033424Z" creationid="aorin" creationdate="20180115T033358Z">
@@ -16552,6 +16560,14 @@ If the Treasure token is removed for any reason (for example, when targeted by S
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134506Z" creationid="aorin" creationdate="20180409T134506Z">
         <seg>3つ全てのダイスのの合計が7以下だった場合、恐怖カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tile holding the Entrance piece is removed, also remove the Hero cubes, and place the Hero cubes on the new space with the Entrance piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085454Z" creationid="nakahodo" creationdate="20180430T085454Z">
+        <seg>エントランスピースを保持するタイルが取り除かれた場合、ヒーローキューブも取り除かれ、新しいエントランスピースを保持するスペースにそのヒーローキューブを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28151,8 +28167,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Entrance piece only ever moves if the tile holding it collapses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085204Z" creationid="nakahodo" creationdate="20180430T085204Z">
-        <seg>エントランスピースは、それを</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085221Z" creationid="nakahodo" creationdate="20180430T085204Z">
+        <seg>エントランスピースは、それを保持するタイルが崩壊する場合にのみ、移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28755,6 +28771,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092257Z" creationid="aorin" creationdate="20180410T092257Z">
         <seg>ナイトは1ヘルス失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight regains them by moving to the Entrance piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085520Z" creationid="nakahodo" creationdate="20180430T085520Z">
+        <seg>ナイトはエントランスピースに移動することでそのヒーローキューブを取り回復できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32533,6 +32557,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This reduces the difficulty for the Knight and slightly increases the difficulty for the Cave, so the players must agree to use this variant during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085846Z" creationid="nakahodo" creationdate="20180430T085846Z">
+        <seg>ナイトの難易度は下がり、洞窟の難易度は上がりますので、プレイヤーたちはゲームセットアップ時にこのヴァリアントを使用するかどうか、全員で同意する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This rule does not work in reverse:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210435Z" creationid="aorin" creationdate="20171215T210435Z">
@@ -32582,6 +32614,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213526Z" creationid="aorin" creationdate="20180114T213526Z">
         <seg>このターン、あなたは研究フェイズの各ステージで最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This variant gives the Knight some more control over the Treasures she receives, and adds uncertainty for the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085754Z" creationid="nakahodo" creationdate="20180430T085754Z">
+        <seg>このヴァリアントは、ナイトが得るトレジャーをナイトが制御し、洞窟に運要素を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33261,6 +33301,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090813Z" creationid="nakahodo" creationdate="20170924T090813Z">
         <seg>通常、ゲームの所有者か最もプレイしたことのある人になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNCERTAIN TREASURES</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085545Z" creationid="nakahodo" creationdate="20180430T085545Z">
+        <seg>運任せの宝物</seg>
       </tuv>
     </tu>
     <tu>
