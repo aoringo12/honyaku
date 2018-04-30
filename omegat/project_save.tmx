@@ -10728,6 +10728,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During play, whenever you are prompted to place Terrain, draw a Terrain card to show which Terrain tile you must place, as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091456Z" creationid="nakahodo" creationdate="20180430T091456Z">
+        <seg>プレイ中、地形タイルを配置するように指示されるたびに、地形カード1枚をドローし、それに表示された地形タイルを配置ルールに基づいて配置しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During play, you may draw special victory cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232057Z" creationid="aorin" creationdate="20171215T231939Z">
@@ -10775,6 +10783,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T033114Z" creationid="aorin" creationdate="20180408T033053Z">
         <seg>セットアップ時に、憑依デッキからゴーストカードを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During setup, shuffle the 6 Terrain cards and place them facedown near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091328Z" creationid="nakahodo" creationdate="20180430T091328Z">
+        <seg>セットアップ時、地形カード6枚をシャッフルし、それらをマップ近くに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16109,8 +16125,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If she declines, she gains 5 Grit and removes the declined card from the game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T090243Z" creationid="nakahodo" creationdate="20180430T090048Z">
-        <seg>拒否した場合、ナイトは5経験値を得て、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T090907Z" creationid="nakahodo" creationdate="20180430T090048Z">
+        <seg>拒否した場合、ナイトは5経験値を得て、拒否したカードをゲームから取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16231,6 +16247,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T085353Z" creationid="nakahodo" creationdate="20180430T085206Z">
         <seg>ゴブリンがポイズンを使用した場合、ナイトのヒーローキューブはエントランスピースを保持するスペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Knight collects a Treasure token, she draws 2 Treasure cards, chooses 1 card to place on the bottom of the deck, and keeps or declines the remaining card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091153Z" creationid="nakahodo" creationdate="20180430T091153Z">
+        <seg>ナイトがトレジャートークンを収集する場合、ナイトはトレジャーカード2枚をドローし、1枚を選択してデッキの下に戻し、残った1枚を保持するか拒否する決定をします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18449,8 +18473,8 @@ cannot be chosen, unless a special action would allow it.</seg>
       <tuv lang="EN-US">
         <seg>In games without a Cave player:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180408T022440Z" creationid="aorin" creationdate="20180408T022440Z">
-        <seg>洞窟プレイヤーのいないゲームでは：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091052Z" creationid="aorin" creationdate="20180408T022440Z">
+        <seg>洞窟プレイヤーの居ないゲーム：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18669,6 +18693,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T112720Z" creationid="nakahodo" creationdate="20180412T112720Z">
         <seg>このヴァリアントでは、ユニコーンピースの方向をプレイしたカードの矢印（^）に一致させる代わりに、テーブルであなたが座っている位置に直接矢印（^）が向くように使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this variant, players must place random</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091219Z" creationid="nakahodo" creationdate="20180430T091219Z">
+        <seg>このヴァリアントでは、</seg>
       </tuv>
     </tu>
     <tu>
@@ -24304,6 +24336,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RANDOM TERRAIN</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091201Z" creationid="nakahodo" creationdate="20180430T091201Z">
+        <seg>ランダム地形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REPLENISH:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152728Z" creationid="nakahodo" creationdate="20171218T152728Z">
@@ -27561,6 +27601,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000641Z" creationid="aorin" creationdate="20180408T000641Z">
         <seg>地形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terrain tiles instead of getting to choose which to place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091300Z" creationid="nakahodo" creationdate="20180430T091300Z">
+        <seg>プレイヤーたちは、配置する地形タイルを選択するのではなく、ランダムに配置する事になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32652,8 +32700,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>This variant gives the Knight some more control over the Treasures she receives, and adds uncertainty for the Cave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085754Z" creationid="nakahodo" creationdate="20180430T085754Z">
-        <seg>このヴァリアントは、ナイトが得るトレジャーをナイトが制御し、洞窟に運要素を追加します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091039Z" creationid="nakahodo" creationdate="20180430T085754Z">
+        <seg>このヴァリアントは、ナイトが得るトレジャーをナイト自身が選択し、洞窟に不確実性を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33146,6 +33194,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T180342Z" creationid="aorin" creationdate="20171228T180342Z">
         <seg>トレジャーカードは、あなたが使用を望んだ時に、一度限りの強力な能力を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treasure cards that the Knight declines or returns to the bottom of the deck are not revealed to the Cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091020Z" creationid="nakahodo" creationdate="20180430T091020Z">
+        <seg>ナイトが拒否したりデッキの下に戻したトレジャーカードは洞窟に見せません。</seg>
       </tuv>
     </tu>
     <tu>
