@@ -16501,9 +16501,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If the Treasure token is removed for any reason (for example, when targeted by Soporific Spores) and regained later, only the unused charges remain (they do not reset to the original count).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054012Z" creationid="nakahodo" creationdate="20180413T054012Z">
-        <seg>
-If the Treasure token is removed for any reason (for example, when targeted by Soporific Spores) and regained later, only the unused charges remain (they do not reset to the original count).</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T114120Z" creationid="nakahodo" creationdate="20180413T054012Z">
+        <seg>トレジャートークンが何らかの理由によって取り除かれた場合（例えば、催眠胞子の対象にされて）、後に再取得しても、チャージは変化しません（カウントをリセットしません）。</seg>
       </tuv>
     </tu>
     <tu>
