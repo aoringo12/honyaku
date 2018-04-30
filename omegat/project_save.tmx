@@ -15709,6 +15709,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If all three Gems are on the map, the Silver Scale has no effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110805Z" creationid="nakahodo" creationdate="20180430T110805Z">
+        <seg>3つ全てのドラゴンジェムがマップにある場合、銀の鱗は効果を持ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an Artifact is locked during a possession turn, the possession turn ends immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233623Z" creationid="aorin" creationdate="20180407T233623Z">
@@ -17569,10 +17577,26 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not play the Silver Scale, you may reveal it during your Replace Hand phase in order to keep the card in your hand instead of discarding it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T111152Z" creationid="nakahodo" creationdate="20180430T111152Z">
+        <seg>銀の鱗をプレイしない場合、手札の入れ替えフェイズ時にそれを公開して、破棄する代わりに手札に保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do, do not discard the card;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232311Z" creationid="aorin" creationdate="20171215T232311Z">
         <seg>そうした場合、カードは捨て札にしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do, then draw one fewer card after discarding your other cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T111243Z" creationid="nakahodo" creationdate="20180430T111243Z">
+        <seg>そうした場合、他のカードを破棄した後で、通常より1枚少なくカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21620,6 +21644,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T103056Z" creationid="nakahodo" creationdate="20180430T103056Z">
         <seg>そうすると、直ちに効果を発揮し、ゲーム終了まで残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once used, Scales are shuffled into the Power deck during the Replace Hand phase, unless noted otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110528Z" creationid="nakahodo" creationdate="20180430T110410Z">
+        <seg>鱗カードが使用されると、特に記述がない限り、手札の入れ替えフェイズ時にパワーデッキに入れてシャッフルされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25868,6 +25900,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale cards in the Power deck are drawn into your hand like normal Power cards, and may be used during the Move and Use Powers phase of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110444Z" creationid="nakahodo" creationdate="20180430T110409Z">
+        <seg>パワーデッキ内の鱗カードは、通常のパワーカードのようにドラゴンの手札としてドローされ、ドラゴンのターンにて移動とパワー使用フェイズ時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scavenger</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062220Z" creationid="nakahodo" creationdate="20180413T062220Z">
@@ -29063,6 +29103,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Golden Scale can be used as any one symbol of your choice (Claw, Flame, or Wing).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110733Z" creationid="nakahodo" creationdate="20180430T110631Z">
+        <seg>金の鱗はドラゴンが選択した任意のシンボルとして使用できます（クロウ、フレイム、ウィング）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Guardian and Steamtank generals and the Operative Unique Unit are not affected by attrition.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120025Z" creationid="aorin" creationdate="20180115T120025Z">
@@ -29651,6 +29699,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152045Z" creationid="nakahodo" creationdate="20180108T152045Z">
         <seg>買い物アクションはこの方法では一回のみ実行できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Silver Scale can be used as any one symbol of your choice (Claw, Flame, or Wing) that matches a Dragon Gem in your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110723Z" creationid="nakahodo" creationdate="20180430T110723Z">
+        <seg>銀の鱗はドラゴンのサプライにあるドラゴンジェムに一致する、ドラゴンが選択した任意のシンボルの1つとして使用できます（クロウ、フレイム、ウィング）。</seg>
       </tuv>
     </tu>
     <tu>
