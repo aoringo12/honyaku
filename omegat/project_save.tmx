@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, if you spend 4 Grit, you can teleport to a space 2 spaces away in any direction.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T094329Z" creationid="nakahodo" creationdate="20180430T094329Z">
+        <seg>（例えば、ナイトが経験値を4消費した場合、任意の宝庫に2スペース離れた場所へテレポートします）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, in a game with the Knight, Dragon, and Ghost, you take the Possessed Knight, Possessed Dragon, and Ghost Possession cards.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131951Z" creationid="nakahodo" creationdate="20180406T131951Z">
@@ -750,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Shield will reduce this loss to 2 instead of 1.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093745Z" creationid="nakahodo" creationdate="20180430T093731Z">
+        <seg>（盾は経験値を1ではなく2失わせます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The Unicorn Teleports after you skitter.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T223501Z" creationid="aorin" creationdate="20180409T223501Z">
@@ -906,6 +922,14 @@
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T223923Z" creationid="aorin" creationdate="20180409T223923Z">
         <seg>（攻撃を解決した後、シーフが不自然な回避を使用し、ダイスロールが成功した場合、あなたが飛び退いた後で彼は移動します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(When using the Goblin Infestation Variant card, the Flame Giant will reduce your Health by 4 if you have insufficient Strength.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093647Z" creationid="nakahodo" creationdate="20180430T093621Z">
+        <seg>（ゴブリン蔓延ヴァリアントカードを使用している時、フレイムジャイアントはナイトの筋力が不十分である場合に、ナイトのヘルスを4減少させます。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7507,6 +7531,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacks or ambushes that reduce your Health will reduce it by 2 instead of 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093626Z" creationid="nakahodo" creationdate="20180430T093431Z">
+        <seg>攻撃されたり待ち伏せは、ナイトのヘルスを1ではなく2減少させることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attention:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094038Z" creationid="aorin" creationdate="20171212T094038Z">
@@ -12029,6 +12061,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effects that force you to move (Giant Bats, Claw, Telekinesis, etc.) can move you twice as many spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093848Z" creationid="nakahodo" creationdate="20180430T093848Z">
+        <seg>ナイトを強制移動させる効果（ジャイアントバッド、クロウ、テレキネシス他）は、2倍のスペースを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effects that reduce your Grit will reduce it by double.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093808Z" creationid="nakahodo" creationdate="20180430T093713Z">
+        <seg>ナイトの経験値が失われる場合、その量が2倍になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effect​ ​location.​ ​In general, the Hideout slot of your conspiracy does not limit where you can resolve an effect.​ ​The conspiracy will state whether you must resolve its effect at the matching Hideout or not.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054714Z" creationid="aorin" creationdate="20171216T054438Z">
@@ -16175,6 +16223,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101605Z" creationid="aorin" creationdate="20180410T101605Z">
         <seg>ナイトが待ち伏せに殺された場合、バイルグールの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If spending Grit requires you to return a Hero cube, you cannot return the cube assigned to the Rune Staff.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095252Z" creationid="nakahodo" creationdate="20180430T095252Z">
+        <seg>ヒーローキューブを戻すために必要な経験値を消費した場合、ルースタッフに割り当てられたキューブは戻せません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24432,6 +24488,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RUNE STAFF (TREASURE)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T094208Z" creationid="nakahodo" creationdate="20180430T094208Z">
+        <seg>ルーンスタッフ（トレジャー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Radiance and Upgrades</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T085212Z" creationid="nakahodo" creationdate="20180412T085212Z">
@@ -29471,6 +29535,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Thief’s Pickpocket can steal two Treasures instead of one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093912Z" creationid="nakahodo" creationdate="20180430T093912Z">
+        <seg>シーフのスリはトレジャーを1つではなく、2つ盗みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Three Ages</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T204758Z" creationid="aorin" creationdate="20180114T204758Z">
@@ -29910,6 +29982,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134801Z" creationid="aorin" creationdate="20180409T134729Z">
         <seg>最も高い値のダイスがあなたの移動力ポイントで、最も低い値のダイスがあなたの攻撃ポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The distance you move is determined by the Grit you spend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T094230Z" creationid="nakahodo" creationdate="20180430T094230Z">
+        <seg>ナイトが移動する距離は、消費された経験値によって決定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35040,6 +35120,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you lose Health, you must resolve the entire attack (including any secondary effects from Secrets, Monsters, etc.) before discarding the Treasure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T094122Z" creationid="nakahodo" creationdate="20180430T094122Z">
+        <seg>ナイトがヘルスを失う時、トレジャーを破棄する前に、（シークレットやモンスターなどからの二次効果を含む）攻撃全体を解決する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you or a possessed player piece enters the River, you may immediately move that piece for free in the direction of the current.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001009Z" creationid="aorin" creationdate="20180408T001001Z">
@@ -36831,6 +36919,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001456Z" creationid="aorin" creationdate="20180408T001417Z">
         <seg>ゴーストはキノコの森に居るプレイヤーピースを対象としてテレキネシスや憑依ができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot teleport if you do not have enough Grit to spend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T094351Z" creationid="nakahodo" creationdate="20180430T094351Z">
+        <seg>十分な量の経験値を消費しなかった場合、テレポートはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39764,8 +39860,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>“Negative effects” refer to any effects that do not benefit you, such as:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093428Z" creationid="nakahodo" creationdate="20180430T093149Z">
-        <seg>”不利益な効果”は、次のように、あなたにとって有益にならない効果を指します</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093443Z" creationid="nakahodo" creationdate="20180430T093149Z">
+        <seg>”不利益な効果”は、次のように、ナイトにとって有益にならない効果を指します：</seg>
       </tuv>
     </tu>
     <tu>
