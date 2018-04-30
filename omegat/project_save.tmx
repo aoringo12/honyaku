@@ -8857,8 +8857,9 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>Canyon</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154632Z" creationid="nakahodo" creationdate="20180430T154632Z">
-        <seg>谷</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162633Z" creationid="nakahodo" creationdate="20180430T154632Z">
+        <seg>Canyon
+谷</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,16 +9043,18 @@ in players’ Neighborhoods.</seg>
       <tuv lang="EN-US">
         <seg>Cave Bread</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135437Z" creationid="nakahodo" creationdate="20180430T135437Z">
-        <seg>洞窟パン</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162450Z" creationid="nakahodo" creationdate="20180430T135437Z">
+        <seg>Cave Bread
+洞窟パン</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cave Mushrooms</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140901Z" creationid="nakahodo" creationdate="20180430T140726Z">
-        <seg>どうくつマッシュルーム</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162511Z" creationid="nakahodo" creationdate="20180430T140726Z">
+        <seg>Cave Mushrooms
+どうくつマッシュルーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,8 +10129,9 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       <tuv lang="EN-US">
         <seg>Cursed Amulet</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120344Z" creationid="nakahodo" creationdate="20180430T120344Z">
-        <seg>呪われたアミュレット</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162400Z" creationid="nakahodo" creationdate="20180430T120344Z">
+        <seg>Cursed Amulet
+呪われたアミュレット</seg>
       </tuv>
     </tu>
     <tu>
@@ -10525,8 +10529,9 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Disappearing Cloak</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151827Z" creationid="nakahodo" creationdate="20180430T151827Z">
-        <seg>稀釈マント</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162559Z" creationid="nakahodo" creationdate="20180430T151827Z">
+        <seg>Disappearing Cloak
+稀釈マント</seg>
       </tuv>
     </tu>
     <tu>
@@ -15341,8 +15346,9 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>Heroic Boots</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122735Z" creationid="nakahodo" creationdate="20180430T122735Z">
-        <seg>ヒロイックブーツ</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162418Z" creationid="nakahodo" creationdate="20180430T122735Z">
+        <seg>Heroic Boots
+ヒロイックブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20179,8 +20185,9 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Javelin</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122852Z" creationid="nakahodo" creationdate="20180430T122852Z">
-        <seg>ジャヴェリン</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162423Z" creationid="nakahodo" creationdate="20180430T122852Z">
+        <seg>Javelin
+ジャヴェリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -20515,8 +20522,9 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Lake</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155504Z" creationid="nakahodo" creationdate="20180430T155504Z">
-        <seg>湖</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162642Z" creationid="nakahodo" creationdate="20180430T155504Z">
+        <seg>Lake
+湖</seg>
       </tuv>
     </tu>
     <tu>
@@ -21562,8 +21570,9 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Mushroom Forest</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160204Z" creationid="nakahodo" creationdate="20180430T160204Z">
-        <seg>キノコの森</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162652Z" creationid="nakahodo" creationdate="20180430T160204Z">
+        <seg>Mushroom Forest
+キノコの森</seg>
       </tuv>
     </tu>
     <tu>
@@ -23475,8 +23484,9 @@ the marker clockwise.</seg>
       <tuv lang="EN-US">
         <seg>Pits</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160800Z" creationid="nakahodo" creationdate="20180430T160800Z">
-        <seg>横穴</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162656Z" creationid="nakahodo" creationdate="20180430T160800Z">
+        <seg>Pits
+横穴</seg>
       </tuv>
     </tu>
     <tu>
@@ -25084,9 +25094,9 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Prepared</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152703Z" creationid="nakahodo" creationdate="20180430T152703Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162618Z" creationid="nakahodo" creationdate="20180430T152703Z">
         <seg>Prepared
-覚悟</seg>
+準備</seg>
       </tuv>
     </tu>
     <tu>
@@ -25399,8 +25409,9 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Quake!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135842Z" creationid="nakahodo" creationdate="20180430T135821Z">
-        <seg>地震だ！</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162455Z" creationid="nakahodo" creationdate="20180430T135821Z">
+        <seg>Quake!
+地震だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -26660,8 +26671,9 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Rune Staff</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120758Z" creationid="nakahodo" creationdate="20180430T120758Z">
-        <seg>ルーンスタッフ</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162410Z" creationid="nakahodo" creationdate="20180430T120758Z">
+        <seg>Rune Staff
+ルーンスタッフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27607,6 +27619,15 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Silver Gauntlet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162437Z" creationid="nakahodo" creationdate="20180430T162437Z">
+        <seg>Silver Gauntlet
+シルバーガントレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Silver Scale</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T154233Z" creationid="nakahodo" creationdate="20180430T154233Z">
@@ -27697,8 +27718,9 @@ the World Map.</seg>
       <tuv lang="EN-US">
         <seg>Slingshot</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140342Z" creationid="nakahodo" creationdate="20180430T140342Z">
-        <seg>スリングショット</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162504Z" creationid="nakahodo" creationdate="20180430T140342Z">
+        <seg>Slingshot
+スリングショット</seg>
       </tuv>
     </tu>
     <tu>
@@ -34910,8 +34932,9 @@ side to place face-up on the table.</seg>
       <tuv lang="EN-US">
         <seg>Treasure Trove</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T124808Z" creationid="nakahodo" creationdate="20180430T124808Z">
-        <seg>掘り出し物</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162444Z" creationid="nakahodo" creationdate="20180430T124808Z">
+        <seg>Treasure Trove
+掘り出し物</seg>
       </tuv>
     </tu>
     <tu>
