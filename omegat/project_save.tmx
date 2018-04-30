@@ -5043,6 +5043,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe loses 1 Population per space it enters when moving against the current.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162320Z" creationid="nakahodo" creationdate="20180430T162320Z">
+        <seg>ゴブリン部族は矢印へと移動して新たなスペースに入るたびに、人口が1失われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Goblin Tribe may target its current space without using an action, before or after moving.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092621Z" creationid="nakahodo" creationdate="20180413T092443Z">
@@ -21519,6 +21527,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving against the current follows normal movement rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162137Z" creationid="nakahodo" creationdate="20180430T162137Z">
+        <seg>矢印への移動は通常の移動ルールにに従う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-use Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205255Z" creationid="aorin" creationdate="20171215T205255Z">
@@ -36095,6 +36111,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T155552Z" creationid="nakahodo" creationdate="20180430T155552Z">
         <seg>ゴブリン部族が湖に入る時、強制移動であっても、直ちに人口が1失われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a Goblin Tribe enters the River, it immediately loses 1 Population, even if it was forced to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T162211Z" creationid="nakahodo" creationdate="20180430T162211Z">
+        <seg>ゴブリン部族が川に入る時、強制移動であっても、直ちに人口が1失われる。</seg>
       </tuv>
     </tu>
     <tu>
