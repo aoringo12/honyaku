@@ -6675,6 +6675,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any text that refers to an attack (Sidequests, Rage, Unnatural Evasion, etc.) applies to attacking with the Javelin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100914Z" creationid="nakahodo" creationdate="20180430T100914Z">
+        <seg>ジャヴェリンによる（投げる）攻撃には、攻撃を参照する任意のテキストが適応されます（サイドクエスト、怒り、不自然な回避、他）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any warriors in your forest nation boxes are called supporters​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052722Z" creationid="aorin" creationdate="20171216T052722Z">
@@ -25668,6 +25676,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SLINGSHOT (SECRETS)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T101141Z" creationid="nakahodo" creationdate="20180430T101141Z">
+        <seg>スリングショット（シークレット）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030731Z" creationid="aorin" creationdate="20171212T030731Z">
@@ -28921,8 +28937,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Javelin has been updated so it can also be thrown at a visible target.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100421Z" creationid="nakahodo" creationdate="20180430T100421Z">
-        <seg>ジャヴェリンは見えている対象に投げられるようにアップデートされました。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100522Z" creationid="nakahodo" creationdate="20180430T100421Z">
+        <seg>ジャヴェリンは離れた見えている対象に投げられるようにアップデートされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29499,6 +29515,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
         <seg>一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Slingshot’s effect is not an attack and does not harm the target player;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T101743Z" creationid="nakahodo" creationdate="20180430T101743Z">
+        <seg>スリングショットの効果は攻撃ではなく、対象プレイヤーを害しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32996,8 +33020,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>Throwing it follows the same rules as an attack, but simply at a distance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100510Z" creationid="nakahodo" creationdate="20180430T100510Z">
-        <seg>ジャヴェリンを投げることは攻撃と同じルールが適用され、単純に遠距離</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100607Z" creationid="nakahodo" creationdate="20180430T100510Z">
+        <seg>これを投げることは攻撃と同じルールが適用され、単純に距離が伸びるだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38322,6 +38346,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102534Z" creationid="nakahodo" creationdate="20180413T102534Z">
         <seg>あなたのペース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Strength (or Perception) must still be sufficient to hit when compared to the target’s defensive attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100752Z" creationid="nakahodo" creationdate="20180430T100752Z">
+        <seg>ナイトの筋力（や感知力）は依然として、対象の防御力と比較しヒットするのに十分である必要があります。</seg>
       </tuv>
     </tu>
     <tu>
