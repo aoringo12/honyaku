@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you Plunder a Dragon Gem, return it to the Dragon and replace it with a Treasure token from the Cave’s supply, or from the map if none are in the supply.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103944Z" creationid="nakahodo" creationdate="20180430T103944Z">
+        <seg>（ドラゴンジェムを略奪した場合、これをドラゴンに返して、洞窟のサプライからトレジャートークンを受け取り置き換えます。トレジャートークンがサプライにない場合、マップから任意の1つを取ります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you are playing on Hard or Expert difficulty level, you roll only 2 dice, and you draw a Terror card if the total roll is 4 or less.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134615Z" creationid="aorin" creationdate="20180409T134615Z">
@@ -17193,6 +17201,22 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you Plunder a Treasure but cannot spend or store it immediately, you must return it to the Cave’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104140Z" creationid="nakahodo" creationdate="20180430T104041Z">
+        <seg>トレジャートークンを略奪したが、それを直ちに消費したりストックできない場合、洞窟のサプライにこれを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you Plunder a Treasure or Gem but cannot or do not wish to purchase a Scheme immediately, you may store the Treasure near your player board until you can purchase a Scheme.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103816Z" creationid="nakahodo" creationdate="20180430T103620Z">
+        <seg>トレジャートークンやドラゴンジェムを略奪したが、直ちに悪巧みカードの購入したくない場合。悪巧みカードを購入するまで、そのトレジャーを自身のプレイヤーボード近くにストックしておけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you added a temporary bonus to your Attack in order to move into your current space, the temporary bonus persists until you complete your attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092128Z" creationid="aorin" creationdate="20180410T092128Z">
@@ -27350,6 +27374,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stored Treasures can be stolen by the Thief with Pickpocket.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104203Z" creationid="nakahodo" creationdate="20180430T104042Z">
+        <seg>ストックされたトレジャーはシーフのスリによって盗まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength = 3</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073846Z" creationid="nakahodo" creationdate="20180413T073846Z">
@@ -30150,6 +30182,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T141727Z" creationid="nakahodo" creationdate="20180412T141603Z">
         <seg>ユニコーンピースの向きは見えているかどうかに影響しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first Scheme you purchase costs 1 Treasure, the second costs 2 Treasures, the third costs 3 Treasures, and so on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103349Z" creationid="nakahodo" creationdate="20180430T103349Z">
+        <seg>最初の悪巧カードはトレジャーコスト1つで購入でき、2つめはトレジャー2つ、3つめはトレジャー3つ、というようにコストが上昇します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34996,6 +35036,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When purchasing a Scheme card, you may discard other Scheme cards in your hand in place of spending Treasures, in any combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104539Z" creationid="nakahodo" creationdate="20180430T104539Z">
+        <seg>悪巧みカードを購入する時、トレジャートークンを消費する代わりに、自身の手札にある他の悪巧みカードを捨て札にできます。これは任意の</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When selecting a multiplayer variant, do not count the Shadow Unicorn as a player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T154623Z" creationid="nakahodo" creationdate="20180412T154623Z">
@@ -35164,6 +35212,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T140312Z" creationid="nakahodo" creationdate="20171230T140312Z">
         <seg>我々が再度面会する時、私の精神、身体、魂の遺産を受け継ぐ名誉を、お前たちの1人に授けるだろう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you Plunder a Treasure token or Dragon Gem, in addition to gaining Rage, you may spend it to purchase a Scheme.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103632Z" creationid="nakahodo" creationdate="20180430T103551Z">
+        <seg>ドラゴンジェムやトレジャートークンを略奪する時、怒りを得るのに加えて、これを悪巧みカード購入のために消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36891,6 +36947,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can store Treasures up to a maximum equaling your number of purchased Schemes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104035Z" creationid="nakahodo" creationdate="20180430T104035Z">
+        <seg>ストックできるトレジャーの最大数は、購入した悪巧みカードの数に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can take actions by spending supporters from a forest nation box, returning spent supporters to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053017Z" creationid="aorin" creationdate="20171216T053017Z">
@@ -37559,6 +37623,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T174614Z" creationid="nakahodo" creationdate="20171229T174419Z">
         <seg>あなたは、まず相手のチャーター紋章に自身の影響トークンの1つを配置する場合にのみ、彼らのチャーターの建物を使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may pay for Schemes in the following ways:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103423Z" creationid="nakahodo" creationdate="20180430T103416Z">
+        <seg>ゴブリンは次の方法で悪巧みカードを購入できます：</seg>
       </tuv>
     </tu>
     <tu>
