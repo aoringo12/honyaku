@@ -15760,6 +15760,14 @@ Cloud Port or Grandstand)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it cannot be moved onto a legal tile, the tile holding the Entrance piece cannot be collapsed;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071539Z" creationid="nakahodo" creationdate="20180430T071539Z">
+        <seg>If it cannot be moved onto a legal tile, the tile holding the Entrance piece cannot be collapsed;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it does not affect the center tile, take a Treasure token from the Cave’s supply (or map, if supply empty) and return the Gem to the Dragon’s supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T210654Z" creationid="aorin" creationdate="20180409T210537Z">
@@ -16029,8 +16037,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If player pieces are also forced to move because of collapsing tiles, move the Entrance piece last.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071537Z" creationid="nakahodo" creationdate="20180430T071537Z">
-        <seg>プレイヤーピース</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071814Z" creationid="nakahodo" creationdate="20180430T071537Z">
+        <seg>プレイヤーピースも取り除かれるタイルにより強制移動する場合、エントランスピースを最後に移動します。</seg>
       </tuv>
     </tu>
     <tu>
