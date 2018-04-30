@@ -10907,6 +10907,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During setup, shuffle the Upgrade cards, draw one, and place it facedown near your player board (you may look at it, but do not reveal it).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T112654Z" creationid="nakahodo" creationdate="20180430T112654Z">
+        <seg>セットアップ時、アップグレードカードをシャッフルし、1枚をドローし、シーフ自身のプレイヤーボード近くに配置します（シーフこれを確認できますが、公開はできません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During setup, shuffle the objective cards into a deck and reveal 3 of those cards at random on the objective mat.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210610Z" creationid="aorin" creationdate="20171219T095625Z">
@@ -31609,6 +31617,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T105728Z" creationid="nakahodo" creationdate="20180430T105728Z">
         <seg>3枚の鱗カードはゲーム中にドラゴンが得られるボーナスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The three included Upgrade cards give the Thief more upgrade options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T112415Z" creationid="nakahodo" creationdate="20180430T112415Z">
+        <seg>これら3枚のアップグレードカードはシーフに追加のアップグレードオプションを提供します。</seg>
       </tuv>
     </tu>
     <tu>
