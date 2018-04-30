@@ -38334,6 +38334,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You gain +3 Thievery during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151249Z" creationid="nakahodo" creationdate="20180430T151249Z">
+        <seg>あなたのターン時に＋3窃盗力を得られる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You gain 1 Fury whenever you attack a player and whenever you have collected 2 Treasure tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224526Z" creationid="aorin" creationdate="20180409T224526Z">
