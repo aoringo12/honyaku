@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Rob from the rich, give to the...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152624Z" creationid="nakahodo" creationdate="20180430T152624Z">
+        <seg>”金持ちから盗み、与えるのは……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Shiny, huh?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124658Z" creationid="nakahodo" creationdate="20180430T124658Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T124408Z" creationid="nakahodo" creationdate="20171230T124408Z">
         <seg>「ようこそ、友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Whew, I need a break!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152928Z" creationid="nakahodo" creationdate="20180430T152928Z">
+        <seg>”ふう、休息も大事ね！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3757,6 +3773,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145112Z" creationid="nakahodo" creationdate="20171218T145112Z">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3...2...1...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152943Z" creationid="nakahodo" creationdate="20180430T152943Z">
+        <seg>3…2…1…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7701,6 +7725,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack the Dragon/Unicorn when your Strength is equal to his Armor, but miss on the die roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T153732Z" creationid="nakahodo" creationdate="20180430T153732Z">
+        <seg>あなたの筋力がドラゴンかユニコーンのアーマーと等しい時に攻撃するが、ダイスロールに失敗する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacker and defender deal hits simultaneously.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T225430Z" creationid="aorin" creationdate="20171215T225430Z">
@@ -8109,6 +8141,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093032Z" creationid="nakahodo" creationdate="20180108T093032Z">
         <seg>共有地の建物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back into it!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T153015Z" creationid="nakahodo" creationdate="20180430T152946Z">
+        <seg>戻ろう！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -14065,6 +14105,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T070619Z" creationid="nakahodo" creationdate="20180413T070619Z">
         <seg>1憤りを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 Grit for each unused cube.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152821Z" creationid="nakahodo" creationdate="20180430T152821Z">
+        <seg>未使用のヒーローキューブごとに1経験値を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21566,6 +21614,15 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noble Failure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T153115Z" creationid="nakahodo" creationdate="20180430T153115Z">
+        <seg>Noble Failure
+気高き障害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not bad.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092609Z" creationid="aorin" creationdate="20171116T092609Z">
@@ -24814,6 +24871,15 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prepared</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152703Z" creationid="nakahodo" creationdate="20180430T152703Z">
+        <seg>Prepared
+覚悟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prepare​ ​Deck:​ ​If playing with three or fewer players, return the Coalition Victory special victory card and the Chaos Victory special victory card to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132926Z" creationid="aorin" creationdate="20171215T132926Z">
@@ -26000,6 +26066,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124914Z" creationid="nakahodo" creationdate="20180430T124826Z">
         <seg>このカードを保持する選択をした場合、直ちにこれを公開する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal this card when you end your turn with unused Hero cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152848Z" creationid="nakahodo" creationdate="20180430T152751Z">
+        <seg>あなたが未使用のヒーローキューブがある状態で自身のターンを終了させた時、このカードを公開する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35846,8 +35920,8 @@ Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>When carrying unstashed Treasures and Gems, reduce your Stealth by a total of 1 instead of by 1 per item carried.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152302Z" creationid="nakahodo" creationdate="20180430T152025Z">
-        <seg>トレジャーやジェムトークンを運んでいる時、あなたのステルスは減少するが、運んでいるアイテムごとに1ではなく、単純に1のみ減少する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152354Z" creationid="nakahodo" creationdate="20180430T152025Z">
+        <seg>トレジャーやドラゴンジェムトークンを運んでいる時、あなたのステルスは減少するが、運んでいるアイテムごとに1ではなく、単純に1のみ減少する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40294,6 +40368,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>me!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152654Z" creationid="nakahodo" creationdate="20180430T152654Z">
+        <seg>私に！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mouse, rabbit, or fox.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204451Z" creationid="aorin" creationdate="20171215T204451Z">
@@ -40314,6 +40396,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T023652Z" creationid="aorin" creationdate="20171229T023652Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>okay, break over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152957Z" creationid="nakahodo" creationdate="20180430T152945Z">
+        <seg>よし、休息終わり。</seg>
       </tuv>
     </tu>
     <tu>
