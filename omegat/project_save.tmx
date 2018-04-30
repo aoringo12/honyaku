@@ -10909,8 +10909,8 @@ position on the Best-Seller List.</seg>
       <tuv lang="EN-US">
         <seg>During setup, shuffle the Upgrade cards, draw one, and place it facedown near your player board (you may look at it, but do not reveal it).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T112654Z" creationid="nakahodo" creationdate="20180430T112654Z">
-        <seg>セットアップ時、アップグレードカードをシャッフルし、1枚をドローし、シーフ自身のプレイヤーボード近くに配置します（シーフこれを確認できますが、公開はできません）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T112718Z" creationid="nakahodo" creationdate="20180430T112654Z">
+        <seg>セットアップ時、アップグレードカードをシャッフルし、1枚をドローし、これをシーフ自身のプレイヤーボード近くに配置します（シーフこれを確認できますが、公開はできません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12065,6 +12065,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150943Z" creationid="aorin" creationdate="20171215T150943Z">
         <seg>あなたがヒットを受けるごとに、影響を受けた空き地からあなたの戦士1体を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time you use its effect, remove a charge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T113315Z" creationid="nakahodo" creationdate="20180430T113315Z">
+        <seg>この効果を使用するたびに、チャージ1つを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16606,8 +16614,8 @@ If the Treasure token is removed for any reason (for example, when targeted by S
       <tuv lang="EN-US">
         <seg>If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180413T054014Z" creationid="nakahodo" creationdate="20180413T054014Z">
-        <seg>If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T113631Z" creationid="nakahodo" creationdate="20180413T054014Z">
+        <seg>カードのチャージが全てなくなった場合、その効果は使用できませんが、カードのアップグレードスペースに配置されたトレジャートークンは残ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25396,6 +25404,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return the other cards to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T112727Z" creationid="nakahodo" creationdate="20180430T112658Z">
+        <seg>他のカードはボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal 1 completed objective card</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093850Z" creationid="nakahodo" creationdate="20180209T093850Z">
@@ -30051,6 +30067,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080303Z" creationid="aorin" creationdate="20180410T080254Z">
         <seg>バイルグールはターン順番でゴブリンと置き換えられ、ナイトの後、ドラゴンの前になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Warlock’s Wand has 5 charges (tracked by using any tokens or markers you have available).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T113253Z" creationid="nakahodo" creationdate="20180430T113253Z">
+        <seg>ウォーロックのワンドはチャージを5持ちます（任意のトークンを使用して、利用可能な回数をカウントします）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35588,6 +35612,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T090945Z" creationid="aorin" creationdate="20180410T090945Z">
         <seg>あなたがブーストダイスを消費する時、このスペースからダイスを取り除きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you stash a Treasure, you may reveal an Upgrade card and place a Treasure token on it to gain its upgrade (instead of an upgrade on your player board).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T112840Z" creationid="nakahodo" creationdate="20180430T112840Z">
+        <seg>シーフがトレジャーをスタックする時、アップグレードカードを公開でき、これにトレジャートークンを配置することでそのアップグレードを得られます（プレイヤーボードのアップグレードを得る代わりに）。</seg>
       </tuv>
     </tu>
     <tu>
