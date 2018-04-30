@@ -5440,6 +5440,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AMBUSH:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140211Z" creationid="nakahodo" creationdate="20180430T140208Z">
+        <seg>待ち伏せ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AND ARMORY</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T104821Z" creationid="nakahodo" creationdate="20180430T104821Z">
@@ -14632,6 +14640,15 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ground Kraken</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140057Z" creationid="nakahodo" creationdate="20180430T140025Z">
+        <seg>Ground Kraken
+グランド・クラーケン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guards pour out of the hold, quickly setting up a perimeter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T084043Z" creationid="nakahodo" creationdate="20171230T084043Z">
@@ -17338,6 +17355,14 @@ stack is first in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T140156Z" creationid="nakahodo" creationdate="20171213T140156Z">
         <seg>この永続能力タイルが交換された場合、トップのタイルはそれと共に交換されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this Tribe uses the Attack action, roll the Dragon die and collapse affected tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140132Z" creationid="nakahodo" creationdate="20180430T140132Z">
+        <seg>この部族が攻撃アクションをした場合、ドラゴンダイスをロールし、影響を受けるタイルが崩壊する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24799,6 +24824,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quake!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135842Z" creationid="nakahodo" creationdate="20180430T135821Z">
+        <seg>地震だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Queen,s Favor</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072248Z" creationid="nakahodo" creationdate="20180311T072248Z">
@@ -25899,6 +25932,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll the Dragon die and collapse affected tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135911Z" creationid="nakahodo" creationdate="20180430T135848Z">
+        <seg>ドラゴンダイスをロールし、影響を受けるタイルが崩壊する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll​ ​dice​ ​and​ ​count​ ​hits​ to both attacker and defender, who can modify hits with other effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221726Z" creationid="aorin" creationdate="20171215T221726Z">
@@ -26143,6 +26184,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133710Z" creationid="aorin" creationdate="20180409T133710Z">
         <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STR 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140221Z" creationid="nakahodo" creationdate="20180430T140209Z">
+        <seg>STR３。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27188,8 +27237,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Some old adventurer’s rations, strangely unspoiled and heartening.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135819Z" creationid="nakahodo" creationdate="20180430T135819Z">
-        <seg>これら誰とも知らない冒険者の食料は、不思議なことに汚れておらず、食べられる。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135824Z" creationid="nakahodo" creationdate="20180430T135819Z">
+        <seg>これら誰とも知らない冒険者の食料は、不思議なことに汚れておらず、食べられるようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32223,6 +32272,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, remove this card from the game instead of discarding it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140201Z" creationid="nakahodo" creationdate="20180430T140201Z">
+        <seg>その後、このカードを破棄する代わりにゲームから取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, reset your Anger to 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T083752Z" creationid="nakahodo" creationdate="20180411T083752Z">
@@ -32510,6 +32567,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220800Z" creationid="nakahodo" creationdate="20171229T220800Z">
         <seg>グリーングリーの市民らが新しいリーダーを祝うように、村の通りで大規模なパレードをしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a shaking, and then the walls fall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140033Z" creationid="nakahodo" creationdate="20180430T135850Z">
+        <seg>揺れて、壁が崩れる。</seg>
       </tuv>
     </tu>
     <tu>
