@@ -14344,6 +14344,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goblin Schemes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T102006Z" creationid="nakahodo" creationdate="20180430T102006Z">
+        <seg>ゴブリンの悪巧み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goblin Tribe:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211746Z" creationid="aorin" creationdate="20180409T211746Z">
@@ -29519,6 +29527,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Slingshot can be used by any Tribe regardless of its Population or the target’s defensive attribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T101957Z" creationid="nakahodo" creationdate="20180430T101957Z">
+        <seg>スリングショットは対象の防御力や感知力に関係なく、任意の部族によって使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Slingshot’s effect is not an attack and does not harm the target player;</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T101743Z" creationid="nakahodo" creationdate="20180430T101743Z">
@@ -38879,6 +38895,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014748Z" creationid="aorin" creationdate="20171229T014748Z">
         <seg>別途指示があるまで、自身のチャーターチェストにこのカードを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>it only makes it easier for other Tribes to attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T101846Z" creationid="nakahodo" creationdate="20180430T101846Z">
+        <seg>これは他の部族による攻撃を簡単にします。</seg>
       </tuv>
     </tu>
     <tu>
