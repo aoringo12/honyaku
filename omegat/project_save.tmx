@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You cannot gain multiple Scale cards from one use of a power.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110248Z" creationid="nakahodo" creationdate="20180430T110002Z">
+        <seg>（ドラゴンは1回のパワー使用で複数枚の鱗カードを得ることはできません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You may draw a Monster instead of fighting Normal or Tough Goblins.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T150005Z" creationid="nakahodo" creationdate="20180413T150005Z">
@@ -8389,6 +8397,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAVE OIL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105617Z" creationid="nakahodo" creationdate="20180430T105617Z">
+        <seg>洞窟オイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAVE vs. GHOUL</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073402Z" creationid="aorin" creationdate="20180410T073402Z">
@@ -10567,6 +10583,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dragon Scales</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105702Z" creationid="nakahodo" creationdate="20180430T105641Z">
+        <seg>ドラゴンの鱗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dragon's Claw counts as eating 1 Goblin, and Scratch counts as eating 3 Goblins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T064123Z" creationid="nakahodo" creationdate="20180413T064123Z">
@@ -10887,6 +10911,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210610Z" creationid="aorin" creationdate="20171219T095625Z">
         <seg>セットアップ時、目標カードをシャッフルしてデッキにし、目標マットにカードを3枚ランダムに公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During setup, shuffle the three Scale cards together as their own deck and place them facedown near your player board (do not shuffle them into your Power deck).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105913Z" creationid="nakahodo" creationdate="20180430T105913Z">
+        <seg>セットアップ中、（パワーカードデッキに混ぜてシャッフルするのではなく）鱗カード3枚をシャッフルしてデッキを作り、ドラゴンのプレイヤーボード近くに裏向きでこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,6 +12017,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121516Z" creationid="nakahodo" creationdate="20171001T121516Z">
         <seg>各チームはワールドマップの自身の地域上部にあるブレンドスレートを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time that you use Smash to smash a Crystal token or you use Wrath to collapse a Crystal tile, draw one Scale card and shuffle it into your Power deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T110158Z" creationid="nakahodo" creationdate="20180430T110000Z">
+        <seg>ドラゴンがスマッシュパワーを使用してクリスタルトークンを砕いたり、憤怒パワーを使用してクリスタルタイルを崩壊させるたびに、鱗カード1枚をドローし、パワーデッキに入れてシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31493,6 +31533,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The three Scale cards are bonuses that the Dragon can earn during play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105728Z" creationid="nakahodo" creationdate="20180430T105728Z">
+        <seg>3枚の鱗カードはゲーム中にドラゴンが得られるボーナスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tiebreakers are the categories on the Campaign Victory Card (from top to bottom).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220626Z" creationid="nakahodo" creationdate="20171229T220626Z">
@@ -32716,6 +32764,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074844Z" creationid="aorin" creationdate="20171213T074844Z">
         <seg>これはいつでも可能です。つまり、アクション、昇進、最終得点計算を実行している時にもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This card has no effect on Population losses caused by entering Terrain tiles or a space with a Flame Wall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105658Z" creationid="nakahodo" creationdate="20180430T105640Z">
+        <seg>このカードは地形タイルや炎の壁に入ることによる人口減少には効果を発揮しません。</seg>
       </tuv>
     </tu>
     <tu>
