@@ -10712,6 +10712,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During play, treat the Entrance tile in all ways as a normal Cave tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T070903Z" creationid="nakahodo" creationdate="20180430T070903Z">
+        <seg>プレイ中、エントランスタイルは常に通常の洞窟タイルのように扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During play, you may draw special victory cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232057Z" creationid="aorin" creationdate="20171215T231939Z">
@@ -10749,8 +10757,8 @@ position on the Best-Seller List.</seg>
       <tuv lang="EN-US">
         <seg>During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180424T160246Z" creationid="nakahodo" creationdate="20180413T053910Z">
-        <seg>セットアップ時、エントランスタイルにエントランスピース（または任意のプロクシーピース）を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T070647Z" creationid="nakahodo" creationdate="20180413T053910Z">
+        <seg>セットアップ時、エントランスタイルにエントランスピース（または任意の代用品）を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16019,6 +16027,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If player pieces are also forced to move because of collapsing tiles, move the Entrance piece last.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071537Z" creationid="nakahodo" creationdate="20180430T071537Z">
+        <seg>プレイヤーピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If playing as the Goblins, Thief, or [Vile]</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132610Z" creationid="nakahodo" creationdate="20180412T132610Z">
@@ -17509,6 +17525,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000327Z" creationid="aorin" creationdate="20180101T000327Z">
         <seg>あなたが仲間の奇妙な行動について尋問するならば、木箱Gを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you later place the Entrance tile on the map, place it Dark side up, as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071112Z" creationid="nakahodo" creationdate="20180430T071000Z">
+        <seg>後にエントランスタイルをマップに配置する場合、通常どおり、ダークイドを上にして配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19015,6 +19039,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031935Z" creationid="aorin" creationdate="20171213T031935Z">
         <seg>彼は絶対に炭鉱に送られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It cannot be moved through walls, onto a Dark tile, or onto a Terrain tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071509Z" creationid="nakahodo" creationdate="20180430T071416Z">
+        <seg>これは壁を通り抜けたり、ダークタイルや地形タイルに移動することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28095,8 +28127,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Entrance piece, not the Entrance tile, marks the entrance to the Cave for the whole game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180424T160342Z" creationid="nakahodo" creationdate="20180424T160342Z">
-        <seg>エントランスピースはエントランスタイルではなく、ゲーム全体の洞窟のエントランスを追跡します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T070737Z" creationid="nakahodo" creationdate="20180424T160342Z">
+        <seg>エントランスピースとエントランスタイルは別のもので、ゲーム全体で洞窟のエントランスを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34572,6 +34604,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151126Z" creationid="nakahodo" creationdate="20171230T151126Z">
         <seg>進展トークンが●のスペースに進んだ時、現在のラウンドが終了し、その後、ゲームが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the tile with the Entrance piece is collapsed, the player who removed the tile must move the Entrance piece to an adjacent, unoccupied Lit tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071435Z" creationid="nakahodo" creationdate="20180430T071414Z">
+        <seg>エントランピースを保持するスペースが取り除かれる時、タイルを取り除いたプレイヤーはエントランスピースを、隣接する未占領の明らかになったタイルに移動する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
