@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Curse me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151632Z" creationid="nakahodo" creationdate="20180430T151632Z">
+        <seg>”私を呪う？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Despite my better judgment, you are the future of Greengully.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T074933Z" creationid="nakahodo" creationdate="20171230T073800Z">
@@ -10028,6 +10036,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curse YOU!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151637Z" creationid="nakahodo" creationdate="20180430T151637Z">
+        <seg>それはお前だ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cursed Amulet</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T120344Z" creationid="nakahodo" creationdate="20180430T120344Z">
@@ -10423,6 +10439,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115432Z" creationid="nakahodo" creationdate="20180412T115432Z">
         <seg>恐ろしきユニコーン（ハード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disappearing Cloak</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151827Z" creationid="nakahodo" creationdate="20180430T151827Z">
+        <seg>稀釈マント</seg>
       </tuv>
     </tu>
     <tu>
@@ -28972,6 +28996,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave [Ghost] discards 2 Omen tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151454Z" creationid="nakahodo" creationdate="20180430T151454Z">
+        <seg>洞窟（洞窟ゴースト）は前兆トークン2つを破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave [Ghost] draws 1 Omen token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145406Z" creationid="nakahodo" creationdate="20180430T145406Z">
@@ -29209,6 +29241,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T084331Z" creationid="nakahodo" creationdate="20180411T084331Z">
         <seg>ドラゴンはパワーカードを1 / 2 / 3枚破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dragon discards 2 Power cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151407Z" creationid="nakahodo" creationdate="20180430T151407Z">
+        <seg>ドラゴンはパワーカードを2枚破棄する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29567,6 +29607,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost has -1 Focus during her next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151546Z" creationid="nakahodo" creationdate="20180430T151546Z">
+        <seg>ゴーストは自身の次ターン時にー1フォーカスされる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost is a player role that can be added to any other combination of player numbers and roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123741Z" creationid="nakahodo" creationdate="20180406T123541Z">
@@ -29767,6 +29815,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Goblins' Rage resets to 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151347Z" creationid="nakahodo" creationdate="20180430T151347Z">
+        <seg>ゴブリンの怒りが1にリセットされる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Golden Ring is immediately offered to the Queen and the player receives the highest Golden Ring Reward tile still available.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063035Z" creationid="aorin" creationdate="20171213T063035Z">
@@ -29883,6 +29939,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150815Z" creationid="nakahodo" creationdate="20180412T150815Z">
         <seg>ナイトは1ヘルス失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight loses 3 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151331Z" creationid="nakahodo" creationdate="20180430T151331Z">
+        <seg>ナイトは3経験値を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30583,6 +30647,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unicorn discards 2 Unicorn cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151434Z" creationid="nakahodo" creationdate="20180430T151434Z">
+        <seg>ユニコーンはユニコーンカードを2枚破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Unicorn draws 1 Unicorn card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145343Z" creationid="nakahodo" creationdate="20180430T145343Z">
@@ -30782,6 +30854,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145625Z" creationid="nakahodo" creationdate="20180430T145521Z">
         <seg>グール（バイルグール）は自身の次ターン時に＋1移動力を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The [Vile] Ghoul loses 2 movement on its next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151523Z" creationid="nakahodo" creationdate="20180430T151523Z">
+        <seg>グール（バイルグール）は自身の次ターン時に移動力を2失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35764,6 +35844,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When carrying unstashed Treasures and Gems, reduce your Stealth by a total of 1 instead of by 1 per item carried.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152302Z" creationid="nakahodo" creationdate="20180430T152025Z">
+        <seg>トレジャーやジェムトークンを運んでいる時、あなたのステルスは減少するが、運んでいるアイテムごとに1ではなく、単純に1のみ減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When changing Silver into Gold, the player pays 1 less Silver than indicated by their position on the Silver track (but minimum 1 Silver).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133123Z" creationid="nakahodo" creationdate="20171213T133123Z">
@@ -37790,6 +37878,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can carry up to 2 Treasures or Gems at a time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T152342Z" creationid="nakahodo" creationdate="20180430T152026Z">
+        <seg>あなたはトレジャーやドラゴンジェムトークンを1度に2つまで運べる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can choose to keep some workers in your recruitment pool and not give them deployment orders.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235102Z" creationid="aorin" creationdate="20180114T235102Z">
@@ -38826,6 +38922,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
         <seg>3アクションまで実行でき、追加で鳥カードを消費するごとに、別のアクションをおこなえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may target another player with Pickpocket if your Stealth is greater than or equal to their Perception.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151939Z" creationid="nakahodo" creationdate="20180430T151939Z">
+        <seg>あなたのステルスが相手の感知力と同等以上の場合、そのプレイヤーをスリの対象にできる。</seg>
       </tuv>
     </tu>
     <tu>
