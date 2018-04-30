@@ -17425,6 +17425,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you choose to use Schemes, during setup shuffle all of the Schemes into the Secrets deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T102905Z" creationid="nakahodo" creationdate="20180430T102905Z">
+        <seg>悪巧みカードを使用する場合、セットアップ時にシークレットデッキに全ての悪巧みカードを入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you chose the Ghost, this equals [INF + 1].</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102658Z" creationid="nakahodo" creationdate="20180413T102633Z">
@@ -21520,6 +21528,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once there, it takes effect immediately and until the end of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103056Z" creationid="nakahodo" creationdate="20180430T103056Z">
+        <seg>そうすると、直ちに効果を発揮し、ゲーム終了まで残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once used, a player puts a Single Use Tile back on the appropriate space on the game board, where it immediately becomes available to all players again.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043918Z" creationid="aorin" creationdate="20171213T043918Z">
@@ -24326,6 +24342,14 @@ players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purchased Schemes cannot be removed or lost by any means, and do not count against your hand limit while in play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103222Z" creationid="nakahodo" creationdate="20180430T103222Z">
+        <seg>購入した悪巧みカードは何らかの手段によって失われたり取り除かれず、ゴブリンの手札上限にカウントもされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put 4 sky island tiles in each inactive Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003236Z" creationid="aorin" creationdate="20171229T003236Z">
@@ -25769,6 +25793,22 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074911Z" creationid="aorin" creationdate="20180410T074840Z">
         <seg>スカヴェンジャー（イージー）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schemes are Secrets cards that provide various permanent effects but must be purchased to be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T102910Z" creationid="nakahodo" creationdate="20180430T102738Z">
+        <seg>悪巧みカードは様々な永続的な効果を提供するシークレットカードですが、使用するために購入する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schemes are denoted by the Treasure Chest icon ( ) in their upper-right corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T102914Z" creationid="nakahodo" creationdate="20180430T102814Z">
+        <seg>悪巧みカードはカード右上角にトレジャーアイコン（）を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32368,6 +32408,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They work as Secrets cards, except that they cannot be used for their effects until they are purchased.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T102950Z" creationid="nakahodo" creationdate="20180430T102950Z">
+        <seg>これらはシークレットカードとして動作しますが、購入するまでその効果を使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The​ ​Crafting​ ​Beaver:​ ​You can spend a &lt;torch&gt; to build a building of your current clearing’s ruler.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T062217Z" creationid="aorin" creationdate="20171216T062137Z">
@@ -35276,6 +35324,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041031Z" creationid="aorin" creationdate="20180116T041031Z">
         <seg>ディスカバリーカードを購入した時、一致するディスカバリートークンを獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you purchase a Scheme, you place it face-up near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T103015Z" creationid="nakahodo" creationdate="20180430T103015Z">
+        <seg>悪巧みカードを購入した時、自身のプレイヤーボード近くに表向きでこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
