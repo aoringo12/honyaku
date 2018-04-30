@@ -5035,6 +5035,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Goblin Tribe loses 1 Population each time it exits a Magma space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155936Z" creationid="nakahodo" creationdate="20180430T155752Z">
+        <seg>ゴブリン部族はマグマスペース1つから出るたびに、人口が1減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Goblin Tribe may target its current space without using an action, before or after moving.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092621Z" creationid="nakahodo" creationdate="20180413T092443Z">
@@ -6864,6 +6872,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T043851Z" creationid="aorin" creationdate="20171231T235039Z">
         <seg>プレイヤー誰でも、ミニオン1体で占領されている建物に基本ワーカーを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any player piece in the Mushroom Forest is protected from all outside effects, and it can only attack another player piece in the same space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160415Z" creationid="nakahodo" creationdate="20180430T160415Z">
+        <seg>キノコの森の任意のプレイヤーピースは、外側からによる全ての効果から保護され、同じスペースの他プレイヤーピースへのみ攻撃できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14805,6 +14821,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goblin Tribe’s Population decreases to 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155955Z" creationid="nakahodo" creationdate="20180430T155955Z">
+        <seg>ゴブリン部族の人口は0に減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goblins can target him with Hex.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073301Z" creationid="nakahodo" creationdate="20180413T073301Z">
@@ -15982,6 +16006,14 @@ Artifact enters such a Ghost tile on their own turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075244Z" creationid="aorin" creationdate="20171213T075244Z">
         <seg>プレイヤーガ特定の種類のタイルを所有していない場合、その種類のタイルは交換できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player ends their own turn on Magma:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155903Z" creationid="nakahodo" creationdate="20180430T155857Z">
+        <seg>プレイヤーが自身のターンをマグマ上で終了した場合：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20401,6 +20433,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knight loses 1 Health (ignore this effect if she has only 1 Health).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155932Z" creationid="nakahodo" creationdate="20180430T155932Z">
+        <seg>ナイトは1ヘルス失う（1ヘルスしかない場合、この効果は無視する）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Knight's attack completes Daring, and completes Stalwart if its Defense was 3 or greater, and completes Fearless if she revealed a Dark tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T063823Z" creationid="nakahodo" creationdate="20180413T063823Z">
@@ -20870,6 +20910,23 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T161148Z" creationid="nakahodo" creationdate="20180413T160948Z">
         <seg>古代の生き物の骨から作られた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magma</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155722Z" creationid="nakahodo" creationdate="20180430T155722Z">
+        <seg>Magma
+マグマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magma does not affect the Dragon, Ghost, or components other than player pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160146Z" creationid="nakahodo" creationdate="20180430T160146Z">
+        <seg>マグマはドラゴン、ゴースト、プレイヤーピース以外のコンポーネントに影響を与えない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,6 +21532,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T131630Z" creationid="nakahodo" creationdate="20171211T131630Z">
         <seg>Supplierから購入したプランは建物として近所に配置される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushroom Forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160204Z" creationid="nakahodo" creationdate="20180430T160204Z">
+        <seg>キノコの森</seg>
       </tuv>
     </tu>
     <tu>
@@ -26052,6 +26117,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103321Z" creationid="aorin" creationdate="20171212T103321Z">
         <seg>リソースは常にプレイヤースクリーンの後ろに隠して保持され、他プレイヤーから見えないようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restricted effects include the Knight’s Bow and Enchanted Bow, the Goblins’ Hex, Hiding Spots, and Slingshot Secrets cards, the Dragon’s Hiss and Slap powers, the Cave’s Giant Bats omen, the Thief’s Hand Crossbow and Warlock’s Wand, and the Ghost’s Telekinesis and Possession.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160752Z" creationid="nakahodo" creationdate="20180430T160752Z">
+        <seg>制限される効果は、ナイトの弓とエンチャントされた弓、ゴブリンのヘキサ、ハイディングスポット、スリングショットシークレットカード、ドラゴンのヒスと放り投げパワー、洞窟ジャイアントバッド前兆、シーフのハンドクロスボウと魔法使いのワンド、ゴーストのテレキネシスと憑依。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33652,6 +33725,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thief is killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160017Z" creationid="nakahodo" creationdate="20180430T160013Z">
+        <seg>シーフは殺される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thief may Pickpocket to steal a Treasure or discard a Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T064635Z" creationid="nakahodo" creationdate="20180413T064541Z">
@@ -35059,6 +35140,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132838Z" creationid="nakahodo" creationdate="20180412T132838Z">
         <seg>ユニコーンセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicorn Teleports.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160011Z" creationid="nakahodo" creationdate="20180430T160011Z">
+        <seg>ユニコーンはテレポートする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40122,6 +40211,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085328Z" creationid="nakahodo" creationdate="20180413T085001Z">
         <seg>影響力＋1の数、グールダイスをロールして2つを選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Vile] Ghoul skitters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T160024Z" creationid="nakahodo" creationdate="20180430T160024Z">
+        <seg>グール（バイルグール）は飛び退く。</seg>
       </tuv>
     </tu>
     <tu>
