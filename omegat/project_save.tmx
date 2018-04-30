@@ -27946,6 +27946,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Takes you anywhere you can imagine, if you can handle the pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122606Z" creationid="nakahodo" creationdate="20180430T122029Z">
+        <seg>あなたが痛みを我慢できるのならば、あなたを連れていきます。考えうる限りどこへでも。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taking a Possession Turn</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T182739Z" creationid="aorin" creationdate="20180406T182739Z">
@@ -36738,6 +36746,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wooden, approximately one meter long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122204Z" creationid="nakahodo" creationdate="20180430T121820Z">
+        <seg>木製、長さ約1メートル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Woodland Alliance</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003650Z" creationid="aorin" creationdate="20171216T003650Z">
@@ -38783,8 +38799,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your Shield does not reduce the Grit cost of playing this card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T121110Z" creationid="nakahodo" creationdate="20180430T121110Z">
-        <seg>Your Shield does not reduce the Grit cost of playing this card.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T121731Z" creationid="nakahodo" creationdate="20180430T121110Z">
+        <seg>盾を使用して、このカードをプレイするための経験値コストを減少させることはできない。</seg>
       </tuv>
     </tu>
     <tu>
