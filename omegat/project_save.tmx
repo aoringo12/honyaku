@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Doesn’t require a Hero cube to use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123420Z" creationid="nakahodo" creationdate="20180430T123420Z">
+        <seg>（使用するのにヒーローキューブは必要ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Draw these cards in addition to your draw on the Marquise’s turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052943Z" creationid="aorin" creationdate="20171216T052943Z">
@@ -8146,6 +8154,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Believed to be lost forever when Jodbar threw it twelve miles on a dare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123630Z" creationid="nakahodo" creationdate="20180430T123530Z">
+        <seg>彼が12マイル投擲に挑戦した時、このジャヴェリンは永遠に失われたと信じられてきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beware!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T201557Z" creationid="nakahodo" creationdate="20180411T201557Z">
@@ -8609,6 +8625,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072906Z" creationid="aorin" creationdate="20171216T072906Z">
         <seg>あなたかあなたの敵が撤退する時に、ヒットを負わせるために消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot be used on the same turn as a Bomb.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123513Z" creationid="nakahodo" creationdate="20180430T123513Z">
+        <seg>同じターンに爆弾を使用できない）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25232,6 +25256,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the Javelin from the game after resolving its effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123348Z" creationid="nakahodo" creationdate="20180430T123348Z">
+        <seg>この効果を解決した後、ゲームからジャヴェリンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the Platinum Scale from the game after moving the cube.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T111404Z" creationid="nakahodo" creationdate="20180430T111404Z">
@@ -30473,6 +30505,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The favorite weapon of Jodbar the Left-Handed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123549Z" creationid="nakahodo" creationdate="20180430T123513Z">
+        <seg>左利きのジョーバーが愛した武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first Scheme you purchase costs 1 Treasure, the second costs 2 Treasures, the third costs 3 Treasures, and so on.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T103349Z" creationid="nakahodo" creationdate="20180430T103349Z">
@@ -35505,8 +35545,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When used, during your next attack you gain +1 Strength.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122911Z" creationid="nakahodo" creationdate="20180430T122911Z">
-        <seg>使用すると時、あなたの</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123154Z" creationid="nakahodo" creationdate="20180430T122911Z">
+        <seg>使用した時、あなたは次の攻撃で＋1筋力を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38094,6 +38134,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235119Z" creationid="aorin" creationdate="20171215T235119Z">
         <seg>3アクションまで実行でき、追加で鳥カードを消費するごとに、別のアクションをおこなえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may target the Dragon while underground without using a Bomb, or you may target a visible player piece up to 3 spaces away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123403Z" creationid="nakahodo" creationdate="20180430T123148Z">
+        <seg>あなたは爆弾を使用せずに地下に居るドラゴンを対象に攻撃できる。または、3スペースまで離れた見えているプレイヤーピースを対象に攻撃できる。</seg>
       </tuv>
     </tu>
     <tu>
