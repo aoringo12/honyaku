@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Shiny, huh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T124658Z" creationid="nakahodo" creationdate="20180430T124658Z">
+        <seg>”ハッ、ピカピカでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Soon I will embark on a journey to your village.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T082331Z" creationid="nakahodo" creationdate="20171230T082331Z">
@@ -1260,6 +1268,14 @@
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T054127Z" creationid="nakahodo" creationdate="20180413T054005Z">
         <seg>+1移動力
 ゲームごとに1度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+1 Strength during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123641Z" creationid="nakahodo" creationdate="20180430T123641Z">
+        <seg>あなたのターン時に＋１筋力</seg>
       </tuv>
     </tu>
     <tu>
@@ -17520,6 +17536,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you attack a Goblin Tribe, they discard 1 Secrets card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T123851Z" creationid="nakahodo" creationdate="20180430T123817Z">
+        <seg>あなたがゴブリン部族を攻撃した時、相手はシークレットカード１枚を破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you attack a player, you do not spend +1 movement point to enter their tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211530Z" creationid="aorin" creationdate="20180409T211530Z">
@@ -17532,6 +17556,22 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T094243Z" creationid="nakahodo" creationdate="20180412T094243Z">
         <seg>あなたが3憤りの時に他プレイヤーを攻撃した場合、攻撃の解決後、1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you attack the Dragon or Unicorn successfully, he discards 1 card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T124157Z" creationid="nakahodo" creationdate="20180430T123818Z">
+        <seg>あなたがドラゴンかユニコーンを攻撃するのに成功した場合、相手はカード１枚を破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you attack the [Vile] Ghoul, it discards 1 Terror card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T124212Z" creationid="nakahodo" creationdate="20180430T124150Z">
+        <seg>あなたがグール（バイルグール）を攻撃した場合、相手は恐怖カード1枚を破棄する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17928,6 +17968,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you kill the Thief, gain +2 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T124124Z" creationid="nakahodo" creationdate="20180430T124124Z">
+        <seg>あなたがシーフを殺した場合、＋2経験値を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you later place the Entrance tile on the map, place it Dark side up, as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T071112Z" creationid="nakahodo" creationdate="20180430T071000Z">
@@ -18166,6 +18214,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012141Z" creationid="aorin" creationdate="20171229T012141Z">
         <seg>村の成長に空島を使用することの承認を永遠なる王に求める場合は、木箱Eを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you smash a Crystal, the Cave [Ghost] discards 1 Omen token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T124028Z" creationid="nakahodo" creationdate="20180430T123902Z">
+        <seg>あなたがクリスタルを砕いた場合、洞窟（洞窟ゴースト）は前兆トークン１つを破棄する。</seg>
       </tuv>
     </tu>
     <tu>
