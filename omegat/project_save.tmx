@@ -8551,8 +8551,8 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>Calen the Swift wore these.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122739Z" creationid="nakahodo" creationdate="20180430T122739Z">
-        <seg>Calen the Swift wore these.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122925Z" creationid="nakahodo" creationdate="20180430T122739Z">
+        <seg>疾走のカレンはこれを履いていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19578,6 +19578,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It seems now the mystery of her disappearance is solved...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122851Z" creationid="nakahodo" creationdate="20180430T122851Z">
+        <seg>どうやら彼女が失踪した謎は解けたようだ……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It sets down just outside the village limits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T083848Z" creationid="nakahodo" creationdate="20171230T083848Z">
@@ -19686,6 +19694,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114845Z" creationid="nakahodo" creationdate="20171001T114845Z">
         <seg>ベストセラーリストトップにブレンドを作成するためにチームで協力する時間です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Javelin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122852Z" creationid="nakahodo" creationdate="20180430T122852Z">
+        <seg>ジャヴェリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -35483,6 +35499,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044202Z" creationid="aorin" creationdate="20171213T044202Z">
         <seg>使用したプレイヤーは他プレイヤーに2倍提供することを宣言し、片手ではなく両手を使用して、2種類のリソースをクイーンに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When used, during your next attack you gain +1 Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122911Z" creationid="nakahodo" creationdate="20180430T122911Z">
+        <seg>使用すると時、あなたの</seg>
       </tuv>
     </tu>
     <tu>
