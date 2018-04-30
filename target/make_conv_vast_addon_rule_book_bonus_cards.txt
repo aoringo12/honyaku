@@ -2,85 +2,84 @@
 
 ヴァリアントルール
 移動するエントランス
-During setup, place the Entrance piece (or any proxy piece) on the Entrance tile.
-The Entrance piece, not the Entrance tile, marks the entrance to the Cave for the whole game. All victory conditions or rules that refer to “the Entrance tile” now read “the space holding the Entrance piece.”
-During play, treat the Entrance tile in all ways as a normal Cave tile. If you later place the Entrance tile on the map, place it Dark side up, as normal.
-When the tile with the Entrance piece is collapsed, the player who removed the tile must move the Entrance piece to an adjacent, unoccupied Lit tile. It cannot be moved through walls, onto a Dark tile, or onto a Terrain tile. If player pieces are also forced to move because of collapsing tiles, move the Entrance piece last. If it cannot be moved onto a legal tile, the tile holding the Entrance piece cannot be collapsed;ignore it, and collapse the next eligible tile.
-Other than marking the entrance to the Cave, the Entrance piece does not interact with any other effects. (It is ignored by effects that refer to unoccupied spaces.)
-The Entrance piece only ever moves if the tile holding it collapses.
-If the Goblins use Poison, place the Knight’s Hero cubes on the space holding the Entrance piece. If the tile holding the Entrance piece is removed, also remove the Hero cubes, and place the Hero cubes on the new space with the Entrance piece.
-The Knight regains them by moving to the Entrance piece.
-UNCERTAIN TREASURES
-This variant gives the Knight some more control over the Treasures she receives, and adds uncertainty for the Cave. This reduces the difficulty for the Knight and slightly increases the difficulty for the Cave, so the players must agree to use this variant during setup.
-In games with a Cave player:
-If the Knight collects a Treasure token, the Cave draws 3 Treasure cards, chooses 1 card to place on the bottom of the deck, and then gives the remaining 2 cards to the Knight.
-The Knight chooses 1 card to place on the bottom of the deck, and then she may keep or decline the remaining card. If she declines, she gains 5 Grit and removes the declined card from the game. Treasure cards that the Knight declines or returns to the bottom of the deck are not revealed to the Cave.
-洞窟プレイヤーのいないゲームでは：
-If the Knight collects a Treasure token, she draws 2 Treasure cards, chooses 1 card to place on the bottom of the deck, and keeps or declines the remaining card. If she declines, she gains 5 Grit and removes the declined card from the game.
-RANDOM TERRAIN
-In this variant, players must place random
-Terrain tiles instead of getting to choose which to place.
-During setup, shuffle the 6 Terrain cards and place them facedown near the map.
-During play, whenever you are prompted to place Terrain, draw a Terrain card to show which Terrain tile you must place, as normal.
-Keep the drawn Terrain cards face-up near the map as a rules reference.
-Promo Cards
-You can add most of the included promo cards to their matching decks and use them as normal. However, the Goblins’ “Scheme”
-Secrets cards, the Dragon’s “Scale” Power cards, and the Thief’s Upgrade cards have some additional rules, as described later.
-PREPARED (SIDEQUEST)
-Any additional Hero cubes gained by revealing this Sidequest may be placed normally, but because you must end your turn to gain the Grit, the extra cubes will not generate additional Movement or Encounters, and cannot be used to activate any other effects of equipment or Treasure cards, even if they do not normally require an Encounter (such as the Bomb, Bow, or Potion Kit).
-CURSED AMULET (TREASURE)
-While this Treasure is in play, its effects are always active. It does not require allocating a Hero cube.
-This Treasure may be declined for Grit, as normal, but if you choose to keep it, you must reveal it immediately. “Negative effects” refer to any effects that do not benefit you, such as:
-•	Attacks or ambushes that reduce your Health will reduce it by 2 instead of 1. (When using the Goblin Infestation Variant card, the Flame Giant will reduce your Health by 4 if you have insufficient Strength.)
-•	Effects that reduce your Grit will reduce it by double. (The Shield will reduce this loss to 2 instead of 1.)
-•	Effects that force you to move (Giant Bats, Claw, Telekinesis, etc.) can move you twice as many spaces.
-•	The Thief’s Pickpocket can steal two Treasures instead of one.
-When you lose Health, you must resolve the entire attack (including any secondary effects from Secrets, Monsters, etc.) before discarding the Treasure.
-RUNE STAFF (TREASURE)
-The distance you move is determined by the Grit you spend. (For example, if you spend 4 Grit, you can teleport to a space 2 spaces away in any direction.)
-You cannot teleport if you do not have enough Grit to spend.
-If spending Grit requires you to return a Hero cube, you cannot return the cube assigned to the Rune Staff.
-The Shield does not reduce the Grit cost of using this Treasure.
-CAVE BREAD, HEROIC BOOTS,
-& JAVELIN
-These three cards are replacements for the same cards from Vast:The Crystal Caverns. Replacing these cards as a set is highly recommended but not required.
+セットアップ時、エントランスタイルにエントランスピース（または任意の代用品）を配置します。
+エントランスピースとエントランスタイルは別のもので、ゲーム全体で洞窟のエントランスを表します。勝利条件やルールが示す全ての「エントランスタイル」は「エントランスピースを保持するスペース」と読み替えます。
+プレイ中、エントランスタイルは常に通常の洞窟タイルのように扱います。後にエントランスタイルをマップに配置する場合、通常どおり、ダークイドを上にして配置します。
+エントランピースを保持するスペースが崩壊する時、タイルを取り除いたプレイヤーはエントランスピースを、隣接する未占領の明らかになったタイルに移動する必要があります。これは壁を通り抜けたり、ダークタイルや地形タイルに移動することはできません。崩壊するタイルによりプレイヤーピースも強制移動する場合、エントランスピースを最後に移動します。ルール上移動可能なタイルがない場合、エントランスピースを保持するタイルは崩壊できません。それを無視し、次に該当するタイルが崩壊します。
+エントランスピースは洞窟のエントランスであると示す以外は、他のいずれの効果とも相互作用しません。（これは未占領スペースを指定する効果によって無視されます）。
+エントランスピースは、それを保持するタイルが崩壊する場合にのみ、移動します。
+ゴブリンがポイズンを使用した場合、ナイトのヒーローキューブはエントランスピースを保持するスペースに配置されます。エントランスピースを保持するタイルが取り除かれた場合、ヒーローキューブも取り除かれ、新しいエントランスピースを保持するスペースにそのヒーローキューブを配置します。
+ナイトはエントランスピースに移動することでそのヒーローキューブを取り回復できます。
+運任せの宝物
+このヴァリアントは、ナイトが得るトレジャーをナイト自身が選択し、洞窟に不確実性を追加します。ナイトの難易度は下がり、洞窟の難易度は上がりますので、プレイヤーたちはゲームセットアップ時にこのヴァリアントを使用するかどうか、全員で同意する必要があります。
+洞窟プレイヤーがゲームに居る場合：
+ナイトがトレジャートークンを収集する場合、洞窟はトレジャーカード3枚をドローし、1枚を選択してデッキの下に戻し、その後、ナイトに残り2枚を渡します。
+ナイトはその2枚から1枚を選択してデッキの下に戻し、もう1枚を自身で保持するか、拒否するかを決定します。拒否した場合、ナイトは5経験値を得て、拒否したカードをゲームから取り除きます。ナイトが拒否したりデッキの下に戻したトレジャーカードは洞窟に見せません。
+洞窟プレイヤーの居ないゲーム：
+ナイトがトレジャートークンを収集する場合、ナイトはトレジャーカード2枚をドローし、1枚を選択してデッキの下に戻し、残った1枚を保持するか拒否する決定をします。拒否した場合、ナイトは5経験値を得て、拒否したカードをゲームから取り除きます。
+ランダム地形
+このヴァリアントでは、
+プレイヤーたちは、配置する地形タイルを選択するのではなく、ランダムに配置する事になります。
+セットアップ時、地形カード6枚をシャッフルし、それらをマップ近くに配置します。
+プレイ中、地形タイルを配置するように指示されるたびに、地形カード1枚をドローし、それに表示された地形タイルを配置ルールに基づいて配置しなければなりません。
+ドローした地形カードは、マップ近くにルールリファレンスとして置いておきます。
+プロモカード
+含まれている多くのプロモカードは、それに一致するデッキに追加して、通常どおり使用できます。しかし、
+ゴブリンの”悪巧み”シークレットカード、ドラゴンの”鱗”パワーカード、シーフのアップグレードカードは、後に記述されるいくつかの追加ルールがあります。
+覚悟（サイドクエスト）
+このサイドクエストを公開することにより得られる追加のヒーローキューブは、通常どおり配置できますが、経験値を得るためにターンを終了しなければなりません。ですので、このターンではエンカウンターを消費しないとしても任意のトレジャーカードや装備効果を使用できませんし、追加されるキューブにより追加の移動やエンカウンターを得ることはできません。
+呪われたアミュレット（トレジャー）
+このトレジャーがプレイされている間、常に効果が発動しています。ヒーローキューブを割り当てる必要はありません。
+このトレジャーは配られた時に通常どおり経験値を得るため拒否できますが、これを保持する選択をした場合、直ちにこれを公開しなければなりません。”不利益な効果”は、次のように、ナイトにとって有益にならない効果を指します：
+•	攻撃されたり待ち伏せは、ナイトのヘルスを1ではなく2減少させることになります。（ゴブリン蔓延ヴァリアントカードを使用している時、フレイムジャイアントはナイトの筋力が不十分である場合に、ナイトのヘルスを4減少させます。）
+•	ナイトの経験値が失われる場合、その量が2倍になります。（盾は経験値を1ではなく2失わせます）。
+•	ナイトを強制移動させる効果（ジャイアントバッド、クロウ、テレキネシス他）は、2倍のスペースを移動させます。
+•	シーフのスリはトレジャーを1つではなく、2つ盗みます。
+ナイトがヘルスを失う時、トレジャーを破棄する前に、（シークレットやモンスターなどからの二次効果を含む）攻撃全体を解決する必要があります。
+ルーンスタッフ（トレジャー）
+ナイトが移動する距離は、消費された経験値によって決定されます。（例えば、ナイトが経験値を4消費した場合、任意の宝庫に2スペース離れた場所へテレポートします）。
+十分な量の経験値を消費しなかった場合、テレポートはできません。
+ヒーローキューブを戻すために必要な経験値を消費した場合、ルースタッフに割り当てられたキューブは戻せません。
+盾はこのトレジャーを使用するための経験値コストを減少させません。
+洞窟パン、ヒロイックブーツ、
+ジャヴェリン
+これら3枚のカードは、基本ゲームの同じカードと置き換えます。The Crystal Caverns. これらカードを置き換えることを強く推奨しますが、必須ではありません。
 
 p2
 
-The Cave Bread has been adjusted so it is useful in a wider range of scenarios while also removing some confusions and ambiguities.
-The Heroic Boots have been rebalanced so that finding them early doesn’t give the Knight as big of an advantage, but they still remain more valuable than adding one cube to movement.
-The Javelin has been updated so it can also be thrown at a visible target. Throwing it follows the same rules as an attack, but simply at a distance. Your Strength (or Perception) must still be sufficient to hit when compared to the target’s defensive attribute.
-Any text that refers to an attack (Sidequests, Rage, Unnatural Evasion, etc.) applies to attacking with the Javelin.
-SLINGSHOT (SECRETS)
-The Slingshot’s effect is not an attack and does not harm the target player;it only makes it easier for other Tribes to attack.
-The Slingshot can be used by any Tribe regardless of its Population or the target’s defensive attribute.
-Goblin Schemes
-Schemes are Secrets cards that provide various permanent effects but must be purchased to be used. Schemes are denoted by the Treasure Chest icon ( ) in their upper-right corner.
-If you choose to use Schemes, during setup shuffle all of the Schemes into the Secrets deck. They work as Secrets cards, except that they cannot be used for their effects until they are purchased.
-When you purchase a Scheme, you place it face-up near your player board. Once there, it takes effect immediately and until the end of the game. Purchased Schemes cannot be removed or lost by any means, and do not count against your hand limit while in play.
-The first Scheme you purchase costs 1 Treasure, the second costs 2 Treasures, the third costs 3 Treasures, and so on.
-You may pay for Schemes in the following ways:
-•	When you Plunder a Treasure token or Dragon Gem, in addition to gaining Rage, you may spend it to purchase a Scheme.
-•	If you Plunder a Treasure or Gem but cannot or do not wish to purchase a Scheme immediately, you may store the Treasure near your player board until you can purchase a Scheme. (If you Plunder a Dragon Gem, return it to the Dragon and replace it with a Treasure token from the Cave’s supply, or from the map if none are in the supply.)You can store Treasures up to a maximum equaling your number of purchased Schemes. If you Plunder a Treasure but cannot spend or store it immediately, you must return it to the Cave’s supply. Stored Treasures can be stolen by the Thief with Pickpocket.
-•	When purchasing a Scheme card, you may discard other Scheme cards in your hand in place of spending Treasures, in any combination. When you purchase a Scheme, if you have any stored Treasures tokens you must spend all of them first, before you can spend other Scheme cards.
-MEAT!AND ARMORY
-The number of Strength discs included in the game is a hard limit. If all are in use and a card is drawn that would require one (Meat!, Armory, or a Monster), that card will have no effect until a Strength disc becomes available, at which time the disc moves to the card.
-CAVE OIL
-This card has no effect on Population losses caused by entering Terrain tiles or a space with a Flame Wall.
-Dragon Scales
-The three Scale cards are bonuses that the Dragon can earn during play.
-During setup, shuffle the three Scale cards together as their own deck and place them facedown near your player board (do not shuffle them into your Power deck).
-Each time that you use Smash to smash a Crystal token or you use Wrath to collapse a Crystal tile, draw one Scale card and shuffle it into your Power deck. (You cannot gain multiple Scale cards from one use of a power.)
-Scale cards in the Power deck are drawn into your hand like normal Power cards, and may be used during the Move and Use Powers phase of your turn. Once used, Scales are shuffled into the Power deck during the Replace Hand phase, unless noted otherwise.
-The Golden Scale can be used as any one symbol of your choice (Claw, Flame, or Wing).
-The Silver Scale can be used as any one symbol of your choice (Claw, Flame, or Wing) that matches a Dragon Gem in your supply.
-If all three Gems are on the map, the Silver Scale has no effect. If you do not play the Silver Scale, you may reveal it during your Replace Hand phase in order to keep the card in your hand instead of discarding it.
-If you do, then draw one fewer card after discarding your other cards.
-The Platinum Scale allows you to immediately move a Sloth cube from any category to Wakefulness. Remove the Platinum Scale from the game after moving the cube.
+洞窟パンは曖昧さや混乱する記述を取り除き、調整されていますので、より便利になっています。
+ヒロイックブーツは調整されゲーム早期では利点はないかもしれませんが、依然として移動力にキューブ1つを割り当てるよりも強力です。
+ジャヴェリンは離れた見えている対象に投げられるようにアップデートされました。これを投げることは攻撃と同じルールが適用され、単純に距離が伸びるだけです。ナイトの筋力（や感知力）は依然として、対象の防御力と比較しヒットするのに十分である必要があります。
+ジャヴェリンによる（投げる）攻撃には、攻撃を参照する任意のテキストが適応されます（サイドクエスト、怒り、不自然な回避、他）。
+スリングショット（シークレット）
+スリングショットの効果は攻撃ではなく、対象プレイヤーを害しません。これは他の部族による攻撃を簡単にします。
+スリングショットは対象の防御力や感知力に関係なく、任意の部族によって使用できます。
+ゴブリンの悪巧み
+悪巧みカードは様々な永続的な効果を提供するシークレットカードですが、使用するために購入する必要があります。悪巧みカードはカード右上角にトレジャーアイコン（）を持ちます。
+悪巧みカードを使用する場合、セットアップ時にシークレットデッキに全ての悪巧みカードを入れてシャッフルします。これらはシークレットカードとして動作しますが、購入するまでその効果を使用できません。
+悪巧みカードを購入した時、自身のプレイヤーボード近くに表向きでこれを配置します。そうすると、直ちに効果を発揮し、ゲーム終了まで残ります。購入した悪巧みカードは何らかの手段によって失われたり取り除かれず、ゴブリンの手札上限にカウントもされません。
+最初の悪巧カードはトレジャーコスト1つで購入でき、2つめはトレジャー2つ、3つめはトレジャー3つ、というようにコストが上昇します。
+ゴブリンは次の方法で悪巧みカードを購入できます：
+•	ドラゴンジェムやトレジャートークンを略奪する時、怒りを得るのに加えて、これを悪巧みカード購入のために消費できます。
+•	トレジャートークンやドラゴンジェムを略奪したが、直ちに悪巧みカードの購入したくない場合。悪巧みカードを購入するまで、そのトレジャーを自身のプレイヤーボード近くにストックしておけます。（ドラゴンジェムを略奪した場合、これをドラゴンに返して、洞窟のサプライからトレジャートークンを受け取り置き換えます。トレジャートークンがサプライにない場合、マップから任意の1つを取ります）ストックできるトレジャーの最大数は、購入した悪巧みカードの数に等しいです。トレジャートークンを略奪したが、それを直ちに消費したりストックできない場合、洞窟のサプライにこれを戻します。ストックされたトレジャーはシーフのスリによって盗まれます。
+•	悪巧みカードを購入する時、トレジャートークンを消費する代わりに、自身の手札にある他の悪巧みカードを捨て札にできます。これは任意で組み合わせられます（コスト3時、トレジャートークン1つと悪巧みカード2枚など）。悪巧みカードを購入する時、他の悪巧みカードを消費する前に、まずストックしたトレジャートークンから消費します。
+にくぅ！、武器庫
+筋力ディスクの数はゲームに含まれている分で制限されます。全てのディスクが使用されており、さらに必要な場合（にくぅ！、武器庫、モンスター）、筋力ディスクが利用可能になるまでそのカードは効果を持たず、利用可能になった時点でそのカードの効果を発動させます。
+洞窟オイル
+このカードは地形タイルや炎の壁に入ることによる人口減少には効果を発揮しません。
+ドラゴンの鱗
+3枚の鱗カードはゲーム中にドラゴンが得られるボーナスです。
+セットアップ中、（パワーカードデッキに混ぜてシャッフルするのではなく）鱗カード3枚をシャッフルしてデッキを作り、ドラゴンのプレイヤーボード近くに裏向きでこれを配置します。
+ドラゴンがスマッシュパワーを使用してクリスタルトークンを砕いたり、憤怒パワーを使用してクリスタルタイルを崩壊させるたびに、鱗カード1枚をドローし、パワーデッキに入れてシャッフルします。（ドラゴンは1回のパワー使用で複数枚の鱗カードを得ることはできません）。
+パワーデッキ内の鱗カードは、通常のパワーカードのようにドラゴンの手札としてドローされ、ドラゴンのターンにて移動とパワー使用フェイズ時に使用できます。鱗カードが使用されると、特に記述がない限り、手札の入れ替えフェイズ時にパワーデッキに入れてシャッフルされます。
+金の鱗はドラゴンが選択した任意のシンボルとして使用できます（クロウ、フレイム、ウィング）。
+銀の鱗はドラゴンのサプライにあるドラゴンジェムに一致する、ドラゴンが選択した任意のシンボルの1つとして使用できます（クロウ、フレイム、ウィング）。
+3つ全てのドラゴンジェムがマップにある場合、銀の鱗は効果を持ちません。銀の鱗をプレイしない場合、手札の入れ替えフェイズ時にそれを公開して、破棄する代わりに手札に保持できます。
+そうした場合、他のカードを破棄した後で、通常より1枚少なくカードをドローします。
+プラチナの鱗は直ちに任意のカテゴリの怠惰キューブ1つを、覚醒に移動できます。キューブを移動させた後、プラチナの鱗をゲームから取り除きます。
 Thief Upgrade Cards
-The three included Upgrade cards give the Thief more upgrade options.
-During setup, shuffle the Upgrade cards, draw one, and place it facedown near your player board (you may look at it, but do not reveal it). Return the other cards to the box.
-When you stash a Treasure, you may reveal an Upgrade card and place a Treasure token on it to gain its upgrade (instead of an upgrade on your player board).
-The Warlock’s Wand has 5 charges (tracked by using any tokens or markers you have available). Each time you use its effect, remove a charge. If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space. 
-If the Treasure token is removed for any reason (for example, when targeted by Soporific Spores) and regained later, only the unused charges remain (they do not reset to the original count).
+これら3枚のアップグレードカードはシーフに追加のアップグレードオプションを提供します。
+セットアップ時、アップグレードカードをシャッフルし、1枚をドローし、これをシーフ自身のプレイヤーボード近くに配置します（シーフこれを確認できますが、公開はできません）。他のカードはボックスに戻します。
+シーフがトレジャーをスタックする時、アップグレードカードを公開でき、これにトレジャートークンを配置することでそのアップグレードを得られます（プレイヤーボードのアップグレードを得る代わりに）。
+ウォーロックのワンドはチャージを5持ちます（任意のトークンを使用して、利用可能な回数をカウントします）。この効果を使用するたびに、チャージ1つを取り除きます。カードのチャージが全てなくなった場合、その効果は使用できませんが、カードのアップグレードスペースに配置されたトレジャートークンは残ります。トレジャートークンが何らかの理由によって取り除かれた場合（例えば、催眠胞子の対象にされて）、後に再取得しても、チャージは変化しません（カウントをリセットしません）。
 
