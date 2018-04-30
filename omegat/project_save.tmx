@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(No effect if all three Gems are on the map.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154352Z" creationid="nakahodo" creationdate="20180430T154352Z">
+        <seg>（全てのドラゴンジェムがマップに配置されている場合、効果はない）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not playable by the Vagabond or Marquise.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233321Z" creationid="aorin" creationdate="20171215T233321Z">
@@ -14845,6 +14853,15 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golden Scale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154147Z" creationid="nakahodo" creationdate="20180430T154147Z">
+        <seg>Golden Scale
+金の鱗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grab a frosty mug and let the celebration begin!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T090949Z" creationid="nakahodo" creationdate="20171230T090635Z">
@@ -17434,6 +17451,14 @@ in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080003Z" creationid="aorin" creationdate="20180410T080003Z">
         <seg>ドラゴンもナイトも居ない場合、あなたはクリスタル5つを砕き、その後、エントランスタイルを入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Dragon/Unicorn player, instead exit two different spaces holding Crystal tokens, smashing neither, on the same turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154032Z" creationid="nakahodo" creationdate="20180430T154032Z">
+        <seg>ドラゴンもユニコーンプレイヤーも居ない場合、1回のターンで、別々のクリスタルトークンを保持するスペース2つから出て、どちらも砕かない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21616,9 +21641,9 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Noble Failure</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T153115Z" creationid="nakahodo" creationdate="20180430T153115Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T153740Z" creationid="nakahodo" creationdate="20180430T153115Z">
         <seg>Noble Failure
-気高き障害</seg>
+気高き失敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -27375,6 +27400,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T234218Z" creationid="aorin" creationdate="20171228T234218Z">
         <seg>残っているカードを発展デッキに入れてシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver Scale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154233Z" creationid="nakahodo" creationdate="20180430T154233Z">
+        <seg>銀の鱗</seg>
       </tuv>
     </tu>
     <tu>
@@ -33734,6 +33767,22 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074844Z" creationid="aorin" creationdate="20171213T074844Z">
         <seg>これはいつでも可能です。つまり、アクション、昇進、最終得点計算を実行している時にもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This card counts as any Power symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154212Z" creationid="nakahodo" creationdate="20180430T154212Z">
+        <seg>このカードは任意のパワーシンボルとしてカウントする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This card counts as any symbol on a Dragon Gem in your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154310Z" creationid="nakahodo" creationdate="20180430T154310Z">
+        <seg>このカードはあなたのサプライにある、任意のドラゴンジェムのシンボルとしてカウントする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41263,6 +41312,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Failure is just another chance to learn and grow.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154134Z" creationid="nakahodo" creationdate="20180430T154134Z">
+        <seg>”失敗は、学んで成長するためのチャンスなんだ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Grow.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090322Z" creationid="nakahodo" creationdate="20180413T080938Z">
@@ -41323,6 +41380,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062001Z" creationid="nakahodo" creationdate="20180413T061859Z">
         <seg>”スこシだけ……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Keeeaaa!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154228Z" creationid="nakahodo" creationdate="20180430T154228Z">
+        <seg>”ｷｪｪｴｴｪｴ!”</seg>
       </tuv>
     </tu>
     <tu>
