@@ -34845,6 +34845,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vast riches can be yours!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T135425Z" creationid="nakahodo" creationdate="20180430T135425Z">
+        <seg>莫大な富があなたのものに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Victory</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231843Z" creationid="aorin" creationdate="20171215T231843Z">
