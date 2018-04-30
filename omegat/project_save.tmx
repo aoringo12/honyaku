@@ -1190,6 +1190,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+ 1 Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120437Z" creationid="nakahodo" creationdate="20180430T120437Z">
+        <seg>＋1移動力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ 1 Perception</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120449Z" creationid="nakahodo" creationdate="20180430T120449Z">
+        <seg>＋１感知力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ 1 Strength during your turn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120504Z" creationid="nakahodo" creationdate="20180430T120504Z">
+        <seg>あなたのターン時に＋１筋力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+1 Attack</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055320Z" creationid="nakahodo" creationdate="20180413T055241Z">
@@ -9792,6 +9816,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cursed Amulet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120344Z" creationid="nakahodo" creationdate="20180430T120344Z">
+        <seg>呪われたアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D 3
 d
 Place the board in the middle of the table.</seg>
@@ -10571,6 +10603,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141704Z" creationid="aorin" creationdate="20171213T043935Z">
         <seg>ダブル提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double the magnitude of any negative effects, including attacks and ambushes, targeting you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120552Z" creationid="nakahodo" creationdate="20180430T120552Z">
+        <seg>あなたを対象にした待ち伏せや攻撃を含んで、不利益な効果が２倍になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20227,6 +20267,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lose 2X Grit to teleport to any unoccupied Lit space that is X spaces away in any cardinal direction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T121654Z" creationid="nakahodo" creationdate="20180430T121108Z">
+        <seg>縦か横の方向にXスペース離れた未占領の明らかにされたスペースへとテレポートするために、Xの2倍の経験値を消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lose 3 Coins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151439Z" creationid="nakahodo" creationdate="20180108T151439Z">
@@ -25795,6 +25843,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rune Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120758Z" creationid="nakahodo" creationdate="20180430T120758Z">
+        <seg>ルーンスタッフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030606Z" creationid="aorin" creationdate="20171212T030606Z">
@@ -27992,6 +28048,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T091300Z" creationid="nakahodo" creationdate="20180430T091300Z">
         <seg>プレイヤーたちは、配置する地形タイルを選択するのではなく、ランダムに配置する事になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terrible power, but at a terrible cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120754Z" creationid="nakahodo" creationdate="20180430T120754Z">
+        <seg>恐ろしい力、怖いほどのリスク。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36015,6 +36079,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you gain or lose Health, you may discard this card after resolving the prompting effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120654Z" creationid="nakahodo" creationdate="20180430T120654Z">
+        <seg>あなたがヘルスを得たり失ったりするたびに、指示された効果を解決した後でこのカードを破棄できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you go Shopping during this round, you may not buy Spices if there is an Hourglass on any of the Spices spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151600Z" creationid="nakahodo" creationdate="20180108T151600Z">
@@ -38709,6 +38781,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Shield does not reduce the Grit cost of playing this card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T121110Z" creationid="nakahodo" creationdate="20180430T121110Z">
+        <seg>Your Shield does not reduce the Grit cost of playing this card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Strength (or Perception) must still be sufficient to hit when compared to the target’s defensive attribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T100752Z" creationid="nakahodo" creationdate="20180430T100752Z">
@@ -39158,6 +39238,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040523Z" creationid="aorin" creationdate="20180116T040523Z">
         <seg>しかし、他のプレイヤー全てが何れかを購入するチャンスを得るまで、あなたは別のディスカバリーか将軍を購入するのを待たなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if not declined for Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T120436Z" creationid="nakahodo" creationdate="20180430T120436Z">
+        <seg>このカードを経験値のために拒否しなかった場合、直ちにこれを公開してプレイヤーボード近くに配置する。</seg>
       </tuv>
     </tu>
     <tu>
