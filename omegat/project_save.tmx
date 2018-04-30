@@ -1280,6 +1280,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+3 Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122737Z" creationid="nakahodo" creationdate="20180430T122737Z">
+        <seg>＋3移動力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+4 Movement</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055310Z" creationid="nakahodo" creationdate="20180413T054135Z">
@@ -8541,6 +8549,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calen the Swift wore these.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122739Z" creationid="nakahodo" creationdate="20180430T122739Z">
+        <seg>Calen the Swift wore these.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camp</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T134005Z" creationid="nakahodo" creationdate="20171124T134005Z">
@@ -14944,6 +14960,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T032345Z" creationid="aorin" creationdate="20180115T032345Z">
         <seg>これは、同じゲームのその後の例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroic Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122735Z" creationid="nakahodo" creationdate="20180430T122735Z">
+        <seg>ヒロイックブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27697,6 +27721,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131705Z" creationid="nakahodo" creationdate="20171127T131705Z">
         <seg>ドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE PAIN!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T122706Z" creationid="nakahodo" creationdate="20180430T122706Z">
+        <seg>THE PAIN!</seg>
       </tuv>
     </tu>
     <tu>
