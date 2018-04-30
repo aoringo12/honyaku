@@ -8421,6 +8421,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CURSED AMULET (TREASURE)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T092936Z" creationid="nakahodo" creationdate="20180430T092936Z">
+        <seg>呪われたアミュレット（トレジャー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camp</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T134005Z" creationid="nakahodo" creationdate="20171124T134005Z">
@@ -19159,6 +19167,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022016Z" creationid="aorin" creationdate="20180408T022016Z">
         <seg>これはアーティファクトを持って開始できませんが、運ぶためにマップのアーティファクトを拾うことが出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not require allocating a Hero cube.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093017Z" creationid="nakahodo" creationdate="20180430T093017Z">
+        <seg>ヒーローキューブを割り当てる必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32304,6 +32320,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Treasure may be declined for Grit, as normal, but if you choose to keep it, you must reveal it immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093224Z" creationid="nakahodo" creationdate="20180430T093148Z">
+        <seg>このトレジャーは配られた時に通常どおり経験値を得るため拒否できますが、これを保持する選択をした場合、直ちにこれを公開しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Woodland Alliance will seek to strengthen their presence by building hideouts and launching missions to subvert the rule of the cats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
@@ -35942,6 +35966,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232428Z" creationid="aorin" creationdate="20180409T232428Z">
         <seg>出現している間、ドラゴンはアーマーがあなたの防御力を超える場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While this Treasure is in play, its effects are always active.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T092953Z" creationid="nakahodo" creationdate="20180430T092953Z">
+        <seg>このトレジャーがプレイされている間、常に効果が発動しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39726,6 +39758,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071212Z" creationid="nakahodo" creationdate="20180413T071212Z">
         <seg>”ﾆｨｨｲｩ…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Negative effects” refer to any effects that do not benefit you, such as:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T093428Z" creationid="nakahodo" creationdate="20180430T093149Z">
+        <seg>”不利益な効果”は、次のように、あなたにとって有益にならない効果を指します</seg>
       </tuv>
     </tu>
     <tu>
