@@ -16107,6 +16107,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If she declines, she gains 5 Grit and removes the declined card from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T090243Z" creationid="nakahodo" creationdate="20180430T090048Z">
+        <seg>拒否した場合、ナイトは5経験値を得て、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If she enters his space, she attacks him.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151043Z" creationid="nakahodo" creationdate="20180412T151043Z">
@@ -16223,6 +16231,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T085353Z" creationid="nakahodo" creationdate="20180430T085206Z">
         <seg>ゴブリンがポイズンを使用した場合、ナイトのヒーローキューブはエントランスピースを保持するスペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Knight collects a Treasure token, the Cave draws 3 Treasure cards, chooses 1 card to place on the bottom of the deck, and then gives the remaining 2 cards to the Knight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T090029Z" creationid="nakahodo" creationdate="20180430T085849Z">
+        <seg>ナイトがトレジャートークンを収集する場合、洞窟はトレジャーカード3枚をドローし、1枚を選択してデッキの下に戻し、その後、ナイトに残り2枚を渡します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18387,6 +18403,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T093241Z" creationid="nakahodo" creationdate="20180413T093241Z">
         <seg>6人以上のプレイヤーたちによるゲーム：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with a Cave player:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085912Z" creationid="nakahodo" creationdate="20180430T085847Z">
+        <seg>洞窟プレイヤーがゲームに居る場合：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28715,6 +28739,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T181113Z" creationid="aorin" creationdate="20180406T181113Z">
         <seg>ナイトがヒーローキューブを彼女の盾に割り当てている場合、ナイトを移動させられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight chooses 1 card to place on the bottom of the deck, and then she may keep or decline the remaining card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T090227Z" creationid="nakahodo" creationdate="20180430T085904Z">
+        <seg>ナイトはその2枚から1枚を選択してデッキの下に戻し、もう1枚を自身で保持するか、拒否するかを決定します。</seg>
       </tuv>
     </tu>
     <tu>
