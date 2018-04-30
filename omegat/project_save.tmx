@@ -25129,6 +25129,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the Platinum Scale from the game after moving the cube.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T111404Z" creationid="nakahodo" creationdate="20180430T111404Z">
+        <seg>キューブを移動させた後、プラチナの鱗をゲームから取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the building sticker and charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031732Z" creationid="nakahodo" creationdate="20171224T145150Z">
@@ -29419,6 +29427,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094524Z" creationid="aorin" creationdate="20171212T094458Z">
         <seg>妖精はTruroの村を動き回り、りんごやパン、はちみつを盗んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Platinum Scale allows you to immediately move a Sloth cube from any category to Wakefulness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T111329Z" creationid="nakahodo" creationdate="20180430T111329Z">
+        <seg>プラチナの鱗は直ちに任意のカテゴリの怠惰キューブ1つを、覚醒に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
