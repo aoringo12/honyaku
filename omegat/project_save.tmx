@@ -5368,6 +5368,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AND ARMORY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104821Z" creationid="nakahodo" creationdate="20180430T104821Z">
+        <seg>、武器庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTACK</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T210917Z" creationid="aorin" creationdate="20180409T210917Z">
@@ -15653,6 +15661,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If all are in use and a card is drawn that would require one (Meat!, Armory, or a Monster), that card will have no effect until a Strength disc becomes available, at which time the disc moves to the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105517Z" creationid="nakahodo" creationdate="20180430T105517Z">
+        <seg>全てのディスクが使用されており、さらに必要な場合（にくぅ！、武器庫、モンスター）、筋力ディスクが利用可能になるまでそのカードは効果を持たず、利用可能になった時点でそのカードの効果を発動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an Artifact is locked during a possession turn, the possession turn ends immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233623Z" creationid="aorin" creationdate="20180407T233623Z">
@@ -20176,6 +20192,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173449Z" creationid="aorin" creationdate="20171228T173449Z">
         <seg>幸いにも、あなたは村を保全する術を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEAT!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104748Z" creationid="nakahodo" creationdate="20180430T104748Z">
+        <seg>にくぅ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30652,6 +30676,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of Strength discs included in the game is a hard limit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T105205Z" creationid="nakahodo" creationdate="20180430T105205Z">
+        <seg>筋力ディスクの数はゲームに含まれている分で制限されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of placed is
 determined by the desired Plan’s Cost.</seg>
       </tuv>
@@ -35038,8 +35070,8 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       <tuv lang="EN-US">
         <seg>When purchasing a Scheme card, you may discard other Scheme cards in your hand in place of spending Treasures, in any combination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104539Z" creationid="nakahodo" creationdate="20180430T104539Z">
-        <seg>悪巧みカードを購入する時、トレジャートークンを消費する代わりに、自身の手札にある他の悪巧みカードを捨て札にできます。これは任意の</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104628Z" creationid="nakahodo" creationdate="20180430T104539Z">
+        <seg>悪巧みカードを購入する時、トレジャートークンを消費する代わりに、自身の手札にある他の悪巧みカードを捨て札にできます。これは任意で組み合わせられます（コスト3時、トレジャートークン1つと悪巧みカード2枚など）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35380,6 +35412,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041031Z" creationid="aorin" creationdate="20180116T041031Z">
         <seg>ディスカバリーカードを購入した時、一致するディスカバリートークンを獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you purchase a Scheme, if you have any stored Treasures tokens you must spend all of them first, before you can spend other Scheme cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T104740Z" creationid="nakahodo" creationdate="20180430T104542Z">
+        <seg>悪巧みカードを購入する時、他の悪巧みカードを消費する前に、まずストックしたトレジャートークンから消費します。</seg>
       </tuv>
     </tu>
     <tu>
