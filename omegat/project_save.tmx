@@ -29423,6 +29423,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shield does not reduce the Grit cost of using this Treasure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095506Z" creationid="nakahodo" creationdate="20180430T095506Z">
+        <seg>盾はこのトレジャーを使用するための経験値コストを減少させません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Shopping action may only be performed once this way.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152045Z" creationid="nakahodo" creationdate="20180108T152045Z">
