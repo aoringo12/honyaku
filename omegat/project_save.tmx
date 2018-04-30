@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"You look like you could use some help, my dear friend."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T150915Z" creationid="nakahodo" creationdate="20180430T150915Z">
+        <seg>”やあ、親愛なる友人よ、困っているように見えるネ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$2 or 3 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150052Z" creationid="nakahodo" creationdate="20171230T150052Z">
@@ -1030,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You must be on a Crystal tile to help.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145440Z" creationid="nakahodo" creationdate="20180430T145440Z">
+        <seg>（補助するためにはクリスタルタイルに居る必要がある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You will perform this step on your first turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080731Z" creationid="aorin" creationdate="20180410T080731Z">
@@ -1332,6 +1348,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085856Z" creationid="nakahodo" creationdate="20180413T085856Z">
         <seg>＋2移動力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+2 Thievery for the turn by helping another player in your space, as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145227Z" creationid="nakahodo" creationdate="20180430T145221Z">
+        <seg>あなたは自身のスペースに居る他のプレイヤーを次のように補助することで、このターン＋2窃盗力を得られる：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28940,6 +28964,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave [Ghost] draws 1 Omen token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145406Z" creationid="nakahodo" creationdate="20180430T145406Z">
+        <seg>洞窟（洞窟ゴースト）は前兆トークン1つをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave [Ghost] draws Omen tokens as if there were one more Crystal token on the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T093350Z" creationid="nakahodo" creationdate="20180413T093350Z">
@@ -29169,6 +29201,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T084331Z" creationid="nakahodo" creationdate="20180411T084331Z">
         <seg>ドラゴンはパワーカードを1 / 2 / 3枚破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dragon draws 1 Power card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145330Z" creationid="nakahodo" creationdate="20180430T145330Z">
+        <seg>ドラゴンはパワーカード1枚をドローする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29511,6 +29551,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ghost gains +1 Focus during her next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145618Z" creationid="nakahodo" creationdate="20180430T145618Z">
+        <seg>ゴーストは自身の次ターン時に＋1フォーカスを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ghost is a player role that can be added to any other combination of player numbers and roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T123741Z" creationid="nakahodo" creationdate="20180406T123541Z">
@@ -29671,6 +29719,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Goblins draw 1 Secrets card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145316Z" creationid="nakahodo" creationdate="20180430T145316Z">
+        <seg>ゴブリンはシークレットカード1枚をドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Goblins gain 1 Rage (instead of losing 1), and the Tribe does not scatter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232249Z" creationid="aorin" creationdate="20180409T232249Z">
@@ -29795,6 +29851,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T090227Z" creationid="nakahodo" creationdate="20180430T085904Z">
         <seg>ナイトはその2枚から1枚を選択してデッキの下に戻し、もう1枚を自身で保持するか、拒否するかを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight gains +1 Strength during her next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145538Z" creationid="nakahodo" creationdate="20180430T145222Z">
+        <seg>ナイトは自身の次ターン時に＋1筋力を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30511,6 +30575,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unicorn draws 1 Unicorn card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145343Z" creationid="nakahodo" creationdate="20180430T145343Z">
+        <seg>ユニコーンはユニコーンカード1枚をドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Unicorn has three actions:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115306Z" creationid="aorin" creationdate="20180410T115306Z">
@@ -30694,6 +30766,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
         <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The [Vile] Ghoul gets +1 movement on its next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T145625Z" creationid="nakahodo" creationdate="20180430T145521Z">
+        <seg>グール（バイルグール）は自身の次ターン時に＋1移動力を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37985,6 +38065,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111845Z" creationid="nakahodo" creationdate="20180412T111845Z">
         <seg>他のプレイヤーが居るキノコの森スペースにはテレポートできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot affect a player with any other actions during the same turn as you targeted them with this card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T150031Z" creationid="nakahodo" creationdate="20180430T150031Z">
+        <seg>1回のターン内にて、あなたはこのカードの対象にしたプレイヤーを、別のアクションで影響を与えられない。</seg>
       </tuv>
     </tu>
     <tu>
