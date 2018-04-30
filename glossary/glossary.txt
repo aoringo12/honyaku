@@ -633,3 +633,7 @@ Population	人口
 Power card	パワーカード
 Replace Hand	手札の入れ替え
 Thievery	窃盗力
+Entrance piece	エントランスピース
+proxy	代替
+tile with the Entrance piece	エントランピースを保持するスペース
+player piece	プレイヤーピース
