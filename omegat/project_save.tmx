@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(It is ignored by effects that refer to unoccupied spaces.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T072654Z" creationid="nakahodo" creationdate="20180430T072654Z">
+        <seg>（これは未占領スペースを指定する効果によって無視されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Knight can attack if equal, but must roll.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073215Z" creationid="nakahodo" creationdate="20180413T073141Z">
@@ -15762,8 +15770,8 @@ Cloud Port or Grandstand)</seg>
       <tuv lang="EN-US">
         <seg>If it cannot be moved onto a legal tile, the tile holding the Entrance piece cannot be collapsed;</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071539Z" creationid="nakahodo" creationdate="20180430T071539Z">
-        <seg>If it cannot be moved onto a legal tile, the tile holding the Entrance piece cannot be collapsed;</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T072403Z" creationid="nakahodo" creationdate="20180430T071539Z">
+        <seg>ルール上移動可能なタイルがない場合、エントランスピースを保持するタイルは崩壊できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16037,8 +16045,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If player pieces are also forced to move because of collapsing tiles, move the Entrance piece last.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071814Z" creationid="nakahodo" creationdate="20180430T071537Z">
-        <seg>プレイヤーピースも取り除かれるタイルにより強制移動する場合、エントランスピースを最後に移動します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T072351Z" creationid="nakahodo" creationdate="20180430T071537Z">
+        <seg>崩壊するタイルによりプレイヤーピースも強制移動する場合、エントランスピースを最後に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21768,6 +21776,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T091448Z" creationid="nakahodo" creationdate="20180411T091448Z">
         <seg>他のプレイヤーたちはあなたを攻撃の対象にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other than marking the entrance to the Cave, the Entrance piece does not interact with any other effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T072554Z" creationid="nakahodo" creationdate="20180430T072554Z">
+        <seg>エントランスピースは洞窟のエントランスであると示す以外は、他のいずれの効果とも相互作用しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28129,6 +28145,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T085149Z" creationid="nakahodo" creationdate="20180312T085149Z">
         <seg>ゲーム終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Entrance piece only ever moves if the tile holding it collapses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T085204Z" creationid="nakahodo" creationdate="20180430T085204Z">
+        <seg>エントランスピースは、それを</seg>
       </tuv>
     </tu>
     <tu>
@@ -34618,8 +34642,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When the tile with the Entrance piece is collapsed, the player who removed the tile must move the Entrance piece to an adjacent, unoccupied Lit tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T071435Z" creationid="nakahodo" creationdate="20180430T071414Z">
-        <seg>エントランピースを保持するスペースが取り除かれる時、タイルを取り除いたプレイヤーはエントランスピースを、隣接する未占領の明らかになったタイルに移動する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T072110Z" creationid="nakahodo" creationdate="20180430T071414Z">
+        <seg>エントランピースを保持するスペースが崩壊する時、タイルを取り除いたプレイヤーはエントランスピースを、隣接する未占領の明らかになったタイルに移動する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38391,6 +38415,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T043228Z" creationid="aorin" creationdate="20171231T235024Z">
         <seg>あなたが建物の上に別の建物を建築した場合、新しい建物に示されたVP（○）のみを、キャンペーン終了時に数えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ignore it, and collapse the next eligible tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T072423Z" creationid="nakahodo" creationdate="20180430T072423Z">
+        <seg>それを無視し、次に該当するタイルが崩壊します。</seg>
       </tuv>
     </tu>
     <tu>
