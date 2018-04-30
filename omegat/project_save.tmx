@@ -8831,6 +8831,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canyon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154632Z" creationid="nakahodo" creationdate="20180430T154632Z">
+        <seg>谷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capacity</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204046Z" creationid="nakahodo" creationdate="20171224T204046Z">
@@ -11581,6 +11589,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001804Z" creationid="aorin" creationdate="20180115T001804Z">
         <seg>あなたの増強ステージ時、望むだけ増強オーダーを行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During your Replace Hand phase, you may reveal this card to keep it in your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154504Z" creationid="nakahodo" creationdate="20180430T154504Z">
+        <seg>あなたの手札の入れ替えフェイズ時、このカードを皆に見せて、手札に保持できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18039,6 +18055,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do, draw one fewer card after you discard your other cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154520Z" creationid="nakahodo" creationdate="20180430T154520Z">
+        <seg>そうした場合、他のカードを破棄した後で、通常より1枚少なくカードをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do, then draw one fewer card after discarding your other cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T111243Z" creationid="nakahodo" creationdate="20180430T111243Z">
@@ -21294,6 +21318,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move any 1 Sloth cube to your Wakefulness track, then remove this card from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154628Z" creationid="nakahodo" creationdate="20180430T154540Z">
+        <seg>任意の怠惰キューブ1つを覚醒トラックに移動させて、その後、ゲームからこのカードを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move from a Crystal tile to any unoccupied space, without spending movement.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T060657Z" creationid="nakahodo" creationdate="20180413T060657Z">
@@ -24287,6 +24319,15 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153736Z" creationid="nakahodo" creationdate="20180108T153736Z">
         <seg>皿一式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platinum Scale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154546Z" creationid="nakahodo" creationdate="20180430T154539Z">
+        <seg>Platinum Scale
+プラチナの鱗</seg>
       </tuv>
     </tu>
     <tu>
@@ -36590,6 +36631,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you place the Canyon, the Bridge space must touch a Cave tile, and you must place a Dark tile on the opposite side of the Bridge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154635Z" creationid="nakahodo" creationdate="20180430T154635Z">
+        <seg>When you place the Canyon, the Bridge space must touch a Cave tile, and you must place a Dark tile on the opposite side of the Bridge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you play an angry action, first increase your Anger by 1, then perform the listed action (Move or Turn).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T072511Z" creationid="nakahodo" creationdate="20180411T072511Z">
@@ -41548,6 +41597,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061544Z" creationid="nakahodo" creationdate="20180413T061541Z">
         <seg>“おタからダ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Reeeeeeeaeeee!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154532Z" creationid="nakahodo" creationdate="20180430T154532Z">
+        <seg>”ﾘｲｲｲｨｲｨｲｲｲ!”</seg>
       </tuv>
     </tu>
     <tu>
