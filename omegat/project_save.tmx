@@ -6803,6 +6803,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any time you overpopulate, you may remove a Goblin disc from a revealed Tribe instead of scattering a Tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143023Z" creationid="nakahodo" creationdate="20180430T142738Z">
+        <seg>あなたが人口過多を起こした時はいつでも、部族が散る代わりに、明らかにされた部族からゴブリンディスク1つを取り除くことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any warriors in your forest nation boxes are called supporters​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052722Z" creationid="aorin" creationdate="20171216T052722Z">
@@ -12274,6 +12282,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
         <seg>各ターン、プレイヤーはアクションディエスク1つ[または]2つを使用して、直ちにアクション1つを実行します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each turn, after choosing a War card but before placing Goblins, you may move 1 Goblin disc from one Tribe to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143440Z" creationid="nakahodo" creationdate="20180430T143440Z">
+        <seg>Each turn, after choosing a War card but before placing Goblins, you may move 1 Goblin disc from one Tribe to another.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20869,6 +20885,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Me have daughter’s wedding today”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143322Z" creationid="nakahodo" creationdate="20180430T143111Z">
+        <seg>オでの娘の結婚し、うん、モグモグ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander whom they hope will lead their faction to reclaim their ancient birthright.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
@@ -24653,6 +24677,15 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132926Z" creationid="aorin" creationdate="20171215T132926Z">
         <seg>デッキの準備：3か4人でプレイしている場合、連合勝利特別勝利カードとカオス勝利特別勝利カードを箱に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press Gangs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143454Z" creationid="nakahodo" creationdate="20180430T143112Z">
+        <seg>Press Gangs
+プレス・ギャング</seg>
       </tuv>
     </tu>
     <tu>
@@ -34507,6 +34540,15 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Underboss</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142746Z" creationid="nakahodo" creationdate="20180430T142736Z">
+        <seg>Underboss
+私腹王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Understanding the Forced March rule is vital to your success in Clockwork Wars.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002347Z" creationid="aorin" creationdate="20180115T002347Z">
@@ -39451,8 +39493,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your maximum Rage increases to 4.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142356Z" creationid="nakahodo" creationdate="20180430T142356Z">
-        <seg>Your maximum Rage increases to 4.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142633Z" creationid="nakahodo" creationdate="20180430T142356Z">
+        <seg>あなたの怒りの最大値が4に上昇する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40813,6 +40855,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Hurry ups!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T143239Z" creationid="nakahodo" creationdate="20180430T143033Z">
+        <seg>”はやくジろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“I didn’t come all this way to die in the dark!”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T143253Z" creationid="nakahodo" creationdate="20180413T143253Z">
@@ -41089,6 +41139,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T070854Z" creationid="nakahodo" creationdate="20180413T070854Z">
         <seg>”ｩｨｩｲｲｲｲｲﾝｨｲｲ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“YAAAHHHHH!!!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T142701Z" creationid="nakahodo" creationdate="20180430T142701Z">
+        <seg>”いいいいいぃぃぃええええい！！！”</seg>
       </tuv>
     </tu>
     <tu>
