@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp; JAVELIN</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095536Z" creationid="nakahodo" creationdate="20180430T095536Z">
+        <seg>ジャヴェリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(1) Total number of tokens on the reputation track, (2) total number of tokens on the quota chart, (3) total number of all components remaining in your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151319Z" creationid="nakahodo" creationdate="20171230T151319Z">
@@ -8337,6 +8345,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075744Z" creationid="nakahodo" creationdate="20171230T075744Z">
         <seg>キャンペーン勝利カード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CAVE BREAD, HEROIC BOOTS,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095531Z" creationid="nakahodo" creationdate="20180430T095531Z">
+        <seg>洞窟パン、ヒロイックブーツ、</seg>
       </tuv>
     </tu>
     <tu>
@@ -25042,6 +25058,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replacing these cards as a set is highly recommended but not required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095709Z" creationid="nakahodo" creationdate="20180430T095709Z">
+        <seg>これらカードを置き換えることを強く推奨しますが、必須ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request it at stonemaiergames.com/replacement-partst</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144503Z" creationid="nakahodo" creationdate="20171218T144444Z">
@@ -28052,6 +28076,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cave Bread has been adjusted so it is useful in a wider range of scenarios while also removing some confusions and ambiguities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100044Z" creationid="nakahodo" creationdate="20180430T095824Z">
+        <seg>洞窟パンは曖昧さや混乱する記述を取り除き、調整されていますので、より便利になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave Ghost</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034719Z" creationid="aorin" creationdate="20180408T034719Z">
@@ -28256,6 +28288,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T130854Z" creationid="nakahodo" creationdate="20180406T130854Z">
         <seg>（ヴァスト：クリスタルカーヴァンの2ページ）、アンブッシュタイル2枚、イベントタイル2枚、トレジャータイル2枚をボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Crystal Caverns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095615Z" creationid="nakahodo" creationdate="20180430T095615Z">
+        <seg>The Crystal Caverns.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28867,6 +28907,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120025Z" creationid="aorin" creationdate="20180115T120025Z">
         <seg>ガーディアンとスチームタンク将軍と、工作員独自ユニットは消耗の影響を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Heroic Boots have been rebalanced so that finding them early doesn’t give the Knight as big of an advantage, but they still remain more valuable than adding one cube to movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100307Z" creationid="nakahodo" creationdate="20180430T095825Z">
+        <seg>ヒロイックブーツは調整されゲーム早期では利点はないかもしれませんが、依然として移動力にキューブ1つを割り当てるよりも強力です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Javelin has been updated so it can also be thrown at a visible target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100421Z" creationid="nakahodo" creationdate="20180430T100421Z">
+        <seg>ジャヴェリンは見えている対象に投げられるようにアップデートされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32059,6 +32115,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These three cards are replacements for the same cards from Vast:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095615Z" creationid="nakahodo" creationdate="20180430T095615Z">
+        <seg>これら3枚のカードは、基本ゲームの同じカードと置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These will be revealed later.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T041837Z" creationid="nakahodo" creationdate="20171224T203814Z">
@@ -32926,6 +32990,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132135Z" creationid="nakahodo" creationdate="20180412T132135Z">
         <seg>これらルールを通して、「あなた」と称しているものは、シャドウユニコーンを指しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throwing it follows the same rules as an attack, but simply at a distance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T100510Z" creationid="nakahodo" creationdate="20180430T100510Z">
+        <seg>ジャヴェリンを投げることは攻撃と同じルールが適用され、単純に遠距離</seg>
       </tuv>
     </tu>
     <tu>
@@ -38831,6 +38903,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T023652Z" creationid="aorin" creationdate="20171229T023652Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T095710Z" creationid="nakahodo" creationdate="20180430T095710Z">
+        <seg>p2</seg>
       </tuv>
     </tu>
     <tu>
