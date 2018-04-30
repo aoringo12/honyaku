@@ -6570,6 +6570,14 @@ Blend, and any Token with Research is a vote for the team to Research.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any additional Hero cubes gained by revealing this Sidequest may be placed normally, but because you must end your turn to gain the Grit, the extra cubes will not generate additional Movement or Encounters, and cannot be used to activate any other effects of equipment or Treasure cards, even if they do not normally require an Encounter (such as the Bomb, Bow, or Potion Kit).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T092911Z" creationid="nakahodo" creationdate="20180430T092032Z">
+        <seg>このサイドクエストを公開することにより得られる追加のヒーローキューブは、通常どおり配置できますが、経験値を得るためにターンを終了しなければなりません。ですので、このターンではエンカウンターを消費しないとしても任意のトレジャーカードや装備効果を使用できませんし、追加されるキューブにより追加の移動やエンカウンターを得ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any dice on the right side of the selected row are Boost dice, which you can spend during the Move and Act phase of this turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T085502Z" creationid="aorin" creationdate="20180410T085502Z">
@@ -15039,6 +15047,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Goblins’ “Scheme”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091829Z" creationid="nakahodo" creationdate="20180430T091829Z">
+        <seg>しかし、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the Unicorn cannot attack the [Cave] Ghost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150552Z" creationid="nakahodo" creationdate="20180412T150421Z">
@@ -19499,6 +19515,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the drawn Terrain cards face-up near the map as a rules reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091644Z" creationid="nakahodo" creationdate="20180430T091644Z">
+        <seg>ドローした地形カードは、マップ近くにルールリファレンスとして置いておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep the facing of the Unicorn piece the same.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T152535Z" creationid="nakahodo" creationdate="20180412T152535Z">
@@ -22060,6 +22084,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PREPARED (SIDEQUEST)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T092031Z" creationid="nakahodo" creationdate="20180430T091905Z">
+        <seg>覚悟（サイドクエスト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROGRESS TOKEN:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145135Z" creationid="nakahodo" creationdate="20171218T145135Z">
@@ -24104,6 +24136,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promo Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091650Z" creationid="nakahodo" creationdate="20180430T091650Z">
+        <seg>プロモカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Promo Cards &amp; Bonus Variants</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T050425Z" creationid="nakahodo" creationdate="20180413T050425Z">
@@ -25690,6 +25730,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225123Z" creationid="aorin" creationdate="20180407T225123Z">
         <seg>2つ目は、他のプレイヤーはメンタルブロックを仕掛けることが出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secrets cards, the Dragon’s “Scale” Power cards, and the Thief’s Upgrade cards have some additional rules, as described later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T092009Z" creationid="nakahodo" creationdate="20180430T091844Z">
+        <seg>ゴブリンの”悪巧み”シークレットカード、ドラゴンの”鱗”パワーカード、シーフのアップグレードカードは、後に記述されるいくつかの追加ルールがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36247,6 +36295,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093944Z" creationid="nakahodo" creationdate="20180209T093930Z">
         <seg>資産はゲーム中にも獲得できますが、その多くはゲーム終了時の得点計算時に以下の３つから獲得することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add most of the included promo cards to their matching decks and use them as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T091824Z" creationid="nakahodo" creationdate="20180430T091824Z">
+        <seg>含まれている多くのプロモカードは、それに一致するデッキに追加して、通常どおり使用できます。</seg>
       </tuv>
     </tu>
     <tu>
