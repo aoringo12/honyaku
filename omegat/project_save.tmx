@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Put rock here, pull, then</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140640Z" creationid="nakahodo" creationdate="20180430T140640Z">
+        <seg>”ここに岩を置いて、ひっぱって、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Restrain our friends," he says, gesturing to you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131314Z" creationid="nakahodo" creationdate="20171230T131103Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073704Z" creationid="nakahodo" creationdate="20180413T073704Z">
         <seg>”その光がここまで堕ちるとは、誰が思ったろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"You go firstfight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T141205Z" creationid="nakahodo" creationdate="20180430T141201Z">
+        <seg>”お前が先にいけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6931,6 +6947,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As that Tribe's action, reduce the target's Strength, Armor, and Perception by 1 until the end of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140614Z" creationid="nakahodo" creationdate="20180430T140614Z">
+        <seg>その部族のアクションとして、あなたのターン終了時まで、対象の筋力、アーマー、感知力を1減少させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the party finally winds down, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T171228Z" creationid="nakahodo" creationdate="20171229T171228Z">
@@ -8862,6 +8886,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cave Mushrooms</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140901Z" creationid="nakahodo" creationdate="20180430T140726Z">
+        <seg>どうくつマッシュルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cave Rules</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050652Z" creationid="aorin" creationdate="20180408T050652Z">
@@ -9406,6 +9438,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175358Z" creationid="nakahodo" creationdate="20171218T175358Z">
         <seg>コイン、リソースは有限です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse affected tiles, and then remove this card from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140302Z" creationid="nakahodo" creationdate="20180430T140302Z">
+        <seg>影響を受けるタイルが崩壊し、その後、ゲームからこのカードを取り除く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19313,6 +19353,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of activating each Tribe once, activate one Tribe three times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140854Z" creationid="nakahodo" creationdate="20180430T140821Z">
+        <seg>各部族を1回ずつアクティブにする代わりに、1つの部族を3回アクティブにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of being able to possess an opponent, you can briefly summon the ghostly remnants of long-lost adventurers and other cavedwelling creatures to do your bidding before they disappear.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T014924Z" creationid="aorin" creationdate="20180408T014924Z">
@@ -19551,6 +19599,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T170938Z" creationid="aorin" creationdate="20171228T170938Z">
         <seg>シールは、空いた区画1つ[または]なにもトークンが配置されていない（そして基本リソース建物ではない）建物に貼り付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be used until the end of the game, and it does not count against your hand limit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140423Z" creationid="nakahodo" creationdate="20180430T140423Z">
+        <seg>これはゲーム終了時まで使用でき、手札上限にカウントされない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20792,6 +20848,15 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T153353Z" creationid="nakahodo" creationdate="20171103T153353Z">
         <seg>一方、地域の一角では誇り高きアイリーは新しい司令官を見つけ、自身らの種族が持っていた権利を取り戻そうとしていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meat!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T141240Z" creationid="nakahodo" creationdate="20180430T141215Z">
+        <seg>Meat!
+にくぅ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -22556,6 +22621,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POWTOTHEFACE!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140715Z" creationid="nakahodo" creationdate="20180430T140715Z">
+        <seg>あのツラめがけてウリャア！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PREPARED (SIDEQUEST)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T092031Z" creationid="nakahodo" creationdate="20180430T091905Z">
@@ -23234,6 +23307,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Strength disc on any unoccupied space, and place this card beside it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T141317Z" creationid="nakahodo" creationdate="20180430T141231Z">
+        <seg>任意の未占領のスペースに筋力ディスク1つを配置し、その近くにこのカードを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Treasure token on a Dark tile that does not hold a player piece or Treasure token.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050541Z" creationid="aorin" creationdate="20180408T050339Z">
@@ -23670,6 +23751,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place this card face-up near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140359Z" creationid="nakahodo" creationdate="20180430T140359Z">
+        <seg>あなたのプレイヤーボード近くにこのカードを表向きで配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place this card face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160333Z" creationid="nakahodo" creationdate="20180413T160333Z">
@@ -23990,6 +24079,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040240Z" creationid="aorin" creationdate="20180116T040240Z">
         <seg>その後は、このプレイヤーから時計回りに順番で行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play this card before activating any Tribes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140757Z" creationid="nakahodo" creationdate="20180430T140757Z">
+        <seg>いずれかの部族をアクティブにする前にこのカードをプレイする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25940,6 +26037,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll the Dragon die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140247Z" creationid="nakahodo" creationdate="20180430T140247Z">
+        <seg>ドラゴンダイスをロールする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll​ ​dice​ ​and​ ​count​ ​hits​ to both attacker and defender, who can modify hits with other effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221726Z" creationid="aorin" creationdate="20171215T221726Z">
@@ -27073,6 +27178,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slingshot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140342Z" creationid="nakahodo" creationdate="20180430T140342Z">
+        <seg>スリングショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sneak</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055505Z" creationid="nakahodo" creationdate="20180413T055505Z">
@@ -28201,6 +28314,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082837Z" creationid="aorin" creationdate="20171216T082837Z">
         <seg>地元プレイヤーを対象にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target a visible player piece within 4 spaces of a revealed Tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140503Z" creationid="nakahodo" creationdate="20180430T140503Z">
+        <seg>明らかにされた部族から4スペース内で見えているプレイヤーピース1つを対象にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33128,6 +33249,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Tribe may use an activation to Reveal even if it scattered or used Hide during a previous activation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T141139Z" creationid="nakahodo" creationdate="20180430T140822Z">
+        <seg>この部族は以前アクティブになった時に散ったりハイドを使用していたとしても、アクティブして部族を明らかにできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Woodland Alliance will seek to strengthen their presence by building hideouts and launching missions to subvert the rule of the cats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
@@ -35142,6 +35271,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T130603Z" creationid="aorin" creationdate="20180409T130603Z">
         <seg>我々は基本ゲームのオリジナルロール5つの内1つを、グールに置き換えて使用することを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We stay here in the safedark."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T141225Z" creationid="nakahodo" creationdate="20180430T141202Z">
+        <seg>俺らここにいるからよ”</seg>
       </tuv>
     </tu>
     <tu>
@@ -40782,6 +40919,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T060731Z" creationid="nakahodo" creationdate="20180413T060731Z">
         <seg>”シュッシュッシュッ！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Smashy smash!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T140335Z" creationid="nakahodo" creationdate="20180430T140335Z">
+        <seg>”粉々に粉砕する！”</seg>
       </tuv>
     </tu>
     <tu>
