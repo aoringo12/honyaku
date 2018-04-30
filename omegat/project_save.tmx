@@ -14797,6 +14797,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goblin Tribes treat Lake spaces as Lit for the purpose of movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155715Z" creationid="nakahodo" creationdate="20180430T155715Z">
+        <seg>ゴブリン部族は移動に際して湖スペースをライトタイルとして扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goblins can target him with Hex.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073301Z" creationid="nakahodo" creationdate="20180413T073301Z">
@@ -20449,6 +20457,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lake</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155504Z" creationid="nakahodo" creationdate="20180430T155504Z">
+        <seg>湖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lake &amp; Forest (blue &amp; green):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194640Z" creationid="aorin" creationdate="20180114T194640Z">
@@ -24499,6 +24515,14 @@ Research (gain abilities).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203935Z" creationid="nakahodo" creationdate="20171218T142712Z">
         <seg>プレイヤーたちは読み上げる役を交互に行うことができ、互いの指示を再確認することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players cannot end their movement on the outside spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155453Z" creationid="nakahodo" creationdate="20180430T155351Z">
+        <seg>プレイヤーたちは外側スペースで移動を終了できない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29080,6 +29104,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Bridge space is considered Lit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155048Z" creationid="nakahodo" creationdate="20180430T155048Z">
+        <seg>橋スペースはライトタイルとして扱う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave Bread has been adjusted so it is useful in a wider range of scenarios while also removing some confusions and ambiguities.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T100044Z" creationid="nakahodo" creationdate="20180430T095824Z">
@@ -29775,6 +29807,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133042Z" creationid="nakahodo" creationdate="20180406T133042Z">
         <seg>ゴーストはターン順で7番目で、ゴーストの後になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ghost may cross in the same way freely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155428Z" creationid="nakahodo" creationdate="20180430T155345Z">
+        <seg>ゴーストは自由に、同じように通り抜けられる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30703,6 +30743,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150908Z" creationid="nakahodo" creationdate="20180412T150908Z">
         <seg>シーフは殺されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thief may cross in the same way by using Climb.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155424Z" creationid="nakahodo" creationdate="20180430T155326Z">
+        <seg>シーフはクライムを使用して、同じように通り抜けられる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31822,6 +31870,14 @@ least one bean.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T195010Z" creationid="nakahodo" creationdate="20180411T195010Z">
         <seg>他の位置は周囲スペースと、テレポートする行き先を示すためにマークされたスペースになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The outside spaces are impassable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155108Z" creationid="nakahodo" creationdate="20180430T155108Z">
+        <seg>外側のスペースは移動不可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35889,6 +35945,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a Goblin Tribe enters the Lake, it immediately loses 1 Population, even if it was forced to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155552Z" creationid="nakahodo" creationdate="20180430T155552Z">
+        <seg>ゴブリン部族が湖に入る時、強制移動であっても、直ちに人口が1失われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a Plan is lost, it is put face down at the bottom
 of the Plan Deck.</seg>
       </tuv>
@@ -36633,8 +36697,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you place the Canyon, the Bridge space must touch a Cave tile, and you must place a Dark tile on the opposite side of the Bridge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180430T154635Z" creationid="nakahodo" creationdate="20180430T154635Z">
-        <seg>When you place the Canyon, the Bridge space must touch a Cave tile, and you must place a Dark tile on the opposite side of the Bridge.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155013Z" creationid="nakahodo" creationdate="20180430T154635Z">
+        <seg>あなたが谷を配置する時、橋スペースは洞窟タイルに触れている必要があり、橋の反対側にダークタイルを配置しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37589,6 +37653,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232428Z" creationid="aorin" creationdate="20180409T232428Z">
         <seg>出現している間、ドラゴンはアーマーがあなたの防御力を超える場合にのみ、あなたのスペースに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While on the surface, the Dragon may use his Wing power to pass over a single impassable space in a straight line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T155236Z" creationid="nakahodo" creationdate="20180430T155236Z">
+        <seg>ドラゴンは出現している時、ウィングパワーを使用して移動不可スペース1つを直線で通り抜けられる。</seg>
       </tuv>
     </tu>
     <tu>
