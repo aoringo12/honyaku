@@ -22038,6 +22038,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once per turn, you can spend 1 Action cube and 1 charge to target yourself or a visible player piece within 3 spaces, causing the following effect:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151210Z" creationid="nakahodo" creationdate="20180430T151210Z">
+        <seg>ターン毎に1度、あなたはアクションキューブ1つとチャージ1回分を消費し、あなた自身か3スペース以内の見えているプレイヤーピース1つを対象にして、次の効果を与えられる：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once placed, a Discovery token cannot be moved to another territory.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041227Z" creationid="aorin" creationdate="20180116T041227Z">
@@ -35488,6 +35496,15 @@ COMPONENTS</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T142420Z" creationid="nakahodo" creationdate="20180430T142355Z">
         <seg>War Banner
 闘争の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warlock's Wand  This card has 5 charges.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180430T151002Z" creationid="nakahodo" creationdate="20180430T151002Z">
+        <seg>魔法使いのワンド
+このカードは5回のチャージを持つ。</seg>
       </tuv>
     </tu>
     <tu>
