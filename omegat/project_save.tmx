@@ -8607,6 +8607,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bury your spoils and line the walls with tricksy trinkets, traps (and the occasional Goblin).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T132639Z" creationid="nakahodo" creationdate="20180524T132639Z">
+        <seg>戦利品を埋めて隠し、トリッキーな小物やトラップで壁を飾れぇ（あ、あとゴブリンも）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But that was before, and he failed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T120040Z" creationid="nakahodo" creationdate="20180412T120040Z">
@@ -10412,6 +10420,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description from the publisher:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T131522Z" creationid="nakahodo" creationdate="20180524T131522Z">
+        <seg>Description from the publisher:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designed by Jamey Stegmaie</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144444Z" creationid="nakahodo" creationdate="20171218T144444Z">
@@ -10507,6 +10523,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024856Z" creationid="aorin" creationdate="20180408T024856Z">
         <seg>難易度ヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dig deep for shiny loot and get out with whatever you can!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T131901Z" creationid="nakahodo" creationdate="20180524T131901Z">
+        <seg>光る奴をほってほって、全部持ち帰るんだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -34983,6 +35007,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200243Z" creationid="aorin" creationdate="20171231T200051Z">
         <seg>あなた自身の収入を発動する（これはあなたにだけ効果がある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trudge through your opponents' hoards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T131704Z" creationid="nakahodo" creationdate="20180524T131704Z">
+        <seg>敵の宝にノッシノッシ歩くんだ。</seg>
       </tuv>
     </tu>
     <tu>
