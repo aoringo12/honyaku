@@ -8623,6 +8623,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But get ready to slam your brain into reverse, because Ultimate Troll is unique in that cards are not played from your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T174241Z" creationid="nakahodo" creationdate="20180524T174241Z">
+        <seg>だけどちょっとまって。脳みそを柔らかくしておく必要があります。アルティメットトロールはユニークで、あなたの手札からカードはプレイされないから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But that was before, and he failed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T120040Z" creationid="nakahodo" creationdate="20180412T120040Z">
@@ -28381,6 +28389,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093917Z" creationid="aorin" creationdate="20171212T093917Z">
         <seg>窃盗フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stealing, bluffing, plotting and back-stabbing are a given.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T133710Z" creationid="nakahodo" creationdate="20180524T133710Z">
+        <seg>盗み、ブラフ、プロット、不意打ちによってゲームは構成されています。</seg>
       </tuv>
     </tu>
     <tu>
