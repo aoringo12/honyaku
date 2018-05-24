@@ -8284,6 +8284,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because when you're a Troll, there's no time for playing nice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T133012Z" creationid="nakahodo" creationdate="20180524T133012Z">
+        <seg>Because when you're a Troll, there's no time for playing nice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because you are forced to Teleport immediately after attacking, you cannot mark your tile or collect Treasures there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T110927Z" creationid="nakahodo" creationdate="20180411T091431Z">
@@ -18393,6 +18401,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T071112Z" creationid="nakahodo" creationdate="20180430T071000Z">
         <seg>後にエントランスタイルをマップに配置する場合、通常どおり、ダークイドを上にして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you like games with the same flamboyant and manic attitude as Fluxx, Smash Up or Munchkin, then it's time to get your Troll on!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T133609Z" creationid="nakahodo" creationdate="20180524T133609Z">
+        <seg> Fluxx、Smash Up、Munchkinのようなマニアックで大胆なゲームをあなたが好きな場合、トロールを手にするべきだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -35202,6 +35218,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040750Z" creationid="aorin" creationdate="20180408T040750Z">
         <seg>パワーの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ultimate Troll is a quick and chaotic party game for 2-4 Trolls looking to ruin someone's day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T133334Z" creationid="nakahodo" creationdate="20180524T133334Z">
+        <seg>アルティメットトロールはめちゃ早でマジやばな、誰かの幸福な一日をドブに放り込みたくて仕方がないトロールのための2人から4人のパーリーゲームです。</seg>
       </tuv>
     </tu>
     <tu>
