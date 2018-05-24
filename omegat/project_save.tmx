@@ -8625,8 +8625,8 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>But get ready to slam your brain into reverse, because Ultimate Troll is unique in that cards are not played from your hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180524T174241Z" creationid="nakahodo" creationdate="20180524T174241Z">
-        <seg>だけどちょっとまって。脳みそを柔らかくしておく必要があります。アルティメットトロールはユニークで、あなたの手札からカードはプレイされないから。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T174451Z" creationid="nakahodo" creationdate="20180524T174241Z">
+        <seg>だけどちょっとまって。脳みそを柔らかくしておく必要があります。アルティメットトロールはユニークで、あなたの手札からカードはプレイされないのですから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19778,6 +19778,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133856Z" creationid="aorin" creationdate="20180409T133856Z">
         <seg>代わりに、グールはターン毎にダイスをロールし、様々なアクションのために消費されるポイントを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, they are placed face down, creating a treacherous cavern of ludicrous loot and dastardly traps that your opponents will attempt to steal from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T174244Z" creationid="nakahodo" creationdate="20180524T174244Z">
+        <seg>Instead, they are placed face down, creating a treacherous cavern of ludicrous loot and dastardly traps that your opponents will attempt to steal from.</seg>
       </tuv>
     </tu>
     <tu>
