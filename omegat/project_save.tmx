@@ -19784,8 +19784,8 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       <tuv lang="EN-US">
         <seg>Instead, they are placed face down, creating a treacherous cavern of ludicrous loot and dastardly traps that your opponents will attempt to steal from.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180524T174244Z" creationid="nakahodo" creationdate="20180524T174244Z">
-        <seg>Instead, they are placed face down, creating a treacherous cavern of ludicrous loot and dastardly traps that your opponents will attempt to steal from.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T175222Z" creationid="nakahodo" creationdate="20180524T174244Z">
+        <seg>代わりに、カードは裏向きに配置され、敵から狙われるバカげた宝物と卑劣なトラップによる危険な洞窟を作り上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20179,6 +20179,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203900Z" creationid="nakahodo" creationdate="20171218T142236Z">
         <seg>チャーターストーンの最初のゲーム前に任意のルールを読む必要はありませんが、本作品の主要コンセプトを理解している人がいると、ゲーム1の流れが良くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's perfect for when you have limited time or space, or as a warmup game to an epic evening of board gaming!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T175422Z" creationid="nakahodo" creationdate="20180524T175422Z">
+        <seg>時間やスペースが限られている時や、ガッツリボードゲームを遊び倒すぜって時のウォームアップとして最適でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35242,6 +35250,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040750Z" creationid="aorin" creationdate="20180408T040750Z">
         <seg>パワーの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ultimate Troll is a great, compact game that's fast to set up and play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180524T175314Z" creationid="nakahodo" creationdate="20180524T175314Z">
+        <seg>アルティメットトロールはめっちゃヤバくてチョっぱやなセットアップとプレイのコンパクトゲームです。</seg>
       </tuv>
     </tu>
     <tu>
