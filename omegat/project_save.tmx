@@ -5777,6 +5777,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventure Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130124Z" creationid="nakahodo" creationdate="20180525T130019Z">
+        <seg>冒険フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Afew buildings were constructed in advance of your arrival.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T183303Z" creationid="nakahodo" creationdate="20171218T183303Z">
@@ -11958,6 +11966,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Hero enters the dungeon alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130449Z" creationid="nakahodo" creationdate="20180525T130449Z">
+        <seg>各ヒーローカードは1人でダンジョンに入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Hero moves to the dungeon with the most relevant Treasure icons.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T125226Z" creationid="nakahodo" creationdate="20180525T125226Z">
@@ -11978,6 +11994,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074603Z" creationid="nakahodo" creationdate="20180311T074534Z">
         <seg>各プログラムカードは出目1から6までのダイスアイコンを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Room has a damage value @ that depletes the Hero's Health value @.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130945Z" creationid="nakahodo" creationdate="20180525T130945Z">
+        <seg>各ルームカードはヒーローのヘルス値○を減少させるダメージ値○を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19233,6 +19257,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In XP order, Bosses must contend with Heroes in their dungeons!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130419Z" creationid="nakahodo" creationdate="20180525T130419Z">
+        <seg>XPの順番で、ボスたちは自身のダンジョンヒーローたちと争わなければなりません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In XP order, apply any Level Up effects and "when you build this Room" effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T124646Z" creationid="nakahodo" creationdate="20180525T124646Z">
@@ -22093,6 +22125,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110040Z" creationid="nakahodo" creationdate="20180108T110040Z">
         <seg>なにも変更しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No spells or abilities may interrupt this process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130106Z" creationid="nakahodo" creationdate="20180525T130018Z">
+        <seg>スペルや能力はこのプロセスを中断させません。</seg>
       </tuv>
     </tu>
     <tu>
