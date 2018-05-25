@@ -5785,6 +5785,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventure phase spells may be played before a Hero enters a dungeon, or while a Hero is in a Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T131848Z" creationid="nakahodo" creationdate="20180525T131848Z">
+        <seg>冒険者フェイズスペルはヒーロー1人がダンジョンに入るかルームに入る前にプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Afew buildings were constructed in advance of your arrival.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T183303Z" creationid="nakahodo" creationdate="20171218T183303Z">
@@ -6229,6 +6237,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T144705Z" creationid="nakahodo" creationdate="20171224T144705Z">
         <seg>最初の木箱が開放された後、インデックスからカード14を引き出します（このカードのシールを剥がさずにアーカイブへと入れます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the highest-XP Boss processes all Heroes, the next highest-XP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T132419Z" creationid="nakahodo" creationdate="20180525T132419Z">
+        <seg>最もXP高いボスが全てのヒーローを進行させたら、次に最もXPの高いボスがアクティブプレイヤーになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12000,8 +12016,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Each Room has a damage value @ that depletes the Hero's Health value @.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130945Z" creationid="nakahodo" creationdate="20180525T130945Z">
-        <seg>各ルームカードはヒーローのヘルス値○を減少させるダメージ値○を持ちます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T131008Z" creationid="nakahodo" creationdate="20180525T130945Z">
+        <seg>各ルームカードはヒーローカードのヘルス値○を減少させるダメージ値○を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16174,6 +16190,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Hero survives a Room, it enters the next Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T131328Z" creationid="nakahodo" creationdate="20180525T131328Z">
+        <seg>ヒーローがルームで生きている場合、次のルームカードに入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a Hideout is removed, also remove half (rounded up) of the supporters in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052810Z" creationid="aorin" creationdate="20171216T052810Z">
@@ -16788,6 +16812,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T205304Z" creationid="aorin" creationdate="20171231T205304Z">
         <seg>そのチャーターに一致した場合、2VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it survives your entire dungeon, place it face-up in your scorekeeping area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T131621Z" creationid="nakahodo" creationdate="20180525T131621Z">
+        <seg>ヒーローがあなたのダンジョン全体で生き残った場合、これを自身の得点エリアに表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22546,6 +22578,14 @@ have the chance to choose Place or Pass again.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001027Z" creationid="aorin" creationdate="20171216T001027Z">
         <seg>あなたのターンにて、あなたは法令と呼ばれる増えていく命令を使用してアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once a Hero's Health is reduced to zero, place it face-down in your scorekeeping area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T131208Z" creationid="nakahodo" creationdate="20180525T131003Z">
+        <seg>ヒーローカードのヘルスが0まで減少すると、自身の得点エリアに裏向きでこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
