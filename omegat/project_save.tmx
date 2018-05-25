@@ -9721,6 +9721,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleric= @ Fighter= # Mage= @ Thief= @</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T125404Z" creationid="nakahodo" creationdate="20180525T125404Z">
+        <seg>クレリック＝○、ファイター＝○、メイジ＝○、シーフ＝○</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clockwork Wars uses a modular board that allows for infinite replayability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194231Z" creationid="aorin" creationdate="20180114T194231Z">
@@ -11946,6 +11954,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040712Z" creationid="aorin" creationdate="20180116T040712Z">
         <seg>各ディスカバリーカードのコストは、特定分野の指定数IPとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Hero moves to the dungeon with the most relevant Treasure icons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T125226Z" creationid="nakahodo" creationdate="20180525T125226Z">
+        <seg>各ヒーローは最も関連するトレジャーアイコンを持つダンジョンに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16204,6 +16220,14 @@ Artifact enters such a Ghost tile on their own turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233255Z" creationid="aorin" creationdate="20180407T233255Z">
         <seg>憑依されていないプレイヤーが、別の憑依されていないアーティファクトを運ぶプレイヤーをゴーストタイルへと強制的に入れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a particular treasure type is tied, that Hero type stays in town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T130004Z" creationid="nakahodo" creationdate="20180525T130004Z">
+        <seg>トレジャータイプがタイの場合、そのヒーローはタウンに留まります。</seg>
       </tuv>
     </tu>
     <tu>
