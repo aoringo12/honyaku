@@ -8388,6 +8388,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beginning of TUrn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121337Z" creationid="nakahodo" creationdate="20180525T121337Z">
+        <seg>ターンを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Believed to be lost forever when Jodbar threw it twelve miles on a dare.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T123630Z" creationid="nakahodo" creationdate="20180430T123530Z">
@@ -8563,6 +8571,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054805Z" creationid="aorin" creationdate="20171216T054805Z">
         <seg>隠れ家の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121915Z" creationid="nakahodo" creationdate="20180525T121915Z">
+        <seg>建築フェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10976,6 +10992,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not reveal Epic Heroes until you've revealed all ordinary Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121615Z" creationid="nakahodo" creationdate="20180525T121615Z">
+        <seg>全ての通常ヒーローカードが公開されるまで、エピックヒーローは公開されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't open ANYTHING unless specifically instructed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
@@ -12125,6 +12149,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132743Z" creationid="aorin" creationdate="20171215T132743Z">
         <seg>各プレイヤー、3枚ドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player draws a Room card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121811Z" creationid="nakahodo" creationdate="20180525T121811Z">
+        <seg>各プレイヤーはルームカード3枚をドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19113,6 +19145,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In XP order, each player may place one Room facedown in his dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122322Z" creationid="nakahodo" creationdate="20180525T122322Z">
+        <seg>XPの順番で、各プレイヤーは自身のダンジョンにルームカード1枚を裏向きで配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a ceremony involving the Charterstone and the Gauntlets of Life and Death, the Forever King transfers his soul from his body to yours.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T215243Z" creationid="nakahodo" creationdate="20171229T215243Z">
@@ -22070,8 +22110,8 @@ they may use Leadership Council to retain it.</seg>
       <tuv lang="EN-US">
         <seg>Now you're ready to begin your first turn !</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121117Z" creationid="nakahodo" creationdate="20180525T121117Z">
-        <seg>Now you're ready to begin your first turn !</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121138Z" creationid="nakahodo" creationdate="20180525T121117Z">
+        <seg>最初のターンを始める準備ができました！</seg>
       </tuv>
     </tu>
     <tu>
@@ -26532,6 +26572,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal new Heroes every turn, even if other Heroes are still in town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121654Z" creationid="nakahodo" creationdate="20180525T121654Z">
+        <seg>他のヒーローカードがまだタウンに残っていても、ターン毎に新しいヒーローカードが公開されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal this card immediately if kept.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124914Z" creationid="nakahodo" creationdate="20180430T124826Z">
@@ -26544,6 +26592,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152848Z" creationid="nakahodo" creationdate="20180430T152751Z">
         <seg>あなたが未使用のヒーローキューブがある状態で自身のターンを終了させた時、このカードを公開する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal two Heroes (three in a three-player game, four in a four-player game) and put them in "town" (the center of the table).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121503Z" creationid="nakahodo" creationdate="20180525T121503Z">
+        <seg>プレイヤー人数と同じ枚数のヒーローカードを公開し、これらを「タウン」に配置します（テーブル中央）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29498,6 +29554,14 @@ Slate does not need to be filled.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T094856Z" creationid="nakahodo" creationdate="20171002T094856Z">
         <seg>ブレンドランクのスケールリストは可能な5つの豆によるブレンドのらランキングになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Boss with the highest XP goes first during each phase of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121328Z" creationid="nakahodo" creationdate="20180525T121328Z">
+        <seg>ゲームの各フェイズ時、最も高いXPを持つボスから始めます。</seg>
       </tuv>
     </tu>
     <tu>
