@@ -5809,6 +5809,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventure phase @, or both @.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T134650Z" creationid="nakahodo" creationdate="20180525T134650Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adventure phase spells may be played before a Hero enters a dungeon, or while a Hero is in a Room.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T131848Z" creationid="nakahodo" creationdate="20180525T131848Z">
@@ -11401,6 +11409,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During each Build and Adventure phase, players take turns {in XP order) as the active player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T135620Z" creationid="nakahodo" creationdate="20180525T135620Z">
+        <seg>各建築と冒険フェイズ時、プレイヤーたちはアクティブプレイヤーとしてターンを行います（XP順番で）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During end-game scoring for the current game only, each player includes the end-of-campaign value (〇)of buildings in their charter in their VP total.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235547Z" creationid="aorin" creationdate="20171231T235547Z">
@@ -12066,6 +12082,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080647Z" creationid="nakahodo" creationdate="20180311T080647Z">
         <seg>各行は出目1から6のセクターダイスがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Spell has an icon that indicates whether it can be played during the Build phase @,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T134635Z" creationid="nakahodo" creationdate="20180525T134556Z">
+        <seg>各スペルは建築フェイズ○、冒険フェイズ○、その両方○時にプレイできるかどうかを示すアイコンを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28583,6 +28607,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spells &amp; Timing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T133943Z" creationid="nakahodo" creationdate="20180525T133943Z">
+        <seg>スペルとタイミング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend 1 movement to collect a Treasure or Gem, or spend 2 movement to collect a Gem without rolling.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061330Z" creationid="nakahodo" creationdate="20180413T061330Z">
@@ -39123,6 +39155,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can play any number of Spells per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T134159Z" creationid="nakahodo" creationdate="20180525T134159Z">
+        <seg>あなたはターン毎に任意の回数スペルをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can purchase more than 1 Discovery/General during this stage;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040429Z" creationid="aorin" creationdate="20180116T040429Z">
@@ -39863,6 +39903,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235504Z" creationid="aorin" creationdate="20180114T235504Z">
         <seg>あなたがユニットを展開できる地形は……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only draw a Spell when a card specifically tells you to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T134251Z" creationid="nakahodo" creationdate="20180525T134251Z">
+        <seg>あなたはカードに支持された場合にのみ、スペル1枚をドローできます。</seg>
       </tuv>
     </tu>
     <tu>
