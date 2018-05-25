@@ -22915,6 +22915,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once players are familiar with the cards, a two player game will typically take 20-30 minutes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T151726Z" creationid="nakahodo" creationdate="20180525T151726Z">
+        <seg>プレイヤーたちがこのゲームに慣れてきたら、2プレイヤーゲームで大体20～30分かかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the Blend is complete, each player places a Blend Marker
 of his color onto the Slate.</seg>
       </tuv>
@@ -32275,6 +32283,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T123406Z" creationid="nakahodo" creationdate="20180525T122826Z">
         <seg>あなたが最初に五枚の有効ルームカードを所持すると、ボスカードのレベルアップアビリティを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first time you play, allow yourself at least 45 minutes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T145101Z" creationid="nakahodo" creationdate="20180525T145101Z">
+        <seg>あなたが初めてこのゲームをプレイする時、少なくとも45分のプレイ時間が必要です。</seg>
       </tuv>
     </tu>
     <tu>
