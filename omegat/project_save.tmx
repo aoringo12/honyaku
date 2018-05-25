@@ -8575,6 +8575,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boss becomes the active player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T132443Z" creationid="nakahodo" creationdate="20180525T132443Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both Charles and Ada lose their 2 Soldiers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072507Z" creationid="aorin" creationdate="20180115T072507Z">
@@ -12858,6 +12866,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072253Z" creationid="nakahodo" creationdate="20180311T072253Z">
         <seg>ラウンドの終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of Turn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T132537Z" creationid="nakahodo" creationdate="20180525T132537Z">
+        <seg>ターンの終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -26025,6 +26041,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reactivate any deactivated Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T132956Z" creationid="nakahodo" creationdate="20180525T132956Z">
+        <seg>アクティブ済ルームを再アクティブ化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read this and affix it to the Chronicle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T005057Z" creationid="aorin" creationdate="20171229T003249Z">
@@ -29624,6 +29648,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151432Z" creationid="nakahodo" creationdate="20180108T151432Z">
         <seg>アクションフェイズが20秒少なくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Adventure phase does not end until each player has had a chance to act.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T132531Z" creationid="nakahodo" creationdate="20180525T132531Z">
+        <seg>冒険フェイズは各プレイヤーが行動の機会を持つまで終了します。</seg>
       </tuv>
     </tu>
     <tu>
