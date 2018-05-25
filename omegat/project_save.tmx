@@ -5737,6 +5737,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Rooms can only be played on a Room with a matching Treasure icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122604Z" creationid="nakahodo" creationdate="20180525T122604Z">
+        <seg>強化済ルームカードは、トレジャーアイコンに一致するルームカードの上にのみ、配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advancement Mat &amp; Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T151042Z" creationid="nakahodo" creationdate="20171218T151042Z">
@@ -22966,6 +22974,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinary Rooms can be placed to the left of your left-most Room, or on top of any Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122447Z" creationid="nakahodo" creationdate="20180525T122447Z">
+        <seg>通常ルームカードは自身の最も左のルームカードの左か、任意のルームカードの上に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orienne has 4 Gold in total.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063149Z" creationid="aorin" creationdate="20171213T063149Z">
@@ -31846,6 +31862,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first time you have five visible Rooms, use the Level Up ability on your Boss card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122826Z" creationid="nakahodo" creationdate="20180525T122826Z">
+        <seg>The first time you have five visible Rooms, use the Level Up ability on your Boss card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first token each game is put on the space showing the player count.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T211354Z" creationid="aorin" creationdate="20171219T103559Z">
@@ -40618,6 +40642,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015347Z" creationid="aorin" creationdate="20171229T015251Z">
         <seg>最初に村についてから、あなたとあなたの仲間たちは一緒に行動してきましたが、あなたは、絶対に知っているはずのない仕事に集中していました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your dungeon can contain a maximum of five visible Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122641Z" creationid="nakahodo" creationdate="20180525T122641Z">
+        <seg>あなたのダンジョンには最大5枚のルームカードを含めることができます。</seg>
       </tuv>
     </tu>
     <tu>
