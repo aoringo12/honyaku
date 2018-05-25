@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For tiebreaker rules, see page 16 of the Rulebook.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T133934Z" creationid="nakahodo" creationdate="20180525T133934Z">
+        <seg>（タイブレイクルールはルールブックのp16を参照）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
@@ -5415,6 +5423,22 @@ Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player with 10 Soul icons @wins the game!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T133041Z" creationid="nakahodo" creationdate="20180525T133041Z">
+        <seg>ソウルアイコン○10個持つプレイヤーがゲームに勝利します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A player with 5 Wound icons • loses the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T133059Z" creationid="nakahodo" creationdate="20180525T133059Z">
+        <seg>負傷アイコン○5つ持つプレイヤーはゲームに敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A player “wins” a battle only if he is the sole player with the highest Army Strength;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T071307Z" creationid="aorin" creationdate="20180115T071307Z">
@@ -9419,6 +9443,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035510Z" creationid="aorin" creationdate="20180408T035510Z">
         <seg>過去の略奪品の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check each player's scorekeeping area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T133009Z" creationid="nakahodo" creationdate="20180525T133009Z">
+        <seg>各プレイヤーの得点エリアを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20692,6 +20724,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T152328Z" creationid="nakahodo" creationdate="20171224T152328Z">
         <seg>それを表向きで保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep playing until a player has 10 Souls, or only one player is still in the game!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T133432Z" creationid="nakahodo" creationdate="20180525T133432Z">
+        <seg>プレイヤー1人がソウル10個持つかプレイヤー1人のみがゲームに残るまで、プレイし続けます！</seg>
       </tuv>
     </tu>
     <tu>
