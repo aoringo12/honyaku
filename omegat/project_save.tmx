@@ -5871,6 +5871,14 @@ Blend Slate is full.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all, any self-respecting Boss can de­fend himself from puny adventurers!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T105842Z" creationid="nakahodo" creationdate="20180525T105842Z">
+        <seg>結局のところ、自己愛溢れるボスは脆弱な冒険者から自身を守ることができます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After any Favor Cogs have been earned, discard your unused Program Card and return all of your Robotanists from the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T084143Z" creationid="nakahodo" creationdate="20180312T084143Z">
@@ -19567,8 +19575,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>In your first games, you'll probably find Heroes easy to destroy and rarely be at risk of death by Wounds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104825Z" creationid="nakahodo" creationdate="20180525T104825Z">
-        <seg>In your first games, you'll probably find Heroes easy to destroy and rarely be at risk of death by Wounds.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T105652Z" creationid="nakahodo" creationdate="20180525T104825Z">
+        <seg>はじめてのゲームでは、あなたはおそらく倒すためのヒーローたちを簡単に見つけ、まれに負傷による死の危険にさらされるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32826,6 +32834,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031235Z" creationid="aorin" creationdate="20171212T031208Z">
         <seg>基本ルールはミントワークスのソリティアモードにも適応される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The strategic heart of Boss Monster is about racing to see who can amass the most Souls;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T110009Z" creationid="nakahodo" creationdate="20180525T110009Z">
+        <seg>ボスモンスターのストラテジックハートは最もソウルを集めるのは誰かを競うレースです。</seg>
       </tuv>
     </tu>
     <tu>
