@@ -12862,6 +12862,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every turn is a chance to "steal" Heroes from other players, and a clever Boss Monster can indirectly kill a greedy opponent or build combos that snatch victory from the jaws of defeat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T112156Z" creationid="nakahodo" creationdate="20180525T112156Z">
+        <seg>全てのターンは他プレイヤーからヒーローたちを「盗む」チャンスであり、賢いボスモンスターは間接的に強欲な対戦相手を殺すか逆転勝利をするコンボを構築するチャンスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everybody makes an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112547Z" creationid="aorin" creationdate="20171212T112547Z">
@@ -41503,6 +41511,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110546Z" creationid="aorin" creationdate="20171212T110546Z">
         <seg>あなたはペナルティポイント5を受け取り、このアクションフェイズではこれ以上のアクションができなくなります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you'll find your rival Bosses are the real threat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T110136Z" creationid="nakahodo" creationdate="20180525T110136Z">
+        <seg>あなたの本当の脅威はライバルのボスたちであることがわかるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
