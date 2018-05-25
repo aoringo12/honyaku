@@ -22573,6 +22573,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Object Of the Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T151729Z" creationid="nakahodo" creationdate="20180525T151729Z">
+        <seg>ゲームの目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object Of the game</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T114614Z" creationid="nakahodo" creationdate="20180525T114614Z">
