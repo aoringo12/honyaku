@@ -5737,6 +5737,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Rooms can</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T123433Z" creationid="nakahodo" creationdate="20180525T123356Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Rooms can only be played on a Room with a matching Treasure icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T122604Z" creationid="nakahodo" creationdate="20180525T122604Z">
@@ -7581,6 +7589,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the Build phase, simultaneously reveal (see Rulebook pg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T123840Z" creationid="nakahodo" creationdate="20180525T123840Z">
+        <seg>建築フェイズ終了にて、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the Reward phase, when all promotion steps are performed, the player performs an additional free promotion step, even if they did not offer the Food that was requested by the Queen.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133449Z" creationid="nakahodo" creationdate="20171213T133449Z">
@@ -8619,6 +8635,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093529Z" creationid="nakahodo" creationdate="20180209T093529Z">
         <seg>４種の建造物すべてを建設する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build phase spells may be played at any point only be built over a before Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T123700Z" creationid="nakahodo" creationdate="20180525T123700Z">
+        <seg>建築フェイズスペルはルームを建築する前にのみ、任意のタイミングでプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31864,8 +31888,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The first time you have five visible Rooms, use the Level Up ability on your Boss card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122826Z" creationid="nakahodo" creationdate="20180525T122826Z">
-        <seg>The first time you have five visible Rooms, use the Level Up ability on your Boss card.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T123406Z" creationid="nakahodo" creationdate="20180525T122826Z">
+        <seg>あなたが最初に五枚の有効ルームカードを所持すると、ボスカードのレベルアップアビリティを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40648,8 +40672,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your dungeon can contain a maximum of five visible Rooms.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T122641Z" creationid="nakahodo" creationdate="20180525T122641Z">
-        <seg>あなたのダンジョンには最大5枚のルームカードを含めることができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T123401Z" creationid="nakahodo" creationdate="20180525T122641Z">
+        <seg>あなたのダンジョンには最大5枚の有効ルームカードを含めることができます。</seg>
       </tuv>
     </tu>
     <tu>
