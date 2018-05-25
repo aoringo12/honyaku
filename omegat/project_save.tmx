@@ -18799,6 +18799,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're a more competitive player, don't be deceived by Boss Monster's simple mechanics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104824Z" creationid="nakahodo" creationdate="20180525T104824Z">
+        <seg>あなたがよりゲーマーなら、ボスモンスターのシンプルなメカニクスに騙されてはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you're new to this sort of card game, no worries.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T104130Z" creationid="nakahodo" creationdate="20180525T103755Z">
@@ -19553,6 +19561,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T234843Z" creationid="aorin" creationdate="20180407T234843Z">
         <seg>ゴブリン全体で3つではなく、1つのアーティファクトのみを運びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In your first games, you'll probably find Heroes easy to destroy and rarely be at risk of death by Wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104825Z" creationid="nakahodo" creationdate="20180525T104825Z">
+        <seg>In your first games, you'll probably find Heroes easy to destroy and rarely be at risk of death by Wounds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40071,6 +40087,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173441Z" creationid="aorin" creationdate="20171212T173402Z">
         <seg>あなたはもはや、存在してはならない無価値の妖精だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'll be killing adventurers in no time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104451Z" creationid="nakahodo" creationdate="20180525T104451Z">
+        <seg>あなたが冒険者たちを屠るのにさして時間はかからないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
