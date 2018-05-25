@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(see Rulebook pg. 12)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T124745Z" creationid="nakahodo" creationdate="20180525T124745Z">
+        <seg>（ルールブックp12を参照）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(shortening the game).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011056Z" creationid="aorin" creationdate="20171229T011056Z">
@@ -5745,6 +5753,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Rooms can only be built over a Room with a matching treasure icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T124732Z" creationid="nakahodo" creationdate="20180525T124732Z">
+        <seg>強化済ルームカードは、トレジャーアイコンに一致するルームカードにのみ建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Rooms can only be played on a Room with a matching Treasure icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T122604Z" creationid="nakahodo" creationdate="20180525T122604Z">
@@ -7597,6 +7613,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the Build phase, simultaneously reveal (see Rulebook pg. 12) all face-down Room cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T124222Z" creationid="nakahodo" creationdate="20180525T124222Z">
+        <seg>建築フェイズ終了にて、同時に裏向きのルームカードを全て公開します（ルールブックp12を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the Reward phase, when all promotion steps are performed, the player performs an additional free promotion step, even if they did not offer the Food that was requested by the Queen.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133449Z" creationid="nakahodo" creationdate="20171213T133449Z">
@@ -8229,6 +8253,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T064744Z" creationid="nakahodo" creationdate="20180413T064744Z">
         <seg>不意打ちはシーフが消費するアクションキューブ1つごとに、グールの次ターンの移動力を1減少させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bait Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T125152Z" creationid="nakahodo" creationdate="20180525T125152Z">
+        <seg>誘導フェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19173,6 +19205,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T093652Z" creationid="nakahodo" creationdate="20171001T093652Z">
         <seg>ターン順番にて、プレイヤーたちは自身のフィールド研究者ポーンをワールドマップと豆の収集に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In XP order, apply any Level Up effects and "when you build this Room" effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T124646Z" creationid="nakahodo" creationdate="20180525T124646Z">
+        <seg>XP順番に、任意のレベルアップ効果と「あなたがこのルームを建築した時」効果を適応します。</seg>
       </tuv>
     </tu>
     <tu>
