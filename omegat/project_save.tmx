@@ -18309,6 +18309,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have ever spent hours navigating the pixelated perils of 8-bit dungeons, Boss Monster is designed for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104024Z" creationid="nakahodo" creationdate="20180525T103754Z">
+        <seg>ピクセル化された危険な8ビットダンジョンで何時間も費やしたあなたのために、このゲームはデザインされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have more available &lt;sword&gt; than that player’s local warriors, take a random card from that player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083002Z" creationid="aorin" creationdate="20171216T083002Z">
@@ -18787,6 +18795,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235819Z" creationid="aorin" creationdate="20171231T235819Z">
         <seg>このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）を含めたくない場合は、木箱Dを開ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're new to this sort of card game, no worries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104130Z" creationid="nakahodo" creationdate="20180525T103755Z">
+        <seg>あなたがこのタイプのカードゲームに慣れていなくても問題ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24623,6 +24639,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Played casually, Boss Monster is a simple game that's about building Rooms, luring in Heroes, and counting up how much damage it takes to destroy them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104309Z" creationid="nakahodo" creationdate="20180525T104309Z">
+        <seg>ボスモンスターはルームを建築し、ヒーローたちを誘導し、彼らを撃破するためのダメージを数えるシンプルなゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player Scaling</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
@@ -25653,6 +25677,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000758Z" creationid="nakahodo" creationdate="20171224T223141Z">
         <seg>全てのプレイヤーたちへと、このカードを読み上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read through the "Quick Start Guide" insert, check out the tutorial videos at brotherwisegames.com, and refer to the rulebook when you have questions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T104424Z" creationid="nakahodo" creationdate="20180525T104424Z">
+        <seg>まずは本作の箱に含まれる「クイックスタートガイド」を読み通し、brotherwisegames.comのビデオチュートリアルを確認し、疑問が出たらルールブックを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36154,6 +36186,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to Boss Monster™, the card game that gives you the chance to become the ultimate villain:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T103743Z" creationid="nakahodo" creationdate="20180525T103743Z">
+        <seg>横スクロールのヴィデオゲームスタイルの究極の悪役ボスになれるチャンスをあなたに与えるカードゲーム「ボスモンスター」へようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to Charterstone.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203604Z" creationid="nakahodo" creationdate="20171218T140653Z">
@@ -41099,6 +41139,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the boss of a videogame-style side-scrolling dungeon!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T103747Z" creationid="nakahodo" creationdate="20180525T103747Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the text on it will be explained later), then open it to reveal these components:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025418Z" creationid="nakahodo" creationdate="20171224T131118Z">
@@ -41343,6 +41391,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234235Z" creationid="aorin" creationdate="20171231T234235Z">
         <seg>建物は、ボードにある全ての他建物と同じように、正位置（つまり、重力的に上下正しく）である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>we1c0Me to the Dungeon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T103429Z" creationid="nakahodo" creationdate="20180525T103410Z">
+        <seg>ダンジョンへようこそ</seg>
       </tuv>
     </tu>
     <tu>
