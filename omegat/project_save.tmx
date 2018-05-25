@@ -15594,6 +15594,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to Play Boss Monster™ is the fast-paced card game of strategic dungeon building!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T112446Z" creationid="nakahodo" creationdate="20180525T112446Z">
+        <seg>How to Play Boss Monster™ is the fast-paced card game of strategic dungeon building!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to Win</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T130443Z" creationid="nakahodo" creationdate="20180406T130443Z">
@@ -29121,6 +29129,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for becoming a part of the Boss Monster community, and happy hero hunting!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T112443Z" creationid="nakahodo" creationdate="20180525T112443Z">
+        <seg>ボスモンスターのコミュニティの一員になってくれてありがとうございます。楽しいヒーローハンティングを！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That Pixie remains there until all players have performed all promotion steps.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
@@ -37972,6 +37988,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212249Z" creationid="aorin" creationdate="20171215T212249Z">
         <seg>改良をクラフトする時、テキストを解決し、そのあと次を行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether you're a casual or hardcore player, we hope you have fun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T112328Z" creationid="nakahodo" creationdate="20180525T112328Z">
+        <seg>私達はカジュアルプレイヤーもハードコアプレイヤーも楽しんでもらえるよう望んでいます。</seg>
       </tuv>
     </tu>
     <tu>
