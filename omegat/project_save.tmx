@@ -9426,6 +9426,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose one ordinary Room and place it face-down next to your Boss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115412Z" creationid="nakahodo" creationdate="20180525T115412Z">
+        <seg>Choose one ordinary Room and place it face-down next to your Boss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one player in the clearing of battle to be the defender​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221050Z" creationid="aorin" creationdate="20171215T221050Z">
