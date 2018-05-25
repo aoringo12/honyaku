@@ -16570,6 +16570,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If another player declares a spell or ability, the active player may respond with any number of Spells or abilities before the non-active player's effect resolves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T140018Z" creationid="nakahodo" creationdate="20180525T140018Z">
+        <seg>他のプレイヤーがスペルや効果を宣言した場合、アクティブプレイヤーは非アクティブプレイヤーの効果を解決する前に任意の数のスペルや能力で反応することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If another player has the victory condition of killing the Dragon, then when the Unicorn attacks the Dragon, he discards 2 Power cards instead of losing Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T160811Z" creationid="nakahodo" creationdate="20180412T160736Z">
