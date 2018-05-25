@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(see Rulebaak pg. 7)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T141147Z" creationid="nakahodo" creationdate="20180525T141147Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(see Rulebook pg. 12)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T124745Z" creationid="nakahodo" creationdate="20180525T124745Z">
@@ -37150,8 +37158,8 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       <tuv lang="EN-US">
         <seg>When playing Spells, the active player always has priority.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T140525Z" creationid="nakahodo" creationdate="20180525T140525Z">
-        <seg>スペルをプレイする時、アクティブプレイヤーに常に優先権があります（ルールブックp7参照）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T141138Z" creationid="nakahodo" creationdate="20180525T140525Z">
+        <seg>スペルをプレイする時、アクティブプレイヤーに常に優先権があります（ルールブックp7を参照）。</seg>
       </tuv>
     </tu>
     <tu>
