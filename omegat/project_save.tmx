@@ -5705,6 +5705,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the Hero deck to match your game type:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T114816Z" creationid="nakahodo" creationdate="20180525T114816Z">
+        <seg>今回遊ぶゲームタイプに合わせてヒーローデッキを調整します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
@@ -8575,6 +8583,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build a dungeon out of Room cards to attract and destroy Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T114709Z" creationid="nakahodo" creationdate="20180525T114709Z">
+        <seg>ヒーローたちを誘導してケキはするためにルームカードによるダンジョンを構築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build all 4 structures</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093529Z" creationid="nakahodo" creationdate="20180209T093529Z">
@@ -11072,6 +11088,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw five Room cards and two Spell cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115411Z" creationid="nakahodo" creationdate="20180525T115411Z">
+        <seg>ルームカード5枚、スペルカード2枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of cards, and set them aside.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
@@ -12558,6 +12582,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Earn ten Souls and you win, but get five Wounds and you lose!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T114745Z" creationid="nakahodo" creationdate="20180525T114745Z">
+        <seg>ソウル10個を獲得すればあなたは勝利しますが、負傷5つを受け取ると敗北してしまいます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Easy:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082616Z" creationid="aorin" creationdate="20180409T082616Z">
@@ -13638,6 +13670,30 @@ Bold Blend of white beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204748Z" creationid="nakahodo" creationdate="20171218T145912Z">
         <seg>rゲーム1でのみ、各プレイヤーは＄4から始まります。r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a four-player game, use all Hero cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115030Z" creationid="nakahodo" creationdate="20180525T115030Z">
+        <seg>4プレイヤーゲームでは、全てのヒーローカードを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a three-player game, remove all Heroes with the @ icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115105Z" creationid="nakahodo" creationdate="20180525T115105Z">
+        <seg>3プレイヤーゲームでは、○アイコンを持つヒーローカード全てを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a two-player game, remove @ and @ Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115121Z" creationid="nakahodo" creationdate="20180525T115121Z">
+        <seg>2プレイヤーゲームでは、○と○のヒーローカードを全て取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22108,6 +22164,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Object Of the game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T114614Z" creationid="nakahodo" creationdate="20180525T114614Z">
+        <seg>ゲームの目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Objective</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152850Z" creationid="nakahodo" creationdate="20180108T152850Z">
@@ -25552,6 +25616,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quick start Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T114613Z" creationid="nakahodo" creationdate="20180525T114613Z">
+        <seg>クイックスタートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quota Track</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T095907Z" creationid="aorin" creationdate="20171219T095907Z">
@@ -25677,6 +25749,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T154247Z" creationid="nakahodo" creationdate="20180412T154247Z">
         <seg>暴走は任意のアクションで引き起こされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Randomly deal each player one Boss card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115151Z" creationid="nakahodo" creationdate="20180525T115151Z">
+        <seg>各プレイヤーにランダムに1枚ボスカードを配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27559,6 +27639,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090313Z" creationid="nakahodo" creationdate="20170924T090313Z">
         <seg>ブレンドスレートを3枚ドローし、ワールドマップ上部スペースを満たすように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle all decks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T114755Z" creationid="nakahodo" creationdate="20180525T114755Z">
+        <seg>デッキをそれぞれ全てシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
