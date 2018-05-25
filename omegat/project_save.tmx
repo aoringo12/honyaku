@@ -7157,6 +7157,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a Boss Monster, your goal is to lure hapless adventurers into your dungeon and consume their Souls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T141942Z" creationid="nakahodo" creationdate="20180525T141234Z">
+        <seg>ボスモンスターとしてあなたの目標は哀れな冒険者を自身のダンジョンに誘い込み、彼らのソウルを集めることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a group, decide the name of the village and write it on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000720Z" creationid="aorin" creationdate="20171229T000720Z">
@@ -8803,6 +8811,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T132639Z" creationid="nakahodo" creationdate="20180524T132639Z">
         <seg>戦利品を埋めて隠し、トリッキーな小物やトラップで壁を飾れぇ（あ、あとゴブリンも）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But beware!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T141948Z" creationid="nakahodo" creationdate="20180525T141948Z">
+        <seg>けれども注意してください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -15900,8 +15916,9 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>How to Play Boss Monster™ is the fast-paced card game of strategic dungeon building!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T112446Z" creationid="nakahodo" creationdate="20180525T112446Z">
-        <seg>How to Play Boss Monster™ is the fast-paced card game of strategic dungeon building!</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T141818Z" creationid="nakahodo" creationdate="20180525T112446Z">
+        <seg>プレイ方法
+ボスモンスターは戦略的なダンジョン構築のテンポの早いカードゲームです！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40970,6 +40987,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T123401Z" creationid="nakahodo" creationdate="20180525T122641Z">
         <seg>あなたのダンジョンには最大5枚の有効ルームカードを含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your dungeon must be as deadly as it is enticing, or the puny heroes can actually survive long enough to wound you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T143502Z" creationid="nakahodo" creationdate="20180525T143502Z">
+        <seg>あなたのダンジョンは魅力的であるほど致命的であるか、取るに足らないヒーローがあなたを傷つけるほど長く生き残れないようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
