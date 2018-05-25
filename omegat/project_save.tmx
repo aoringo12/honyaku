@@ -9428,8 +9428,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose one ordinary Room and place it face-down next to your Boss.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T120820Z" creationid="nakahodo" creationdate="20180525T115412Z">
-        <seg>通常ルーム1枚を選択し、ボスカードの横に裏向きで配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T120847Z" creationid="nakahodo" creationdate="20180525T115412Z">
+        <seg>通常ルーム1枚を選択し、ボスカードの横に裏向きでこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22068,6 +22068,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now you're ready to begin your first turn !</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121117Z" creationid="nakahodo" creationdate="20180525T121117Z">
+        <seg>Now you're ready to begin your first turn !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, Jules has the advantage:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072351Z" creationid="aorin" creationdate="20180115T072351Z">
@@ -22438,6 +22446,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210453Z" creationid="aorin" creationdate="20180114T210453Z">
         <seg>プレイヤー全員がそれを終えると、自身のオーダーを公開し、その後、マップにユニットを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once all players have placed, simultaneously reveal ("build") Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T121121Z" creationid="nakahodo" creationdate="20180525T121108Z">
+        <seg>プレイヤー全員がルームカードを配置したら、同時に（建築された）ルームを公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25763,8 +25779,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Randomly deal each player one Boss card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180525T115151Z" creationid="nakahodo" creationdate="20180525T115151Z">
-        <seg>各プレイヤーにランダムに1枚ボスカードを配ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T120838Z" creationid="nakahodo" creationdate="20180525T115151Z">
+        <seg>各プレイヤーにランダムに1枚ボスカードを配ります。配られたカードは自身の前に配置します。</seg>
       </tuv>
     </tu>
     <tu>
