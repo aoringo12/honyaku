@@ -6345,6 +6345,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you declare a Spell, if nothing interrupts you, resolve it and place your card in the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T140455Z" creationid="nakahodo" creationdate="20180525T140455Z">
+        <seg>あなたがスペルを宣言した後、割り込みがない場合、効果を解決して捨て札山にカードを捨てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you ha e resolved your Program Card, place it in a deSignated discard pile next to the Program Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075341Z" creationid="nakahodo" creationdate="20180311T075341Z">
@@ -37136,6 +37144,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152306Z" creationid="nakahodo" creationdate="20171230T152306Z">
         <seg>配置する時、オートマのミニオンは効果を得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing Spells, the active player always has priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180525T140525Z" creationid="nakahodo" creationdate="20180525T140525Z">
+        <seg>スペルをプレイする時、アクティブプレイヤーに常に優先権があります（ルールブックp7参照）。</seg>
       </tuv>
     </tu>
     <tu>
