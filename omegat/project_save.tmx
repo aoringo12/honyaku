@@ -5132,6 +5132,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Room's treasure value determines what type of Heroes it attracts, while its damage determines its ability to destroy Heroes (by depleting their Health).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102751Z" creationid="aorin" creationdate="20180526T102751Z">
+        <seg>ルームのトレジャー値は惹きつけられるヒーローたちの種類を決定し、ヒーローたちを打ち倒すための能力によってダメージが決定されます（ヒーローたちのヘルスが減少します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battle has four steps:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221326Z" creationid="aorin" creationdate="20171215T221314Z">
