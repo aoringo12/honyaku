@@ -5608,6 +5608,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A. Boss Icon:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104258Z" creationid="aorin" creationdate="20180526T104258Z">
+        <seg>A.	ボスアイコン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222954Z" creationid="nakahodo" creationdate="20171224T222954Z">
@@ -8341,6 +8349,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T082731Z" creationid="nakahodo" creationdate="20171211T082731Z">
         <seg>•スタートプレイヤー以外、全てのプレイヤーはハニーポットを2つ受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B. Boss Ability:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104329Z" creationid="aorin" creationdate="20180526T104329Z">
+        <seg>B.	ボスアビリティ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12171,6 +12187,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105942Z" creationid="nakahodo" creationdate="20180108T105942Z">
         <seg>各オートマはなにも得点しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Boss card has a powerful "Level Up" ability, which triggers at the end of the Build Phase when your dungeon first reaches five visible Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104440Z" creationid="aorin" creationdate="20180526T104440Z">
+        <seg>各ボスカードは強力な「レベルアップ」能力を持っていて、自身のダンジョンの有効ルームが5つに到達したとき、建築フェイズの終了時に発動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35083,6 +35107,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
         <seg>これは、このアクションが再び利用可能になることを意味するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This icon indicates that this is a Boss card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104320Z" creationid="aorin" creationdate="20180526T104320Z">
+        <seg>このアイコンは、これがボスカードであることを表します。</seg>
       </tuv>
     </tu>
     <tu>
