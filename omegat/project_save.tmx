@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(I A player loses if he ends a turn with 5 Wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102052Z" creationid="aorin" creationdate="20180526T102052Z">
+        <seg>○　プレイヤーは負傷5つを持ちターンを終了したら敗北します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(IMPORTANT):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T084902Z" creationid="nakahodo" creationdate="20180312T084902Z">
@@ -5540,6 +5548,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112457Z" creationid="nakahodo" creationdate="20171001T112457Z">
         <seg>チームのアクションは多数決によって決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A turn is not complete until all players have had a chance to act.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102108Z" creationid="aorin" creationdate="20180526T102108Z">
+        <seg>ターンはすべてのプレイヤーが行動の機会を持つまで完了されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14877,6 +14893,15 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game play at a Glance The heart of Boss Monster is dungeon building! Your Boss card (1) sits at the right end of a side-scrolling dungeon, and each turn you can strengthen and refine it with Rooms (2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102433Z" creationid="aorin" creationdate="20180526T102223Z">
+        <seg>ゲームプレイの概略
+ボスモンスターの心臓はダンジョンを建築します！　あなたのボスカード（1）は横スクロールダンジョンの右端に配置され、各ターンあなたはルーム（2）を補強したり洗練させていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game round</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093900Z" creationid="aorin" creationdate="20171212T093900Z">
@@ -19946,6 +19971,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T223641Z" creationid="aorin" creationdate="20180114T223641Z">
         <seg>展開フェイズにてあなたは、マップの地域または法廷にどれだけのワーカーを割り当てたいかを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of a tie, refer to the tiebreaker rules (see p. 16).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102131Z" creationid="aorin" creationdate="20180526T102131Z">
+        <seg>タイの場合、タイブレーカールールを参照してください（p16参照）。</seg>
       </tuv>
     </tu>
     <tu>
