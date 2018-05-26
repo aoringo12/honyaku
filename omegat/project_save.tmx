@@ -5051,6 +5051,14 @@ Bean Kicker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Boss card's treasure icon adds to its dungeon's total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104628Z" creationid="aorin" creationdate="20180526T104628Z">
+        <seg>ボスカードのトレジャーアイコンは、ダンジョンの合計トレジャー値に追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Devastating Loss</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T134109Z" creationid="nakahodo" creationdate="20171230T134109Z">
@@ -8976,6 +8984,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C. XP:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104500Z" creationid="aorin" creationdate="20180526T104500Z">
+        <seg>C.	XP：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAMPAIGN VICTORY CARDS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075744Z" creationid="nakahodo" creationdate="20171230T075744Z">
@@ -10516,6 +10532,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D. Treasure:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104608Z" creationid="aorin" creationdate="20180526T104608Z">
+        <seg>D.	トレジャー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DECISION:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015449Z" creationid="aorin" creationdate="20171229T015449Z">
@@ -11578,6 +11602,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During each phase, players act "in XP order."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104521Z" creationid="aorin" creationdate="20180526T104521Z">
+        <seg>各フェイズ時、プレイヤーたちは「XPの順番で」行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During end-game scoring for the current game only, each player includes the end-of-campaign value (〇)of buildings in their charter in their VP total.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235547Z" creationid="aorin" creationdate="20171231T235547Z">
@@ -12193,8 +12225,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Each Boss card has a powerful "Level Up" ability, which triggers at the end of the Build Phase when your dungeon first reaches five visible Rooms.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180526T104440Z" creationid="aorin" creationdate="20180526T104440Z">
-        <seg>各ボスカードは強力な「レベルアップ」能力を持っていて、自身のダンジョンの有効ルームが5つに到達したとき、建築フェイズの終了時に発動します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104454Z" creationid="aorin" creationdate="20180526T104440Z">
+        <seg>各ボスカードは強力な「レベルアップ」能力を持っていて、自身のダンジョンの有効ルームが5つに始めて到達したとき、建築フェイズの終了時に発動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32674,6 +32706,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The highest-XP player goes first, followed by the second highest, and so on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104559Z" creationid="aorin" creationdate="20180526T104559Z">
+        <seg>最もXPの高いプレイヤーから行動し、次に高いプレイヤーへ、と手番が進行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
@@ -41109,6 +41149,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205313Z" creationid="nakahodo" creationdate="20171218T153335Z">
         <seg>あなたは、村の運営を円滑に進めるために助けを必要としてます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your "Level Up" ability triggers only once per game, when your dungeon hits its maximum length of five Rooms (not counting your Boss).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104755Z" creationid="aorin" creationdate="20180526T104755Z">
+        <seg>あなたの「レベルアップ」アビリティはゲーム毎に1回のみ、あなたのダンジョンがルーム最大数である5つに到達したとき発動します（これにボスはカウントしません）。</seg>
       </tuv>
     </tu>
     <tu>
