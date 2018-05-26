@@ -12854,6 +12854,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn you can expand your dungeon by building a MONSTER ROOM or TRAP ROOM.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102902Z" creationid="aorin" creationdate="20180526T102902Z">
+        <seg>各ターン、あなたはモンスタールームまたはトラップルームを建築することにより、ダンジョンを拡大できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn, a player uses 1 or 2 Action Discs to immediately perform 1 action:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
@@ -15457,6 +15465,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062330Z" creationid="nakahodo" creationdate="20180413T062330Z">
         <seg>ハード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HEROES enter your dungeon each turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102919Z" creationid="aorin" creationdate="20180526T102919Z">
+        <seg>ヒーローたちはあなたのダンジョンに各ターン侵入してきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41180,6 +41196,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015347Z" creationid="aorin" creationdate="20171229T015251Z">
         <seg>最初に村についてから、あなたとあなたの仲間たちは一緒に行動してきましたが、あなたは、絶対に知っているはずのない仕事に集中していました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your dungeon builds out from your BOOS card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102820Z" creationid="aorin" creationdate="20180526T102820Z">
+        <seg>ダンジョンはボスカードから構築していきます。</seg>
       </tuv>
     </tu>
     <tu>
