@@ -41344,6 +41344,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your score keeping area (3) sits off to the side of your dungeon, where face-down Heroes add to your Souls (gold crystals) and face-up Heroes add to your Wounds (blood drops).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103645Z" creationid="aorin" creationdate="20180526T103645Z">
+        <seg>あなたのダンジョンの横に得点エリア（3）を作り、そこにソウル（ゴールドクリスタル）として裏向きのヒーローたちと、受けた負傷（血）として表向きのヒーローたちを追加していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your turn ends when you complete these phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035524Z" creationid="nakahodo" creationdate="20180406T133333Z">
