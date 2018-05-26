@@ -2012,6 +2012,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>...and a DAMAGE value that kills Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103142Z" creationid="aorin" creationdate="20180526T103135Z">
+        <seg>…そして、ヒーローたちを殺すためのダメージ値も持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.2.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T094918Z" creationid="nakahodo" creationdate="20180108T094918Z">
@@ -5001,6 +5009,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>@</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103017Z" creationid="aorin" creationdate="20180526T103017Z">
+        <seg>○</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>@ A player wins if she ends a turn with 10 Souls.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102020Z" creationid="aorin" creationdate="20180526T102020Z">
@@ -6893,6 +6909,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042300Z" creationid="aorin" creationdate="20171231T234736Z">
         <seg>プレイヤーの中で、個人サプライに最も影響トークンを持つプレイヤーが指標のオプションを公開します（タイの場合はチャーターストーンをロールして決めます）。そのプレイヤーは、オプションの1つを選択し、該当する木箱を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An ADVANCED ROOM can upgrade an existing Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103316Z" creationid="aorin" creationdate="20180526T103316Z">
+        <seg>強化済ルームは既存のルームをアップグレードできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10652,6 +10676,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defeated Heroes are turned face-down and are worth Souls:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103015Z" creationid="aorin" creationdate="20180526T103015Z">
+        <seg>打倒されたヒーローたちは裏向きに返され、ソウル値としてカウントされます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defender Declares Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223249Z" creationid="aorin" creationdate="20171215T223249Z">
@@ -12162,6 +12194,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074603Z" creationid="nakahodo" creationdate="20180311T074534Z">
         <seg>各プログラムカードは出目1から6までのダイスアイコンを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Room has a Treasure value that lures Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103123Z" creationid="aorin" creationdate="20180526T103123Z">
+        <seg>各ルームはヒーローたちを引きつけるトレジャー値を持つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15837,6 +15877,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T101925Z" creationid="aorin" creationdate="20180526T101925Z">
         <seg>ダンジョンで死んだヒーローたちは、裏向きとなり「ソウツ」としてカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who survive deal Wounds:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103035Z" creationid="aorin" creationdate="20180526T103035Z">
+        <seg>生き残ったヒーローたちはあなたに負傷を与えます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28753,6 +28801,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Souls before you take 5 Wounds!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103104Z" creationid="aorin" creationdate="20180526T103104Z">
+        <seg>ソウル10個を得なければならない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -40449,6 +40505,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072659Z" creationid="aorin" creationdate="20171216T072659Z">
         <seg>あなたは建築する建物の派閥ルールにしたがう必要がありますが、マルキスの建物を建築するのに木を消費する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must gain 10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103051Z" creationid="aorin" creationdate="20180526T103051Z">
+        <seg>あなたは負傷5つを受ける前に、</seg>
       </tuv>
     </tu>
     <tu>
