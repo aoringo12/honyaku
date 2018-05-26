@@ -32432,6 +32432,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first time you hit five Rooms, apply your Boss card's "Level Up" effect!  Card Types:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103854Z" creationid="aorin" creationdate="20180526T103854Z">
+        <seg>始めてあなたのダンジョンに有効ルームが5つ配置されたら、自身のボスカードに対応する「レベルアップ」効果！カードを適用します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first time you play, allow yourself at least 45 minutes.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T145101Z" creationid="nakahodo" creationdate="20180525T145101Z">
@@ -40241,6 +40249,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T090705Z" creationid="nakahodo" creationdate="20180312T090705Z">
         <seg>あなたは一度に1つのプログラムブーストのみを保持でき、その使用を決定するまでラウンド間にわたり保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only have a maximum of five visible Rooms in your dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103720Z" creationid="aorin" creationdate="20180526T103720Z">
+        <seg>自身のダンジョンには最大5つまでの有効ルームのみ所持できます。</seg>
       </tuv>
     </tu>
     <tu>
