@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4989,6 +4989,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110542Z" creationid="nakahodo" creationdate="20180108T110542Z">
         <seg>？？？：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>@ A player wins if she ends a turn with 10 Souls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T102020Z" creationid="aorin" creationdate="20180526T102020Z">
+        <seg>○　プレイヤーはソウルを10持ちターンを終了したら勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15772,6 +15780,22 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144100Z" creationid="nakahodo" creationdate="20180525T144100Z">
         <seg>カード25枚のヒーローデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who die in your dungeon are turned face down and count as "Souls."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T101925Z" creationid="aorin" creationdate="20180526T101925Z">
+        <seg>ダンジョンで死んだヒーローたちは、裏向きとなり「ソウツ」としてカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who survive give you "Wounds."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T101938Z" creationid="aorin" creationdate="20180526T101938Z">
+        <seg>生き残ったヒーローたちはあなたを負傷させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32420,6 +32444,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093928Z" creationid="nakahodo" creationdate="20180209T093928Z">
         <seg>ゲーム終了時に最も多くの資産を持っているプレイヤーが勝者となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of Boss Monster is to lure Heroes into your dungeon and kill them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T101821Z" creationid="aorin" creationdate="20180526T101821Z">
+        <seg>ボスモンスターのゴールはあなたのダンジョンにヒーローたちをおびき寄せ、彼らを殺すことです。</seg>
       </tuv>
     </tu>
     <tu>
