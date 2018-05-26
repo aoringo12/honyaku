@@ -26339,6 +26339,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ROOMS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104838Z" creationid="aorin" creationdate="20180526T104838Z">
+        <seg>ルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ROOT</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T130426Z" creationid="aorin" creationdate="20171215T130426Z">
@@ -36595,6 +36603,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use a coin or token to indicate that this ability has been used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104832Z" creationid="aorin" creationdate="20180526T104812Z">
+        <seg>能力を使用したかどうかを、コインやトークンを使用して記録します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use a warrior cube from each other player as an alignment marker&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073259Z" creationid="aorin" creationdate="20171216T073259Z">
@@ -41155,8 +41171,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your "Level Up" ability triggers only once per game, when your dungeon hits its maximum length of five Rooms (not counting your Boss).</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180526T104755Z" creationid="aorin" creationdate="20180526T104755Z">
-        <seg>あなたの「レベルアップ」アビリティはゲーム毎に1回のみ、あなたのダンジョンがルーム最大数である5つに到達したとき発動します（これにボスはカウントしません）。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104817Z" creationid="aorin" creationdate="20180526T104755Z">
+        <seg>あなたの「レベルアップ」能力はゲーム毎に1回のみ、あなたのダンジョンがルーム最大数である5つに到達したとき発動します（これにボスはカウントしません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41696,6 +41712,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T012431Z" creationid="aorin" creationdate="20171229T012417Z">
         <seg>あなたの主ワーカー（大きなミープル）が占領している建物には市することはできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>card Types:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104836Z" creationid="aorin" creationdate="20180526T104836Z">
+        <seg>カードタイプ：</seg>
       </tuv>
     </tu>
     <tu>
