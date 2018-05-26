@@ -2012,6 +2012,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.. you! While it has a treasure value, it does not count as a Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104112Z" creationid="aorin" creationdate="20180526T104112Z">
+        <seg>……そしてこれはあなた自身でもあるのです！　これはトレジャー値を持ちますが、ルームとしてはカウントされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and a DAMAGE value that kills Heroes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T103142Z" creationid="aorin" creationdate="20180526T103135Z">
@@ -8715,6 +8723,15 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T132443Z" creationid="nakahodo" creationdate="20180525T132443Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bosses  Your Boss card represents the ultimate villain waiting at the end of your dungeon .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104030Z" creationid="aorin" creationdate="20180526T104030Z">
+        <seg>カードタイプ：ボスたち
+ボスカードは、あなたのダンジョンの最後に待ち受ける究極のヴィラン、悪役を表します。l</seg>
       </tuv>
     </tu>
     <tu>
@@ -20601,6 +20618,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It cannot deal damage, be deactivated, or be destroyed (more on these terms later).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T104244Z" creationid="aorin" creationdate="20180526T104244Z">
+        <seg>ボスカードはヒーローたちにダメージを与えず、アクティブ不可にならず、撃破されません（これらの用語の詳細は後ほど）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not begin with any Artifacts, but may collect an Artifact from the map to carry.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022016Z" creationid="aorin" creationdate="20180408T022016Z">
@@ -32434,8 +32459,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The first time you hit five Rooms, apply your Boss card's "Level Up" effect!  Card Types:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180526T103854Z" creationid="aorin" creationdate="20180526T103854Z">
-        <seg>始めてあなたのダンジョンに有効ルームが5つ配置されたら、自身のボスカードに対応する「レベルアップ」効果！カードを適用します：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180526T103937Z" creationid="aorin" creationdate="20180526T103854Z">
+        <seg>始めてあなたのダンジョンに有効ルームが5つ配置されたら、自身のボスカードに対応する「レベルアップ」効果！　を適応します。</seg>
       </tuv>
     </tu>
     <tu>
