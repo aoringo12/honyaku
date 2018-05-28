@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Hammer= Build, Axe= Adventure, Both = Either)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133707Z" creationid="aorin" creationdate="20180528T133707Z">
+        <seg>（ハンマー=建築、斧=冒険、両方=両方）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(He can smell you.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T141746Z" creationid="nakahodo" creationdate="20180412T141746Z">
@@ -8429,6 +8437,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T115032Z" creationid="aorin" creationdate="20180528T115032Z">
         <seg>B.	ヘルス：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B. Phase Icon:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133445Z" creationid="aorin" creationdate="20180528T133445Z">
+        <seg>B.	フェイズアイコン：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26177,6 +26193,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Priority:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133714Z" creationid="aorin" creationdate="20180528T133714Z">
+        <seg>優先度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Private Objective Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164933Z" creationid="nakahodo" creationdate="20171224T214026Z">
@@ -35435,6 +35459,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104320Z" creationid="aorin" creationdate="20180526T104320Z">
         <seg>このアイコンは、これがボスカードであることを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This icon indicates the phase when the card can be played.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133608Z" creationid="aorin" creationdate="20180528T133608Z">
+        <seg>このアイコンはカードがプレイできるフェイズを表しています。</seg>
       </tuv>
     </tu>
     <tu>
