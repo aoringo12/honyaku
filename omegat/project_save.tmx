@@ -22773,6 +22773,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-active players' Spells and effects then resolve in order of XP value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T134903Z" creationid="aorin" creationdate="20180528T134903Z">
+        <seg>非アクティブプレイヤーのスペルと効果は、XP値の高い順に解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not bad.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171116T092609Z" creationid="aorin" creationdate="20171116T092609Z">
@@ -26171,6 +26179,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080337Z" creationid="aorin" creationdate="20180410T080337Z">
         <seg>ボードの準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prepare the Hero Decks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T134915Z" creationid="aorin" creationdate="20180528T134915Z">
+        <seg>ヒーローデッキの準備</seg>
       </tuv>
     </tu>
     <tu>
