@@ -8772,6 +8772,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beginning of Turn:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141507Z" creationid="aorin" creationdate="20180528T141503Z">
+        <seg>ターンを開始する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Believed to be lost forever when Jodbar threw it twelve miles on a dare.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T123630Z" creationid="nakahodo" creationdate="20180430T123530Z">
@@ -8988,6 +8996,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T121915Z" creationid="nakahodo" creationdate="20180525T121915Z">
         <seg>建築フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141551Z" creationid="aorin" creationdate="20180528T141551Z">
+        <seg>建築フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,6 +12854,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T030210Z" creationid="nakahodo" creationdate="20171224T134725Z">
         <seg>各プレイヤーは自身の前に建築された建物カード（シールが剥がされた残りのカード）を表向きで保持します。これは後に使う時が来るでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player may build one Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142019Z" creationid="aorin" creationdate="20180528T142019Z">
+        <seg>各プレイヤーはルーム1枚を建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27587,6 +27611,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204406Z" creationid="nakahodo" creationdate="20171218T145112Z">
         <seg>目標カード3枚をランダムに公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal Heroes in town (one Hero per player in the game), then each player draws a card from the Room Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141548Z" creationid="aorin" creationdate="20180528T141548Z">
+        <seg>町にヒーローたちを公開し（ゲームのプレイヤーごとにヒーローカード1枚）、その後、各プレイヤーはルームデッキからカード1枚をドローします。</seg>
       </tuv>
     </tu>
     <tu>
