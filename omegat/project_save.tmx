@@ -14333,8 +14333,8 @@ Bold Blend of white beans.</seg>
       <tuv lang="EN-US">
         <seg>For a more challenging game, try the "Classic Mode"</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180528T140736Z" creationid="aorin" creationdate="20180528T140736Z">
-        <seg>さらなる挑戦的なゲームを求めるなら「クラシックモード」を試してみてください。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140759Z" creationid="aorin" creationdate="20180528T140736Z">
+        <seg>さらなる挑戦的なゲームを求めるなら「クラシックモード」プレイヴァリアント（ページ17）を試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19064,6 +19064,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you draw four Advanced Rooms or four of one treasure type, you may shuffle your entire hand back into the decks and draw a new hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141000Z" creationid="aorin" creationdate="20180528T140806Z">
+        <seg>あなたが強化済ルーム4枚か、トレジャータイプ1種類を4枚ドローした場合、手札を全てデッキに戻してシャッフルし、再び新しい手札をドローすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you earn a Hero cube, the Knight player sets it aside until her next Pick Up Hero Cubes phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T075758Z" creationid="nakahodo" creationdate="20180413T075758Z">
@@ -22594,6 +22602,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mulligan:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140810Z" creationid="aorin" creationdate="20180528T140805Z">
+        <seg>マリガン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-use Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205255Z" creationid="aorin" creationdate="20171215T205255Z">
@@ -25638,6 +25654,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152645Z" creationid="aorin" creationdate="20171215T152645Z">
         <seg>プレイエリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play Variant (see Page 17).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140802Z" creationid="aorin" creationdate="20180528T140741Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
