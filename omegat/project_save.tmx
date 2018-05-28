@@ -18707,6 +18707,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the result above is still a tie, the player with the lowest XP value wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223728Z" creationid="aorin" creationdate="20180528T223728Z">
+        <seg>それでもタイの場合、最もXPの低いプレイヤーが勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the result matches either player's charter, both players gain 1 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T020142Z" creationid="aorin" creationdate="20171229T020142Z">
@@ -19220,6 +19228,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001442Z" creationid="aorin" creationdate="20180115T001442Z">
         <seg>1つの地域に2人以上のプレイヤーのユニットがいる場合、そこは紛争地となり、戦闘が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If two players meet the victory or loss conditions above, subtract each player's Wounds total from his Souls total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223709Z" creationid="aorin" creationdate="20180528T223623Z">
+        <seg>勝利か敗北の条件に全プレイヤーが一致する場合、各プレイヤーの合計ソウルから、合計負傷を差し引きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23643,6 +23659,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T120306Z" creationid="nakahodo" creationdate="20180412T120306Z">
         <seg>彼は今、単なる野生であり、闇の中、そのまた影に住まう獣となり果てました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now shuffle the decks, deal out some new Boss cards, and play again!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223759Z" creationid="aorin" creationdate="20180528T223759Z">
+        <seg>さあ、デッキをシャッフルして、新しいボスカードを配り、次のゲームを開始しましょう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -34846,6 +34870,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T070846Z" creationid="aorin" creationdate="20180115T070846Z">
         <seg>最も高い合計軍事力を持つプレイヤーが戦闘に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player with the higher result wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223641Z" creationid="aorin" creationdate="20180528T223641Z">
+        <seg>最も結果の高いプレイヤーが勝利します。</seg>
       </tuv>
     </tu>
     <tu>
