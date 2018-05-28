@@ -6449,6 +6449,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the initial Set Up, each turn in Boss Monster consists of five phases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141500Z" creationid="aorin" creationdate="20180528T141500Z">
+        <seg>初期セットアップのあと、ボスモンスターの各ターンは5つのフェイズで構成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After using a Program Boost, return it to any empty spot in the Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T200731Z" creationid="nakahodo" creationdate="20180311T200731Z">
@@ -8017,6 +8025,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T113142Z" creationid="aorin" creationdate="20180410T113142Z">
         <seg>あなたのゲーム最初のターン開始時に、ナイトに隣接したライトタイルに、直接対面するようにユニコーンピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this point, Set Up is complete and the first turn begins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141417Z" creationid="aorin" creationdate="20180528T141417Z">
+        <seg>この時点で、セットアップが完了して最初のターンが開始されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19964,6 +19980,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In XP order, resolve any "when you build this" effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141347Z" creationid="aorin" creationdate="20180528T141347Z">
+        <seg>XP順に、「あなたがこれを建築する時」効果を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a ceremony involving the Charterstone and the Gauntlets of Life and Death, the Forever King transfers his soul from his body to yours.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T215243Z" creationid="nakahodo" creationdate="20171229T215243Z">
@@ -23385,6 +23409,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210453Z" creationid="aorin" creationdate="20180114T210453Z">
         <seg>プレイヤー全員がそれを終えると、自身のオーダーを公開し、その後、マップにユニットを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once all players have placed their cards, simultaneously reveal the newly built Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141316Z" creationid="aorin" creationdate="20180528T141316Z">
+        <seg>全てのプレイヤーがカードを配置すると、同時に新しく建築するルームを公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42674,6 +42706,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164009Z" creationid="aorin" creationdate="20171228T164009Z">
         <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sequence of Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141419Z" creationid="aorin" creationdate="20180528T141419Z">
+        <seg>プレイの流れ</seg>
       </tuv>
     </tu>
     <tu>
