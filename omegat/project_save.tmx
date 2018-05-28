@@ -11973,6 +11973,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Adventure phase, the highest-XP player is the first to "process" adventurers through her dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T145408Z" creationid="aorin" creationdate="20180528T145408Z">
+        <seg>冒険フェイズ時、最もXPの高いプレイヤーが最初に自身のダンジョンのヒーローたちを「進行」させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Attrition stage, you must check to see if you control any territories that are not linked to either your Capital or a City that you currently control, via a connected series of controlled territories.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
