@@ -16722,6 +16722,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heal:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231043Z" creationid="aorin" creationdate="20180528T231043Z">
+        <seg>ヒール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health Jnspection</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153742Z" creationid="nakahodo" creationdate="20180108T153742Z">
@@ -16814,6 +16822,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144100Z" creationid="nakahodo" creationdate="20180525T144100Z">
         <seg>カード25枚のヒーローデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hero:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231209Z" creationid="aorin" creationdate="20180528T231209Z">
+        <seg>ヒーローたち</seg>
       </tuv>
     </tu>
     <tu>
@@ -17817,6 +17833,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233623Z" creationid="aorin" creationdate="20180407T233623Z">
         <seg>憑依ターン時にアーティファクトがロックされた場合、直ちに憑依ターンが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an effect allows you to "heal" a Wound, you may flip over one face-up Hero (ordinary or Epic) in your scorekeeping area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231142Z" creationid="aorin" creationdate="20180528T231142Z">
+        <seg>あなたの負傷を「ヒール」する効果は、自身の得点エリアにある表向きのヒーロー（通常やエピック）を裏返すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21568,6 +21592,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of counting its Wound value, you now count its Soul value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231151Z" creationid="aorin" creationdate="20180528T231151Z">
+        <seg>これはつまり、負傷をソウルに変えることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of spending attack points, your Attack remains constant throughout your turn, except for temporary bonuses that you add by spending Boost dice and using the effects of the Hunt Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T090201Z" creationid="aorin" creationdate="20180410T090201Z">
@@ -22536,6 +22568,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153625Z" creationid="aorin" creationdate="20171212T153625Z">
         <seg>レベル1のアクションスペースには食料アイコンが1つ、レベル2のアクションスペースには食料アイコンが2つといった具合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level Up:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231227Z" creationid="aorin" creationdate="20180528T231227Z">
+        <seg>レベルアップ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34257,6 +34297,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first time your dungeon reaches five Rooms in length (not counting the Boss card itself), your Boss card's "Level Up" ability is triggered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231310Z" creationid="aorin" creationdate="20180528T231310Z">
+        <seg>あなたのダンジョンのルームが5つに始めて到達したら（ボスカード自体はカウントしない）、あなたのボスカードの「レベルアップ」能力がトリガーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first token each game is put on the space showing the player count.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T211354Z" creationid="aorin" creationdate="20171219T103559Z">
@@ -36837,6 +36885,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T133621Z" creationid="nakahodo" creationdate="20171213T133621Z">
         <seg>このアビリティは、報酬フェイズがスキップされた場合は使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ability takes effect during the end of the Build phase when you reveal your fifth room, followed by any other "when you build this Room" effects from that Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231536Z" creationid="aorin" creationdate="20180528T231536Z">
+        <seg>この能力は、あなたが5つめのルームを公開した時、建築フェイズの終了時に効果を発揮し、その後、そのルームの「あなたがこのルームを建築した時」の効果が発揮されます。</seg>
       </tuv>
     </tu>
     <tu>
