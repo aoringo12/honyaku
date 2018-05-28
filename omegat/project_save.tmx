@@ -20532,6 +20532,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a game with more than two players, when one player loses, that player's cards are set aside and "removed from the game." They do not go to the discard pile, and no effects can interact with those cards until the game concludes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223150Z" creationid="aorin" creationdate="20180528T223150Z">
+        <seg>3プレイヤー以上のゲームにて、プレイヤー1人が敗北した場合、そのプレイヤーのカードは脇に避けて「ゲームから取り除かれます」。これらは捨て札山に行かず、ゲーム終了までこれらカードはなんの効果もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a multiplayer game against the Shadow Unicorn, one player can change their victory condition to the one listed above.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131852Z" creationid="nakahodo" creationdate="20180412T131852Z">
@@ -20996,6 +21004,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T085225Z" creationid="nakahodo" creationdate="20171230T085225Z">
         <seg>遠く、地平線に降りてくるたくさんのツェッペリンが見えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event that a Hero takes damage during the Adventure Phase but is returned to town or the entrance of a dungeon by a card ability, damage to that Hero does not carry over to subsequent turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T222151Z" creationid="aorin" creationdate="20180528T222151Z">
+        <seg>冒険フェイズ時にダメージを受けたヒーローがカード能力によってダンジョンのエントランスか町に戻された場合、その後のターンにダメージは引き継がれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23246,6 +23262,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205255Z" creationid="aorin" creationdate="20171215T205255Z">
         <seg>多岐使用カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multilayer GaMes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T222225Z" creationid="aorin" creationdate="20180528T222225Z">
+        <seg>マルチプレイヤーゲーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -30214,6 +30238,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214951Z" creationid="aorin" creationdate="20180528T214951Z">
         <seg>スペルカードとルーム能力は誘導フェイズ時に使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spell cards and activated abilities cannot be used during the End of Turn phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T222217Z" creationid="aorin" creationdate="20180528T222217Z">
+        <seg>スペルカードと能力はターン終了フェイズ時に使用できません。</seg>
       </tuv>
     </tu>
     <tu>
