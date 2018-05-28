@@ -5648,6 +5648,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A. Treasure Icon:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114953Z" creationid="aorin" creationdate="20180528T114953Z">
+        <seg>A.	トレジャーアイコン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222954Z" creationid="nakahodo" creationdate="20171224T222954Z">
@@ -8405,6 +8413,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104329Z" creationid="aorin" creationdate="20180526T104329Z">
         <seg>B.	ボスアビリティ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B. Health:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T115032Z" creationid="aorin" creationdate="20180528T115032Z">
+        <seg>B.	ヘルス：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22717,6 +22733,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that Epic Heroes have more health than ordinary Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T115229Z" creationid="aorin" creationdate="20180528T115229Z">
+        <seg>エピックヒーローたちは通常ヒーローたちよりも多くのヘルスを持っていることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that building’s cost, listed at the top of its column.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235357Z" creationid="aorin" creationdate="20171215T235357Z">
@@ -32409,6 +32433,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amount of damage this Hero can resist before dying.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T115113Z" creationid="aorin" creationdate="20180528T115113Z">
+        <seg>このヒーローが死ぬまでに耐えられるダメージ量になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ashes from the first Great War still darken the snow in 1920s Europa.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093338Z" creationid="nakahodo" creationdate="20180209T090927Z">
@@ -33984,6 +34016,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114426Z" creationid="aorin" creationdate="20180528T114426Z">
         <seg>トレジャーアイコンはそのルームに惹きつけられるヒーローたちの種類を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type of treasure that lures this Hero.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T115026Z" creationid="aorin" creationdate="20180528T115026Z">
+        <seg>このヒーローが惹きつけられるトレジャーの種類です。</seg>
       </tuv>
     </tu>
     <tu>
