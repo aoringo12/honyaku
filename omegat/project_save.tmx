@@ -5161,6 +5161,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A "deactivated" Room is turned sideways until the end of the turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225917Z" creationid="aorin" creationdate="20180528T225917Z">
+        <seg>「アクティブ不可」ルームはターン終了まで横向きになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A 1 can spin to a 6 and vice-versa.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T090325Z" creationid="nakahodo" creationdate="20180312T090325Z">
@@ -5308,6 +5316,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Spell may also be canceled if its target is destroyed (or otherwise rendered moot) by a higher-priority effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225806Z" creationid="aorin" creationdate="20180528T225806Z">
+        <seg>スペルはまた、対象がより優先権の高い効果によって破壊された場合にも、キャンセルされることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battle has four steps:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221326Z" creationid="aorin" creationdate="20171215T221314Z">
@@ -5320,6 +5336,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131208Z" creationid="nakahodo" creationdate="20171230T131208Z">
         <seg>王の後ろから、ガードたちの幹部が現れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A canceled spell is not cast and must be placed in the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225656Z" creationid="aorin" creationdate="20180528T225656Z">
+        <seg>キャンセルされたスペルは効果を発揮せずに、捨て札山に配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11193,6 +11217,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T014711Z" creationid="aorin" creationdate="20171229T014711Z">
         <seg>決定：各プレイヤーは自身のコンパニオンカードを読み上げ、カードに自身の選択を記録し、また、自身のチャーターチェストにも自身の選択を記録します（1キャパシティか1栄光のいずれか）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivate:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225900Z" creationid="aorin" creationdate="20180528T225900Z">
+        <seg>アクティブ不可：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24378,6 +24410,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040523Z" creationid="aorin" creationdate="20180408T040523Z">
         <seg>あなたの手札から最後のタイルが配置されると、次のあなたのターンから崩壊が始まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the target for a Spell has been declared, it cannot be changed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225822Z" creationid="aorin" creationdate="20180528T225822Z">
+        <seg>スペルの対象が宣言されると、変更できません。</seg>
       </tuv>
     </tu>
     <tu>
