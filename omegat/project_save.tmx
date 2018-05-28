@@ -6984,8 +6984,8 @@ in their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>Also keep in mind that ordinary Rooms can always be built over any Room, regardless of treasure type!</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180528T214116Z" creationid="aorin" creationdate="20180528T214116Z">
-        <seg>また、通常ルームは、トレジャーの種類にかかわらず、任意のルームの上に権tクできることを覚えておいてください！</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214241Z" creationid="aorin" creationdate="20180528T214116Z">
+        <seg>また、通常ルームは、トレジャーの種類にかかわらず、任意のルームの上に建築できることを覚えておいてください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -16402,6 +16402,22 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here! It matches one of the treasure in Torture Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214324Z" creationid="aorin" creationdate="20180528T214324Z">
+        <seg>ここ！　拷問部屋のトレジャーの1つと一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here! It matches the Cleric treasure in Dark Altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214312Z" creationid="aorin" creationdate="20180528T214312Z">
+        <seg>ここ！　暗黒祭壇のクレリックトレジャーと一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hero Deck with 25 cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144100Z" creationid="nakahodo" creationdate="20180525T144100Z">
@@ -23193,6 +23209,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T134903Z" creationid="aorin" creationdate="20180528T134903Z">
         <seg>非アクティブプレイヤーのスペルと効果は、XP値の高い順に解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Here! Golem Factory contains no Cleric treasure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214343Z" creationid="aorin" creationdate="20180528T214343Z">
+        <seg>ダメ！　ゴーレムファクトリーはクレリックトレジャーを持ちません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39895,6 +39919,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212249Z" creationid="aorin" creationdate="20171215T212249Z">
         <seg>改良をクラフトする時、テキストを解決し、そのあと次を行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can we build Dracolich Lair?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214254Z" creationid="aorin" creationdate="20180528T214254Z">
+        <seg>ドラコリッチの隠れ家はどこに建築できるか？</seg>
       </tuv>
     </tu>
     <tu>
