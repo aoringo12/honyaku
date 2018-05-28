@@ -5308,6 +5308,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Room that is "destroyed" is sent to the discard pile from play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230350Z" creationid="aorin" creationdate="20180528T230350Z">
+        <seg>ルームが「破壊」されると、そのカードは捨て札山に送られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Room's treasure value determines what type of Heroes it attracts, while its damage determines its ability to destroy Heroes (by depleting their Health).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102751Z" creationid="aorin" creationdate="20180526T102751Z">
@@ -8161,6 +8169,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T221921Z" creationid="aorin" creationdate="20180528T221921Z">
         <seg>ターン終了時に、任意の「ターンが終了するまで」効果が解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the turn, it is reactivated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230310Z" creationid="aorin" creationdate="20180528T230310Z">
+        <seg>ターンが終了すると、再度アクティブになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11417,6 +11433,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003616Z" creationid="aorin" creationdate="20171216T003616Z">
         <seg>独裁者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destroy:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230319Z" creationid="aorin" creationdate="20180528T230319Z">
+        <seg>破壊：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19086,6 +19110,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a Room under that Room, it is Uncovered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230430Z" creationid="aorin" creationdate="20180528T230430Z">
+        <seg>そのルームの下にルームがある場合、そのルームが有効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a tie between multiple buildings with the same value, pick the one with the name that is alphabetically first ( A-Z ) or last ( Z-A ).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093508Z" creationid="nakahodo" creationdate="20180108T093508Z">
@@ -19306,6 +19338,14 @@ stack is first in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T140132Z" creationid="nakahodo" creationdate="20180430T140132Z">
         <seg>この部族が攻撃アクションをした場合、ドラゴンダイスをロールし、影響を受けるタイルが崩壊する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this creates a "hole" in the dungeon, all the cards slide to the right (toward your Boss) to close any gaps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230527Z" creationid="aorin" creationdate="20180528T230527Z">
+        <seg>ダンジョンに「穴」が作られた場合、全てのカードを右にスライドさせ（ボスに向かって）ギャップを埋めます。</seg>
       </tuv>
     </tu>
     <tu>
