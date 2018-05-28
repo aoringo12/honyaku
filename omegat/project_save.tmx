@@ -12690,6 +12690,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player draws 5 Room cards and 2 Spell cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140438Z" creationid="aorin" creationdate="20180528T140438Z">
+        <seg>各プレイヤーはルームカード5枚、スペルカード2枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player draws a Room card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T121811Z" creationid="nakahodo" creationdate="20180525T121811Z">
@@ -14319,6 +14327,14 @@ Bold Blend of white beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T115030Z" creationid="nakahodo" creationdate="20180525T115030Z">
         <seg>4プレイヤーゲームでは、全てのヒーローカードを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more challenging game, try the "Classic Mode"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140736Z" creationid="aorin" creationdate="20180528T140736Z">
+        <seg>さらなる挑戦的なゲームを求めるなら「クラシックモード」を試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28411,6 +28427,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090401Z" creationid="nakahodo" creationdate="20180108T090401Z">
         <seg>各オートマのチャーターチェストから、通常ワーカー、影響トークン、VPトークンをセットアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set up the Hero, Epic Hero, Dungeon and Spell decks as shown on Page 9.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140340Z" creationid="aorin" creationdate="20180528T140340Z">
+        <seg>ヒーロー、エピックヒーロー、ダンジョン、スペルデッキのセットアップはページ9を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42618,6 +42642,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T132005Z" creationid="aorin" creationdate="20180528T132005Z">
         <seg>スペル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>starting Hand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140348Z" creationid="aorin" creationdate="20180528T140348Z">
+        <seg>開始手札</seg>
       </tuv>
     </tu>
     <tu>
