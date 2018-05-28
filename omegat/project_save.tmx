@@ -18736,6 +18736,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are playing a three-player game, just remove the "Four Player" Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135632Z" creationid="aorin" creationdate="20180528T135632Z">
+        <seg>あなたが3プレイヤーゲームをプレイする場合、「4プレイヤー」ヒーローのものだけを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are playing a two-player game, remove all cards with the "Three Player" or "Four Player" icons.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T135522Z" creationid="aorin" creationdate="20180528T135522Z">
@@ -34346,6 +34354,14 @@ the Upkeep phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030318Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>その後、アップキープフェイズに進みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then shuffle all decks thoroughly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135709Z" creationid="aorin" creationdate="20180528T135709Z">
+        <seg>全てのデッキをそれぞれシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
