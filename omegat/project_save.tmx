@@ -8665,6 +8665,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bait Pnase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214401Z" creationid="aorin" creationdate="20180528T214401Z">
+        <seg>誘導フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrens (brown):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195534Z" creationid="aorin" creationdate="20180114T195534Z">
@@ -10386,6 +10394,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare Treasure Values:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214629Z" creationid="aorin" creationdate="20180528T214629Z">
+        <seg>トレジャー値を比較します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compelled by dark magic for centuries, all he wishes now is to escape these depths, this bridle, to the bright place he once called home.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T112253Z" creationid="aorin" creationdate="20180410T112253Z">
@@ -10600,6 +10616,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T134005Z" creationid="nakahodo" creationdate="20180412T134005Z">
         <seg>ゲームを通して明らかにされた全てのクリスタルタイルをカウントします。これは崩壊したものも含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Count the amount of treasure icons in each dungeon corresponding to each Hero in town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214656Z" creationid="aorin" creationdate="20180528T214656Z">
+        <seg>町の各ヒーローに一致する、各ダンジョンのトレジャーアイコンを数えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12073,6 +12097,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115907Z" creationid="aorin" creationdate="20180115T115907Z">
         <seg>消耗ステージ時、任意の自身の制御している地域が、自身の現在制御している首都や都市から、制御している地域続きで接続されているかどうかを確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Bait phase, players have the chance to lure Heroes to their dungeons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214600Z" creationid="aorin" creationdate="20180528T214600Z">
+        <seg>誘導フェイズ時、プレイヤーたちは自身のダンジョンにヒーローたちを引きつける機会を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30582,6 +30614,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141721Z" creationid="nakahodo" creationdate="20171213T141721Z">
         <seg>関連するタイルを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the following steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214619Z" creationid="aorin" creationdate="20180528T214606Z">
+        <seg>次の順番でステップを行います：</seg>
       </tuv>
     </tu>
     <tu>
