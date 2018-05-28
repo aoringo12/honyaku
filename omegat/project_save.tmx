@@ -6828,6 +6828,14 @@ new Blend is inserted to the right of any Blend it outranks.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All killed or surviving Heroes are placed in the player's scorekeeping area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221401Z" creationid="aorin" creationdate="20180528T221401Z">
+        <seg>全ての殺されたり生き残ったりしたヒーローたちは、プレイヤーの得点エリアに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All minions you control (on and off the board) are considered to be in your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235209Z" creationid="aorin" creationdate="20171231T235209Z">
@@ -19248,6 +19256,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are not able to sufficiently damage the Hero (or kill it by other means) before it reaches your Boss, place it face-up in your scorekeeping area, adding its Wound value to your total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221338Z" creationid="aorin" creationdate="20180528T221338Z">
+        <seg>ボスに到達するまでに、そのヒーローへと十分なダメージを与えられなかった場合（つまり殺せなかった場合）、そのヒーローを得点エリアに移動させ、負傷として合計に追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are on a Crystal tile without a Unicorn cube, you may also place a Unicorn cube on it to gain 1 Radiance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T081851Z" creationid="nakahodo" creationdate="20180411T081851Z">
@@ -23070,6 +23086,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082830Z" creationid="aorin" creationdate="20171216T082830Z">
         <seg>壊れたアイテム1つを、あなたの消耗したアイテムプールに移動させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move that Hero to your score keeping area and place it face-down, adding its Soul value to your total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221135Z" creationid="aorin" creationdate="20180528T221135Z">
+        <seg>そのヒーローをあなたの得点エリアに移動させ、裏向きに配置し、ソウルとして合計に追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30641,6 +30665,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120449Z" creationid="aorin" creationdate="20180115T120449Z">
         <seg>奇襲的な攻撃は非常に効果的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Survival:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221138Z" creationid="aorin" creationdate="20180528T221138Z">
+        <seg>生き残る：</seg>
       </tuv>
     </tu>
     <tu>
