@@ -9088,6 +9088,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build Phase, cont'd.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210739Z" creationid="aorin" creationdate="20180528T210739Z">
+        <seg>建築フェイズ概略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build Phase:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141551Z" creationid="aorin" creationdate="20180528T141551Z">
@@ -12073,6 +12081,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T144759Z" creationid="aorin" creationdate="20180528T144759Z">
         <seg>建築フェイズ時、最もXPの高いプレイヤーが最初にルームを配置します（他のプレイヤーもXP順で行動します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Build phase, you may use card abilities and play Spells marked with the Build (hammer) icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213549Z" creationid="aorin" creationdate="20180528T213549Z">
+        <seg>建築フェイズ時、あなたは建築アイコン（ハンマー）を持つスペルカードをプレイしたり、能力カードを使用したりできます。</seg>
       </tuv>
     </tu>
     <tu>
