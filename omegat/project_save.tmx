@@ -17397,6 +17397,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a tie is not broken, Heroes can really start to stack up in town! When the tie is broken, all relevant Heroes go to the "winning" dungeon, which means the stakes just keep getting higher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T215859Z" creationid="aorin" creationdate="20180528T215859Z">
+        <seg>タイが解消されない場合、町に待機し続けます！　タイが解消された時、全ての関連するヒーローたちがダンジョンに押し寄せることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a tile with a non-locked Artifact is removed, the player who removed the tile must move the Artifact to any adjacent space without the Ghost.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000556Z" creationid="aorin" creationdate="20180408T000556Z">
@@ -23684,6 +23692,14 @@ contains a red negative action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T110952Z" creationid="nakahodo" creationdate="20171001T110952Z">
         <seg>ゲームの最初のラウンドにて、プレイヤーたちが自身のフィールド研究者を赤いネガティブアクションのある国に配置した場合、そのペナルティを無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the next turn, new Heroes arrive as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T215746Z" creationid="aorin" creationdate="20180528T215746Z">
+        <seg>次のターンになると、新しいヒーローたちが通常通り出現します。</seg>
       </tuv>
     </tu>
     <tu>
