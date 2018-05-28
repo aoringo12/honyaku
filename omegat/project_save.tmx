@@ -23296,6 +23296,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monster:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231602Z" creationid="aorin" creationdate="20180528T231602Z">
+        <seg>○=モンスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More importantly, you have competition.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T143630Z" creationid="nakahodo" creationdate="20180525T143630Z">
@@ -29463,6 +29471,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T202842Z" creationid="aorin" creationdate="20171231T202842Z">
         <seg>永遠なる王の忠実なガードとして作り出されたゴーレームは、自己生成のためのリソースを絶えず流しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231605Z" creationid="aorin" creationdate="20180528T231605Z">
+        <seg>サーチ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37943,6 +37959,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trap:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231642Z" creationid="aorin" creationdate="20180528T231642Z">
+        <seg>トラップ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Treasure Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174047Z" creationid="aorin" creationdate="20171228T174047Z">
@@ -40249,6 +40273,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
         <seg>プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever an effect allows a player to search the Spell or Room deck, the player must shuffle the deck afterward.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231635Z" creationid="aorin" creationdate="20180528T231635Z">
+        <seg>スペルやルームデッキをサーチする効果を処理するたびに、プレイヤーはそれをしたあと、デッキをシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
