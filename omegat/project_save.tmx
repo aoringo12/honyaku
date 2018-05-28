@@ -8820,6 +8820,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beginning of Turn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T205910Z" creationid="aorin" creationdate="20180528T205910Z">
+        <seg>ターンを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beginning of Turn:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141507Z" creationid="aorin" creationdate="20180528T141503Z">
@@ -11997,6 +12005,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Beginning of Turn phase, the following occurs:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T205939Z" creationid="aorin" creationdate="20180528T205939Z">
+        <seg>ターンの開始時には、次の処理が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Build phase, the highest-XP player is the first to place a Room (followed by each other player, in XP order).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T144759Z" creationid="aorin" creationdate="20180528T144759Z">
@@ -12826,6 +12842,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player draws a card:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210112Z" creationid="aorin" creationdate="20180528T210112Z">
+        <seg>各プレイヤーはカード1枚をドローします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player draws a number of Program Cards depending on the number of players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T071610Z" creationid="nakahodo" creationdate="20180311T071610Z">
@@ -12838,6 +12862,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000537Z" creationid="aorin" creationdate="20171216T000537Z">
         <seg>各プレイヤーは自身が所有する&lt;コイン&gt;と同数カードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player draws one Room card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210119Z" creationid="aorin" creationdate="20180528T210119Z">
+        <seg>各プレイヤーはルームカード1枚をドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16302,6 +16334,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114813Z" creationid="aorin" creationdate="20180528T114813Z">
         <seg>ヒーローたちはターン毎に「町」に出現し、冒険のため待機します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes appear in town:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T205949Z" creationid="aorin" creationdate="20180528T205949Z">
+        <seg>ヒーローたちが町に出現します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20442,6 +20482,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205230Z" creationid="aorin" creationdate="20171215T205230Z">
         <seg>ヴァガボンドがゲームにいない場合、赤いボーダースロットは空きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, all ordinary Heroes must be revealed before an Epic Hero is revealed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210058Z" creationid="aorin" creationdate="20180528T210058Z">
+        <seg>基本的に、エピックヒーローが公開される前に全ての通常ヒーローが公開される必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27755,6 +27803,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T121654Z" creationid="nakahodo" creationdate="20180525T121654Z">
         <seg>他のヒーローカードがまだタウンに残っていても、ターン毎に新しいヒーローカードが公開されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal one Hero card for each active player in the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210028Z" creationid="aorin" creationdate="20180528T210028Z">
+        <seg>ゲームのアクティブなプレイヤーごとにヒーローカード1枚を公開する。</seg>
       </tuv>
     </tu>
     <tu>
