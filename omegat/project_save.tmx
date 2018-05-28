@@ -7709,6 +7709,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the End of the Build phase, any Level Up or "when you build this Room" effects trigger in XP order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T145330Z" creationid="aorin" creationdate="20180528T145330Z">
+        <seg>建築フェイズ終了時、XP順で任意のレベルアップ、または「あなたがこのルームを建築した時」の効果をトリガーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the back of this rulebook, you fill find several pages showing sample map layouts for 2-4 player games.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T200919Z" creationid="aorin" creationdate="20180114T200919Z">
@@ -11973,6 +11981,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Build phase, the highest-XP player is the first to place a Room (followed by each other player, in XP order).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T144759Z" creationid="aorin" creationdate="20180528T144759Z">
+        <seg>建築フェイズ時、最もXPの高いプレイヤーが最初にルームを配置します（他のプレイヤーもXP順で行動します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Collapse, if he would Teleport to an open space, then collapse 3 tiles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T153026Z" creationid="nakahodo" creationdate="20180412T153026Z">
@@ -12451,6 +12467,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104454Z" creationid="aorin" creationdate="20180526T104440Z">
         <seg>各ボスカードは強力な「レベルアップ」能力を持っていて、自身のダンジョンの有効ルームが5つに始めて到達したとき、建築フェイズの終了時に発動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Boss has an XP value that determines who goes first in each phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T144643Z" creationid="aorin" creationdate="20180528T144643Z">
+        <seg>各ボスは誰が各フェイズで最初に行動するかをXP値で決定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39914,6 +39938,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133020Z" creationid="nakahodo" creationdate="20171230T133020Z">
         <seg>合計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XP Value:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T144525Z" creationid="aorin" creationdate="20180528T144525Z">
+        <seg>XP値：</seg>
       </tuv>
     </tu>
     <tu>
