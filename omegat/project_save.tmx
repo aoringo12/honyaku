@@ -40718,6 +40718,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may play any number of Spells per turn, but may only play Spells during the Build and Adventure phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132838Z" creationid="aorin" creationdate="20180528T132838Z">
+        <seg>あなたはターン毎に任意の枚数のスペルカードをプレイできますが、建築と冒険フェイズ時にのみプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may play certain Espionage cards (like Ambush).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002114Z" creationid="aorin" creationdate="20180115T002054Z">
