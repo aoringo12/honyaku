@@ -17427,6 +17427,22 @@ Artifact enters such a Ghost tile on their own turn.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player ends the turn with 10 Sou Is (and fewer than 5 Wounds), that player wins the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223527Z" creationid="aorin" creationdate="20180528T223527Z">
+        <seg>プレイヤーがターン終了時にソウル10を持っている（そして負傷5つを下回る）場合、そのプレイヤーはゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player ends the turn with 5 or more Wounds, that player loses the game (regardless of Soul count).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223450Z" creationid="aorin" creationdate="20180528T223450Z">
+        <seg>プレイヤーがターン終了時に負傷を5つ以上持っている場合、そのプレイヤーはゲームから脱落します（ソウルの数に関係なく）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player ends their own turn on Magma:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T155903Z" creationid="nakahodo" creationdate="20180430T155857Z">
@@ -24145,6 +24161,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T213716Z" creationid="aorin" creationdate="20180528T213716Z">
         <seg>各プレイヤーがルームを配置する機会を得ると、「建築フェイズ」終了時に、プレイヤーたちは自身のルームカードを同時に公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once every player has had a chance to act, determine the following.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223420Z" creationid="aorin" creationdate="20180528T223420Z">
+        <seg>プレイヤーが行動する機会があるかどうか、次に従い決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34351,6 +34375,16 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040411Z" creationid="aorin" creationdate="20180116T040411Z">
         <seg>その後、次のプレイヤーが購入かパスをします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of Heroes entering town does not change, so the pressure is on!  End of GaMe The game does not end until a full turn is complete and every eligible player has had a chance to resolve an Adventure phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223345Z" creationid="aorin" creationdate="20180528T223345Z">
+        <seg>街にやってくるヒーローたちの数は代わりませんので、プレッシャーがかかります！
+ゲーム終了
+ターンが完全に完了し、プレイヤーたち全員が冒険フェイズを解決する機会が与えられまで、ゲームは終了しません。</seg>
       </tuv>
     </tu>
     <tu>
