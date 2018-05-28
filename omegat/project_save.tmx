@@ -5977,6 +5977,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventure Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142721Z" creationid="aorin" creationdate="20180528T142721Z">
+        <seg>冒険フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adventure phase @, or both @.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T134650Z" creationid="nakahodo" creationdate="20180525T134650Z">
@@ -16266,6 +16274,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heroes travel through dungeons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142739Z" creationid="aorin" creationdate="20180528T142739Z">
+        <seg>ヒーローたちはダンジョンを冒険します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heroes who die in your dungeon are turned face down and count as "Souls."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T101925Z" creationid="aorin" creationdate="20180526T101925Z">
@@ -20032,6 +20048,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T122322Z" creationid="nakahodo" creationdate="20180525T122322Z">
         <seg>XPの順番で、各プレイヤーは自身のダンジョンにルームカード1枚を裏向きで配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In XP order, each player takes a turn as the active player, "processing" all Heroes at his or her dungeon entrance and acquiring Souls or Wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T143013Z" creationid="aorin" creationdate="20180528T143013Z">
+        <seg>XPの高い順に、各プレイヤーたちはアクティブプレイヤーとしてターンを行い、自身のダンジョンのヒーローたちを全て「進行」させ、ソウルや負傷を獲得します。</seg>
       </tuv>
     </tu>
     <tu>
