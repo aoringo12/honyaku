@@ -5308,6 +5308,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Room is uncovered when the Room above it is destroyed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231721Z" creationid="aorin" creationdate="20180528T231721Z">
+        <seg>ルームの上にあるルームが破壊された時、下になっていたルームが有効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Room that is "destroyed" is sent to the discard pile from play.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230350Z" creationid="aorin" creationdate="20180528T230350Z">
@@ -38263,6 +38271,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T171718Z" creationid="aorin" creationdate="20171228T171718Z">
         <seg>余分なそのタイプのミニオンは、共通サプライにてそのミニオンのリファレンスカード上に保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncover:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231724Z" creationid="aorin" creationdate="20180528T231724Z">
+        <seg>暴露：</seg>
       </tuv>
     </tu>
     <tu>
