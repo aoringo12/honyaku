@@ -29196,8 +29196,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spells reflect the power of your Boss Monster to affect what happens in your dungeon ...</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180528T132328Z" creationid="aorin" creationdate="20180528T132328Z">
-        <seg>スペルはあなたのダンジョンに何らかの効果を与えるボスモンスターのパワーを表します。</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132427Z" creationid="aorin" creationdate="20180528T132328Z">
+        <seg>スペルはあなたのダンジョン……そしてそれを超えて、に何らかの効果を与えるボスモンスターのパワーを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41894,6 +41894,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110655Z" creationid="aorin" creationdate="20171212T110655Z">
         <seg>全てのアクションは、ゴールドの中のシルバーを除いて、ターン毎に一度のみ実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and beyond! After the beginning of the game, you may only draw new Spell cards when a card specifically tells you to do so.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132740Z" creationid="aorin" creationdate="20180528T132740Z">
+        <seg>ゲームの開始後、カードにそう記述されているときのみ、新しいスペルカードをドローできます。</seg>
       </tuv>
     </tu>
     <tu>
