@@ -7283,6 +7283,14 @@ Blend, and any Token with Research is a vote for the team to Research.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any deactivated Rooms are turned upright.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221954Z" creationid="aorin" creationdate="20180528T221954Z">
+        <seg>任意のアクティブ不可ルームが正位置に回転します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any dice on the right side of the selected row are Boost dice, which you can spend during the Move and Act phase of this turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T085502Z" creationid="aorin" creationdate="20180410T085502Z">
@@ -8089,6 +8097,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042240Z" creationid="aorin" creationdate="20171231T234628Z">
         <seg>ゲームが終了すると、指標を達成できたプレイヤーたちは1栄光（☆）を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the turn, any "until end of turn" effects are resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221921Z" creationid="aorin" creationdate="20180528T221921Z">
+        <seg>ターン終了時に、任意の「ターンが終了するまで」効果が解決されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13723,6 +13739,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T132537Z" creationid="nakahodo" creationdate="20180525T132537Z">
         <seg>ターンの終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of Turn Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221824Z" creationid="aorin" creationdate="20180528T221824Z">
+        <seg>ターン終了フェイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24029,6 +24053,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all players have had a chance to be the active player during the Adventure phase, the turn ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221901Z" creationid="aorin" creationdate="20180528T221901Z">
+        <seg>全てのヒーローたちが冒険フェイズ時にアクティブプレイヤーになる機会を終えると、ターンが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once all players have placed their cards, simultaneously reveal the newly built Rooms.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141316Z" creationid="aorin" creationdate="20180528T141316Z">
@@ -24121,6 +24153,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T151726Z" creationid="nakahodo" creationdate="20180525T151726Z">
         <seg>プレイヤーたちがこのゲームに慣れてきたら、2プレイヤーゲームで大体20～30分かかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once that Hero heads to a dungeon, slide the newer cards toward the deck to take its place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221746Z" creationid="aorin" creationdate="20180528T221746Z">
+        <seg>ヒーローがダンジョンに向かうと、カードがなくなった隙間を埋めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27832,6 +27872,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120349Z" creationid="aorin" creationdate="20180115T120349Z">
         <seg>そして、それと同じことを対戦相手も考えていることを忘れないでください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, new Heroes continue to arrive in town at the beginning of each turn!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221817Z" creationid="aorin" creationdate="20180528T221817Z">
+        <seg>各ターンのはじめに町に新しいヒーローが到着し続けることを覚えておいてください！</seg>
       </tuv>
     </tu>
     <tu>
