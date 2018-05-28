@@ -6319,6 +6319,14 @@ Blend Slate is full.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all, any self-respecting Boss can de­fend himself from puny adventurers! The strategic heart of Boss Monster is about racing to see who can amass the most Souls;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231808Z" creationid="aorin" creationdate="20180528T231808Z">
+        <seg>ボスモンスターのストラテジックハートは最もソウルを集めるのは誰かを競うレースです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After any Favor Cogs have been earned, discard your unused Program Card and return all of your Robotanists from the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T084143Z" creationid="nakahodo" creationdate="20180312T084143Z">
@@ -7495,6 +7503,14 @@ Mint Supply.</seg>
         <seg>Are you a bad enough dude to become the ultimate Boss Monster?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T143943Z" creationid="nakahodo" creationdate="20180525T143943Z">
+        <seg>あなたは究極なボスモンスターになれるほど、十分にワルでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you a bad enough dude to become the ultimate Boss Monster?  Box contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231826Z" creationid="aorin" creationdate="20180528T231826Z">
         <seg>あなたは究極なボスモンスターになれるほど、十分にワルでしょうか？</seg>
       </tuv>
     </tu>
@@ -9468,6 +9484,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T141948Z" creationid="nakahodo" creationdate="20180525T141948Z">
         <seg>けれども注意してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But beware! Your dungeon must be as deadly as it is enticing, or the puny heroes can actually survive long enough to wound you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231823Z" creationid="aorin" creationdate="20180528T231823Z">
+        <seg>あなたのダンジョンは魅力的であるほど致命的であるか、取るに足らないヒーローがあなたを傷つけるほど長く生き残れないようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31684,6 +31708,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for becoming a part of the Boss Monster community, and happy hero hunting!  How to Play Boss Monster™ is the fast-paced card game of strategic dungeon building! As a Boss Monster, your goal is to lure hapless adventurers into your dungeon and consume their Souls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231823Z" creationid="aorin" creationdate="20180528T231823Z">
+        <seg>ボスモンスターのコミュニティの一員になってくれてありがとうございます。楽しいヒーローハンティングを！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That Pixie remains there until all players have performed all promotion steps.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163625Z" creationid="aorin" creationdate="20171212T163625Z">
@@ -44404,6 +44436,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T103747Z" creationid="nakahodo" creationdate="20180525T103747Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the boss of a videogame-style side-scrolling dungeon! If you have ever spent hours navigating the pixelated perils of 8-bit dungeons, Boss Monster is designed for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T231745Z" creationid="aorin" creationdate="20180528T231745Z">
+        <seg>ピクセル化された危険な8ビットダンジョンで何時間も費やしたあなたのために、このゲームはデザインされました。</seg>
       </tuv>
     </tu>
     <tu>
