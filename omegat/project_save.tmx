@@ -9401,6 +9401,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card Types:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114427Z" creationid="aorin" creationdate="20180528T114427Z">
+        <seg>カードタイプ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Card# refers to a card number and its resolution.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105735Z" creationid="nakahodo" creationdate="20180108T105735Z">
@@ -16006,6 +16014,30 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144100Z" creationid="nakahodo" creationdate="20180525T144100Z">
         <seg>カード25枚のヒーローデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114431Z" creationid="aorin" creationdate="20180528T114431Z">
+        <seg>ヒーローたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes appear "in town" every turn, waiting for adventures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114813Z" creationid="aorin" creationdate="20180528T114813Z">
+        <seg>ヒーローたちはターン毎に「町」に出現し、冒険のため待機します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes are the key resource of Boss Monster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114504Z" creationid="aorin" creationdate="20180528T114504Z">
+        <seg>ヒーローたちはボスモンスターの主要リソースです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33920,6 +33952,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134752Z" creationid="nakahodo" creationdate="20171127T134752Z">
         <seg>ドラゴンがいるタイルには影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The treasure icons indicate what type of Heroes this Room attracts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114426Z" creationid="aorin" creationdate="20180528T114426Z">
+        <seg>トレジャーアイコンはそのルームに惹きつけられるヒーローたちの種類を表します。</seg>
       </tuv>
     </tu>
     <tu>
