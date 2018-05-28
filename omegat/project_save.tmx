@@ -13407,6 +13407,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End of Turn:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T143017Z" creationid="aorin" creationdate="20180528T143017Z">
+        <seg>ターンの終了：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End of game</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223147Z" creationid="nakahodo" creationdate="20171224T223147Z">
@@ -34432,6 +34440,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114426Z" creationid="aorin" creationdate="20180528T114426Z">
         <seg>トレジャーアイコンはそのルームに惹きつけられるヒーローたちの種類を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The turn ends and a new turn begins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T144249Z" creationid="aorin" creationdate="20180528T144249Z">
+        <seg>ターンが終了し、新しいターンが開始されます。</seg>
       </tuv>
     </tu>
     <tu>
