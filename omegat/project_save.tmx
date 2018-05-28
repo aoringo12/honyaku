@@ -2084,6 +2084,22 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0 Fighter treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220329Z" creationid="aorin" creationdate="20180528T220329Z">
+        <seg>ファイタートレジャー0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0 Mage treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220350Z" creationid="aorin" creationdate="20180528T220350Z">
+        <seg>メイジトレジャー0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T101251Z" creationid="nakahodo" creationdate="20171224T101251Z">
@@ -2137,6 +2153,22 @@ board.</seg>
 •1進行トークン（●）
 •4ビニール袋
 インデックスからカード3を引き出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Cleric treasure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220318Z" creationid="aorin" creationdate="20180528T220318Z">
+        <seg>クリックトレジャー1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Fighter treasure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220351Z" creationid="aorin" creationdate="20180528T220351Z">
+        <seg>ファイタートレジャー1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2921,6 +2953,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Mage treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220322Z" creationid="aorin" creationdate="20180528T220322Z">
+        <seg>メイジトレジャー2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 PLAYERS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023453Z" creationid="aorin" creationdate="20180408T023453Z">
@@ -2951,6 +2991,14 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212349Z" creationid="aorin" creationdate="20180114T212349Z">
         <seg>スパイマスターフェイズ
 スパイマスターフェイズ時、あなたはこのターンのみ効果が適応される特別アクション1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Thief treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220334Z" creationid="aorin" creationdate="20180528T220334Z">
+        <seg>シーフトレジャー2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3820,6 +3868,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T025258Z" creationid="nakahodo" creationdate="20171224T130104Z">
         <seg>3 - Charter Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Cleric treasure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220348Z" creationid="aorin" creationdate="20180528T220348Z">
+        <seg>クリックトレジャー3</seg>
       </tuv>
     </tu>
     <tu>
@@ -7505,6 +7561,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T224715Z" creationid="nakahodo" creationdate="20171229T224715Z">
         <seg>グリーングリーの正当な選挙によって選ばれたリーダーとして、あなたは皆に王または女王として対戦相手に演説する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As this turns Bait phase begins, there are three Heroes in town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220255Z" creationid="aorin" creationdate="20180528T220255Z">
+        <seg>誘導フェイズ開始時に、町にはヒーローが3人います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23228,6 +23292,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next turn, two new Heroes will arrive in town, and the situation may change as new Rooms are built.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220511Z" creationid="aorin" creationdate="20180528T220511Z">
+        <seg>次のターン、町に新しいヒーローが二人到着し、新しいルームが建築されたりすることによって状況が変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next, choose two dice and set aside the third die (it will not be used on this turn).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134741Z" creationid="aorin" creationdate="20180409T134708Z">
@@ -26282,6 +26354,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player 2's dungeon (below) contains:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220345Z" creationid="aorin" creationdate="20180528T220345Z">
+        <seg>プレイヤー2のダンジョン（下）には次が含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player Scaling</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132012Z" creationid="aorin" creationdate="20171215T132012Z">
@@ -26310,6 +26390,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T114759Z" creationid="aorin" creationdate="20180408T114759Z">
         <seg>プレイヤーヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player l's dungeon (above) contains:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220313Z" creationid="aorin" creationdate="20180528T220313Z">
+        <seg>プレイヤー1のダンジョン（上）には次が含まれています：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32434,6 +32522,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T204914Z" creationid="aorin" creationdate="20180114T204914Z">
         <seg>ターン5～7は後期を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Mage is lured to Player 1, the Cleric is lured to Player 2, and the Thief stays in town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220419Z" creationid="aorin" creationdate="20180528T220419Z">
+        <seg>メイジはプレイヤー1に、クレリックはプレイヤー2に惹きつけられr、シーフは町に留まります。</seg>
       </tuv>
     </tu>
     <tu>
