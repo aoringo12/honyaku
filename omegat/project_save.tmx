@@ -8673,6 +8673,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bait Phase ExaMp1e</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T215940Z" creationid="aorin" creationdate="20180528T215940Z">
+        <seg>誘導フェイズの例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bait Phase:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T142317Z" creationid="aorin" creationdate="20180528T142317Z">
@@ -16466,6 +16474,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here we see a snapshot of the play area for a two-player game, focused on the ordinary Hero deck and the players' dungeons (for a full game layout, see page 9}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220140Z" creationid="aorin" creationdate="20180528T220140Z">
+        <seg>これは、二人プレイヤーゲームでのプレイエリア図で、通常ヒーローデッキとプレイヤーのダンジョンをフォーカスしています（フルゲームのレイアウトはページ9を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here! It matches one of the treasure in Torture Chamber.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214324Z" creationid="aorin" creationdate="20180528T214324Z">
@@ -22466,6 +22482,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015537Z" creationid="aorin" creationdate="20171229T015537Z">
         <seg>非アクティブチャーターごとに、決定を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manipulating the Bait phase to make sure Heroes come your way is the key to success in Boss Monster!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T215933Z" creationid="aorin" creationdate="20180528T215933Z">
+        <seg>ボスモンスターで成功するカギは、誘導フェイズでヒーローたちが移動するのを制御することです！</seg>
       </tuv>
     </tu>
     <tu>
