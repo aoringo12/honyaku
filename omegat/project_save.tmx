@@ -5648,6 +5648,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A. Text:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132929Z" creationid="aorin" creationdate="20180528T132929Z">
+        <seg>A.	テキスト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A. Treasure Icon:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114953Z" creationid="aorin" creationdate="20180528T114953Z">
@@ -23422,6 +23430,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you've played a Spell, place it in the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132920Z" creationid="aorin" creationdate="20180528T132920Z">
+        <seg>あなたがスペルをプレイすると、捨て札山にこれを捨てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One (1) Advanced Location is selected at random and placed after the Lotto</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030902Z" creationid="aorin" creationdate="20171212T030902Z">
@@ -33901,6 +33917,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131613Z" creationid="aorin" creationdate="20171215T131613Z">
         <seg>ルールリファレンスは簡潔で信頼できる完全な目録を目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules text of the card describes its effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133423Z" creationid="aorin" creationdate="20180528T133423Z">
+        <seg>カードのルールテキストはその効果を説明します。</seg>
       </tuv>
     </tu>
     <tu>
