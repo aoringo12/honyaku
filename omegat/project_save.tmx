@@ -12181,6 +12181,14 @@ position on the Best-Seller List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the Adventure phase, Heroes "attack" dungeons, and players take turns contending with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220558Z" creationid="aorin" creationdate="20180528T220558Z">
+        <seg>冒険フェイズ時、ヒーローたちはダンジョンを「攻撃」し、プレイヤーたちは彼らと争うターンを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the Adventure phase, the highest-XP player is the first to "process" adventurers through her dungeon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T145408Z" creationid="aorin" creationdate="20180528T145408Z">
@@ -16574,6 +16582,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114431Z" creationid="aorin" creationdate="20180528T114431Z">
         <seg>ヒーローたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes Enter:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220750Z" creationid="aorin" creationdate="20180528T220750Z">
+        <seg>ヒーローたちの侵攻：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24718,6 +24734,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T062601Z" creationid="nakahodo" creationdate="20180311T062601Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P layers with Heroes at their dungeon entrances take turns as the active player (highest XP going first), following these steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220737Z" creationid="aorin" creationdate="20180528T220737Z">
+        <seg>自身のダンジョンの入口にヒーローたちが居るプレイヤーたちは、アクティブプレイヤーとしてターンを行います（XPが高い順番に）。次の3つのステップを順番に解決します：</seg>
       </tuv>
     </tu>
     <tu>
