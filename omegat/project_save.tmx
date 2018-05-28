@@ -5356,6 +5356,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A card is "discarded" if a player must remove it from his hand and place it in the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230645Z" creationid="aorin" creationdate="20180528T230645Z">
+        <seg>プレイヤーが自身の手札から取り除く必要があったり、捨て札山に配置する場合、カードは「捨て札」になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A card with an angry action prompts its listed action, regardless of whether the card is odd or even.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T135853Z" creationid="nakahodo" creationdate="20180412T135821Z">
@@ -11661,6 +11669,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T153729Z" creationid="nakahodo" creationdate="20171230T153729Z">
         <seg>結果として残る建築された建物カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230601Z" creationid="aorin" creationdate="20180528T230601Z">
+        <seg>捨て札：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42300,6 +42316,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235504Z" creationid="aorin" creationdate="20180114T235504Z">
         <seg>あなたがユニットを展開できる地形は……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only destroy a Room if a card specifically allows you to do so.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230555Z" creationid="aorin" creationdate="20180528T230555Z">
+        <seg>カードによって許可され、それをした場合にのみルームを破壊できます。</seg>
       </tuv>
     </tu>
     <tu>
