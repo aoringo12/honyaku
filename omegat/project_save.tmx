@@ -6635,6 +6635,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Room cards will be "built" to the left of the Boss card, while acquired Souls and Wounds will be placed to the right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T140312Z" creationid="aorin" creationdate="20180528T140312Z">
+        <seg>全てのルームカードはボスカードの左に「建築」され、獲得されたソウルと負傷は右に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All acquired Penalty Points are preserved.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032825Z" creationid="aorin" creationdate="20171213T032825Z">
@@ -20608,6 +20616,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initial Set Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135716Z" creationid="aorin" creationdate="20180528T135716Z">
+        <seg>初期セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initiate a battle in any clearing whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002334Z" creationid="aorin" creationdate="20171216T002334Z">
@@ -25927,6 +25943,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players reveal their Boss cards and place them to the right of their play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135829Z" creationid="aorin" creationdate="20180528T135829Z">
+        <seg>プレイヤーたちは自身のボスカードを公開し、自身のプレイエリアの右側にそれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players should designate one player as the
 “Brewmaster,” who will control the assignment of
 Turn Order Tokens, movement of the Scoring Tokens
@@ -28714,6 +28738,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090509Z" creationid="nakahodo" creationdate="20180108T090509Z">
         <seg>オートマデッキをシャッフルして、ボード横に裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Boss deck and randomly deal one Boss card to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135759Z" creationid="aorin" creationdate="20180528T135759Z">
+        <seg>ボスデッキをシャッフルし、各プレイヤーにランダムにボスカード1枚ずつを配ります。</seg>
       </tuv>
     </tu>
     <tu>
