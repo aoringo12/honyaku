@@ -13279,6 +13279,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Epic Heroes are gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114831Z" creationid="aorin" creationdate="20180528T114831Z">
+        <seg>アピックヒーローたちはゴールドです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Epic Heroes don't show up in town until all the ordinary heroes have been claimed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114944Z" creationid="aorin" creationdate="20180528T114944Z">
+        <seg>エピックヒーローたちは、全ての通常ヒーローたちが出されるまで町に出てきません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even if an Automa should choose a revealed option on a guidepost, human players will choose on their behalf.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105034Z" creationid="nakahodo" creationdate="20180108T105034Z">
@@ -23645,6 +23661,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151035Z" creationid="nakahodo" creationdate="20180108T150837Z">
         <seg>このラウンド中、注文は早期給仕できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordinary Heroes are silver;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114822Z" creationid="aorin" creationdate="20180528T114822Z">
+        <seg>通常ヒーローたちはシルバーです。</seg>
       </tuv>
     </tu>
     <tu>
