@@ -1480,6 +1480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>, their Room cards face down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142243Z" creationid="aorin" creationdate="20180528T142243Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-
 mum of 20 even with 5 players)</seg>
       </tuv>
@@ -7877,6 +7885,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the Build phase, newly built Rooms are revealed simultaneously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142314Z" creationid="aorin" creationdate="20180528T142314Z">
+        <seg>建築フェイズの終わりに、新しく建築するルームを同時に公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the Build phase, simultaneously reveal (see Rulebook pg.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T123840Z" creationid="nakahodo" creationdate="20180525T123840Z">
@@ -8573,6 +8589,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T125152Z" creationid="nakahodo" creationdate="20180525T125152Z">
         <seg>誘導フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bait Phase:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142317Z" creationid="aorin" creationdate="20180528T142317Z">
+        <seg>誘導フェイズ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16230,6 +16254,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114504Z" creationid="aorin" creationdate="20180528T114504Z">
         <seg>ヒーローたちはボスモンスターの主要リソースです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes move to the entrance of the dungeon with the highest corresponding treasure value (or stay in town, if treasure values are tied).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142716Z" creationid="aorin" creationdate="20180528T142716Z">
+        <seg>ヒーローたちはトレジャー値の一致する最も高いダンジョンに移動します（またはトレジャー値がタイの場合、町に留まります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26129,8 +26161,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Players take turns in XP order, highest to lowest, placing</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180528T142108Z" creationid="aorin" creationdate="20180528T142108Z">
-        <seg>プレイヤーたちはXP順にターンを行い</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142237Z" creationid="aorin" creationdate="20180528T142108Z">
+        <seg>プレイヤーたちはXPが高い順にターンを行い、自身のルームカードを裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
