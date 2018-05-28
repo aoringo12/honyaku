@@ -8708,6 +8708,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before the first turn begins, each player can build one Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141039Z" creationid="aorin" creationdate="20180528T141039Z">
+        <seg>最初のターン開始前に、各プレイヤーはルーム1つを建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before they can leave the mine during a promotion, slaves need to rid themselves of all Rocks they are attached to.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074418Z" creationid="aorin" creationdate="20171213T074418Z">
@@ -8972,6 +8980,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054852Z" creationid="aorin" creationdate="20171216T054852Z">
         <seg>砦の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Your First ROOM</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141012Z" creationid="aorin" creationdate="20180528T141012Z">
+        <seg>最初のルームを建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33130,6 +33146,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The highest-XP player goes first, then each other player places a face-down Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141231Z" creationid="aorin" creationdate="20180528T141231Z">
+        <seg>最もXPの高いプレイヤーから行い、各プレイヤー裏向きでルーム1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The immortal Forever King has selected 6 citizens of Greengulりto start a new village  farfi'om the Eternal City.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T115217Z" creationid="nakahodo" creationdate="20171224T101653Z">
@@ -36117,6 +36141,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090628Z" creationid="nakahodo" creationdate="20180413T090628Z">
         <seg>私自身を取り戻すための……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To "build" a Room card, place it face-down on the table to the left of your Boss card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T141105Z" creationid="aorin" creationdate="20180528T141105Z">
+        <seg>ルームカードを「建築」するには、自身のボスカードの左に裏向きでそれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
