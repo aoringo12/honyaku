@@ -5624,6 +5624,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A. Room Icon:' A silver icon is an ordinary Room, while Advanced Rooms have gold icons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114022Z" creationid="aorin" creationdate="20180528T114022Z">
+        <seg>A.	ルームアイコン：銀のアイコンは通常ルーム、金のアイコンは強化済ルームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222954Z" creationid="nakahodo" creationdate="20171224T222954Z">
@@ -5845,6 +5853,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100920Z" creationid="nakahodo" creationdate="20180108T100920Z">
         <seg>進展トラックに従い、進展トークンを1スペース進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Rooms are "upgrades" that can only be built on existing Rooms with at least one matching treasure icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T113950Z" creationid="aorin" creationdate="20180528T113950Z">
+        <seg>強化済ルームは少なくとも1つのトレジャーアイコンに一致する、既存のルーム上にのみ「アップグレード」として建築できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23557,6 +23573,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151035Z" creationid="nakahodo" creationdate="20180108T150837Z">
         <seg>このラウンド中、注文は早期給仕できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordinary Rooms can be built at the end of your dungeon, or over</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T113829Z" creationid="aorin" creationdate="20180528T113829Z">
+        <seg>通常ルームはダンジョンの端、または他のルーム上に建築できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42562,6 +42586,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145351Z" creationid="nakahodo" creationdate="20171224T145351Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>£D.Y other Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T113831Z" creationid="aorin" creationdate="20180528T113831Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
