@@ -5848,6 +5848,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Player:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T145412Z" creationid="aorin" creationdate="20180528T145412Z">
+        <seg>アクティブプレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adapt</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061047Z" creationid="nakahodo" creationdate="20180413T060736Z">
@@ -38611,6 +38619,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you are the active player (i.e., when you are placing a Room or "processing" adventurers), you have priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T145613Z" creationid="aorin" creationdate="20180528T145613Z">
+        <seg>あなたがアクティブプレイヤーの時（例えば、あなたがルームを配置していたり、ヒーローたちを「進行させている」時）、優先権はあなたにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you attack the [Vile] Ghoul, you are forced to Teleport after it skitters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T044036Z" creationid="nakahodo" creationdate="20180411T091129Z">
@@ -40482,6 +40498,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T082140Z" creationid="nakahodo" creationdate="20180413T082140Z">
         <seg>シーフプレイヤーが得ていないものを含めて、シーフのアップグレードを全て使用できますが、ステータス上昇効果は得られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use any number of Spells and abilities before any other player can respond (even higherXP players).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T205744Z" creationid="aorin" creationdate="20180528T205744Z">
+        <seg>いずれかの他プレイヤーが反応する前に（たとえ自分よりそのプレイヤーのXPが高くても）、任意の数のスペルと能力を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
