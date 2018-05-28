@@ -10612,6 +10612,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D. Player Icon:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T131252Z" creationid="aorin" creationdate="20180528T131252Z">
+        <seg>D.	プレイヤーアイコン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D. Treasure:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104608Z" creationid="aorin" creationdate="20180526T104608Z">
@@ -35396,6 +35404,14 @@ using the Hiding Spots secrets card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T125102Z" creationid="nakahodo" creationdate="20171127T125102Z">
         <seg>これはハイディングスポットシークレットカードを使用する時も含まれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This indicates whether the card should be used in a two-, three- or four-player game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T131836Z" creationid="aorin" creationdate="20180528T131836Z">
+        <seg>これは、このカードが2、3、4プレイヤーゲームで使用できるかどうかを表します。</seg>
       </tuv>
     </tu>
     <tu>
