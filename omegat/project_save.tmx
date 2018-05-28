@@ -10338,6 +10338,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classic Mode:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223806Z" creationid="aorin" creationdate="20180528T223806Z">
+        <seg>クラシックモード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Claw counts as eating 1 Goblin and causes the Unicorn to lose 1 Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151502Z" creationid="nakahodo" creationdate="20180412T151502Z">
@@ -12038,6 +12046,22 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210444Z" creationid="aorin" creationdate="20180528T210444Z">
         <seg>セットアップ時は、自身のボスカードの左に最初のルームを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Setup, deal each player two Boss cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224052Z" creationid="aorin" creationdate="20180528T224038Z">
+        <seg>セットアップ時、各プレイヤーにボスカードを2枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Setup, each player draws five</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223816Z" creationid="aorin" creationdate="20180528T223816Z">
+        <seg>セットアップ時、各プレイヤーは</seg>
       </tuv>
     </tu>
     <tu>
@@ -16254,6 +16278,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hard Mode:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223851Z" creationid="aorin" creationdate="20180528T223851Z">
+        <seg>ハードモード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082633Z" creationid="aorin" creationdate="20180409T082633Z">
@@ -17101,6 +17133,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074931Z" creationid="aorin" creationdate="20180410T074931Z">
         <seg>ハンター（エキスパート）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I Choose You:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224041Z" creationid="aorin" creationdate="20180528T224035Z">
+        <seg>オレがお前のを選ぶ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,6 +26514,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play Variants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223802Z" creationid="aorin" creationdate="20180528T223802Z">
+        <seg>プレイヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play a Program Card</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073058Z" creationid="nakahodo" creationdate="20180311T073058Z">
@@ -26673,6 +26721,14 @@ Research (gain abilities).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T155453Z" creationid="nakahodo" creationdate="20180430T155351Z">
         <seg>プレイヤーたちは外側スペースで移動を終了できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players choose one and remove the other from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224110Z" creationid="aorin" creationdate="20180528T224110Z">
+        <seg>プレイヤーたちは1枚を選択し、残ったほうをゲームから取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28044,6 +28100,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove all ordinary Heroes with a Health value of four.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223918Z" creationid="aorin" creationdate="20180528T223918Z">
+        <seg>ヘルスが4の通常ヒーローたちを全て取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove any Ghoul discs on your Attack space and set them beside your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T083708Z" creationid="aorin" creationdate="20180410T083708Z">
@@ -28724,6 +28788,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144036Z" creationid="nakahodo" creationdate="20180525T144036Z">
         <seg>カード75枚のルームデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room cards and two Spell cards, then discards two cards of their choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T223847Z" creationid="aorin" creationdate="20180528T223847Z">
+        <seg>ルームカード5枚とスペルカード2枚をドローし、その後、自身が選択したカード2枚を捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36850,6 +36922,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T090544Z" creationid="nakahodo" creationdate="20171230T090509Z">
         <seg>これは単純に酒とつまみを並べるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes it difficult to avoid a Wound in early turns, and brings Epic Heroes into play a turn earlier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224017Z" creationid="aorin" creationdate="20180528T224006Z">
+        <seg>これはゲーム早期に負傷を受けやすくなり、エピックヒーローの登場が早くなり、難易度が高くなることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
