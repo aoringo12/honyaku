@@ -5856,6 +5856,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abilities that say "When you build this Room" trigger when a Room is built, not if it is revealed for other reasons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225311Z" creationid="aorin" creationdate="20180528T225311Z">
+        <seg>ルームが建築された時、その能力が「あながたこのルームを建築する時」と指示する場合に発動します。他の理由でカードが公開されたときは除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accompanying the Forever King's arrival are a host of advancements never before seen in the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233335Z" creationid="aorin" creationdate="20171231T233335Z">
@@ -9324,6 +9332,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072227Z" creationid="nakahodo" creationdate="20180311T072227Z">
         <seg>ガーデンを造る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224517Z" creationid="aorin" creationdate="20180528T224517Z">
+        <seg>建築：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24512,6 +24528,14 @@ bean spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ongoing abilities and "when you build this Room" abilities are not considered activated abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224505Z" creationid="aorin" creationdate="20180528T224505Z">
+        <seg>継続能力や「あなたがこのルームを建築した時」能力は起動型能力とみなしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only Plans the AI can currently
 afford are taken into consideration.</seg>
       </tuv>
@@ -29255,6 +29279,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T102018Z" creationid="nakahodo" creationdate="20180108T102018Z">
         <seg>詳細は下記の指標セクションを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See page 10 for details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T224514Z" creationid="aorin" creationdate="20180528T224514Z">
+        <seg>ページ10の詳細を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
