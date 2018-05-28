@@ -5033,6 +5033,22 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>@= Monster</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114114Z" creationid="aorin" creationdate="20180528T114114Z">
+        <seg>○=モンスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>@= Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114119Z" creationid="aorin" creationdate="20180528T114119Z">
+        <seg>○=トラップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A 1 can spin to a 6 and vice-versa.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T090325Z" creationid="nakahodo" creationdate="20180312T090325Z">
@@ -8377,6 +8393,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B. Ability:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114126Z" creationid="aorin" creationdate="20180528T114126Z">
+        <seg>B.	能力：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B. Boss Ability:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104329Z" creationid="aorin" creationdate="20180526T104329Z">
@@ -8996,6 +9020,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064432Z" creationid="aorin" creationdate="20171213T064432Z">
         <seg>アクションディスクを適切なアクションスペースに配置することにより、プレイヤーは自身の鉱山のピクシーをアクティブにできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C. Damage:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114215Z" creationid="aorin" creationdate="20180528T114215Z">
+        <seg>C.	ダメージ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12915,6 +12947,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121516Z" creationid="nakahodo" creationdate="20171001T121516Z">
         <seg>各チームはワールドマップの自身の地域上部にあるブレンドスレートを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time a Hero enters a Room, it takes the listed damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114237Z" creationid="aorin" creationdate="20180528T114237Z">
+        <seg>ヒーローがルームに入るたびに、記述されているダメージを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33721,6 +33761,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rules text of the card is active as long as it is visible and in play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114209Z" creationid="aorin" creationdate="20180528T114209Z">
+        <seg>カードのルールテキストは、プレイされて有効な限りアクティブです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The selected row lists your Movement and Attack for this turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T085419Z" creationid="aorin" creationdate="20180410T085419Z">
@@ -35187,6 +35235,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
         <seg>これは、このアクションが再び利用可能になることを意味するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This icon also shows a Room's subtype:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114055Z" creationid="aorin" creationdate="20180528T114055Z">
+        <seg>このアイコンはまた、ルームのサブタイプを表します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37723,6 +37779,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T155030Z" creationid="nakahodo" creationdate="20180412T155030Z">
         <seg>ユニコーンが暴走を実行する時、次の優先順位に従い対象のプレイヤーピースを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the damage meets or exceeds its Health, that Hero dies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114336Z" creationid="aorin" creationdate="20180528T114336Z">
+        <seg>ダメージがヒーローのヘルスに達するか超えたとき、そのヒーローは死にます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42522,6 +42586,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043043Z" creationid="aorin" creationdate="20171213T043043Z">
         <seg>あなたがリソースを獲得するたびに、それらのいずれかを拒否することがはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether it's a Monster Room or a Trap Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T114108Z" creationid="aorin" creationdate="20180528T114108Z">
+        <seg>モンスタールームかトラップルーム。</seg>
       </tuv>
     </tu>
     <tu>
