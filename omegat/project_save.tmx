@@ -16650,6 +16650,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heroes obey a "first in, first out" rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221509Z" creationid="aorin" creationdate="20180528T221509Z">
+        <seg>ヒーローたちは「最初に入り、最初に出る」ルールに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heroes travel through dungeons.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T142739Z" creationid="aorin" creationdate="20180528T142739Z">
@@ -23981,6 +23989,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all Heroes are processed, priority passes to the player with the next highest XP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221425Z" creationid="aorin" creationdate="20180528T221425Z">
+        <seg>全てのヒーローたちが処理を終えると、次に高いXPを持つプレイヤーに優先権が移ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once all players have completed their reinforcement orders, the Reinforcement stage ends.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064849Z" creationid="aorin" creationdate="20180115T064849Z">
@@ -30002,6 +30018,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes, Hero sequence can be important.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221450Z" creationid="aorin" creationdate="20180528T221450Z">
+        <seg>ヒーローの順番が重要になることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soon they're standing to full attention at key points of entry and exit for each charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T094022Z" creationid="nakahodo" creationdate="20171230T094022Z">
@@ -33633,6 +33657,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The closest to the deck should always be the one that has been in play longest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221658Z" creationid="aorin" creationdate="20180528T221658Z">
+        <seg>デッキに近くなるほど、長く存在していると考えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The closest visible player piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T160317Z" creationid="nakahodo" creationdate="20180412T160317Z">
@@ -37089,6 +37121,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To keep track of this, place each newly revealed Hero to the side of the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221615Z" creationid="aorin" creationdate="20180528T221615Z">
+        <seg>これを維持するため、デッキのそばに新しく公開するヒーローを1枚ずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To minimize spoilers, we have left the descriptions deliberately vague.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105814Z" creationid="nakahodo" creationdate="20180108T105814Z">
@@ -37295,6 +37335,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T150847Z" creationid="aorin" creationdate="20180407T150847Z">
         <seg>憑依カードに特に記述がない限り、ロールの勝利条件と他のステータスを通常どおり参照します（経験値、覚醒、怒り、など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tracking Heroes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221435Z" creationid="aorin" creationdate="20180528T221435Z">
+        <seg>ヒーローたちの管理</seg>
       </tuv>
     </tu>
     <tu>
