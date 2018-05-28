@@ -26127,6 +26127,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players take turns in XP order, highest to lowest, placing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T142108Z" creationid="aorin" creationdate="20180528T142108Z">
+        <seg>プレイヤーたちはXP順にターンを行い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players will carry over all components  in their personal supply from Game 1 to Game 2.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T155148Z" creationid="nakahodo" creationdate="20171224T155148Z">
