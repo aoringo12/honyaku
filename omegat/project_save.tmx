@@ -6982,6 +6982,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also keep in mind that ordinary Rooms can always be built over any Room, regardless of treasure type!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214116Z" creationid="aorin" creationdate="20180528T214116Z">
+        <seg>また、通常ルームは、トレジャーの種類にかかわらず、任意のルームの上に権tクできることを覚えておいてください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also stack the extra Reward Tiles
 here.</seg>
       </tuv>
@@ -9060,6 +9068,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145310Z" creationid="nakahodo" creationdate="20180108T145310Z">
         <seg>Broken Spice Cabinet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BuilCling over</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213839Z" creationid="aorin" creationdate="20180528T213839Z">
+        <seg>再建築</seg>
       </tuv>
     </tu>
     <tu>
@@ -21611,6 +21627,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep an eye on your treasure types as you're building Rooms, because they will limit the Advanced Rooms you're allowed to play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213930Z" creationid="aorin" creationdate="20180528T213930Z">
+        <seg>建築するルームのトレジャー種類に気を配ってください。有効ルームの数には上限があるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep in mind that even at this point Bread can be spent to remove Rocks (see “Mine” Action).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033252Z" creationid="aorin" creationdate="20171213T033252Z">
@@ -22894,6 +22918,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T140810Z" creationid="aorin" creationdate="20180528T140805Z">
         <seg>マリガン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-treasure Rooms (with gold borders) tend to be low-damage, but they give your dungeon versatility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T214015Z" creationid="aorin" creationdate="20180528T214015Z">
+        <seg>複数トレジャーのあるルーム（金枠）は低いダメージですが、あんたのダンジョンの汎用性を高めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26677,6 +26709,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164933Z" creationid="nakahodo" creationdate="20171224T214026Z">
         <seg>個人目標カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pro Tip:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213830Z" creationid="aorin" creationdate="20180528T213830Z">
+        <seg>プレイチップス：</seg>
       </tuv>
     </tu>
     <tu>
