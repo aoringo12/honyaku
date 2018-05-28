@@ -23725,6 +23725,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once each player has had the chance to place a Room, during the "end of the Build phase," players simultaneously flip over their Room cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213716Z" creationid="aorin" creationdate="20180528T213716Z">
+        <seg>各プレイヤーがルームを配置する機会を得ると、「建築フェイズ」終了時に、プレイヤーたちは自身のルームカードを同時に公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once per turn, as a free action, you may gain</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145041Z" creationid="nakahodo" creationdate="20180430T145041Z">
@@ -30879,6 +30887,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Active Player-'s effects are always resolved first, with other player's effects resolved in XP order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213639Z" creationid="aorin" creationdate="20180528T213639Z">
+        <seg>アクティブプレイヤーの効果は常に最初に解決され、XPの高い順に他プレイヤーの効果が解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Adventure phase does not end until each player has had a chance to act.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T132531Z" creationid="nakahodo" creationdate="20180525T132531Z">
@@ -35350,6 +35366,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085144Z" creationid="nakahodo" creationdate="20180108T085144Z">
         <seg>これらカード13枚でオートマデッキを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These Rooms are now considered "built." Any "Level Up" and "when you build this Room" abilities take effect for the highest XP player, followed by lower-XP players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T213809Z" creationid="aorin" creationdate="20180528T213809Z">
+        <seg>これらルームは今「建築された」とみなされ、任意の「レベルアップ」と「あなたがこのルームを建築した時」能力を、XPの高い順番に解決します。</seg>
       </tuv>
     </tu>
     <tu>
