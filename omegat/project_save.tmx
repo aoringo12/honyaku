@@ -7549,6 +7549,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Hero enters each</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220902Z" creationid="aorin" creationdate="20180528T220902Z">
+        <seg>ヒーローが各ルームに入ることで、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the party finally winds down, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T171228Z" creationid="nakahodo" creationdate="20171229T171228Z">
@@ -11121,6 +11129,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221751Z" creationid="aorin" creationdate="20171215T221751Z">
         <seg>お互いに同時にヒットを与えます。その後、戦闘は終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Death:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221025Z" creationid="aorin" creationdate="20180528T221025Z">
+        <seg>死：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17233,6 +17249,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Hero exits a Room with damage equal to or exceeding its Health, it dies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221059Z" creationid="aorin" creationdate="20180528T221059Z">
+        <seg>ヒーローの持つヘルスと同量かそれ以上のダメージをルームが与えた場合、ヒーローは死にます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a Hero survives a Room, it enters the next Room.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T131328Z" creationid="nakahodo" creationdate="20180525T131328Z">
@@ -20632,6 +20656,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064610Z" creationid="aorin" creationdate="20171213T064610Z">
         <seg>鉱山にドレイがいない場合、プレイヤーは1キューブのみ取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In each Room, after damage is dealt, players may play abilities or Spells marked with the Adventure (Axe) icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221009Z" creationid="aorin" creationdate="20180528T221009Z">
+        <seg>各ルームにて、ダメージを与えたあと、プレイヤーたちは冒険（斧）アイコンを持つ能力かスペルをプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28536,6 +28568,22 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room, any Room ability takes effect, then the Room deals its damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220930Z" creationid="aorin" creationdate="20180528T220930Z">
+        <seg>ルームは能力の効果を発揮し、その後、ダメージを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rooms Deal Damage:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220850Z" creationid="aorin" creationdate="20180528T220850Z">
+        <seg>ルームがダメージを与える：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rooms can be built on top of any Room.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210558Z" creationid="aorin" creationdate="20180528T210558Z">
@@ -30090,6 +30138,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spells and Abilities:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220935Z" creationid="aorin" creationdate="20180528T220935Z">
+        <seg>スペルと能力：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spells reflect the power of your Boss Monster to affect what happens in your dungeon ...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T132427Z" creationid="aorin" creationdate="20180528T132328Z">
@@ -30360,6 +30416,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025246Z" creationid="aorin" creationdate="20171212T025246Z">
         <seg>スタートプレイヤートークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting with the first Hero to arrive at an entrance to a player's dungeon, that Hero begins to move through that player's dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T220839Z" creationid="aorin" creationdate="20180528T220839Z">
+        <seg>プレイヤーのダンジョンのエントランスへと最初に到着したヒーローから始まり、ヒーローはプレイヤーのダンジョンを進むように移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33405,6 +33469,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123734Z" creationid="nakahodo" creationdate="20171213T123734Z">
         <seg>このアクションを選択したプレイヤーは直ちにアクションフェイズを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The active player's effects are always resolved first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T221021Z" creationid="aorin" creationdate="20180528T221021Z">
+        <seg>アクティブプレイヤーの効果は常に優先され、最初に解決されます。</seg>
       </tuv>
     </tu>
     <tu>
