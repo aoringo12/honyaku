@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your Boss is not a Room).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210528Z" creationid="aorin" creationdate="20180528T210528Z">
+        <seg>（あなたのボスはルームではありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(and other revealed cards):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105730Z" creationid="nakahodo" creationdate="20171225T105655Z">
@@ -5961,6 +5969,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Rooms can only be built on top of a Room with at least one matching treasure icon .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210608Z" creationid="aorin" creationdate="20180528T210608Z">
+        <seg>強化済ルームは少なくとも1つのトレジャーアイコンに一致する、既存のルーム上にのみ「アップグレード」として建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Rooms can only be built over a Room with a matching treasure icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T124732Z" creationid="nakahodo" creationdate="20180525T124732Z">
@@ -6613,6 +6629,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T165533Z" creationid="nakahodo" creationdate="20171230T165533Z">
         <seg>あなたのターンの後、チャーターストーンをロールする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Afterward, build additional new Rooms to the left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210510Z" creationid="aorin" creationdate="20180528T210510Z">
+        <seg>その後は、その左に追加の新しいルームを建築します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23521,6 +23545,14 @@ have the chance to choose Place or Pass again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On top of an existing Room card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210544Z" creationid="aorin" creationdate="20180528T210544Z">
+        <seg>既存ルームカードの上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On your turn, you will play a Program Card to manipulate Gems or Sector Dice in the garden, and then place a Robotanists onto the board to earn Favor Cogs.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T065930Z" creationid="nakahodo" creationdate="20180311T065930Z">
@@ -24125,6 +24157,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151035Z" creationid="nakahodo" creationdate="20180108T150837Z">
         <seg>このラウンド中、注文は早期給仕できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordinary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210547Z" creationid="aorin" creationdate="20180528T210547Z">
+        <seg>通常ルームは</seg>
       </tuv>
     </tu>
     <tu>
@@ -28148,6 +28188,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144036Z" creationid="nakahodo" creationdate="20180525T144036Z">
         <seg>カード75枚のルームデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rooms can be built on top of any Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210558Z" creationid="aorin" creationdate="20180528T210558Z">
+        <seg>任意のルームの上に建築できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40990,10 +41038,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may build a maximum of five visible Rooms in your dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210518Z" creationid="aorin" creationdate="20180528T210518Z">
+        <seg>自身のダンジョンには最大5つまでの有効ルームのみ所持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may choose any difficulty level.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132410Z" creationid="nakahodo" creationdate="20180412T132410Z">
         <seg>難易度レベルを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may choose not to play a Room, but you cannot change your choice once you are no longer the "active player."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210729Z" creationid="aorin" creationdate="20180528T210729Z">
+        <seg>あなたはルームをプレイしないことを選択できますが、「アクティブプレイヤー」でなくなったら、選択の変更はできません。</seg>
       </tuv>
     </tu>
     <tu>
