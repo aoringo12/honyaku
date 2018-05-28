@@ -13007,6 +13007,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn, you can build a new Room in your dungeon, up to a maximum of five visible Rooms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T113716Z" creationid="aorin" creationdate="20180528T113716Z">
+        <seg>各ターン、自身のダンジョンに有効ルームが最大5つになるまで、新しいルームを建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each wooden disc represents 1 worker.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213752Z" creationid="aorin" creationdate="20180114T213752Z">
@@ -41421,6 +41429,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T143502Z" creationid="nakahodo" creationdate="20180525T143502Z">
         <seg>あなたのダンジョンは魅力的であるほど致命的であるか、取るに足らないヒーローがあなたを傷つけるほど長く生き残れないようにする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your dungeon's Rooms attract and damage Heroes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T113511Z" creationid="aorin" creationdate="20180528T113511Z">
+        <seg>あなたのダンジョンのルームはヒーローたちを惹きつけてダメージを与えます。</seg>
       </tuv>
     </tu>
     <tu>
