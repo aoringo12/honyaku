@@ -29074,6 +29074,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soul:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T131838Z" creationid="aorin" creationdate="20180528T131838Z">
+        <seg>ソウル：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Souls before you take 5 Wounds!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T103104Z" creationid="aorin" creationdate="20180526T103104Z">
@@ -37473,6 +37481,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162211Z" creationid="nakahodo" creationdate="20180430T162211Z">
         <seg>ゴブリン部族が川に入る時、強制移動であっても、直ちに人口が1失われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a Hero dies in your dungeon, turn it face-down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T131933Z" creationid="aorin" creationdate="20180528T131933Z">
+        <seg>あなたのダンジョンでヒーローが死ぬとき、それを裏向きにします。</seg>
       </tuv>
     </tu>
     <tu>
