@@ -7282,6 +7282,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Spell or ability that allows you to "cancel" a Spell allows you to interrupt a declared spell, even if you are not the Active Player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225637Z" creationid="aorin" creationdate="20180528T225637Z">
+        <seg>任意のスペルやアビリティが「キャンセル」の効果を持つ場合、あなたがアクティブプレイヤーでなくても、宣言されたスペルを中断させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Token that is revealed with Blend face-up is a vote for the team to
 Blend, and any Token with Research is a vote for the team to Research.</seg>
       </tuv>
@@ -9660,6 +9668,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072906Z" creationid="aorin" creationdate="20171216T072906Z">
         <seg>あなたかあなたの敵が撤退する時に、ヒットを負わせるために消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225523Z" creationid="aorin" creationdate="20180528T225523Z">
+        <seg>キャンセル：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41892,6 +41908,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210518Z" creationid="aorin" creationdate="20180528T210518Z">
         <seg>自身のダンジョンには最大5つまでの有効ルームのみ所持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may build one Room per turn, you may not rearrange Rooms in your dungeon when building (unless a card states otherwise), you may not build over face-down Rooms, and you may only build a maximum of five visible Rooms in your dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225519Z" creationid="aorin" creationdate="20180528T225519Z">
+        <seg>ターン毎にルーム1つを建築でき、建築するときにダンジョンのルームを再配置はできず（カードに特に記述がなければ）、裏向きのルームを建築できず、最大5つまでの有効ルームを建築できます。</seg>
       </tuv>
     </tu>
     <tu>
