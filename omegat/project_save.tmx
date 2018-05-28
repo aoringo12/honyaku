@@ -30589,6 +30589,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "active player" always has priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T144520Z" creationid="aorin" creationdate="20180528T144520Z">
+        <seg>「アクティブプレイヤー」が常に優先権を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 1st player to choose this action each round immediately gets 1 Penalty Point, the</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144214Z" creationid="nakahodo" creationdate="20171213T144214Z">
@@ -39818,6 +39826,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T011557Z" creationid="aorin" creationdate="20171229T011557Z">
         <seg>あなたのチャーターが拡張への永遠なる王からの絶え間ぬ圧力でいっぱいになり、村の周囲を回る空島を利用する計画を考案します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within each phase of the game, priority passes from player to player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T144431Z" creationid="aorin" creationdate="20180528T144431Z">
+        <seg>ゲームの各フェイズ中で、プレイヤーからプレイヤーへと優先権が渡されます。</seg>
       </tuv>
     </tu>
     <tu>
