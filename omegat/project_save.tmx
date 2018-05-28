@@ -5220,6 +5220,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Room can be placed in one of two locations:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210340Z" creationid="aorin" creationdate="20180528T210340Z">
+        <seg>ルームは2つの場所の内、1つに配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Room's treasure value determines what type of Heroes it attracts, while its damage determines its ability to destroy Heroes (by depleting their Health).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102751Z" creationid="aorin" creationdate="20180526T102751Z">
@@ -9152,6 +9160,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Builel Phase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210214Z" creationid="aorin" creationdate="20180528T210214Z">
+        <seg>建築フェイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bury your spoils and line the walls with tricksy trinkets, traps (and the occasional Goblin).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T132639Z" creationid="nakahodo" creationdate="20180524T132639Z">
@@ -11810,6 +11826,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Set Up, place your first Room to the left of your Boss card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210444Z" creationid="aorin" creationdate="20180528T210444Z">
+        <seg>セットアップ時は、自身のボスカードの左に最初のルームを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During a Rampage, he does not immediately</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T144254Z" creationid="nakahodo" creationdate="20180412T144254Z">
@@ -12009,6 +12033,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T205939Z" creationid="aorin" creationdate="20180528T205939Z">
         <seg>ターンの開始時には、次の処理が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the Build phase, players take turns placing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210223Z" creationid="aorin" creationdate="20180528T210223Z">
+        <seg>建築フェイズ時、</seg>
       </tuv>
     </tu>
     <tu>
@@ -23637,6 +23669,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once each player has drawn a card, the Build phase begins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210207Z" creationid="aorin" creationdate="20180528T210207Z">
+        <seg>各プレイヤーがカード1枚をドローすると、建築フェイズが開始されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once per turn, as a free action, you may gain</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145041Z" creationid="nakahodo" creationdate="20180430T145041Z">
@@ -28112,6 +28152,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rooms face-down in their dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210240Z" creationid="aorin" creationdate="20180528T210240Z">
+        <seg>プレイヤーたちは自身のダンジョンに、裏向きでルームを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
@@ -29622,6 +29670,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144051Z" creationid="nakahodo" creationdate="20180525T144043Z">
         <seg>カード31枚のスペルデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spell cards, Room cards, and activated abilities cannot be used during the Beginning of Turn phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210150Z" creationid="aorin" creationdate="20180528T210150Z">
+        <seg>スペルカード、ルームカード、アクティブな能力は「、ターンの開始時には使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36601,6 +36657,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To the left of your leftmost card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210414Z" creationid="aorin" creationdate="20180528T210414Z">
+        <seg>最も左側カードの左。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To the right is a representation of the map on Turn 1 of a new game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031159Z" creationid="aorin" creationdate="20180115T031159Z">
@@ -41642,6 +41706,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102352Z" creationid="aorin" creationdate="20180410T102352Z">
         <seg>クリスタル7つを砕く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must specify where the Room is to be placed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T210308Z" creationid="aorin" creationdate="20180528T210308Z">
+        <seg>あなたは特定の場所にルームを配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
