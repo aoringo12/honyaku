@@ -7965,6 +7965,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the beginning of the Adventure phase, Heroes enter dungeons in the order that they arrived.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230942Z" creationid="aorin" creationdate="20180528T230938Z">
+        <seg>冒険フェイズが始まると、ヒーローたちは順番でダンジョンに入ってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the beginning of the Recruitment Phase, Charles is in control of 1 Village and 2 Cities.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214250Z" creationid="aorin" creationdate="20180114T214250Z">
@@ -9476,6 +9484,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075214Z" creationid="aorin" creationdate="20171213T075214Z">
         <seg>このアクションを選択すると、自身のタイル1枚と、それと同じ種類のタイル1枚を、ゲームボード[または]対戦相手のプレイヤースクリーン上から交換する事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, an effect that forces a player to discard a card allows the player to choose which card is discarded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230834Z" creationid="aorin" creationdate="20180528T230803Z">
+        <seg>通常、カードを捨て札にすることをプレイヤーに強制する効果は、どれを捨て札にするか対象プレイヤーが選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13959,6 +13975,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entrance:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230840Z" creationid="aorin" creationdate="20180528T230840Z">
+        <seg>エントランス：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Epic Hero Deck with 16 cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144120Z" creationid="nakahodo" creationdate="20180525T144120Z">
@@ -14548,6 +14572,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T072045Z" creationid="nakahodo" creationdate="20171209T072045Z">
         <seg>プレイヤーの近所に表向きになっているプランカードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Face-Down:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230946Z" creationid="aorin" creationdate="20180528T230946Z">
+        <seg>裏向き：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31669,6 +31701,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "entrance" to your dungeon is the area to the left of your leftmost Room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230911Z" creationid="aorin" creationdate="20180528T230911Z">
+        <seg>あなたのダンジョンの「エントランス」は、最も左のルームによるエリアになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 1st player to choose this action each round immediately gets 1 Penalty Point, the</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T144214Z" creationid="nakahodo" creationdate="20171213T144214Z">
@@ -39156,6 +39196,14 @@ of the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031407Z" creationid="aorin" creationdate="20171212T031407Z">
         <seg>プランがSupplierによって取られる時、別の効果によって補充されない場合、アップキープ時ではなく直ちにプランデッキから1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a card says "discard a card at random," an opponent randomly chooses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230824Z" creationid="aorin" creationdate="20180528T230824Z">
+        <seg>カードが「ランダムにカードを捨て札にする」と指示する場合、対戦相手がランダムに選択します。</seg>
       </tuv>
     </tu>
     <tu>
