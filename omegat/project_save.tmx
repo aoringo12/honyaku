@@ -17061,6 +17061,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If another player plays a Spell while you are the active player, you may play and resolve any number of Spells or effects before opponents' Spells or abilities resolve.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T134824Z" creationid="aorin" creationdate="20180528T134824Z">
+        <seg>あなたがアクティブプレイヤーのときに他のプレイヤーがスペルをプレイする場合、あなたは対戦相手のスペルや能力が解決される前に、任意の枚数のスペルや効果のプレイと解決ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If another player would get the Past Plunder Variant card, the Ghost gets it instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023452Z" creationid="aorin" creationdate="20180408T023452Z">
@@ -26195,8 +26203,8 @@ Roasters.</seg>
       <tuv lang="EN-US">
         <seg>Priority:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20180528T133714Z" creationid="aorin" creationdate="20180528T133714Z">
-        <seg>優先度：</seg>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133724Z" creationid="aorin" creationdate="20180528T133714Z">
+        <seg>優先：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39634,6 +39642,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T110911Z" creationid="nakahodo" creationdate="20180411T090534Z">
         <seg>あなたは強制テレポートしますが、輝きを得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are the active player while you are placing a Room face-down during the Build phase, or while you are "processing" Heroes in your dungeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T133856Z" creationid="aorin" creationdate="20180528T133856Z">
+        <seg>あなたは、建築フェイズ時にルーム1枚を裏向きで配置しているか、自身のタンジョンにヒーローたちを「進行」させている間、あなたはアクティブプレイヤーです。</seg>
       </tuv>
     </tu>
     <tu>
