@@ -13767,6 +13767,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effects that trigger off the number of Rooms in your dungeon do not count it as a Room while it is deactivated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230120Z" creationid="aorin" creationdate="20180528T230120Z">
+        <seg>アクティブ不可ルームは、あなたのダンジョンのルーム数によってトリガーされる効果にカウントされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effect​ ​location.​ ​In general, the Hideout slot of your conspiracy does not limit where you can resolve an effect.​ ​The conspiracy will state whether you must resolve its effect at the matching Hideout or not.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054714Z" creationid="aorin" creationdate="20171216T054438Z">
@@ -20534,6 +20542,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T201824Z" creationid="aorin" creationdate="20171231T201824Z">
         <seg>あなたが害獣トークン1つをピックアップした場合、あなたは直ちにそのワーカーを戻して1VP得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore any damage, treasure, and abilities usually associated with the Room while it is turned sideways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230043Z" creationid="aorin" creationdate="20180528T230043Z">
+        <seg>横向きにされたルームに関連した任意のダメージ、トレジャー、能力、は無視されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28928,6 +28944,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rooms cannot be built over deactivated cards, and a deactivated Room cannot be destroyed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230148Z" creationid="aorin" creationdate="20180528T230148Z">
+        <seg>ルームはアクティブ不可カード上に建築できず、アクティブ不可ルームは破壊できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rooms face-down in their dungeon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210240Z" creationid="aorin" creationdate="20180528T210240Z">
@@ -36849,6 +36873,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This does not reveal any Room cards beneath it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T225946Z" creationid="aorin" creationdate="20180528T225946Z">
+        <seg>これによって、その下にあるルームカードが有効にはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This doesn’t mean that this action becomes available again.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
@@ -37788,6 +37820,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T091020Z" creationid="nakahodo" creationdate="20180430T091020Z">
         <seg>ナイトが拒否したりデッキの下に戻したトレジャーカードは洞窟に見せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treat it as a "blank" space in the dungeon, so cards on either side are not adjacent to one another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T230300Z" creationid="aorin" creationdate="20180528T230300Z">
+        <seg>ダンジョンの「空白」スペースとして扱いますので、アクティブ不可ルームの両隣のカードは隣接していません。</seg>
       </tuv>
     </tu>
     <tu>
