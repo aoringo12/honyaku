@@ -2412,6 +2412,14 @@ always place in the first available Mint Placement</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>13 Heroes, 8 Epic Heroes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135237Z" creationid="aorin" creationdate="20180528T135135Z">
+        <seg>ヒーロー13枚、エピックヒーロー8枚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13 Terror Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T124929Z" creationid="aorin" creationdate="20180409T124929Z">
@@ -2777,6 +2785,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T032229Z" creationid="nakahodo" creationdate="20171224T165131Z">
         <seg>17 - End of Game</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>17 Heroes, 12 Epic Heroes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135231Z" creationid="aorin" creationdate="20180528T135143Z">
+        <seg>ヒーロー17枚、エピックヒーロー12枚</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,6 +3424,14 @@ Amulet of Time</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T194822Z" creationid="aorin" creationdate="20171231T194822Z">
         <seg>249 - Scroll of Earth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25 Heroes, 16 Epic Heroes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135322Z" creationid="aorin" creationdate="20180528T135322Z">
+        <seg>ヒーロー25枚、エピックヒーロー16枚</seg>
       </tuv>
     </tu>
     <tu>
@@ -14608,6 +14632,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Four Players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135310Z" creationid="aorin" creationdate="20180528T135310Z">
+        <seg>4プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free Bean Space</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T130311Z" creationid="nakahodo" creationdate="20171001T130311Z">
@@ -18700,6 +18732,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T023941Z" creationid="aorin" creationdate="20180408T023941Z">
         <seg>あなたがゴブリンたち vs. ゴーストをプレイしている場合、ゴブリンたちは4または5クリスタルを砕けば勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are playing a two-player game, remove all cards with the "Three Player" or "Four Player" icons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135522Z" creationid="aorin" creationdate="20180528T135522Z">
+        <seg>あなたが2プレイヤーゲームをプレイする場合、「3プレイヤー」または「4プレイヤー」アイコンのカード全てを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33284,6 +33324,14 @@ determined by the desired Plan’s Cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of players determines the number of Hero cards that should be used in a game:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135121Z" creationid="aorin" creationdate="20180528T135121Z">
+        <seg>プレイヤーの数に寄って、ゲームに使用されるヒーローカードの枚数を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of revealed Crystal tiles (including collapsed tiles).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102528Z" creationid="nakahodo" creationdate="20180413T102528Z">
@@ -35873,6 +35921,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Three Players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135141Z" creationid="aorin" creationdate="20180528T135141Z">
+        <seg>3プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Three or more players:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131827Z" creationid="nakahodo" creationdate="20180406T131827Z">
@@ -36531,6 +36587,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030949Z" creationid="aorin" creationdate="20171212T030949Z">
         <seg>2枚のプランをドローし、プランデッキの横に表向きで配置してプラサプライを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two Players:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T135125Z" creationid="aorin" creationdate="20180528T135125Z">
+        <seg>2プレイヤー：</seg>
       </tuv>
     </tu>
     <tu>
