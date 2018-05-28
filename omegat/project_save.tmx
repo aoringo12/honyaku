@@ -23729,6 +23729,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinary Heroes count as one Soul, while Epic Heroes count as two!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T131959Z" creationid="aorin" creationdate="20180528T131959Z">
+        <seg>通常ヒーローはソウル1つとして、エピックヒーローは2つとしてカウントします！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinary Rooms can be built at the end of your dungeon, or over</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T113829Z" creationid="aorin" creationdate="20180528T113829Z">
@@ -29182,6 +29190,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T133943Z" creationid="nakahodo" creationdate="20180525T133943Z">
         <seg>スペルとタイミング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spells reflect the power of your Boss Monster to affect what happens in your dungeon ...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132328Z" creationid="aorin" creationdate="20180528T132328Z">
+        <seg>スペルはあなたのダンジョンに何らかの効果を与えるボスモンスターのパワーを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42378,6 +42394,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T145349Z" creationid="nakahodo" creationdate="20171224T145349Z">
         <seg>それ以外はアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spells</seg>
+      </tuv>
+      <tuv lang="JA" changeid="aorin" changedate="20180528T132005Z" creationid="aorin" creationdate="20180528T132005Z">
+        <seg>スペル</seg>
       </tuv>
     </tu>
     <tu>
