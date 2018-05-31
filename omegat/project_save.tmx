@@ -12514,6 +12514,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During play, Dark tiles will be revealed—flipped to their Lit side—in various ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233128Z" creationid="nakahodo" creationdate="20180531T233128Z">
+        <seg>プレイ中、さまざまな方法でダークタイルを（それをライトサイドに返すことで）公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During play, treat the Entrance tile in all ways as a normal Cave tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T070903Z" creationid="nakahodo" creationdate="20180430T070903Z">
@@ -18559,6 +18567,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153954Z" creationid="aorin" creationdate="20171212T153954Z">
         <seg>複数の空いた場所が次のレベルで利用可能な場合、プレイヤーは妖精をどちらに移動させるかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If multiple tiles would be revealed simultaneously, reveal and orient the affected tiles one at a time, placing one before revealing the next.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233915Z" creationid="nakahodo" creationdate="20180531T233612Z">
+        <seg>複数のタイルが同時に公開される場合、一度に1枚ずつ対象タイルを公開して回転させて配置し、次の公開タイルの処理へと移ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25441,6 +25457,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orient the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233323Z" creationid="nakahodo" creationdate="20180531T233323Z">
+        <seg>タイルの回転。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Automa charter cards will choose the second-highest or the third-highest 0 value.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T094140Z" creationid="nakahodo" creationdate="20180108T094140Z">
@@ -29263,6 +29287,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revealing Dark Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233032Z" creationid="nakahodo" creationdate="20180531T233032Z">
+        <seg>ダークタイルを公開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revealing a Possession card to begin a possession turn works differently:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021416Z" creationid="aorin" creationdate="20180408T021416Z">
@@ -29628,6 +29660,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205322Z" creationid="aorin" creationdate="20171215T205322Z">
         <seg>ルートでは多岐使用カードのデッキ1つを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the tile to an orientation of your choice, but at least one open edge of the revealed tile must connect to an adjacent open tile edge if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233742Z" creationid="nakahodo" creationdate="20180531T233609Z">
+        <seg>あなたの選択した方向にタイルを回転させます。しかし、可能な限り、公開したタイルの少なくとも1つの開いた側面が隣接するタイルの開いた側面同士が接続されなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40849,6 +40889,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T103015Z" creationid="nakahodo" creationdate="20180430T103015Z">
         <seg>悪巧みカードを購入した時、自身のプレイヤーボード近くに表向きでこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you reveal a Dark tile, you must immediately resolve the following steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233306Z" creationid="nakahodo" creationdate="20180531T233306Z">
+        <seg>ダークタイルを公開した時、直ちに次のステップに従い解決する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
