@@ -5500,6 +5500,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A marker on a track (such as Health or Mold) cannot be increased or decreased beyond the maximum and minimum values shown on its track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222436Z" creationid="nakahodo" creationdate="20180531T222436Z">
+        <seg>トラックのマーカーは（ヘルスやモールドなど）、そのトラックで示される最小値や最大値を超えて増減できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximum of 2 slaves per player can be chained with a maximum of 3 Rocks per slave.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074447Z" creationid="aorin" creationdate="20171213T074447Z">
@@ -6911,6 +6919,14 @@ are returned to players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T043831Z" creationid="aorin" creationdate="20171228T171940Z">
         <seg>「ワーカー」を指定する全てのカードは、基本ワーカーとミニオン両方に適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All components are limited by their included quantities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222002Z" creationid="nakahodo" creationdate="20180531T222002Z">
+        <seg>全てのコンポーネントはゲームに含まれている数で制限されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10750,6 +10766,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093517Z" creationid="nakahodo" creationdate="20180209T093517Z">
         <seg>６つの改善すべてを行う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component Limits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221935Z" creationid="nakahodo" creationdate="20180531T221935Z">
+        <seg>コンポーネント制限</seg>
       </tuv>
     </tu>
     <tu>
@@ -19768,6 +19792,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to place a Force Wall or Breach, you can pick up a previously placed component in order to place it again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222256Z" creationid="nakahodo" creationdate="20180531T222256Z">
+        <seg>フォースウォールやブリーチの配置を指示された場合、以前配置したものを取り、再びこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to place a building, take the leftmost building from its track on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150152Z" creationid="aorin" creationdate="20171215T150152Z">
@@ -20526,6 +20558,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025832Z" creationid="aorin" creationdate="20171212T025832Z">
         <seg>ミントトークンを使い切った場合、任意のスペースを空にしたりすることなく、「ファミマ」から幾つかミントを持ち込むと良いでしょう（または何かで代用してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you run out of any component during play, do not use proxy components.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222046Z" creationid="nakahodo" creationdate="20180531T222046Z">
+        <seg>プレイ中に任意のコンポーネントを使い切った場合、代替えコンポーネントなどは使用しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38213,6 +38253,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Track Values</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222320Z" creationid="nakahodo" creationdate="20180531T222320Z">
+        <seg>値の記録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Track the role’s victory conditions and other states (Grit, Wakefulness, Fury, etc.) as normal unless noted otherwise on the Possession card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T150847Z" creationid="aorin" creationdate="20180407T150847Z">
@@ -47134,6 +47182,30 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205156Z" creationid="nakahodo" creationdate="20171224T205156Z">
         <seg>•リソーストークン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Event cards in the Manor’s hand (even to the Manor)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221929Z" creationid="nakahodo" creationdate="20180531T221427Z">
+        <seg>•	館プレイヤー手札のイベントカード（館プレイヤーにとっても）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Facedown and unrevealed pieces, such as cards in decks and the Lit tile undersides of Dark tiles (even to the Manor)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221927Z" creationid="nakahodo" creationdate="20180531T221431Z">
+        <seg>► ダークタイルの下側にないっているライトタイル。デッキやカードのような裏向きだったり未公開のもの（館プレイヤーにとっても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Power cards in the Spider’s hand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221618Z" creationid="nakahodo" creationdate="20180531T221423Z">
+        <seg>•	スパイダープレイヤー手札のパワーカード</seg>
       </tuv>
     </tu>
     <tu>
