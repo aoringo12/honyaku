@@ -8551,8 +8551,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Attacking</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180411T083753Z" creationid="nakahodo" creationdate="20180411T083753Z">
-        <seg>攻撃</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230244Z" creationid="nakahodo" creationdate="20180411T083753Z">
+        <seg>アタック</seg>
       </tuv>
     </tu>
     <tu>
@@ -10718,6 +10718,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T093609Z" creationid="aorin" creationdate="20180115T093609Z">
         <seg>クロックウォーズでは消耗のコストを表現するために単純なメカニズムを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230251Z" creationid="nakahodo" creationdate="20180531T230251Z">
+        <seg>近接戦闘</seg>
       </tuv>
     </tu>
     <tu>
@@ -14841,6 +14849,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fight Your Way In.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230435Z" creationid="nakahodo" creationdate="20180531T230435Z">
+        <seg>戦いで勝つために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill in 1 capacity on your Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T041901Z" creationid="nakahodo" creationdate="20171224T203944Z">
@@ -17523,6 +17539,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
         <seg>その一方で、大きなキューブは小さなキューブの順番に合わせて変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, when you enter a tile with any Webs, you remove all Webs there and return them to the Spider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230231Z" creationid="nakahodo" creationdate="20180531T230231Z">
+        <seg>しかし、あなたがクモの巣トークンのあるタイルに入る時、そこにある蜘蛛の巣は全て取り除かれ、これらをスパイダーに返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38227,6 +38251,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To attack another player piece, your player piece must be in the same space as the player piece you wish to attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230341Z" creationid="nakahodo" creationdate="20180531T230341Z">
+        <seg>別のプレイヤーピースをアタックするには、あなたのプレイヤーピースは対象プレイヤーピースと同じスペースにいる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To avoid spoiling content for yourself or other players, ask questions on BoardGameGeek or the Charterstone Facebook group using the spoiler (SP) text code.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144207Z" creationid="nakahodo" creationdate="20171218T144207Z">
@@ -38287,6 +38319,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T225036Z" creationid="nakahodo" creationdate="20180531T224944Z">
         <seg>ボード上を移動するには、移動力を消費しなければならいません。移動力は各ロール別々の方法で得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move into a tile with a Web token, you must spend +1 Movement per Web there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230112Z" creationid="nakahodo" creationdate="20180531T230112Z">
+        <seg>蜘蛛の巣トークンのあるタイルへと移動するには、そこの蜘蛛の巣ごとに＋1移動力を消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39693,6 +39733,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Walls Block.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T225739Z" creationid="nakahodo" creationdate="20180531T225427Z">
+        <seg>壁は防ぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Want to see it up close?"</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124710Z" creationid="nakahodo" creationdate="20180430T124710Z">
@@ -39771,6 +39819,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T161244Z" creationid="nakahodo" creationdate="20180413T161244Z">
         <seg>基本ゲームから入れ替えを行うカードが何枚かあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Webs Slow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230022Z" creationid="nakahodo" creationdate="20180531T230022Z">
+        <seg>蜘蛛の巣は邪魔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42272,6 +42328,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can only enter a Lit or Dark tile, not an open space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T225716Z" creationid="nakahodo" creationdate="20180531T225426Z">
+        <seg>ライトタイルかダークタイルにのみ入ることができ、空きスペースには移動できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can only perform the Displacement Blast action once per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T103801Z" creationid="nakahodo" creationdate="20180412T103526Z">
@@ -42532,6 +42596,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214216Z" creationid="aorin" creationdate="20180114T214216Z">
         <seg>この上限を越えてワーカーを得ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot move across a tile edge that has a wall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T225832Z" creationid="nakahodo" creationdate="20180531T225718Z">
+        <seg>側面に壁のあるタイルを通り抜けて移動はできません。</seg>
       </tuv>
     </tu>
     <tu>
