@@ -29843,8 +29843,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Scattering.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230758Z" creationid="nakahodo" creationdate="20180531T230758Z">
-        <seg>Scattering.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T231345Z" creationid="nakahodo" creationdate="20180531T230758Z">
+        <seg>離散。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31006,6 +31006,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T221450Z" creationid="aorin" creationdate="20180528T221450Z">
         <seg>ヒーローの順番が重要になることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, an attack will scatter your opponent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T231635Z" creationid="nakahodo" creationdate="20180531T231606Z">
+        <seg>たまに、アタックで対戦相手が「離散」することがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38019,6 +38027,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This term is simply shorthand for an effect that is described in more detail in the opponent’s section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T231724Z" creationid="nakahodo" creationdate="20180531T231619Z">
+        <seg>この用語はその対戦相手の章で詳細に記載されている効果を単純に省略したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This transfer of ownership occurs at the end of the Battle stage.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041426Z" creationid="aorin" creationdate="20180116T041426Z">
@@ -39677,6 +39693,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194354Z" creationid="aorin" creationdate="20180114T194354Z">
         <seg>村（オレンジ）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visibility</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T232118Z" creationid="nakahodo" creationdate="20180531T232118Z">
+        <seg>視線</seg>
       </tuv>
     </tu>
     <tu>
