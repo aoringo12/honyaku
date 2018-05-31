@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If the Spider is not in the game, return the Abyss tile to the box.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214613Z" creationid="nakahodo" creationdate="20180531T214551Z">
+        <seg>（スパイダープレイヤーがゲームにいない場合、アビスタイルはボックスに戻します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Vagabond is the defender and has no available &lt;sword&gt;, he must retreat in step 1.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221319Z" creationid="aorin" creationdate="20171215T221304Z">
@@ -14737,6 +14745,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find the 5 Armory tiles, shuffle them, and place one face down on each sword icon on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214758Z" creationid="nakahodo" creationdate="20180531T214758Z">
+        <seg>武器庫タイル5枚を探し、それらをシャッフルしてボードの剣アイコンそれぞれへと、タイルを裏向きで1枚ずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the leftmost building of that type remaining on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235339Z" creationid="aorin" creationdate="20171215T235339Z">
@@ -15218,6 +15234,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122354Z" creationid="nakahodo" creationdate="20171213T122354Z">
         <seg>例えば、アクションスポットに利用可能な一回使用タイルがない場合に、プレイヤーは一回使用タイルを得るためにアクションの模倣をすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more details on each role’s setup, read its individual chapter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214226Z" creationid="nakahodo" creationdate="20180531T214226Z">
+        <seg>各プレイヤーロールの詳細は、それぞれの章を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19344,6 +19368,14 @@ in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no Manor player, you will still use its Event deck and Treasure deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214327Z" creationid="nakahodo" creationdate="20180531T214327Z">
+        <seg>館プレイヤーがいない場合でも、イベントデッキとトレジャーデッキは使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no opposing promoted Pixie on the game board, this action can’t be chosen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064229Z" creationid="aorin" creationdate="20171213T064229Z">
@@ -23038,6 +23070,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manor Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214341Z" creationid="nakahodo" creationdate="20180531T214341Z">
+        <seg>館のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manufactory (gray):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195337Z" creationid="aorin" creationdate="20180114T195337Z">
@@ -25434,6 +25474,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paladin, Skeletons, Spider, Manor, Enchanter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213928Z" creationid="nakahodo" creationdate="20180531T213928Z">
+        <seg>パラディン、スケルトン、スパイダー、館、エンチャンター。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay 1 Apple from your personal supply to demote the opponent’s Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164944Z" creationid="aorin" creationdate="20171212T164944Z">
@@ -26299,6 +26347,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Abyss tile face up in the center space of the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214551Z" creationid="nakahodo" creationdate="20180531T214551Z">
+        <seg>ボードの中央スペースにアビスタイルを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Ash Dragon Variant card near the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073208Z" creationid="aorin" creationdate="20180410T073208Z">
@@ -26383,6 +26439,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T005129Z" creationid="aorin" creationdate="20180410T005129Z">
         <seg>忘れないように、あなたのプレイヤーボードにシーフのアクションキューブを配置し、あなたのターン時に移動力ポイントを調整した後、シーフにこれらを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the board in the center of the table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214356Z" creationid="nakahodo" creationdate="20180531T214356Z">
+        <seg>ボードをテーブルの中央に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28735,6 +28799,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return the extra Armory tile to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214808Z" creationid="nakahodo" creationdate="20180531T214808Z">
+        <seg>余分な武器庫タイルはボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the other Possession cards to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035232Z" creationid="aorin" creationdate="20180408T035222Z">
@@ -29565,8 +29637,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Seat yourselves in the following clockwise order:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213756Z" creationid="nakahodo" creationdate="20180531T213756Z">
-        <seg>Seat yourselves in the following clockwise order:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213912Z" creationid="nakahodo" creationdate="20180531T213756Z">
+        <seg>次のプレイヤーロールの順番で、時計回りに自分の席を決めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29803,6 +29875,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T014935Z" creationid="aorin" creationdate="20180408T014935Z">
         <seg>次に従い憑依デッキをセットアップします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set up your player boards and organize your other components as shown on the next page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214126Z" creationid="nakahodo" creationdate="20180531T214126Z">
+        <seg>次のページに示されるように、あなたのプレイヤーボードとコンポーネントの組み合わせをセットアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43228,6 +43308,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234157Z" creationid="aorin" creationdate="20171231T234157Z">
         <seg>これを全てのストーリーとルールカードで行うことになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will play in this order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214018Z" creationid="nakahodo" creationdate="20180531T214018Z">
+        <seg>この順番でプレイすることになります。</seg>
       </tuv>
     </tu>
     <tu>
