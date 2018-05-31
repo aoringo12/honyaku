@@ -6065,6 +6065,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjacent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215901Z" creationid="nakahodo" creationdate="20180531T215901Z">
+        <seg>隣接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust as necessary.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154118Z" creationid="nakahodo" creationdate="20171230T154118Z">
@@ -6891,6 +6899,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All adjacent tiles plus all four diagonals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220246Z" creationid="nakahodo" creationdate="20180531T220231Z">
+        <seg>隣接タイル全てに加えて、斜め方向のタイル4枚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All cards that refer to "workers" apply to both regular workers and minions.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T043831Z" creationid="aorin" creationdate="20171228T171940Z">
@@ -7245,6 +7261,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000432Z" creationid="aorin" creationdate="20180115T000432Z">
         <seg>とはいえ、これは同時に行われるので、混沌としたものになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always count the distance between tiles orthogonally, not diagonally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220433Z" creationid="nakahodo" creationdate="20180531T220419Z">
+        <seg>タイル間の距離は常に斜めではなく、直角で数えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11232,6 +11256,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223856Z" creationid="nakahodo" creationdate="20171224T223856Z">
         <seg>破棄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISTANCES</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220249Z" creationid="nakahodo" creationdate="20180531T220239Z">
+        <seg>距離</seg>
       </tuv>
     </tu>
     <tu>
@@ -16011,6 +16043,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204259Z" creationid="nakahodo" creationdate="20171218T144617Z">
         <seg>共通＆個人サプライ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220436Z" creationid="nakahodo" creationdate="20180531T220421Z">
+        <seg>基本ルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -31381,6 +31421,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Surrounding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220128Z" creationid="nakahodo" creationdate="20180531T220128Z">
+        <seg>周囲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Survival:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T221138Z" creationid="aorin" creationdate="20180528T221138Z">
@@ -35730,6 +35778,14 @@ plus the desired Location’s cost.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rules in this chapter are relevant to all five roles in games of Vast:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220843Z" creationid="nakahodo" creationdate="20180531T220843Z">
+        <seg>The rules in this chapter are relevant to all five roles in games of Vast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rules reference
 is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
@@ -37779,6 +37835,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile Positions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215858Z" creationid="nakahodo" creationdate="20180531T215858Z">
+        <seg>タイルの位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T044000Z" creationid="aorin" creationdate="20171213T044000Z">
@@ -37799,6 +37863,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043746Z" creationid="aorin" creationdate="20171213T043746Z">
         <seg>タイルはタイル交換アクションヲ選択することにより、交換できます（ペース10参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiles touching in the four cardinal directions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T220237Z" creationid="nakahodo" creationdate="20180531T220121Z">
+        <seg>縦横方向で触れているタイル4枚。</seg>
       </tuv>
     </tu>
     <tu>
