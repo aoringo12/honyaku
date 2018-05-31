@@ -29841,6 +29841,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scattering.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230758Z" creationid="nakahodo" creationdate="20180531T230758Z">
+        <seg>Scattering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scavenger</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062220Z" creationid="nakahodo" creationdate="20180413T062220Z">
@@ -34793,6 +34801,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect of the attack depends greatly on the attacker and defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230732Z" creationid="nakahodo" creationdate="20180531T230732Z">
+        <seg>アタックの効果はアタッカーとディフェンダーに依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The eight spaces around a space, both adjacent and diagonal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223919Z" creationid="nakahodo" creationdate="20180531T223919Z">
@@ -38253,8 +38269,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To attack another player piece, your player piece must be in the same space as the player piece you wish to attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230341Z" creationid="nakahodo" creationdate="20180531T230341Z">
-        <seg>別のプレイヤーピースをアタックするには、あなたのプレイヤーピースは対象プレイヤーピースと同じスペースにいる必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230450Z" creationid="nakahodo" creationdate="20180531T230341Z">
+        <seg>他プレイヤーピースをアタックするには、あなたのプレイヤーピースは対象プレイヤーピースと同じスペースにいる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38319,6 +38335,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T225036Z" creationid="nakahodo" creationdate="20180531T224944Z">
         <seg>ボード上を移動するには、移動力を消費しなければならいません。移動力は各ロール別々の方法で得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move into a space with another player piece, your Strength must be greater than their Strength or Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230557Z" creationid="nakahodo" creationdate="20180531T230557Z">
+        <seg>他プレイヤーピースの居るスペースに移動するには、あなたの筋力が対象の筋力か防御力を超えている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40697,6 +40721,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T094122Z" creationid="nakahodo" creationdate="20180430T094122Z">
         <seg>ナイトがヘルスを失う時、トレジャーを破棄する前に、（シークレットやモンスターなどからの二次効果を含む）攻撃全体を解決する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you move into a space with another player piece, you will automatically attack it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T230632Z" creationid="nakahodo" creationdate="20180531T230632Z">
+        <seg>他プレイヤーピースの居るスペースに移動する時、あなたは自動的に対象へとアタックします。</seg>
       </tuv>
     </tu>
     <tu>
