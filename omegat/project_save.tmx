@@ -6497,6 +6497,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After following these steps for all tiles to be revealed, resolve the effects of revealing those tiles, as needed, and then resume play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234705Z" creationid="nakahodo" creationdate="20180531T234450Z">
+        <seg>公開されるタイル全てをこれらステップに従い処理し、タイルが公開されることによって発生する効果を解決した後、プレイを再開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After forming the Possession deck, shuffle the deck, draw three cards to use, and remove the rest from the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082628Z" creationid="aorin" creationdate="20180409T082628Z">
@@ -14873,10 +14881,26 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill all new open edges with Dark tiles, drawn from the tile stack, if any.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234450Z" creationid="nakahodo" creationdate="20180531T234450Z">
+        <seg>開いた側面の先に空きスペースがあった場合、館タイルデッキからタイルをドローしてダークタイルで満たします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill in 1 capacity on your Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T041901Z" creationid="nakahodo" creationdate="20171224T203944Z">
         <seg>あなたのチャーターチェストの1キャパシティ拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill open edges.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234134Z" creationid="nakahodo" creationdate="20180531T234134Z">
+        <seg>開いた側面を満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20974,6 +20998,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
         <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your role’s placement rules conflict with the rules given here, you only need to satisfy the role’s placement rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234917Z" creationid="nakahodo" creationdate="20180531T234917Z">
+        <seg>あなたの館タイル配置ルールがこれらルールと競合する場合、プレイヤーロールの配置ルールのみを満たす必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31038,6 +31070,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T135824Z" creationid="nakahodo" creationdate="20180430T135819Z">
         <seg>これら誰とも知らない冒険者の食料は、不思議なことに汚れておらず、食べられるようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some roles state more placement rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234749Z" creationid="nakahodo" creationdate="20180531T234452Z">
+        <seg>いくつかのプレイヤーロールにはさらに館タイル配置ルールがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42852,6 +42892,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085401Z" creationid="nakahodo" creationdate="20180413T085401Z">
         <seg>あなたは恐怖カードの効果を使用できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You choose the order in which to reveal them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234124Z" creationid="nakahodo" creationdate="20180531T234124Z">
+        <seg>これらを公開する順番は、あなたが選択します。</seg>
       </tuv>
     </tu>
     <tu>
