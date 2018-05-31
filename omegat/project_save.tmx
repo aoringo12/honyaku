@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16015,6 +16015,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213220Z" creationid="nakahodo" creationdate="20180531T213154Z">
+        <seg>準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085851Z" creationid="nakahodo" creationdate="20180413T085851Z">
@@ -18235,6 +18243,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it’s your first game, we recommend playing with all of the roles except the Enchanter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213823Z" creationid="nakahodo" creationdate="20180531T213754Z">
+        <seg>あなたがこのゲームを初めて遊ぶなら、我々はエンチャンターを除いたプレイヤーロール全てでプレイすることを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If multiple Goblin Tribes are visible, he targets the Tribe with the highest Strength, regardless of distance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T144146Z" creationid="nakahodo" creationdate="20180412T144146Z">
@@ -20052,6 +20068,22 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134906Z" creationid="aorin" creationdate="20180409T134906Z">
         <seg>あなたが移動力ポイントを得て、6を超えた数字を管理する必要が出た場合、グールディスクを使用してこれを記録します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have 4 players or fewer, choose a variant from page [x].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213722Z" creationid="nakahodo" creationdate="20180531T213722Z">
+        <seg>プレイヤーが4名以下の場合、ページXからヴァリアントを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have 5 players, play with all of the roles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213607Z" creationid="nakahodo" creationdate="20180531T213607Z">
+        <seg>プレイヤーが5人居る場合、全てのプレイヤーロールがプレイされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24139,6 +24171,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210542Z" creationid="nakahodo" creationdate="20171218T200513Z">
         <seg>目標カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objectives</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213223Z" creationid="nakahodo" creationdate="20180531T213223Z">
+        <seg>目的</seg>
       </tuv>
     </tu>
     <tu>
@@ -29008,6 +29048,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Role Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213543Z" creationid="nakahodo" creationdate="20180531T213302Z">
+        <seg>プレイヤーロールセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll Dice and Count Hits</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223905Z" creationid="aorin" creationdate="20171215T223905Z">
@@ -29511,6 +29559,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231605Z" creationid="aorin" creationdate="20180528T231605Z">
         <seg>サーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seat yourselves in the following clockwise order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213756Z" creationid="nakahodo" creationdate="20180531T213756Z">
+        <seg>Seat yourselves in the following clockwise order:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33290,6 +33346,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055017Z" creationid="aorin" creationdate="20171216T055017Z">
         <seg>暴動トラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Paladin must kill the Spider, the Skeletons must kill the Paladin, the Spider must escape the Manor, the Manor must trap everyone inside, and the Enchanter must dominate the other characters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T213529Z" creationid="nakahodo" creationdate="20180531T213259Z">
+        <seg>パラディンはスパイダーを殺し、スケルトンはパラディンを殺し、スパイダーは館から脱出し、館は皆をその内部に閉じ込め、エンチャンターは他キャラクターたちを支配するのが目的となります。</seg>
       </tuv>
     </tu>
     <tu>
