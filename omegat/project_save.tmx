@@ -23890,6 +23890,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224855Z" creationid="nakahodo" creationdate="20180531T224855Z">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving Is Tiring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224951Z" creationid="nakahodo" creationdate="20180531T224924Z">
+        <seg>移動は疲労します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving against the current follows normal movement rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162137Z" creationid="nakahodo" creationdate="20180430T162137Z">
@@ -29027,6 +29043,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103321Z" creationid="aorin" creationdate="20171212T103321Z">
         <seg>リソースは常にプレイヤースクリーンの後ろに隠して保持され、他プレイヤーから見えないようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respect the Mansion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T225128Z" creationid="nakahodo" creationdate="20180531T225128Z">
+        <seg>構造に従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38259,6 +38283,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move around the board, you must spend Movement, which each role gains in a different way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T225036Z" creationid="nakahodo" creationdate="20180531T224944Z">
+        <seg>ボード上を移動するには、移動力を消費しなければならいません。移動力は各ロール別々の方法で得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To pay the cost, discard those tokens to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173757Z" creationid="aorin" creationdate="20171228T173757Z">
@@ -42312,6 +42344,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can spend 1 Movement to move your player piece from your tile to an adjacent tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T225425Z" creationid="nakahodo" creationdate="20180531T225425Z">
+        <seg>移動力1を消費することで、あなたのプレイヤーピースはタイルから隣接タイルへと移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can spend Boost dice in place of movement points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T091111Z" creationid="aorin" creationdate="20180410T091111Z">
@@ -43700,6 +43740,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223347Z" creationid="aorin" creationdate="20171231T223347Z">
         <seg>キャンペーンの終了で指示された時、このカードへと記入してゲーム全体の勝者を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will find exceptions to these core concepts in callout boxes throughout the roles’ individual rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224854Z" creationid="nakahodo" creationdate="20180531T224854Z">
+        <seg>プレイヤーロールの個別ルールの中で、色付きボックスにコアコンセプトの例外が記述されています。</seg>
       </tuv>
     </tu>
     <tu>
