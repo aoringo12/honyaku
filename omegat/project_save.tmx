@@ -5784,6 +5784,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A space or piece is visible to you if you can draw a straight line in a cardinal direction between your piece and it that does not cross any walls or pass through Dark tiles or open spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T232616Z" creationid="nakahodo" creationdate="20180531T232616Z">
+        <seg>あなたのプレイヤーピースから対象プレイヤーピースやスペースまで、間にダークタイル、空きスペース、壁がなく縦横方向で直線を引ける場合、対象に視線が通っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A space that contains no player pieces or tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223956Z" creationid="nakahodo" creationdate="20180531T223937Z">
@@ -16199,6 +16207,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally, you can only affect something from afar if it’s visible to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T232620Z" creationid="nakahodo" creationdate="20180531T232319Z">
+        <seg>基本的に、視線が通っている対象にのみ影響を与えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate religion IPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195440Z" creationid="aorin" creationdate="20180114T195440Z">
@@ -17449,6 +17465,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021257Z" creationid="aorin" creationdate="20180408T021257Z">
         <seg>しかし、あなたがゴーストの憑依カードを公開した場合、あなたのターンは終了し、それはゲームから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, a space or piece can still be visible to you even if you or it are on a Dark tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T233019Z" creationid="nakahodo" creationdate="20180531T233019Z">
+        <seg>また、あなたか対象がダークタイル上にある場合でも関係なく、視線は通ります。視線は、あなたと対象の間にあるタイルやスペースのみを考慮します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39915,6 +39939,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132545Z" creationid="aorin" creationdate="20171215T132545Z">
         <seg>プレイに必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What You See.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T232126Z" creationid="nakahodo" creationdate="20180531T232126Z">
+        <seg>何が見えるか。</seg>
       </tuv>
     </tu>
     <tu>
