@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If the Spider is not in the game, place the final Armory tile face down in the center space.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214846Z" creationid="nakahodo" creationdate="20180531T214811Z">
+        <seg>（スパイダーがゲームにいない場合、最後の武器庫タイルはボードの中央スペースに裏向きで配置します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the Spider is not in the game, return the Abyss tile to the box.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214613Z" creationid="nakahodo" creationdate="20180531T214551Z">
@@ -6843,6 +6851,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Manor tiles have a Dark side and a Lit side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215535Z" creationid="nakahodo" creationdate="20180531T215535Z">
+        <seg>全ての館タイルは、暗い側（ダークサイド）と明るい側（ライトサイド）を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Plans are shuffled and stacked face down near the Locations forming the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030917Z" creationid="aorin" creationdate="20171212T030917Z">
@@ -12105,6 +12121,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw and place a facedown Manor tile in front of the Entrance space and four facedown Manor tiles adjacent to the Abyss tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215329Z" creationid="nakahodo" creationdate="20180531T215329Z">
+        <seg>エントランススペースの前に館タイル1枚、アビスタイルに隣接したスペースに館タイル4枚をドローして裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw five Room cards and two Spell cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T115411Z" creationid="nakahodo" creationdate="20180525T115411Z">
@@ -14747,8 +14771,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Find the 5 Armory tiles, shuffle them, and place one face down on each sword icon on the board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214758Z" creationid="nakahodo" creationdate="20180531T214758Z">
-        <seg>武器庫タイル5枚を探し、それらをシャッフルしてボードの剣アイコンそれぞれへと、タイルを裏向きで1枚ずつ配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215027Z" creationid="nakahodo" creationdate="20180531T214758Z">
+        <seg>館タイルの中から武器庫タイル5枚探し、それらをシャッフルしてボードの剣アイコンそれぞれへと、タイルを裏向きで1枚ずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23078,6 +23102,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manor Tiles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215352Z" creationid="nakahodo" creationdate="20180531T215352Z">
+        <seg>館タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manufactory (gray):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195337Z" creationid="aorin" creationdate="20180114T195337Z">
@@ -28801,8 +28833,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Return the extra Armory tile to the box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214808Z" creationid="nakahodo" creationdate="20180531T214808Z">
-        <seg>余分な武器庫タイルはボックスに戻します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T214814Z" creationid="nakahodo" creationdate="20180531T214808Z">
+        <seg>余った武器庫タイルはボックスに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30314,6 +30346,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T144932Z">
         <seg>ペルソナデッキをシャッフルし、各プレイヤーに3枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the remaining Manor tiles and place them face down in a stack near the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215146Z" creationid="nakahodo" creationdate="20180531T215008Z">
+        <seg>残った館タイルをシャッフルし、裏向きに積み重ねてボード近くへと配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32419,6 +32459,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dark side of every Manor tile shows an identical face that does not affect play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215710Z" creationid="nakahodo" creationdate="20180531T215710Z">
+        <seg>全ての館タイルのダークサイドには、プレイに効果がない同じ面を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Decree</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000739Z" creationid="aorin" creationdate="20171216T000739Z">
@@ -33330,6 +33378,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T204914Z" creationid="aorin" creationdate="20180114T204914Z">
         <seg>ターン5～7は後期を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Lit side depicts a portion of the Manor the players will be exploring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215852Z" creationid="nakahodo" creationdate="20180531T215852Z">
+        <seg>ライトサイドには、プレイヤーたちが探索することになる館の一部が描かれています。</seg>
       </tuv>
     </tu>
     <tu>
