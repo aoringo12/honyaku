@@ -5784,6 +5784,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A space that does not contain a tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223345Z" creationid="nakahodo" creationdate="20180531T223259Z">
+        <seg>タイルが無いスペース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A standard rule of festival etiquette in Greengully is that you support other businesses, not your own.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170924Z" creationid="nakahodo" creationdate="20171229T170446Z">
@@ -6077,6 +6085,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T215901Z" creationid="nakahodo" creationdate="20180531T215901Z">
         <seg>隣接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjacent:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222923Z" creationid="nakahodo" creationdate="20180531T222923Z">
+        <seg>隣接：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7402,6 +7418,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Questions?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222614Z" creationid="nakahodo" creationdate="20180531T222614Z">
+        <seg>まだ疑問がありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Soldiers in Citadels that are not currently contested may move to an adjacent territory where a battle is occurring.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002000Z" creationid="aorin" creationdate="20180115T002000Z">
@@ -7459,6 +7483,14 @@ Blend, and any Token with Research is a vote for the team to Research.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any edge without a wall on a Lit tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223253Z" creationid="nakahodo" creationdate="20180531T223253Z">
+        <seg>ライトタイルの壁がない側面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any extra “kicker” beans are used to break ties.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171002T095424Z" creationid="nakahodo" creationdate="20171002T095424Z">
@@ -7480,6 +7512,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030004Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>任意の○を失う時、ミントサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any piece listed in a player’s components list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223427Z" creationid="nakahodo" creationdate="20180531T223427Z">
+        <seg>プレイヤーのコンポーネントリストに示される、マップ上でプレイヤー自身を表す駒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11624,6 +11664,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diagonal spaces are not adjacent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223017Z" creationid="nakahodo" creationdate="20180531T223017Z">
+        <seg>対角スペースは隣接ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dice:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082445Z" creationid="aorin" creationdate="20180409T082445Z">
@@ -15132,6 +15180,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For any questions you might have about the game that you can’t find in the rulebook, on the player boards, or on the cards, check out the official FAQ found at ledergames.com and boardgamegeek.com</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222734Z" creationid="nakahodo" creationdate="20180531T222734Z">
+        <seg>あなたの疑問がこのルールブック、プレイヤーボード、カードで見つけられなかったら、ledergames.comとboardgamegeek.comの公式QAを確認してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For buildings you constructed this game, the first time you use them, gain 4 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T201746Z" creationid="aorin" creationdate="20171231T201746Z">
@@ -16376,6 +16432,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234430Z" creationid="aorin" creationdate="20171231T234430Z">
         <seg>栄光は、永遠なる王に村のリーダーにしてもらう道のりでの、成功の尺度になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222740Z" creationid="nakahodo" creationdate="20180531T222740Z">
+        <seg>用語集</seg>
       </tuv>
     </tu>
     <tu>
@@ -17921,6 +17985,22 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T001441Z" creationid="aorin" creationdate="20180408T001441Z">
         <seg>憑依されたプレイヤーピースがキノコの森に入った場合、直ちに憑依ターンは終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a rule in a variant contradicts a rule in the standard rules, follow the rule in the variant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222516Z" creationid="nakahodo" creationdate="20180531T222516Z">
+        <seg>基本ルールとヴァリアントルールで矛盾が発生した場合、ヴァリアントのルールに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a rule on a card or ability (such as the Spider’s powers) contradicts a standard rule or a rule in a variant, follow the rule on the card or ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222608Z" creationid="nakahodo" creationdate="20180531T222608Z">
+        <seg>カードや能力（スパイダーのパワーなど）のルールが基本ルールやヴァリアントルールと矛盾した場合、カードや能力のルールに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25073,6 +25153,22 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Edge:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223218Z" creationid="nakahodo" creationdate="20180531T223218Z">
+        <seg>開いた側面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Space:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223310Z" creationid="nakahodo" creationdate="20180531T223259Z">
+        <seg>空きスペース：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open crate Q.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170240Z" creationid="nakahodo" creationdate="20171229T170240Z">
@@ -27126,6 +27222,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220345Z" creationid="aorin" creationdate="20180528T220345Z">
         <seg>プレイヤー2のダンジョン（下）には次が含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player Piece:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223302Z" creationid="nakahodo" creationdate="20180531T223302Z">
+        <seg>プレイヤーピース：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29436,6 +29540,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145642Z" creationid="aorin" creationdate="20171215T145642Z">
         <seg>ルール衝突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rules Disagreements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222448Z" creationid="nakahodo" creationdate="20180531T222448Z">
+        <seg>ルールの矛盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -31920,6 +32032,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T123522Z" creationid="nakahodo" creationdate="20171213T123522Z">
         <seg>一時的な優位性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminology that is relevant only to one role is defined in the role’s rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222919Z" creationid="nakahodo" creationdate="20180531T222919Z">
+        <seg>特定のプレイヤーロールにのみ関係する用語は、そのプレイヤーロールルールにて定義しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34721,6 +34841,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The four spaces that touch a space in the cardinal directions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222957Z" creationid="nakahodo" creationdate="20180531T222957Z">
+        <seg>1つのスペースに縦横に触れている4つのスペース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game
 includes four different AI opponents to play against.</seg>
       </tuv>
@@ -37413,6 +37541,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104402Z" creationid="aorin" creationdate="20171212T104402Z">
         <seg>これは、このアクションが再び利用可能になることを意味するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This glossary defines important terminology relevant to all five roles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T222850Z" creationid="nakahodo" creationdate="20180531T222850Z">
+        <seg>この用語集はプレイヤーロール5つ全てに関係する重要な用語を定義しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47196,8 +47332,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>► Facedown and unrevealed pieces, such as cards in decks and the Lit tile undersides of Dark tiles (even to the Manor)</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221927Z" creationid="nakahodo" creationdate="20180531T221431Z">
-        <seg>► ダークタイルの下側にないっているライトタイル。デッキやカードのような裏向きだったり未公開のもの（館プレイヤーにとっても）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223327Z" creationid="nakahodo" creationdate="20180531T221431Z">
+        <seg>•	ダークタイルの下側にないっているライトタイル。デッキやカードのような裏向きだったり未公開のピース（館プレイヤーにとっても）。</seg>
       </tuv>
     </tu>
     <tu>
