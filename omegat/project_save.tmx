@@ -6915,6 +6915,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All components are public information, except for the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221157Z" creationid="nakahodo" creationdate="20180531T221157Z">
+        <seg>次を除く、全てのコンポーネントは公開情報です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All double action spaces with at least 1 Action Disc on it are considered to be occupied actions which can’t be chosen anymore.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104500Z" creationid="aorin" creationdate="20171212T104500Z">
@@ -27842,6 +27850,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221016Z" creationid="nakahodo" creationdate="20180531T221016Z">
+        <seg>公開情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pull
 them out one at a
 time and stack on
@@ -35782,6 +35798,14 @@ plus the desired Location’s cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T220843Z" creationid="nakahodo" creationdate="20180531T220843Z">
         <seg>The rules in this chapter are relevant to all five roles in games of Vast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules in this chapter are relevant to all five roles in games of Vast： The Mysterious Manor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221011Z" creationid="nakahodo" creationdate="20180531T221011Z">
+        <seg>この章のルールはヴァスト：不思議の館のプレイヤーロール5つ全てに関係します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47110,6 +47134,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205156Z" creationid="nakahodo" creationdate="20171224T205156Z">
         <seg>•リソーストークン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Power cards in the Spider’s hand ► Event cards in the Manor’s hand (even to the Manor) ► Facedown and unrevealed pieces, such as cards in decks and the Lit tile undersides of Dark tiles (even to the Manor)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T221330Z" creationid="nakahodo" creationdate="20180531T221330Z">
+        <seg>•</seg>
       </tuv>
     </tu>
     <tu>
