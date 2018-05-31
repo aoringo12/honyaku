@@ -17551,6 +17551,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if you can satisfy both sets of rules, you must do so.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234943Z" creationid="nakahodo" creationdate="20180531T234943Z">
+        <seg>しかし、両方のルール条件を満たせる場合は、そうしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it is possible to add or drop players after Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142904Z" creationid="nakahodo" creationdate="20171218T142904Z">
@@ -19676,6 +19684,22 @@ in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214327Z" creationid="nakahodo" creationdate="20180531T214327Z">
         <seg>館プレイヤーがいない場合でも、イベントデッキとトレジャーデッキは使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Spider or Manor, destroy 5 Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T235104Z" creationid="nakahodo" creationdate="20180531T235104Z">
+        <seg>スパイダーと館がいない場合、ポルターガイスト5体を破壊する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no Spider, destroy 7 Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T235021Z" creationid="nakahodo" creationdate="20180531T235021Z">
+        <seg>スパイダーが居ない場合、ポルターガイスト7体を破壊する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22791,6 +22815,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075916Z" creationid="aorin" creationdate="20180410T075916Z">
         <seg>ナイトを殺します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the Spider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234952Z" creationid="nakahodo" creationdate="20180531T234952Z">
+        <seg>スパイダーを殺す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33930,6 +33962,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055017Z" creationid="aorin" creationdate="20171216T055017Z">
         <seg>暴動トラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Paladin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T234946Z" creationid="nakahodo" creationdate="20180531T234946Z">
+        <seg>パラディン</seg>
       </tuv>
     </tu>
     <tu>
