@@ -5784,6 +5784,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A space that contains no player pieces or tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223956Z" creationid="nakahodo" creationdate="20180531T223937Z">
+        <seg>そのスペースがプレイヤーピースやトークンを含まない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A space that does not contain a tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223345Z" creationid="nakahodo" creationdate="20180531T223259Z">
@@ -6885,8 +6893,8 @@ are returned to players.</seg>
       <tuv lang="EN-US">
         <seg>All Manor tiles have a Dark side and a Lit side.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180531T215535Z" creationid="nakahodo" creationdate="20180531T215535Z">
-        <seg>全ての館タイルは、暗い側（ダークサイド）と明るい側（ライトサイド）を持っています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224118Z" creationid="nakahodo" creationdate="20180531T215535Z">
+        <seg>全ての館タイルは、暗い側（ダークサイド）と明るい側（ライトサイド）を持っています。また、ダークサイドの館タイルをダークタイル、ライトサイドのタイルをライトタイルと称することがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7552,6 +7560,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100052Z" creationid="nakahodo" creationdate="20180108T095958Z">
         <seg>任意のルールで指示される、発展マットのカードの「数字」は、カード右下で指示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any square on the board, equal in size to a Manor tile, regardless of whether the square contains a tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223657Z" creationid="nakahodo" creationdate="20180531T223657Z">
+        <seg>館タイルが含まれているかどうかに関わらず、館タイルのサイズに等しいボード上にある任意の正方形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9092,6 +9108,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because Vast is an asymmetric game, some roles may break or modify these rules, but unless a role says otherwise, assume that it follows these rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224654Z" creationid="nakahodo" creationdate="20180531T224654Z">
+        <seg>ヴァストはそれぞれのプレイヤーが違うルールでゲームをプレイしていくので、いくつかのルールが変更されることがあります。プレイヤーロールから指示がない限り、以下のルールに従うことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because of their mobility and flexibility, zeppelins are the standard way of constructing buildings in Greengully.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031627Z" creationid="nakahodo" creationdate="20171224T144855Z">
@@ -9232,6 +9256,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T123630Z" creationid="nakahodo" creationdate="20180430T123530Z">
         <seg>彼が12マイル投擲に挑戦した時、このジャヴェリンは永遠に失われたと信じられてきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Below, you’ll find some general rules for playing the roles in Vast： The Mysterious Manor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224307Z" creationid="nakahodo" creationdate="20180531T224307Z">
+        <seg>以下より、ヴァスト：不思議の館をプレイする上で基本的なルールがいくつか記述されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10976,6 +11008,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142653Z" creationid="nakahodo" creationdate="20171213T142653Z">
         <seg>模倣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core Concepts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T224024Z" creationid="nakahodo" creationdate="20180531T223940Z">
+        <seg>コアコンセプト</seg>
       </tuv>
     </tu>
     <tu>
@@ -30962,6 +31002,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Space:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223434Z" creationid="nakahodo" creationdate="20180531T223434Z">
+        <seg>スペース：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122403Z" creationid="nakahodo" creationdate="20171213T122403Z">
@@ -31593,6 +31641,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T220128Z" creationid="nakahodo" creationdate="20180531T220128Z">
         <seg>周囲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surrounding:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223701Z" creationid="nakahodo" creationdate="20180531T223701Z">
+        <seg>周囲：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34685,6 +34741,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T094230Z" creationid="nakahodo" creationdate="20180430T094230Z">
         <seg>ナイトが移動する距離は、消費された経験値によって決定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The eight spaces around a space, both adjacent and diagonal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223919Z" creationid="nakahodo" creationdate="20180531T223919Z">
+        <seg>スペース1つの隣接と対角を含んだ周囲8つのスペース。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39017,6 +39081,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T133656Z" creationid="nakahodo" creationdate="20171230T133608Z">
         <seg>その中央にあるのは、間違いなくチャーターストーンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unoccupied:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180531T223925Z" creationid="nakahodo" creationdate="20180531T223925Z">
+        <seg>未占領：</seg>
       </tuv>
     </tu>
     <tu>
