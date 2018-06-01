@@ -14171,6 +14171,14 @@ Country on the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each pool can hold up to 5 Devotion cubes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T181741Z" creationid="nakahodo" creationdate="20180601T181741Z">
+        <seg>それぞれの信仰プールは信仰キューブ5つまでを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each round consists of the Development phase followed
 by the Upkeep phase.</seg>
       </tuv>
@@ -15355,8 +15363,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Fire and Light.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174709Z" creationid="nakahodo" creationdate="20180601T174709Z">
-        <seg>Fire and Light.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174809Z" creationid="nakahodo" creationdate="20180601T174709Z">
+        <seg>炎と光。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34940,8 +34948,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Paladin has two pools of cubes called Devotions:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174708Z" creationid="nakahodo" creationdate="20180601T174704Z">
-        <seg>パラディンは信仰（プールと呼ばれるキューブを</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174803Z" creationid="nakahodo" creationdate="20180601T174704Z">
+        <seg>パラディンは信仰（プールと呼ばれるキューブを集める場所を2つ持ちます：</seg>
       </tuv>
     </tu>
     <tu>
