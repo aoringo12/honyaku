@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You may immediately place Hero cubes or spend Fire to increase Strength.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095440Z" creationid="nakahodo" creationdate="20180601T095440Z">
+        <seg>（直ちにヒーローキューブを配置するか炎を消費することで、筋力を上昇させることができます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You may track your actions by using extra Unicorn cubes in your supply.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115211Z" creationid="aorin" creationdate="20180410T115211Z">
@@ -6008,6 +6016,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING POLTERGEISTS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095130Z" creationid="nakahodo" creationdate="20180601T095108Z">
+        <seg>ポルターガイストへアタックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTACKING SKELETONS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T070435Z" creationid="nakahodo" creationdate="20180601T070435Z">
@@ -8721,6 +8737,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071634Z" creationid="nakahodo" creationdate="20180413T062604Z">
         <seg>グールへ攻撃する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking the Poltergeist (as an Encounter) destroys it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095215Z" creationid="nakahodo" creationdate="20180601T095215Z">
+        <seg>（エンカウンターの一部として）ポルターガイストをアタックすると、対象は倒されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,6 +20336,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you attack it, return the Egg and all Blood cubes on it to the Spider’s supply, and you gain 5 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095047Z" creationid="nakahodo" creationdate="20180601T095047Z">
+        <seg>あなたが卵を攻撃した場合、卵とそこに配置されたブラッドキューブ全てがスパイダーのサプライに戻され、あなたは経験値5を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you attack the Dragon or Unicorn successfully, he discards 1 card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124157Z" creationid="nakahodo" creationdate="20180430T123818Z">
@@ -20984,6 +21016,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you reveal a Poltergeist tile, you immediately must attack the Poltergeist it reveals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095320Z" creationid="nakahodo" creationdate="20180601T095320Z">
+        <seg>あなたがポルターガイストタイルを公開した場合、直ちにそこに現れたポルターガイストをアタックする必要があります。・</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you rule the origin clearing, you may move your warriors to any​ adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215508Z" creationid="aorin" creationdate="20171215T215250Z">
@@ -21230,6 +21270,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T094813Z" creationid="nakahodo" creationdate="20180601T094521Z">
         <seg>あなたの筋力がそこにある卵の防御力より高い場合、これにアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your Strength is less than 3 and you cannot (or choose not) to raise it, you immediately return to the tile from which you moved (which does not cost more Movement).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095902Z" creationid="nakahodo" creationdate="20180601T095902Z">
+        <seg>あなたの筋力が2以下で上昇させられない（またはしないと選択した）場合、あなたは直ちに移動元のタイルに戻されます（これによる追加の移動力消費はありません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22756,8 +22804,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Its Defense is 1 plus 1 per Blood cube on it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T094757Z" creationid="nakahodo" creationdate="20180601T094757Z">
-        <seg>Its Defense is 1 plus 1 per Blood cube on it.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T094935Z" creationid="nakahodo" creationdate="20180601T094757Z">
+        <seg>卵の防御力は、そこに配置されているブラッドキューブ1つごとに1追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29639,6 +29687,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return it to the Manor’s supply and gain 4 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095239Z" creationid="nakahodo" creationdate="20180601T095239Z">
+        <seg>館のサプライにポルターガイストを返し、あなたは経験値4を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the extra Armory tile to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214814Z" creationid="nakahodo" creationdate="20180531T214808Z">
@@ -34498,6 +34554,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T111329Z" creationid="nakahodo" creationdate="20180430T111329Z">
         <seg>プラチナの鱗は直ちに任意のカテゴリの怠惰キューブ1つを、覚醒に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Poltergeist’s Strength is always 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095137Z" creationid="nakahodo" creationdate="20180601T095127Z">
+        <seg>ポルターガイストの筋力は常に2です。</seg>
       </tuv>
     </tu>
     <tu>
