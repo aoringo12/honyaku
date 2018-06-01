@@ -23604,6 +23604,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lamps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T183213Z" creationid="nakahodo" creationdate="20180601T183213Z">
+        <seg>ランプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Later in the game, Skeletons can collect Gear from them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065611Z" creationid="nakahodo" creationdate="20180601T065611Z">
@@ -43904,6 +43912,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205233Z" creationid="aorin" creationdate="20180114T205233Z">
         <seg>あなたが研究できるディスカバリーは、現在[または]以前の時代のものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can spend 1 Light to place a Lamp token on your tile or an adjacent visible tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T190849Z" creationid="nakahodo" creationdate="20180601T190849Z">
+        <seg>光信仰キューブ1つを消費することで、あなたのいるタイルか視線が通っている隣接タイルにランプトークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
