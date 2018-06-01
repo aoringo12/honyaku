@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If there is no Manor player, draw the top card from the Treasure deck.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160125Z" creationid="nakahodo" creationdate="20180601T160125Z">
+        <seg>（館プレイヤーがいない場合、トレジャーデッキ一番上からカード1枚をドローします）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If there is no Manor player, place them near your player board instead.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T053826Z" creationid="nakahodo" creationdate="20180601T053706Z">
@@ -6697,6 +6705,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After looking at the Treasure card, you may keep it facedown near you, or you may decline it, removing it from the game, to gain 5 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160612Z" creationid="nakahodo" creationdate="20180601T160302Z">
+        <seg>あなたは、トレジャーカードを見た後、これをあなたの近くに裏向きで配置して保持するか、拒否してゲームから取り除くことで経験値5を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After moving your large cube, the player who’s large cube was behind your cube before you chose this action, can continue with the Action phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130959Z" creationid="nakahodo" creationdate="20171213T130959Z">
@@ -7848,6 +7864,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114839Z" creationid="aorin" creationdate="20180410T114839Z">
         <seg>アーマーは他プレイヤーのターン時に攻撃に対する防御になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160710Z" creationid="nakahodo" creationdate="20180601T160710Z">
+        <seg>アーマー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15104,6 +15128,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facedown Treasure cards can be revealed later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160659Z" creationid="nakahodo" creationdate="20180601T160320Z">
+        <seg>保持したトレジャーカードは、あなたのターンであればいつでも、表向きにして公開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factor in cards for both active and inactive players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T132928Z" creationid="nakahodo" creationdate="20171230T132928Z">
@@ -15277,6 +15309,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193228Z" creationid="aorin" creationdate="20180114T193228Z">
         <seg>各カードに一致するディスカバリートークンを探し、プラスチックスタンドを使用してそのカードに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firebrand:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160745Z" creationid="nakahodo" creationdate="20180601T160745Z">
+        <seg>Firebrand:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19415,6 +19455,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151952Z" creationid="nakahodo" creationdate="20180412T151952Z">
         <seg>シーフのステルスがユニコーンのアーマーよりも高い場合、シーフは3アクションキューブを消費することで不意打ちを使用してユニコーンのヘルスを1減少させられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Treasure deck is empty, you must decline, gaining 5 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160404Z" creationid="nakahodo" creationdate="20180601T160404Z">
+        <seg>トレジャーデッキが空の場合、あなたは拒否しなければならず、経験値5を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35797,6 +35845,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effects of your face-up Treasure cards are always active.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160637Z" creationid="nakahodo" creationdate="20180601T160419Z">
+        <seg>表向きにされたトレジャーカードの効果は常に発動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The eight spaces around a space, both adjacent and diagonal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223919Z" creationid="nakahodo" creationdate="20180531T223919Z">
@@ -44084,6 +44140,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You get +1 Perception.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160733Z" creationid="nakahodo" creationdate="20180601T160733Z">
+        <seg>感知力＋1を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have 1 month to make your final impression.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135730Z" creationid="nakahodo" creationdate="20171230T135155Z">
@@ -44192,6 +44256,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T202412Z" creationid="aorin" creationdate="20180409T202412Z">
         <seg>あなたは、収集するトレジャーやジェムごとに2移動力ポイント消費することにより、自身のスペースにあるそれらからトークン1つを収集することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may collect multiple Treasure tokens in one Encounter, but you must resolve them one at a time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160516Z" creationid="nakahodo" creationdate="20180601T160418Z">
+        <seg>1つのエンカウンターで複数のトレジャートークンを収集できますが、一度に1つずつこれらを解決する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
