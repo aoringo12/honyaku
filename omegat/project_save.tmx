@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If there is no Manor player or the Manor’s hand is empty, you draw and resolve an Event card instead.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065020Z" creationid="nakahodo" creationdate="20180601T065020Z">
+        <seg>（館プレイヤーがいない、または館プレイヤーの手札が空の場合、代わりに、あなたはイベントカード1枚をドローしてそれを解決します。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If there is no Manor player, place them near your player board instead.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T053826Z" creationid="nakahodo" creationdate="20180601T053706Z">
@@ -5089,6 +5097,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Armory Icon&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065625Z" creationid="nakahodo" creationdate="20180601T065625Z">
+        <seg>＜武器庫アイコン＞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;Bag&gt;:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072915Z" creationid="aorin" creationdate="20171216T072915Z">
@@ -5137,10 +5153,34 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Pit icon&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065346Z" creationid="nakahodo" creationdate="20180601T065346Z">
+        <seg>＜横穴アイコン＞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Poltergeist Icon&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065523Z" creationid="nakahodo" creationdate="20180601T065523Z">
+        <seg>＜ポルターガイストアイコン＞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;Print-and-Play Note:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224128Z" creationid="aorin" creationdate="20171215T224128Z">
         <seg>&lt;プリトアンドプレイ注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Treasure Icon&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065212Z" creationid="nakahodo" creationdate="20180601T065212Z">
+        <seg>＜トレジャーアイコン＞</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,6 +6657,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After placing the tile, you must resolve it, as described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T064805Z" creationid="nakahodo" creationdate="20180601T064805Z">
+        <seg>タイルを追加した後、下記に示されるようにその効果を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After placing tiles according to Alone in the Dark II, roll Flare for each Artifact on a Dark tile, using the Artifact as the center space for the roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024447Z" creationid="aorin" creationdate="20180408T024447Z">
@@ -7709,6 +7757,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armory tiles have no immediate effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065536Z" creationid="nakahodo" creationdate="20180601T065536Z">
+        <seg>武器庫タイルは直ちに発揮する効果はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armory:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065527Z" creationid="nakahodo" creationdate="20180601T065527Z">
+        <seg>武器庫：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrival</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T113041Z" creationid="nakahodo" creationdate="20171224T101645Z">
@@ -7801,6 +7865,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T064214Z" creationid="nakahodo" creationdate="20180311T064214Z">
         <seg>彼女の最後の法令として、クイーンが若い頃から緑豊かで美しいガーデンの再生を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As part of the same Encounter, you may immediately gain a Devotion of your choice or place a Sanctity card at the bottom of the Sanctity deck to gain a new Sanctity, by drawing 3 Sanctity cards, playing one, and placing the other two at the bottom of the Sanctity deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T070322Z" creationid="nakahodo" creationdate="20180601T070322Z">
+        <seg>今持つ同じエンカウンターの一部として、信仰1つを選択して得る、または神聖カード1枚を得ることができます。神聖カードを得る場合、神聖カード3枚をドローし、1枚をプレイし、残り2枚を神聖デッキの下に戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14343,6 +14415,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Event:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T064818Z" creationid="nakahodo" creationdate="20180601T064818Z">
+        <seg>イベント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every 2 resources controlled</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T094018Z" creationid="nakahodo" creationdate="20180209T094018Z">
@@ -15013,6 +15093,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002142Z" creationid="aorin" creationdate="20180115T002142Z">
         <seg>最後に、3つの独自ユニットが増強ステージ時に使用できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, you gain 2 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T064814Z" creationid="nakahodo" creationdate="20180601T064814Z">
+        <seg>最後に、経験値2を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23012,6 +23100,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Later in the game, Skeletons can collect Gear from them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065611Z" creationid="nakahodo" creationdate="20180601T065611Z">
+        <seg>後に、スケルトンがここで装備を収集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Later in the game, Skeletons can spawn from them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065316Z" creationid="nakahodo" creationdate="20180601T065316Z">
+        <seg>後に、スケルトンがここからスポーン（出現）します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Later in your turn, you could move up to two other objects, each up to three spaces.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T175843Z" creationid="aorin" creationdate="20180406T175843Z">
@@ -26405,6 +26509,22 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pit tiles have no immediate effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065247Z" creationid="nakahodo" creationdate="20180601T065247Z">
+        <seg>横穴タイルは直ちに発揮する効果はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065219Z" creationid="nakahodo" creationdate="20180601T065219Z">
+        <seg>横穴：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pits</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162656Z" creationid="nakahodo" creationdate="20180430T160800Z">
@@ -26633,6 +26753,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Poltergeist piece on the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065405Z" creationid="nakahodo" creationdate="20180601T065405Z">
+        <seg>タイルにポルターガイストピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Robotanist</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075911Z" creationid="nakahodo" creationdate="20180311T075911Z">
@@ -26685,6 +26813,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050541Z" creationid="aorin" creationdate="20180408T050339Z">
         <seg>プレイヤーピースやトレジャートークンを持たないダークタイルに、トレジャートークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Treasure token on the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065037Z" creationid="nakahodo" creationdate="20180601T065037Z">
+        <seg>タイルにトレジャートークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28011,6 +28147,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142752Z" creationid="nakahodo" creationdate="20171213T142752Z">
         <seg>指定された数のペナルティポイントを得て、このラウンド既に使用されたダブルアクションスペースの別のアクションを模倣する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poltergeist:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065356Z" creationid="nakahodo" creationdate="20180601T065356Z">
+        <seg>ポルターガイスト：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30782,6 +30926,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195425Z" creationid="aorin" creationdate="20180114T195425Z">
         <seg>神殿（金）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shrine:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065629Z" creationid="nakahodo" creationdate="20180601T065629Z">
+        <seg>神殿：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34106,6 +34258,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220419Z" creationid="aorin" creationdate="20180528T220419Z">
         <seg>メイジはプレイヤー1に、クレリックはプレイヤー2に惹きつけられr、シーフは町に留まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Manor must play an Event card from their hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T064931Z" creationid="nakahodo" creationdate="20180601T064931Z">
+        <seg>館プレイヤーは自身の手札からイベントカード1枚をプレイする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38162,6 +38322,14 @@ using the Hiding Spots secrets card.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is described more in Attacking Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065517Z" creationid="nakahodo" creationdate="20180601T065445Z">
+        <seg>詳細は「ポルターガイストへとアタックする」にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is determined for Apples, Honey, Bread, Silver and Gold.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040135Z" creationid="aorin" creationdate="20171213T040135Z">
@@ -39059,6 +39227,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T174047Z" creationid="aorin" creationdate="20171228T174047Z">
         <seg>トレジャーカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treasure Room:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065026Z" creationid="nakahodo" creationdate="20180601T065026Z">
+        <seg>トレジャールーム：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43624,6 +43800,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may immediately collect this token as part of the same Encounter, or you may collect it later as part of another Encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065441Z" creationid="nakahodo" creationdate="20180601T065203Z">
+        <seg>あなたは直ちに今持つ同じエンカウンターの一部としてこのトークンを収集するか、後で持つことになる、別エンカウンターの一部としてこれを収集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may immediately move any two of your units on the map to different territories that you control (this does not include Courts).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213018Z" creationid="aorin" creationdate="20180114T213018Z">
@@ -43996,6 +44180,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053402Z" creationid="aorin" creationdate="20171228T235732Z">
         <seg>あなたにはそんな一日の終わりに飲みながら愚痴をこぼす相手がいないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must attack it as part of the same Encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T065450Z" creationid="nakahodo" creationdate="20180601T065437Z">
+        <seg>あなたは今持つ同じエンカウンターの一部としてこれをアタックできます。</seg>
       </tuv>
     </tu>
     <tu>
