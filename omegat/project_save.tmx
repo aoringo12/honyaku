@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If there is no Manor player, place them near your player board instead.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053826Z" creationid="nakahodo" creationdate="20180601T053706Z">
+        <seg>（館プレイヤーがいない場合、代わりにあなたのプレイヤーボード近くに配置します。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If this reduces your movement points to 0, you cannot move.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T005026Z" creationid="aorin" creationdate="20180410T005026Z">
@@ -25094,6 +25102,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you complete these phase, you may assign any unused Hero cubes to any statistics, and then your turn ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054018Z" creationid="nakahodo" creationdate="20180601T054000Z">
+        <seg>これらのフェイズを完了すると、あなたは未使用のヒーローキューブを任意のステータスに割り当て、その後、ターンが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have activated a special victory card, you cannot replace it by activating a different special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232639Z" creationid="aorin" creationdate="20171215T232639Z">
@@ -26133,6 +26149,22 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perception is the number of Encounters you can have on your turn, and affects your interactions with the Enchanter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054359Z" creationid="nakahodo" creationdate="20180601T054359Z">
+        <seg>感知力は、あなが持てるエンカウンターの数であり、エンチャンターとのやりとりに影響します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perception, Movement, and Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054122Z" creationid="nakahodo" creationdate="20180601T054122Z">
+        <seg>感知力、移動力、筋力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform Actions</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114605Z" creationid="aorin" creationdate="20180410T114605Z">
@@ -26265,6 +26297,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T101238Z" creationid="aorin" creationdate="20171212T101238Z">
         <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick Up Hero Cubes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053848Z" creationid="nakahodo" creationdate="20180601T053848Z">
+        <seg>ヒーロキューブのピックアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26406,6 +26446,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 2 Hero cubes (yellow) on the two spaces near the top of your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053752Z" creationid="nakahodo" creationdate="20180601T053313Z">
+        <seg>あなたのプレイヤーボード上部のスペース2箇所にヒーローキューブ（黄色）2つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 4 Hatred tokens near your board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T081946Z" creationid="aorin" creationdate="20180409T081946Z">
@@ -26525,6 +26573,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134431Z" creationid="aorin" creationdate="20171215T134431Z">
         <seg>鷲のホームランドに戦士6体と止まり木1つを配置します（マップ右下角の赤狐の空き）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Sanctity cube (black) on each of the four Task spaces on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053801Z" creationid="nakahodo" creationdate="20180601T053515Z">
+        <seg>あなたのプレイヤーボード上のタスクスペース4つそれぞれに神聖キューブ（黒）を1つずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26779,6 +26835,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Devotion cubes (white) near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053806Z" creationid="nakahodo" creationdate="20180601T053600Z">
+        <seg>あなたのプレイヤーボード近くに信仰キューブ（白）を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Flare Variant card near the map;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T073111Z" creationid="aorin" creationdate="20180410T073111Z">
@@ -26823,6 +26887,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193345Z" creationid="aorin" creationdate="20180114T193345Z">
         <seg>影響ポイント（IP）を分野ごとに分け、マップ横に全てのプレイヤーの手がとどくように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Paladin piece on the Manor Entrance space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053747Z" creationid="nakahodo" creationdate="20180601T053154Z">
+        <seg>館ボードのエントランススペースにパラディンピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26969,6 +27041,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070723Z" creationid="nakahodo" creationdate="20180311T070723Z">
         <seg>ラボにプログラムブースト3つを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the three remaining cubes on the white spaces on the Grit track (5, 18, and 35).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053351Z" creationid="nakahodo" creationdate="20180601T053351Z">
+        <seg>残ったヒーローキューブ3つを経験値トラックの空白スペースに配置します（5、18、35）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30694,10 +30774,26 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the Sanctity deck and place it near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053840Z" creationid="nakahodo" creationdate="20180601T053743Z">
+        <seg>神聖デッキをシャッフルし、あなたのプレイヤーボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the Terror cards to form the Terror deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133433Z" creationid="aorin" creationdate="20180409T133433Z">
         <seg>恐怖カードをシャッフルして恐怖デッキを形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Treasure and Event decks separately, then place them face down near the Manor’s player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053644Z" creationid="nakahodo" creationdate="20180601T053644Z">
+        <seg>トレジャーとイベントデッキをそれぞれシャッフルし、その後、これらを館プレイヤーボード近くに裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31632,6 +31728,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075843Z" creationid="nakahodo" creationdate="20171230T075843Z">
         <seg>この指標オプションを選択したプレイヤーから始まり、時計回りで、各プレイヤーはキャンペーン勝利カードを秘密裏に1枚ずつ選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054101Z" creationid="nakahodo" creationdate="20180601T054101Z">
+        <seg>ステータス</seg>
       </tuv>
     </tu>
     <tu>
@@ -33978,6 +34082,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234946Z" creationid="nakahodo" creationdate="20180531T234946Z">
         <seg>パラディン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Paladin has three statistics:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054113Z" creationid="nakahodo" creationdate="20180601T054113Z">
+        <seg>パラディンは3つのステータスを持ちます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39645,6 +39757,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using red cubes, set your Health to 7 and set your Grit to 0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053214Z" creationid="nakahodo" creationdate="20180601T053214Z">
+        <seg>赤キューブを使用して、ヘルスを7に、経験値を0に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Focus cube, set your Focus to 0.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131318Z" creationid="nakahodo" creationdate="20180406T131318Z">
@@ -43148,6 +43268,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210729Z" creationid="aorin" creationdate="20180528T210729Z">
         <seg>あなたはルームをプレイしないことを選択できますが、「アクティブプレイヤー」でなくなったら、選択の変更はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may choose to end your turn without completing both phases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054100Z" creationid="nakahodo" creationdate="20180601T054001Z">
+        <seg>あなたは、両フェイズを完了せずに自身のターンを終了させることができます。</seg>
       </tuv>
     </tu>
     <tu>
