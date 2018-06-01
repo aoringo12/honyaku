@@ -36905,6 +36905,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, add Dark tiles to the board on the tile’s open edges.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T064721Z" creationid="nakahodo" creationdate="20180601T064721Z">
+        <seg>その後、公開したタイルの開いた側面に接する空きスペースへと、ダークタイルを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, check whether the Unicorn performs the prompted action or a Rampage.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T135944Z" creationid="nakahodo" creationdate="20180412T135850Z">
