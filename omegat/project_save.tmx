@@ -6040,6 +6040,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING THE WRAITH</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100515Z" creationid="nakahodo" creationdate="20180601T100515Z">
+        <seg>レイスへアタックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMA DECK:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
@@ -19459,6 +19467,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the first tile you Encounter when entering the Manor on your first turn is a Poltergeist tile, you must fight!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100153Z" creationid="nakahodo" creationdate="20180601T100153Z">
+        <seg>ゲーム最初のターン、屋敷へと入るエンカウンターにて最初のタイルがポルターガイストタイルだった場合、あなたは戦わなくてはなりません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the following two conditions are true, perform the Rampage action and do not perform the prompted action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T140027Z" creationid="nakahodo" creationdate="20180412T135909Z">
@@ -21276,8 +21292,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>If your Strength is less than 3 and you cannot (or choose not) to raise it, you immediately return to the tile from which you moved (which does not cost more Movement).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T095902Z" creationid="nakahodo" creationdate="20180601T095902Z">
-        <seg>あなたの筋力が2以下で上昇させられない（またはしないと選択した）場合、あなたは直ちに移動元のタイルに戻されます（これによる追加の移動力消費はありません）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100231Z" creationid="nakahodo" creationdate="20180601T095902Z">
+        <seg>あなたの筋力が2以下で上昇させられない（またはしないと選択した）場合、あなたは直ちに移動元のタイルへと撤退します（これによる追加の移動力消費はありません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21806,6 +21822,14 @@ cannot be chosen, unless a special action would allow it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In games with a Manor player, you win if you destroy 7 Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100447Z" creationid="nakahodo" creationdate="20180601T100339Z">
+        <seg>屋敷プレイヤーのいるゲームでは、あなたが勝利するためにポルターガイスト7体必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In games with multiple players, if everyone agrees during setup, one player can change their victory condition to “Kill the Shadow Unicorn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T154356Z" creationid="nakahodo" creationdate="20180412T154248Z">
@@ -21834,6 +21858,22 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T091052Z" creationid="aorin" creationdate="20180408T022440Z">
         <seg>洞窟プレイヤーの居ないゲーム：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games without a Manor player, you win if you destroy 5 Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100458Z" creationid="nakahodo" creationdate="20180601T100340Z">
+        <seg>屋敷プレイヤーのいないゲームでは、あなたが勝利するためにポルターガイスト5体必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games without a Spider player, mark each destroyed Poltergeist on your progress card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100339Z" creationid="nakahodo" creationdate="20180601T100339Z">
+        <seg>スパイダープレイヤーの居ないゲームでは、あなたの進展カードに倒したポルターガイストを記録します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43520,6 +43560,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot retreat through the Entrance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100242Z" creationid="nakahodo" creationdate="20180601T100214Z">
+        <seg>エントランスには撤退できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot reveal the Possession card if any player piece is on a Ghost tile with a locked Artifact (so you cannot take a possession turn).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T183303Z" creationid="aorin" creationdate="20180406T183303Z">
@@ -43908,6 +43956,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135545Z" creationid="aorin" creationdate="20180409T135545Z">
         <seg>ライトタイルとダークタイルに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may enter a space with the Wraith regardless of your Strength, but you cannot attack it or affect it in any way</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T100533Z" creationid="nakahodo" creationdate="20180601T100533Z">
+        <seg>You may enter a space with the Wraith regardless of your Strength, but you cannot attack it or affect it in any way</seg>
       </tuv>
     </tu>
     <tu>
