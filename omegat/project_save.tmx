@@ -12633,6 +12633,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw and place them face up, from left to right, in the March Order spaces on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203128Z" creationid="nakahodo" creationdate="20180601T203128Z">
+        <seg>プレイヤーボードの行進順番スペース左から右へと、1枚ずつどろーして表向きでそれらを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw five Room cards and two Spell cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T115411Z" creationid="nakahodo" creationdate="20180525T115411Z">
@@ -27803,6 +27811,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the green cube on the “0” space of the Stability track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T195405Z" creationid="nakahodo" creationdate="20180601T195405Z">
+        <seg>緑キューブを安定性トラックの「0」スペースに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the other two Pit tiles as far from the first Pit and from each other as possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T161156Z" creationid="nakahodo" creationdate="20180430T161156Z">
@@ -31674,6 +31690,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the 5 Skeleton cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T195414Z" creationid="nakahodo" creationdate="20180601T195414Z">
+        <seg>スケルトンカード5枚をシャッフルします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the Automa Deck and place it facedown next to the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090509Z" creationid="nakahodo" creationdate="20180108T090509Z">
@@ -33202,6 +33226,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035228Z" creationid="aorin" creationdate="20180408T035210Z">
         <seg>ゴーストカードを除いて、プレイされるロールに一致する憑依カード全てを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Skeletons player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T195307Z" creationid="nakahodo" creationdate="20180601T195307Z">
+        <seg>スケルトンプレイヤーボードを取ります。</seg>
       </tuv>
     </tu>
     <tu>
