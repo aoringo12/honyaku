@@ -6000,6 +6000,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING AN EGG</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091740Z" creationid="nakahodo" creationdate="20180601T091740Z">
+        <seg>卵へアタックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTACKING SKELETONS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T070435Z" creationid="nakahodo" creationdate="20180601T070435Z">
@@ -16585,6 +16593,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giant Spider or Caster:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091446Z" creationid="nakahodo" creationdate="20180601T091446Z">
+        <seg>ジャイアントスパイダーかキャスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gift</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082527Z" creationid="aorin" creationdate="20171216T082527Z">
@@ -19431,6 +19447,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101910Z" creationid="nakahodo" creationdate="20180108T101910Z">
         <seg>ゲームがキャンペーンの一部である場合、オートマも人間プレイヤーのように通常のゲーム終了ステップに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the last Spiderling is removed from the game, you have killed the Spider and you win the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091631Z" creationid="nakahodo" creationdate="20180601T091631Z">
+        <seg>最後の蜘蛛の子がゲームから取り除かれた場合、あなたはスパイダーを殺し、ゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29300,6 +29324,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove that Spiderling from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091457Z" creationid="nakahodo" creationdate="20180601T091257Z">
+        <seg>ゲームからその蜘蛛の子を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the Javelin from the game after resolving its effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T123348Z" creationid="nakahodo" creationdate="20180430T123348Z">
@@ -31854,6 +31886,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054846Z" creationid="aorin" creationdate="20171216T054846Z">
         <seg>サポーター2体を消費して、一致する民の空き地に隠れ家を建築し、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spiderling:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091237Z" creationid="nakahodo" creationdate="20180601T091237Z">
+        <seg>蜘蛛の子：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34758,6 +34798,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Spider player removes a Spiderling from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091520Z" creationid="nakahodo" creationdate="20180601T091453Z">
+        <seg>スパイダープレイヤーは蜘蛛の子1匹を選択し、ゲームから取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief can enter the Unicorn’s space freely.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151604Z" creationid="nakahodo" creationdate="20180412T151604Z">
@@ -37161,6 +37209,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, each other Spiderling on the board gains 2 Movement to spend immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091419Z" creationid="nakahodo" creationdate="20180601T091419Z">
+        <seg>その後、ボード上にいるそれぞれの蜘蛛の子は、直ちに消費しなければならない移動力2を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, flip your current leader face down and set it aside, choose a new leader from those that remain face up and place it near your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003012Z" creationid="aorin" creationdate="20171216T003012Z">
@@ -37293,6 +37349,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152126Z" creationid="aorin" creationdate="20171215T152126Z">
         <seg>その後、連合は暴動を1つ上昇させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the Spider player may switch to Spiderling form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091607Z" creationid="nakahodo" creationdate="20180601T091607Z">
+        <seg>その後、スパイダープレイヤーは蜘蛛の子形態に切り替えられます。</seg>
       </tuv>
     </tu>
     <tu>
