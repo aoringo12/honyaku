@@ -366,6 +366,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Discard) Destroy all Webs, Dancing Lights, Force</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153732Z" creationid="nakahodo" creationdate="20180601T153732Z">
+        <seg>（破棄）視線が通る隣接タイルにある次のものを全て破壊：蜘蛛の巣、踊る光、フォースウォール、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Discard) Play while in a Shrine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153309Z" creationid="nakahodo" creationdate="20180601T153135Z">
+        <seg>（破棄）神聖カードをプレイする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Do not add Ghoul discs to your Attack space.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T091621Z" creationid="aorin" creationdate="20180410T091621Z">
@@ -762,6 +778,30 @@
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T072654Z" creationid="nakahodo" creationdate="20180430T072654Z">
         <seg>（これは未占領スペースを指定する効果によって無視されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Keep) Healing now only costs 3 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153456Z" creationid="nakahodo" creationdate="20180601T153456Z">
+        <seg>（保持）今だけヒーリングのコストが3経験値になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Keep) Spend 2 Fire and choose any tile on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153858Z" creationid="nakahodo" creationdate="20180601T153858Z">
+        <seg>（保持）炎2つを消費し、マップ上の任意のタイル1枚を選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Keep) When you place a Lamp, you may also rotate the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153427Z" creationid="nakahodo" creationdate="20180601T153427Z">
+        <seg>（保持）ランプを配置する時、今居るタイルを回転できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16179,6 +16219,22 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain 3 Fire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153327Z" creationid="nakahodo" creationdate="20180601T153214Z">
+        <seg>炎3を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 3 Light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153335Z" creationid="nakahodo" creationdate="20180601T153335Z">
+        <seg>明かり3を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain 3 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224638Z" creationid="aorin" creationdate="20171231T224638Z">
@@ -30572,6 +30628,15 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sanctity Upgrades (Discard) As part of an Encounter, you can attack an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153253Z" creationid="nakahodo" creationdate="20180601T153113Z">
+        <seg>神聖アップグレード
+（破棄）エンカウンターの一部として、隣接スペースにアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scale cards in the Power deck are drawn into your hand like normal Power cards, and may be used during the Move and Use Powers phase of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T110444Z" creationid="nakahodo" creationdate="20180430T110409Z">
@@ -32907,6 +32972,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T140503Z" creationid="nakahodo" creationdate="20180430T140503Z">
         <seg>明らかにされた部族から4スペース内で見えているプレイヤーピース1つを対象にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152843Z" creationid="nakahodo" creationdate="20180601T152843Z">
+        <seg>タスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -40716,6 +40789,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T225739Z" creationid="nakahodo" creationdate="20180531T225427Z">
         <seg>壁は防ぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walls, and Arcane discs in an adjacent visible tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153827Z" creationid="nakahodo" creationdate="20180601T153827Z">
+        <seg>不可解な円盤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48709,6 +48790,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Attack the Spider (or Poltergeists) twice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152915Z" creationid="nakahodo" creationdate="20180601T152915Z">
+        <seg>•	スパイダー（またはポルターガイスト）を2回アタックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Event cards in the Manor’s hand (even to the Manor)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221929Z" creationid="nakahodo" creationdate="20180531T221427Z">
@@ -48737,6 +48826,30 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221330Z" creationid="nakahodo" creationdate="20180531T221330Z">
         <seg>•</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Reach 11 Grit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152956Z" creationid="nakahodo" creationdate="20180601T152948Z">
+        <seg>•	経験値11に到達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Reach 26 Grit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153000Z" creationid="nakahodo" creationdate="20180601T153000Z">
+        <seg>•	経験値26に到達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► When 20 tiles are Lit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152957Z" creationid="nakahodo" creationdate="20180601T152941Z">
+        <seg>•	タイル20枚が公開されている時。</seg>
       </tuv>
     </tu>
     <tu>
