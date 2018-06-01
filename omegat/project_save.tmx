@@ -6000,6 +6000,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING SKELETONS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T070435Z" creationid="nakahodo" creationdate="20180601T070435Z">
+        <seg>スケルトンへアタックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMA DECK:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
@@ -8673,6 +8681,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T230244Z" creationid="nakahodo" creationdate="20180411T083753Z">
         <seg>アタック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking a Skeleton (as an Encounter), scatters it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T070515Z" creationid="nakahodo" creationdate="20180601T070515Z">
+        <seg>（エンカウンターの一部として）スケルトンをアタックすると、対象は離散します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20524,6 +20540,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132052Z" creationid="nakahodo" creationdate="20171127T132052Z">
         <seg>あなたが他プレイヤーのいるスペースに入るか、プレイヤー1人があなたのスペースに入ったら自動的に攻撃が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you enter a tile with multiple Skeletons, you attack them all in the same Encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T070615Z" creationid="nakahodo" creationdate="20180601T070615Z">
+        <seg>あなたが入るタイルに複数のスケルトンが居る場合、今持つ同じエンカウンターの一部としてそれら全てにアタックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37799,6 +37823,14 @@ card until they decide to build it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They fight as a group—their Strength equals the Strength of the strongest Skeleton plus 1 Strength per Skeleton beyond the first on the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T071835Z" creationid="nakahodo" creationdate="20180601T071835Z">
+        <seg>このスケルトンたちは集団で戦います――彼らの筋力は、最も筋力の高いスケルトルトン＋タイルにいるスケルトンの数ー1、に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They gain from the Mint Supply equal to the sum
 of the Plan’s printed cost and value.</seg>
       </tuv>
@@ -43756,6 +43788,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175337Z" creationid="nakahodo" creationdate="20171218T175337Z">
         <seg>あなたは効果の一部または全てを得ることができます（建物の右上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may gain the benefit of a Shrine multiple times, but each time must be part of a different Encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T070412Z" creationid="nakahodo" creationdate="20180601T070412Z">
+        <seg>神殿から複数回の効果を得られますが、それぞれ別のエンカウンターの一部でなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
