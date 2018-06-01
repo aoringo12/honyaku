@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, on a Lit tile, you could spend one Encounter to attack the Spider, pick up two Treasures, or do both actions.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061949Z" creationid="nakahodo" creationdate="20180601T061949Z">
+        <seg>（例えば、エンカウンター1つを消費することにより、ライトタイル上にいるスパイダーを攻撃する、トレジャー2つを収集する、のいずれか、または両方ができます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, the possessed Dragon cannot remove a second Pride cube for revealing an Event tile if the Dragon player already removed a cube during his turn, the possessed Thief cannot target the same player with Backstab a second time, and the possessed  Cave must spend more Omen tokens to use omens such as Hatred and Past Plunder if they were used during the Cave player’s turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T004024Z" creationid="aorin" creationdate="20180408T155956Z">
@@ -10826,6 +10834,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collect Treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061741Z" creationid="nakahodo" creationdate="20180601T061741Z">
+        <seg>トレジャーの収集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collect all Possession cards except the card (if any) on your Mental Block space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T182407Z" creationid="aorin" creationdate="20180406T182407Z">
@@ -12945,8 +12961,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During this phase, you can move by spending Movement, and you can have Encounters by spending Perception.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061206Z" creationid="nakahodo" creationdate="20180601T061206Z">
-        <seg>このフェイズ中、移動力とエンカウンターを消費して移動します。エンカウンターは感知力を消費することで得られます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061256Z" creationid="nakahodo" creationdate="20180601T061206Z">
+        <seg>このフェイズ中、移動力を消費して移動し、感知力を消費してエンカウンターを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28555,6 +28571,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REVEALING AND RESOLVING TILES</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062222Z" creationid="nakahodo" creationdate="20180601T062222Z">
+        <seg>タイルの公開と解決</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ROOMS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104838Z" creationid="aorin" creationdate="20180526T104838Z">
@@ -29271,6 +29295,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve Attacks (any order):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061719Z" creationid="nakahodo" creationdate="20180601T061719Z">
+        <seg>アタックの解決（任意の順番）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolve Possession Card</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133116Z" creationid="nakahodo" creationdate="20180406T133116Z">
@@ -29443,6 +29475,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092416Z" creationid="nakahodo" creationdate="20180413T092416Z">
         <seg>選択肢たスペースを中央として、ロールの影響を受けたダークタイル全てを明らかにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal and Resolve Dark Tile (required)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061701Z" creationid="nakahodo" creationdate="20180601T061701Z">
+        <seg>ダークタイルの公開と解決（必須）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31043,6 +31083,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T074927Z" creationid="aorin" creationdate="20171213T074927Z">
         <seg>一回使用タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skeleton, Spider, Poltergeist, Enchanter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061734Z" creationid="nakahodo" creationdate="20180601T061734Z">
+        <seg>スケルトン、スパイダー、ポルターガイスト、エンチャンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -41053,6 +41101,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you enter a Dark tile, you must spend Perception to have an Encounter, which flips the tile to its Lit side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062318Z" creationid="nakahodo" creationdate="20180601T062318Z">
+        <seg>あなたがダークタイルに入る時、これをライトサイドへと返すために感知力を消費して</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you enter the River, you may immediately move for free in the direction of the current.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T011803Z" creationid="aorin" creationdate="20180410T011643Z">
@@ -41529,6 +41585,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T205858Z" creationid="aorin" creationdate="20171231T205858Z">
         <seg>あなたが公開目標を最初に得点するたびに、+3VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you attack, add one Devotion cube to your Light pool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062153Z" creationid="nakahodo" creationdate="20180601T062153Z">
+        <seg>あなたがアタックを行うたびに、ライトプールに信仰キューブ1つを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42714,8 +42778,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can move and have Encounters in any order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061225Z" creationid="nakahodo" creationdate="20180601T061225Z">
-        <seg>You can move and have Encounters in any order.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061511Z" creationid="nakahodo" creationdate="20180601T061225Z">
+        <seg>任意の順番で移動しエンカウンターを持つことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42840,6 +42904,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can spend 1 Perception to have an Encounter, which lets you take these actions in order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062039Z" creationid="nakahodo" creationdate="20180601T061413Z">
+        <seg>感知力1を消費することでエンカウンター1つを持つことができます。エンカウンター1つを消費することで、これらアクションを次の順番で処理できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can spend Boost dice in place of movement points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T091111Z" creationid="aorin" creationdate="20180410T091111Z">
@@ -42892,6 +42964,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235133Z" creationid="aorin" creationdate="20171215T235133Z">
         <seg>任意の順番でアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take any or all of these actions in the same Encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061820Z" creationid="nakahodo" creationdate="20180601T061820Z">
+        <seg>あなたは1つのエンカウンターでこれらアクションを任意の数だけ実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43036,6 +43116,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111737Z" creationid="nakahodo" creationdate="20180412T111737Z">
         <seg>あなたは別の横穴から、別の横穴に直接移動できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot move if you have spent all of your Perception.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061416Z" creationid="nakahodo" creationdate="20180601T061411Z">
+        <seg>全ての感知力が消費されている場合、あなたはこれ以上、移動できません。</seg>
       </tuv>
     </tu>
     <tu>
