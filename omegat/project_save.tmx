@@ -6200,6 +6200,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activate Skeletons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203437Z" creationid="nakahodo" creationdate="20180601T203437Z">
+        <seg>スケルトンたちをアクティブにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activated Ability:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224232Z" creationid="aorin" creationdate="20180528T224152Z">
@@ -16371,6 +16379,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain 2 Stability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203448Z" creationid="nakahodo" creationdate="20180601T203441Z">
+        <seg>安定性を2得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain 2 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T231641Z" creationid="aorin" creationdate="20171231T231641Z">
@@ -16495,6 +16511,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133236Z" creationid="aorin" creationdate="20180409T133236Z">
         <seg>他のプレイヤーを攻撃し、トレジャーを収集して怒りの目標値まで怒りを得て、エントランスタイルに入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Stability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203423Z" creationid="nakahodo" creationdate="20180601T203423Z">
+        <seg>安定性を得る</seg>
       </tuv>
     </tu>
     <tu>
@@ -27733,8 +27757,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the Skeleton pieces matching the two leftmost</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203335Z" creationid="nakahodo" creationdate="20180601T203335Z">
-        <seg>プレイヤーボード上の行進順番にて、最も左のカード2枚に一致するスケルトンピースを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203416Z" creationid="nakahodo" creationdate="20180601T203335Z">
+        <seg>プレイヤーボード上の行進順番スペース、最も左のカード2枚に、一致するスケルトンピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27823,6 +27847,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T195405Z" creationid="nakahodo" creationdate="20180601T195405Z">
         <seg>緑キューブを安定性トラックの「0」スペースに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the other three Skeleton pieces near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203357Z" creationid="nakahodo" creationdate="20180601T203357Z">
+        <seg>残ったスケルトンピースはプレイヤーボード近くに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30932,6 +30964,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STABILITY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203441Z" creationid="nakahodo" creationdate="20180601T203441Z">
+        <seg>STABILITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STANDARD</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062301Z" creationid="nakahodo" creationdate="20180413T062301Z">
@@ -31963,6 +32003,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skeleton cards in your March Order onto your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203339Z" creationid="nakahodo" creationdate="20180601T203339Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skeleton, Spider, Poltergeist, Enchanter</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061734Z" creationid="nakahodo" creationdate="20180601T061734Z">
@@ -32282,6 +32330,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223434Z" creationid="nakahodo" creationdate="20180531T223434Z">
         <seg>スペース：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spawn Skeletons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203431Z" creationid="nakahodo" creationdate="20180601T203431Z">
+        <seg>スケルトンたちのスポーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -32650,6 +32706,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210206Z" creationid="aorin" creationdate="20180114T210206Z">
         <seg>スパイマスターフェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stability is the collective ability of the Skeletons to hold themselves together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203456Z" creationid="nakahodo" creationdate="20180601T203456Z">
+        <seg>Stability is the collective ability of the Skeletons to hold themselves together.</seg>
       </tuv>
     </tu>
     <tu>
