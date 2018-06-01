@@ -32098,6 +32098,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the Paladin player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T053135Z" creationid="nakahodo" creationdate="20180601T053135Z">
+        <seg>パラディンプレイヤーボードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the Possession cards matching the roles being played, and return the other Possession cards to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131858Z" creationid="nakahodo" creationdate="20180406T131858Z">
