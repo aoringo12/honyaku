@@ -7430,6 +7430,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also spend 5 Grit to gain 1 Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T183208Z" creationid="nakahodo" creationdate="20180601T183208Z">
+        <seg>と、経験値5も消費することで、ヘルス1を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also stack the extra Reward Tiles
 here.</seg>
       </tuv>
@@ -8609,6 +8617,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102500Z" creationid="nakahodo" creationdate="20180413T094843Z">
         <seg>あなたのターン終了時にて、ダークタイル1枚をどろーして配置する代わりに、次の最も高い数値に等しいだけダークタイルをドローして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of your turn, you gain a Fire cube if you did not attack the Spider or a Poltergeist during your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T181901Z" creationid="nakahodo" creationdate="20180601T181901Z">
+        <seg>あなたのターン終了時、このターン中にスパイダーかポルターガイストをアタックしなかった場合、炎信仰キューブ1つを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15132,6 +15148,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101529Z" creationid="nakahodo" creationdate="20180108T101529Z">
         <seg>ノルマを満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T181806Z" creationid="nakahodo" creationdate="20180601T181806Z">
+        <seg>炎</seg>
       </tuv>
     </tu>
     <tu>
@@ -22496,6 +22520,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase your Strength for one attack by the amount of Fire spent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182140Z" creationid="nakahodo" creationdate="20180601T182140Z">
+        <seg>炎信仰キューブを消費した数だけ、1回のアタック内であなたの筋力が一時的に1上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index Guide when new rule and story cards are unlocked.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110104Z" creationid="nakahodo" creationdate="20180108T110104Z">
@@ -23519,6 +23551,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225358Z" creationid="aorin" creationdate="20180407T225358Z">
         <seg>ナイト：影響力+2の経験値を失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LIGHT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182145Z" creationid="nakahodo" creationdate="20180601T182145Z">
+        <seg>光</seg>
       </tuv>
     </tu>
     <tu>
@@ -27225,10 +27265,26 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Breach token on a wall of your tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182036Z" creationid="nakahodo" creationdate="20180601T182036Z">
+        <seg>あなたがいるタイルの壁1つにブリーチトークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Hideout and one warrior on any clearing with an empty slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144748Z" creationid="aorin" creationdate="20171215T144744Z">
         <seg>空いたスロットのある任意の空き地に、隠れ家1つと戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Lamp token in your tile or an adjacent visible tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182513Z" creationid="nakahodo" creationdate="20180601T182457Z">
+        <seg>あなたのいるタイルか視線が通っている隣接タイルにランプトークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29672,6 +29728,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T161109Z" creationid="aorin" creationdate="20180408T161030Z">
         <seg>ランダムにゴーストタイルらを取り除き、裏向きでボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove a Web from your tile or an adjacent visible tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182541Z" creationid="nakahodo" creationdate="20180601T182508Z">
+        <seg>あなたのいるタイルか視線が通っている隣接タイルから蜘蛛の巣を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32258,6 +32322,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T060610Z" creationid="nakahodo" creationdate="20180413T060610Z">
         <seg>2移動力を消費して、クリスタルタイル1枚から、別のプレイヤーピースのいないクリスタルタイルへと移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend Fire to...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T181942Z" creationid="nakahodo" creationdate="20180601T181927Z">
+        <seg>炎信仰キューブ1つを消費することで……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend Light to...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182403Z" creationid="nakahodo" creationdate="20180601T182403Z">
+        <seg>光信仰キューブを消費することで……</seg>
       </tuv>
     </tu>
     <tu>
@@ -42137,6 +42217,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you spend a Devotion cube, return it to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T181803Z" creationid="nakahodo" creationdate="20180601T181803Z">
+        <seg>あなたが信仰キューブを消費する時、これは自身のサプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you stash a Treasure, you may reveal an Upgrade card and place a Treasure token on it to gain its upgrade (instead of an upgrade on your player board).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T112840Z" creationid="nakahodo" creationdate="20180430T112840Z">
@@ -44280,6 +44368,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T144815Z" creationid="nakahodo" creationdate="20180430T144604Z">
         <seg>シーフがトレジャーやジェムトークンをスタッシュした時や、シーフ以外のプレイヤーがトレジャーやジェムトークンを得た時、あなたは1怒りを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You gain a Light cube each time you attack per turn, and each time you lose Grit per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182335Z" creationid="nakahodo" creationdate="20180601T182335Z">
+        <seg>あなたはターン中のアタックごと、経験値を失うごと（失う経験値の数に関係なく）に光信仰キューブを1つ得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49078,6 +49174,22 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T181951Z" creationid="nakahodo" creationdate="20180601T181928Z">
+        <seg>•	1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182546Z" creationid="nakahodo" creationdate="20180601T182546Z">
+        <seg>•	5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Attack the Spider (or Poltergeists) twice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T152915Z" creationid="nakahodo" creationdate="20180601T152915Z">
@@ -49138,6 +49250,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T152957Z" creationid="nakahodo" creationdate="20180601T152941Z">
         <seg>•	タイル20枚が公開されている時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► X:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T182043Z" creationid="nakahodo" creationdate="20180601T182043Z">
+        <seg>•	X：</seg>
       </tuv>
     </tu>
     <tu>
