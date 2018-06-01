@@ -32254,6 +32254,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spider or Caster form, you may spend 3 Fire to force her to remove another Spiderling (two total).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161511Z" creationid="nakahodo" creationdate="20180601T161257Z">
+        <seg>あなたは炎3つを消費することで、別の蜘蛛の子も強制的に取り除かせることができます（合計2匹）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spiderling:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091237Z" creationid="nakahodo" creationdate="20180601T091237Z">
@@ -41242,10 +41250,18 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When attacking a Skeleton, you may spend 1 Fire to also reduce their Stability by 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161525Z" creationid="nakahodo" creationdate="20180601T161525Z">
+        <seg>スケルトン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When attacking the Spider in Giant</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161126Z" creationid="nakahodo" creationdate="20180601T161126Z">
-        <seg>When attacking the Spider in Giant</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161334Z" creationid="nakahodo" creationdate="20180601T161126Z">
+        <seg>ジャイアントスパイダーかキャスター形態のスパイダーをアタックする時、</seg>
       </tuv>
     </tu>
     <tu>
