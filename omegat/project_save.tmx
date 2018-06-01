@@ -6008,6 +6008,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING THE SPIDER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T071851Z" creationid="nakahodo" creationdate="20180601T071837Z">
+        <seg>スパイダーへアタックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMA DECK:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
@@ -8705,6 +8713,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071634Z" creationid="nakahodo" creationdate="20180413T062604Z">
         <seg>グールへ攻撃する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking the Spider (as an Encounter) has different effects depending on the Spider’s form:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091153Z" creationid="nakahodo" creationdate="20180601T071838Z">
+        <seg>（エンカウンターの一部として）スパイダーへのアタックは、スパイダーの形態によって異なる効果が適用されます：</seg>
       </tuv>
     </tu>
     <tu>
