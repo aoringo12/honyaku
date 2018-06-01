@@ -20258,8 +20258,8 @@ in turn order.</seg>
       <tuv lang="EN-US">
         <seg>If there is no Paladin, Spider, or Manor, destroy 5 Poltergeists.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T194750Z" creationid="nakahodo" creationdate="20180601T194750Z">
-        <seg>スパイダーと館がいない場合、ポルターガイスト5体を破壊する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T194837Z" creationid="nakahodo" creationdate="20180601T194750Z">
+        <seg>パラディンとスパイダーと館プレイヤーがいない場合、ポルターガイスト5体を倒します。</seg>
       </tuv>
     </tu>
     <tu>
