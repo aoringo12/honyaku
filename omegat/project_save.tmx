@@ -13383,6 +13383,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your turn, you get +1 Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T162458Z" creationid="nakahodo" creationdate="20180601T162458Z">
+        <seg>あなたのターン時、筋力＋1を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EASIEST</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062207Z" creationid="nakahodo" creationdate="20180413T062207Z">
@@ -20416,6 +20424,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are at a Shrine, you can discard this card to gain 3 Devotion of your choice and draw 3 Sanctity cards, pick one, and place the other two at the bottom of the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T170154Z" creationid="nakahodo" creationdate="20180601T170154Z">
+        <seg>あなたが神殿にいる場合、このカードを捨て札にすることで、あなたの選択した信仰3つを得て、神聖カード3枚をドローし、1枚を選択、残り2枚を神聖カードデッキの下に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in a forest, move all of your damaged items to your exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083341Z" creationid="aorin" creationdate="20171216T083341Z">
@@ -25597,6 +25613,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once per turn, you may place one Breach token on your tile without spending Fire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T162727Z" creationid="nakahodo" creationdate="20180601T162727Z">
+        <seg>ターンごとに一度、炎を消費せずにあなたの居るタイルにブリーチトークン1つを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once placed, a Discovery token cannot be moved to another territory.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T041227Z" creationid="aorin" creationdate="20180116T041227Z">
@@ -28715,6 +28739,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132303Z" creationid="nakahodo" creationdate="20171127T132303Z">
         <seg>パワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prayer Beads:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T162806Z" creationid="nakahodo" creationdate="20180601T162806Z">
+        <seg>数珠：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41310,6 +41342,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T161334Z" creationid="nakahodo" creationdate="20180601T161126Z">
         <seg>ジャイアントスパイダーかキャスター形態のスパイダーをアタックする時、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When attacking the Spider in Giant Spider or Caster form, you may spend 3 Fire to force her to remove another Spiderling (two total).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T162434Z" creationid="nakahodo" creationdate="20180601T162434Z">
+        <seg>ジャイアントスパイダーかキャスター形態のスパイダーをアタックする時、あなたは炎3つを消費することで、別の蜘蛛の子も強制的に取り除かせることができます（合計2匹）。</seg>
       </tuv>
     </tu>
     <tu>
