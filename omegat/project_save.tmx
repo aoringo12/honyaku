@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Keep) Spend 2 Light to move a visible player piece by up to 3 spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T154313Z" creationid="nakahodo" creationdate="20180601T154313Z">
+        <seg>（保持）光2つを消費することで、視線が通る3スペース先のタイルまで移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Keep) When you place a Lamp, you may also rotate the tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153427Z" creationid="nakahodo" creationdate="20180601T153427Z">
@@ -18241,6 +18249,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a Skeleton is there, scatter it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153913Z" creationid="nakahodo" creationdate="20180601T153913Z">
+        <seg>そこにスケルトンが居る場合、離散します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a Tribe carrying an Artifact leaves the map for any reason, the Artifact leaves the map as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T234203Z" creationid="aorin" creationdate="20180407T234203Z">
@@ -19307,6 +19323,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Enchanter is there, remove an Enchanter disc from your board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T154036Z" creationid="nakahodo" creationdate="20180601T154036Z">
+        <seg>そこにエンチャンターがいる場合、あなたのボードからエンチャンターディスク1つを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Goblins have the Trap card face-up and choose to discard it, the targeted Tribe ignores the attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T090511Z" creationid="nakahodo" creationdate="20180411T090511Z">
@@ -19359,6 +19383,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T050535Z" creationid="aorin" creationdate="20180408T050535Z">
         <seg>自身のプレイヤーボードの過去の略奪品スペースに前兆トークン6つ以上がある場合、（全てではなく）バッグに前兆トークン6つを戻し、プレイヤーピースやトレジャートークンがないダークタイルにトレジャートークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Spider is there, she discards a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T153939Z" creationid="nakahodo" creationdate="20180601T153939Z">
+        <seg>そこにスパイダーがいる場合、スパイダーはカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39692,6 +39724,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T154329Z" creationid="nakahodo" creationdate="20180601T154329Z">
+        <seg>トレジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Treat it as a "blank" space in the dungeon, so cards on either side are not adjacent to one another.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230300Z" creationid="aorin" creationdate="20180528T230300Z">
@@ -42269,6 +42309,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200432Z" creationid="aorin" creationdate="20171231T200432Z">
         <seg>あなたが対戦相手のワーカーを押し出した時、あなたは、自身の他のワーカー1体を戻す[または]1VPを得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you collect a Treasure token, return it to the Manor’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T155829Z" creationid="nakahodo" creationdate="20180601T155829Z">
+        <seg>あなたがトレジャートークン1つを収集するたびに、これを館プライヤーのサプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
