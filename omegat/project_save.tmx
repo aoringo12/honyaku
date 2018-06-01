@@ -27731,6 +27731,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Skeleton pieces matching the two leftmost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203335Z" creationid="nakahodo" creationdate="20180601T203335Z">
+        <seg>プレイヤーボード上の行進順番にて、最も左のカード2枚に一致するスケルトンピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Spymaster Action tiles on the six empty spaces with the Espionage icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193801Z" creationid="aorin" creationdate="20180114T193801Z">
@@ -31718,6 +31726,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193847Z" creationid="aorin" creationdate="20180114T193847Z">
         <seg>諜報カードをシャッフルし、各プレイヤーに1枚ずつ配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Gear cards, then place them face down in a stack near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203210Z" creationid="nakahodo" creationdate="20180601T203210Z">
+        <seg>装備カードをシャッフルし、その後、プレイヤーボード近くに装備カードデッキを裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
