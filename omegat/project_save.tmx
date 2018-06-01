@@ -8485,6 +8485,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of your turn, all of your statistics begin at 1, as shown by the large symbol to the left of each statistic track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054615Z" creationid="nakahodo" creationdate="20180601T054615Z">
+        <seg>あなたのターン開始時にて、ステータストラックの左にある大きなシンボルで示されるように、全てのステータスは1から開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this point, Set Up is complete and the first turn begins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141417Z" creationid="aorin" creationdate="20180528T141417Z">
@@ -24010,6 +24018,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement is the distance in tiles you can move on your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054426Z" creationid="nakahodo" creationdate="20180601T054426Z">
+        <seg>移動力は、あなたが自身のターンに移動できるタイルの距離です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement is the number of spaces you can move per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133757Z" creationid="nakahodo" creationdate="20180406T133757Z">
@@ -26313,6 +26329,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145133Z" creationid="aorin" creationdate="20171215T145133Z">
         <seg>キャラクターカードを選択肢、その後、あなたの派閥ボードの利用可能プールに指示を見て、キャラクターカードに記述されたアイテムを配置してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick up all of your Hero cubes except those on your Grit track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T060208Z" creationid="nakahodo" creationdate="20180601T060208Z">
+        <seg>検知検知トラックにあるものを除いて、ヒーローキューブを全て集めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31889,6 +31913,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160520Z" creationid="nakahodo" creationdate="20180413T160459Z">
         <seg>筋力と、＋1感知力を得る。その後、このカードを破棄する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength determines whether you can attack certain targets, and helps you defend against attacks outside of your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T054525Z" creationid="nakahodo" creationdate="20180601T054525Z">
+        <seg>筋力は、あなたが特定の対象をアタックできるかどうか、ターン外で受けるアタックを防げるかどうかを決定します。</seg>
       </tuv>
     </tu>
     <tu>
