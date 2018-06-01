@@ -11957,6 +11957,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design Note:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T190945Z" creationid="nakahodo" creationdate="20180601T190945Z">
+        <seg>デザインノート：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designed by Jamey Stegmaie</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144444Z" creationid="nakahodo" creationdate="20171218T144444Z">
@@ -14239,6 +14247,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each tile can hold only one Lamp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T190936Z" creationid="nakahodo" creationdate="20180601T190936Z">
+        <seg>各タイルはランプトークン1つのみを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time a Hero enters a Room, it takes the listed damage.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114237Z" creationid="aorin" creationdate="20180528T114237Z">
@@ -15639,6 +15655,14 @@ Bold Blend of white beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T140759Z" creationid="aorin" creationdate="20180528T140736Z">
         <seg>さらなる挑戦的なゲームを求めるなら「クラシックモード」プレイヴァリアント（ページ17）を試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a quick bump to the Paladin’s power level, allow the player to spend a Light in a space that has a Lamp already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T191551Z" creationid="nakahodo" creationdate="20180601T191332Z">
+        <seg>パラディンを素早くパワーアアップさせるには、すでにランプが有るスペースで光信仰キューブを消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35026,6 +35050,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Paladin could get grit from this but that would make it a huge step forward for the Paladin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T192127Z" creationid="nakahodo" creationdate="20180601T191531Z">
+        <seg>パラディンはこれらタイルから経験値を得らることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Paladin has three statistics:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T054113Z" creationid="nakahodo" creationdate="20180601T054113Z">
@@ -39355,6 +39387,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031539Z" creationid="nakahodo" creationdate="20171224T142453Z">
         <seg>これにより、あなたの持つ建築された建物カードに示された木箱を開放できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will reveal (but not explore) all adjacent visible tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T191515Z" creationid="nakahodo" creationdate="20180601T191515Z">
+        <seg>これは探索すること無く、視線が通る隣接タイル全てを公開できます。</seg>
       </tuv>
     </tu>
     <tu>
