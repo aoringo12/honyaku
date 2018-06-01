@@ -8709,6 +8709,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of your turn, gain a Fire Devotion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161855Z" creationid="nakahodo" creationdate="20180601T161855Z">
+        <seg>あなたのターン終了時、炎信仰1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the start of your turn, gain a Light Devotion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161822Z" creationid="nakahodo" creationdate="20180601T161822Z">
+        <seg>あなたのターン終了時、光信仰1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this point, Set Up is complete and the first turn begins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141417Z" creationid="aorin" creationdate="20180528T141417Z">
@@ -13359,6 +13375,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your turn, you get +1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T162156Z" creationid="nakahodo" creationdate="20180601T162156Z">
+        <seg>あなたのターン時、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EASIEST</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062207Z" creationid="nakahodo" creationdate="20180413T062207Z">
@@ -17142,6 +17166,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Halo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161750Z" creationid="nakahodo" creationdate="20180601T161750Z">
+        <seg>後光：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard Mode:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T223851Z" creationid="aorin" creationdate="20180528T223851Z">
@@ -17792,6 +17824,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230616Z" creationid="aorin" creationdate="20171215T230616Z">
         <seg>ヴァガボンドが受けるヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holy Symbol:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161850Z" creationid="nakahodo" creationdate="20180601T161850Z">
+        <seg>聖痕：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23921,6 +23961,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T161148Z" creationid="nakahodo" creationdate="20180413T160948Z">
         <seg>古代の生き物の骨から作られた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Mace:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161901Z" creationid="nakahodo" creationdate="20180601T161901Z">
+        <seg>マジックメイス：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41252,8 +41300,8 @@ Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>When attacking a Skeleton, you may spend 1 Fire to also reduce their Stability by 2.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161525Z" creationid="nakahodo" creationdate="20180601T161525Z">
-        <seg>スケルトン</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161716Z" creationid="nakahodo" creationdate="20180601T161525Z">
+        <seg>スケルトンをアタックする時、あなたは炎1つを消費することで、対象の安定性を2もまた、減少させることができます。</seg>
       </tuv>
     </tu>
     <tu>
