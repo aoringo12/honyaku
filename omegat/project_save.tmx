@@ -20688,6 +20688,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you moved into the Dark tile by crossing an open edge (no wall), you must place an open edge of the revealed tile against the tile from which you moved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062645Z" creationid="nakahodo" creationdate="20180601T062546Z">
+        <seg>（壁がない）開いた側面を通りダークタイルに移動した場合、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you must draw cards but the Unicorn deck is empty, shuffle his discard pile to form a new deck before drawing new cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150335Z" creationid="nakahodo" creationdate="20180412T150335Z">
@@ -41103,8 +41111,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you enter a Dark tile, you must spend Perception to have an Encounter, which flips the tile to its Lit side.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062318Z" creationid="nakahodo" creationdate="20180601T062318Z">
-        <seg>あなたがダークタイルに入る時、これをライトサイドへと返すために感知力を消費して</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062340Z" creationid="nakahodo" creationdate="20180601T062318Z">
+        <seg>あなたがダークタイルに入る時、これをライトサイドへと返すために、感知力を消費してエンカウンターを持つ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43988,6 +43996,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115400Z" creationid="aorin" creationdate="20180410T115400Z">
         <seg>他を開始する前に、アクションを完全に完了する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must connect it to the tile from which you moved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062600Z" creationid="nakahodo" creationdate="20180601T062322Z">
+        <seg>移動元と移動先で、タイル同士は接続されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
