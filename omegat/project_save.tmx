@@ -6032,6 +6032,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING THE ENCHANTER</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T144139Z" creationid="nakahodo" creationdate="20180601T144026Z">
+        <seg>エンチャンターへアタックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTACKING THE SPIDER</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T071851Z" creationid="nakahodo" creationdate="20180601T071837Z">
@@ -8737,6 +8745,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131916Z" creationid="nakahodo" creationdate="20171127T131916Z">
         <seg>攻撃や他プレイヤーからの攻撃はオプションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacking the Enchanter scatters him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T144221Z" creationid="nakahodo" creationdate="20180601T144221Z">
+        <seg>エンチャンターをアタックすると、彼は離散します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16905,6 +16921,22 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070815Z" creationid="nakahodo" creationdate="20180311T070815Z">
         <seg>宝石6つを取り（各色2つずつ）、各ガーデンセクターに宝石をランダムに1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T144225Z" creationid="nakahodo" creationdate="20180601T144225Z">
+        <seg>経験値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grit is the experience the Paladin gains as he adventures through the Manor, exploring new tiles, picking up treasures, and destroying Eggs and Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T150725Z" creationid="nakahodo" creationdate="20180601T150725Z">
+        <seg>経験値はパラディンが館を探索することによる経験量を表しています。新しいタイルの探索、トレジャーの収集、卵やポルターガイストを破壊することによって得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30683,6 +30715,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seeing the Immaterial.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T144059Z" creationid="nakahodo" creationdate="20180601T144059Z">
+        <seg>そこに何かが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seize</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061230Z" creationid="nakahodo" creationdate="20180413T060955Z">
@@ -39083,6 +39123,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To attack the Enchanter, your Perception must be greater than his Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T144208Z" creationid="nakahodo" creationdate="20180601T144136Z">
+        <seg>エンチャンターをアタックスするには、あなたの感知力がエンチャンターの防御力より高い必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To avoid spoiling content for yourself or other players, ask questions on BoardGameGeek or the Charterstone Facebook group using the spoiler (SP) text code.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T144207Z" creationid="nakahodo" creationdate="20171218T144207Z">
@@ -43956,6 +44004,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135545Z" creationid="aorin" creationdate="20180409T135545Z">
         <seg>ライトタイルとダークタイルに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may enter a space with the Enchanter regardless of your Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T144126Z" creationid="nakahodo" creationdate="20180601T144126Z">
+        <seg>あなたは筋力に関わらずエンチャンターの居るスペースに入ることができます。</seg>
       </tuv>
     </tu>
     <tu>
