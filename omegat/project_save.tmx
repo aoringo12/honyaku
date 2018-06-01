@@ -12024,6 +12024,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Devotions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T170734Z" creationid="nakahodo" creationdate="20180601T170734Z">
+        <seg>信仰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diagonal spaces are not adjacent.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223017Z" creationid="nakahodo" creationdate="20180531T223017Z">
@@ -34922,6 +34930,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Paladin has two pools of cubes called Devotions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174704Z" creationid="nakahodo" creationdate="20180601T174704Z">
+        <seg>パラディンは信仰プールと呼ばれるキューブを</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Paladin must kill the Spider, the Skeletons must kill the Paladin, the Spider must escape the Manor, the Manor must trap everyone inside, and the Enchanter must dominate the other characters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T213529Z" creationid="nakahodo" creationdate="20180531T213259Z">
@@ -44264,6 +44280,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T160733Z" creationid="nakahodo" creationdate="20180601T160733Z">
         <seg>感知力＋1を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You get +2 Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T170716Z" creationid="nakahodo" creationdate="20180601T170716Z">
+        <seg>あなたは移動力＋2を得ます。</seg>
       </tuv>
     </tu>
     <tu>
