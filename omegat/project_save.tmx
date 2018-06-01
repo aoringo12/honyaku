@@ -15315,8 +15315,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Firebrand:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160745Z" creationid="nakahodo" creationdate="20180601T160745Z">
-        <seg>Firebrand:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T160802Z" creationid="nakahodo" creationdate="20180601T160745Z">
+        <seg>たいまつ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41238,6 +41238,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160608Z" creationid="nakahodo" creationdate="20180413T160608Z">
         <seg>任意の部族がドラゴンのパワーやユニコーンの攻撃の対象にされた時、あなたはこのカードを破棄して、そのパワーや攻撃を無視できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When attacking the Spider in Giant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T161126Z" creationid="nakahodo" creationdate="20180601T161126Z">
+        <seg>When attacking the Spider in Giant</seg>
       </tuv>
     </tu>
     <tu>
