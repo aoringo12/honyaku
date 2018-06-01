@@ -20690,8 +20690,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you moved into the Dark tile by crossing an open edge (no wall), you must place an open edge of the revealed tile against the tile from which you moved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T062645Z" creationid="nakahodo" creationdate="20180601T062546Z">
-        <seg>（壁がない）開いた側面を通りダークタイルに移動した場合、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T064609Z" creationid="nakahodo" creationdate="20180601T062546Z">
+        <seg>（壁がない）開いた側面を通りダークタイルに移動した場合、公開したタイルの開いた側面を移動元タイルに接するよう配置しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
