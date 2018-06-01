@@ -7965,6 +7965,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At any time during your turn, you may place Hero cubes onto your statistics tracks to increase your statistics (Perception, Movement, and Strength).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T060450Z" creationid="nakahodo" creationdate="20180601T060443Z">
+        <seg>あなたのターン中はいつでも、ステータストラックにヒーローキューブを配置することで、ステータス（感知力、移動力、筋力）を上昇させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At dawn, fig11res eme1ye fi·om the h11ge tents just outside of town.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223951Z" creationid="aorin" creationdate="20171231T223823Z">
@@ -12935,6 +12943,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During this phase, you can move by spending Movement, and you can have Encounters by spending Perception.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061206Z" creationid="nakahodo" creationdate="20180601T061206Z">
+        <seg>このフェイズ中、移動力とエンカウンターを消費して移動します。エンカウンターは感知力を消費することで得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During this phase, you can spend movement points to move and to collect Treasure tokens and Dragon Gems, and you can spend attack points to attack other players and smash Crystal tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135439Z" creationid="aorin" creationdate="20180409T135439Z">
@@ -16762,6 +16778,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062330Z" creationid="nakahodo" creationdate="20180413T062330Z">
         <seg>ハード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HERO CUBES</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T060244Z" creationid="nakahodo" creationdate="20180601T060244Z">
+        <seg>ヒーローキューブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27281,6 +27305,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T180924Z" creationid="nakahodo" creationdate="20180311T180803Z">
         <seg>宝石1つの配置 / 移動 - マルチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Placed Hero cubes remain on your player board until your next Pick Up Hero Cubes phase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061107Z" creationid="nakahodo" creationdate="20180601T061107Z">
+        <seg>配置されたヒーローキューブは、あなたの次のヒーローキューブのピックアップフェイズまで、そこに残ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41093,6 +41125,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you place a Hero cube on a statistic space, that statistic increases by the number shown below it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T060603Z" creationid="nakahodo" creationdate="20180601T060603Z">
+        <seg>ステータストラックにヒーローキューブを配置する時、そのスペースに記述された数だけ、そのステータスが上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you place the Canyon, the Bridge space must touch a Cave tile, and you must place a Dark tile on the opposite side of the Bridge.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T155013Z" creationid="nakahodo" creationdate="20180430T154635Z">
@@ -42672,6 +42712,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can move and have Encounters in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061225Z" creationid="nakahodo" creationdate="20180601T061225Z">
+        <seg>You can move and have Encounters in any order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can never promote a Pixie to an action field on the same or on a lower level in the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
@@ -43132,6 +43180,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082442Z" creationid="aorin" creationdate="20180409T082442Z">
         <seg>あなたは、（カードに記述されているように）洞窟の手札タイルを除いて、憑依したプレイヤーの持つ個人情報を知ることはできません。例えば彼らの手札カードなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not have to place all of your Hero cubes at once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T060512Z" creationid="nakahodo" creationdate="20180601T060512Z">
+        <seg>一度に全てのヒーローキューブを配置する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43988,6 +44044,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T075857Z" creationid="nakahodo" creationdate="20180411T075857Z">
         <seg>あなたは、示される距離まで、可能な限り多くのスペースを移動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must place Hero cubes in empty statistic spaces from left to right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T061016Z" creationid="nakahodo" creationdate="20180601T061016Z">
+        <seg>配置するヒーローキューブは、空いているステータススペースの最も左である必要があります。</seg>
       </tuv>
     </tu>
     <tu>
