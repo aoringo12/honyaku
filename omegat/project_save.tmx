@@ -11066,6 +11066,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Completing Tasks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152601Z" creationid="nakahodo" creationdate="20180601T152601Z">
+        <seg>タスクを完了する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Component Limits</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221935Z" creationid="nakahodo" creationdate="20180531T221935Z">
@@ -15979,6 +15987,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GAIN GRIT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152335Z" creationid="nakahodo" creationdate="20180601T152335Z">
+        <seg>経験値を得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GAIN REPUTATION</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101052Z" creationid="nakahodo" creationdate="20180108T101052Z">
@@ -17302,6 +17318,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234626Z" creationid="aorin" creationdate="20171231T234626Z">
         <seg>その選択が王を不快にしたとしても、プレイヤーたちには選択の自由もまた、残されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He then draws 3 Sanctity cards, plays one, and places the other two at the bottom of the Sanctity deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152839Z" creationid="nakahodo" creationdate="20180601T152651Z">
+        <seg>その後、あなたは神聖カード3枚をドローし、1枚をプレイし、残り2枚を神聖デッキの下に戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21310,6 +21334,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T084928Z" creationid="nakahodo" creationdate="20180411T084928Z">
         <seg>あなたの憤りが3の場合、あなたはまた1輝きを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your Grit marker falls below a black space, immediately return a Sanctity cube to that space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152331Z" creationid="nakahodo" creationdate="20180601T152331Z">
+        <seg>経験値マーカーが黒スペースよりも下回った場合、直ちにそのスペースに神聖キューブを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29863,6 +29895,17 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal a Manor Tile +2 Refuse a Treasure +5 Destroy an Egg +5 Destroy a Poltergeist +4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152543Z" creationid="nakahodo" creationdate="20180601T152352Z">
+        <seg>館タイルを公開する		＋2
+トレジャーを拒否する		＋5
+卵の破壊			＋5
+ポルターガイスを倒す	＋4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal all Dark tiles affected by the roll, with the selected space as the center.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092416Z" creationid="nakahodo" creationdate="20180413T092416Z">
@@ -34634,6 +34677,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T213529Z" creationid="nakahodo" creationdate="20180531T213259Z">
         <seg>パラディンはスパイダーを殺し、スケルトンはパラディンを殺し、スパイダーは館から脱出し、館は皆をその内部に閉じ込め、エンチャンターは他キャラクターたちを支配するのが目的となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Paladin starts the game with 4 Tasks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152626Z" creationid="nakahodo" creationdate="20180601T152626Z">
+        <seg>パラディンはタスクを4つ持ってゲームを開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41117,6 +41168,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150803Z" creationid="nakahodo" creationdate="20180412T150803Z">
         <seg>彼が攻撃した時、下記の効果を適用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When he completes a Task, he takes the matching Sanctity cube from his player board and removes it from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T152735Z" creationid="nakahodo" creationdate="20180601T152649Z">
+        <seg>タスクを完了する時、タスクに一致する神聖キューブをパラディンプレイヤーボードから取り、これをゲームから除外します。</seg>
       </tuv>
     </tu>
     <tu>
