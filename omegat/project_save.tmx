@@ -42149,6 +42149,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you gain or lose Grit, track it by moving the Grit marker along the Grit track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T150816Z" creationid="nakahodo" creationdate="20180601T150816Z">
+        <seg>経験値を得たり失うたびに、経験値トラックに従い経験値マーカーを調整します。c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you gain or lose Health, you may discard this card after resolving the prompting effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T120654Z" creationid="nakahodo" creationdate="20180430T120654Z">
