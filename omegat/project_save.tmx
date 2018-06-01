@@ -15353,6 +15353,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire and Light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174709Z" creationid="nakahodo" creationdate="20180601T174709Z">
+        <seg>Fire and Light.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firebrand:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T160802Z" creationid="nakahodo" creationdate="20180601T160745Z">
@@ -34932,8 +34940,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Paladin has two pools of cubes called Devotions:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174704Z" creationid="nakahodo" creationdate="20180601T174704Z">
-        <seg>パラディンは信仰プールと呼ばれるキューブを</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T174708Z" creationid="nakahodo" creationdate="20180601T174704Z">
+        <seg>パラディンは信仰（プールと呼ばれるキューブを</seg>
       </tuv>
     </tu>
     <tu>
