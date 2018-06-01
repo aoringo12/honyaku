@@ -6002,8 +6002,8 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>ATTACKING AN EGG</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T091740Z" creationid="nakahodo" creationdate="20180601T091740Z">
-        <seg>卵へアタックする。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T094410Z" creationid="nakahodo" creationdate="20180601T091740Z">
+        <seg>卵へアタックする</seg>
       </tuv>
     </tu>
     <tu>
