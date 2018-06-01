@@ -21226,6 +21226,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your Strength is greater than the Defense of an Egg on your tile, you may attack it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T094813Z" creationid="nakahodo" creationdate="20180601T094521Z">
+        <seg>あなたの筋力がそこにある卵の防御力より高い場合、これにアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your action Card's Program Die does not match any Sector Dice, the Program Die becomes wild and may be played on any Garden Sector.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T085939Z" creationid="nakahodo" creationdate="20180312T085939Z">
@@ -22742,6 +22750,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072724Z" creationid="aorin" creationdate="20171216T072724Z">
         <seg>アイテムトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its Defense is 1 plus 1 per Blood cube on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T094757Z" creationid="nakahodo" creationdate="20180601T094757Z">
+        <seg>Its Defense is 1 plus 1 per Blood cube on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43828,6 +43844,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135545Z" creationid="aorin" creationdate="20180409T135545Z">
         <seg>ライトタイルとダークタイルに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may enter a tile with an Egg regardless of your Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180601T094527Z" creationid="nakahodo" creationdate="20180601T094518Z">
+        <seg>筋力に関わらず、あなたは卵のあるタイルに入ることができます。</seg>
       </tuv>
     </tu>
     <tu>
