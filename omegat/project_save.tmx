@@ -36522,6 +36522,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Wolf spawns with her if either scatters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T163729Z" creationid="nakahodo" creationdate="20180603T163729Z">
+        <seg>The Wolf spawns with her if either scatters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Woodland Alliance scores victory points by revealing some conspiracies, by crafting some improvements, and by removing buildings owned by the other players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T045821Z" creationid="aorin" creationdate="20171216T045821Z">
