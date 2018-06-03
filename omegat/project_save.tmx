@@ -9799,6 +9799,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bomb Bag (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153418Z" creationid="nakahodo" creationdate="20180603T153418Z">
+        <seg>ボムバッグ（装備）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bonus - including Automas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111121Z" creationid="nakahodo" creationdate="20180108T111121Z">
@@ -20003,6 +20011,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Wolf scatters, place it on Shooty’s card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154231Z" creationid="nakahodo" creationdate="20180603T154227Z">
+        <seg>ウルフが離散する場合、シューティーのカードにウルフピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the attack did not involve another player (for example, if you smash a Crystal in a game with no Cave player, or if you are attacked by the non-player Shadow Unicorn), then you must place your piece on any unoccupied Dark tile whose symbol matches the top tile of the Cave tile stack.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T010046Z" creationid="aorin" creationdate="20180410T010046Z">
@@ -22130,6 +22146,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immediately place the Wolf piece on Shooty’s space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154045Z" creationid="nakahodo" creationdate="20180603T154026Z">
+        <seg>シューティーのいるスペースにウルフピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediately remove all Gems from the Wilting Garden Sector and place them with the unused Gems.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T074048Z" creationid="nakahodo" creationdate="20180312T074048Z">
@@ -23250,6 +23274,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It activates before Shooty each turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154155Z" creationid="nakahodo" creationdate="20180603T154155Z">
+        <seg>各ターン、シューティーの前にアクティブになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also completes her Fearless Sidequest if you were on a Dark tile that she just revealed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T231630Z" creationid="aorin" creationdate="20180409T231630Z">
@@ -23518,6 +23550,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075950Z" creationid="nakahodo" creationdate="20171230T075950Z">
         <seg>これはキャンペーン終了時に、ゲーム全体の勝利者を決定するために使用する計算が示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will spawn on Shooty’s space on the next turn or will spawn with Shooty if she spawns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154355Z" creationid="nakahodo" creationdate="20180603T154228Z">
+        <seg>次のターンにて、シューティーのいるスペースか、シューティーと共にスポーンすることとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24280,6 +24320,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T152709Z" creationid="nakahodo" creationdate="20180108T152709Z">
         <seg>Long Lueue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Longbow (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153853Z" creationid="nakahodo" creationdate="20180603T153853Z">
+        <seg>ロングボウ（装備）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32126,6 +32174,22 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shooty may attack a visible target that is 2, 3, or 4 spaces away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154016Z" creationid="nakahodo" creationdate="20180603T154016Z">
+        <seg>シューティーは2、3、4スペース離れた視線が通る対象へとアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shooty may spend 1 Stability to place a Breach token on any visible wall or to place a Pit tile on her space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153634Z" creationid="nakahodo" creationdate="20180603T153634Z">
+        <seg>シューティーは安定性1を消費することで、任意の視線が通る壁か、自身オイルスペースに横穴タイルを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should a player collect 60 Penalty Points throughout the game, they disappoint the Queen so badly that She has that player thrown into the Pit of Oblivion.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T173316Z" creationid="aorin" creationdate="20171212T173316Z">
@@ -36446,6 +36510,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T113253Z" creationid="nakahodo" creationdate="20180430T113253Z">
         <seg>ウォーロックのワンドはチャージを5持ちます（任意のトークンを使用して、利用可能な回数をカウントします）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Wolf moves, distracts, and defends like a Skeleton, but cannot attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154133Z" creationid="nakahodo" creationdate="20180603T154133Z">
+        <seg>ウルフはスケルトンと同じように移動し、邪魔に参加し、防御しますが、アタックはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44248,6 +44320,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T071255Z" creationid="nakahodo" creationdate="20171230T071255Z">
         <seg>警告なしに、そのプレイヤーの魂は身体から強制的に引き抜かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154049Z" creationid="nakahodo" creationdate="20180603T154049Z">
+        <seg>ウルフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154030Z" creationid="nakahodo" creationdate="20180603T154024Z">
+        <seg>ウルフ（装備）：</seg>
       </tuv>
     </tu>
     <tu>
