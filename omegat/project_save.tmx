@@ -6210,8 +6210,8 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>Ability:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150524Z" creationid="nakahodo" creationdate="20180603T150524Z">
-        <seg>Ability:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164259Z" creationid="nakahodo" creationdate="20180603T150524Z">
+        <seg>能力：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17429,6 +17429,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Great Axe (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164342Z" creationid="nakahodo" creationdate="20180603T164342Z">
+        <seg>グレートアックス（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grit</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T144225Z" creationid="nakahodo" creationdate="20180601T144225Z">
@@ -23556,8 +23564,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>It will spawn on Shooty’s space on the next turn or will spawn with Shooty if she spawns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T154355Z" creationid="nakahodo" creationdate="20180603T154228Z">
-        <seg>次のターンにて、シューティーのいるスペースか、シューティーと共にスポーンすることとなります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T163746Z" creationid="nakahodo" creationdate="20180603T154228Z">
+        <seg>次のターンにて、シューティーのいるスペースか、シューティーが離散していた場合、シューティーと共にスポーンすることとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31404,6 +31412,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SLASHY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T163809Z" creationid="nakahodo" creationdate="20180603T163809Z">
+        <seg>スラッシィ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SLINGSHOT (SECRETS)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T101141Z" creationid="nakahodo" creationdate="20180430T101141Z">
@@ -32607,6 +32623,22 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T005219Z" creationid="aorin" creationdate="20180410T005219Z">
         <seg>飛び退く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slashy gets +1 Strength when attacking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164350Z" creationid="nakahodo" creationdate="20180603T164350Z">
+        <seg>スラッシィはアタックする時、筋力＋1を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slashy gets +2 Strength when attacking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164330Z" creationid="nakahodo" creationdate="20180603T164330Z">
+        <seg>スラッシィはアタックする時、筋力＋2を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36524,8 +36556,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Wolf spawns with her if either scatters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T163729Z" creationid="nakahodo" creationdate="20180603T163729Z">
-        <seg>The Wolf spawns with her if either scatters.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T163748Z" creationid="nakahodo" creationdate="20180603T163729Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
