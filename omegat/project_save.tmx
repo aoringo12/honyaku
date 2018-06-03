@@ -7017,6 +7017,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you finish moving the Skeleton, it may perform one of the following actions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134954Z" creationid="nakahodo" creationdate="20180603T134954Z">
+        <seg>スケルトンの移動が終了した後、そのスケルトンは次のアクションのうち1つを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you ha e resolved your Program Card, place it in a deSignated discard pile next to the Program Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075341Z" creationid="nakahodo" creationdate="20180311T075341Z">
@@ -7491,6 +7499,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093745Z" creationid="aorin" creationdate="20171212T021850Z">
         <seg>また、ここに追加報酬タイルをスタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, Skeletons can cross walls by spending +1 Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134919Z" creationid="nakahodo" creationdate="20180603T134919Z">
+        <seg>また、スケルトンは移動力＋1を消費することで、壁を通り抜けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19619,6 +19635,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Skeleton is on an Armory tile (Lit or Dark), draw a Gear card and place it beneath the matching Skeleton on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135351Z" creationid="nakahodo" creationdate="20180603T135351Z">
+        <seg>スケルトンが武器庫タイル（ライトまたはダーク）に居る場合、装備カード1枚をドローし、あなたのプレイヤーボードの一致するスケルトン下に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Spider is there, she discards a card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153939Z" creationid="nakahodo" creationdate="20180601T153939Z">
@@ -29904,6 +29928,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T161109Z" creationid="aorin" creationdate="20180408T161030Z">
         <seg>ランダムにゴーストタイルらを取り除き、裏向きでボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove a Treasure token from your space to gain 2 Stability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135052Z" creationid="nakahodo" creationdate="20180603T135052Z">
+        <seg>あなたのスペースからトレジャートークン1つを取り除き、安定性2を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43477,8 +43509,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>While in an open space, a Skeleton cannot use its abilities or Gear, cannot be affected by any opposing player effects, and cannot distract other pieces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134255Z" creationid="nakahodo" creationdate="20180603T134255Z">
-        <seg>While in an open space, a Skeleton cannot use its abilities or Gear, cannot be affected by any opposing player effects, and cannot distract other pieces.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134833Z" creationid="nakahodo" creationdate="20180603T134255Z">
+        <seg>空きスペースに居る間、スケルトンはそこで能力やギアは使用できず、任意の対戦相手プレイヤーからの効果の影響を受けず、他のピースを挑発できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44496,6 +44528,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090955Z" creationid="nakahodo" creationdate="20180413T090955Z">
         <seg>あんたはブーストダイスを消費できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot spend Movement after taking this action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135141Z" creationid="nakahodo" creationdate="20180603T135141Z">
+        <seg>このアクションを実行した後、あなたは移動力をそれ以上、消費できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49534,6 +49574,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► COLLECT!!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135150Z" creationid="nakahodo" creationdate="20180603T135150Z">
+        <seg>•	集める！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Event cards in the Manor’s hand (even to the Manor)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221929Z" creationid="nakahodo" creationdate="20180531T221427Z">
@@ -49546,6 +49594,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223327Z" creationid="nakahodo" creationdate="20180531T221431Z">
         <seg>•	ダークタイルの下側にないっているライトタイル。デッキやカードのような裏向きだったり未公開のピース（館プレイヤーにとっても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► LOOT!!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135010Z" creationid="nakahodo" creationdate="20180603T135010Z">
+        <seg>•	奪う！</seg>
       </tuv>
     </tu>
     <tu>
