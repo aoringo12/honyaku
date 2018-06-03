@@ -8229,6 +8229,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ash Staff (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T151317Z" creationid="nakahodo" creationdate="20180603T151317Z">
+        <seg>アッシュスタッフ（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aside from the above, all normal rules regarding a regular promotion in the Reward phase apply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041405Z" creationid="aorin" creationdate="20171213T041405Z">
@@ -10566,6 +10574,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045814Z" creationid="aorin" creationdate="20171213T045814Z">
         <seg>カジノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Casty may spend 1 Stability to teleport himself, or another Skeleton in his space or an adjacent space, up to two spaces in any direction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T151317Z" creationid="nakahodo" creationdate="20180603T151317Z">
+        <seg>Casty may spend 1 Stability to teleport himself, or another Skeleton in his space or an adjacent space, up to two spaces in any direction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18985,6 +19001,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T145324Z" creationid="nakahodo" creationdate="20180603T145324Z">
         <seg>対戦相手プレイヤーがダンシングライトトークンのあるスペースに入った場合、トークンはボードから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an opposing player enters a space with a Dancing Lights token, return it to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T151301Z" creationid="nakahodo" creationdate="20180603T151301Z">
+        <seg>ダンシングライトのあるスペースに対戦相手が入った場合、それはあなたのサプライに戻されます。</seg>
       </tuv>
     </tu>
     <tu>
