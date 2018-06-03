@@ -40713,6 +40713,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike the other roles, Skeletons can move into open spaces (with no tiles).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134252Z" creationid="nakahodo" creationdate="20180603T134252Z">
+        <seg>他のプレイヤーロールと違い、スケルトンは（館タイルの無い）空きスペースへと移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike the other roles, the Ghoul doesn’t have statistics that remain stable throughout play.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133819Z" creationid="aorin" creationdate="20180409T133819Z">
@@ -43463,6 +43471,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131655Z" creationid="aorin" creationdate="20171215T131655Z">
         <seg>ボードゲーム経験の豊富なプレイヤーはルールリファレンスからこのゲームを把握することができ、初心者はプレイ学習ガイドからそうすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While in an open space, a Skeleton cannot use its abilities or Gear, cannot be affected by any opposing player effects, and cannot distract other pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134255Z" creationid="nakahodo" creationdate="20180603T134255Z">
+        <seg>While in an open space, a Skeleton cannot use its abilities or Gear, cannot be affected by any opposing player effects, and cannot distract other pieces.</seg>
       </tuv>
     </tu>
     <tu>
