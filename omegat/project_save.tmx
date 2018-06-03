@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(During your first turn, you will place two Skeletons.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133850Z" creationid="nakahodo" creationdate="20180603T133843Z">
+        <seg>（あなたのゲーム最初のターン時、スケルトン2体を配置できるでしょう）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Ensure that you place the Hideout matching the chosen clearing.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144823Z" creationid="aorin" creationdate="20171215T144823Z">
@@ -4024,6 +4032,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133844Z" creationid="nakahodo" creationdate="20180603T133844Z">
+        <seg>3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3) Select Possession Card Collect all Possession cards except the card (if any) on your Mental Block space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T181317Z" creationid="aorin" creationdate="20180406T181317Z">
@@ -5436,6 +5452,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Pit can hold only one Skeleton.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133758Z" creationid="nakahodo" creationdate="20180603T133758Z">
+        <seg>横穴1つはスケルトン1体のみを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Room can be placed in one of two locations:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210340Z" creationid="aorin" creationdate="20180528T210340Z">
@@ -6204,6 +6228,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203437Z" creationid="nakahodo" creationdate="20180601T203437Z">
         <seg>スケルトンたちをアクティブにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate the Skeletons on the board in March Order, from left to right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133917Z" creationid="nakahodo" creationdate="20180603T133917Z">
+        <seg>行進順番の左から右で、スケルトンたちをアクティブにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24916,6 +24948,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOOKS AND CRANNIES</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134148Z" creationid="nakahodo" creationdate="20180603T134148Z">
+        <seg>NOOKS AND CRANNIES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025607Z" creationid="aorin" creationdate="20171212T025607Z">
@@ -27105,6 +27145,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145133Z" creationid="aorin" creationdate="20171215T145133Z">
         <seg>キャラクターカードを選択肢、その後、あなたの派閥ボードの利用可能プールに指示を見て、キャラクターカードに記述されたアイテムを配置してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick up all Skeletons from your player board, and place each one at a Pit at the edge of the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133745Z" creationid="nakahodo" creationdate="20180603T133745Z">
+        <seg>あなたのプレイヤーボードから全てのスケルトンを取り、ボード縁の横穴1つずつに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30966,8 +31014,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>STABILITY</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203441Z" creationid="nakahodo" creationdate="20180601T203441Z">
-        <seg>STABILITY</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133238Z" creationid="nakahodo" creationdate="20180601T203441Z">
+        <seg>安定性</seg>
       </tuv>
     </tu>
     <tu>
@@ -32712,8 +32760,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Stability is the collective ability of the Skeletons to hold themselves together.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T203456Z" creationid="nakahodo" creationdate="20180601T203456Z">
-        <seg>Stability is the collective ability of the Skeletons to hold themselves together.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133659Z" creationid="nakahodo" creationdate="20180601T203456Z">
+        <seg>安定性はスケルトンが自身を保持するための実体化能力を指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42185,6 +42233,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you activate a Skeleton, the Skeleton gets 4 Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134023Z" creationid="nakahodo" creationdate="20180603T134023Z">
+        <seg>スケルトンをアクティブにする時、そのスケルトンは移動力4を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you add a new rule or story card to the Chronicle, if the number of that card is in this guide, extract the card(s) specified:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T111550Z" creationid="nakahodo" creationdate="20180108T111550Z">
@@ -42573,6 +42629,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T152312Z" creationid="nakahodo" creationdate="20180601T152312Z">
         <seg>経験値マーカーが神聖キューブのあるスペースに到達した場合、直ちにこれをいずれかの信仰プールに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When your Stability reaches a skull (4,7, and 10), place the next Skeleton in Marching Order, from left to right, onto your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133559Z" creationid="nakahodo" creationdate="20180603T133426Z">
+        <seg>あなたが骨（4、7、10）に到達するたびに、あなたのプレイヤーボードへと、行進順番左から右で次のスケルトンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44532,6 +44596,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You do not lose a Skeleton if your Stability drops below a skull.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T133641Z" creationid="nakahodo" creationdate="20180603T133641Z">
+        <seg>安定性が骨を下回ったとしても、スケルトンは失われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not lose victory points for returning a building to your faction board, and you still score victory points when you build a building that was previously returned to your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000003Z" creationid="aorin" creationdate="20171216T000003Z">
@@ -44800,6 +44872,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T143417Z" creationid="aorin" creationdate="20171231T143417Z">
         <seg>あなたのターン時にこのカードを捨て札にすることで、発展デッキを全て見て、任意のトレジャー以外のカード1枚を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may do this once per Skeleton.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134156Z" creationid="nakahodo" creationdate="20180603T134144Z">
+        <seg>あなたはこれを、スケルトンごとに1回までできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45188,6 +45268,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may spend 1 Stability to give +4 Movement (for a total of 8) to a Skeleton.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134123Z" creationid="nakahodo" creationdate="20180603T134123Z">
+        <seg>安定性1を消費することで、そのスケルトンに移動力＋4（合計8）を追加で獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may still activate this Tribe as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080035Z" creationid="nakahodo" creationdate="20180413T080022Z">
@@ -45336,6 +45424,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040826Z" creationid="aorin" creationdate="20180116T040826Z">
         <seg>あなたはこのディスカバリーを購入するために、必要な数のIPトークンを破棄する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must finish activating one Skeleton before activating another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T134004Z" creationid="nakahodo" creationdate="20180603T134004Z">
+        <seg>今アクティブにしているスケルトンの処理を完全に終了させてから、次のスケルトンをアクティブにします。</seg>
       </tuv>
     </tu>
     <tu>
