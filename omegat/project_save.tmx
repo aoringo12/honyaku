@@ -11860,6 +11860,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dancing Lights tokens distract players in adjacent spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145239Z" creationid="nakahodo" creationdate="20180603T145239Z">
+        <seg>ダンシングライトトークンは隣接スペースのプレイヤーたちへの邪魔に参加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daring</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T141946Z" creationid="nakahodo" creationdate="20180413T141917Z">
@@ -13747,6 +13755,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080647Z" creationid="nakahodo" creationdate="20180311T080647Z">
         <seg>各行は出目1から6のセクターダイスがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Skeleton has a Strength of 1 and an ability that is always in effect or always available to it while on a tile (not an open space or your player board).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150208Z" creationid="nakahodo" creationdate="20180603T150208Z">
+        <seg>各スケルトンは筋力1を持ち、その能力は常に効果を発動しているか、タイルにいる間そこへと常に利用可能となっています（空きスペースやプレイヤーボード以外で）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18921,6 +18937,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220124Z" creationid="aorin" creationdate="20171215T220124Z">
         <seg>効果が複数回の移動を与える場合、あなたは同じ[または]別々に戦士のグループを移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an opposing player enters a space with a Dancing Lights token, remove it from the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145324Z" creationid="nakahodo" creationdate="20180603T145324Z">
+        <seg>対戦相手プレイヤーがダンシングライトトークンのあるスペースに入った場合、トークンはボードから取り除かれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27793,6 +27817,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place it on your player board, and lose 1 Stability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145515Z" creationid="nakahodo" creationdate="20180603T145515Z">
+        <seg>そのスケルトンピースを取り、あなたのプレイヤーボードに配置し、安定性1を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place lost Treasure cards at the bottom of the Treasure deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T211742Z" creationid="aorin" creationdate="20180409T211742Z">
@@ -31277,6 +31309,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scatter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145325Z" creationid="nakahodo" creationdate="20180603T145325Z">
+        <seg>離散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scattering.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T231345Z" creationid="nakahodo" creationdate="20180531T230758Z">
@@ -32263,6 +32303,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061734Z" creationid="nakahodo" creationdate="20180601T061734Z">
         <seg>スケルトン、スパイダー、ポルターガイスト、エンチャンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skeletons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145517Z" creationid="nakahodo" creationdate="20180603T145517Z">
+        <seg>スケルトン</seg>
       </tuv>
     </tu>
     <tu>
@@ -36665,6 +36713,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T211354Z" creationid="aorin" creationdate="20171219T103559Z">
         <seg>各ゲームの最初のトークンは、プレイヤー人数を示すスペースへと配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The five Skeletons work together, but each has its own traits and gear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145636Z" creationid="nakahodo" creationdate="20180603T145636Z">
+        <seg>5体のスケルトンたちは一緒に動作しますが、それらが持つ特徴と装備は独自のものになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41888,6 +41944,14 @@ of the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031407Z" creationid="aorin" creationdate="20171212T031407Z">
         <seg>プランがSupplierによって取られる時、別の効果によって補充されない場合、アップキープ時ではなく直ちにプランデッキから1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a Skeleton attacks or gets attacked, it scatters unless noted otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145421Z" creationid="nakahodo" creationdate="20180603T145421Z">
+        <seg>スケルトンがアタックしたり、された場合、特に記述されていない限り、そのスケルトンは離散します。</seg>
       </tuv>
     </tu>
     <tu>
