@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Tunnel does not cost Movement.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135746Z" creationid="nakahodo" creationdate="20180603T135746Z">
+        <seg>（トンネルアクションに移動力コストはありません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Unicorn does not lose Radiance.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T073328Z" creationid="nakahodo" creationdate="20180413T073328Z">
@@ -5488,6 +5496,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102751Z" creationid="aorin" creationdate="20180526T102751Z">
         <seg>ルームのトレジャー値は惹きつけられるヒーローたちの種類を決定し、ヒーローたちを打ち倒すための能力によってダメージが決定されます（ヒーローたちのヘルスが減少します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Skeleton attacks a player piece in its space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135549Z" creationid="nakahodo" creationdate="20180603T135549Z">
+        <seg>スケルトンのいるスペースの他プレイヤーピースをアタックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12361,6 +12377,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distraction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T140034Z" creationid="nakahodo" creationdate="20180603T140034Z">
+        <seg>Distraction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribute Artifact tokens as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132511Z" creationid="nakahodo" creationdate="20180406T132511Z">
@@ -13471,6 +13495,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your turn, when you attack with a Skeleton, the other Skeletons can distract the target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T140224Z" creationid="nakahodo" creationdate="20180603T140224Z">
+        <seg>あなたのターン時、スケルトンがアタックする時、他のスケルトンたちは対象を邪魔できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your turn, you get +1</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T162156Z" creationid="nakahodo" creationdate="20180601T162156Z">
@@ -13659,6 +13691,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080647Z" creationid="nakahodo" creationdate="20180311T080647Z">
         <seg>各行は出目1から6のセクターダイスがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Skeleton only has 1 Strength, so it cannot attack on its own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T140115Z" creationid="nakahodo" creationdate="20180603T140115Z">
+        <seg>各スケルトンは1筋力のみを持ちます。なので、そのままではアタックできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24173,6 +24213,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOVEMENT LIMITATIONS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135808Z" creationid="nakahodo" creationdate="20180603T135808Z">
+        <seg>移動力制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOVING</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040646Z" creationid="aorin" creationdate="20180408T040646Z">
@@ -27823,6 +27871,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132859Z" creationid="nakahodo" creationdate="20180412T132859Z">
         <seg>あなたのプレイヤーボードの近くにシャドウユニコーンのプレイヤーボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Skeleton on any Pit tile without an opposing player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135726Z" creationid="nakahodo" creationdate="20180603T135726Z">
+        <seg>他プレイヤーピースのいない、任意の横穴タイルにそのスケルトンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32099,6 +32155,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skeletons are distracting, though, and can combine their efforts to attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T140129Z" creationid="nakahodo" creationdate="20180603T140129Z">
+        <seg>Skeletons are distracting, though, and can combine their efforts to attack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip the Place Dragon Gem and Replace Hand phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080446Z" creationid="nakahodo" creationdate="20180413T080446Z">
@@ -36177,6 +36241,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224054Z" creationid="aorin" creationdate="20171215T224054Z">
         <seg>アタッカーは高いロールに等しいヒットを与え、ディフェンダーは低いヒットに等しいヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attacking Skeleton gains +1 Strength per tile with a Skeleton adjacent to the defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T140333Z" creationid="nakahodo" creationdate="20180603T140333Z">
+        <seg>アタックするスケルトンは、対象に隣接するスケルトンのいるタイルごとに、筋力＋1を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44534,8 +44606,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You cannot spend Movement after taking this action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135141Z" creationid="nakahodo" creationdate="20180603T135141Z">
-        <seg>このアクションを実行した後、あなたは移動力をそれ以上、消費できません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135431Z" creationid="nakahodo" creationdate="20180603T135141Z">
+        <seg>このアクションを実行した後、これ以上の移動力は消費できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45576,6 +45648,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074935Z" creationid="aorin" creationdate="20180410T074935Z">
         <seg>プレイヤー人数に+8に等しいだけの怒りを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have at least 1 Stability to attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135620Z" creationid="nakahodo" creationdate="20180603T135620Z">
+        <seg>あなたはアタックするために少なくとも安定性1を持っている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49566,6 +49646,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► ATTACK!!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135443Z" creationid="nakahodo" creationdate="20180603T135443Z">
+        <seg>•	アタック！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Attack the Spider (or Poltergeists) twice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T152915Z" creationid="nakahodo" creationdate="20180601T152915Z">
@@ -49582,6 +49670,22 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Entering a Lit tile costs +1 Movement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135826Z" creationid="nakahodo" creationdate="20180603T135826Z">
+        <seg>•	ライトタイルに入るためにコスト移動力＋1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Entering a tile with a Lamp costs +1 Movement per Lamp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135909Z" creationid="nakahodo" creationdate="20180603T135909Z">
+        <seg>•	ランプのあるタイルに入るために、コスト移動力がランプごとに＋1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Event cards in the Manor’s hand (even to the Manor)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221929Z" creationid="nakahodo" creationdate="20180531T221427Z">
@@ -49594,6 +49698,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223327Z" creationid="nakahodo" creationdate="20180531T221431Z">
         <seg>•	ダークタイルの下側にないっているライトタイル。デッキやカードのような裏向きだったり未公開のピース（館プレイヤーにとっても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► If a Skeleton ends its movement in a space with a Lamp, return that Lamp to the Paladin’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T140030Z" creationid="nakahodo" creationdate="20180603T140030Z">
+        <seg>•	スケルトンがランプのあるスペースで移動を終了した場合、パラディンのサプライにそのランプを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49634,6 +49746,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153000Z" creationid="nakahodo" creationdate="20180601T153000Z">
         <seg>•	経験値26に到達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► TUNNEL!!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T135625Z" creationid="nakahodo" creationdate="20180603T135625Z">
+        <seg>•	トンネル！</seg>
       </tuv>
     </tu>
     <tu>
