@@ -6208,6 +6208,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ability:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150524Z" creationid="nakahodo" creationdate="20180603T150524Z">
+        <seg>Ability:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accompanying the Forever King's arrival are a host of advancements never before seen in the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233335Z" creationid="aorin" creationdate="20171231T233335Z">
@@ -10136,6 +10144,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CASTY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150530Z" creationid="nakahodo" creationdate="20180603T150523Z">
+        <seg>キャスティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAVE BREAD, HEROIC BOOTS,</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T095531Z" creationid="nakahodo" creationdate="20180430T095531Z">
@@ -11881,6 +11897,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T162007Z" creationid="nakahodo" creationdate="20180413T162007Z">
         <seg>大胆（サイドクエスト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Sight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150422Z" creationid="nakahodo" creationdate="20180603T150422Z">
+        <seg>ダークサイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -13699,6 +13723,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040712Z" creationid="aorin" creationdate="20180116T040712Z">
         <seg>各ディスカバリーカードのコストは、特定分野の指定数IPとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Gear card gives its Skeleton another ability, and it may be used immediately once equipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150245Z" creationid="nakahodo" creationdate="20180603T150245Z">
+        <seg>各装備カードはそのスケルトンに別の能力を与えて、装備すると直ちに使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18921,6 +18953,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233623Z" creationid="aorin" creationdate="20180407T233623Z">
         <seg>憑依ターン時にアーティファクトがロックされた場合、直ちに憑依ターンが終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an ability or Gear costs Stability, you may only use it during that Skeleton’s activation, unless noted otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150358Z" creationid="nakahodo" creationdate="20180603T150358Z">
+        <seg>能力や装備のコストが安定性の場合、特に記述がない限り、スケルトンをアクティブにしている時にのみ、その効果を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26009,6 +26049,14 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145041Z" creationid="nakahodo" creationdate="20180430T145041Z">
         <seg>ターン毎に1度、フリーアクションとして、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once per turn, when activated, Casty may spend 1 Stability to place a Dancing Lights token on any adjacent tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T151219Z" creationid="nakahodo" creationdate="20180603T151219Z">
+        <seg>ターンごとに1度、アクティブにされた時、キャスティは安定性1を消費することで、キャスティは任意の隣接タイル1枚にダンシングライトトークン1つを配置できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41061,6 +41109,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133819Z" creationid="aorin" creationdate="20180409T133819Z">
         <seg>他のプレイヤーロールと違い、グールはプレイを通して維持されるステータスを持ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the other roles, the Skeletons can see through Dark tiles, making more pieces visible to them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T150523Z" creationid="nakahodo" creationdate="20180603T150523Z">
+        <seg>他のプレイヤーロールと違い、スケルトンはダークタイルが間にあるとしても、対象に視線を通すことができます。</seg>
       </tuv>
     </tu>
     <tu>
