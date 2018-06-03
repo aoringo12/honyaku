@@ -17858,6 +17858,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helmet (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164406Z" creationid="nakahodo" creationdate="20180603T164406Z">
+        <seg>ヘルメット（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helper</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153610Z" creationid="nakahodo" creationdate="20180108T153610Z">
@@ -22372,6 +22380,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to the normal result, a sneak attack does the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165024Z" creationid="nakahodo" creationdate="20180603T165024Z">
+        <seg>通常のアタックを処理するのに加えて、次の効果を適応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to these 9 territory types on the map, players will also be able to deploy units to off-map Courts, which represent palace courts of powerful lords.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T200742Z" creationid="aorin" creationdate="20180114T200742Z">
@@ -24104,6 +24120,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003228Z" creationid="aorin" creationdate="20171216T003228Z">
         <seg>リーダーたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leather Boots (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165316Z" creationid="nakahodo" creationdate="20180603T165316Z">
+        <seg>レザーブーツ（装備）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29263,6 +29287,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poison (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165154Z" creationid="nakahodo" creationdate="20180603T165154Z">
+        <seg>毒（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poltergeist:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065356Z" creationid="nakahodo" creationdate="20180601T065356Z">
@@ -31460,6 +31492,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STABBY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164623Z" creationid="nakahodo" creationdate="20180603T164623Z">
+        <seg>スタッビィ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STABILITY</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T133238Z" creationid="nakahodo" creationdate="20180601T203441Z">
@@ -32166,6 +32206,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shield (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164510Z" creationid="nakahodo" creationdate="20180603T164510Z">
+        <seg>shield（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090333Z" creationid="nakahodo" creationdate="20180413T080958Z">
@@ -32627,6 +32675,22 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slashy does not lose Stability when attacked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164459Z" creationid="nakahodo" creationdate="20180603T164459Z">
+        <seg>スラッシィは攻撃した時、安定性は失いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slashy gets +1 Strength when attacked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164522Z" creationid="nakahodo" creationdate="20180603T164522Z">
+        <seg>スラッシィはアタックする時、筋力＋1を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slashy gets +1 Strength when attacking.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T164350Z" creationid="nakahodo" creationdate="20180603T164350Z">
@@ -32657,6 +32721,14 @@ the World Map.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055505Z" creationid="nakahodo" creationdate="20180413T055505Z">
         <seg>Sneak
 スニーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sneak Attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164637Z" creationid="nakahodo" creationdate="20180603T164637Z">
+        <seg>こっそりアタックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33298,6 +33370,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210206Z" creationid="aorin" creationdate="20180114T210206Z">
         <seg>スパイマスターフェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stabby gets +2 Movement when activated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165340Z" creationid="nakahodo" creationdate="20180603T165340Z">
+        <seg>スタッビィはアクティブになる時、移動力＋2を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42203,6 +42283,22 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When Stabby attacks a target who is distracted by 2 or more sources, he may make a sneak attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T164954Z" creationid="nakahodo" creationdate="20180603T164954Z">
+        <seg>2体以上から邪魔されている対象にスタッビィがアタックする時、奇襲を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Stabby makes a sneak attack, you may remove the Poison Gear card from the game to make the target lose 1 more Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165346Z" creationid="nakahodo" creationdate="20180603T165300Z">
+        <seg>スタッビィが奇襲する時、ゲームから毒装備カードを取り除くことで、対象のヘルス＋1を失わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When Teleporting, orient the chosen card so the arrow (^) above the grid points in the same direction as the facing of your piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T195532Z" creationid="nakahodo" creationdate="20180411T195532Z">
@@ -50286,6 +50382,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Enchanter discards an extra disc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165140Z" creationid="nakahodo" creationdate="20180603T165140Z">
+        <seg>•	エンチャンターは追加のディスク1枚を破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Entering a Lit tile costs +1 Movement</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T135826Z" creationid="nakahodo" creationdate="20180603T135826Z">
@@ -50342,6 +50446,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Paladin loses 2 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165051Z" creationid="nakahodo" creationdate="20180603T165051Z">
+        <seg>•	パラティン経験値2を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Power cards in the Spider’s hand</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221618Z" creationid="nakahodo" creationdate="20180531T221423Z">
@@ -50370,6 +50482,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153000Z" creationid="nakahodo" creationdate="20180601T153000Z">
         <seg>•	経験値26に到達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Spider chooses and discards 2 Power cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165115Z" creationid="nakahodo" creationdate="20180603T165115Z">
+        <seg>•	スパイダーはパワーカード2枚を選択して捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
