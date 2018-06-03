@@ -5468,6 +5468,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Poltergeist’s Strength is always 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141658Z" creationid="nakahodo" creationdate="20180603T141658Z">
+        <seg>ポルターガイストの筋力は常に2です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Room can be placed in one of two locations:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210340Z" creationid="aorin" creationdate="20180528T210340Z">
@@ -5504,6 +5512,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T135549Z" creationid="nakahodo" creationdate="20180603T135549Z">
         <seg>スケルトンのいるスペースの他プレイヤーピースをアタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Skeleton may enter a tile with the Enchanter freely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142111Z" creationid="nakahodo" creationdate="20180603T142111Z">
+        <seg>A Skeleton may enter a tile with the Enchanter freely.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,6 +6120,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTACKING A POLTERGEIST</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141702Z" creationid="nakahodo" creationdate="20180603T141656Z">
+        <seg>ポルターガイストへアタックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATTACKING AN EGG</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T094410Z" creationid="nakahodo" creationdate="20180601T091740Z">
@@ -6138,15 +6162,15 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>ATTACKING THE PALADIN</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141149Z" creationid="nakahodo" creationdate="20180603T141149Z">
-        <seg>パラディンをアタックする</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141712Z" creationid="nakahodo" creationdate="20180603T141149Z">
+        <seg>パラディンへアタックする</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>ATTACKING THE SPIDER</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180601T071851Z" creationid="nakahodo" creationdate="20180601T071837Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141708Z" creationid="nakahodo" creationdate="20180601T071837Z">
         <seg>スパイダーへアタックする</seg>
       </tuv>
     </tu>
@@ -19963,6 +19987,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the last Spiderling is removed from play, you have killed the Spider and you win the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141651Z" creationid="nakahodo" creationdate="20180603T141651Z">
+        <seg>最後の蜘蛛の子がゲームから取り除かれた場合、あなたはスパイダーを殺し、ゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the last Spiderling is removed from the game, you have killed the Spider and you win the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091631Z" creationid="nakahodo" creationdate="20180601T091631Z">
@@ -22394,6 +22426,22 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T100458Z" creationid="nakahodo" creationdate="20180601T100340Z">
         <seg>屋敷プレイヤーのいないゲームでは、あなたが勝利するためにポルターガイスト5体必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games without a Paladin or Spider player, but with a Manor player, mark each destroyed Poltergeist on your Progress card, and you win if you destroy 7 Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141940Z" creationid="nakahodo" creationdate="20180603T141940Z">
+        <seg>パラディンとスパイダープレイヤーがゲームに居ないが、館プレイヤーがいる場合、あなたの進展カードに倒したポルターガイストを記録します。ポルターガイスト7体を倒した場合、あなは勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games without a Paladin, Spider, or Manor player, you win if you destroy 5 Poltergeists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142002Z" creationid="nakahodo" creationdate="20180603T142002Z">
+        <seg>パラディン、スパイダー、屋敷プレイヤーのいないゲームでは、あなたが勝利するためにポルターガイスト5体が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30132,6 +30180,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the Spiderling from the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141515Z" creationid="nakahodo" creationdate="20180603T141515Z">
+        <seg>ゲームからその蜘蛛の子を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the building sticker and charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031732Z" creationid="nakahodo" creationdate="20171224T145150Z">
@@ -32195,6 +32251,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skeletons may enter a space with the Wraith freely, but cannot affect it in any way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142105Z" creationid="nakahodo" creationdate="20180603T142105Z">
+        <seg>スケルトンはレイスの居るスペースに自由に制限なく入れますが、いずれの方法でも影響を与えられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip the Place Dragon Gem and Replace Hand phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080446Z" creationid="nakahodo" creationdate="20180413T080446Z">
@@ -33309,6 +33373,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T113350Z" creationid="nakahodo" creationdate="20171001T113350Z">
         <seg>研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE WRAITH</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142011Z" creationid="nakahodo" creationdate="20180603T142011Z">
+        <seg>レイス</seg>
       </tuv>
     </tu>
     <tu>
@@ -36445,6 +36517,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect of the attack depends on the Spider’s form, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141506Z" creationid="nakahodo" creationdate="20180603T141506Z">
+        <seg>スパイダーのフォームによってアタックの効果が変わります。以下を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effects of your face-up Treasure cards are always active.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T160637Z" creationid="nakahodo" creationdate="20180601T160419Z">
@@ -38213,6 +38293,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, each Spiderling on the board gains 2 Movement to spend immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141538Z" creationid="nakahodo" creationdate="20180603T141538Z">
+        <seg>その後、ボード上にいるそれぞれの蜘蛛の子は、直ちに消費しなければならない移動力2を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, each other Spiderling on the board gains 2 Movement to spend immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091419Z" creationid="nakahodo" creationdate="20180601T091419Z">
@@ -38353,6 +38441,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152126Z" creationid="aorin" creationdate="20171215T152126Z">
         <seg>その後、連合は暴動を1つ上昇させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the Spider player may choose to change to Spiderling form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141626Z" creationid="nakahodo" creationdate="20180603T141626Z">
+        <seg>その後、スパイダープレイヤーは蜘蛛の子形態に変化するかどうかを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39249,6 +39345,14 @@ with the following exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T231328Z" creationid="aorin" creationdate="20180409T231328Z">
         <seg>この攻撃は大胆サイドクエストカードを達成させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This attack destroys the Poltergeist, returning it to the Manor’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141807Z" creationid="nakahodo" creationdate="20180603T141807Z">
+        <seg>このアタックでポルターガイストは倒され、これを館プレイヤーのサプライに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44272,6 +44376,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041957Z" creationid="aorin" creationdate="20171213T041957Z">
         <seg>あなたが必要なシルバーの延べ棒を支払えるなら、複数回ゴールドの延べ棒にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can only attack the Spider if the Paladin isn’t in the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141424Z" creationid="nakahodo" creationdate="20180603T141424Z">
+        <seg>パラディンプレイヤーがゲームに居ない場合、あなたはスパイダーへのみアタックできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49750,6 +49862,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Giant Spider or Caster:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141543Z" creationid="nakahodo" creationdate="20180603T141543Z">
+        <seg>•	ジャイアントスパイダーかキャスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► If a Skeleton ends its movement in a space with a Lamp, return that Lamp to the Paladin’s supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T140030Z" creationid="nakahodo" creationdate="20180603T140030Z">
@@ -49794,6 +49914,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153000Z" creationid="nakahodo" creationdate="20180601T153000Z">
         <seg>•	経験値26に到達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Spiderling:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T141510Z" creationid="nakahodo" creationdate="20180603T141510Z">
+        <seg>•	蜘蛛の子：</seg>
       </tuv>
     </tu>
     <tu>
