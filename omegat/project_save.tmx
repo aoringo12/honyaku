@@ -12745,6 +12745,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double the effect of the sneak attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165429Z" creationid="nakahodo" creationdate="20180603T165429Z">
+        <seg>奇襲の効果を2倍にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double the magnitude of any negative effects, including attacks and ambushes, targeting you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T120552Z" creationid="nakahodo" creationdate="20180430T120552Z">
@@ -24031,6 +24039,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225358Z" creationid="aorin" creationdate="20180407T225358Z">
         <seg>ナイト：影響力+2の経験値を失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kukri (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165411Z" creationid="nakahodo" creationdate="20180603T165411Z">
+        <seg>ククリ（装備）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39829,6 +39845,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This benefit does not stack with Poison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165510Z" creationid="nakahodo" creationdate="20180603T165510Z">
+        <seg>この効果は毒には累積しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This bonus lasts only for the current movement and the immediate attack upon entering a space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T091559Z" creationid="aorin" creationdate="20180410T091559Z">
@@ -42293,8 +42317,8 @@ COMPONENTS</seg>
       <tuv lang="EN-US">
         <seg>When Stabby makes a sneak attack, you may remove the Poison Gear card from the game to make the target lose 1 more Health.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165346Z" creationid="nakahodo" creationdate="20180603T165300Z">
-        <seg>スタッビィが奇襲する時、ゲームから毒装備カードを取り除くことで、対象のヘルス＋1を失わせることができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T165355Z" creationid="nakahodo" creationdate="20180603T165300Z">
+        <seg>スタッビィが奇襲する時、ゲームから毒装備カードを取り除くことで、対象のヘルス＋1をさらに失わせることができます。</seg>
       </tuv>
     </tu>
     <tu>
