@@ -9473,6 +9473,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Banner (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153027Z" creationid="nakahodo" creationdate="20180603T153017Z">
+        <seg>旗（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrens (brown):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195534Z" creationid="aorin" creationdate="20180114T195534Z">
@@ -18176,6 +18184,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T161850Z" creationid="nakahodo" creationdate="20180601T161850Z">
         <seg>聖痕：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horn (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153020Z" creationid="nakahodo" creationdate="20180603T152907Z">
+        <seg>ホーン（装備）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27042,6 +27058,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pauldrons (Gear):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153208Z" creationid="nakahodo" creationdate="20180603T153208Z">
+        <seg>たすき（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay 1 Apple from your personal supply to demote the opponent’s Pixie.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164944Z" creationid="aorin" creationdate="20171212T164944Z">
@@ -31268,6 +31292,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SCREAMY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T152535Z" creationid="nakahodo" creationdate="20180603T152535Z">
+        <seg>スクリーミー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SELECT:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T142801Z" creationid="nakahodo" creationdate="20171230T142801Z">
@@ -31288,6 +31320,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070313Z" creationid="nakahodo" creationdate="20180311T070313Z">
         <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHOOTY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153254Z" creationid="nakahodo" creationdate="20180603T153234Z">
+        <seg>シューティー</seg>
       </tuv>
     </tu>
     <tu>
@@ -31531,6 +31571,30 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232713Z" creationid="aorin" creationdate="20180409T232713Z">
         <seg>叩き潰すはゴブリン3匹を食べたとしてカウントし、あなたに強制的に恐怖カード1枚を破棄させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screamy gets +1 Strength outside your turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153231Z" creationid="nakahodo" creationdate="20180603T153231Z">
+        <seg>スクリーミーはあなたのターン外で＋1筋力を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screamy may give Movement to any Skeleton on the board, not just visible Skeletons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153144Z" creationid="nakahodo" creationdate="20180603T153144Z">
+        <seg>スクリーミーは視線に関わらず、ボード上の任意のスケルトンに移動力を与えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screamy may spend 1 Stability to give 4 Movement to an extra Skeleton.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153005Z" creationid="nakahodo" creationdate="20180603T153005Z">
+        <seg>スクリーミーは安定性1を消費することで、さらに追加でスケルトン1体に移動力4を与えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32050,6 +32114,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160823Z" creationid="nakahodo" creationdate="20180413T160823Z">
         <seg>間にダークタイルや壁があったり、ドラゴンが地下にいたとしても、直線上に5タイルまで離れたドラゴン、ユニコーン、シーフを撃つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shooty may attack a visible target exactly 2 spaces away, without scattering.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T153359Z" creationid="nakahodo" creationdate="20180603T153359Z">
+        <seg>シューティーは離散することなく、正確に2スペース離れた視線が通る対象へアタックできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39485,6 +39557,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This ability may target a Skeleton that spawned this turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T152858Z" creationid="nakahodo" creationdate="20180603T152858Z">
+        <seg>この能力はこのターンスポーンしたスケルトンを対象にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This ability takes effect during the end of the Build phase when you reveal your fifth room, followed by any other "when you build this Room" effects from that Room.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231536Z" creationid="aorin" creationdate="20180528T231536Z">
@@ -42150,6 +42230,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T145100Z" creationid="nakahodo" creationdate="20180603T142735Z">
         <seg>アクティブにされた時、キャスティは視線が通っているタイルにダンシングライトを配置することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When activated, Screamy may spend 1 Stability to give 4 Movement to any visible Skeleton within 2 spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T152654Z" creationid="nakahodo" creationdate="20180603T152650Z">
+        <seg>アクティブの時、スクリーミーは安定性1を消費することで、2スペース以内の視線が通っているスケルトン1体に移動力4を与えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46184,6 +46272,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075416Z" creationid="aorin" creationdate="20171216T075416Z">
         <seg>あなたは敵対派閥が所有するピースのいる空き地に移動する時、別の&lt;ブーツ&gt;を消費しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must spend this Movement immediately, and you cannot move this Skeleton into a tile that would make you attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T152839Z" creationid="nakahodo" creationdate="20180603T152839Z">
+        <seg>この移動力は直ちに消費しなければならず、このスケルトンをアタックするタイルへと移動させることはできません。</seg>
       </tuv>
     </tu>
     <tu>
