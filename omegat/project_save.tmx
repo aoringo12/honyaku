@@ -5516,10 +5516,18 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Skeleton may attack the Enchanter only if the Skeleton’s Strength is greater than the Enchanter’s Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142441Z" creationid="nakahodo" creationdate="20180603T142441Z">
+        <seg>スケルトンの筋力がエンチャンターの防御力より高い場合にのみ、エンチャンターへアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Skeleton may enter a tile with the Enchanter freely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142111Z" creationid="nakahodo" creationdate="20180603T142111Z">
-        <seg>A Skeleton may enter a tile with the Enchanter freely.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142347Z" creationid="nakahodo" creationdate="20180603T142111Z">
+        <seg>スケルトンはエンチャンターの居るタイルに自由に制限なく入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11752,6 +11760,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104608Z" creationid="aorin" creationdate="20180526T104608Z">
         <seg>D.	トレジャー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DANCING LIGHTS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142739Z" creationid="nakahodo" creationdate="20180603T142704Z">
+        <seg>ダンシングライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -39357,6 +39373,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This attack scatters the Enchanter, and you gain 2 Stability (because you gain a Treasure and immediately discard it).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T142638Z" creationid="nakahodo" creationdate="20180603T142638Z">
+        <seg>このアタックでエンチャンターは離散し、あなたは安定性2を得ます（トレジャー1つを得て、それを直ちに破棄することになるので）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This bonus lasts only for the current movement and the immediate attack upon entering a space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T091559Z" creationid="aorin" creationdate="20180410T091559Z">
@@ -41918,6 +41942,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203931Z" creationid="aorin" creationdate="20171231T203931Z">
         <seg>説明書：ロボットはくたびれ始めたら、あなたは単純に、新機種に思い出を送ってあげるだけで良いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When activated, Casty may place a Dancing Lights token on a visible tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145100Z" creationid="nakahodo" creationdate="20180603T142735Z">
+        <seg>アクティブにされた時、キャスティは視線が通っているタイルにダンシングライトを配置することができます。</seg>
       </tuv>
     </tu>
     <tu>
