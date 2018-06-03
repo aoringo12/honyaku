@@ -18885,6 +18885,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If all three Dancing Lights are on the board, he may remove one from the board to place again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180603T145142Z" creationid="nakahodo" creationdate="20180603T145142Z">
+        <seg>ダンシングライト3つ全てがボード上に配置されている場合、ボードから1つを選択して取り、別の場所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all three Gems are on the map, the Silver Scale has no effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T110805Z" creationid="nakahodo" creationdate="20180430T110805Z">
