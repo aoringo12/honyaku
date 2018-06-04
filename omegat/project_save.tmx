@@ -7723,8 +7723,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An Egg has a Defense of 1 plus the number of Blood tokens on them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175505Z" creationid="nakahodo" creationdate="20180604T175505Z">
-        <seg>卵の防御力は、そこに配置されているブラッドトークンの数に1を加えた数です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175544Z" creationid="nakahodo" creationdate="20180604T175505Z">
+        <seg>卵の防御力は1で、そこに配置されているブラッドトークンの数だけさらに追加されます（例：ブラッドトークン2つを持つ卵の防御力は3）。</seg>
       </tuv>
     </tu>
     <tu>
