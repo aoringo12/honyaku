@@ -8965,6 +8965,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack all pieces in spaces with Spiderlings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163722Z" creationid="nakahodo" creationdate="20180604T163722Z">
+        <seg>蜘蛛の巣たちのいる全てのスペースにいる他ピースたちへとアタックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack every player piece in your space and gain 1 Blood per Fangs you play.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T153222Z" creationid="nakahodo" creationdate="20180604T153000Z">
@@ -12493,6 +12501,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T162958Z" creationid="nakahodo" creationdate="20180604T162958Z">
         <seg>任意のカード1枚を捨て札にすることで、追加で1スペース移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard any card to move the activated Spiderling and all remaining Spiderlings to be activated an extra space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T164617Z" creationid="nakahodo" creationdate="20180604T164422Z">
+        <seg>任意のカード1枚を捨て札にすることで、今アクティブにした蜘蛛の子と今からアクティブにする全ての蜘蛛の子たちに、追加のスペース1つを移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16759,6 +16775,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T152859Z" creationid="nakahodo" creationdate="20180604T152859Z">
         <seg>あなたが公開したイベントシンボルごとに、1ブラッドを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 Blood per player piece you attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T164141Z" creationid="nakahodo" creationdate="20180604T164141Z">
+        <seg>あなたがアタックするプレイヤーピースごとに、ブラッド1を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28229,6 +28253,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065037Z" creationid="nakahodo" creationdate="20180601T065037Z">
         <seg>タイルにトレジャートークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Web on each space with Spiderlings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T164255Z" creationid="nakahodo" creationdate="20180604T164054Z">
+        <seg>蜘蛛の子がいる各スペースに蜘蛛の巣を1つずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46540,6 +46572,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may move each piece you attack by 1 space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T164234Z" creationid="nakahodo" creationdate="20180604T164052Z">
+        <seg>あなたがアタックする各対象ピースを1スペース強制移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may move through Pits, spending movement points normally.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T011758Z" creationid="aorin" creationdate="20180410T011711Z">
@@ -47056,6 +47096,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T162726Z" creationid="nakahodo" creationdate="20180604T162726Z">
         <seg>あなたはこのパワーを使用するために、ボード上に蜘蛛の巣6つを持つ必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have 8 or more Webs on the board to use this power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T164307Z" creationid="nakahodo" creationdate="20180604T164307Z">
+        <seg>あなたはこのパワーを使用するために、ボード上に蜘蛛の巣8つを持つ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
