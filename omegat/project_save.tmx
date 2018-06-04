@@ -8949,6 +8949,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack every player piece in your space and gain 1 Blood per Fangs you play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153222Z" creationid="nakahodo" creationdate="20180604T153000Z">
+        <seg>あなたのスペースにいる他プレイヤーピースをアタックし、プレイした牙カードごとに1ブラッドを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack space and return them to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134210Z" creationid="aorin" creationdate="20180409T134210Z">
@@ -15456,6 +15464,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eyes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152352Z" creationid="nakahodo" creationdate="20180604T152352Z">
+        <seg>目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eyrie Dynasties Setup</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133851Z" creationid="aorin" creationdate="20171215T133851Z">
@@ -15548,6 +15564,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001335Z" creationid="aorin" creationdate="20171216T001335Z">
         <seg>列の下のカードを扇状にして、カード全てのスートが見えるようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fangs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152901Z" creationid="nakahodo" creationdate="20180604T152901Z">
+        <seg>牙</seg>
       </tuv>
     </tu>
     <tu>
@@ -16072,6 +16096,14 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033137Z" creationid="aorin" creationdate="20171213T033137Z">
         <seg>各プレイヤーの炭鉱に残っている岩ごとに、1ペナルティポイントを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each extra Fangs you play, you force the Paladin to lose another Grit OR you move him another space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153324Z" creationid="nakahodo" creationdate="20180604T153141Z">
+        <seg>追加で牙カードをプレイするごとに、あなたはパラディンへと、さらに経験値を失わせるか、別のスペースに移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,6 +16647,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T070619Z" creationid="nakahodo" creationdate="20180413T070619Z">
         <seg>1憤りを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 1 Blood per Event symbol you reveal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152859Z" creationid="nakahodo" creationdate="20180604T152859Z">
+        <seg>あなたが公開したイベントシンボルごとに、1ブラッドを得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30927,6 +30967,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal 2 more tiles per extra Eyes card played.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152508Z" creationid="nakahodo" creationdate="20180604T152501Z">
+        <seg>追加の目カードをプレイするごとに、さらにタイル2枚を公開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal 3 random objective cards (extra cards form a face-down deck on the mat)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145840Z" creationid="nakahodo" creationdate="20171230T145840Z">
@@ -31046,6 +31094,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T121503Z" creationid="nakahodo" creationdate="20180525T121503Z">
         <seg>プレイヤー人数と同じ枚数のヒーローカードを公開し、これらを「タウン」に配置します（テーブル中央）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal your tile or an adjacent tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152510Z" creationid="nakahodo" creationdate="20180604T152421Z">
+        <seg>あなたが現在いるタイルか隣接タイルを公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36090,6 +36146,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Paladin loses 1 Grit, and you may move him 1 space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153202Z" creationid="nakahodo" creationdate="20180604T153140Z">
+        <seg>パラディンは経験値1を失い、あなたは彼を1スペース移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Paladin must kill the Spider, the Skeletons must kill the Paladin, the Spider must escape the Manor, the Manor must trap everyone inside, and the Enchanter must dominate the other characters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T213529Z" creationid="nakahodo" creationdate="20180531T213259Z">
@@ -36430,6 +36494,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064727Z" creationid="aorin" creationdate="20171213T064727Z">
         <seg>一回使用タイルのバッグの中を見るは、このアクションを実行する時に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Skeleton scatters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153336Z" creationid="nakahodo" creationdate="20180604T153336Z">
+        <seg>スケルトンは離散します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39492,6 +39564,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T161350Z" creationid="nakahodo" creationdate="20180413T161350Z">
         <seg>これらカードは基本的に同じ内容ですが、追加プレイヤーロールが新たに含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These extra tiles revealed can be adjacent to tiles you just revealed using Eyes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152829Z" creationid="nakahodo" creationdate="20180604T152503Z">
+        <seg>これら追加タイルは、最初に目カードを使用して公開したタイルに隣接したものを公開できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50734,6 +50814,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Paladin:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153006Z" creationid="nakahodo" creationdate="20180604T153006Z">
+        <seg>•	パラディン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Power cards in the Spider’s hand</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T221618Z" creationid="nakahodo" creationdate="20180531T221423Z">
@@ -50762,6 +50850,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153000Z" creationid="nakahodo" creationdate="20180601T153000Z">
         <seg>•	経験値26に到達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Skeleton:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153329Z" creationid="nakahodo" creationdate="20180604T153329Z">
+        <seg>•	スケルトン：</seg>
       </tuv>
     </tu>
     <tu>
