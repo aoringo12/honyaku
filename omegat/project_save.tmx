@@ -12441,6 +12441,22 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard any 2 cards to place an Egg in your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154232Z" creationid="nakahodo" creationdate="20180604T154232Z">
+        <seg>任意のカード2枚を捨て札にすることで、あなたのいるスペースに卵1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard any card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154315Z" creationid="nakahodo" creationdate="20180604T154315Z">
+        <seg>任意のカード1枚を捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard down to your hand limit of four cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002820Z" creationid="aorin" creationdate="20171216T002820Z">
@@ -15576,6 +15592,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fangs you play, the Skeletons lose 1 Stability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153413Z" creationid="nakahodo" creationdate="20180604T153351Z">
+        <seg>スケルトンは安定性を1、失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fearless</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T143302Z" creationid="nakahodo" creationdate="20180413T143302Z">
@@ -16096,6 +16120,30 @@ please see page 13.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033137Z" creationid="aorin" creationdate="20171213T033137Z">
         <seg>各プレイヤーの炭鉱に残っている岩ごとに、1ペナルティポイントを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each extra</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153355Z" creationid="nakahodo" creationdate="20180604T153347Z">
+        <seg>追加で牙カードをプレイするごとに、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each extra Fangs you play, the Manor loses 1 Omen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153630Z" creationid="nakahodo" creationdate="20180604T153617Z">
+        <seg>追加で牙カードをプレイするごとに、館は前兆トークン1つを失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each extra Fangs you play, you can remove a disc from your hand or the Enchanter’s hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153741Z" creationid="nakahodo" creationdate="20180604T153741Z">
+        <seg>追加で牙カードをプレイするごとに、あなたは自身の手札かエンチャンターの手札から、ディスク1枚を取り除けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26962,6 +27010,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Powers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153906Z" creationid="nakahodo" creationdate="20180604T153906Z">
+        <seg>他のパワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other cards are added to the discard piles of their respective decks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100842Z" creationid="nakahodo" creationdate="20180108T100842Z">
@@ -27878,6 +27934,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 2 more Webs per extra Web card you play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153901Z" creationid="nakahodo" creationdate="20180604T153901Z">
+        <seg>あなたが追加の蜘蛛のスカードをプレイするごとに、さらに蜘蛛の巣トークン2つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 4 Hatred tokens near your board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T081946Z" creationid="aorin" creationdate="20180409T081946Z">
@@ -28069,6 +28133,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065037Z" creationid="nakahodo" creationdate="20180601T065037Z">
         <seg>タイルにトレジャートークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a Web token on your space or an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153811Z" creationid="nakahodo" creationdate="20180604T153742Z">
+        <seg>あなたが現在いるスペースか隣接スペースに蜘蛛の巣トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33390,6 +33462,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend 3 Blood to gain 1 Terror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154300Z" creationid="nakahodo" creationdate="20180604T154234Z">
+        <seg>ブラッド3つを消費することで、恐怖1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend Fire to...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T181942Z" creationid="nakahodo" creationdate="20180601T181927Z">
@@ -35200,6 +35280,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Enchanter scatters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153640Z" creationid="nakahodo" creationdate="20180604T153626Z">
+        <seg>エンチャンターは離散します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The End of the Game</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T085149Z" creationid="nakahodo" creationdate="20180312T085149Z">
@@ -36190,6 +36278,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T111329Z" creationid="nakahodo" creationdate="20180430T111329Z">
         <seg>プラチナの鱗は直ちに任意のカテゴリの怠惰キューブ1つを、覚醒に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Poltergeist is destroyed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153429Z" creationid="nakahodo" creationdate="20180604T153429Z">
+        <seg>ポルターガイストは倒されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42499,6 +42595,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153749Z" creationid="nakahodo" creationdate="20180604T153741Z">
+        <seg>蜘蛛の巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web Weaver</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T151406Z" creationid="nakahodo" creationdate="20180604T151154Z">
@@ -45816,6 +45920,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224526Z" creationid="aorin" creationdate="20180409T224526Z">
         <seg>あなたはプレイヤーを攻撃するたび、集めたトレジャートークンが2つになるたびに、1怒りを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You gain 1 Movement and can cross an extra wall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154345Z" creationid="nakahodo" creationdate="20180604T154345Z">
+        <seg>移動力1を得て、追加の壁1枚を通り抜けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50742,10 +50854,26 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Egg:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154022Z" creationid="nakahodo" creationdate="20180604T154022Z">
+        <seg>•	卵：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Enchanter discards an extra disc.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165140Z" creationid="nakahodo" creationdate="20180603T165140Z">
         <seg>•	エンチャンターは追加のディスク1枚を破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Enchanter:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153623Z" creationid="nakahodo" creationdate="20180604T153623Z">
+        <seg>•	エンチャンター：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50782,6 +50910,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Feeding:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154242Z" creationid="nakahodo" creationdate="20180604T154233Z">
+        <seg>•	餌：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Giant Spider or Caster:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T141543Z" creationid="nakahodo" creationdate="20180603T141543Z">
@@ -50806,6 +50942,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Legs:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154307Z" creationid="nakahodo" creationdate="20180604T154307Z">
+        <seg>•	足：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Paladin loses 2 Grit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165051Z" creationid="nakahodo" creationdate="20180603T165051Z">
@@ -50818,6 +50962,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T153006Z" creationid="nakahodo" creationdate="20180604T153006Z">
         <seg>•	パラディン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Poltergeist:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T153421Z" creationid="nakahodo" creationdate="20180604T153421Z">
+        <seg>•	ポルターガイスト：</seg>
       </tuv>
     </tu>
     <tu>
