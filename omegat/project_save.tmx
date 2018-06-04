@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If your discard pile is also empty, you cannot draw Event cards.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192656Z" creationid="nakahodo" creationdate="20180604T192656Z">
+        <seg>（あなたの捨て札山が空であった場合、それ以上のイベントカードのドローはできません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(In games without the Cave player, Ghost tiles do not take priority.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T235627Z" creationid="aorin" creationdate="20180407T235627Z">
@@ -13033,6 +13041,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw 1 Event card per Omen assigned to Events.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192153Z" creationid="nakahodo" creationdate="20180604T192153Z">
+        <seg>イベントに割りてられた前兆トークンごとに、イベントカード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw 2 Espionage cards from the Espionage deck, keep 1 and place the other on the bottom of the deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213105Z" creationid="aorin" creationdate="20180114T213105Z">
@@ -13053,6 +13069,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T064330Z" creationid="nakahodo" creationdate="20180209T064330Z">
         <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Events &amp; Place Treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192041Z" creationid="nakahodo" creationdate="20180604T192041Z">
+        <seg>イベントカードのドローとトレジャーの配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -17159,6 +17183,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T133236Z" creationid="aorin" creationdate="20180409T133236Z">
         <seg>他のプレイヤーを攻撃し、トレジャーを収集して怒りの目標値まで怒りを得て、エントランスタイルに入ることで洞窟から脱出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Omens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192704Z" creationid="nakahodo" creationdate="20180604T192704Z">
+        <seg>前兆トークンを得る</seg>
       </tuv>
     </tu>
     <tu>
@@ -22574,6 +22606,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150228Z" creationid="aorin" creationdate="20171215T150228Z">
         <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your deck runs out of Event cards, shuffle the Event discard pile and continue drawing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192422Z" creationid="nakahodo" creationdate="20180604T192422Z">
+        <seg>イベントデッキを使い果たした場合、イベントカードの捨て札山をシャッフルし、カードのドローを続けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32755,6 +32795,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the number of Omens you gain next turn based on the number of Poltergeists on the board (as indicated on your player board)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192850Z" creationid="nakahodo" creationdate="20180604T192850Z">
+        <seg>ボード上のポルターガイスト数に従い、次のターン得られる前兆トークンの数をセットします。（プレイヤーボードに記述されています）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the remaining Gems and the Favor Cogs next to the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070841Z" creationid="nakahodo" creationdate="20180311T070841Z">
@@ -39845,6 +39893,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, place Treasure tokens on unoccupied Dark tiles, based on your assigned Omens (as indicated on your player board).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192344Z" creationid="nakahodo" creationdate="20180604T192226Z">
+        <seg>その後、このターンで割り当てた前兆トークンの数に従い、（プレイヤーボードに記述されるように）未占領のダークタイルにトレジャートークンを配置していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, place Unicorn cubes on the 12 spaces of the Radiance track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T112756Z" creationid="aorin" creationdate="20180410T112756Z">
@@ -46870,8 +46926,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may Fly multiple times in a turn as long, as you can obey all the restrictions listed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192025Z" creationid="nakahodo" creationdate="20180604T192025Z">
-        <seg>記述された全ての条件に従う限り、ターン内で複数回</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192037Z" creationid="nakahodo" creationdate="20180604T192025Z">
+        <seg>記述された全ての条件に従う限り、ターン内で複数回、浮遊できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48555,6 +48611,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T024932Z" creationid="aorin" creationdate="20171231T234150Z">
         <seg>あなたのゴールは、永遠なる王へとさらなる栄光をもたらす事です。なので、彼の名前で村を支配することもあるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your hand size is unlimited.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192232Z" creationid="nakahodo" creationdate="20180604T192222Z">
+        <seg>手札上限はありません。</seg>
       </tuv>
     </tu>
     <tu>
