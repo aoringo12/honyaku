@@ -24645,6 +24645,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lose 1 Grit and move him 1 space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T160533Z" creationid="nakahodo" creationdate="20180604T160533Z">
+        <seg>経験値1を失い、パラディンを1スペース移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lose 2 Prestige.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151521Z" creationid="nakahodo" creationdate="20180108T151521Z">
@@ -39007,6 +39015,14 @@ positive part of the score track is difficult!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150204Z" creationid="nakahodo" creationdate="20171230T150204Z">
         <seg>その後、進展トークンを進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then also, gain 1 Blood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155716Z" creationid="nakahodo" creationdate="20180604T155716Z">
+        <seg>ブラッド1を得ます。</seg>
       </tuv>
     </tu>
     <tu>
