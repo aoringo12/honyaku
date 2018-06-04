@@ -10987,6 +10987,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose 2 tiles on the board within the listed number of spaces from each other.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T183739Z" creationid="nakahodo" creationdate="20180604T183608Z">
+        <seg>ボード上にある、指示された範囲内のタイル2つを選択して入れ替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Form</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
@@ -19578,6 +19586,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111353Z" creationid="nakahodo" creationdate="20180412T111030Z">
         <seg>崩壊するタイルにあなたが巻き込まれる場合、あなたは代わりに強制テレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If either or both tiles are occupied, you can only move them half the number of spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184011Z" creationid="nakahodo" creationdate="20180604T184011Z">
+        <seg>それらタイルのいずれか、または両方がなんらかのトークンやピースで占領されていた場合、指示されるスペース数の半分のみ移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32188,6 +32204,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SWAP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T183206Z" creationid="nakahodo" creationdate="20180604T183206Z">
+        <seg>スワップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sanctity Upgrades (Discard) As part of an Encounter, you can attack an adjacent space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153253Z" creationid="nakahodo" creationdate="20180601T153113Z">
@@ -34449,6 +34473,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swap them and orient them in any way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T183813Z" creationid="nakahodo" creationdate="20180604T183747Z">
+        <seg>これらを交換し、それぞれ任意の方向へと回転させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TELEKINESIS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T135816Z" creationid="nakahodo" creationdate="20180406T135816Z">
@@ -34682,6 +34714,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024237Z" creationid="aorin" creationdate="20180408T024237Z">
         <seg>フレアヴァリアントカードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the Omens from your Omens box, assign them to the Omens spaces on your player board, and then resolve their effects from top to bottom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T183129Z" creationid="nakahodo" creationdate="20180604T183017Z">
+        <seg>前兆ボックスから前兆キューブを取り、プレイヤーボードにある前兆スペースにそれらを割り当て、その後、上から下に割り当てたものの効果を解決します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43581,6 +43621,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When moving the tile, ignore all walls, player pieces, tokens, and open spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T183631Z" creationid="nakahodo" creationdate="20180604T183631Z">
+        <seg>タイルを移動する時、全ての壁、プレイヤーピース、トークン、空きスペースは無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When moving, a Tribe loses 1 Population for every 3 Lit tiles it exits (instead of every 2).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T144957Z" creationid="nakahodo" creationdate="20180430T144838Z">
@@ -47256,6 +47304,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040826Z" creationid="aorin" creationdate="20180116T040826Z">
         <seg>あなたはこのディスカバリーを購入するために、必要な数のIPトークンを破棄する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must fill Omens spaces in a row from left to right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T183055Z" creationid="nakahodo" creationdate="20180604T183055Z">
+        <seg>あんたは前兆スペースは左から右に埋めなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
