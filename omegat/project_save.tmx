@@ -10024,6 +10024,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build up your Terror to 12 or more, then escape the Manor through the Entrance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142631Z" creationid="nakahodo" creationdate="20180604T142631Z">
+        <seg>12以上の恐怖を構築し、その後、館のエントランスを通り抜けることで脱出するのが目的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224517Z" creationid="aorin" creationdate="20180528T224517Z">
@@ -28211,6 +28219,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Giant Spider Form card on the matching space on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142712Z" creationid="nakahodo" creationdate="20180604T142712Z">
+        <seg>あなたのプレイヤーボードの一致するスペースにジャイアントスパイダー形態カードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Influence Point (IP) tokens, separated by discipline, next to the map within reach of all players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193345Z" creationid="aorin" creationdate="20180114T193345Z">
@@ -34014,6 +34030,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the Spider player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142639Z" creationid="nakahodo" creationdate="20180604T142639Z">
+        <seg>スパイダープレイヤーボードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the appropriate</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043955Z" creationid="aorin" creationdate="20171213T043955Z">
@@ -36294,6 +36318,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T101743Z" creationid="nakahodo" creationdate="20180430T101743Z">
         <seg>スリングショットの効果は攻撃ではなく、対象プレイヤーを害しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Spider</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142542Z" creationid="nakahodo" creationdate="20180604T142542Z">
+        <seg>スパイダー</seg>
       </tuv>
     </tu>
     <tu>
