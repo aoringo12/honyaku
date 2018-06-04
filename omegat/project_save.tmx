@@ -16097,6 +16097,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fly</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191135Z" creationid="nakahodo" creationdate="20180604T191135Z">
+        <seg>Fly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow all of the setup rules for the Cave (page 12 in Vast: The Crystal Caverns).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035314Z" creationid="aorin" creationdate="20180408T035314Z">
@@ -21872,6 +21880,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you fly the complete pattern shown on the card, increase your Mold as listed on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191445Z" creationid="nakahodo" creationdate="20180604T191351Z">
+        <seg>カードに示される浮遊のパターンを完了できた場合、カードに示されるだけのモールドが上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you gain Radiance, the Unicorn player chooses the upgrade.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090829Z" creationid="nakahodo" creationdate="20180413T090829Z">
@@ -25642,6 +25658,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move it to an adjacent space that is unoccupied except for other Spider pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191110Z" creationid="nakahodo" creationdate="20180604T191110Z">
+        <seg>他のスパイダーピースを除いて、未占領の隣接スペースに卵を移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move it to an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191141Z" creationid="nakahodo" creationdate="20180604T191135Z">
+        <seg>隣接スペースにトレジャーを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move one damaged item to your exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082830Z" creationid="aorin" creationdate="20171216T082830Z">
@@ -28907,6 +28939,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Wraith piece and a Poltergeist in the final space shown on the path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191616Z" creationid="nakahodo" creationdate="20180604T191352Z">
+        <seg>レイスピースとポルターガイス1体を、道に示された最後のスペースに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the board in the center of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214356Z" creationid="nakahodo" creationdate="20180531T214356Z">
@@ -29438,6 +29478,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053815Z" creationid="aorin" creationdate="20171216T053815Z">
         <seg>空いたカードスロットのある隠れ家に裏向きでカード1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play an Event card to fly the Wraith in the path shown on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191211Z" creationid="nakahodo" creationdate="20180604T191136Z">
+        <seg>イベントカード1枚をプレイすることで、カードに示される道に従い浮遊します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31096,6 +31144,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T083708Z" creationid="aorin" creationdate="20180410T083708Z">
         <seg>攻撃スペースのグールディスクを取り除き、それらをプレイヤーボードの側に置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove it from the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191121Z" creationid="nakahodo" creationdate="20180604T191121Z">
+        <seg>ボードからそれを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37609,6 +37665,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T095419Z" creationid="nakahodo" creationdate="20171001T095419Z">
         <seg>ワールドマップは、独自の国の作物スペースとそこにフィールド研究者ポーンを配置することによりアクションを得られるコーヒーが豊かな3つの地域（アメリカ、アフリカ、アシア）にわけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Wraith can only fly into unoccupied Lit tiles, and it cannot cross walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191326Z" creationid="nakahodo" creationdate="20180604T191326Z">
+        <seg>レイスは未占領のライトタイルにのみ浮遊でき、壁を通り抜けられません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46244,6 +46308,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can start the path from either end shown on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191255Z" creationid="nakahodo" creationdate="20180604T191208Z">
+        <seg>カードに示される道の、いずれかの端から浮遊を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can store Treasures up to a maximum equaling your number of purchased Schemes.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T104035Z" creationid="nakahodo" creationdate="20180430T104035Z">
@@ -46792,6 +46864,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000419Z" creationid="aorin" creationdate="20171216T000419Z">
         <seg>あなたはアクション1つを消費せずにクラフトができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may Fly multiple times in a turn as long, as you can obey all the restrictions listed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T192025Z" creationid="nakahodo" creationdate="20180604T192025Z">
+        <seg>記述された全ての条件に従う限り、ターン内で複数回</seg>
       </tuv>
     </tu>
     <tu>
@@ -47494,8 +47574,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You move the Paladin to an adjacent space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190928Z" creationid="nakahodo" creationdate="20180604T190908Z">
-        <seg>隣接スペースにパラディンを強制移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191006Z" creationid="nakahodo" creationdate="20180604T190908Z">
+        <seg>あなたは隣接スペースにパラディンを強制移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48040,6 +48120,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074551Z" creationid="aorin" creationdate="20180410T074506Z">
         <seg>あなたは十分な数の怒りを貯めるかクリスタルを砕き、その後、洞窟を脱出すると勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win if you have 15 Mold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191630Z" creationid="nakahodo" creationdate="20180604T191630Z">
+        <seg>あなたはモールド15を持っている場合に勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51922,6 +52010,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T154529Z" creationid="nakahodo" creationdate="20180604T154529Z">
         <seg>•	管理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Treasure:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191128Z" creationid="nakahodo" creationdate="20180604T191128Z">
+        <seg>•	トレジャー</seg>
       </tuv>
     </tu>
     <tu>
