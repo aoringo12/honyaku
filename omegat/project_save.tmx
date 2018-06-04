@@ -10981,8 +10981,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose a Form card and place it face down on your sheet.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
-        <seg>Choose a Form card and place it face down on your sheet.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T174407Z" creationid="nakahodo" creationdate="20180604T173956Z">
+        <seg>形態カード1枚を選択し、あなたのプレイヤーボードに裏向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14891,6 +14891,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054250Z" creationid="aorin" creationdate="20171216T054250Z">
         <seg>効果の解決。別途記載がないかぎり、任意の順序で策略の効果を解決でき、解決する効果を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eggs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T174446Z" creationid="nakahodo" creationdate="20180604T174446Z">
+        <seg>•	卵：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27174,6 +27182,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T153906Z" creationid="nakahodo" creationdate="20180604T153906Z">
         <seg>他のパワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T174412Z" creationid="nakahodo" creationdate="20180604T174123Z">
+        <seg>他のルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -43126,6 +43142,22 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152109Z" creationid="nakahodo" creationdate="20171230T152109Z">
         <seg>オートマカード1枚がオートマのチャーターを選択する時、利用可能なミニオンを保つ場合に、占領されている建物全てを無視し、代わりにミニオンつを配置します（場所に関わらず）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an Egg has a total of 5 Blood tokens and Web tokens on it, remove the Egg and its Blood tokens from the board and gain 2 Terror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175015Z" creationid="nakahodo" creationdate="20180604T174951Z">
+        <seg>卵がブラッドトークンを5つ、蜘蛛の巣トークン1つをそこに持っている時、ボードからその卵とブラッドトークンが取り除かれ、恐怖2つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an Egg hatches, it does not remove Webs on its tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T174952Z" creationid="nakahodo" creationdate="20180604T174952Z">
+        <seg>When an Egg hatches, it does not remove Webs on its tile.</seg>
       </tuv>
     </tu>
     <tu>
