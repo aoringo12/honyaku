@@ -7916,6 +7916,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any player pieces or tokens on the tile move with it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184037Z" creationid="nakahodo" creationdate="20180604T184037Z">
+        <seg>タイル上にある任意のトークンやプレイヤーピースはタイルと共に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any rules that reference the "number" of a card on the advancement mat are referring to the number on the bottom right of the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100052Z" creationid="nakahodo" creationdate="20180108T095958Z">
@@ -11055,6 +11063,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082729Z" creationid="aorin" creationdate="20180409T082729Z">
         <seg>手札からタイル1枚を選択し、マップの任意のタイルに隣接するよう、ダークたサイドを上にしてこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose any tile on the board and move it to an open space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184105Z" creationid="nakahodo" creationdate="20180604T184105Z">
+        <seg>ボード上の任意のタイル1枚を選択し、空きスペースへと移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19377,6 +19393,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T105517Z" creationid="nakahodo" creationdate="20180430T105517Z">
         <seg>全てのディスクが使用されており、さらに必要な場合（にくぅ！、武器庫、モンスター）、筋力ディスクが利用可能になるまでそのカードは効果を持たず、利用可能になった時点でそのカードの効果を発動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all spaces on the board contain tiles, you can use this power to swap the spaces of two tiles instead of shifting one tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184937Z" creationid="nakahodo" creationdate="20180604T184937Z">
+        <seg>ボードのスペース全てにタイルが配置されている場合、このパワーを使用することで、タイル1枚をシフトする代わりに、タイル2枚の位置をスワップできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32068,6 +32092,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHIFT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184041Z" creationid="nakahodo" creationdate="20180604T184041Z">
+        <seg>シフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SHOOTY</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T153254Z" creationid="nakahodo" creationdate="20180603T153234Z">
@@ -39290,6 +39322,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tile must be placed in an unoccupied open space, and you can reorient the tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184559Z" creationid="nakahodo" creationdate="20180604T184559Z">
+        <seg>タイルは未占領空きスペースに配置する必要があり、あなたはタイルの方向を自由に決めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tile the Dragon is on is unaffected.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134752Z" creationid="nakahodo" creationdate="20171127T134752Z">
@@ -43621,6 +43661,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When moving the tile, ignore all walls, player pieces, tokens, and open spaces between its origin and destination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184428Z" creationid="nakahodo" creationdate="20180604T184428Z">
+        <seg>タイルを移動する時、移動元から移動先までの間にある、全ての壁、プレイヤーピース、トークン、空きスペースは無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When moving the tile, ignore all walls, player pieces, tokens, and open spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183631Z" creationid="nakahodo" creationdate="20180604T183631Z">
@@ -45852,6 +45900,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can move it as many spaces based on the number of assigned Omens, as listed on the player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184229Z" creationid="nakahodo" creationdate="20180604T184229Z">
+        <seg>移動できるスペースの数は、プレイヤーボードに示されるように、割り当てられた前兆トークンの数により変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can never promote a Pixie to an action field on the same or on a lower level in the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
@@ -47272,6 +47328,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053402Z" creationid="aorin" creationdate="20171228T235732Z">
         <seg>あなたにはそんな一日の終わりに飲みながら愚痴をこぼす相手がいないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You move half the distance if the tile is occupied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184249Z" creationid="nakahodo" creationdate="20180604T184249Z">
+        <seg>移動するタイルが占領されていた場合、移動距離が半分になります。</seg>
       </tuv>
     </tu>
     <tu>
