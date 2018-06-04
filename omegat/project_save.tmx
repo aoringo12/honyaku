@@ -8877,6 +8877,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of your first turn, place the Wraith on any unoccupied Dark tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182737Z" creationid="nakahodo" creationdate="20180604T182718Z">
+        <seg>あなたの最初のターンの開始時に、任意の未占領のダークタイルにレイスピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of your turn, all of your statistics begin at 1, as shown by the large symbol to the left of each statistic track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T054615Z" creationid="nakahodo" creationdate="20180601T054615Z">
@@ -10773,6 +10781,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing Form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182038Z" creationid="nakahodo" creationdate="20180604T182038Z">
+        <seg>形態変化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charismatic</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003428Z" creationid="aorin" creationdate="20171216T003428Z">
@@ -11358,6 +11374,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034944Z" creationid="aorin" creationdate="20180408T034944Z">
         <seg>洞窟を崩壊させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collect 12 Omen cubes in a supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182606Z" creationid="nakahodo" creationdate="20180604T182545Z">
+        <seg>サプライとして前兆キューブ12個を集めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12989,6 +13013,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T064330Z" creationid="nakahodo" creationdate="20180209T064330Z">
         <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Events and Place Treasures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182909Z" creationid="nakahodo" creationdate="20180604T182909Z">
+        <seg>イベントカードのドローとトレジャーの配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -14691,6 +14723,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T190936Z" creationid="nakahodo" creationdate="20180601T190936Z">
         <seg>各タイルはランプトークン1つのみを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each tile can hold up to 3 Webs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T181956Z" creationid="nakahodo" creationdate="20180604T181956Z">
+        <seg>各タイルは蜘蛛の巣を3つまで保持できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16911,6 +16951,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071605Z" creationid="nakahodo" creationdate="20180413T071605Z">
         <seg>11輝きを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 15 Mold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182515Z" creationid="nakahodo" creationdate="20180604T182515Z">
+        <seg>モールド15個を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19907,6 +19955,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no such tile exists, place a Dark tile and then place the Wraith on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182814Z" creationid="nakahodo" creationdate="20180604T182718Z">
+        <seg>そのようなタイルが無い場合、ダークタイル1枚を配置し、その後、そこにレイスピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no such tile exists, place a Dark tile from your hand, and then place the Ghost piece there.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035356Z" creationid="aorin" creationdate="20180408T035356Z">
@@ -21596,6 +21652,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T154520Z" creationid="nakahodo" creationdate="20180430T154520Z">
         <seg>そうした場合、他のカードを破棄した後で、通常より1枚少なくカードをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do, place a Spiderling in an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182145Z" creationid="nakahodo" creationdate="20180604T182145Z">
+        <seg>そうした場合、そこに隣接したスペースに蜘蛛の子1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25844,6 +25908,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next, place the Spiderling Form card face up on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182329Z" creationid="nakahodo" creationdate="20180604T182246Z">
+        <seg>次に、あなたのプレイヤーボード上に蜘蛛の子形態カードを表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next, she sets out the remaining Possession cards, finding that the Possessed Goblins and Possessed Vile Ghoul share position 2 in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T015502Z" creationid="aorin" creationdate="20180408T015502Z">
@@ -28158,6 +28230,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 9 Poltergeist pieces near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182626Z" creationid="nakahodo" creationdate="20180604T182615Z">
+        <seg>ポルターガイストピースをあなたのプレイヤーボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -28357,6 +28437,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T161102Z" creationid="nakahodo" creationdate="20180604T161102Z">
         <seg>視線が通っているピースの下か、視線が通っているスペースに蜘蛛の巣トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a cube on the “0” space of the Mold track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182655Z" creationid="nakahodo" creationdate="20180604T182640Z">
+        <seg>モールドトラックの「0」スペースにキューブ1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29049,6 +29137,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204730Z" creationid="nakahodo" creationdate="20171218T145840Z">
         <seg>あなたの前に、ペルソナカード1枚、建築された建物カード1枚、2ワーカー、12影響トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your player board in front of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182526Z" creationid="nakahodo" creationdate="20180604T182526Z">
+        <seg>あなたのプレイヤーボードを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31183,6 +31279,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restore Omens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182929Z" creationid="nakahodo" creationdate="20180604T182929Z">
+        <seg>前兆のリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restricted effects include the Knight’s Bow and Enchanted Bow, the Goblins’ Hex, Hiding Spots, and Slingshot Secrets cards, the Dragon’s Hiss and Slap powers, the Cave’s Giant Bats omen, the Thief’s Hand Crossbow and Warlock’s Wand, and the Ghost’s Telekinesis and Possession.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T160752Z" creationid="nakahodo" creationdate="20180430T160752Z">
@@ -32922,6 +33026,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle the Event cards into a deck, place it next to your board, and draw 3 cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182717Z" creationid="nakahodo" creationdate="20180604T182717Z">
+        <seg>イベントカードをシャッフルしてデッキを作り、あなたのプレイヤーボード近くにこれを配置し、カード3枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle the Gear cards, then place them face down in a stack near your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203210Z" creationid="nakahodo" creationdate="20180601T203210Z">
@@ -33750,6 +33862,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend Omens and Resolve</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182825Z" creationid="nakahodo" creationdate="20180604T182825Z">
+        <seg>前兆トークンの消費と解決</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend [INF+1] movement points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082603Z" creationid="aorin" creationdate="20180409T082603Z">
@@ -34477,6 +34597,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040529Z" creationid="aorin" creationdate="20171213T040529Z">
         <seg>共通サプライからシルバーを2つ取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take 4 Omens and put them in the Omens box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182600Z" creationid="nakahodo" creationdate="20180604T182600Z">
+        <seg>前兆キューブ4つを取り、前兆ボックスにそれらを入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36374,6 +36502,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220419Z" creationid="aorin" creationdate="20180528T220419Z">
         <seg>メイジはプレイヤー1に、クレリックはプレイヤー2に惹きつけられr、シーフは町に留まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Manor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182448Z" creationid="nakahodo" creationdate="20180604T182448Z">
+        <seg>館</seg>
       </tuv>
     </tu>
     <tu>
@@ -39279,6 +39415,14 @@ positive part of the score track is difficult!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122622Z" creationid="nakahodo" creationdate="20171213T122622Z">
         <seg>その後、あなたの個人サプライから特別な提供トラックへと、あなたの選択したリソース（食料、シルバーゴールド）を追加で1つ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then place all of your remaining Spiderlings adjacent to other Spiderlings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182256Z" creationid="nakahodo" creationdate="20180604T182242Z">
+        <seg>その後、残っている蜘蛛の子たち全てを、他の蜘蛛の子に隣接するように配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42785,6 +42929,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Walk and Fly</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182859Z" creationid="nakahodo" creationdate="20180604T182854Z">
+        <seg>歩きと浮遊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Walk.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090257Z" creationid="nakahodo" creationdate="20180413T075927Z">
@@ -43206,6 +43358,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152418Z" creationid="nakahodo" creationdate="20171230T152418Z">
         <seg>対戦相手1人がオートマミニオンのある建物にワーカー1つを配置する時、そのオートマは1VPを得て、他はなにも得せん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an opposing player piece enters a tile with any Webs, remove all of the Webs there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182032Z" creationid="nakahodo" creationdate="20180604T182032Z">
+        <seg>対戦相手のプレイヤーピースが蜘蛛の巣のあるタイルに入った時、そこにある蜘蛛の巣は全て取り除かれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44373,6 +44533,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154708Z" creationid="nakahodo" creationdate="20171230T154708Z">
         <seg>あなたが進展トークンを進めるたびに、1VPを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you are attacked while in Giant Spider or Caster form, you may change into Spiderling form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182125Z" creationid="nakahodo" creationdate="20180604T182125Z">
+        <seg>あなたがジャイアントスパイダーかキャスター形態の時にアタックされるたび、あなたは蜘蛛の子形態に変化できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47528,6 +47696,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214018Z" creationid="nakahodo" creationdate="20180531T214018Z">
         <seg>この順番でプレイすることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will remain in Spiderling form throughout your next turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T182446Z" creationid="nakahodo" creationdate="20180604T182446Z">
+        <seg>あなたは次のターンを通して、蜘蛛の子形態を維持することになります。</seg>
       </tuv>
     </tu>
     <tu>
