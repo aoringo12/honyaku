@@ -42363,6 +42363,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web Weaver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151154Z" creationid="nakahodo" creationdate="20180604T151154Z">
+        <seg>Web Weaver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Webs Slow.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T230022Z" creationid="nakahodo" creationdate="20180531T230022Z">
@@ -45140,6 +45148,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can play Eyes, Fangs, and Web cards from your hand to take the actions listed on your Form card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151057Z" creationid="nakahodo" creationdate="20180604T151057Z">
+        <seg>あなたは目、牙、蜘蛛の巣カードをあなたの手札からプレイすることで、形態カードに記述されたアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can play any number of Spells per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T134159Z" creationid="nakahodo" creationdate="20180525T134159Z">
@@ -47087,6 +47103,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Defense varies based on your form and your Terror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T150935Z" creationid="nakahodo" creationdate="20180604T150935Z">
+        <seg>あなたの防御力はその時の形態と恐怖値を基準にして変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Focus, which may increase through play, sets your Movement and Influence for the current turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133845Z" creationid="nakahodo" creationdate="20180406T133543Z">
@@ -47323,6 +47347,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T142633Z" creationid="nakahodo" creationdate="20180430T142356Z">
         <seg>あなたの怒りの最大値が4に上昇する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your movement and powers will vary widely based on your form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151152Z" creationid="nakahodo" creationdate="20180604T151152Z">
+        <seg>あなたの移動力とパワーはその形態によって大きく変化するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
