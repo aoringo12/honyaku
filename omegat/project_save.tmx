@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(During your first turn, this will be the Giant Spider.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143103Z" creationid="nakahodo" creationdate="20180604T143028Z">
+        <seg>（あなたのゲーム最初のターン時、これはジャイアントスパイダーとなります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(During your first turn, you will place two Skeletons.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T133850Z" creationid="nakahodo" creationdate="20180603T133843Z">
@@ -10899,6 +10907,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Your Form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143003Z" creationid="nakahodo" creationdate="20180604T143003Z">
+        <seg>形態を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a difficulty level:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024602Z" creationid="aorin" creationdate="20180408T024602Z">
@@ -12845,6 +12861,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T064330Z" creationid="nakahodo" creationdate="20180209T064330Z">
         <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Power Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143008Z" creationid="nakahodo" creationdate="20180604T143008Z">
+        <seg>パワーカードのドロー</seg>
       </tuv>
     </tu>
     <tu>
@@ -20920,6 +20944,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are in Caster form, gain 1 Blood and add 1 Blood cube to each Egg on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143727Z" creationid="nakahodo" creationdate="20180604T143727Z">
+        <seg>キャスター形態に変化した場合、ブラッドキューブ1つを得て、追加でボード上にある卵1つごとにブラッドキューブ1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in a forest, move all of your damaged items to your exhausted items pool.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083341Z" creationid="aorin" creationdate="20171216T083341Z">
@@ -21784,6 +21816,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you reveal a new form, place the piece of your new form in your space and remove the old piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143611Z" creationid="nakahodo" creationdate="20180604T143030Z">
+        <seg>新しい形態を公開した場合、あなたのいるスペースに新しい形態のピースを配置し、古いピースをボードからあなたのサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you rule the origin clearing, you may move your warriors to any​ adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T215508Z" creationid="aorin" creationdate="20171215T215250Z">
@@ -21862,6 +21902,22 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T082224Z" creationid="nakahodo" creationdate="20180413T082224Z">
         <seg>あなたがトレジャーやジェムをスタッシュした場合、シーフプレイヤーがアップグレードを選択肢ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you switch out of Spiderling form, place the piece for your new form in any space with a Spiderling, and return all Spiderlings from the board to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143553Z" creationid="nakahodo" creationdate="20180604T143255Z">
+        <seg>蜘蛛の子から別の形態に変化した場合、いずれかの蜘蛛の子ピースがいるスペース1つに変化先形態のピースを配置し、全ての蜘蛛の子ピースをボードからあなたのサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you switch to Spiderling form, place all of the Spiderlings in your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143235Z" creationid="nakahodo" creationdate="20180604T143235Z">
+        <seg>蜘蛛の子形態に変化した場合、あなたのスペースに全ての蜘蛛の子ピースを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28171,6 +28227,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Caster and Spiderling pieces near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142940Z" creationid="nakahodo" creationdate="20180604T142940Z">
+        <seg>キャスターと蜘蛛の子ピースはあなたのプレイヤーボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Devotion cubes (white) near your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T053806Z" creationid="nakahodo" creationdate="20180601T053600Z">
@@ -28227,6 +28291,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the Giant Spider on the Abyss tile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142947Z" creationid="nakahodo" creationdate="20180604T142919Z">
+        <seg>アビスタイルにジャイアントスパイダーピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the Influence Point (IP) tokens, separated by discipline, next to the map within reach of all players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193345Z" creationid="aorin" creationdate="20180114T193345Z">
@@ -28271,6 +28343,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193801Z" creationid="aorin" creationdate="20180114T193801Z">
         <seg>諜報アイコンのある6つの空きスペースに、スパイマスターアクションタイルを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Terror cubes, Blood cubes, Web tokens, and Egg tokens in your supply near your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142901Z" creationid="nakahodo" creationdate="20180604T142901Z">
+        <seg>恐怖キューブ、ブラッドキューブ、蜘蛛の巣トークン、卵トークンをあなたのプレイヤーボード近くに配置して、サプライとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30847,6 +30927,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal Your Form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142957Z" creationid="nakahodo" creationdate="20180604T142957Z">
+        <seg>形態を公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal a Dark tile with a Goblin Tribe or the [Vile] Ghoul on it, then attack that player on the same Encounter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T143405Z" creationid="nakahodo" creationdate="20180413T143405Z">
@@ -30894,6 +30982,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210028Z" creationid="aorin" creationdate="20180528T210028Z">
         <seg>ゲームのアクティブなプレイヤーごとにヒーローカード1枚を公開する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal the form card on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T143028Z" creationid="nakahodo" creationdate="20180604T143028Z">
+        <seg>あなたのプレイヤーボードの形態カードを公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32406,6 +32502,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203210Z" creationid="nakahodo" creationdate="20180601T203210Z">
         <seg>装備カードをシャッフルし、その後、プレイヤーボード近くに装備カードデッキを裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the Power cards into a deck, and draw 3 card to form your starting hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T142756Z" creationid="nakahodo" creationdate="20180604T142756Z">
+        <seg>パワーカードをシャッフルしてデッキを作り、そこからカード3枚をドローして、これをあなたの開始手札とします。</seg>
       </tuv>
     </tu>
     <tu>
