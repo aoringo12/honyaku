@@ -12385,6 +12385,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard 2 cards of any suits to place an Egg in your space or any visible space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162925Z" creationid="nakahodo" creationdate="20180604T162925Z">
+        <seg>任意の1種類のパワーカード2枚を捨て札にすることで、あなたのスペースか視線が通る任意のスペースに卵1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard X Omen tokens (Cave [Ghost] chooses).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T160150Z" creationid="nakahodo" creationdate="20180413T160150Z">
@@ -12477,6 +12485,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T154232Z" creationid="nakahodo" creationdate="20180604T154232Z">
         <seg>任意のカード2枚を捨て札にすることで、あなたのいるスペースに卵1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard any card to move an extra space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162958Z" creationid="nakahodo" creationdate="20180604T162958Z">
+        <seg>任意のカード1枚を捨て札にすることで、追加で1スペース移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13963,6 +13979,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T134635Z" creationid="nakahodo" creationdate="20180525T134556Z">
         <seg>各スペルは建築フェイズ○、冒険フェイズ○、その両方○時にプレイできるかどうかを示すアイコンを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Spiderling on the board gets 4 Movement and can cross walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163219Z" creationid="nakahodo" creationdate="20180604T163219Z">
+        <seg>ボード上にいる蜘蛛の子はそれぞれ移動力4を得て、壁を抜けて移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21428,6 +21452,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235833Z" creationid="aorin" creationdate="20171231T235833Z">
         <seg>永遠なる王の承認を得ずに村の拡張に空島を使用することに決めた場合は、木箱Fを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you discard 2 matching cards, you can instead teleport 2 spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163035Z" creationid="nakahodo" creationdate="20180604T163035Z">
+        <seg>同じ種類のカード2枚を捨て札にする場合、2スペーステレポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31202,6 +31234,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal all tiles with Spiderlings, and gain 1 Blood per Event symbol you reveal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163647Z" creationid="nakahodo" creationdate="20180604T163647Z">
+        <seg>蜘蛛の子たちのいるタイル全てを公開し、公開したイベントシンボル1つごとにブラッド1得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal and Resolve Dark Tile (required)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061701Z" creationid="nakahodo" creationdate="20180601T061701Z">
@@ -33550,6 +33590,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend 1 Blood to place a Blood token on a visible Egg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163134Z" creationid="nakahodo" creationdate="20180604T163134Z">
+        <seg>ブラッド1つを消費することで、視線が通る卵にブラッドトークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend 1 movement to collect a Treasure or Gem, or spend 2 movement to collect a Gem without rolling.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061330Z" creationid="nakahodo" creationdate="20180413T061330Z">
@@ -33638,6 +33686,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend any card to Loot a Treasure in your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163100Z" creationid="nakahodo" creationdate="20180604T163100Z">
+        <seg>任意のカード1枚を捨て札にすることで、あなたのスペースにあるトレジャー1つを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend one supporter and one card to draw one card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053338Z" creationid="aorin" creationdate="20171216T053338Z">
@@ -33698,6 +33754,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091237Z" creationid="nakahodo" creationdate="20180601T091237Z">
         <seg>蜘蛛の子：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spiderlings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163135Z" creationid="nakahodo" creationdate="20180604T163135Z">
+        <seg>•	蜘蛛の子：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36750,6 +36814,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091520Z" creationid="nakahodo" creationdate="20180601T091453Z">
         <seg>スパイダープレイヤーは蜘蛛の子1匹を選択し、ゲームから取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Spiderlings ignore other player pieces while moving, and other players may ignore them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163531Z" creationid="nakahodo" creationdate="20180604T163459Z">
+        <seg>移動している間、蜘蛛の子たちは他プレイヤーピースを無視し、他プレイヤーたちも蜘蛛の子たちを無視できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45516,6 +45588,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can play Power cards during a Spiderling’s activation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163417Z" creationid="nakahodo" creationdate="20180604T163417Z">
+        <seg>蜘蛛の子1体がアクティブになっている時、その蜘蛛の子のためにパワーカードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can play any number of Spells per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T134159Z" creationid="nakahodo" creationdate="20180525T134159Z">
@@ -46628,6 +46708,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may play Eyes and Fangs cards as Web cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163549Z" creationid="nakahodo" creationdate="20180604T163512Z">
+        <seg>あなたは蜘蛛の巣カードとして、目と牙カードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may play Eyes and Web cards as Fangs cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T152349Z" creationid="nakahodo" creationdate="20180604T152349Z">
@@ -46868,6 +46956,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must finish moving a Spiderling before activating another Spiderling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T163259Z" creationid="nakahodo" creationdate="20180604T163259Z">
+        <seg>蜘蛛の子1体の移動を完全に終了させてから、別の蜘蛛の子をアクティブにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must follow that faction’s rules for building a building, but you do not have to spend wood to build a Marquise building.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072659Z" creationid="aorin" creationdate="20171216T072659Z">
@@ -46952,6 +47048,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074935Z" creationid="aorin" creationdate="20180410T074935Z">
         <seg>プレイヤー人数に+8に等しいだけの怒りを得る必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have 6 Webs on the board to use this power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162726Z" creationid="nakahodo" creationdate="20180604T162726Z">
+        <seg>あなたはこのパワーを使用するために、ボード上に蜘蛛の巣6つを持つ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
