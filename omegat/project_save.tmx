@@ -4809,6 +4809,14 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T173945Z" creationid="nakahodo" creationdate="20180604T173945Z">
+        <seg>4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4+ PLAYERS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T022737Z" creationid="aorin" creationdate="20180408T022726Z">
@@ -10955,10 +10963,26 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
+        <seg>形態の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Your Form</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T143003Z" creationid="nakahodo" creationdate="20180604T143003Z">
         <seg>形態を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a Form card and place it face down on your sheet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
+        <seg>Choose a Form card and place it face down on your sheet.</seg>
       </tuv>
     </tu>
     <tu>
