@@ -13001,6 +13001,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw up to your hand size, which equals your Spirit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T165106Z" creationid="nakahodo" creationdate="20180604T165106Z">
+        <seg>魂ステータスと同数の手札上限数まで、カードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw​ ​Starting​ ​Hands:​ ​Remove the four special victory condition cards from the deck of cards, and set them aside.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132726Z" creationid="aorin" creationdate="20171215T132726Z">
@@ -21156,6 +21164,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T143727Z" creationid="nakahodo" creationdate="20180604T143727Z">
         <seg>キャスター形態に変化した場合、ブラッドキューブ1つを得て、追加でボード上にある卵1つごとにブラッドキューブ1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are in Caster form, you may draw 3 extra cards and then discard down to your hand size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T173944Z" creationid="nakahodo" creationdate="20180604T173944Z">
+        <seg>あなたがキャスター形態の場合、さらに3枚のパワーカードをドローし、その後手札上限までカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
