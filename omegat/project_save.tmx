@@ -26453,6 +26453,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once per turn, discard any card to gain 1 Terror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162552Z" creationid="nakahodo" creationdate="20180604T162356Z">
+        <seg>ターンごとに1度、任意のカード1枚を捨て札にすることで、恐怖1を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once per turn, spend 1 Blood to place a Blood cube on all Eggs within 2 spaces of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T154951Z" creationid="nakahodo" creationdate="20180604T154951Z">
@@ -50992,8 +51000,8 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>► Dread:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162343Z" creationid="nakahodo" creationdate="20180604T162343Z">
-        <seg>•	</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162527Z" creationid="nakahodo" creationdate="20180604T162343Z">
+        <seg>•	不穏：</seg>
       </tuv>
     </tu>
     <tu>
