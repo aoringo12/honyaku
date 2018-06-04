@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Wraith does not have to follow the path listed on the card.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190432Z" creationid="nakahodo" creationdate="20180604T190432Z">
+        <seg>（レイスはカードに記述された道に従う必要があります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The attack will force you to Teleport again, so you won’t continue to the next step for this Teleport.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111004Z" creationid="nakahodo" creationdate="20180411T195755Z">
@@ -19655,6 +19663,14 @@ enough to place onto the list, it is removed from play.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he cannot move, he loses 3 Grit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190924Z" creationid="nakahodo" creationdate="20180604T190924Z">
+        <seg>パラディンが移動できない場合、3経験値失わせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he had developed his southern Village into a City, this scenario would have been averted.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151403Z" creationid="aorin" creationdate="20180115T151403Z">
@@ -29426,6 +29442,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play an Event card to gain 2 Movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190250Z" creationid="nakahodo" creationdate="20180604T190228Z">
+        <seg>イベントカード1枚をプレイすることで、移動力2を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play begins with the Marquise and then continues to the Eyrie, the Alliance, and the Vagabond.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233351Z" creationid="aorin" creationdate="20171215T233351Z">
@@ -37178,6 +37202,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Spider must move to an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T191000Z" creationid="nakahodo" creationdate="20180604T190937Z">
+        <seg>スパイダーは隣接スペースに移動しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Spider player removes a Spiderling from the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091520Z" creationid="nakahodo" creationdate="20180601T091453Z">
@@ -42443,8 +42475,8 @@ the most.</seg>
       <tuv lang="EN-US">
         <seg>Unlike the other roles, the Wraith does not have Strength and has very different rules for moving and attacking, as described below.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185814Z" creationid="nakahodo" creationdate="20180604T185814Z">
-        <seg>Unlike the other roles, the Wraith does not have Strength and has very different rules for moving and attacking, as described below.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190227Z" creationid="nakahodo" creationdate="20180604T185814Z">
+        <seg>他のプレイヤーロールと違い、レイスは筋力を持たず、下記に示すように、非常に異なったルールを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43029,6 +43061,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WALK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190231Z" creationid="nakahodo" creationdate="20180604T190227Z">
+        <seg>歩く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WALL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T185130Z" creationid="nakahodo" creationdate="20180604T185130Z">
@@ -43093,6 +43133,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090257Z" creationid="nakahodo" creationdate="20180413T075927Z">
         <seg>歩く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walking is used to clear space for Flight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190632Z" creationid="nakahodo" creationdate="20180604T190632Z">
+        <seg>歩きは、浮遊のためのスペースを開けるために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43913,6 +43961,22 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T155030Z" creationid="nakahodo" creationdate="20180412T155030Z">
         <seg>ユニコーンが暴走を実行する時、次の優先順位に従い対象のプレイヤーピースを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Wraith enters a space with a Lamp, Dancing Lights, or Web token, remove the token without effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190748Z" creationid="nakahodo" creationdate="20180604T190700Z">
+        <seg>レイスがランプ、ダンシングライト、蜘蛛の巣トークンのあるスペースに入った時、効果無くトークンを取り除けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Wraith enters a space with a player piece, do the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190844Z" creationid="nakahodo" creationdate="20180604T190702Z">
+        <seg>レイスが他プレイヤーピースのいるスペースに入る時、次の効果を適用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47424,6 +47488,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T184249Z" creationid="nakahodo" creationdate="20180604T184249Z">
         <seg>移動するタイルが占領されていた場合、移動距離が半分になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You move the Paladin to an adjacent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190928Z" creationid="nakahodo" creationdate="20180604T190908Z">
+        <seg>隣接スペースにパラディンを強制移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51818,6 +51890,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165115Z" creationid="nakahodo" creationdate="20180603T165115Z">
         <seg>•	スパイダーはパワーカード2枚を選択して捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Spider:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190939Z" creationid="nakahodo" creationdate="20180604T190936Z">
+        <seg>•	スパイダー：</seg>
       </tuv>
     </tu>
     <tu>
