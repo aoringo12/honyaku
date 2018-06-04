@@ -7721,6 +7721,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An Egg has a Defense of 1 plus the number of Blood tokens on them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175505Z" creationid="nakahodo" creationdate="20180604T175505Z">
+        <seg>卵の防御力は、そこに配置されているブラッドトークンの数に1を加えた数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An activated ability is any effect that requires the player to declare its use or pay a cost (for example, "destroy this Room" abilities are activated abilities).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224342Z" creationid="aorin" creationdate="20180528T224342Z">
@@ -14899,6 +14907,22 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T174446Z" creationid="nakahodo" creationdate="20180604T174446Z">
         <seg>•	卵：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eggs do not block the movement of the other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175329Z" creationid="nakahodo" creationdate="20180604T175329Z">
+        <seg>卵は他プレイヤーの移動を阻害しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eggs may be attacked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175346Z" creationid="nakahodo" creationdate="20180604T175346Z">
+        <seg>卵はアタックされる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42883,6 +42907,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Webs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175506Z" creationid="nakahodo" creationdate="20180604T175506Z">
+        <seg>蜘蛛の巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Webs Slow.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T230022Z" creationid="nakahodo" creationdate="20180531T230022Z">
@@ -43156,8 +43188,8 @@ Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>When an Egg hatches, it does not remove Webs on its tile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T174952Z" creationid="nakahodo" creationdate="20180604T174952Z">
-        <seg>When an Egg hatches, it does not remove Webs on its tile.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T175147Z" creationid="nakahodo" creationdate="20180604T174952Z">
+        <seg>卵が孵化する時、そのタイルの蜘蛛の巣は取り除かれません。</seg>
       </tuv>
     </tu>
     <tu>
