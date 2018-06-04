@@ -28201,6 +28201,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Web token under a visible piece or on a visible space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T161102Z" creationid="nakahodo" creationdate="20180604T161102Z">
+        <seg>視線が通っているピースの下か、視線が通っているスペースに蜘蛛の巣トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a random minion on each highlighted plot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224359Z" creationid="aorin" creationdate="20171231T224359Z">
@@ -30716,10 +30724,26 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove an Enchanter disc from your board or the Enchanter’s board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T160722Z" creationid="nakahodo" creationdate="20180604T160722Z">
+        <seg>あなたかエンチャンターのプレイヤーボードから、エンチャンターディスク1つを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove any Ghoul discs on your Attack space and set them beside your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T083708Z" creationid="aorin" creationdate="20180410T083708Z">
         <seg>攻撃スペースのグールディスクを取り除き、それらをプレイヤーボードの側に置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T160619Z" creationid="nakahodo" creationdate="20180604T160619Z">
+        <seg>これを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31921,6 +31945,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T145325Z" creationid="nakahodo" creationdate="20180603T145325Z">
         <seg>離散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scatter the Skeleton.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T160543Z" creationid="nakahodo" creationdate="20180604T160543Z">
+        <seg>スケルトン離散します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50954,6 +50986,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T135150Z" creationid="nakahodo" creationdate="20180603T135150Z">
         <seg>•	集める！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Dread:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T162343Z" creationid="nakahodo" creationdate="20180604T162343Z">
+        <seg>•	</seg>
       </tuv>
     </tu>
     <tu>
