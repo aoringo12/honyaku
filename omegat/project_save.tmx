@@ -8869,6 +8869,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of your turn, gain 1 Blood and add 1 Blood cube to each Egg on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155051Z" creationid="nakahodo" creationdate="20180604T155051Z">
+        <seg>あなたのターン開始時、ブラッドキューブ1と、ボード上にある卵1つごとに追加のブラッドキューブ1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of your turn, gain a Fire Devotion.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T161855Z" creationid="nakahodo" creationdate="20180601T161855Z">
@@ -8945,6 +8953,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T143159Z" creationid="nakahodo" creationdate="20180413T143159Z">
         <seg>モンスターと居るゴブリン部族1つ、またはグール（またはバイルグール）、またはドラゴンかユニコーンを攻撃してそれらを成功させる、またはシーフを攻撃して殺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attack a visible player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155309Z" creationid="nakahodo" creationdate="20180604T155309Z">
+        <seg>視線が通っているプレイヤーピースへとアタックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10638,14 @@ in players’ Neighborhoods.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045814Z" creationid="aorin" creationdate="20171213T045814Z">
         <seg>カジノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caster</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154954Z" creationid="nakahodo" creationdate="20180604T154954Z">
+        <seg>キャスター</seg>
       </tuv>
     </tu>
     <tu>
@@ -12437,6 +12461,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042635Z" creationid="aorin" creationdate="20171231T234900Z">
         <seg>全ての個人目標カードはゲーム終了時に捨て札にされます（未達成でも次に引き継がれません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard any 1 card to Loot a Treasure in your space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154439Z" creationid="nakahodo" creationdate="20180604T154439Z">
+        <seg>任意のカード1枚を捨て札にすることで、あなたのスペースにあるトレジャー1つを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16767,6 +16799,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071605Z" creationid="nakahodo" creationdate="20180413T071605Z">
         <seg>11輝きを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain 2 Blood per Event symbol you reveal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155254Z" creationid="nakahodo" creationdate="20180604T155254Z">
+        <seg>公開されるイベントシンボルごとに、ブラッド2得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26405,6 +26445,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once per turn, spend 1 Blood to place a Blood cube on all Eggs within 2 spaces of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154951Z" creationid="nakahodo" creationdate="20180604T154951Z">
+        <seg>ターンごとに1度、ブラッド1を消費することで、あなたから2スペース以内の全ての卵にブラッドキューブ1ずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once per turn, when activated, Casty may spend 1 Stability to place a Dancing Lights token on any adjacent tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T151219Z" creationid="nakahodo" creationdate="20180603T151219Z">
@@ -31118,6 +31166,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061701Z" creationid="nakahodo" creationdate="20180601T061701Z">
         <seg>ダークタイルの公開と解決（必須）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal any tile on the board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155224Z" creationid="nakahodo" creationdate="20180604T155224Z">
+        <seg>ボード上の任意のタイル1枚を公開できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45444,6 +45500,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can see through Dark tiles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155648Z" creationid="nakahodo" creationdate="20180604T155648Z">
+        <seg>あなたの視線はダークタイルを通り抜けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can spend 1 Light to place a Lamp token on your tile or an adjacent visible tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T190849Z" creationid="nakahodo" creationdate="20180601T190849Z">
@@ -45576,6 +45640,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T205744Z" creationid="aorin" creationdate="20180528T205744Z">
         <seg>いずれかの他プレイヤーが反応する前に（たとえ自分よりそのプレイヤーのXPが高くても）、任意の数のスペルと能力を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use as many powers as you want.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155157Z" creationid="nakahodo" creationdate="20180604T155157Z">
+        <seg>望むだけのパワーを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45976,6 +46048,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T135730Z" creationid="nakahodo" creationdate="20171230T135155Z">
         <seg>お前は最後の印象をつけるために一ヶ月ある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have 2 Movement to spend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155108Z" creationid="nakahodo" creationdate="20180604T155108Z">
+        <seg>移動力2を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46496,6 +46576,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T152349Z" creationid="nakahodo" creationdate="20180604T152349Z">
         <seg>あなたは牙カードとして、目と蜘蛛の巣カードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may play Fangs and Web cards as Eyes cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T155212Z" creationid="nakahodo" creationdate="20180604T155212Z">
+        <seg>目カードとして、牙と蜘蛛の巣カードをプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50950,6 +51038,14 @@ in the same tile.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>► Loot:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154357Z" creationid="nakahodo" creationdate="20180604T154357Z">
+        <seg>•	略奪：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>► Paladin loses 2 Grit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165051Z" creationid="nakahodo" creationdate="20180603T165051Z">
@@ -51034,6 +51130,14 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T135625Z" creationid="nakahodo" creationdate="20180603T135625Z">
         <seg>•	トンネル！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>► Tend:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T154529Z" creationid="nakahodo" creationdate="20180604T154529Z">
+        <seg>•	管理：</seg>
       </tuv>
     </tu>
     <tu>
