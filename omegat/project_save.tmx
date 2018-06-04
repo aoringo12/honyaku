@@ -11067,6 +11067,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose and reveal a number of Dark tiles based on the number of assigned Omens, as listed on your player board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185102Z" creationid="nakahodo" creationdate="20180604T185102Z">
+        <seg>ダークタイルを選択して公開します。公開する数は、プレイヤーボードに示されるように、割り当てられた前兆トークンの数によって変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose any tile on the board and move it to an open space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T184105Z" creationid="nakahodo" creationdate="20180604T184105Z">
@@ -16576,6 +16584,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Force Walls are treated as walls for all purposes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185355Z" creationid="nakahodo" creationdate="20180604T185244Z">
+        <seg>フォースウォールは壁として扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forced Movement</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T000345Z" creationid="aorin" creationdate="20180408T000345Z">
@@ -19622,6 +19638,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If either tile is rotated or moved, or a Dark tile is revealed and oriented with a normal wall on the same edge, return the Force Wall token to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185629Z" creationid="nakahodo" creationdate="20180604T185328Z">
+        <seg>いずれかのタイルが回転、または移動したり、ダークタイルが公開され同じ側面に通常の壁ができた場合、フォースウォールトークンはあなたのサプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If for any reason, a new or existing Blend does not rank high
 enough to place onto the list, it is removed from play.</seg>
       </tuv>
@@ -22614,6 +22638,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T200350Z" creationid="nakahodo" creationdate="20180411T200350Z">
         <seg>もう一方のカードの指示は無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immaterial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185807Z" creationid="nakahodo" creationdate="20180604T185807Z">
+        <seg>非物質</seg>
       </tuv>
     </tu>
     <tu>
@@ -28369,6 +28401,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a Force Wall on the shared edge without a wall of any two adjacent tiles (Lit, Dark, or both).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185326Z" creationid="nakahodo" creationdate="20180604T185242Z">
+        <seg>任意の隣接するタイル2枚（ライトかダークかは問わない）が共有する、壁のない側面にフォースウォールを1つ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a Hideout and one warrior on any clearing with an empty slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144748Z" creationid="aorin" creationdate="20171215T144744Z">
@@ -30479,6 +30519,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224431Z" creationid="nakahodo" creationdate="20171224T224431Z">
         <seg>回収：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REVEAL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T184942Z" creationid="nakahodo" creationdate="20180604T184942Z">
+        <seg>公開</seg>
       </tuv>
     </tu>
     <tu>
@@ -37669,6 +37717,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The avatar of the Mansion on the physical plane is the Wrath.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T190137Z" creationid="nakahodo" creationdate="20180604T185813Z">
+        <seg>レイスは物体である館の化身です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The battle is considered a draw.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T071434Z" creationid="aorin" creationdate="20180115T071434Z">
@@ -42385,6 +42441,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike the other roles, the Wraith does not have Strength and has very different rules for moving and attacking, as described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185814Z" creationid="nakahodo" creationdate="20180604T185814Z">
+        <seg>Unlike the other roles, the Wraith does not have Strength and has very different rules for moving and attacking, as described below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock at yourownpace!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210502Z" creationid="aorin" creationdate="20180101T210502Z">
@@ -42961,6 +43025,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T093528Z" creationid="nakahodo" creationdate="20171001T093054Z">
         <seg>ビバジャワ：コーヒーゲームは各ラウンドが3つのフェイズに別れた、複数のラウンドによってされます： </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WALL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185130Z" creationid="nakahodo" creationdate="20180604T185130Z">
+        <seg>壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -45988,6 +46060,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can play Event cards from your hand to Walk or Fly, in any order and number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185755Z" creationid="nakahodo" creationdate="20180604T185755Z">
+        <seg>あなたは自身の手札からイベントカードをプレイすることで、任意の順序、任意の回数で歩く、または浮遊アクションができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can play Eyes, Fangs, and Web cards from your hand to take the actions listed on your Form card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T151057Z" creationid="nakahodo" creationdate="20180604T151057Z">
@@ -46680,6 +46760,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T225519Z" creationid="aorin" creationdate="20180528T225519Z">
         <seg>ターン毎にルーム1つを建築でき、建築するときにダンジョンのルームを再配置はできず（カードに特に記述がなければ）、裏向きのルームを建築できず、最大5つまでの有効ルームを建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may choose any Dark tiles on the board, and may reveal them in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T185128Z" creationid="nakahodo" creationdate="20180604T185128Z">
+        <seg>あなたはボードの任意のダークタイルを選択し、任意の順番でそれらを公開できます。</seg>
       </tuv>
     </tu>
     <tu>
