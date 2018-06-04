@@ -7161,6 +7161,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Agile but Hated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152044Z" creationid="nakahodo" creationdate="20180604T151745Z">
+        <seg>素早くて嫌われ者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aid</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083024Z" creationid="aorin" creationdate="20171216T083024Z">
@@ -14889,8 +14897,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Entering a space with another player piece prompts an attack if their Strength is greater than your Defense.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T150824Z" creationid="nakahodo" creationdate="20180604T150824Z">
-        <seg>別のプレイヤーピースのいるスペースに入る時、相手の筋力があなたの防御力よりも高い場合、アタックが指示されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152148Z" creationid="nakahodo" creationdate="20180604T150824Z">
+        <seg>あなたが対戦相手プレイヤーピースのいるスペースに入る時、相手の筋力があなたの防御力よりも高い場合、そのプレイヤーピースがあなたへとアタックしてきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17193,6 +17201,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giant Spider</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152014Z" creationid="nakahodo" creationdate="20180604T152004Z">
+        <seg>ジャイアントスパイダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giant Spider or Caster:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T091446Z" creationid="nakahodo" creationdate="20180601T091446Z">
@@ -18377,6 +18393,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064829Z" creationid="aorin" creationdate="20180115T064756Z">
         <seg>しかし、戦闘自体は戦闘ステージまで解決されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, entering a tile with another player piece may prompt them to attack her, if their Strength is greater than her Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152004Z" creationid="nakahodo" creationdate="20180604T152004Z">
+        <seg>しかし、そこにいる他プレイヤーピースの筋力があなたの防御力よりも高い場合、そのプレイヤーピースはあなたを攻撃してきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32206,6 +32230,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She can freely enter any tile with another player piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151844Z" creationid="nakahodo" creationdate="20180604T151844Z">
+        <seg>スパイダーは他プレイヤーピースのいる任意のタイルに追加移動力なく自由に入ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She can shoot it with her Bow, causing it to skitter, if her Strength is 2 or greater.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T063910Z" creationid="nakahodo" creationdate="20180413T063910Z">
@@ -41633,6 +41665,30 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike the other roles, the Spider can see through Dark tiles, making more pieces visible to her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151713Z" creationid="nakahodo" creationdate="20180604T151713Z">
+        <seg>他プレイヤーロールとは違い、スパイダーはダークタイルが間にあるとしても、対象に視線を通すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the other roles, the Spider does not need to spend more Movement to enter spaces with Webs, and she does not remove Webs when she moves into tiles with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151539Z" creationid="nakahodo" creationdate="20180604T151539Z">
+        <seg>他プレイヤーロールと違い、スパイダーは蜘蛛の巣のあるスペースに入るのに追加移動力を消費する必要はなく、そこに入る時も蜘蛛の巣を取り除きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the other roles, the Spider has no Strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151758Z" creationid="nakahodo" creationdate="20180604T151758Z">
+        <seg>他プレイヤーロールとは違い、スパイダーは筋力を持ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock at yourownpace!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T210502Z" creationid="aorin" creationdate="20180101T210502Z">
@@ -42365,8 +42421,8 @@ COMPONENTS</seg>
       <tuv lang="EN-US">
         <seg>Web Weaver</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151154Z" creationid="nakahodo" creationdate="20180604T151154Z">
-        <seg>Web Weaver</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T151406Z" creationid="nakahodo" creationdate="20180604T151154Z">
+        <seg>糸織</seg>
       </tuv>
     </tu>
     <tu>
@@ -45004,6 +45060,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can cross only 1 wall per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152252Z" creationid="nakahodo" creationdate="20180604T152252Z">
+        <seg>ターンごとに壁1つのみ、通り抜けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can decide later if you want to harvest their souls to achieve immortality ..</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T224858Z" creationid="nakahodo" creationdate="20171229T224858Z">
@@ -45724,6 +45788,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have 3 Movement to spend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152234Z" creationid="nakahodo" creationdate="20180604T152234Z">
+        <seg>移動力3を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You lose if 5 Crystal tiles collapse.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024759Z" creationid="aorin" creationdate="20180408T024646Z">
@@ -46224,6 +46296,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031714Z" creationid="nakahodo" creationdate="20171224T145020Z">
         <seg>あなたはツェッペリンにワーカー1つを配置し、個人サプライから建物カード1枚を使用して自身のチャーターの空いた区画1つへと建物を建築することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may play Eyes and Web cards as Fangs cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T152349Z" creationid="nakahodo" creationdate="20180604T152349Z">
+        <seg>あなたは牙カードとして、目と蜘蛛の巣カードをプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
