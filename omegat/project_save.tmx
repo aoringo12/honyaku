@@ -14887,6 +14887,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entering a space with another player piece prompts an attack if their Strength is greater than your Defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180604T150824Z" creationid="nakahodo" creationdate="20180604T150824Z">
+        <seg>別のプレイヤーピースのいるスペースに入る時、相手の筋力があなたの防御力よりも高い場合、アタックが指示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entrance:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230840Z" creationid="aorin" creationdate="20180528T230840Z">
