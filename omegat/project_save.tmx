@@ -20817,6 +20817,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Improving Relationships.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T211452Z" creationid="nakahodo" creationdate="20180629T211452Z">
+        <seg>I	関係性の改善。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Item Tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204020Z" creationid="nakahodo" creationdate="20180629T204020Z">
@@ -44117,6 +44125,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chart holds a relationship marker from each non-Vagabond faction in play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T211444Z" creationid="nakahodo" creationdate="20180629T211444Z">
+        <seg>このチャートはゲームをプレイしているヴァガボンド以外の派閥の関係性マーカー1つずつを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This creature has grown quite at home in the Cave, in the—how long has it been now?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T044325Z" creationid="nakahodo" creationdate="20180413T044325Z">
@@ -49576,6 +49592,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153647Z" creationid="nakahodo" creationdate="20171218T153522Z">
         <seg>あなたはマーケットを使用することで、発展マットから表向きのアシスタントカード1枚（または任意の発展カード）を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can improve a relationship with a non-Hostile faction by taking the Aid action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T211656Z" creationid="nakahodo" creationdate="20180629T211656Z">
+        <seg>援助アクションを実行することで、敵対していない派閥との関係性を1段階改善できます。</seg>
       </tuv>
     </tu>
     <tu>
