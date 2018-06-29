@@ -22838,6 +22838,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no sympathetic clearings, you may choose any clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193527Z" creationid="nakahodo" creationdate="20180629T193527Z">
+        <seg>マップ上に賛同区画が無い場合、任意の区画を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are no unconstructed building cards in the advancement deck, don't do anything.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105605Z" creationid="nakahodo" creationdate="20171225T105011Z">
@@ -30849,6 +30857,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a sympathy token in the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194407Z" creationid="nakahodo" creationdate="20180629T194407Z">
+        <seg>選択した区画にシンパシートークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a sympathy token, as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T193237Z" creationid="nakahodo" creationdate="20180629T193237Z">
@@ -34934,6 +34950,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Score the victory points listed on the space revealed on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194515Z" creationid="nakahodo" creationdate="20180629T194515Z">
+        <seg>あなたの派閥ボード上のシンパシートラックにある、公開されたスペースに記述された勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score the victory points shown below the rightmost empty space on your roost track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002756Z" creationid="aorin" creationdate="20171216T002756Z">
@@ -36618,6 +36642,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054038Z" creationid="aorin" creationdate="20171216T054038Z">
         <seg>策略のコストに等しいだけのサポーターを消費して、そのサポーターに一致する民の空いたカードスロットを持つ隠れ家に、カード1枚を表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend supporters matching the nation of the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193600Z" creationid="nakahodo" creationdate="20180629T193600Z">
+        <seg>選択した区画にいる森の民に一致する。支援者カードを指示された枚数、消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41294,6 +41326,14 @@ determined by the desired Plan’s Cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102528Z" creationid="nakahodo" creationdate="20180413T102528Z">
         <seg>明らかにされたクリスタルタイルの数（崩壊されたタイルを含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of supporters that must be spent is listed above the sympathy token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193634Z" creationid="nakahodo" creationdate="20180629T193634Z">
+        <seg>消費する支援者カードの枚数は、シンパシートークンの上部に記述されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51020,6 +51060,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must spend another matching supporter if the target clearing has at least three warriors belonging to another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194351Z" creationid="nakahodo" creationdate="20180629T194341Z">
+        <seg>対象区画が他プレイヤーに属する戦士を少なくとも3体を持つ場合、あなたは支援者を追加で1枚、消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must spend this Movement immediately, and you cannot move this Skeleton into a tile that would make you attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T152839Z" creationid="nakahodo" creationdate="20180603T152839Z">
@@ -51868,6 +51916,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T094918Z" creationid="nakahodo" creationdate="20180108T094918Z">
         <seg>____________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a Martial Law.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193724Z" creationid="nakahodo" creationdate="20180629T193724Z">
+        <seg>a	厳戒令。</seg>
       </tuv>
     </tu>
     <tu>
