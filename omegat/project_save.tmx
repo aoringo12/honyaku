@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Pieces may be moved into this clearing.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140939Z" creationid="nakahodo" creationdate="20180629T140939Z">
+        <seg>（ピースはこの空き地に移動できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Place the Hero beside the leftmost Room in that dungeon.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214836Z" creationid="aorin" creationdate="20180528T214836Z">
@@ -5610,6 +5618,38 @@ KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145606Z" creationid="nakahodo" creationdate="20171218T145606Z">
         <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.1 Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140004Z" creationid="nakahodo" creationdate="20180629T140004Z">
+        <seg>6.1	概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.2 Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140712Z" creationid="nakahodo" creationdate="20180629T140712Z">
+        <seg>6.2	派閥ルールと能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.2.1 Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140725Z" creationid="nakahodo" creationdate="20180629T140719Z">
+        <seg>6.2.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.2.2 The Keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140826Z" creationid="nakahodo" creationdate="20180629T140826Z">
+        <seg>6.2.2	維持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15551,6 +15591,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time the Marquise builds one of her buildings—a workshop, sawmill, or recruiter—she scores victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140202Z" creationid="nakahodo" creationdate="20180629T140202Z">
+        <seg>自身の建物（作業場、製材所、雇用所）の内1つを建築するたびに、マルキスは勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time the Unicorn enters a new space, follow these steps in order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142040Z" creationid="nakahodo" creationdate="20180412T142040Z">
@@ -19627,6 +19675,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094424Z" creationid="aorin" creationdate="20171212T094334Z">
         <seg>その一方で、大きなキューブは小さなキューブの順番に合わせて変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, to fuel ongoing construction, the Marquise must maintain and protect a strong, interconnected economy of wood, which make for easy targets for her adversaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140704Z" creationid="nakahodo" creationdate="20180629T140704Z">
+        <seg>しかし、燃料を供給し続けるために、マルキスは敵対者に簡単に狙われる木材の供給の強固に守り、維持し続ける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28213,6 +28269,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T031518Z" creationid="aorin" creationdate="20180115T031518Z">
         <seg>湖と森のみが、彼が現在制御している地域（首都）に隣接しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the Marquise can place pieces in the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140901Z" creationid="nakahodo" creationdate="20180629T140901Z">
+        <seg>マルキスはトークンを保持するために空き地にピースを配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37954,10 +38018,26 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Marquise de Cat occupies the Woodland and wants to turn it into an industrial and military powerhouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140105Z" creationid="nakahodo" creationdate="20180629T140105Z">
+        <seg>マルキス・デ・キャットはウッドランドを支配し工業と軍事大国への転換を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Marquise scores victory points each time she builds a building.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T234913Z" creationid="aorin" creationdate="20171215T234913Z">
         <seg>マルキスは建物1つを建築するごとに勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise uses workshops to craft during Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140819Z" creationid="nakahodo" creationdate="20180629T140722Z">
+        <seg>マルキスは昼時にクラフトするために作業場を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39755,6 +39835,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224610Z" creationid="aorin" creationdate="20171215T224610Z">
         <seg>ロールによって与えられるヒットの最大数は、あなたがアタッカーかディフェンダーかに関わらず、戦闘地にいるあなたの戦士の数に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The more of the same building she has on the map, the more points she scores.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140245Z" creationid="nakahodo" creationdate="20180629T140245Z">
+        <seg>マップ上にさらに同じ建物を持つことにより、より多くの勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
