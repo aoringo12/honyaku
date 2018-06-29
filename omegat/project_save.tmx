@@ -2501,6 +2501,30 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.1.2 Use of “Cannot.” Any rule that uses the term “cannot” is absolute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064628Z" creationid="nakahodo" creationdate="20180629T064628Z">
+        <seg>1.1.2	「不可」の使用。任意のルールが使用する「不可」は絶対的なものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.2 Public and Private Information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064758Z" creationid="nakahodo" creationdate="20180629T064758Z">
+        <seg>1.2	公開と秘匿情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.2.1 Hands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064804Z" creationid="nakahodo" creationdate="20180629T064804Z">
+        <seg>1.2.1	手札。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10
 SOLITAIRE MODE</seg>
       </tuv>
@@ -24010,6 +24034,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It cannot be overridden by another rule, unless explicitly instructed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064703Z" creationid="nakahodo" creationdate="20180629T064703Z">
+        <seg>明示的に指示がない限り、他ルールによって上書きされることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot deal damage, be deactivated, or be destroyed (more on these terms later).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104244Z" creationid="aorin" creationdate="20180526T104244Z">
@@ -29843,6 +29875,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151311Z" creationid="nakahodo" creationdate="20180108T151311Z">
         <seg>プレイヤーたちはこのラウンドのアクションフェイズ中に喋ってはいけない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players may only reveal cards in their hand if explicitly instructed, but the number of cards in their hand is public information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064805Z" creationid="nakahodo" creationdate="20180629T064805Z">
+        <seg>Players may only reveal cards in their hand if explicitly instructed, but the number of cards in their hand is public information.</seg>
       </tuv>
     </tu>
     <tu>
