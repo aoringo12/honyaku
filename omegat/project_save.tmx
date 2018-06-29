@@ -3276,6 +3276,22 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.1 Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082210Z" creationid="nakahodo" creationdate="20180629T082210Z">
+        <seg>2.1	カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.1.1 Birds Are Wild.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082512Z" creationid="nakahodo" creationdate="20180629T082507Z">
+        <seg>2.1.1	鳥はワイルド。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -6722,6 +6738,14 @@ their own Research Lab Ability Tracks!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a player completes all three phases, the next clockwise player begins their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082046Z" creationid="nakahodo" creationdate="20180629T082046Z">
+        <seg>1人のプレイヤーが3つのフェイズ全てを完了させた後、時計回りで次のプレイヤーのターンが開始されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a player passes, she cannot make any further reinforcement orders that turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064503Z" creationid="aorin" creationdate="20180115T064503Z">
@@ -9910,8 +9934,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Birdsong, Daylight, and Evening.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T233415Z" creationid="aorin" creationdate="20171215T233415Z">
-        <seg>バードソング、昼、夜。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082006Z" creationid="aorin" creationdate="20171215T233415Z">
+        <seg>朝、昼、夜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14274,6 +14298,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each card has a suit matching one of the four forest nations:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082326Z" creationid="nakahodo" creationdate="20180629T082326Z">
+        <seg>各カードは3つある森の民の内、1つのスートを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each card has three uses:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205335Z" creationid="aorin" creationdate="20171215T205335Z">
@@ -14805,8 +14837,8 @@ Country on the World Map.</seg>
       <tuv lang="EN-US">
         <seg>Each player’s turn consists of three phases:</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T233408Z" creationid="aorin" creationdate="20171215T233408Z">
-        <seg>各プレイヤーのターンは3つのフェイズで構成されます：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T081954Z" creationid="aorin" creationdate="20171215T233408Z">
+        <seg>各プレイヤーのターンは3つのフェイズで構成されています：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19013,6 +19045,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224116Z" creationid="aorin" creationdate="20180528T224035Z">
         <seg>オレがお前を選ぶ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I Forced Effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082913Z" creationid="nakahodo" creationdate="20180629T082913Z">
+        <seg>I	強制効果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24611,6 +24651,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Terms and Concepts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082201Z" creationid="nakahodo" creationdate="20180629T082201Z">
+        <seg>主な用語とコンセプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kill the Knight.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075916Z" creationid="aorin" creationdate="20180410T075916Z">
@@ -24719,6 +24767,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165411Z" creationid="nakahodo" creationdate="20180603T165411Z">
         <seg>ククリ（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082818Z" creationid="nakahodo" creationdate="20180629T082818Z">
+        <seg>L</seg>
       </tuv>
     </tu>
     <tu>
@@ -25692,6 +25748,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T070753Z" creationid="aorin" creationdate="20180115T070753Z">
         <seg>ほとんどの独自ユニットとスチームタンク将軍もまた、軍事力に貢献します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most cards also have an item or improvement to craft (3.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082446Z" creationid="nakahodo" creationdate="20180629T082446Z">
+        <seg>多くのカードは、アイテムやクラフトの改良を持ちます（3.1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29670,6 +29734,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040539Z" creationid="aorin" creationdate="20180116T040539Z">
         <seg>全てのプレイヤーがパスをするまで、上記を繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play continues until one player has won the game (4.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082135Z" creationid="nakahodo" creationdate="20180629T082135Z">
+        <seg>プレイヤー1人のゲーム勝利条件が達成されるまで、ゲームは続けられます（4.1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46192,6 +46264,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135504Z" creationid="aorin" creationdate="20180409T135504Z">
         <seg>あなたはまた、恐怖カードの効果を使用することができます（ページ3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can always treat a bird card as a card of another suit, even if you must spend, take, or give multiple cards of the same suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082816Z" creationid="nakahodo" creationdate="20180629T082509Z">
+        <seg>同じスートのカード複数枚を消費、取る、渡す必要があったとしても、あなたは他のスートとして鳥カードを扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
