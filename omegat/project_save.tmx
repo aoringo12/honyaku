@@ -2525,6 +2525,38 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.2.2 Discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080313Z" creationid="nakahodo" creationdate="20180629T080251Z">
+        <seg>1.2.2	捨て札。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.3 Negotiation and Deals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080412Z" creationid="nakahodo" creationdate="20180629T080412Z">
+        <seg>1.3	交渉と取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.3.1 Agreements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080540Z" creationid="nakahodo" creationdate="20180629T080435Z">
+        <seg>1.3.1	約束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.3.2 Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080549Z" creationid="nakahodo" creationdate="20180629T080540Z">
+        <seg>1.3.2	カード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10
 SOLITAIRE MODE</seg>
       </tuv>
@@ -26391,6 +26423,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080235Z" creationid="nakahodo" creationdate="20180629T080235Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OBJECT OF THE GAME</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T092744Z" creationid="nakahodo" creationdate="20180209T092239Z">
@@ -29747,6 +29787,14 @@ Best-Seller List and calculate scores.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players are free to discuss the game during play, but agreements between players are non-binding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080536Z" creationid="nakahodo" creationdate="20180629T080536Z">
+        <seg>プレイヤーたちはゲームをプレイ中自由に議論できます。しかし、そこでされた約束に拘束力はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players break into teams and either
 Blend (combine beans to score) or
 Research (gain abilities).</seg>
@@ -29875,6 +29923,14 @@ deals are binding, and a player can never show the contents of their Roaster unl
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151311Z" creationid="nakahodo" creationdate="20180108T151311Z">
         <seg>プレイヤーたちはこのラウンドのアクションフェイズ中に喋ってはいけない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players may only give cards to each other if explicitly instructed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T081310Z" creationid="nakahodo" creationdate="20180629T080541Z">
+        <seg>プレイヤーたちは明確に指示されている場合、互いにカード渡すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38097,6 +38153,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134801Z" creationid="aorin" creationdate="20180409T134729Z">
         <seg>最も高い値のダイスがあなたの移動力ポイントで、最も低い値のダイスがあなたの攻撃ポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The discard pile can be searched at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080329Z" creationid="nakahodo" creationdate="20180629T080329Z">
+        <seg>捨て札山はいつでも参照することができます。</seg>
       </tuv>
     </tu>
     <tu>
