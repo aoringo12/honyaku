@@ -6104,6 +6104,30 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.2.4 Removing Bases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183657Z" creationid="nakahodo" creationdate="20180629T183657Z">
+        <seg>8.2.4	基地を取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.2.5 Sympathy Tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183915Z" creationid="nakahodo" creationdate="20180629T183915Z">
+        <seg>8.2.5	シンパシートークン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.2.6 Outrage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184341Z" creationid="nakahodo" creationdate="20180629T184341Z">
+        <seg>8.2.6	暴動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -6580,6 +6604,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A clearing can hold only one sympathy token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184002Z" creationid="nakahodo" creationdate="20180629T184002Z">
+        <seg>1つの空き地は、シンパシートークン1つのみを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A clearing is adjacent to all other clearings linked to it by a path.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T085554Z" creationid="aorin" creationdate="20171215T204403Z">
@@ -6996,6 +7028,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170924Z" creationid="nakahodo" creationdate="20171229T170446Z">
         <seg>グリーングリーの祭りのエチケット基本的なルールは、あなた自身のではなく、他の商業を支援することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sympathetic clearing is one with a sympathy token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184329Z" creationid="nakahodo" creationdate="20180629T184213Z">
+        <seg>賛同空き地はシンパシートークンを持つ場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,6 +8829,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031531Z" creationid="nakahodo" creationdate="20171224T142407Z">
         <seg>ゲーム1にて重要なことは、各プレイヤーが当物のチャーターストーンを利用することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unsympathetic clearing is one without a sympathy token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184326Z" creationid="nakahodo" creationdate="20180629T184231Z">
+        <seg>非賛同空き地はシンパシートークンを持たない場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20457,6 +20505,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Placement Limits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183941Z" creationid="nakahodo" creationdate="20180629T183941Z">
+        <seg>I	配置上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Recruit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T161658Z" creationid="nakahodo" creationdate="20180629T161658Z">
@@ -20557,6 +20613,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T083319Z" creationid="nakahodo" creationdate="20180629T083131Z">
         <seg>II	その逆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>II Terms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184006Z" creationid="nakahodo" creationdate="20180629T184006Z">
+        <seg>II	用語。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25838,6 +25902,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T215310Z" creationid="nakahodo" creationdate="20171229T215310Z">
         <seg>それは瞬間であり、無痛でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is facedown, but the Alliance may inspect it at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183619Z" creationid="nakahodo" creationdate="20180629T183619Z">
+        <seg>これは裏向きになっていますが、連合はいつでも内容を確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36793,6 +36865,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supporters can only be spent for their suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183650Z" creationid="nakahodo" creationdate="20180629T183650Z">
+        <seg>支援者カードは自身のスートとしてのみ消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supporter​ ​nation.​ ​The supporters you spend do not need to match the card suit of the conspiracy played.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054758Z" creationid="aorin" creationdate="20171216T054758Z">
@@ -37615,6 +37695,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055102Z" creationid="aorin" creationdate="20171216T055102Z">
         <seg>連合は現在の暴動に従って早朝時にカードドローのボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alliance has 10 sympathy tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183931Z" creationid="nakahodo" creationdate="20180629T183931Z">
+        <seg>連合はシンパシートークン10個を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39580,8 +39668,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Supporters stack can hold any number of cards, and it does not count against the Alliance's hand size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183204Z" creationid="nakahodo" creationdate="20180629T183204Z">
-        <seg>支配者スタックは任意の数のカードを保持でき、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183629Z" creationid="nakahodo" creationdate="20180629T183204Z">
+        <seg>支援者デッキは任意の数のカードを保持でき、これらは連合の手札としてカウントされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39948,8 +40036,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Woodland Alliance works to gain the sympathy of the various creatures of the Woodland who are dissatisfied with their present condition.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181524Z" creationid="nakahodo" creationdate="20180629T163837Z">
-        <seg>ウッドランド連合は、現在の状況に不満を持っているウッドランドの様々な生き物の同じ志、共感を得るために、活動しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184249Z" creationid="nakahodo" creationdate="20180629T163837Z">
+        <seg>ウッドランド連合は、現在の状況に不満を持っているウッドランドの様々な生き物の同じ志、賛同を得るために、活動しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47225,6 +47313,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a base is removed, the Alliance must discard all supporters of matching nation (including birds), and remove half (rounded up) of their officers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183908Z" creationid="nakahodo" creationdate="20180629T183908Z">
+        <seg>基地が取り除かれた時、連合は一致する森の民の支援者（鳥を含む）全てを捨て札にし、将校半分（切り上げ）を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a new building is constructed in the village, it's an opportunity to advance this little piece of civilization you're creating.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205509Z" creationid="nakahodo" creationdate="20171218T154130Z">
@@ -47293,6 +47389,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever another player removes a sympathy token or moves any warriors into a sympathetic clearing, they must add one card from their hand matching the affected clearing to the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184702Z" creationid="nakahodo" creationdate="20180629T184702Z">
+        <seg>他プレイヤーがシンパシートークンを取り除いたり、賛同空き地に戦士を移動させたりした時、そのプレイヤーは支援者デッキに影響を受けた空き地</seg>
       </tuv>
     </tu>
     <tu>
