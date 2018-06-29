@@ -24008,6 +24008,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you choose to take more hits by removing Allied warriors than by damaging your items in a single battle, that Allied faction becomes Hostile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T215113Z" creationid="nakahodo" creationdate="20180629T215113Z">
+        <seg>1回の戦闘であなたのアイテムを破損させることにより、同盟戦士を取り除くことによって、さらなるヒットを同盟に与える選択をあなたがした場合、同盟派閥は敵対します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you choose to use Schemes, during setup shuffle all of the Schemes into the Secrets deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T102905Z" creationid="nakahodo" creationdate="20180430T102905Z">
