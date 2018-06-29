@@ -2485,6 +2485,22 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.1 Rules Conflicts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063800Z" creationid="nakahodo" creationdate="20180629T063800Z">
+        <seg>1.1	ルール衝突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.1.1 Precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063810Z" creationid="nakahodo" creationdate="20180629T063810Z">
+        <seg>1.1.1	優先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10
 SOLITAIRE MODE</seg>
       </tuv>
@@ -15808,6 +15824,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Faction icons mark rules that are modified by the Faction Rules and Abilities section of the Marquise (M), Eyrie (E), Alliance (A), Vagabond (V), Cult (L), or Riverfolk (O)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063747Z" creationid="nakahodo" creationdate="20180629T063638Z">
+        <seg>マルキス（M）、鷲（E）、同盟（A）、ヴァガボンド（V）、カルト（L）、リバーフォーク（O）で表される派閥アイコンは、派閥ルールと能力セクションによって変更されるルールとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factor in cards for both active and inactive players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T132928Z" creationid="nakahodo" creationdate="20171230T132928Z">
@@ -20247,6 +20271,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145812Z" creationid="aorin" creationdate="20171215T145812Z">
         <seg>このルールリファレンスのテキストと、学習プレイのテキストが矛盾した場合、このルールリファレンスが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If text in the learn-to-play guide conflicts with text in the rules reference, the rules reference takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063937Z" creationid="nakahodo" creationdate="20180629T063937Z">
+        <seg>このルールリファレンスのテキストと、学習プレイガイドのテキストが矛盾した場合、このルールリファレンスが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If text on a card or faction board conflicts with text in the rules reference, the card or faction board takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063905Z" creationid="nakahodo" creationdate="20180629T063905Z">
+        <seg>ルールリファレンスのテキストと、派閥ボードやカードテキストが矛盾した場合、派閥ボードやカードが優先されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35220,6 +35260,22 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115323Z" creationid="nakahodo" creationdate="20180412T115323Z">
         <seg>恐怖のポニー（もっとも簡単）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text in italics gives reminders and clarifications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063455Z" creationid="nakahodo" creationdate="20180629T063455Z">
+        <seg>斜体テキストは注釈や説明を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text in small capitals defines key terms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063343Z" creationid="nakahodo" creationdate="20180629T063343Z">
+        <seg>小さな全大文字テキストは主要な用語を定義します。</seg>
       </tuv>
     </tu>
     <tu>
