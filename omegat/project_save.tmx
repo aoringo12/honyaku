@@ -6361,6 +6361,30 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.2.7 Taking Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204659Z" creationid="nakahodo" creationdate="20180629T204659Z">
+        <seg>9.2.7	ヒットを受ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204844Z" creationid="nakahodo" creationdate="20180629T204844Z">
+        <seg>9.2.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.9 Relationships.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T205516Z" creationid="nakahodo" creationdate="20180629T205516Z">
+        <seg>9.2.9	関係性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -14361,6 +14385,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dominance Cards and Coalitions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T205222Z" creationid="nakahodo" creationdate="20180629T204920Z">
+        <seg>ドミナンスカードと同盟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't open ANYTHING unless specifically instructed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
@@ -22133,8 +22165,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If no undamaged items remain to damage, the Vagabond ignores any remaining hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T231804Z" creationid="aorin" creationdate="20171215T231804Z">
-        <seg>壊すための壊れていないアイテムが残っていない場合、ヴァガボンドは残ったヒットを無視します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204843Z" creationid="aorin" creationdate="20171215T231804Z">
+        <seg>壊れていないアイテムが残っていない場合、ヴァガボンドは残りのヒットを無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22679,6 +22711,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093254Z" creationid="nakahodo" creationdate="20180108T093254Z">
         <seg>右に示されるようなカードの場合、ワーカーはカードの特定のキャンペーン終了価値を使用して選択された、チャーターの建物に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the coalition player wins the game, the Vagabond also wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T205502Z" creationid="nakahodo" creationdate="20180629T205223Z">
+        <seg>同盟プレイヤーがゲームに勝利した場合、ヴァガボンドもまた勝利します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40474,6 +40514,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond may only activate a dominance card in games with four or more players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T205130Z" creationid="nakahodo" creationdate="20180629T205005Z">
+        <seg>ヴァガボンドはプレイヤー4人以上げゲームをプレイしている場合にのみ、ドミナンスカードを発動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
@@ -47293,6 +47341,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the Vagabond activates a dominance card, he forms a coalition with the player with the fewest victory points (or any tied for fewest), placing his score marker on that player’s faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T205402Z" creationid="nakahodo" creationdate="20180629T205125Z">
+        <seg>ヴァガボンドがドミナンスカードを発動させる時、ヴァガボンドは最も勝利点が少ないプレイヤーと同盟を結成し（タイの場合は選択して）、同名であることを示すために、そのプレイヤーの派閥ボードに自身のスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the Wraith enters a space with a Lamp, Dancing Lights, or Web token, remove the token without effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T190748Z" creationid="nakahodo" creationdate="20180604T190700Z">
@@ -48109,6 +48165,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T150505Z" creationid="nakahodo" creationdate="20180412T150420Z">
         <seg>ユニコーンがプレイヤーピースのいるスペースに入るたびに、これを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the Vagabond takes a hit (3.3.3), he must damage one undamaged item, moving it to his Damaged box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204822Z" creationid="nakahodo" creationdate="20180629T204822Z">
+        <seg>ヴァガボンドが1ヒットを受けるたびに（3.3.3）、破損していないアイテム1つがダメージを受け、それを破損ボックスへと移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52163,6 +52227,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052656Z" creationid="aorin" creationdate="20171216T052656Z">
         <seg>あなたの派閥ボードには3つの森の民ボックスがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your faction board shows a Relationships chart composed of four spaces on the Allied track and one Hostile box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T211318Z" creationid="nakahodo" creationdate="20180629T211318Z">
+        <seg>ヴァガボンドの派閥ボードには、敵対ボックス1つと友好トラックのスペースの関係性チャートが表示されています。</seg>
       </tuv>
     </tu>
     <tu>
