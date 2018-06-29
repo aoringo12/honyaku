@@ -20971,8 +20971,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>II Allied Status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213101Z" creationid="nakahodo" creationdate="20180629T212717Z">
-        <seg>II	同盟ステータス。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T215411Z" creationid="nakahodo" creationdate="20180629T212717Z">
+        <seg>II	同盟状態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21061,6 +21061,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103057Z" creationid="nakahodo" creationdate="20180629T103057Z">
         <seg>III	無防備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Hostile Status.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T215315Z" creationid="nakahodo" creationdate="20180629T215315Z">
+        <seg>III	敵対状態。</seg>
       </tuv>
     </tu>
     <tu>
