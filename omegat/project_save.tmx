@@ -5935,6 +5935,38 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.6 Evening</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162337Z" creationid="nakahodo" creationdate="20180629T162337Z">
+        <seg>7.6	夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.6.1 Score Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162401Z" creationid="nakahodo" creationdate="20180629T162401Z">
+        <seg>7.6.1	得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.6.2 Draw and Discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162442Z" creationid="nakahodo" creationdate="20180629T162442Z">
+        <seg>7.6.2	ドローと捨て札。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.7 Turmoil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162501Z" creationid="nakahodo" creationdate="20180629T162501Z">
+        <seg>7.7	混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -14105,6 +14137,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw one card, plus one card card per uncovered draw bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162450Z" creationid="nakahodo" creationdate="20180629T162450Z">
+        <seg>カード1枚をドローします。さらに、覆われていないドローボーナスごとに、カード1枚を追加でドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw one card, plus one card per uncovered draw bonus.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T150744Z" creationid="nakahodo" creationdate="20180629T150744Z">
@@ -20225,6 +20265,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161658Z" creationid="nakahodo" creationdate="20180629T161658Z">
+        <seg>I	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't return what I've taken, but I promise to stop."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
@@ -20305,10 +20353,26 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161815Z" creationid="nakahodo" creationdate="20180629T161805Z">
+        <seg>II	移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Reverse Substitution.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T083319Z" creationid="nakahodo" creationdate="20180629T083131Z">
         <seg>II	その逆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162025Z" creationid="nakahodo" creationdate="20180629T162025Z">
+        <seg>III	戦闘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20373,6 +20437,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040036Z" creationid="aorin" creationdate="20180408T040036Z">
         <seg>孤独+クリスタルトークンとゴーストタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IV Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162102Z" creationid="nakahodo" creationdate="20180629T162102Z">
+        <seg>IV	建築。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23112,6 +23184,22 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot fully take an action in the Decree (7.5.2) for any reason, you fall into turmoil, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162659Z" creationid="nakahodo" creationdate="20180629T162659Z">
+        <seg>何らかの理由で法令のアクション（7.5.2）1つを完全に実行できない場合、あなたは混乱に陥ります。次のように処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot fully take an action, you immediately fall into turmoil (7.7)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161651Z" creationid="nakahodo" creationdate="20180629T161651Z">
+        <seg>アクションを実行できない場合、あなたは直ちに混乱に陥ります（7.7）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot initiate a battle, you fall into turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002343Z" creationid="aorin" creationdate="20171216T002343Z">
@@ -25170,8 +25258,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>Initiate a battle in any clearing whose nation matches the card suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T002334Z" creationid="aorin" creationdate="20171216T002334Z">
-        <seg>カードスートに一致する民の任意の空き地で戦闘を開始する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162057Z" creationid="aorin" creationdate="20171216T002334Z">
+        <seg>カードスートに一致する森の民がいる任意の空き地1つで戦闘を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27254,6 +27342,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T154628Z" creationid="nakahodo" creationdate="20180430T154540Z">
         <seg>任意の怠惰キューブ1つを覚醒トラックに移動させて、その後、ゲームからこのカードを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move at least one warrior from any clearing whose nation matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162018Z" creationid="nakahodo" creationdate="20180629T161904Z">
+        <seg>カードスートに一致する森の民がいる任意の空き地1つから、少なくとも戦士1体を移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30297,6 +30393,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a roost in any clearing you rule whose nation matches the card suit and which has no roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162331Z" creationid="nakahodo" creationdate="20180629T162331Z">
+        <seg>カードスートに一致する森の民がいる、あなたが支配者で、かつ止まり木を持たない任意の空き地1つへと、止まり木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a ruin marker on each slot with a ruin icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T115914Z" creationid="nakahodo" creationdate="20180629T115914Z">
@@ -30309,6 +30413,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002206Z" creationid="aorin" creationdate="20171216T002206Z">
         <seg>カードスートに一致する民の止まり木を持つ任意の空き地に、戦士1体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in any clearing with a roost whose nation matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161951Z" creationid="nakahodo" creationdate="20180629T161804Z">
+        <seg>カードスートに一致する森の民と止まり木を持つ任意の空き地1つへと、戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34314,6 +34426,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T152026Z" creationid="aorin" creationdate="20180115T152026Z">
         <seg>科学：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score the victory points listed on the rightmost empty space of your Roosts track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162432Z" creationid="nakahodo" creationdate="20180629T162432Z">
+        <seg>止まり木トラックの最も右にある空いたスペースに記述される勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50707,6 +50827,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T150935Z" creationid="nakahodo" creationdate="20180604T150935Z">
         <seg>あなたの防御力はその時の形態と恐怖値を基準にして変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Evening has two steps in the following order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162353Z" creationid="nakahodo" creationdate="20180629T162353Z">
+        <seg>あなたの夜は、次の順番に従う2つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
