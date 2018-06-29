@@ -202,7 +202,7 @@ Sawmill	製材所
 Workshop	作業場
 Recruiter	雇用所
 Roost	止まり木
-clearing	空き地
+clearing	区画
 Decree	法令
 Stronghold	砦
 Hideout	隠れ家
@@ -790,3 +790,4 @@ flexibility	柔軟性
 Alliance	連合
 Supporters stack	支援者デッキ
 Sympathy Track	シンパシートラック
+unsympathetic clearing	非賛同区画
