@@ -5879,6 +5879,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160530Z" creationid="nakahodo" creationdate="20180629T160530Z">
+        <seg>7.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -30973,6 +30981,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your roosts on the Roosts track of your faction board, filling all its spaces except the leftmost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160529Z" creationid="nakahodo" creationdate="20180629T160529Z">
+        <seg>あなたの派閥ボードにある止まり木トラックへと止まり木を配置します。最も左を除いたスペース全てが満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your score marker on the “0” space of the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133841Z" creationid="aorin" creationdate="20171215T133841Z">
@@ -50523,6 +50539,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092250Z" creationid="aorin" creationdate="20180410T092250Z">
         <seg>あなたの攻撃力はターンを通して変わりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Birdsong has three steps in the following order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160557Z" creationid="nakahodo" creationdate="20180629T160557Z">
+        <seg>あなたの朝は、次の順番に従う3つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
