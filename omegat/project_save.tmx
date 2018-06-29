@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Tokens do not contribute to rule.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095138Z" creationid="nakahodo" creationdate="20180629T095130Z">
+        <seg>（トークンは支配に関係しません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Tunnel does not cost Movement.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T135746Z" creationid="nakahodo" creationdate="20180603T135746Z">
@@ -3436,6 +3444,22 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094827Z" creationid="nakahodo" creationdate="20180629T094827Z">
+        <seg>2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.7 Ruler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094903Z" creationid="nakahodo" creationdate="20180629T094903Z">
+        <seg>2.7 支配者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -4341,6 +4365,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152943Z" creationid="nakahodo" creationdate="20180430T152943Z">
         <seg>3…2…1…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.1 Craft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095247Z" creationid="nakahodo" creationdate="20180629T095247Z">
+        <seg>3.1	クラフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -21366,6 +21398,14 @@ players cannot use this ability.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a tie between players in a clearing, no one there is the ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095233Z" creationid="nakahodo" creationdate="20180629T095132Z">
+        <seg>空き地の複数プレイヤー間で合計がタイの場合、そこの支配者はいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a tie between two players, no one is the ruler.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154007Z" creationid="aorin" creationdate="20171215T154007Z">
@@ -21916,6 +21956,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093336Z" creationid="nakahodo" creationdate="20180629T093336Z">
         <seg>ピースの配置、獲得、取り除きを指示されたが、それが出来ない場合、それができる上限まで指示に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to remove an item, return it to the shared supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094825Z" creationid="nakahodo" creationdate="20180629T094825Z">
+        <seg>アイテムを取り除くよう指示された場合、共有サプライにそれを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24887,6 +24935,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235636Z" creationid="aorin" creationdate="20171231T235636Z">
         <seg>別途指示があるまで、自身のチャーターチェストにこのカードを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095242Z" creationid="nakahodo" creationdate="20180629T095242Z">
+        <seg>主要アクション</seg>
       </tuv>
     </tu>
     <tu>
@@ -39880,8 +39936,8 @@ plus the desired Location’s cost.</seg>
       <tuv lang="EN-US">
         <seg>The ruler of a clearing is the player with the most combined warriors and buildings in that clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T153945Z" creationid="aorin" creationdate="20171215T153903Z">
-        <seg>空き地の支配者は、その空き地の建物と戦士の合計で最も所持するプレイヤーです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094937Z" creationid="aorin" creationdate="20171215T153903Z">
+        <seg>空き地の支配者は、その空き地の建物と戦士の合計を最も所持するプレイヤーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43561,6 +43617,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>V</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094826Z" creationid="nakahodo" creationdate="20180629T094826Z">
+        <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VAST: THE CRYSTAL CAVERN – COMPILED FAQ 1.1 (April 6, 2017) 1
 GENERAL</seg>
       </tuv>
@@ -43577,6 +43641,14 @@ DRAGON</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T131537Z" creationid="nakahodo" creationdate="20171127T131537Z">
         <seg>ヴァスト：クリスタルカーヴァン - FAQ 1.1(2017/4/6)
 基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VEL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095234Z" creationid="nakahodo" creationdate="20180629T095234Z">
+        <seg>VEL</seg>
       </tuv>
     </tu>
     <tu>
@@ -46700,6 +46772,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can craft most cards from your hand into an item or improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095251Z" creationid="nakahodo" creationdate="20180629T095251Z">
+        <seg>You can craft most cards from your hand into an item or improvement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can cross only 1 wall per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T152252Z" creationid="nakahodo" creationdate="20180604T152252Z">
@@ -49291,6 +49371,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T151152Z" creationid="nakahodo" creationdate="20180604T151152Z">
         <seg>あなたの移動力とパワーはその形態によって大きく変化するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your play area is the area around your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094852Z" creationid="nakahodo" creationdate="20180629T094852Z">
+        <seg>あなたのプレイエリアは自身の派閥ボード周囲になります。</seg>
       </tuv>
     </tu>
     <tu>
