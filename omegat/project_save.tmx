@@ -30013,8 +30013,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place one sawmill, one workshop, and one recruiter among the clearing with the keep token and any adjacent clearings, in any combination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T143543Z" creationid="nakahodo" creationdate="20180629T143543Z">
-        <seg>製材所1つ、作業場1つ、雇用所1つ</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144209Z" creationid="nakahodo" creationdate="20180629T143543Z">
+        <seg>製材所1つ、作業場1つ、雇用所1つを、キープトークンを持つ空き地と、そこに隣接する空き地のいずれかに、任意の組み合わせで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30325,8 +30325,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the keep token in the corner clearing of your choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T141728Z" creationid="nakahodo" creationdate="20180629T141728Z">
-        <seg>あなたが選択する空き地の角にキープトークンを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T143548Z" creationid="nakahodo" creationdate="20180629T141728Z">
+        <seg>あなたが選択する空き地1つの角にキープトークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
