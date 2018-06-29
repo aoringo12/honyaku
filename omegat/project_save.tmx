@@ -8236,6 +8236,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Areas on the map fully enclosed by paths and clearings are called forests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T092635Z" creationid="nakahodo" creationdate="20180629T092635Z">
+        <seg>マップの空き地と道で囲まれたエリアを森と呼びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor helps him defend against attacks during other players’ turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T133841Z" creationid="nakahodo" creationdate="20180412T133841Z">
