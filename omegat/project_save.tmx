@@ -5799,6 +5799,54 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153257Z" creationid="nakahodo" creationdate="20180629T153257Z">
+        <seg>7.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.2.1 Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153308Z" creationid="nakahodo" creationdate="20180629T153308Z">
+        <seg>7.2.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.2.2 Lords of the Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153414Z" creationid="nakahodo" creationdate="20180629T153414Z">
+        <seg>7.2.2	森の領主。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.2.3 Disdain for Trade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153911Z" creationid="nakahodo" creationdate="20180629T153648Z">
+        <seg>7.2.3	貿易軽視。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153913Z" creationid="nakahodo" creationdate="20180629T153913Z">
+        <seg>7.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153920Z" creationid="nakahodo" creationdate="20180629T153920Z">
+        <seg>7.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -15855,6 +15903,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn, they must take all of the actions on their Decree, or else fall into turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153257Z" creationid="nakahodo" creationdate="20180629T153257Z">
+        <seg>各ターン、鷲は自身の法令によるアクションを全て実行するか、さもなければ混乱に陥ることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn, you can build a new Room in your dungeon, up to a maximum of five visible Rooms.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T113716Z" creationid="aorin" creationdate="20180528T113716Z">
@@ -16768,6 +16824,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153304Z" creationid="nakahodo" creationdate="20180629T153304Z">
+        <seg>派閥ルールと能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faction Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153915Z" creationid="nakahodo" creationdate="20180629T153915Z">
+        <seg>派閥のセットアップ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faction Setup.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T120037Z" creationid="nakahodo" creationdate="20180629T120037Z">
@@ -17632,6 +17704,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form a supply of 20 warriors near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153940Z" creationid="nakahodo" creationdate="20180629T153940Z">
+        <seg>あなたの近くに20戦士のサプライを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form supplies of 25 warriors and 8 wood tokens near you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T141633Z" creationid="nakahodo" creationdate="20180629T141633Z">
@@ -18371,6 +18451,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T141533Z" creationid="nakahodo" creationdate="20180629T141533Z">
         <seg>戦士と木材を集める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather Warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153925Z" creationid="nakahodo" creationdate="20180629T153925Z">
+        <seg>戦士を集める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37568,10 +37656,26 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie rule a clearing when tied for most combined warriors and buildings there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153543Z" creationid="nakahodo" creationdate="20180629T153440Z">
+        <seg>鷲は、戦士と建物による合計数でトップタイであった時に、その空き地の支配者となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie scores victory points during its Evening based on the number of Roosts on the map, by crafting some improvements, and by removing buildings owned by the other players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000730Z" creationid="aorin" creationdate="20171216T000730Z">
         <seg>鷲はマップの止まり木の数に基づき、いくつかの改良のクフラト、ほかプレイヤーが所有する建物を取り除く事により勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie use roosts to craft before resolving the Decree during Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153400Z" creationid="nakahodo" creationdate="20180629T153400Z">
+        <seg>鷲は昼時に法令を解決する前に、クラフトするために止まり木を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42267,6 +42371,14 @@ card until they decide to build it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They do not rule empty clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153617Z" creationid="nakahodo" creationdate="20180629T153617Z">
+        <seg>これによって空の空き地は支配されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They fight as a group—their Strength equals the Strength of the strongest Skeleton plus 1 Strength per Skeleton beyond the first on the tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T071835Z" creationid="nakahodo" creationdate="20180601T071835Z">
@@ -46605,6 +46717,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224712Z" creationid="aorin" creationdate="20180409T224712Z">
         <seg>これが偶数のスペースに到達するたびに、恐怖カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the Eyrie craft an item, they ignore the listed victory points and instead score only one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153808Z" creationid="nakahodo" creationdate="20180629T153808Z">
+        <seg>鷲がアイテム1つをクラフトするたびに、そこに記述された勝利点を無視し、1勝利点のみを得点します。</seg>
       </tuv>
     </tu>
     <tu>
