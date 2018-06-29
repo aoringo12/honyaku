@@ -14567,6 +14567,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During their Evening, the Eyrie score victory points based on the number of roosts on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T151527Z" creationid="nakahodo" creationdate="20180629T151527Z">
+        <seg>During their Evening, the Eyrie score victory points based on the number of roosts on the map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During their own turn, a player on the same space as the Ghost, or on an adjacent space, can move the matching Possession card to the Mental Block space by paying cost below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T091801Z" creationid="nakahodo" creationdate="20180413T091801Z">
@@ -37538,8 +37546,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T151523Z" creationid="nakahodo" creationdate="20180629T151523Z">
-        <seg>he Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T152542Z" creationid="nakahodo" creationdate="20180629T151523Z">
+        <seg>遥か頂きの王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳有る一族としての復権を望んでいます。</seg>
       </tuv>
     </tu>
     <tu>
