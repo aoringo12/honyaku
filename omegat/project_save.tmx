@@ -6088,6 +6088,22 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.2.2 Guerrilla War.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182554Z" creationid="nakahodo" creationdate="20180629T182554Z">
+        <seg>8.2.2	ゲリラ戦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.2.3 The Supporters Stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183208Z" creationid="nakahodo" creationdate="20180629T182727Z">
+        <seg>8.2.3	支援者デッキ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -39562,6 +39578,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Supporters stack can hold any number of cards, and it does not count against the Alliance's hand size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183204Z" creationid="nakahodo" creationdate="20180629T183204Z">
+        <seg>支配者スタックは任意の数のカードを保持でき、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Thief can enter the Unicorn’s space freely.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T151604Z" creationid="nakahodo" creationdate="20180412T151604Z">
@@ -44255,6 +44279,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To take various actions, the Alliance spends supporters, which are cards on the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183232Z" creationid="nakahodo" creationdate="20180629T182729Z">
+        <seg>様々なアクションを実行するために、連合は支援者デッキにある支援者カードを消費します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To the left of your leftmost card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210414Z" creationid="aorin" creationdate="20180528T210414Z">
@@ -46198,6 +46230,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045425Z" creationid="aorin" creationdate="20171213T045425Z">
         <seg>このアクションを選択する時、プレイヤーは鞭打ちダイスをロールし、ダイスの鞭の数に等しいだけ、対戦相手にペナルティポイントを配ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When defending in battle, the Alliance uses the higher roll and the attacker uses the lower roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182727Z" creationid="nakahodo" creationdate="20180629T182727Z">
+        <seg>戦闘にてディフェンダーになる時、連合は高い出目のダイスを使用し、アタッカーが低い出目のダイスを使用します。</seg>
       </tuv>
     </tu>
     <tu>
