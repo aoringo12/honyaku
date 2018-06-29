@@ -5847,6 +5847,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153949Z" creationid="nakahodo" creationdate="20180629T153949Z">
+        <seg>7.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -29941,6 +29949,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073055Z" creationid="nakahodo" creationdate="20180311T073055Z">
         <seg>ロボタニスタの配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Roost and Starting Warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153957Z" creationid="nakahodo" creationdate="20180629T153957Z">
+        <seg>Place Roost and Starting Warriors.</seg>
       </tuv>
     </tu>
     <tu>
