@@ -5726,6 +5726,30 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.5.1 March.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145138Z" creationid="nakahodo" creationdate="20180629T145126Z">
+        <seg>6.5.1	行進。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.2 Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145150Z" creationid="nakahodo" creationdate="20180629T145150Z">
+        <seg>6.5.2	戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.3 Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145204Z" creationid="nakahodo" creationdate="20180629T145204Z">
+        <seg>6.5.3	建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60 ltem Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052135Z" creationid="aorin" creationdate="20171228T181154Z">
@@ -11811,6 +11835,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose any clearing you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145548Z" creationid="nakahodo" creationdate="20180629T145455Z">
+        <seg>あなたが支配する任意の空き地1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose any tile on the board and move it to an open space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T184105Z" creationid="nakahodo" creationdate="20180604T184105Z">
@@ -11879,6 +11911,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235254Z" creationid="aorin" creationdate="20171215T235254Z">
         <seg>建築する製材所、作業場、雇用所のいずれかを選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose whether you want to place a sawmill, workshop, or recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145312Z" creationid="nakahodo" creationdate="20180629T145225Z">
+        <seg>建築する予定の製材所、作業場、雇用所のいずれかを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16883,8 +16923,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Find the leftmost building of that type remaining on your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T235339Z" creationid="aorin" creationdate="20171215T235339Z">
-        <seg>自身の派閥ボードにある、その種類の残った建物一番左を確認する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145342Z" creationid="aorin" creationdate="20171215T235339Z">
+        <seg>自身の派閥ボードにある、その種類の残っている建物で最も左を確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19865,6 +19905,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Choose Building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145223Z" creationid="nakahodo" creationdate="20180629T145223Z">
+        <seg>I	建物を選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Choose You:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224116Z" creationid="aorin" creationdate="20180528T224035Z">
@@ -19969,6 +20017,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Choose Clearing and Pay Wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145433Z" creationid="nakahodo" creationdate="20180629T145402Z">
+        <seg>II	空き地を選択して木材を支払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Extra Hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T102900Z" creationid="nakahodo" creationdate="20180629T102900Z">
@@ -19989,6 +20045,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103057Z" creationid="nakahodo" creationdate="20180629T103057Z">
         <seg>III	無防備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Place Building and Score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145549Z" creationid="nakahodo" creationdate="20180629T145549Z">
+        <seg>III Place Building and Score.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24810,8 +24874,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>Initiate a battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T235206Z" creationid="aorin" creationdate="20171215T235206Z">
-        <seg>戦闘を開始する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145212Z" creationid="aorin" creationdate="20171215T235206Z">
+        <seg>戦闘1回を開始する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27431,8 +27495,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Note that building’s cost, listed at the top of its column.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T235357Z" creationid="aorin" creationdate="20171215T235357Z">
-        <seg>建物のコストは、その行の上に記述されています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145406Z" creationid="aorin" creationdate="20171215T235357Z">
+        <seg>その建物を建築するためのコストは、その列の上に記述されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29885,6 +29949,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T161102Z" creationid="nakahodo" creationdate="20180604T161102Z">
         <seg>視線が通っているピースの下か、視線が通っているスペースに蜘蛛の巣トークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145228Z" creationid="nakahodo" creationdate="20180629T145208Z">
+        <seg>建物1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32640,6 +32712,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235744Z" creationid="aorin" creationdate="20171215T235744Z">
         <seg>選択した空き地に隣接する自身が支配する空き地[または]選択した空き地から繋がった自身が支配する任意の数の別の空き地から、建物のコストと同数の木を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove wood tokens equal to the building’s cost from the chosen clearing, any adjacent clearings you rule, or any clearings connected to the chosen clearing through any number of clearings you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150132Z" creationid="nakahodo" creationdate="20180629T145545Z">
+        <seg>選択した空き地か、そこから接続されている任意の数のあなたが支配する空き地ら（あなたの支配する空き地が続いていれば、隣接しているかどうかは関係ない）から、建物のコストに等しいだけの木材トークンを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
