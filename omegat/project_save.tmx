@@ -29881,8 +29881,8 @@ deals are binding, and a player can never show the contents of their Roaster unl
       <tuv lang="EN-US">
         <seg>Players may only reveal cards in their hand if explicitly instructed, but the number of cards in their hand is public information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064805Z" creationid="nakahodo" creationdate="20180629T064805Z">
-        <seg>Players may only reveal cards in their hand if explicitly instructed, but the number of cards in their hand is public information.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T080230Z" creationid="nakahodo" creationdate="20180629T064805Z">
+        <seg>プレイヤーたちは明確に指示されている場合、自身の手札のカードのみ公開できます。手札のカード枚数は公開情報となります。</seg>
       </tuv>
     </tu>
     <tu>
