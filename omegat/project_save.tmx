@@ -3420,6 +3420,22 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.5.4 Pawns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094453Z" creationid="nakahodo" creationdate="20180629T094453Z">
+        <seg>2.5.4	ポーン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.5.5 Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094517Z" creationid="nakahodo" creationdate="20180629T094517Z">
+        <seg>2.5.5	アイテム。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -20435,6 +20451,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If one of your tokens is removed, return it to the rightmost empty space of its track, if any, or to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094442Z" creationid="nakahodo" creationdate="20180629T094442Z">
+        <seg>トークンを取り除く場合、そのトラックの一番右にある空きスペースか、自身のサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If one of your warriors is removed, return it to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093530Z" creationid="nakahodo" creationdate="20180629T093408Z">
@@ -21858,8 +21882,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you are prompted to place a token, take the leftmost token from its track, if any, or take it from your supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093514Z" creationid="nakahodo" creationdate="20180629T093514Z">
-        <seg>If you are prompted to place a token, take the leftmost token from its track, if any, or take it from your supply.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093713Z" creationid="nakahodo" creationdate="20180629T093514Z">
+        <seg>トークンの配置を指示された場合、そのトラックの一番左からトークンを取るか、自身のサプライから取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21908,6 +21932,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T083309Z" creationid="nakahodo" creationdate="20180629T083309Z">
         <seg>あなたが鳥カードを捨て札、取る、消費を指示された場合、あなたは他スートのカードを代わりに出来ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to take an item, take it from the shared supply and place it in the Crafted Items box on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094624Z" creationid="nakahodo" creationdate="20180629T094624Z">
+        <seg>アイテムを取るよう指示された場合、共有サプライからこれを取り、自身の派閥ボードにあるクラフトされたアイテムボックスへと配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28206,6 +28238,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T153208Z" creationid="nakahodo" creationdate="20180603T153208Z">
         <seg>たすき（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pawns cannot be removed from the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T094511Z" creationid="nakahodo" creationdate="20180629T094511Z">
+        <seg>ポーンはマップから取り除く事はできません。</seg>
       </tuv>
     </tu>
     <tu>
