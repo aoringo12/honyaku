@@ -3358,8 +3358,24 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>2.2.4 Ruins.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090626Z" creationid="nakahodo" creationdate="20180629T090626Z">
-        <seg>2.2.4 Ruins.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090641Z" creationid="nakahodo" creationdate="20180629T090626Z">
+        <seg>2.2.4	遺跡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.3 Rivers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090845Z" creationid="nakahodo" creationdate="20180629T090845Z">
+        <seg>2.3	川</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.4 Forests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T092557Z" creationid="nakahodo" creationdate="20180629T092557Z">
+        <seg>2.4	森</seg>
       </tuv>
     </tu>
     <tu>
@@ -25526,6 +25542,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many clearings are linked by rivers, which act as paths for only the Riverfolk Company.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T091127Z" creationid="nakahodo" creationdate="20180629T091127Z">
+        <seg>多くの空き地は川で接続されています。川はリバーフォークカンパニーのみが道として利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many crates contain a new persona card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171218T200237Z">
@@ -32187,6 +32211,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rivers do not divide clearings or forests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T091208Z" creationid="nakahodo" creationdate="20180629T091208Z">
+        <seg>川は森や空き地を分割しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rob a Pixie</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064243Z" creationid="aorin" creationdate="20171213T063256Z">
@@ -32447,6 +32479,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T233742Z" creationid="nakahodo" creationdate="20180531T233609Z">
         <seg>あなたの選択した方向にタイルを回転させます。しかし、可能な限り、公開したタイルの少なくとも1つの開いた側面が隣接するタイルの開いた側面同士が接続されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ruins can only be removed by the Vagabond's Explore action (9.5.6).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090825Z" creationid="nakahodo" creationdate="20180629T090825Z">
+        <seg>遺跡はヴァガボンドの探索アクションでのみ取り除けます（9.5.6）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34160,8 +34200,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Some slots begin the game filled with ruins.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090634Z" creationid="nakahodo" creationdate="20180629T090634Z">
-        <seg>Some slots begin the game filled with ruins.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090749Z" creationid="nakahodo" creationdate="20180629T090634Z">
+        <seg>いくつかのスロットは最初から遺跡によって埋まっています。</seg>
       </tuv>
     </tu>
     <tu>
