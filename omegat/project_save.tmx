@@ -6248,6 +6248,14 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.6.2 Income.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195929Z" creationid="nakahodo" creationdate="20180629T195929Z">
+        <seg>8.6.2	収入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -6285,6 +6293,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T162147Z" creationid="nakahodo" creationdate="20180413T162147Z">
         <seg>”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.1 Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195957Z" creationid="nakahodo" creationdate="20180629T195957Z">
+        <seg>9.1	概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -20777,6 +20793,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195541Z" creationid="nakahodo" creationdate="20180629T195541Z">
+        <seg>II	戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Bird Dominance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113222Z" creationid="nakahodo" creationdate="20180629T113222Z">
@@ -20857,6 +20881,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>III Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195547Z" creationid="nakahodo" creationdate="20180629T195547Z">
+        <seg>III	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>III Resolve Effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192653Z" creationid="nakahodo" creationdate="20180629T192536Z">
@@ -20917,6 +20949,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162102Z" creationid="nakahodo" creationdate="20180629T162102Z">
         <seg>IV	建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IV Organize.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195630Z" creationid="nakahodo" creationdate="20180629T195630Z">
+        <seg>IV	整理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25762,8 +25802,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>Initiate a battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145212Z" creationid="aorin" creationdate="20171215T235206Z">
-        <seg>戦闘1回を開始する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195617Z" creationid="aorin" creationdate="20171215T235206Z">
+        <seg>戦闘1回を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30953,6 +30993,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a warrior in any clearing with a base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195614Z" creationid="nakahodo" creationdate="20180629T195614Z">
+        <seg>基地を持任意の区画1つに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a warrior in any clearing with a roost whose nation matches the card suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T161804Z">
@@ -33672,6 +33720,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151700Z" creationid="nakahodo" creationdate="20180108T151614Z">
         <seg>全てのアクティブな倉庫エリアから、材料ごとに1つを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove one of your warriors from an unsympathetic clearing, place a sympathy token there, and score the victory points listed on the space revealed on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195921Z" creationid="nakahodo" creationdate="20180629T195921Z">
+        <seg>非賛同区画1つからあなたの戦士1体を取り除き、そこにシンパシートークン1つを配置し、自身の派閥ボードのシンパシートラックにある、公開されたスペースに記述されている勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37464,8 +37520,8 @@ Slates.</seg>
       <tuv lang="EN-US">
         <seg>Take one move.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195535Z" creationid="nakahodo" creationdate="20180629T195535Z">
-        <seg>移動1回を実行。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195620Z" creationid="nakahodo" creationdate="20180629T195535Z">
+        <seg>移動1回を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40262,6 +40318,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152643Z" creationid="aorin" creationdate="20171215T152643Z">
         <seg>ヴァガボンドはポーンのみを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond plays all sides of the conflict, making friends and enemies as suits his ends, while going on quests to increase his renown throughout the wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T200901Z" creationid="nakahodo" creationdate="20180629T200901Z">
+        <seg>ヴァガボンドは紛争の当事者、その全てを演じ、目的により友達と敵の服を着て、ウッドランドでの名声を高めるため目的のために行動します。</seg>
       </tuv>
     </tu>
     <tu>
