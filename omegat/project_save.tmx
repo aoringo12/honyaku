@@ -24394,8 +24394,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>In the setup order (A, B, C, etc.), each player follows their faction's setup instructions, listed in their rules section and on the back of their faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T120039Z" creationid="nakahodo" creationdate="20180629T120039Z">
-        <seg>In the setup order (A, B, C, etc.), each player follows their faction's setup instructions, listed in their rules section and on the back of their faction board.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T135841Z" creationid="nakahodo" creationdate="20180629T120039Z">
+        <seg>セットアップ順番で（A,B,C）、各プレイヤーは、ルールセクションと自身の派閥ボード裏の記述にある、派閥セットアップ説明に従います。</seg>
       </tuv>
     </tu>
     <tu>
