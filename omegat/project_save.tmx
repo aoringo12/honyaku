@@ -4419,8 +4419,8 @@ Collect all Possession cards except the card (if any) on your Mental Block space
       <tuv lang="EN-US">
         <seg>3.1.3 Crafting Improvement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100113Z" creationid="nakahodo" creationdate="20180629T100113Z">
-        <seg>3.1.3	改良をクラフトする。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100113Z">
+        <seg>3.1.3	改善をクラフトする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16335,6 +16335,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time the Vagabond improves his relationship with another faction, or removes a warrior belonging to a faction hostile toward him, he scores victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201215Z" creationid="nakahodo" creationdate="20180629T201058Z">
+        <seg>ヴァガボンドが他派閥との関係性を改善したり、敵対派閥に属する戦士1体を取り除くたびに、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time the Vagabond takes a hit, he must damage one available item.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231553Z" creationid="aorin" creationdate="20171215T231553Z">
@@ -19754,6 +19762,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072346Z" creationid="aorin" creationdate="20180115T072346Z">
         <seg>彼はまた、自身の妖精の兵士を戦闘に送る決定もします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He can also complete quests to score victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201238Z" creationid="nakahodo" creationdate="20180629T201238Z">
+        <seg>また、クエストを達成することでも勝利点を得点できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27794,8 +27810,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Most cards also have an item or improvement to craft (3.1).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T082446Z" creationid="nakahodo" creationdate="20180629T082446Z">
-        <seg>多くのカードは、アイテムやクラフトの改良を持ちます（3.1）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T082446Z">
+        <seg>多くのカードは、アイテムやクラフトの改善を持ちます（3.1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44639,6 +44655,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move and act effectively the Vagabond must manage his pack of items, expanding his selection by exploring the forest ruins and providing aid to other factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201847Z" creationid="nakahodo" creationdate="20180629T201847Z">
+        <seg>効果的に移動とアクションを行うために、ヴァガボンドは森の遺跡を探索し他の派閥を援助することにより、探索自身のパックのアイテムを管理し、選択肢を増やす必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move around the board, you must spend Movement, which each role gains in a different way.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T225036Z" creationid="nakahodo" creationdate="20180531T224944Z">
@@ -47371,8 +47395,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you craft an improvement, place it in your play area.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100205Z" creationid="nakahodo" creationdate="20180629T100142Z">
-        <seg>改良をクラフトする時、自身のプレイエリアにそのカードを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100142Z">
+        <seg>改善をクラフトする時、自身のプレイエリアにそのカードを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49230,8 +49254,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can craft most cards from your hand into an item or improvement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095500Z" creationid="nakahodo" creationdate="20180629T095251Z">
-        <seg>手札にある多くのカードから、アイテムや改良をクラフトできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T095251Z">
+        <seg>手札にある多くのカードから、アイテムや改善をクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49702,8 +49726,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You cannot craft an improvement if you have an improvement of identical name in your play area.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100401Z" creationid="nakahodo" creationdate="20180629T100307Z">
-        <seg>自身のプレイエリアに同じ名前の改良を持つ場合、その改良はクラフトできません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100307Z">
+        <seg>自身のプレイエリアに同じ名前の改善を持つ場合、その改善はクラフトできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50670,8 +50694,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may play an ambush card for its suit, but it does not have an item or improvement to craft.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T084523Z" creationid="nakahodo" creationdate="20180629T084523Z">
-        <seg>アンブッシュカードはそのスートとしてプレイできますが、アイテムやクラフトの改良を持ちません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T084523Z">
+        <seg>アンブッシュカードはそのスートとしてプレイできますが、アイテムやクラフトの改善を持ちません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50862,8 +50886,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may use the effect of this improvement as described on the card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100243Z" creationid="nakahodo" creationdate="20180629T100158Z">
-        <seg>カードの説明に従い、その改良の効果を使用できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100158Z">
+        <seg>カードの説明に従い、その改善の効果を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
