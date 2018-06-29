@@ -6305,6 +6305,38 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.2 Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201858Z" creationid="nakahodo" creationdate="20180629T201858Z">
+        <seg>9.2	派閥ルールと能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.1 Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201902Z" creationid="nakahodo" creationdate="20180629T201902Z">
+        <seg>9.2.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.2 Lone Wanderer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T202154Z" creationid="nakahodo" creationdate="20180629T202116Z">
+        <seg>9.2.2	孤独な放浪者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.3 Nimble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T202356Z" creationid="nakahodo" creationdate="20180629T202356Z">
+        <seg>9.2.3	軽快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -8552,6 +8584,14 @@ new Blend is inserted to the right of any Blend it outranks.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172317Z" creationid="aorin" creationdate="20171228T172317Z">
         <seg>あなたがコントロールする全てのミニオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of his H match the nation of his current clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T202043Z" creationid="nakahodo" creationdate="20180629T202043Z">
+        <seg>現在彼がいる区画の森の民に一致する、Hの全てを消耗します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22503,6 +22543,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T214045Z" creationid="aorin" creationdate="20171215T214045Z">
         <seg>ヴァガボンドがアイテム改良をクラフトする場合、彼は直ちに自身の消耗したアイテムプールにクラフトしたアイテムを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Vagabond crafts an item, he may immediately take it, face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T202118Z" creationid="nakahodo" creationdate="20180629T202114Z">
+        <seg>ヴァガボンドがアイテム1つをクラフトする場合、直ちにそれを表向きで取ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40322,6 +40370,22 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond can move regardless of who rules his origin or destination clearing (3.2.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T203223Z" creationid="nakahodo" creationdate="20180629T203223Z">
+        <seg>ヴァガボンドは移動元と移動先区画を誰が支配しているかに関係なく移動できます（3.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond exhausts H to craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201946Z" creationid="nakahodo" creationdate="20180629T201946Z">
+        <seg>ヴァガボンドはHを消耗させることで、クラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
@@ -40334,6 +40398,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152643Z" creationid="aorin" creationdate="20171215T152643Z">
         <seg>ヴァガボンドはポーンのみを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond pawn cannot be removed from the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T202343Z" creationid="nakahodo" creationdate="20180629T202343Z">
+        <seg>ヴァガボンドポーンはマップから取り除かれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond pawn is not a warrior, so he cannot rule a clearing or stop another player from ruling one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T202322Z" creationid="nakahodo" creationdate="20180629T202322Z">
+        <seg>ヴァガボンドのポーンは戦士ではありません。なので、彼は区画を支配したり、他プレイヤーが支配するのを止める事はできません。</seg>
       </tuv>
     </tu>
     <tu>
