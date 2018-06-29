@@ -4377,6 +4377,22 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.1.1 Cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095507Z" creationid="nakahodo" creationdate="20180629T095507Z">
+        <seg>3.1.1	コスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.1.2 Crafting Item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095845Z" creationid="nakahodo" creationdate="20180629T095845Z">
+        <seg>3.1.2	アイテムをクラフトする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.Check stonemaiergames.com/games/charterstone/faq to see if any important errors have been discovered postpublication.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142350Z" creationid="nakahodo" creationdate="20171218T142350Z">
@@ -6308,6 +6324,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T112457Z" creationid="nakahodo" creationdate="20171001T112457Z">
         <seg>チームのアクションは多数決によって決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A three-color question mark denotes a crafting piece of any nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095836Z" creationid="nakahodo" creationdate="20180629T095836Z">
+        <seg>3色のクエスチョンマークは任意の派閥のクラフティングピースを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14542,6 +14566,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211813Z" creationid="aorin" creationdate="20171215T211704Z">
         <seg>各クラフト建物はターン毎に一度のみ、消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each crafting piece may be used only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095732Z" creationid="nakahodo" creationdate="20180629T095732Z">
+        <seg>各クラフティングピースはターンごとに1度だけ使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39183,6 +39215,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The nation of a crafting piece matches its clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095655Z" creationid="nakahodo" creationdate="20180629T095655Z">
+        <seg>派閥のクラフティングピースは空き地に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nation of all &lt;hammer&gt; matches your current clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075803Z" creationid="aorin" creationdate="20171216T075803Z">
@@ -42319,6 +42359,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To craft a card, you must use crafting pieces of the nations listed in the card's bottom-left corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095635Z" creationid="nakahodo" creationdate="20180629T095635Z">
+        <seg>カードをクラフトするには、カードの左下角に示された派閥のクラフティングピースを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do so, you must first place all of the Cave tiles, then remove Cave tiles until 5 Crystal tiles have been removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035044Z" creationid="aorin" creationdate="20180408T035044Z">
@@ -43657,6 +43705,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062106Z" creationid="nakahodo" creationdate="20180413T062106Z">
         <seg>バイルグール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095837Z" creationid="nakahodo" creationdate="20180629T095837Z">
+        <seg>VO</seg>
       </tuv>
     </tu>
     <tu>
@@ -45013,6 +45069,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
         <seg>得点フェイズ時にこれらを制御していた場合、VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you craft an item, score the listed victory points, take the listed item from the supply and place it in your Crafted Items box on your faction board, then discard the crafted card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095851Z" creationid="nakahodo" creationdate="20180629T095851Z">
+        <seg>When you craft an item, score the listed victory points, take the listed item from the supply and place it in your Crafted Items box on your faction board, then discard the crafted card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46774,8 +46838,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can craft most cards from your hand into an item or improvement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095251Z" creationid="nakahodo" creationdate="20180629T095251Z">
-        <seg>You can craft most cards from your hand into an item or improvement.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095500Z" creationid="nakahodo" creationdate="20180629T095251Z">
+        <seg>手札にある多くのカードから、アイテムや改良をクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
