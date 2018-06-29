@@ -2557,6 +2557,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.4 Game Structure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T081935Z" creationid="nakahodo" creationdate="20180629T081311Z">
+        <seg>1.4	ゲーム構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10
 SOLITAIRE MODE</seg>
       </tuv>
