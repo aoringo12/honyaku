@@ -4393,6 +4393,46 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.1.3 Crafting Improvement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100113Z" creationid="nakahodo" creationdate="20180629T100113Z">
+        <seg>3.1.3	改良をクラフトする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.1.4 No Duplicates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100309Z" creationid="nakahodo" creationdate="20180629T100304Z">
+        <seg>3.1.4	重複しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100402Z" creationid="nakahodo" creationdate="20180629T100402Z">
+        <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.2.1 You Must Rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100530Z" creationid="nakahodo" creationdate="20180629T100530Z">
+        <seg>3.2.1	支配しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.2.2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100748Z" creationid="nakahodo" creationdate="20180629T100748Z">
+        <seg>3.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.Check stonemaiergames.com/games/charterstone/faq to see if any important errors have been discovered postpublication.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142350Z" creationid="nakahodo" creationdate="20171218T142350Z">
@@ -5976,6 +6016,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093440Z" creationid="nakahodo" creationdate="20180209T093440Z">
         <seg>ゲームは通常、生産基盤の確立から始まり、続いて周辺を探索し、その後プレイヤー同士の戦闘へと展開していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A given piece can be moved any number of times per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100851Z" creationid="nakahodo" creationdate="20180629T100817Z">
+        <seg>ピースはターン内で何度でも移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22024,6 +22072,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to take multiple moves, you may move the same or separate groups of warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101010Z" creationid="nakahodo" creationdate="20180629T101010Z">
+        <seg>複数の移動を行うよう指示された場合、1つの戦士のグループを移動させても良いですし、複数のグループに回数を分けて移動させることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are the first player and control the Queen Tile, you may take a special one-time free action called the Queen Action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T214426Z" creationid="nakahodo" creationdate="20180311T214426Z">
@@ -26664,6 +26720,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131825Z" creationid="nakahodo" creationdate="20171213T131825Z">
         <seg>この時、任意の妖精を降格させるためにリンゴを支払う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Movement Limits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100759Z" creationid="nakahodo" creationdate="20180629T100759Z">
+        <seg>移動上限はない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42543,6 +42607,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To take a move, you must rule the origin clearing, destination clearing, or both.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100746Z" creationid="nakahodo" creationdate="20180629T100746Z">
+        <seg>移動するには、移動元の空き地か移動先の空き地、またはその両方を支配する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To the left of your leftmost card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210414Z" creationid="aorin" creationdate="20180528T210414Z">
@@ -45073,10 +45145,18 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you craft an improvement, place it in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100205Z" creationid="nakahodo" creationdate="20180629T100142Z">
+        <seg>改良をクラフトする時、自身のプレイエリアにそのカードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you craft an item, score the listed victory points, take the listed item from the supply and place it in your Crafted Items box on your faction board, then discard the crafted card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T095851Z" creationid="nakahodo" creationdate="20180629T095851Z">
-        <seg>When you craft an item, score the listed victory points, take the listed item from the supply and place it in your Crafted Items box on your faction board, then discard the crafted card.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100102Z" creationid="nakahodo" creationdate="20180629T095851Z">
+        <seg>アイテムをクラフトする時、記述されている勝利点を得点し、サプライから指定されたアイテムを取り、自身の派閥ボードのクラフトされたアイテムボックスに配置し、その後、使用したカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45157,6 +45237,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124906Z" creationid="nakahodo" creationdate="20180430T124906Z">
         <seg>あなたがエントランスタイルに移動した時、8経験値を得て、その後、ゲームからこのカードを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you move, you may take any number of your warriors or your pawn from one clearing and move them to one adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100514Z" creationid="nakahodo" creationdate="20180629T100514Z">
+        <seg>あなたが移動する時、空き地1つから任意の数の戦士を取り、隣接する空き地1つへと彼らを全員移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47292,6 +47380,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot craft an improvement if you have an improvement of identical name in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100401Z" creationid="nakahodo" creationdate="20180629T100307Z">
+        <seg>自身のプレイエリアに同じ名前の改良を持つ場合、その改良はクラフトできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot enter the impassable spaces of the Canyon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T011806Z" creationid="aorin" creationdate="20180410T011740Z">
@@ -48384,6 +48480,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T152343Z" creationid="nakahodo" creationdate="20171224T152343Z">
         <seg>あなたはゲームを通してその能力を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use the effect of this improvement as described on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T100243Z" creationid="nakahodo" creationdate="20180629T100158Z">
+        <seg>カードの説明に従い、その改良の効果を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
