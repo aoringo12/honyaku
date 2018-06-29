@@ -3380,6 +3380,46 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.4.1 Adjacency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T092729Z" creationid="nakahodo" creationdate="20180629T092729Z">
+        <seg>2.4.1	隣接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.5 Pieces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093124Z" creationid="nakahodo" creationdate="20180629T092734Z">
+        <seg>2.5	ピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.5.1 Warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093519Z" creationid="nakahodo" creationdate="20180629T093346Z">
+        <seg>2.5.1	兵士。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.5.2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093412Z" creationid="nakahodo" creationdate="20180629T093412Z">
+        <seg>2.5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.5.3 Tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093505Z" creationid="nakahodo" creationdate="20180629T093505Z">
+        <seg>2.5.3	トークン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -5846,8 +5886,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A forest is adjacent to all clearings that touch it without crossing a path, and it is adjacent to all forests that are separated by only one path.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T204843Z" creationid="aorin" creationdate="20171215T204843Z">
-        <seg>森は道が通っておらずに触れている、全ての空き地に隣接しており、1つの道で隔てられている全ての森にもまた、隣接しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093105Z" creationid="aorin" creationdate="20171215T204843Z">
+        <seg>森は道が交差していない触れている空き地全てと隣接しており、1つの道で分割されている森の全てと隣接しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10376,6 +10416,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093418Z" creationid="nakahodo" creationdate="20180629T093418Z">
+        <seg>建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Builel Phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210214Z" creationid="aorin" creationdate="20180528T210214Z">
@@ -14478,6 +14526,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T212006Z" creationid="aorin" creationdate="20171215T212006Z">
         <seg>各派閥が消耗させるクラフト建物は異なります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction has various pieces matching the color at the top of their faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093212Z" creationid="nakahodo" creationdate="20180629T093115Z">
+        <seg>各派閥は派閥ボードの上部の色と同じ色のささまざまなピースを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20371,6 +20427,22 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If one of your buildings is removed, return it to the rightmost empty space of its track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093457Z" creationid="nakahodo" creationdate="20180629T093457Z">
+        <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If one of your warriors is removed, return it to your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093530Z" creationid="nakahodo" creationdate="20180629T093408Z">
+        <seg>兵士を取り除く場合、自身のサプライにこれを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If only 1 player offered Silver, they also offered the most Silver and thus advance 2 steps on the Silver track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130503Z" creationid="aorin" creationdate="20171212T130503Z">
@@ -21784,10 +21856,18 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to place a token, take the leftmost token from its track, if any, or take it from your supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093514Z" creationid="nakahodo" creationdate="20180629T093514Z">
+        <seg>If you are prompted to place a token, take the leftmost token from its track, if any, or take it from your supply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to place a warrior, take it from your supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T145927Z" creationid="aorin" creationdate="20171215T145927Z">
-        <seg>戦士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093524Z" creationid="aorin" creationdate="20171215T145927Z">
+        <seg>兵士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21804,6 +21884,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150348Z" creationid="aorin" creationdate="20171215T150348Z">
         <seg>コンポーネントを配置されるよう指示されたが配置できない場合、可能なかぎりだけ配置するようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to place, take, or remove a piece but you cannot, you must place, take, or remove the maximum number possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093336Z" creationid="nakahodo" creationdate="20180629T093336Z">
+        <seg>ピースの配置、獲得、取り除きを指示されたが、それが出来ない場合、それができる上限まで指示に従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25405,6 +25493,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ML</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093410Z" creationid="nakahodo" creationdate="20180629T093410Z">
+        <seg>ML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOVE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134616Z" creationid="nakahodo" creationdate="20180406T134616Z">
@@ -28545,6 +28641,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152513Z" creationid="aorin" creationdate="20171215T152513Z">
         <seg>ピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pieces are limited by the contents of the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093222Z" creationid="nakahodo" creationdate="20180629T093222Z">
+        <seg>ピースはゲームに含まれている数で制限されます。</seg>
       </tuv>
     </tu>
     <tu>
