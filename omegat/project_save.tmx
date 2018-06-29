@@ -5713,6 +5713,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101927Z" creationid="nakahodo" creationdate="20180629T101927Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A "deactivated" Room is turned sideways until the end of the turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T225917Z" creationid="aorin" creationdate="20180528T225917Z">
@@ -7141,6 +7149,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233643Z" creationid="aorin" creationdate="20171231T233643Z">
         <seg>セットアップが完了した後、このカードをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After counting hits from rolling, the attacker and defender can add extra hits by using special abilities or other effects in their play areas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103008Z" creationid="nakahodo" creationdate="20180629T103008Z">
+        <seg>ダイスロールによるヒットのカウントをした後、アタッカーとディフェンダーは自身のプレイエリアにある特殊能力や他の効果によってヒットを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19417,6 +19433,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Maximum Rolled Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T102125Z" creationid="nakahodo" creationdate="20180629T102101Z">
+        <seg>I	ロールによるヒットの最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't return what I've taken, but I promise to stop."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
@@ -19469,6 +19493,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210643Z" creationid="aorin" creationdate="20171231T210643Z">
         <seg>すまない！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>II Extra Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T102900Z" creationid="nakahodo" creationdate="20180629T102900Z">
+        <seg>II	追加のヒット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39339,6 +39371,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074953Z" creationid="aorin" creationdate="20171216T074953Z">
         <seg>あなたがロールによって与える事のできるヒットの最大数は、そこにいる同盟戦士の数と等しいですが、&lt;ソード&gt;を消耗することでこの最大数を上昇させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T102849Z" creationid="nakahodo" creationdate="20180629T102109Z">
+        <seg>ロールによって与えられるヒットの最大数は、アタッカーかディフェンダーかに関わらず、戦場にいる自身の戦士数に等しいです。</seg>
       </tuv>
     </tu>
     <tu>
