@@ -5887,6 +5887,54 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.4.1 Emergency Orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160703Z" creationid="nakahodo" creationdate="20180629T160703Z">
+        <seg>7.4.1	緊急要請。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.4.2 Add to the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160739Z" creationid="nakahodo" creationdate="20180629T160739Z">
+        <seg>7.4.2	法令の追加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.4.3 A New Roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161119Z" creationid="nakahodo" creationdate="20180629T161119Z">
+        <seg>7.4.3	新しい止まり木。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161218Z" creationid="nakahodo" creationdate="20180629T161218Z">
+        <seg>7.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.5.1 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161245Z" creationid="nakahodo" creationdate="20180629T161245Z">
+        <seg>7.5.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.5.2 Resolve the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161329Z" creationid="nakahodo" creationdate="20180629T161329Z">
+        <seg>7.5.2	法令の解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -17500,6 +17548,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each card, you must take the action listed for its column, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161621Z" creationid="nakahodo" creationdate="20180629T161621Z">
+        <seg>各カードにより、次のように、その列に記述されたアクションを実行する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each extra</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T153355Z" creationid="nakahodo" creationdate="20180604T153347Z">
@@ -23440,10 +23496,26 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have no cards in your hand, draw one card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160730Z" creationid="nakahodo" creationdate="20180629T160730Z">
+        <seg>あなたが手札にカードを1枚も持っていない場合、カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have no dice in your supply, then collect all three Ghoul dice from the dice chart, roll them, and place them in your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080708Z" creationid="aorin" creationdate="20180410T080708Z">
         <seg>あなたのサプライにディスクがない場合、その後、ダイスチャートからグールダイス3つ全てを集め、それらをロールし、自身のサプライにディスクを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have no roosts on the map, place a roost and three warriors in a clearing with the fewest warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161217Z" creationid="nakahodo" creationdate="20180629T161217Z">
+        <seg>あなたがマップ上に止まり木を持たない場合、最も少ない戦士を持つ空き地1つに止まり木1つと、戦士3体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24512,6 +24584,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002123Z" creationid="aorin" creationdate="20171216T002123Z">
         <seg>列ごとに、一番上から始まり、下に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In each column, you must resolve all of its cards, but in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161527Z" creationid="nakahodo" creationdate="20180629T161527Z">
+        <seg>各列では、そこにあるカード全てを解決する必要がありますが、任意の順番で構いません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49180,6 +49260,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may craft cards from your hand, using roosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161307Z" creationid="nakahodo" creationdate="20180629T161307Z">
+        <seg>止まり木を使用して、あなたの手札からカードをクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may decide to use this variant freely during setup.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T112400Z" creationid="nakahodo" creationdate="20180412T112400Z">
@@ -49620,6 +49708,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may play each card to any column, and each column can hold any number of cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161110Z" creationid="nakahodo" creationdate="20180629T161110Z">
+        <seg>任意の列に各カードをプレイでき、各列は任意の枚数カードを保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may play each card to the end of any of the four columns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001835Z" creationid="aorin" creationdate="20171216T001835Z">
@@ -49816,6 +49912,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T191006Z" creationid="nakahodo" creationdate="20180604T190908Z">
         <seg>あなたは隣接スペースにパラディンを強制移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must add one or two cards to the Decree, but only one card you add may be a bird card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161012Z" creationid="nakahodo" creationdate="20180629T161012Z">
+        <seg>あなたは法令にカードを1枚か2枚追加する必要があります。しかし、カード1枚だけは鳥カードを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50056,6 +50160,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T115954Z" creationid="aorin" creationdate="20180115T115954Z">
         <seg>全ての供給のない地域からユニット1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must resolve the Decree, starting with the leftmost column and moving right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161448Z" creationid="nakahodo" creationdate="20180629T161448Z">
+        <seg>最も左列から始まり、右列へと移動するように法令を解決しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50579,6 +50691,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T232408Z" creationid="aorin" creationdate="20171231T232408Z">
         <seg>あなたのチャーターストーンキャンペーンは終了したが、我々独自の村の物語は始まったばかりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Daylight has two steps in the following order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161235Z" creationid="nakahodo" creationdate="20180629T161235Z">
+        <seg>あなたの昼は、次の順番に従う2つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
