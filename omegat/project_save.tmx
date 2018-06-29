@@ -5863,6 +5863,22 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155631Z" creationid="nakahodo" creationdate="20180629T155631Z">
+        <seg>7.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.3.5 Step 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160020Z" creationid="nakahodo" creationdate="20180629T160020Z">
+        <seg>7.3.5	ステップ5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -11979,6 +11995,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose one of the four Eyrie leader cards and place it face up in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155554Z" creationid="nakahodo" creationdate="20180629T155554Z">
+        <seg>鷲リーダーカード4枚から1枚を選択し、あなたのプレイエリアに表向きにして配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one of the four Eyrie leaders and place it on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134504Z" creationid="aorin" creationdate="20171215T134504Z">
@@ -16957,6 +16981,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T144231Z" creationid="nakahodo" creationdate="20180629T144231Z">
         <seg>建物トラックを満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill Roosts Track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160045Z" creationid="nakahodo" creationdate="20180629T160045Z">
+        <seg>止まり木トラックを満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30195,8 +30227,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a warrior in each clearing except the clearing in the opposite corner from the keep token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142403Z" creationid="nakahodo" creationdate="20180629T142019Z">
-        <seg>キープトークンから反対角の空き地を除く、各空き地に戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160154Z" creationid="nakahodo" creationdate="20180629T142019Z">
+        <seg>キープトークンからマップ上の反対角端の空き地を除く、各空き地に戦士1体ずつを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30661,8 +30693,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the keep token in the corner clearing of your choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T143548Z" creationid="nakahodo" creationdate="20180629T141728Z">
-        <seg>あなたが選択する空き地1つの角にキープトークンを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160126Z" creationid="nakahodo" creationdate="20180629T141728Z">
+        <seg>あなたがマップ上の角端の空き地へと、キープトークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36026,6 +36058,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T133659Z" creationid="nakahodo" creationdate="20180601T203456Z">
         <seg>安定性はスケルトンが自身を保持するための実体化能力を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack the remaining leaders and place them face up near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155622Z" creationid="nakahodo" creationdate="20180629T155622Z">
+        <seg>残ったリーダーカードはまとめておき、あなたの近くに表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44041,6 +44081,22 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120438Z" creationid="aorin" creationdate="20180115T120438Z">
         <seg>予測させないように動くことが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuck Viziers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155754Z" creationid="nakahodo" creationdate="20180629T155714Z">
+        <seg>大臣を差し込む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuck your two Loyal Vizier cards, showing their suit, into the Decree spaces of your faction board matching the two listed on your leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T160016Z" creationid="nakahodo" creationdate="20180629T155736Z">
+        <seg>リーダーカードに記述される2つのスートに一致する派閥ボードの法令スペースへと、王宮大臣カード2枚をそれらのスートが見えるように入れ込みます。</seg>
       </tuv>
     </tu>
     <tu>
