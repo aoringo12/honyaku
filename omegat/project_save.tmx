@@ -5265,6 +5265,30 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.3.2 Activated Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113556Z" creationid="nakahodo" creationdate="20180629T113544Z">
+        <seg>4.3.2	発動したカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.3.3 Spending for Suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113654Z" creationid="nakahodo" creationdate="20180629T113654Z">
+        <seg>4.3.3	スートとして消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.3.4 Taking Available Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113818Z" creationid="nakahodo" creationdate="20180629T113818Z">
+        <seg>4.3.4	利用可能なカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4/4/3/2 B 2 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
@@ -5497,6 +5521,22 @@ look something like the diagram above.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145402Z" creationid="nakahodo" creationdate="20171218T145402Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1 Standard Setup Procedure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T114006Z" creationid="nakahodo" creationdate="20180629T114006Z">
+        <seg>5.1	基本セットアップ手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T114021Z" creationid="nakahodo" creationdate="20180629T114021Z">
+        <seg>5.1.1	ステップ1：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,6 +6112,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T073717Z" creationid="nakahodo" creationdate="20171230T073532Z">
         <seg>特使が永遠の王から勅令を受けて到着します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dominance card can be spent for its suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113704Z" creationid="nakahodo" creationdate="20180629T113704Z">
+        <seg>ドミナンスカードはそのスートとして消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8225,6 +8273,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An activated dominance card does not count against your hand limit, and it cannot be removed from play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113625Z" creationid="nakahodo" creationdate="20180629T113549Z">
+        <seg>発動したドミナンスカードは、手札としてカウントされず、ゲームプレイから取り除くことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An activated special victory card does not count against your hand size, and it cannot be removed from play.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232611Z" creationid="aorin" creationdate="20171215T232540Z">
@@ -8777,6 +8833,22 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T041405Z" creationid="aorin" creationdate="20171213T041405Z">
         <seg>上記以外にも、報酬フェイズの基本的な昇進に関するする通常ルール全てが適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign Factions and Starting Player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T114032Z" creationid="nakahodo" creationdate="20180629T114032Z">
+        <seg>派閥とスタートプレイヤーの割り当て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign one faction to each player using any method.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T114103Z" creationid="nakahodo" creationdate="20180629T114103Z">
+        <seg>任意の方法で、各プレイヤーに派閥1つを割り当てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14351,6 +14423,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your Daylight, you can take an available dominance card into your hand by spending a card of matching suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113948Z" creationid="nakahodo" creationdate="20180629T113948Z">
+        <seg>あなたの昼時、利用可能ドミナンスカードに一致するスートのカードを、あなたの手札から1枚消費することで、そのドミナンスカードを獲得できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your Daylight, you may play a special victory card into your play area to activate it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232123Z" creationid="aorin" creationdate="20171215T232123Z">
@@ -14814,6 +14894,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093212Z" creationid="nakahodo" creationdate="20180629T093115Z">
         <seg>各派閥は派閥ボードの上部の色と同じ色のささまざまなピースを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each game must include the Marquise de Cat, Eyrie Dynasties, or Lizard Cult, and we recommend including two of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115626Z" creationid="nakahodo" creationdate="20180629T115626Z">
+        <seg>各ゲームはマルキス・デ・キャット、遥か頂きの王族、リザード・カルトのいずれか、またはその中から2つ含めることを我々は推奨します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19447,6 +19535,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, when it would be placed in the discard pile, instead place it near the map to show it is available to be taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113809Z" creationid="nakahodo" creationdate="20180629T113809Z">
+        <seg>しかし、そのカードは捨て札山に配置するのではなく、利用可能であることを示すためにマップ近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when you enter a tile with any Webs, you remove all Webs there and return them to the Spider.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T230231Z" creationid="nakahodo" creationdate="20180531T230231Z">
@@ -19597,6 +19693,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210643Z" creationid="aorin" creationdate="20171231T210643Z">
         <seg>すまない！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>II Bird Dominance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113222Z" creationid="nakahodo" creationdate="20180629T113222Z">
+        <seg>II	鳥ドミナンス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47772,6 +47876,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot replace an activated dominance card with a different one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113646Z" creationid="nakahodo" creationdate="20180629T113646Z">
+        <seg>他のドミナンスカードによって、現在発動しているドミナンスカードを置き換えることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot retreat through the Entrance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T100242Z" creationid="nakahodo" creationdate="20180601T100214Z">
@@ -49448,6 +49560,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113149Z" creationid="nakahodo" creationdate="20180629T113149Z">
         <seg>あなたの朝開始時、ドミナンスカードに一致する森の民の空き地3つをあなたが支配している場合、あなたは直ちにゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win the game immediately if you rule two clearings in opposite corners at the start of your Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113534Z" creationid="nakahodo" creationdate="20180629T113534Z">
+        <seg>あなたの朝開始時、マップの角端にある空き地1つと、そこから対角端の空き地1つ、合計2つをあなたが支配している場合、あなたは直ちにゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
