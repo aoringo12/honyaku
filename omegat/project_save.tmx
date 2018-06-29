@@ -6152,6 +6152,38 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T191917Z" creationid="nakahodo" creationdate="20180629T191913Z">
+        <seg>8.3.3	ステッ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.3.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192031Z" creationid="nakahodo" creationdate="20180629T192031Z">
+        <seg>8.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192104Z" creationid="nakahodo" creationdate="20180629T192104Z">
+        <seg>8.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.4.1 Revolt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192118Z" creationid="nakahodo" creationdate="20180629T192118Z">
+        <seg>8.4.1	反乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -7060,6 +7092,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T184329Z" creationid="nakahodo" creationdate="20180629T184213Z">
         <seg>賛同空き地はシンパシートークンを持つ場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sympathetic clearing matching an unbuilt base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192356Z" creationid="nakahodo" creationdate="20180629T192317Z">
+        <seg>基地が建築されておらず、賛同空き地。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14273,6 +14313,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw 3 cards and place them face down on the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192103Z" creationid="nakahodo" creationdate="20180629T192103Z">
+        <seg>カード3枚をドローし、これらを裏向きで支援者デッキに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T064330Z" creationid="nakahodo" creationdate="20180209T064330Z">
@@ -17321,6 +17369,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill Sympathy Track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192003Z" creationid="nakahodo" creationdate="20180629T191914Z">
+        <seg>シンパシートラックを満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill all new open edges with Dark tiles, drawn from the tile stack, if any.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234450Z" creationid="nakahodo" creationdate="20180531T234450Z">
@@ -18687,6 +18743,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203423Z" creationid="nakahodo" creationdate="20180601T203423Z">
         <seg>安定性を得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192036Z" creationid="nakahodo" creationdate="20180629T192036Z">
+        <seg>支援者を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20497,6 +20561,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Choose Clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192230Z" creationid="nakahodo" creationdate="20180629T192230Z">
+        <seg>I	空き地の選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Choose You:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224116Z" creationid="aorin" creationdate="20180528T224035Z">
@@ -20649,6 +20721,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Spend Supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192326Z" creationid="nakahodo" creationdate="20180629T192326Z">
+        <seg>II	支援者を消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Terms.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T184006Z" creationid="nakahodo" creationdate="20180629T184006Z">
@@ -20677,6 +20757,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T150159Z" creationid="nakahodo" creationdate="20180629T145549Z">
         <seg>III	建物と得点の配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Resolve Effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192536Z" creationid="nakahodo" creationdate="20180629T192536Z">
+        <seg>III	</seg>
       </tuv>
     </tu>
     <tu>
@@ -30955,6 +31043,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the 10 sympathy tokens on the sympathy track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192019Z" creationid="nakahodo" creationdate="20180629T192019Z">
+        <seg>シンパシートラックに10シンパシートークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the 3 bases on the spaces matching the three forest nations.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T191907Z" creationid="nakahodo" creationdate="20180629T191907Z">
@@ -33416,6 +33512,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T083708Z" creationid="aorin" creationdate="20180410T083708Z">
         <seg>攻撃スペースのグールディスクを取り除き、それらをプレイヤーボードの側に置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove enemy pieces and place a base and warriors, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192157Z" creationid="nakahodo" creationdate="20180629T192157Z">
+        <seg>次のようにして、敵のピースを取り除き、基地1つと戦士たちを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36490,6 +36594,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054932Z" creationid="aorin" creationdate="20171216T054932Z">
         <seg>サポーター3体を消費して、一致する民のあなたが支配する空き地に砦を建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two supporters matching the nation of the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192351Z" creationid="nakahodo" creationdate="20180629T192351Z">
+        <seg>選択した空き地にいる森の民に一致する支援者カード2枚を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49764,6 +49876,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may Revolt any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192223Z" creationid="nakahodo" creationdate="20180629T192223Z">
+        <seg>あなたは、何度でも反乱を起こすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also play one in battle to deal hits (3.3.1).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T084609Z" creationid="nakahodo" creationdate="20180629T084609Z">
@@ -51267,6 +51387,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T160557Z" creationid="nakahodo" creationdate="20180629T160557Z">
         <seg>あなたの朝は、次の順番に従う3つのステップを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Birdsong has two steps in the following order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192111Z" creationid="nakahodo" creationdate="20180629T192111Z">
+        <seg>あなたの朝は、次の順番に従う2つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
