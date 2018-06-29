@@ -5559,8 +5559,8 @@ look something like the diagram above.</seg>
       <tuv lang="EN-US">
         <seg>5.1.3 Step 3:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115801Z" creationid="nakahodo" creationdate="20180629T115801Z">
-        <seg>5.1.3	ステッ3：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142048Z" creationid="nakahodo" creationdate="20180629T115801Z">
+        <seg>5.1.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5688,8 +5688,16 @@ KEYWORDS</seg>
       <tuv lang="EN-US">
         <seg>6.3.3 Step 3:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T141732Z" creationid="nakahodo" creationdate="20180629T141732Z">
-        <seg>6.3.3	ステッ3：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142035Z" creationid="nakahodo" creationdate="20180629T141732Z">
+        <seg>6.3.3	ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.3.4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142404Z" creationid="nakahodo" creationdate="20180629T142404Z">
+        <seg>6.3.4</seg>
       </tuv>
     </tu>
     <tu>
@@ -29697,6 +29705,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Starting Buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142419Z" creationid="nakahodo" creationdate="20180629T142419Z">
+        <seg>開始建物の配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035503Z" creationid="aorin" creationdate="20180408T035503Z">
@@ -29867,8 +29883,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a warrior in each clearing except the clearing in the opposite corner from the keep token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142019Z" creationid="nakahodo" creationdate="20180629T142019Z">
-        <seg>キープトークンから反対側の角に</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T142403Z" creationid="nakahodo" creationdate="20180629T142019Z">
+        <seg>キープトークンから反対角の空き地を除く、各空き地に戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29991,6 +30007,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171024T212120Z" creationid="aorin" creationdate="20171024T212120Z">
         <seg>ベストセラーに配置されたブレンドが完了すると、各プレイヤーはスレートに自身の色のブレンドマーカー1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place one sawmill, one workshop, and one recruiter among the clearing with the keep token and any adjacent clearings, in any combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T143543Z" creationid="nakahodo" creationdate="20180629T143543Z">
+        <seg>製材所1つ、作業場1つ、雇用所1つ</seg>
       </tuv>
     </tu>
     <tu>
