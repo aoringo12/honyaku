@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The defender still discards the played ambush card.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101737Z" creationid="nakahodo" creationdate="20180629T101737Z">
+        <seg>（ディフェンダーはプレイしたアンブッシュカードを捨て札にします）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The players must agree to the goal number during setup.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102210Z" creationid="aorin" creationdate="20180410T102210Z">
@@ -4433,6 +4441,30 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101013Z" creationid="nakahodo" creationdate="20180629T101013Z">
+        <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101157Z" creationid="nakahodo" creationdate="20180629T101157Z">
+        <seg>3.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101749Z" creationid="nakahodo" creationdate="20180629T101749Z">
+        <seg>3.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.Check stonemaiergames.com/games/charterstone/faq to see if any important errors have been discovered postpublication.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142350Z" creationid="nakahodo" creationdate="20171218T142350Z">
@@ -7357,6 +7389,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T110914Z" creationid="nakahodo" creationdate="20180411T090827Z">
         <seg>シーフが1スペース離れて移動した後、あなたは強制テレポートしますが、輝きを得ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the defender plays an ambush card, the attacker may cancel its effect by also playing an ambush card matching the clearing of the battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101643Z" creationid="nakahodo" creationdate="20180629T101643Z">
+        <seg>ディフェンダーがアンブッシュカードをプレイした後、アタッカーは戦場になる空き地に一致するアンブッシュカードをプレイすることで、その効果をキャンセルできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11467,6 +11507,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose another player in the clearing of battle to be the defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101151Z" creationid="nakahodo" creationdate="20180629T101151Z">
+        <seg>戦闘になる空き地のプレイヤー1人を選択し、ディフェンダーとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose any tile on the board and move it to an open space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T184105Z" creationid="nakahodo" creationdate="20180604T184105Z">
@@ -12632,6 +12680,14 @@ Place the board in the middle of the table.</seg>
         <seg>Defender Declares Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223249Z" creationid="aorin" creationdate="20171215T223249Z">
+        <seg>ディフェンダーのアンブッシュ宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender Declares Ambush.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101202Z" creationid="nakahodo" creationdate="20180629T101202Z">
         <seg>ディフェンダーのアンブッシュ宣言</seg>
       </tuv>
     </tu>
@@ -19345,6 +19401,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Foil Ambush.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101512Z" creationid="nakahodo" creationdate="20180629T101512Z">
+        <seg>I	アンブッシュの対処。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Forced Effects.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T082913Z" creationid="nakahodo" creationdate="20180629T082913Z">
@@ -20435,6 +20499,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no attacking warriors remain, end the battle immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101451Z" creationid="nakahodo" creationdate="20180629T101358Z">
+        <seg>この時点でアタッカーの戦士が残っていない場合、直ちに戦闘が終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no available items remain to damage, the Vagabond may damage an exhausted item.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231707Z" creationid="aorin" creationdate="20171215T231707Z">
@@ -21003,6 +21075,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the attacker does not foil this ambush, the attacker takes two hits immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101410Z" creationid="nakahodo" creationdate="20180629T101356Z">
+        <seg>アタッカーがこのアンブッシュに対処できない場合、アタッカーは直ちに2ヒットを受てしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the attacker has the victory condition of killing you, the attack causes you to lose 1 Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T094649Z" creationid="nakahodo" creationdate="20180411T094649Z">
@@ -21229,8 +21309,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If the rolls are equal, attacker and defender will deal the same number of hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T224116Z" creationid="aorin" creationdate="20171215T224116Z">
-        <seg>同値の場合、アタッカーとディフェンダーは同じ数のヒットを与え合います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101925Z" creationid="aorin" creationdate="20171215T224116Z">
+        <seg>同値の場合、アタッカーとディフェンダーは同じ数のヒットをお互いに与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32619,6 +32699,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll Dice and Add Extra Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101817Z" creationid="nakahodo" creationdate="20180629T101817Z">
+        <seg>ダイスロールとヒットの追加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roll Dice and Count Hits</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223905Z" creationid="aorin" creationdate="20171215T223905Z">
@@ -32637,8 +32725,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Roll both dice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T223914Z" creationid="aorin" creationdate="20171215T223914Z">
-        <seg>両者ダイスを振ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101845Z" creationid="aorin" creationdate="20171215T223914Z">
+        <seg>両方のダイスロールをします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38535,8 +38623,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The attacker will deal hits equal to the higher roll, and the defender will deal hits equal to the lower roll.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T224054Z" creationid="aorin" creationdate="20171215T224054Z">
-        <seg>アタッカーは高いロールに等しいヒットを与え、ディフェンダーは低いヒットに等しいヒットを与えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101912Z" creationid="aorin" creationdate="20171215T224054Z">
+        <seg>アタッカーは高い出目に等しいヒットを相手に与え、ディフェンダーは低い出目に等しいヒットを相手に与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38681,6 +38769,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223315Z" creationid="aorin" creationdate="20171215T223315Z">
         <seg>ディフェンダーは戦闘地に一致するアンブッシュカード一枚以上をプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The defender may play an ambush card matching the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101244Z" creationid="nakahodo" creationdate="20180629T101244Z">
+        <seg>ディフェンダーは戦場となる空き地に一致するアンブッシュカード1枚をプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45129,6 +45225,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you battle, choose a clearing where you have warriors or your pawn as the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101127Z" creationid="nakahodo" creationdate="20180629T101127Z">
+        <seg>あなたが戦闘する時、戦場として、自身の戦士かポーンを持つ空き地を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you collect a Dragon Gem, you must roll the Dragon die:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T104924Z" creationid="nakahodo" creationdate="20180412T104924Z">
@@ -46744,6 +46848,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T133856Z" creationid="aorin" creationdate="20180528T133856Z">
         <seg>あなたは、建築フェイズ時にルーム1枚を裏向きで配置しているか、自身のタンジョンにヒーローたちを「進行」させている間、あなたはアクティブプレイヤーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are the attacker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101134Z" creationid="nakahodo" creationdate="20180629T101134Z">
+        <seg>あなたがアタッカーとなります。</seg>
       </tuv>
     </tu>
     <tu>
