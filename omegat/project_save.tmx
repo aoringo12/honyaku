@@ -6900,6 +6900,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A given Aid action counts toward only one improvement in relationship.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212530Z" creationid="nakahodo" creationdate="20180629T212530Z">
+        <seg>援助アクション1回を与えることで、関係性は1スペースのみ改善されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A given piece can be moved any number of times per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T100851Z" creationid="nakahodo" creationdate="20180629T100817Z">
@@ -8469,6 +8477,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083024Z" creationid="aorin" creationdate="20171216T083024Z">
         <seg>援助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aid a non-Hostile faction the number of times listed between their current Allied space and their next Allied space during the same turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212415Z" creationid="nakahodo" creationdate="20180629T212415Z">
+        <seg>対象派閥への援助は、対象派閥が現在いる友好スペースと次の友好スペース間に記述された数だけ、1つのターン間で行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52408,6 +52424,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a Cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T211705Z" creationid="nakahodo" creationdate="20180629T211705Z">
+        <seg>a	コスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a Martial Law.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T193724Z" creationid="nakahodo" creationdate="20180629T193724Z">
@@ -52524,6 +52548,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172408Z" creationid="aorin" creationdate="20171228T172408Z">
         <seg>あんたの個人サプライにあるものとしてみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b Effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212537Z" creationid="nakahodo" creationdate="20180629T212537Z">
+        <seg>b	効果的</seg>
       </tuv>
     </tu>
     <tu>
