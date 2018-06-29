@@ -3348,6 +3348,22 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.2.3 Slots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085638Z" creationid="nakahodo" creationdate="20180629T085638Z">
+        <seg>2.2.3	スロット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.2.4 Ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090626Z" creationid="nakahodo" creationdate="20180629T090626Z">
+        <seg>2.2.4 Ruins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -14382,6 +14398,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T134049Z" creationid="nakahodo" creationdate="20180412T134049Z">
         <seg>各カードは移動かターンの何れかを指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each clearing has a number of slots, shown as white boxes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090012Z" creationid="nakahodo" creationdate="20180629T090012Z">
+        <seg>各空き地は白ボックスで示されるスロットをいくつか持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34134,6 +34158,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some slots begin the game filled with ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090634Z" creationid="nakahodo" creationdate="20180629T090634Z">
+        <seg>Some slots begin the game filled with ruins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes, Hero sequence can be important.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T221450Z" creationid="aorin" creationdate="20180528T221450Z">
@@ -45513,6 +45545,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you place a building, it fills an open slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090155Z" creationid="nakahodo" creationdate="20180629T090124Z">
+        <seg>建物を建築するたびに、空きスロット1つを埋めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you place a butler or an opponent uses your butler's building, gain $1.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T201915Z" creationid="aorin" creationdate="20171231T201915Z">
@@ -46968,6 +47008,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T132635Z" creationid="nakahodo" creationdate="20171127T132635Z">
         <seg>1スペース移動して、パワーを使用し、その後基本移動の一部としてまた別のスペースに移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot place a building in a clearing with no open slots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T090149Z" creationid="nakahodo" creationdate="20180629T090149Z">
+        <seg>空きスロットのない空き地には建築できません。</seg>
       </tuv>
     </tu>
     <tu>
