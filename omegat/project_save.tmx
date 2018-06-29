@@ -3318,8 +3318,32 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>2.1.5 Dominance Cards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T084610Z" creationid="nakahodo" creationdate="20180629T084610Z">
-        <seg>2.1.5 Dominance Cards.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085017Z" creationid="nakahodo" creationdate="20180629T084610Z">
+        <seg>2.1.5	ドミナンスカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.2 Clearings and Paths</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085440Z" creationid="nakahodo" creationdate="20180629T084934Z">
+        <seg>2.2	空き地と道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.2.1 Adjacency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085510Z" creationid="nakahodo" creationdate="20180629T084936Z">
+        <seg>2.2.1	隣接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.2.2 Nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085619Z" creationid="nakahodo" creationdate="20180629T085612Z">
+        <seg>2.2.2	森の民。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5758,8 +5782,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A clearing is adjacent to all other clearings linked to it by a path.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T204403Z" creationid="aorin" creationdate="20171215T204403Z">
-        <seg>空き地は道によってつながり他の空き地全てと隣接しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085554Z" creationid="aorin" creationdate="20171215T204403Z">
+        <seg>空き地は隣接する他の空き地全てに道によって接続されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7674,6 +7698,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074313Z" creationid="aorin" creationdate="20171216T074313Z">
         <seg>同盟者の利益とペナルティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Almost every clearing is aligned with one forest nation:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085616Z" creationid="nakahodo" creationdate="20180629T085616Z">
+        <seg>ほぼ全ての空き地は、森の民の1つが住んでいます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38815,6 +38847,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The map of the Woodland is composed of many clearings linked by paths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085459Z" creationid="nakahodo" creationdate="20180629T084934Z">
+        <seg>ウッドランドの森は道で繋がった多くの空き地で構成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The map section below shows a Combat Phase in progress.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T123638Z" creationid="aorin" creationdate="20180115T123638Z">
@@ -40396,6 +40436,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080039Z" creationid="nakahodo" creationdate="20180311T080039Z">
         <seg>あなたのロボタニストを配置するために4つの異なる場所があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are four dominance cards matching the four suits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085150Z" creationid="nakahodo" creationdate="20180629T084928Z">
+        <seg>4つのスートに一致するドミナンスカードが4枚あります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47276,6 +47324,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may also play one to permanently change your victory condition (4.3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085315Z" creationid="nakahodo" creationdate="20180629T084934Z">
+        <seg>これらはあなたの勝利条件を永久的に変更します（4.3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also save workers for use on future turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235209Z" creationid="aorin" creationdate="20180114T235209Z">
@@ -47848,6 +47904,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T134123Z" creationid="nakahodo" creationdate="20180603T134123Z">
         <seg>安定性1を消費することで、そのスケルトンに移動力＋4（合計8）を追加で獲得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may spend a dominance card for its suit, but it cannot be crafted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085214Z" creationid="nakahodo" creationdate="20180629T084928Z">
+        <seg>そのスートとしてドミナンスカードを消費できますが、クラフトはできません。</seg>
       </tuv>
     </tu>
     <tu>
