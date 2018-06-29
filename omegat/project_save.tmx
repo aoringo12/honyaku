@@ -6128,6 +6128,30 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.3 Faction Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184951Z" creationid="nakahodo" creationdate="20180629T184819Z">
+        <seg>8.3	派閥のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T185004Z" creationid="nakahodo" creationdate="20180629T185004Z">
+        <seg>8.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T185129Z" creationid="nakahodo" creationdate="20180629T185129Z">
+        <seg>8.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -18080,6 +18104,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form a supply of 10 warriors near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T185125Z" creationid="nakahodo" creationdate="20180629T185125Z">
+        <seg>あなたの近くに10戦士のサプライを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form a supply of 20 warriors near you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153940Z" creationid="nakahodo" creationdate="20180629T153940Z">
@@ -23002,6 +23034,14 @@ stack is first in turn order.</seg>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000726Z" creationid="aorin" creationdate="20180101T000726Z">
         <seg>そうした場合、ボードから自身の個人サプライにミニオンを得ます。
 クロニクルの全てのストーリーカードの幸福な王の数が、怒っている王の数と同数以上の場合に、永遠なる王は一ヶ月にわたる祭りへとあなたを招待します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they have no matching cards (including no birds), they must show their hand to the Alliance, and then the Alliance draws a card from the deck and adds it to the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184946Z" creationid="nakahodo" creationdate="20180629T184704Z">
+        <seg>そのプレイヤーが一致するカード（鳥は含まない）を持たない場合、そのプレイヤーは連合に手札の内容を見せ、その後、連合はデッキからカードを1枚ドローして支援者デッキにそれを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30390,6 +30430,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Bases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T185133Z" creationid="nakahodo" creationdate="20180629T185133Z">
+        <seg>基地を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Beans
 from The
 Fields onto
@@ -30903,6 +30951,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040937Z" creationid="aorin" creationdate="20180408T040937Z">
         <seg>（バッグに戻す代わりに）消費する前兆トークンは自身のプレイヤーボードの過去の略奪品スペースに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the 3 bases on the spaces matching the three forest nations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T191907Z" creationid="nakahodo" creationdate="20180629T191907Z">
+        <seg>3つの森の民に一致するスペースに基地3つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47395,8 +47451,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever another player removes a sympathy token or moves any warriors into a sympathetic clearing, they must add one card from their hand matching the affected clearing to the Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184702Z" creationid="nakahodo" creationdate="20180629T184702Z">
-        <seg>他プレイヤーがシンパシートークンを取り除いたり、賛同空き地に戦士を移動させたりした時、そのプレイヤーは支援者デッキに影響を受けた空き地</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T184812Z" creationid="nakahodo" creationdate="20180629T184702Z">
+        <seg>他プレイヤーがシンパシートークンを取り除いたり、賛同空き地に戦士を移動させたりした時、そのプレイヤーは影響を受けた空き地に一致するスートのカードを、手札から1枚、連合の支援者デッキに追加しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
