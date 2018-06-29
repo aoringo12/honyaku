@@ -6353,6 +6353,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.2.6 Maximum Rolled Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204510Z" creationid="nakahodo" creationdate="20180629T204507Z">
+        <seg>9.2.6	ダイスロールのヒットによる最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -16431,6 +16439,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each track can only hold three matching items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204219Z" creationid="nakahodo" creationdate="20180629T204219Z">
+        <seg>各トラックは一致するアイテムを3つまでのみ保持できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn She will want 1 specific type of Food:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T112706Z" creationid="aorin" creationdate="20171212T112706Z">
@@ -20769,6 +20785,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Item Tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204020Z" creationid="nakahodo" creationdate="20180629T204020Z">
+        <seg>I	アイテムトラック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Maximum Rolled Hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T102125Z" creationid="nakahodo" creationdate="20180629T102101Z">
@@ -20925,6 +20949,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T184006Z" creationid="nakahodo" creationdate="20180629T184006Z">
         <seg>II	用語。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>II The Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204437Z" creationid="nakahodo" creationdate="20180629T204408Z">
+        <seg>II	カバン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22575,6 +22607,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T213952Z" creationid="aorin" creationdate="20171215T213952Z">
         <seg>ヴァガボンドがゲームにいない、一致するアイテムトークンが残っていない場合は、プレイエリアにアイテムトークンを配置しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Vagabond would gain such an item beyond this limit, leave the item where it is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204354Z" creationid="nakahodo" creationdate="20180629T204354Z">
+        <seg>ヴァガボンドがこの上限を超えてそのようなアイテムを得ることになる場合、そのアイテムはそのままにしておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25228,6 +25268,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle, the Vagabond’s maximum rolled hits (3.2.2.I) equals his undamaged S, face up or face down, in his Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204652Z" creationid="nakahodo" creationdate="20180629T204508Z">
+        <seg>戦闘にて、ヴァガボンドのダイスロールによる最大ヒット数は（3.2.2.I）、カバンにある表向きか裏向きの破損していないSの数に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the affected clearing is the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
@@ -26454,6 +26502,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072724Z" creationid="aorin" creationdate="20171216T072724Z">
         <seg>アイテムトークン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items on the Vagabond’s faction board can be face up, face down, or damaged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T203937Z" creationid="nakahodo" creationdate="20180629T203937Z">
+        <seg>ヴァガボンドの派閥ボード上のアイテムの状態には、表向き、裏向き、破損があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40410,6 +40466,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond exhausts items, flipping them face down, to take many actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204013Z" creationid="nakahodo" creationdate="20180629T204013Z">
+        <seg>ヴァガボンドがアイテムを消耗すると、裏向きにに返されて多くのアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond may retreat into any adjacent clearing or forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223237Z" creationid="aorin" creationdate="20171215T223237Z">
@@ -46953,6 +47017,22 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111115Z" creationid="nakahodo" creationdate="20180412T110835Z">
         <seg>強制テレポートではなく強制移動する時、壁を通り抜ける、ダークタイル、他プレイヤーが居るスペースへの移動はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When gained, M, S, C, F, and H are placed face up in the Vagabond's Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204453Z" creationid="nakahodo" creationdate="20180629T204433Z">
+        <seg>M、S、C、F、Hを得る時、ヴァガボンドのカバンに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When gained, T, X, and B are placed face up on their matching tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204155Z" creationid="nakahodo" creationdate="20180629T204155Z">
+        <seg>T、X、Bを得る時、一致するトラックにそれらを表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
