@@ -3292,6 +3292,30 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.1.2 Draw from Shared Deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083347Z" creationid="nakahodo" creationdate="20180629T083347Z">
+        <seg>2.1.2	共有デッキからのドロー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.1.3 Spend and Discard to Shared Pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083800Z" creationid="nakahodo" creationdate="20180629T083431Z">
+        <seg>2.1.3	共有捨て札山へと消費や捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.1.4 Ambush Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083814Z" creationid="nakahodo" creationdate="20180629T083814Z">
+        <seg>2.1.4	アンブッシュカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -19113,6 +19137,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Reverse Substitution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083319Z" creationid="nakahodo" creationdate="20180629T083131Z">
+        <seg>II	その逆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IMPORTANT:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091612Z" creationid="nakahodo" creationdate="20180108T091612Z">
@@ -20747,6 +20779,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the deck is empty, shuffle the discard pile to form a new deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083451Z" creationid="nakahodo" creationdate="20180629T083429Z">
+        <seg>デッキが空の場合、捨て札山をシャッフルして新しいデッキを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the defender chooses to retreat, he immediately takes the hits listed on the following table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222554Z" creationid="aorin" creationdate="20171215T222554Z">
@@ -21684,6 +21724,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150607Z" creationid="aorin" creationdate="20171215T150607Z">
         <seg>コンポーネントを取り除く指示をされたが、その数だけ取り除けない場合、可能な限り取り除くようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to spend, discard, take, or give a bird card, you cannot substitute a card of another suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083309Z" creationid="nakahodo" creationdate="20180629T083309Z">
+        <seg>あなたが鳥カードを捨て札、取る、消費を指示された場合、あなたは他スートのカードを代わりに出来ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40311,6 +40359,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are five ambush cards:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083828Z" creationid="nakahodo" creationdate="20180629T083828Z">
+        <seg>5つのアンブッシュカードがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are five different scoring options, and all scoring must happen in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T232504Z" creationid="nakahodo" creationdate="20180311T232504Z">
@@ -44537,6 +44593,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you are prompted to discard or give away fox, rabbit, or mouse cards, you must treat your bird cards as the prompted suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083115Z" creationid="nakahodo" creationdate="20180629T083115Z">
+        <seg>あなたがキツネ、ウサギ、ネズミカードを捨て札にしたり取ることを指示された時、指示されたスートとして鳥カードを扱わなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you are prompted to place the Pits, you must place all three.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T160916Z" creationid="nakahodo" creationdate="20180430T160818Z">
@@ -45133,6 +45197,22 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T182125Z" creationid="nakahodo" creationdate="20180604T182125Z">
         <seg>あなたがジャイアントスパイダーかキャスター形態の時にアタックされるたび、あなたは蜘蛛の子形態に変化できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you are prompted to discard or spend a card, place it in the shared discard pile, unless it is a dominance card (4.3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083747Z" creationid="nakahodo" creationdate="20180629T083747Z">
+        <seg>あなたがカードの消費や捨て札にする指示をされるたび、それを共有捨て札山に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you are prompted to draw a card, take it from the shared deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083429Z" creationid="nakahodo" creationdate="20180629T083429Z">
+        <seg>カードのドローを指示された時、共有デッキからカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49416,6 +49496,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152957Z" creationid="nakahodo" creationdate="20180430T152945Z">
         <seg>よし、休息終わり。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one mouse, one rabbit, one fox, and two birds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T084005Z" creationid="nakahodo" creationdate="20180629T084005Z">
+        <seg>1ネズミ、1ウサギ、1キツネ、2鳥。</seg>
       </tuv>
     </tu>
     <tu>
