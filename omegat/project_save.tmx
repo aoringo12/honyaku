@@ -5702,6 +5702,30 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.3.5 Step 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144223Z" creationid="nakahodo" creationdate="20180629T144223Z">
+        <seg>6.3.5	ステップ5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144625Z" creationid="nakahodo" creationdate="20180629T144625Z">
+        <seg>6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144711Z" creationid="nakahodo" creationdate="20180629T144711Z">
+        <seg>6.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60 ltem Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052135Z" creationid="aorin" creationdate="20171228T181154Z">
@@ -10502,8 +10526,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Birdsong</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T235006Z" creationid="aorin" creationdate="20171215T235006Z">
-        <seg>早朝</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144634Z" creationid="aorin" creationdate="20171215T235006Z">
+        <seg>朝</seg>
       </tuv>
     </tu>
     <tu>
@@ -16737,6 +16761,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill Buildings Tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144231Z" creationid="nakahodo" creationdate="20180629T144231Z">
+        <seg>建物トラックを満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill all new open edges with Dark tiles, drawn from the tile stack, if any.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234450Z" creationid="nakahodo" creationdate="20180531T234450Z">
@@ -16957,6 +16989,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001854Z" creationid="aorin" creationdate="20171216T001854Z">
         <seg>まず、任意の回数リフォームとクラスができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, you may craft cards from your hand, using workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144810Z" creationid="nakahodo" creationdate="20180629T144810Z">
+        <seg>まず、作業場を使用して、あなたの手札からカードをクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30043,6 +30083,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place one wood token at each sawmill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144710Z" creationid="nakahodo" creationdate="20180629T144710Z">
+        <seg>各製材所に木材トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place or remove tiles only at the end of your turn, not at the end of possession turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024228Z" creationid="aorin" creationdate="20180408T024228Z">
@@ -30593,6 +30641,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T182526Z" creationid="nakahodo" creationdate="20180604T182526Z">
         <seg>あなたのプレイヤーボードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your remaining sawmills, workshops, and recruiters on the matching Buildings tracks of your faction board, filling all their spaces except the leftmost space of each track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T144628Z" creationid="nakahodo" creationdate="20180629T144622Z">
+        <seg>残っている製材所、作業場、雇用所を、あなたの派閥ボードの一致する建物トラックへと配置します。各トラックの最も左のスペースを除き全てが満たされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41475,6 +41531,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000600Z" creationid="aorin" creationdate="20171216T000600Z">
         <seg>その後、あなたは自身の手札上限5枚までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you may take up to three actions, plus one action per bird card spent, in any order and combination, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145115Z" creationid="nakahodo" creationdate="20180629T145115Z">
+        <seg>その後、次のように、任意の順番と組み合わせで、あなたは3アクションを実行します。加えて、鳥カード1枚を消費するごとに追加の1アクションを得ます。</seg>
       </tuv>
     </tu>
     <tu>
