@@ -16047,6 +16047,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time the Alliance places a sympathy token, they score victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181117Z" creationid="nakahodo" creationdate="20180629T181000Z">
+        <seg>連合がシンパシートークン1つを配置するたびに、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time the Marquise builds one of her buildings—a workshop, sawmill, or recruiter—she scores victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T140202Z" creationid="nakahodo" creationdate="20180629T140202Z">
@@ -39876,8 +39884,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Woodland Alliance works to gain the sympathy of the various creatures of the Woodland who are dissatisfied with their present condition.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T180923Z" creationid="nakahodo" creationdate="20180629T163837Z">
-        <seg>ウッドランド連合は、現在の状況に不満を持っているウッドランドの様々な生き物の共感を得るために、活動しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181044Z" creationid="nakahodo" creationdate="20180629T163837Z">
+        <seg>ウッドランド連合は、現在の状況に不満を持っているウッドランドの様々な生き物の同じ志と協力を得るために、活動しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40795,6 +40803,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T140245Z" creationid="nakahodo" creationdate="20180629T140245Z">
         <seg>マップ上にさらに同じ建物を持つことにより、より多くの勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The more sympathy on the map they have, the more victory points they score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181258Z" creationid="nakahodo" creationdate="20180629T181102Z">
+        <seg>マップに多くのシンパシートークンを持つと、より多くの勝利点を得点できます。</seg>
       </tuv>
     </tu>
     <tu>
