@@ -5857,8 +5857,8 @@ KEYWORDS</seg>
       <tuv lang="EN-US">
         <seg>7.3.3 Step 3:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155425Z" creationid="nakahodo" creationdate="20180629T155425Z">
-        <seg>7.3.3	ステッ3：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163146Z" creationid="nakahodo" creationdate="20180629T155425Z">
+        <seg>7.3.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5963,6 +5963,70 @@ KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162501Z" creationid="nakahodo" creationdate="20180629T162501Z">
         <seg>7.7	混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.7.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162706Z" creationid="nakahodo" creationdate="20180629T162706Z">
+        <seg>7.7.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.7.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162821Z" creationid="nakahodo" creationdate="20180629T162821Z">
+        <seg>7.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.7.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163141Z" creationid="nakahodo" creationdate="20180629T162918Z">
+        <seg>7.7..3	ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.7.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163133Z" creationid="nakahodo" creationdate="20180629T163133Z">
+        <seg>7.7.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.8 Leaders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163246Z" creationid="nakahodo" creationdate="20180629T163246Z">
+        <seg>7.8	リーダーたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.8.1 Builder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163313Z" creationid="nakahodo" creationdate="20180629T163313Z">
+        <seg>7.8.1	ビルダー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.8.2 Charismatic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163446Z" creationid="nakahodo" creationdate="20180629T163446Z">
+        <seg>7.8.1	カリスマティック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.8.3 Commander.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163605Z" creationid="nakahodo" creationdate="20180629T163603Z">
+        <seg>7.8.3	コマンダー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13317,6 +13381,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162936Z" creationid="nakahodo" creationdate="20180629T162922Z">
+        <seg>退位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description from the publisher:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T131522Z" creationid="nakahodo" creationdate="20180524T131522Z">
@@ -13565,6 +13637,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151355Z" creationid="nakahodo" creationdate="20171230T151355Z">
         <seg>全てのコンポーネントを共通サプライに捨て、これらをスクリプトリウムに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard all of the cards on the Decree except your Loyal Viziers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162907Z" creationid="nakahodo" creationdate="20180629T162907Z">
+        <seg>王宮大臣を除いて、法令にあるカード全てを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14310,6 +14390,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225335Z" creationid="aorin" creationdate="20180407T225335Z">
         <seg>ゴースト以外のプレイヤーのターン時、ゴーストと同じか隣接スペースにプレイヤーピースがある場合（壁は無視）、そのプレイヤーは次を消費することでメンタルブロックをゴーストに仕掛けることができます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During any battle as the attacker, you deal an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163631Z" creationid="nakahodo" creationdate="20180629T163631Z">
+        <seg>任意の戦闘でのアタッカー時に、追加の1ヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16215,6 +16303,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End Daylight and begin Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163241Z" creationid="nakahodo" creationdate="20180629T163241Z">
+        <seg>昼が終了し、夜を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End of Game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112051Z" creationid="aorin" creationdate="20171219T112051Z">
@@ -17333,6 +17429,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T162054Z" creationid="nakahodo" creationdate="20180413T162054Z">
         <seg>フレア（ヴァリアント）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip your current leader face down and set it aside, choose a new leader from those face up, and place it near your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162923Z" creationid="nakahodo" creationdate="20180629T162923Z">
+        <seg>その後、現在のリーダーを裏向きにして側に置き、残っている表向きの新しいリーダー1人を選択して、あなたの派閥ボード近くに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20191,6 +20295,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Humiliate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162722Z" creationid="nakahodo" creationdate="20180629T162722Z">
+        <seg>屈辱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hunt</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T054259Z" creationid="nakahodo" creationdate="20180413T054253Z">
@@ -20213,6 +20325,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074931Z" creationid="aorin" creationdate="20180410T074931Z">
         <seg>ハンター（エキスパート）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I A New Generation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163042Z" creationid="nakahodo" creationdate="20180629T163042Z">
+        <seg>I	新世代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23480,6 +23600,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you ever have no faceup leaders remaining, flip all of your leaders face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163117Z" creationid="nakahodo" creationdate="20180629T163117Z">
+        <seg>表向きのリーダーが残っていない場合、裏向きのリーダー全てを表向きにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you fall into turmoil, discard all of the cards in the Decree except any Loyal Viziers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002915Z" creationid="aorin" creationdate="20171216T002915Z">
@@ -26665,6 +26793,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082505Z" creationid="aorin" creationdate="20180409T082505Z">
         <seg>影響力+2の経験値を失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose one victory point per bird card (including Loyal Viziers) on the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162817Z" creationid="nakahodo" creationdate="20180629T162817Z">
+        <seg>法令にある、（王宮大臣を含んだ）鳥カードごとに、勝利点1つを失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32320,6 +32456,14 @@ players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162833Z" creationid="nakahodo" creationdate="20180629T162833Z">
+        <seg>粛清。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put 4 sky island tiles in each inactive Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003236Z" creationid="aorin" creationdate="20171229T003236Z">
@@ -33379,6 +33523,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T225128Z" creationid="nakahodo" creationdate="20180531T225128Z">
         <seg>構造に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163221Z" creationid="nakahodo" creationdate="20180629T163221Z">
+        <seg>休息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37948,6 +38100,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T152642Z" creationid="nakahodo" creationdate="20180629T151523Z">
         <seg>鷲の王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳有る一族としての復権を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie has four leader cards, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163304Z" creationid="nakahodo" creationdate="20180629T163304Z">
+        <seg>鷲は次のようにリーダーカードを4枚持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44309,6 +44469,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuck your Loyal Viziers into the Decree spaces listed on your new leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163025Z" creationid="nakahodo" creationdate="20180629T163025Z">
+        <seg>新しいリーダーに記述された法令スペースに王宮大臣を差し込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuck your two Loyal Vizier cards, showing their suit, into the Decree spaces of your faction board matching the two listed on your leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T160016Z" creationid="nakahodo" creationdate="20180629T155736Z">
@@ -47209,6 +47377,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you craft, you ignore your Disdain for Trade special ability (7.2.3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163532Z" creationid="nakahodo" creationdate="20180629T163437Z">
+        <seg>あなたがクラフトアクションを実行するたびに、特殊能力として取引軽視（7.2.3）を無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
@@ -47597,6 +47773,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T200824Z" creationid="aorin" creationdate="20171231T200824Z">
         <seg>あなたが目標を得点するたびに、あなたは進展トークンを進む、戻す、移動させない、のいずれかを選択できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you take a Recruit action, you must place two warriors instead of one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163558Z" creationid="nakahodo" creationdate="20180629T163521Z">
+        <seg>あなたが雇用アクションを実行するたびに、戦士1体の代わりに2体配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50875,6 +51059,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003625Z" creationid="aorin" creationdate="20171216T003625Z">
         <seg>あなたの王宮大臣は移動と建築を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Loyal Viziers begin on Recruit and Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163452Z" creationid="nakahodo" creationdate="20180629T163452Z">
+        <seg>あなたの王宮大臣は雇用と建築を開始します。</seg>
       </tuv>
     </tu>
     <tu>
