@@ -6031,6 +6031,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.8.4 Despot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163641Z" creationid="nakahodo" creationdate="20180629T163641Z">
+        <seg>7.8.4	独裁者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -6052,6 +6060,14 @@ PASS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224034Z" creationid="nakahodo" creationdate="20171224T224034Z">
         <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.1 Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163806Z" creationid="nakahodo" creationdate="20180629T163806Z">
+        <seg>8.1	概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -39858,6 +39874,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Woodland Alliance works to gain the sympathy of the various creatures of the Woodland who are dissatisfied with their present condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163837Z" creationid="nakahodo" creationdate="20180629T163837Z">
+        <seg>The Woodland Alliance works to gain the sympathy of the various creatures of the Woodland who are dissatisfied with their present condition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Workshop</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080451Z" creationid="nakahodo" creationdate="20180311T080451Z">
@@ -47685,6 +47709,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003647Z" creationid="aorin" creationdate="20171216T003647Z">
         <seg>対戦相手の建物を取り除くたびに、あなたは別の勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you remove at least one enemy building or token in battle, you score another victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T163749Z" creationid="nakahodo" creationdate="20180629T163749Z">
+        <seg>あなたが戦闘で敵の建物かトークンを少なくとも1つを取り除くたびに、あなたは追加の勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
