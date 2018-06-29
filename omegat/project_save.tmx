@@ -14690,6 +14690,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Daylight, whenever you move from one clearing to another, you may move any number of warriors from one Allied faction with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213736Z" creationid="nakahodo" creationdate="20180629T213736Z">
+        <seg>昼時、あなたが区画1つから他区画へと移動するたびに、あなたのポーンと共にいる同盟派閥1つから戦士たちを任意の数、移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During Daylight, you can craft any number of cards from your hand into improvements.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210924Z" creationid="aorin" creationdate="20171215T210924Z">
@@ -16459,6 +16467,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231553Z" creationid="aorin" creationdate="20171215T231553Z">
         <seg>ヴァガボンドがヒット1つを受けるたびに、利用可能なアイテム1つが壊れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time you Aid an Allied faction, score two victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213128Z" creationid="nakahodo" creationdate="20180629T213128Z">
+        <seg>同盟派閥を援助するたびに、2勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20945,6 +20961,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Allied Status.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213101Z" creationid="nakahodo" creationdate="20180629T212717Z">
+        <seg>II	同盟ステータス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195541Z" creationid="nakahodo" creationdate="20180629T195541Z">
@@ -21277,6 +21301,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080235Z" creationid="nakahodo" creationdate="20180413T080235Z">
         <seg>モンスターを持つ部族が散った場合、モンスターを破棄しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a faction’s relationship marker reaches the final space on the Allied track, you are now trusted by the warriors of that faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212837Z" creationid="nakahodo" creationdate="20180629T212837Z">
+        <seg>派閥の関係性マーカーが友好トラックの最終スペースに到達した場合、あなたはその派閥の戦士たちの信頼を得られるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28158,6 +28190,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T221135Z" creationid="aorin" creationdate="20180528T221135Z">
         <seg>そのヒーローをあなたの得点エリアに移動させ、裏向きに配置し、ソウルとして合計に追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move that faction's relationship marker to the next Allied space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212656Z" creationid="nakahodo" creationdate="20180629T212540Z">
+        <seg>その派閥の関係性マーカーを次の友好スペースへと移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35274,6 +35314,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T152026Z" creationid="aorin" creationdate="20180115T152026Z">
         <seg>科学：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score the victory points listed in the new space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212708Z" creationid="nakahodo" creationdate="20180629T212708Z">
+        <seg>新しいスペースに記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44205,6 +44253,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This faction is now Allied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213038Z" creationid="nakahodo" creationdate="20180629T213012Z">
+        <seg>この派閥は今や同盟です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This glossary defines important terminology relevant to all five roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T222850Z" creationid="nakahodo" creationdate="20180531T222850Z">
@@ -52424,6 +52480,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a Aiding Ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213025Z" creationid="nakahodo" creationdate="20180629T213025Z">
+        <seg>a	支援同盟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a Cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T211705Z" creationid="nakahodo" creationdate="20180629T211705Z">
@@ -52554,8 +52618,16 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>b Effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212537Z" creationid="nakahodo" creationdate="20180629T212537Z">
-        <seg>b	効果的</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212542Z" creationid="nakahodo" creationdate="20180629T212537Z">
+        <seg>b	効果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b Moving with Ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213140Z" creationid="nakahodo" creationdate="20180629T213140Z">
+        <seg>b	同盟国に移動。</seg>
       </tuv>
     </tu>
     <tu>
