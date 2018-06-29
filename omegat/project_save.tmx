@@ -5750,6 +5750,30 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.5.4 Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150406Z" creationid="nakahodo" creationdate="20180629T150406Z">
+        <seg>6.5.4	雇用所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.5 Overtime.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150526Z" creationid="nakahodo" creationdate="20180629T150526Z">
+        <seg>6.5.5	残業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.6 Evening</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150622Z" creationid="nakahodo" creationdate="20180629T150622Z">
+        <seg>6.6	夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60 ltem Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052135Z" creationid="aorin" creationdate="20171228T181154Z">
@@ -5763,6 +5787,14 @@ KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070948Z" creationid="nakahodo" creationdate="20180311T070948Z">
         <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.1 Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150853Z" creationid="nakahodo" creationdate="20180629T150853Z">
+        <seg>7.1	概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -13921,6 +13953,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw one card, plus one card per uncovered draw bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150744Z" creationid="nakahodo" creationdate="20180629T150744Z">
+        <seg>カード1枚をドローします。さらに、覆われていないドローボーナスごとに、カード1枚を追加でドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw up to your hand size, which equals your Spirit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T165106Z" creationid="nakahodo" creationdate="20180604T165106Z">
@@ -16628,6 +16668,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T152352Z" creationid="nakahodo" creationdate="20180604T152352Z">
         <seg>目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyrie Dynasties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150849Z" creationid="nakahodo" creationdate="20180629T150849Z">
+        <seg>遥か頂きの王族</seg>
       </tuv>
     </tu>
     <tu>
@@ -20051,8 +20099,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>III Place Building and Score.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T145549Z" creationid="nakahodo" creationdate="20180629T145549Z">
-        <seg>III Place Building and Score.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150159Z" creationid="nakahodo" creationdate="20180629T145549Z">
+        <seg>III	建物と得点の配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30147,6 +30195,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place one warrior at each recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150423Z" creationid="nakahodo" creationdate="20180629T150423Z">
+        <seg>各雇用所に戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place one wood at each Sawmill.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
@@ -30383,6 +30439,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093122Z" creationid="aorin" creationdate="20171212T093122Z">
         <seg>テーブル中央にボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the chosen building on the chosen clearing, and score the victory points revealed on the space under the building removed from your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150356Z" creationid="nakahodo" creationdate="20180629T150356Z">
+        <seg>最後に、選択した空き地に建物を配置し、自身の派閥ボードから取り除いた建物があったスペースに記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35606,6 +35670,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend a card matching the clearing of a sawmill, and place a wood token there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150614Z" creationid="nakahodo" creationdate="20180629T150614Z">
+        <seg>製材所の空き地1つに一致するカード1枚を消費して、そこに木材トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend a fox, rabbit, or mouse card to place a supporter in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053544Z" creationid="aorin" creationdate="20171216T053544Z">
@@ -37460,6 +37532,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000610Z" creationid="aorin" creationdate="20171216T000610Z">
         <seg>鷲王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T151523Z" creationid="nakahodo" creationdate="20180629T151523Z">
+        <seg>he Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41449,6 +41529,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T134225Z" creationid="nakahodo" creationdate="20180406T134225Z">
         <seg>その後、未公開カードがゴーストカードだった場合、あなたはこれを公開し、自身のターンが終了するまで、移動力と影響力に記述されたボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, if you have more than five cards in your hand, discard cards of your choice until you have five.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150838Z" creationid="nakahodo" creationdate="20180629T150838Z">
+        <seg>その後、手札が5枚を上回っている場合、手札が5枚になるまで、カードを選択して捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48168,6 +48256,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061820Z" creationid="nakahodo" creationdate="20180601T061820Z">
         <seg>あなたは1つのエンカウンターでこれらアクションを任意の数だけ実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take this action only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150503Z" creationid="nakahodo" creationdate="20180629T150503Z">
+        <seg>あなたはターンごとに1回のみ、このアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
