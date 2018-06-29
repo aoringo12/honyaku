@@ -5541,6 +5541,46 @@ look something like the diagram above.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.1.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115714Z" creationid="nakahodo" creationdate="20180629T115655Z">
+        <seg>5.1.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115801Z" creationid="nakahodo" creationdate="20180629T115801Z">
+        <seg>5.1.3	ステッ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115832Z" creationid="nakahodo" creationdate="20180629T115819Z">
+        <seg>5.1.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.5 Step 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115924Z" creationid="nakahodo" creationdate="20180629T115924Z">
+        <seg>5.1.5	ステップ5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.6 Step 6:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T120029Z" creationid="nakahodo" creationdate="20180629T120029Z">
+        <seg>5.1.6	ステップ6：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6
 KEYWORDS</seg>
       </tuv>
@@ -13008,6 +13048,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determine the starting player and seating order randomly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115707Z" creationid="nakahodo" creationdate="20180629T115648Z">
+        <seg>スタートプレイヤーを決定し、席に付きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Devotions</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T170734Z" creationid="nakahodo" creationdate="20180601T170734Z">
@@ -13677,6 +13725,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T143008Z" creationid="nakahodo" creationdate="20180604T143008Z">
         <seg>パワーカードのドロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Starting Hands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115807Z" creationid="nakahodo" creationdate="20180629T115807Z">
+        <seg>開始手札をドロー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15090,6 +15146,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player draws three cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115822Z" creationid="nakahodo" creationdate="20180629T115818Z">
+        <seg>各プレイヤーはカード3枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player gains .</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030600Z" creationid="aorin" creationdate="20171212T030548Z">
@@ -15226,6 +15290,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each player places their score marker on “0” on the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T120016Z" creationid="nakahodo" creationdate="20180629T120016Z">
+        <seg>各プレイヤはスコアトラックの「0」に自身のスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each player reads their companion card, maks their choice on the card, and also marks their selection on their Charter Chest (either 1 capacity of 1 glory).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235631Z" creationid="aorin" creationdate="20171231T235631Z">
@@ -15350,6 +15422,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080152Z" creationid="nakahodo" creationdate="20171230T080152Z">
         <seg>各プレイヤーはキャンペーン勝利カードを1枚ずつ受け取ります（これは全て同じです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player takes their chosen faction board and all pieces of the faction color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115754Z" creationid="nakahodo" creationdate="20180629T115754Z">
+        <seg>各プレイヤーは自身の派閥ボードと、派閥色のピース全てを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16468,6 +16548,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T160659Z" creationid="nakahodo" creationdate="20180601T160320Z">
         <seg>保持したトレジャーカードは、あなたのターンであればいつでも、表向きにして公開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faction Setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T120037Z" creationid="nakahodo" creationdate="20180629T120037Z">
+        <seg>派閥のセットアップ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18019,6 +18107,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T140620Z" creationid="nakahodo" creationdate="20171213T140620Z">
         <seg>ゲームプレイ概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather Faction Pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115724Z" creationid="nakahodo" creationdate="20180629T115724Z">
+        <seg>派閥のピースを集める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24296,6 +24392,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the setup order (A, B, C, etc.), each player follows their faction's setup instructions, listed in their rules section and on the back of their faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T120039Z" creationid="nakahodo" creationdate="20180629T120039Z">
+        <seg>In the setup order (A, B, C, etc.), each player follows their faction's setup instructions, listed in their rules section and on the back of their faction board.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the unlikely case that there is no possible action, or you no longer wish to perform any actions, you are allowed to pass (skip taking an action).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T110048Z" creationid="aorin" creationdate="20171212T110048Z">
@@ -29433,6 +29537,22 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115837Z" creationid="nakahodo" creationdate="20180629T115837Z">
+        <seg>遺跡の配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Score Markers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115931Z" creationid="nakahodo" creationdate="20180629T115931Z">
+        <seg>スコアマーカーを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Treasure</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035503Z" creationid="aorin" creationdate="20180408T035503Z">
@@ -29581,6 +29701,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224359Z" creationid="aorin" creationdate="20171231T224359Z">
         <seg>指定された区画ごとにランダムなミニオン1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a ruin marker on each slot with a ruin icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115914Z" creationid="nakahodo" creationdate="20180629T115914Z">
+        <seg>マップ上の遺跡アイコンがある各スロットへと、遺跡マーカーを配置します。</seg>
       </tuv>
     </tu>
     <tu>
