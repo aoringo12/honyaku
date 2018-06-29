@@ -6200,6 +6200,54 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.5 Daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194522Z" creationid="nakahodo" creationdate="20180629T194522Z">
+        <seg>8.5	昼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.5.1 Support.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194601Z" creationid="nakahodo" creationdate="20180629T194601Z">
+        <seg>8.5.1	支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.5.2 Train.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194620Z" creationid="nakahodo" creationdate="20180629T194620Z">
+        <seg>8.5.2	訓練。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.5.3 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194840Z" creationid="nakahodo" creationdate="20180629T194840Z">
+        <seg>8.5.3	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.6 Evening</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195049Z" creationid="nakahodo" creationdate="20180629T195049Z">
+        <seg>8.6	夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.6.1 Military Operations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195347Z" creationid="nakahodo" creationdate="20180629T195347Z">
+        <seg>8.6.1	軍事作戦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -7453,6 +7501,14 @@ player.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061047Z" creationid="nakahodo" creationdate="20180413T060736Z">
         <seg>Adapt
 適応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a card from your hand to the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194613Z" creationid="nakahodo" creationdate="20180629T194613Z">
+        <seg>あなたの手札からカード1枚を支援者デッキに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13051,6 +13107,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000420Z" creationid="aorin" creationdate="20171216T000420Z">
         <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft a card from your hand, using sympathy tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195043Z" creationid="nakahodo" creationdate="20180629T195043Z">
+        <seg>シンパシートークンを使用することで、あなtなお手札からカード1枚をクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20629,6 +20693,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113012Z" creationid="nakahodo" creationdate="20180629T113012Z">
         <seg>I	ネズミ、ウサギ、キツネドミネンス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195503Z" creationid="nakahodo" creationdate="20180629T195503Z">
+        <seg>I	移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36598,6 +36670,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend a card whose nation matches a built base to place a warrior in the Officers box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194754Z" creationid="nakahodo" creationdate="20180629T194754Z">
+        <seg>建築された基地の森の民に一致する、カード1枚を手札から消費することで、将校ボックスに戦士1つを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend a fox, rabbit, or mouse card to place a supporter in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053544Z" creationid="aorin" creationdate="20171216T053544Z">
@@ -37378,6 +37458,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083237Z" creationid="aorin" creationdate="20171216T083237Z">
         <seg>トーカルの遺跡トークン1つを鳥、これを公開し、自身の消耗したアイテムプールにこれを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take one move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195535Z" creationid="nakahodo" creationdate="20180629T195535Z">
+        <seg>移動1回を実行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44042,6 +44130,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This phase has two steps in the following order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195333Z" creationid="nakahodo" creationdate="20180629T195333Z">
+        <seg>あなたの夜は、次の順番に従う2つのステップを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This phase is also sub-divided into 3 stages:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T210836Z" creationid="aorin" creationdate="20180114T210836Z">
@@ -50600,6 +50696,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080035Z" creationid="nakahodo" creationdate="20180413T080022Z">
         <seg>あなたは依然として通常どおりにこの部族をアクティブにできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may take actions, as follows, up to your number of officers, in any order and combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195500Z" creationid="nakahodo" creationdate="20180629T195500Z">
+        <seg>あなたは次で示されるアクションを、任意の順番と組み合わせで、所持する将校の数まで実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may take the following actions in any order and combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194546Z" creationid="nakahodo" creationdate="20180629T194546Z">
+        <seg>あなたは次のアクションを、任意の順番と組み合わせで実行できます。</seg>
       </tuv>
     </tu>
     <tu>
