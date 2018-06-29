@@ -4465,6 +4465,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103230Z" creationid="nakahodo" creationdate="20180629T103230Z">
+        <seg>3.3.3	ステッ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.Check stonemaiergames.com/games/charterstone/faq to see if any important errors have been discovered postpublication.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142350Z" creationid="nakahodo" creationdate="20171218T142350Z">
@@ -5205,6 +5213,22 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145316Z" creationid="nakahodo" creationdate="20171218T145316Z">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.1 How to Win</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103508Z" creationid="nakahodo" creationdate="20180629T103508Z">
+        <seg>4.1	勝利するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.2 Scoring Victory Points</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103532Z" creationid="nakahodo" creationdate="20180629T103532Z">
+        <seg>4.2	勝利点の得点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12629,6 +12653,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103232Z" creationid="nakahodo" creationdate="20180629T103232Z">
+        <seg>ヒットを与える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deal​ ​hits​ simultaneously.​ Then the battle ends.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221751Z" creationid="aorin" creationdate="20171215T221751Z">
@@ -14730,6 +14762,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each faction has a unique way of scoring victory points, but any faction can score victory points as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103534Z" creationid="nakahodo" creationdate="20180629T103534Z">
+        <seg>Each faction has a unique way of scoring victory points, but any faction can score victory points as follows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each faction has various pieces matching the color at the top of their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093212Z" creationid="nakahodo" creationdate="20180629T093115Z">
@@ -14742,6 +14782,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083647Z" creationid="nakahodo" creationdate="20171211T083647Z">
         <seg>各ゲームのラウンドは5フェイズで構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each hit removes one piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103256Z" creationid="nakahodo" creationdate="20180629T103245Z">
+        <seg>1ヒットごとにピース1つを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15987,6 +16035,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151923Z" creationid="nakahodo" creationdate="20180108T151923Z">
         <seg>Extended Working Hours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extra hits are not limited by the number of warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103036Z" creationid="nakahodo" creationdate="20180629T103036Z">
+        <seg>追加したヒットは戦場の戦士数によって制限されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19513,6 +19569,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>III Defenseless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103057Z" creationid="nakahodo" creationdate="20180629T103057Z">
+        <seg>III	無防備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IMPORTANT:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091612Z" creationid="nakahodo" creationdate="20180108T091612Z">
@@ -21215,6 +21279,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221147Z" creationid="aorin" creationdate="20171215T221147Z">
         <seg>戦闘地にディフェンダーが戦士をもたない場合、そこのディフェンダーのピースを全て取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the defender has no warriors in the clearing of battle, the attacker will deal an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103220Z" creationid="nakahodo" creationdate="20180629T103220Z">
+        <seg>ディフェンダーが戦場で戦士を持たない場合、アタッカーは相手に1ヒットを追加で与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38933,6 +39005,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first player to reach 30 victory points immediately wins the game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103524Z" creationid="nakahodo" creationdate="20180629T103524Z">
+        <seg>30勝利点に到達したプレイヤーがいたら、直ちにそのプレイヤーがゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first player to reach 40 victory points immediately wins the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T231918Z" creationid="aorin" creationdate="20171215T231918Z">
@@ -39831,6 +39911,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T064537Z" creationid="aorin" creationdate="20171213T064537Z">
         <seg>プレイヤーは布袋を取り、自身の炭鉱にいる妖精と同数のリソースキューブを引きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player taking hits chooses which pieces to remove, but must remove all of their warriors in the clearing of battle before removing any of their buildings or tokens there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103500Z" creationid="nakahodo" creationdate="20180629T103246Z">
+        <seg>取り除くピースはそれらを所持するプレイヤーが選択しますが、そこにある自身の建物やトークンを取り除く前に、自身の戦士全てを取り除く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
