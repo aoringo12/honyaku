@@ -6072,6 +6072,22 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.2 Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182321Z" creationid="nakahodo" creationdate="20180629T182321Z">
+        <seg>8.2	派閥ルールと能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.2.1 Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182328Z" creationid="nakahodo" creationdate="20180629T182328Z">
+        <seg>8.2.1	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9
 SCORING</seg>
       </tuv>
@@ -10597,6 +10613,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224033Z" creationid="nakahodo" creationdate="20171224T224033Z">
         <seg>あなたのキャパシティにもとづいて、幾つかのコンポーネントを保持し、残りを共通サプライに破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bases allow the Alliance to train officers, increasing their military flexibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182315Z" creationid="nakahodo" creationdate="20180629T182315Z">
+        <seg>連合の基地は将校をトレーニングし、軍の柔軟性を高めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,6 +18671,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101207Z" creationid="aorin" creationdate="20171219T101207Z">
         <seg>示された効果を得ます（クラウドポートは3VP）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaining the sympathy of the people requires supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181605Z" creationid="nakahodo" creationdate="20180629T181519Z">
+        <seg>森の民の共感を得るために、サポーターが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37579,6 +37611,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Alliance uses sympathy tokens to craft during Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182542Z" creationid="nakahodo" creationdate="20180629T182542Z">
+        <seg>連合は昼時にクラフトするためシンパシートークンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Automa does not gain reputation from the track, but it may trigger income for human players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100950Z" creationid="nakahodo" creationdate="20180108T100950Z">
@@ -39884,8 +39924,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Woodland Alliance works to gain the sympathy of the various creatures of the Woodland who are dissatisfied with their present condition.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181044Z" creationid="nakahodo" creationdate="20180629T163837Z">
-        <seg>ウッドランド連合は、現在の状況に不満を持っているウッドランドの様々な生き物の同じ志と協力を得るために、活動しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181524Z" creationid="nakahodo" creationdate="20180629T163837Z">
+        <seg>ウッドランド連合は、現在の状況に不満を持っているウッドランドの様々な生き物の同じ志、共感を得るために、活動しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42740,6 +42780,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003910Z" creationid="aorin" creationdate="20171229T003910Z">
         <seg>これらのルールは、全てのゲーム中、空島に適応されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These supporters can also be put toward violent ends, inciting outright rebellion across the forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181925Z" creationid="nakahodo" creationdate="20180629T181925Z">
+        <seg>これら支援者はまた、暴力的な終わりへと向かい、森全体を巻き込んだ反乱を引き起こす可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46006,6 +46054,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
         <seg>プレイヤーが何かを「得る」とき、それぞれのサプライからそれを取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a revolt erupts, the Alliance will establish a base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182132Z" creationid="nakahodo" creationdate="20180629T182132Z">
+        <seg>反乱が勃発するとき、連合は基地を設置します。</seg>
       </tuv>
     </tu>
     <tu>
