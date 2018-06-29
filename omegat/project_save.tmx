@@ -8830,6 +8830,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allied warriors do not gain the benefit of your Nimble special ability and cannot enter forests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214037Z" creationid="nakahodo" creationdate="20180629T214037Z">
+        <seg>同盟の戦士たちはあなたの機敏特別能力の恩恵は得られず、森に入れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ally Benefits and Penalties</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074313Z" creationid="aorin" creationdate="20171216T074313Z">
@@ -25200,6 +25208,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141347Z" creationid="aorin" creationdate="20180528T141347Z">
         <seg>XP順に、「あなたがこれを建築する時」効果を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a battle with Allied warriors, you can take hits by removing Allied warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214701Z" creationid="nakahodo" creationdate="20180629T214701Z">
+        <seg>同盟戦士と共にした戦闘で、同盟戦士たちを取り除くことによって、ヒットを受けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41647,6 +41663,15 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum hits you can roll equals the number of Allied warriors there plus your total undamaged S. (You cannot use Allied warriors to deal hits against the same Ally.) d Allied Casualties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214413Z" creationid="nakahodo" creationdate="20180629T214413Z">
+        <seg>ダイスロールの最大ヒット数は、同盟戦士の数に加えて、あなたの破損していないSの数に等しいです。（同じ同盟を対象として同盟戦士を使用することはできません）
+d	同盟の犠牲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum number of hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224610Z" creationid="aorin" creationdate="20171215T224610Z">
@@ -48593,6 +48618,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you initiate a battle, you may treat Allied pieces of one faction in the clearing of battle as your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214220Z" creationid="nakahodo" creationdate="20180629T214054Z">
+        <seg>あなたが戦闘を開始するたびに、戦闘区画にいる同盟派閥のピースらもあなたが所有しているとして扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you move the progress token onto an income icon (O), gain 3 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203447Z" creationid="aorin" creationdate="20171231T203447Z">
@@ -52626,8 +52659,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>b Moving with Ally.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213140Z" creationid="nakahodo" creationdate="20180629T213140Z">
-        <seg>b	同盟国に移動。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214123Z" creationid="nakahodo" creationdate="20180629T213140Z">
+        <seg>b	同盟と共に移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52678,6 +52711,14 @@ with the learn-to-play guide.</seg>
         <seg>このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）も含めたい場合は、木箱Cを開ける。
 このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）を含めたくない場合は、木箱Dを開ける。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c Attacking with Ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214128Z" creationid="nakahodo" creationdate="20180629T214053Z">
+        <seg>c	同盟と共に攻撃する。</seg>
       </tuv>
     </tu>
     <tu>
