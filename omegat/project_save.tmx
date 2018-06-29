@@ -5855,6 +5855,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155425Z" creationid="nakahodo" creationdate="20180629T155425Z">
+        <seg>7.3.3	ステッ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052250Z" creationid="aorin" creationdate="20180102T052250Z">
@@ -11847,6 +11855,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
         <seg>形態の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155432Z" creationid="nakahodo" creationdate="20180629T155432Z">
+        <seg>リーダーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21643,6 +21659,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Marquise is not playing, Place those pieces in the corner clearing of your choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155420Z" creationid="nakahodo" creationdate="20180629T155420Z">
+        <seg>マルキスがゲームに居ない場合、マップの角1つをあなたが選択してピースと止まり木を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Operative is in contested territory with just a single enemy Soldier, you may have the Operative kill the opposing Soldier.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T033424Z" creationid="aorin" creationdate="20180115T033358Z">
@@ -30141,6 +30165,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224359Z" creationid="aorin" creationdate="20171231T224359Z">
         <seg>指定された区画ごとにランダムなミニオン1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a roost and six warriors in the corner clearing opposite of the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155330Z" creationid="nakahodo" creationdate="20180629T155330Z">
+        <seg>キープトークンの反対側角の空き地に止まり木1つと戦士6体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
