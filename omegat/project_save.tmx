@@ -14569,8 +14569,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During their Evening, the Eyrie score victory points based on the number of roosts on the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T151527Z" creationid="nakahodo" creationdate="20180629T151527Z">
-        <seg>During their Evening, the Eyrie score victory points based on the number of roosts on the map.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T152742Z" creationid="nakahodo" creationdate="20180629T151527Z">
+        <seg>自身の夜時、鷲はマップ上にある止まり木の数に基づいて勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19859,6 +19859,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233814Z" creationid="aorin" creationdate="20180407T233814Z">
         <seg>しかし、洞窟とゴーストはアーティファクトを拾ったり運んだりすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the Eyrie are bound by their Decree, an ever-increasing set of mandated actions promised by their leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153111Z" creationid="nakahodo" creationdate="20180629T153111Z">
+        <seg>しかし、鷲は法令に縛り付けられており、彼らのリーダーによって強制されるアクションのセットは増え続けていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37546,8 +37554,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T152542Z" creationid="nakahodo" creationdate="20180629T151523Z">
-        <seg>遥か頂きの王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳有る一族としての復権を望んでいます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T152642Z" creationid="nakahodo" creationdate="20180629T151523Z">
+        <seg>鷲の王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳有る一族としての復権を望んでいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39906,6 +39914,14 @@ includes four different AI opponents to play against.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T101821Z" creationid="aorin" creationdate="20180526T101821Z">
         <seg>ボスモンスターのゴールはあなたのダンジョンにヒーローたちをおびき寄せ、彼らを殺すことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The greater their presence in the Woodland, the greater their gains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T152836Z" creationid="nakahodo" creationdate="20180629T152836Z">
+        <seg>ウッドランドでその存在が大きくなるほど、多くの勝利点を得られます。</seg>
       </tuv>
     </tu>
     <tu>
