@@ -6337,6 +6337,22 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.2.4 Defenseless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T203233Z" creationid="nakahodo" creationdate="20180629T203233Z">
+        <seg>9.2.4	無防備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.5 Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T203507Z" creationid="nakahodo" creationdate="20180629T203507Z">
+        <seg>9.2.5	アイテム。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -25204,6 +25220,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle, the Vagabond is defenseless (3.3.2.III) if he has no undamaged S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T203456Z" creationid="nakahodo" creationdate="20180629T203456Z">
+        <seg>戦闘にて、ヴァガボンドは無傷のSを持たない場合、無防備です（3.3.2.III）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the affected clearing is the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
@@ -40430,6 +40454,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055640Z" creationid="aorin" creationdate="20171216T055640Z">
         <seg>ヴァガボンドはほかプレイヤーに影響を与えるタスクを完了する、いくつかの改良をクラフトする、他プレイヤーガ所有する建物を取り除くことにより、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond’s capabilities depend on the items he acquires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T203850Z" creationid="nakahodo" creationdate="20180629T203850Z">
+        <seg>ヴァガボンドの能力は、彼が獲得するアイテムによって左右されます。</seg>
       </tuv>
     </tu>
     <tu>
