@@ -5233,6 +5233,38 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.2.1 Removing Buildings and Tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112315Z" creationid="nakahodo" creationdate="20180629T112244Z">
+        <seg>4.2.1	建物やトークンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.2.2 Crafting Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112418Z" creationid="nakahodo" creationdate="20180629T112418Z">
+        <seg>4.2.2	アイテムをクラフトする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.3 Dominance Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112552Z" creationid="nakahodo" creationdate="20180629T112552Z">
+        <seg>4.3	ドミナンスカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.3.1 Activating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112712Z" creationid="nakahodo" creationdate="20180629T112712Z">
+        <seg>4.3.1	発動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4/4/3/2 B 2 players:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T021826Z" creationid="aorin" creationdate="20171212T021826Z">
@@ -14311,6 +14343,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your Daylight, if you have at least 10 victory points, you may play a dominance card into your play area to activate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112832Z" creationid="nakahodo" creationdate="20180629T112832Z">
+        <seg>あなたの昼持、少なくとも10勝利点を持つ場合、自身のプレイエリアにドミナンスカード1枚をプレイすることにより、これを発動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your Daylight, you may play a special victory card into your play area to activate it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232123Z" creationid="aorin" creationdate="20171215T232123Z">
@@ -14764,8 +14804,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each faction has a unique way of scoring victory points, but any faction can score victory points as follows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103534Z" creationid="nakahodo" creationdate="20180629T103534Z">
-        <seg>Each faction has a unique way of scoring victory points, but any faction can score victory points as follows.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112524Z" creationid="nakahodo" creationdate="20180629T103534Z">
+        <seg>各派閥は勝利点を得点するために独自の手段を持ちます。しかし、全ての派閥は次のような結果によって勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19493,6 +19533,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T102125Z" creationid="nakahodo" creationdate="20180629T102101Z">
         <seg>I	ロールによるヒットの最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I Mouse, Rabbit, or Fox Dominance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113012Z" creationid="nakahodo" creationdate="20180629T113012Z">
+        <seg>I	ネズミ、ウサギ、キツネドミネンス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38869,6 +38917,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The deck holds four dominance cards, which can be played to win the game without reaching 30 victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112659Z" creationid="nakahodo" creationdate="20180629T112659Z">
+        <seg>デッキに4枚あるドミナンスカードは、30勝利点に到達することなくゲームに勝利するためにプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The defender may play ambush cards matching the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223315Z" creationid="aorin" creationdate="20171215T223315Z">
@@ -46001,6 +46057,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you craft an item, you score the victory points listed on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112545Z" creationid="nakahodo" creationdate="20180629T112437Z">
+        <seg>アイテム1つをクラフトするたびに、カードに記述された勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you deal a hit that removes a building, you score one victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151509Z" creationid="aorin" creationdate="20171215T151509Z">
@@ -46285,6 +46349,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222910Z" creationid="aorin" creationdate="20171231T222910Z">
         <seg>あなたが幽霊ワーカーを配置する[または]あなたの幽霊ワーカーが対戦相手1人に押し出されるたびに、あなたは1評判を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you remove an enemy's building or token, you score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112442Z" creationid="nakahodo" creationdate="20180629T112326Z">
+        <seg>敵の建物やトークン1つを取り除くたびに、1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47272,6 +47344,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T173210Z" creationid="aorin" creationdate="20171228T173210Z">
         <seg>あなたは自身の村を脅かす問題を無視することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can no longer score victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112933Z" creationid="nakahodo" creationdate="20180629T112933Z">
+        <seg>あなたはもはや、勝利点を得点できません。勝利条件が変更されるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49360,6 +49440,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102339Z" creationid="aorin" creationdate="20180410T102339Z">
         <seg>あなたは十分な数のクリスタルを砕き、その後、洞窟から脱出した場合に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win the game immediately if you rule three clearings of the nation matching the dominance card at the start of your Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113149Z" creationid="nakahodo" creationdate="20180629T113149Z">
+        <seg>あなたの朝開始時、ドミナンスカードに一致する森の民の空き地3つをあなたが支配している場合、あなたは直ちにゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
