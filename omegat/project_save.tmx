@@ -3316,6 +3316,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.1.5 Dominance Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T084610Z" creationid="nakahodo" creationdate="20180629T084610Z">
+        <seg>2.1.5 Dominance Cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042200Z" creationid="nakahodo" creationdate="20171224T205402Z">
@@ -47260,6 +47268,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may also play one in battle to deal hits (3.3.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T084609Z" creationid="nakahodo" creationdate="20180629T084609Z">
+        <seg>これはまた、戦闘でヒットを与えるためにプレイできます（3.3.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also save workers for use on future turns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235209Z" creationid="aorin" creationdate="20180114T235209Z">
@@ -47760,6 +47776,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T155212Z" creationid="nakahodo" creationdate="20180604T155212Z">
         <seg>目カードとして、牙と蜘蛛の巣カードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may play an ambush card for its suit, but it does not have an item or improvement to craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180629T084523Z" creationid="nakahodo" creationdate="20180629T084523Z">
+        <seg>アンブッシュカードはそのスートとしてプレイできますが、アイテムやクラフトの改良を持ちません。</seg>
       </tuv>
     </tu>
     <tu>
