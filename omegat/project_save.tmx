@@ -2631,6 +2631,22 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.2 Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113045Z" creationid="nakahodo" creationdate="20180630T113045Z">
+        <seg>10.2	派閥ルールと能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.2.1 Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113051Z" creationid="nakahodo" creationdate="20180630T113051Z">
+        <seg>10.2.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -21233,6 +21249,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this gentler approach makes movement and combat operations difficult, and so these actions can only be undertaken by the most radicalized members of the Cult.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113040Z" creationid="nakahodo" creationdate="20180630T113040Z">
+        <seg>しかしながら、この緩やかなアプローチは、移動と戦闘を難しいものとします。なので、これらアクションはカルトの過激派メンバーによって実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, to fuel ongoing construction, the Marquise must maintain and protect a strong, interconnected economy of wood, which make for easy targets for her adversaries.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T140704Z" creationid="nakahodo" creationdate="20180629T140704Z">
@@ -39561,6 +39585,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cult uses gardens to craft during Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113052Z" creationid="nakahodo" creationdate="20180630T113052Z">
+        <seg>The Cult uses gardens to craft during Evening.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dark side of every Manor tile shows an identical face that does not affect play.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T215710Z" creationid="nakahodo" creationdate="20180531T215710Z">
@@ -46708,6 +46740,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless used for scoring, these cards are not spent and are returned to the Cult's hand during Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112852Z" creationid="nakahodo" creationdate="20180630T112852Z">
+        <seg>得点として使用されない限り、これらカードは消費されず、夜フェイズ時にカルトの手札へと返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike stay on other your workers, buildings minions until  you choose to retrieve all your workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172256Z" creationid="aorin" creationdate="20171228T172256Z">
@@ -49878,8 +49918,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Where the Cult rule clearings, they can build gardens, which will further radicalize the animals that live there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112348Z" creationid="nakahodo" creationdate="20180630T112348Z">
-        <seg>Where the Cult rule clearings, they can build gardens, which will further radicalize the animals that live there.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112547Z" creationid="nakahodo" creationdate="20180630T112348Z">
+        <seg>カルトが区域を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49962,6 +50002,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T155236Z" creationid="nakahodo" creationdate="20180430T155236Z">
         <seg>ドラゴンは出現している時、ウィングパワーを使用して移動不可スペース1つを直線で通り抜けられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While other factions spend cards to achieve their aims, the Cult acts chiefly by revealing cards and gradually drafting the ideal set of followers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112813Z" creationid="nakahodo" creationdate="20180630T112813Z">
+        <seg>他の派閥たちが自身の目的のためにカードを消費している間、カルトはカードを公開しながら信者を増やしていきます。</seg>
       </tuv>
     </tu>
     <tu>
