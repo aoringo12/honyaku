@@ -6474,6 +6474,46 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082601Z" creationid="nakahodo" creationdate="20180630T082601Z">
+        <seg>9.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.4.1 Refresh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082608Z" creationid="nakahodo" creationdate="20180630T082608Z">
+        <seg>9.4.1	リフレッシュ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.4.2 Slip.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082739Z" creationid="nakahodo" creationdate="20180630T082739Z">
+        <seg>9.4.2	スリップ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5 Daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082938Z" creationid="nakahodo" creationdate="20180630T082938Z">
+        <seg>9.5	昼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.1 Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083028Z" creationid="nakahodo" creationdate="20180630T083028Z">
+        <seg>9.5.1	移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -17248,6 +17288,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exhaust one M to move, plus one M if the destination clearing has any Hostile warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083143Z" creationid="nakahodo" creationdate="20180630T083143Z">
+        <seg>M1つを消耗させることで移動します。移動先区域に敵対戦士が少なくとも1体いる場合、さらに追加でM1つ必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090327Z" creationid="nakahodo" creationdate="20180413T081000Z">
@@ -17982,6 +18030,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T162054Z" creationid="nakahodo" creationdate="20180413T162054Z">
         <seg>フレア（ヴァリアント）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip two exhausted items face up for each T face up at the start of your Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082732Z" creationid="nakahodo" creationdate="20180630T082709Z">
+        <seg>あなたの朝フェイズ開始時に、表向きのTごとに消耗アイテム2つを表返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22044,6 +22100,14 @@ enough to place onto the list, it is removed from play.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T095138Z" creationid="nakahodo" creationdate="20180411T095138Z">
         <seg>彼のステルスがあなたのアーマーよりも高い場合、彼は3アクションキューブを消費することで不意打ちを使用してあなたを攻撃できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If in a forest, you may only move into an adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T084554Z" creationid="nakahodo" creationdate="20180630T084554Z">
+        <seg>森に移動する場合、隣接区域1つにのみ移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43125,6 +43189,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then flip up three more exhausted items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082727Z" creationid="nakahodo" creationdate="20180630T082727Z">
+        <seg>その後、さらに3つの消耗アイテムを表返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then immediately take another turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T192938Z" creationid="aorin" creationdate="20171231T192938Z">
@@ -49974,6 +50046,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can exhaust items to take the following actions, in any order and combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083020Z" creationid="nakahodo" creationdate="20180630T083020Z">
+        <seg>あなたはアイテムを消耗させることで、次のアクションを任意の順番と組み合わせで実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can form a coalition (9.2.8) with a Hostile faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072959Z" creationid="nakahodo" creationdate="20180630T072959Z">
@@ -50458,6 +50538,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061416Z" creationid="nakahodo" creationdate="20180601T061411Z">
         <seg>全ての感知力が消費されている場合、あなたはこれ以上、移動できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot move into a forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083226Z" creationid="nakahodo" creationdate="20180630T083226Z">
+        <seg>森には移動できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51182,6 +51270,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may move into an adjacent clearing or forest without exhausting any M, even for moving into a Hostile clearing (9.2.9.III.b).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082932Z" creationid="nakahodo" creationdate="20180630T082932Z">
+        <seg>いずれかのMを消耗させることなく、1つ隣接する区域か森に1回の移動ができます。これは敵対区域にも移動できます（9.2.9.III.b）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may move through Pits, spending movement points normally.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T011758Z" creationid="aorin" creationdate="20180410T011711Z">
@@ -51202,6 +51298,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135527Z" creationid="aorin" creationdate="20180409T135527Z">
         <seg>移動力ポイントを1消費することにより、隣接スペース1つに移動することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move with Allied warriors (9.2.9).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083207Z" creationid="nakahodo" creationdate="20180630T083207Z">
+        <seg>あなたは同盟戦士たちと共に移動できます（9.2.9）。</seg>
       </tuv>
     </tu>
     <tu>
