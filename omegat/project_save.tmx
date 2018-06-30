@@ -10439,6 +10439,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign factions, then determine starting player and seating order randomly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185542Z" creationid="nakahodo" creationdate="20180630T185542Z">
+        <seg>派閥を割り当て、その後、開始プレイヤーを決めてランダムに席に座ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assign one faction to each player using any method.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T114103Z" creationid="nakahodo" creationdate="20180629T114103Z">
@@ -14543,6 +14551,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal Hits Simultaneously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185244Z" creationid="nakahodo" creationdate="20180630T185244Z">
+        <seg>ヒットは同時に与え合います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deal Hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103232Z" creationid="nakahodo" creationdate="20180629T103232Z">
@@ -15544,6 +15560,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T223739Z" creationid="aorin" creationdate="20180409T223739Z">
         <seg>シーフのルートドロップレベルに等しい数だけ（最小1）恐怖カードをドローし、1枚保持し、他を恐怖デッキの下に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw and give three cards to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185607Z" creationid="nakahodo" creationdate="20180630T185607Z">
+        <seg>各プレイヤーは3枚のカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16841,6 +16865,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103256Z" creationid="nakahodo" creationdate="20180629T103245Z">
         <seg>1ヒットごとにピース1つを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each hit removes one piece—warriors first, then buildings and tokens as chosen by the player taking the hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185450Z" creationid="nakahodo" creationdate="20180630T185447Z">
+        <seg>各ヒットはピース1つを取り除きます。まず戦士を、その後建物とトークンとなります。ヒットを受けたプレイヤーがこれらは選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20639,6 +20671,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give faction board and pieces to players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185557Z" creationid="nakahodo" creationdate="20180630T185557Z">
+        <seg>派閥ボードとピースを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give penalty points in this order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T165711Z" creationid="aorin" creationdate="20171212T165711Z">
@@ -23117,6 +23157,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111353Z" creationid="nakahodo" creationdate="20180412T111030Z">
         <seg>崩壊するタイルにあなたが巻き込まれる場合、あなたは代わりに強制テレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If defender has no warriors there, the attacker deals an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185234Z" creationid="nakahodo" creationdate="20180630T185234Z">
+        <seg>ディフェンダーが戦士をそこに持たない場合、アタッカーは追加のヒット1を得ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33087,6 +33135,22 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place ruins on each slot with a ruin icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185607Z" creationid="nakahodo" creationdate="20180630T185607Z">
+        <seg>マップ上の遺跡アイコンがある各スロットへと、遺跡マーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place score markers on the “0” space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185641Z" creationid="nakahodo" creationdate="20180630T185641Z">
+        <seg>スコアトラックの「0」スペースへとスコアマーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place spent Omen tokens in the Past Plunder space on your player board (instead of returning them to the bag).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040937Z" creationid="aorin" creationdate="20180408T040937Z">
@@ -37066,6 +37130,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Score a victory point each time you remove a building or token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185510Z" creationid="nakahodo" creationdate="20180630T185448Z">
+        <seg>あなたが建物やトークン1つを取り除くたびに、勝利点1つを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score one victory point per quest of matching nation you have completed, including this one.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T091227Z" creationid="nakahodo" creationdate="20180630T091227Z">
@@ -37439,6 +37511,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up factions in setup order (A, B, C, etc.).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185712Z" creationid="nakahodo" creationdate="20180630T185712Z">
+        <seg>セットアップ順番に（A、B、C……）派閥をセットアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up regular workers, influence tokens, and VP tokens from each Automa's charter chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090401Z" creationid="nakahodo" creationdate="20180108T090401Z">
@@ -37484,6 +37564,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T115630Z" creationid="nakahodo" creationdate="20171213T115630Z">
         <seg>テーブル中央にボードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup (5.1)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185517Z" creationid="nakahodo" creationdate="20180630T185511Z">
+        <seg>セットアップ（5.1）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39248,6 +39336,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072248Z" creationid="nakahodo" creationdate="20180311T072248Z">
         <seg>ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185608Z" creationid="nakahodo" creationdate="20180630T185608Z">
+        <seg>ステップ5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 6:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185641Z" creationid="nakahodo" creationdate="20180630T185641Z">
+        <seg>ステップ6：</seg>
       </tuv>
     </tu>
     <tu>
@@ -55195,6 +55299,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123107Z" creationid="aorin" creationdate="20171212T123107Z">
         <seg>食料、シルバー、ゴールドのいずれか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extra hits are not limited by warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185142Z" creationid="nakahodo" creationdate="20180630T185142Z">
+        <seg>追加のヒットは戦士たちで制限されません。</seg>
       </tuv>
     </tu>
     <tu>
