@@ -11135,6 +11135,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ateer everyone finishes their turn, flip this sheet over and continue the walkthrough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191847Z" creationid="nakahodo" creationdate="20180630T191735Z">
+        <seg>全員がターンを行ったら、このシートを裏返し、演習を続けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack a Goblin Tribe with</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T103144Z" creationid="nakahodo" creationdate="20180413T103144Z">
@@ -12038,6 +12046,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192020Z" creationid="nakahodo" creationdate="20180630T192015Z">
+        <seg>朝フェイズ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birds​ ​Are​ ​Wild.​ ​The bird suit is wild—you can spend a bird card as any other suit, including if you must spend multiple cards of matching nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210512Z" creationid="aorin" creationdate="20171215T210409Z">
@@ -12326,6 +12342,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T142631Z" creationid="nakahodo" creationdate="20180604T142631Z">
         <seg>12以上の恐怖を構築し、その後、館のエントランスを通り抜けることで脱出するのが目的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192101Z" creationid="nakahodo" creationdate="20180630T192101Z">
+        <seg>建築。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14523,6 +14547,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235036Z" creationid="aorin" creationdate="20171215T235036Z">
         <seg>昼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daylight, Action 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192057Z" creationid="nakahodo" creationdate="20180630T192057Z">
+        <seg>昼フェイズ、アクション1：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19515,6 +19547,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For your first game, pass around this sheet and ask each player to read the actions of their faction while taking their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191840Z" creationid="nakahodo" creationdate="20180630T191716Z">
+        <seg>あなたの最初のゲームにて、このシートを周りに渡し、彼らがターンを行っている間に自身の派閥のアクションの内容を読み上げるように求めてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Force Walls are treated as walls for all purposes.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T185355Z" creationid="nakahodo" creationdate="20180604T185244Z">
@@ -22192,6 +22232,22 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T212417Z" creationid="aorin" creationdate="20171231T212417Z">
         <seg>私は失敗した。もう王を殺せない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I place a wood at my sawmill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192041Z" creationid="nakahodo" creationdate="20180630T192016Z">
+        <seg>私は自分の製材所1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I spend that wood to build a new sawmill, so I score one point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192219Z" creationid="nakahodo" creationdate="20180630T192219Z">
+        <seg>私は木材1つを消費して、新しい製材所を建築します。なので1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28720,6 +28776,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn-to-Play Walkthrough</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191816Z" creationid="nakahodo" creationdate="20180630T191504Z">
+        <seg>プレイ学習とプレイ演習</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leather Boots (Gear):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165316Z" creationid="nakahodo" creationdate="20180603T165316Z">
@@ -29342,6 +29406,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T202439Z" creationid="nakahodo" creationdate="20171224T202439Z">
         <seg>あなたのチャーターチェストにその数の星を塗りつぶします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marquise (1st player)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192013Z" creationid="nakahodo" creationdate="20180630T192013Z">
+        <seg>マルキス（プレイヤー1）</seg>
       </tuv>
     </tu>
     <tu>
@@ -47714,6 +47786,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn 1 introduces these concepts:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191904Z" creationid="nakahodo" creationdate="20180630T191904Z">
+        <seg>ターン1では、次のコンセプトについて説明します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn Left</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T070831Z" creationid="nakahodo" creationdate="20180413T070831Z">
@@ -55861,6 +55941,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T144735Z" creationid="nakahodo" creationdate="20171224T144735Z">
         <seg>建物の建築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>turn structure, battle, movement, crateing, card suits, and rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191955Z" creationid="nakahodo" creationdate="20180630T191955Z">
+        <seg>ターン概要、戦闘、移動、区域、クラフト、支配。</seg>
       </tuv>
     </tu>
     <tu>
