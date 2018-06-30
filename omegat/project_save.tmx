@@ -6594,6 +6594,30 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.6.2 Draw Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110151Z" creationid="nakahodo" creationdate="20180630T110106Z">
+        <seg>9.6.2	カードをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.6.3 Discard Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110145Z" creationid="nakahodo" creationdate="20180630T110145Z">
+        <seg>9.6.3	カードを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.6.4 Check Item Capacity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110211Z" creationid="nakahodo" creationdate="20180630T110211Z">
+        <seg>9.6.4	アイテム容量の確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -14854,6 +14878,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162450Z" creationid="nakahodo" creationdate="20180629T162450Z">
         <seg>カード1枚をドローします。さらに、覆われていないドローボーナスごとに、カード1枚を追加でドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw one card, plus one card per X face up on the matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110137Z" creationid="nakahodo" creationdate="20180630T110137Z">
+        <seg>カード1枚をドローします。加えて、アイテムトラックにある表向きのXごとに追加で1枚カードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24725,6 +24757,22 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083002Z" creationid="aorin" creationdate="20171216T083002Z">
         <seg>そのプレイヤーのローカル戦士数を越えて、より多くの利用可能な&lt;ソード&gt;を持っている場合、そのプレイヤーからランダムにカード1枚を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have more items total in your Satchel and Damaged box than your item limit—six plus two per B face up on the matching track—remove items from your Satchel and Damaged box until you have items equal to your item limit, and return them to their supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110413Z" creationid="nakahodo" creationdate="20180630T110413Z">
+        <seg>カバンと破損ボックスにあるアイテムの合計がアイテム上限を超えている場合（6に加えて、アイテムトラックの表向きBごとに2つずつ）、アイテム上限に等しくなるまで、カバンと破損ボックスからアイテムを取り除き、サプライに返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have more than five cards in your hand, discard cards of your choice until you have five.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110159Z" creationid="nakahodo" creationdate="20180630T110159Z">
+        <seg>手札が5枚を上回っている場合、手札が5枚になるまで、カードを選択して捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
