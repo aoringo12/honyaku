@@ -655,6 +655,14 @@ b	敵対区域への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If both the Marquise and Eyrie are in play, choose one of the two other corners.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142116Z" creationid="nakahodo" creationdate="20180630T142116Z">
+        <seg>（マルキスト鷲の両方がいる場合、残りの他2つのコーナーのうち1つを選択します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If no Cave player, draw 3 Cave tiles as hand.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080720Z" creationid="nakahodo" creationdate="20180413T080720Z">
