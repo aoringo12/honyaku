@@ -7994,6 +7994,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A river runs through some clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213818Z" creationid="nakahodo" creationdate="20180630T213818Z">
+        <seg>いくつかの区域には川が通っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A roll of “4” is considered a “0” so the four-sided dice only produces numbers 0-3.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224252Z" creationid="aorin" creationdate="20171215T224244Z">
@@ -30374,6 +30382,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving Around the Map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214005Z" creationid="nakahodo" creationdate="20180630T213949Z">
+        <seg>マップ内での移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving Is Tiring.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T224951Z" creationid="nakahodo" creationdate="20180531T224924Z">
@@ -31083,6 +31099,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On a tie, no one is ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214337Z" creationid="nakahodo" creationdate="20180630T214337Z">
+        <seg>タイの場合、支配者はいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On buildings like the Botanical Gardens and the Pavilion, you may gain the top card of the objective deck (not face-up cards on the objective mat).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234854Z" creationid="aorin" creationdate="20171231T234854Z">
@@ -31777,6 +31801,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040615Z" creationid="aorin" creationdate="20180116T040615Z">
         <seg>現在の時代か以前の時代のディスカバリーたちのみが、購入可能となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only use the river if the Riverfolk Company, an expansion faction, is in play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213905Z" creationid="nakahodo" creationdate="20180630T213905Z">
+        <seg>拡張派閥であるリバーフォークカンパニーがプレイにいる場合のみ川は使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45308,6 +45340,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The spaces on the Map enclosed by paths are forests, which only the Vagabond can move into.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214150Z" creationid="nakahodo" creationdate="20180630T214150Z">
+        <seg>道で囲まれたマップのスペースは森で、これはヴァガボンドのみが移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The spectral player keeps this card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223208Z" creationid="aorin" creationdate="20171231T223208Z">
@@ -47904,6 +47944,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T230112Z" creationid="nakahodo" creationdate="20180531T230112Z">
         <seg>蜘蛛の巣トークンのあるタイルへと移動するには、そこの蜘蛛の巣ごとに＋1移動力を消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move, you must rule the clearing you are moving from or moving to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214226Z" creationid="nakahodo" creationdate="20180630T214226Z">
+        <seg>移動するには、移動元か移動先の区域をあなたが支配する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50830,6 +50878,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you move, take any number of your warriors from one clearing and move them to a clearing connected by a path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214111Z" creationid="nakahodo" creationdate="20180630T214111Z">
+        <seg>あなたが移動する時、区域1つから自身の戦士たちを任意の数取り、道で接続された隣接する区域1つへとそれらを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you move, you may take any number of your warriors or your pawn from one clearing and move them to one adjacent clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T100514Z">
@@ -52797,6 +52853,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061511Z" creationid="nakahodo" creationdate="20180601T061225Z">
         <seg>任意の順番で移動しエンカウンターを持つことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can move from clearing to clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214025Z" creationid="nakahodo" creationdate="20180630T213953Z">
+        <seg>あなたは区域から区域へと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54917,6 +54981,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073908Z" creationid="aorin" creationdate="20171216T073908Z">
         <seg>あなたは敵対者のままです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You rule a clearing if you have the most combined warriors and buildings there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214318Z" creationid="nakahodo" creationdate="20180630T214318Z">
+        <seg>あなたが区域1つで戦士たちと建物を最も合計で持っている場合に、その区域を支配します。</seg>
       </tuv>
     </tu>
     <tu>
