@@ -7638,6 +7638,22 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A clearing with no open slots cannot hold more buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215142Z" creationid="nakahodo" creationdate="20180630T215028Z">
+        <seg>区域に空きスロットが無い場合、それ以上の建物を配置することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A clearing’s suit represents the community living there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215411Z" creationid="nakahodo" creationdate="20180630T215411Z">
+        <seg>区域のスートは、そこで住んでいるコミュニティを表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A courier arrives with a royal decree from the Forever King.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080051Z" creationid="nakahodo" creationdate="20171230T080051Z">
@@ -13732,6 +13748,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214838Z" creationid="nakahodo" creationdate="20180630T214838Z">
+        <seg>区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clearings, Paths, and Forests</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154440Z" creationid="aorin" creationdate="20171215T154440Z">
@@ -16941,6 +16965,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each clearing also has a suit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215307Z" creationid="nakahodo" creationdate="20180630T215307Z">
+        <seg>各区域はまた、スート1つを持っています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each clearing has a number of slots, shown as white boxes.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T090012Z">
@@ -16953,6 +16985,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204951Z" creationid="aorin" creationdate="20171215T204951Z">
         <seg>各空き地は白と赤のボックスで示されるナンバースロットを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each clearing on the map has one to three slots, which hold buildings that players will place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215049Z" creationid="nakahodo" creationdate="20180630T215026Z">
+        <seg>マップの各区域は1～3つのスロットを持ち、そこに建物を配置し保持することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30166,6 +30206,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214710Z" creationid="nakahodo" creationdate="20180630T214710Z">
+        <seg>移動の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Program Cards allow you to remove one Gem from a Garden Sector and place it in any Garden Sector.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074133Z" creationid="nakahodo" creationdate="20180311T074133Z">
@@ -38928,6 +38976,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slots filled with ruins cannot hold buildings until the Vagabond explores them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215242Z" creationid="nakahodo" creationdate="20180630T215242Z">
+        <seg>スロットが移籍で満たされている場合、ヴァガボンドがそこを探索するまで、建物を建築することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sneak</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T055505Z" creationid="nakahodo" creationdate="20180413T055505Z">
@@ -41584,6 +41640,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153400Z" creationid="nakahodo" creationdate="20180629T153400Z">
         <seg>鷲は昼時に法令を解決する前に、クラフトするために止まり木を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie want to move out of this clearing, which they don’t rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214823Z" creationid="nakahodo" creationdate="20180630T214754Z">
+        <seg>鷲はこの区域外へと移動したいですが、この区域を支配していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46648,6 +46712,22 @@ card until they decide to build it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They do rule this clearing, so they can move here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214835Z" creationid="nakahodo" creationdate="20180630T214835Z">
+        <seg>この区域は支配していますので、ここに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They don’t rule this clearing either, so they cannot move here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214815Z" creationid="nakahodo" creationdate="20180630T214815Z">
+        <seg>いずれの区域も支配できていないので、ここへの移動はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They fight as a group—their Strength equals the Strength of the strongest Skeleton plus 1 Strength per Skeleton beyond the first on the tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T071835Z" creationid="nakahodo" creationdate="20180601T071835Z">
@@ -49374,6 +49454,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T153916Z" creationid="nakahodo" creationdate="20180412T153916Z">
         <seg>Variant cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various other actions in Root will require you to rule clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214702Z" creationid="nakahodo" creationdate="20180630T214358Z">
+        <seg>ルートの様々な他アクションも区域を支配する必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52333,6 +52421,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T144431Z" creationid="aorin" creationdate="20180528T144431Z">
         <seg>ゲームの各フェイズ中で、プレイヤーからプレイヤーへと優先権が渡されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without a Vagabond, these slots will be blocked for the entire game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215258Z" creationid="nakahodo" creationdate="20180630T215258Z">
+        <seg>ヴァガボンドがいないゲームでは、これらスロットはゲーム全体でブロックされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56131,6 +56227,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104023Z" creationid="aorin" creationdate="20171212T104023Z">
         <seg>一時的な優先度アクションでは、プレイヤーは残りのアクションディスク全てを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fox, rabbit, or mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215313Z" creationid="nakahodo" creationdate="20180630T215313Z">
+        <seg>キツネ、ウサギ、ネズミ。</seg>
       </tuv>
     </tu>
     <tu>
