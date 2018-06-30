@@ -15364,6 +15364,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not confuse this shared deck with the types of cards used by specific factions, as listed on the backs of their faction boards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213029Z" creationid="nakahodo" creationdate="20180630T213029Z">
+        <seg>派閥ボードの裏に記述されるように、特定の派閥が使用する種類のカードを共有デッキに混ぜないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not count those removed from the map, and do not count Treasure tokens (as the Cave does).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035933Z" creationid="aorin" creationdate="20180408T035933Z">
@@ -20618,6 +20626,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gather Other Pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213325Z" creationid="nakahodo" creationdate="20180630T213325Z">
+        <seg>他のピースを集める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gather Warriors and Wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T141533Z" creationid="nakahodo" creationdate="20180629T141533Z">
@@ -20662,6 +20678,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235232Z" creationid="aorin" creationdate="20171231T235232Z">
         <seg>あなたの個人サプライにて、アイテムの受注を満たすためのリソースを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather the 12 item chits shown to the right and place them on their matching spaces near the top of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213320Z" creationid="nakahodo" creationdate="20180630T213320Z">
+        <seg>右に示されるよう、アイテムチット12個を集めて、マップ上部近くの一致するスペースにこれあを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21285,6 +21309,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T161750Z" creationid="nakahodo" creationdate="20180601T161750Z">
         <seg>後光：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hand out the 16 faction overview cards as desired, and place the two custom dice near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213457Z" creationid="nakahodo" creationdate="20180630T213457Z">
+        <seg>必要に応じて派閥概要カード派閥概要カード16枚を配り、マップ近くにカスタムダイス2つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29594,6 +29626,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make Item Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213223Z" creationid="nakahodo" creationdate="20180630T213223Z">
+        <seg>アイテムサプライを作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a Blend</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T121427Z" creationid="nakahodo" creationdate="20171001T121427Z">
@@ -30032,6 +30072,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T070753Z" creationid="aorin" creationdate="20180115T070753Z">
         <seg>ほとんどの独自ユニットとスチームタンク将軍もまた、軍事力に貢献します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most action in Root unfolds on the map of the Woodland, consisting of 12 clearings connected by paths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213757Z" creationid="nakahodo" creationdate="20180630T213757Z">
+        <seg>ルートのほとんどのアクションは、道で接続された12の区域からなる、ウッドランドのマップで展開されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33827,6 +33875,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T161000Z" creationid="nakahodo" creationdate="20180430T161000Z">
         <seg>まず、あなたのプレイヤーピースとできるだけ近く配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the four ruin chits on the four slots on the map marked with “R.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213215Z" creationid="nakahodo" creationdate="20180630T213215Z">
+        <seg>マップに「R」がマークされた4つのスロットに遺跡チットを1つずつ配置してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37935,6 +37991,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Up Factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213501Z" creationid="nakahodo" creationdate="20180630T213501Z">
+        <seg>派閥のセットアップ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the Ghoul piece, Ghoul dice, and Ghoul discs near your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080036Z" creationid="aorin" creationdate="20180410T080036Z">
@@ -38610,6 +38674,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105721Z" creationid="nakahodo" creationdate="20171225T105721Z">
         <seg>結果として残る建築された建物カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle the shared deck of 54 cards, and deal three cards to each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212801Z" creationid="nakahodo" creationdate="20180630T212801Z">
+        <seg>カード54枚の共有デッキをシャッフルし、各プレイヤーにカード3枚を配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42278,6 +42350,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213650Z" creationid="nakahodo" creationdate="20180630T213650Z">
+        <seg>マップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Marquise also has wood​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152636Z" creationid="aorin" creationdate="20171215T152636Z">
@@ -44980,6 +45060,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T105357Z" creationid="aorin" creationdate="20171219T105357Z">
         <seg>次に多く配置しているプレイヤー（たち）が7VPを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The players set up their factions, as described in Setup on the back of each faction board, in this order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213646Z" creationid="nakahodo" creationdate="20180630T213642Z">
+        <seg>次の順番で、各派閥ボードの裏のセットアップ説明に従い、プレイヤーたちは自身の派閥をセットアップしました：</seg>
       </tuv>
     </tu>
     <tu>
