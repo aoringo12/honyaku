@@ -6466,6 +6466,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.3.7 Step 6:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074456Z" creationid="nakahodo" creationdate="20180630T074456Z">
+        <seg>9.3.7	ステップ6：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -31506,6 +31514,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place all other listed items face up in your Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074441Z" creationid="nakahodo" creationdate="20180630T074441Z">
+        <seg>他のアイテムは全てカバンに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place an Automa worker on that building (if there's another regular worker there, bump it off).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093024Z" creationid="nakahodo" creationdate="20180108T093024Z">
@@ -31518,6 +31534,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093045Z" creationid="nakahodo" creationdate="20180108T093045Z">
         <seg>示された建物にオートマワーカーを1つ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place any T, X, and B items listed face up on the matching tracks of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074358Z" creationid="nakahodo" creationdate="20180630T074358Z">
+        <seg>アイテムT、X、Bはあなたの派閥ボードの一致するトラックに表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35820,6 +35844,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Relationships.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074503Z" creationid="nakahodo" creationdate="20180630T074503Z">
+        <seg>関係性の設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Up</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T191643Z" creationid="aorin" creationdate="20180114T191643Z">
@@ -37970,6 +38002,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take a relationship marker for each non-Vagabond faction and place them on the Indifferent space of the Relationships chart on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082600Z" creationid="nakahodo" creationdate="20180630T082600Z">
+        <seg>ヴァガボンド以外の各派閥の関係性マーカーを取り、派閥ボードにある関係性チャートの無関心スペースにこれらを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take a warrior from each player and place them on the Indifferent space of the alignment chart on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145325Z" creationid="aorin" creationdate="20171215T145325Z">
@@ -38131,6 +38171,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073908Z" creationid="nakahodo" creationdate="20180630T073806Z">
         <seg>マップから遺跡マーカー4つを取り、アイテムB、M、H、Sを1つずつ取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the items listed on your character card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074328Z" creationid="nakahodo" creationdate="20180630T074328Z">
+        <seg>キャラクターカードに記述されたアイテムを取ります。</seg>
       </tuv>
     </tu>
     <tu>
