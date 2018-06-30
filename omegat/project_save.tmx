@@ -12022,6 +12022,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bird cards are always wild, so I’m treating this bird as a rabbit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193636Z" creationid="nakahodo" creationdate="20180630T193353Z">
+        <seg>鳥カードは常にワイルドなので、この鳥をウサギとして扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bird cards are not wild for the Cult.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T113639Z" creationid="nakahodo" creationdate="20180630T113639Z">
@@ -30290,8 +30298,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Next I move three warriors from the rabbit clearing west to the mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193024Z" creationid="nakahodo" creationdate="20180630T193024Z">
-        <seg>Next I move three warriors from the rabbit clearing west to the mouse clearing.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193601Z" creationid="nakahodo" creationdate="20180630T193024Z">
+        <seg>次に、ウサギ区域から戦士3体をネズミ区域に移動します。②</seg>
       </tuv>
     </tu>
     <tu>
@@ -45278,6 +45286,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T064721Z" creationid="nakahodo" creationdate="20180601T064721Z">
         <seg>その後、公開したタイルの開いた側面に接する空きスペースへと、ダークタイルを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, because I rule the mouse clearing and it doesn’t have a roost, I build a roost there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T195609Z" creationid="nakahodo" creationdate="20180630T195609Z">
+        <seg>その後、</seg>
       </tuv>
     </tu>
     <tu>
