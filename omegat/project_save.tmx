@@ -6514,6 +6514,22 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.2 Repair.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T084604Z" creationid="nakahodo" creationdate="20180630T084604Z">
+        <seg>9.5.2	修理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.3 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T084857Z" creationid="nakahodo" creationdate="20180630T084857Z">
+        <seg>9.5.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -17288,6 +17304,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exhaust one H to move one damaged item to the Satchel (if M, H, S, C, or F) or to its matching track (X, T, B), and flip the item face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T084851Z" creationid="nakahodo" creationdate="20180630T084851Z">
+        <seg>H1つを消耗することで、破損アイテム1つをカバン（MHSCF）かアイテムトラック（XTB）に移動して、表向きに返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exhaust one M to move, plus one M if the destination clearing has any Hostile warriors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T083143Z" creationid="nakahodo" creationdate="20180630T083143Z">
@@ -21502,6 +21526,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080235Z" creationid="nakahodo" creationdate="20180413T080235Z">
         <seg>モンスターを持つ部族が散った場合、モンスターを破棄しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a card requires multiple of one nation to craft, you must exhaust the listed number of H. All of your H match the nation of your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085326Z" creationid="nakahodo" creationdate="20180630T085326Z">
+        <seg>クラフトに民が複数必要必要な場合、あなたはHを記述された数だけ消耗する必要があります。Hは全て、あなたが現在いる区域の民と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32503,6 +32535,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053815Z" creationid="aorin" creationdate="20171216T053815Z">
         <seg>空いたカードスロットのある隠れ家に裏向きでカード1枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play a card from your hand, and exhaust the H of listed nation to craft it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T084950Z" creationid="nakahodo" creationdate="20180630T084950Z">
+        <seg>手札からカード1枚をプレイし、記述された民のHを消耗して、それをクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
