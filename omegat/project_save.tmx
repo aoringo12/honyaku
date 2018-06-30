@@ -10399,6 +10399,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you read on, you’ll learn more about the factions and how they score points, along with a couple ways that any faction can score points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T203105Z" creationid="nakahodo" creationdate="20180630T203105Z">
+        <seg>読み進めることにより、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you tinker with them you discover that they hold immense power.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052051Z" creationid="aorin" creationdate="20171228T174652Z">
@@ -21417,6 +21425,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T001943Z" creationid="aorin" creationdate="20171229T001943Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He scores by completing quests for the creatures of the Woodland and by aiding and harming the other factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T202217Z" creationid="nakahodo" creationdate="20180630T202217Z">
+        <seg>ウッドランドの生き物たちを渡り歩きクエストを達成し、他の派閥を援助したり損害を与えることにより得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45143,6 +45159,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The upstart Woodland Alliance wish to unite the creatures of the forest and rise up against their oppressors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T201843Z" creationid="nakahodo" creationdate="20180630T201843Z">
+        <seg>決起したウッドランド連合はウッドランドの生き物たちの集まりで、圧制者たちに立ち向かおうとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value of the Possession card you chose.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102614Z" creationid="nakahodo" creationdate="20180413T102614Z">
@@ -45171,6 +45195,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T160429Z" creationid="nakahodo" creationdate="20180412T160212Z">
         <seg>見えているプレイヤーの勝利条件がユニコーンを殺すこと（もしいれば）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wily Vagabond wishes to gain fame—or infamy—in the midst of this brewing conflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T202050Z" creationid="nakahodo" creationdate="20180630T202050Z">
+        <seg>策略家であるヴァガボンドこの紛争の中で名声（または悪名）を得ようと考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46334,6 +46366,22 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T071345Z" creationid="nakahodo" creationdate="20171230T071345Z">
         <seg>そのプレイヤーの大きなワーカーミープルをアーカイブに入れ、タックボックスiiから幽霊ワーカーを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They score by spreading sympathy for their cause across the Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T202103Z" creationid="nakahodo" creationdate="20180630T201943Z">
+        <seg>ウッドランド全体で賛同者を集めることで得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They score each turn by building and protecting roosts in the Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T201721Z" creationid="nakahodo" creationdate="20180630T201721Z">
+        <seg>鷲はウッドランドの止まり木を建築し、保護することで各ターンで得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49146,6 +49194,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T190632Z" creationid="nakahodo" creationdate="20180604T190632Z">
         <seg>歩きは、浮遊のためのスペースを開けるために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walkthrough</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T202311Z" creationid="nakahodo" creationdate="20180630T202311Z">
+        <seg>Walkthrough</seg>
       </tuv>
     </tu>
     <tu>
