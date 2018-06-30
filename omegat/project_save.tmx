@@ -2719,6 +2719,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142153Z" creationid="nakahodo" creationdate="20180630T142153Z">
+        <seg>10.3.3	ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -6291,8 +6299,8 @@ PASS</seg>
       <tuv lang="EN-US">
         <seg>8.3.3 Step 3:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T191917Z" creationid="nakahodo" creationdate="20180629T191913Z">
-        <seg>8.3.3	ステッ3：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142200Z" creationid="nakahodo" creationdate="20180629T191913Z">
+        <seg>8.3.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43858,6 +43866,14 @@ positive part of the score track is difficult!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T182256Z" creationid="nakahodo" creationdate="20180604T182242Z">
         <seg>その後、残っている蜘蛛の子たち全てを、他の蜘蛛の子に隣接するように配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then place one warrior in each adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142135Z" creationid="nakahodo" creationdate="20180630T142135Z">
+        <seg>そこから隣接する各区域に戦士1体ずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
