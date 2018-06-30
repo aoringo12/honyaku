@@ -15396,6 +15396,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Daylight and Evening of this turn, the buyer treats Riverfolk pieces as their own in battles and in determining rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162558Z" creationid="nakahodo" creationdate="20180630T162558Z">
+        <seg>このターン昼と夜フェイズ時、購入者はリバーフォークのピースを戦争と区域を支配するために、それらを自身の所有物として扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During Daylight, the acting player can take an available special victory card into their hand by spending a card of matching suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232519Z" creationid="aorin" creationdate="20171215T232519Z">
@@ -21955,6 +21963,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Riverboats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162256Z" creationid="nakahodo" creationdate="20180630T162256Z">
+        <seg>II	リバーボート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Spend Supporters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192326Z" creationid="nakahodo" creationdate="20180629T192326Z">
@@ -22007,6 +22023,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T215315Z" creationid="nakahodo" creationdate="20180629T215315Z">
         <seg>III	敵対状態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Mercenaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162347Z" creationid="nakahodo" creationdate="20180630T162347Z">
+        <seg>III	傭兵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26490,6 +26514,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
         <seg>戦闘では、影響を受けた空き地は空き地での戦闘になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In battle, the buyer must split hits taken evenly between their pieces and Riverfolk pieces, with the buyer taking odd hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162839Z" creationid="nakahodo" creationdate="20180630T162839Z">
+        <seg>戦闘にて、購入者は戦闘でのヒットをリバーフォークのピースと購入者のピースで均等に分割して受けます。奇数のヒットは購入者が受けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42451,6 +42483,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T162103Z" creationid="nakahodo" creationdate="20180630T162103Z">
         <seg>購入者はリバーフォーク手札から任意のカードを取り、自身の手札としてそれを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buyer treats rivers as paths until the end of their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162328Z" creationid="nakahodo" creationdate="20180630T162328Z">
+        <seg>自身のターンが終了するまで、購入者は川を道として扱えます。</seg>
       </tuv>
     </tu>
     <tu>
