@@ -1143,6 +1143,14 @@ b	敵対区域への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This service may be bought multiple times if the buyer has access to sufficient trade posts.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162235Z" creationid="nakahodo" creationdate="20180630T162235Z">
+        <seg>（買い手が交易所へと十分にアクセスできる場合、このサービスは複数回購入できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This warrior is referred to as the outrage marker.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144931Z" creationid="aorin" creationdate="20171215T144931Z">
@@ -2916,6 +2924,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T155538Z" creationid="nakahodo" creationdate="20180630T155538Z">
         <seg>11.2.6	サービスを購入する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.2.7 Riverfolk Services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161857Z" creationid="nakahodo" creationdate="20180630T161845Z">
+        <seg>11.2.7	リバーフォークのサービス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21731,6 +21747,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Hand Card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161911Z" creationid="nakahodo" creationdate="20180630T161911Z">
+        <seg>I	手札。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Improving Relationships.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T211452Z" creationid="nakahodo" creationdate="20180629T211452Z">
@@ -22007,6 +22031,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192653Z" creationid="nakahodo" creationdate="20180629T192536Z">
         <seg>III	効果の解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Vagabond Services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161638Z" creationid="nakahodo" creationdate="20180630T161638Z">
+        <seg>III	ヴァガボンドのサービス購入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41492,6 +41524,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Riverfolk offer three services, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161907Z" creationid="nakahodo" creationdate="20180630T161852Z">
+        <seg>リバーフォークは次のように3つのサービスを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Riverfolk place their hand face up above their faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T154108Z" creationid="nakahodo" creationdate="20180630T154108Z">
@@ -42068,6 +42108,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond pays for services by exhausting items—for each item he exhausts to do so, the Riverfolk place one of their own warriors in the Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161836Z" creationid="nakahodo" creationdate="20180630T161836Z">
+        <seg>ヴァガボンドアイテムを消耗させることでサービスの支払いをします。そうしてアイテム1つを消耗させるごとに、リバーフォークは支払いボックスに自身の戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond plays all sides of the conflict, making friends and enemies as suits his ends, while going on quests to increase his renown throughout the wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T200901Z" creationid="nakahodo" creationdate="20180629T200901Z">
@@ -42395,6 +42443,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T160228Z" creationid="nakahodo" creationdate="20180630T160228Z">
         <seg>購入者はリバーフォークのサービストラックのそのサービスに記述されたコストに等しい数、購入者のサプライから戦士たちをリバーフォークの支払いボックスに配置する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buyer takes any card from the Riverfolk's hand and adds it to their hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162103Z" creationid="nakahodo" creationdate="20180630T162103Z">
+        <seg>購入者はリバーフォーク手札から任意のカードを取り、自身の手札としてそれを追加します。</seg>
       </tuv>
     </tu>
     <tu>
