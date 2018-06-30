@@ -8354,6 +8354,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Across the map, the Marquise has two fox workshops and two mouse workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225919Z" creationid="nakahodo" creationdate="20180630T225919Z">
+        <seg>マップを全体で、マルキスは2つのキツネ作業場と、2つのネズミ作業場を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action -Automas are ineligible to be chosen.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110506Z" creationid="nakahodo" creationdate="20180108T110506Z">
@@ -11940,6 +11948,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230022Z" creationid="nakahodo" creationdate="20180630T230022Z">
+        <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be prepared to only keep 1 of each after game 2!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042048Z" creationid="nakahodo" creationdate="20171224T204927Z">
@@ -14381,6 +14397,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T224222Z" creationid="nakahodo" creationdate="20180630T224213Z">
         <seg>カードのクラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crafting Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225709Z" creationid="nakahodo" creationdate="20180630T225704Z">
+        <seg>クラフトの例</seg>
       </tuv>
     </tu>
     <tu>
@@ -24670,6 +24694,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the card gives a persistent effect, tuck the card under your faction board to show only its effect, which you may use as written.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225613Z" creationid="nakahodo" creationdate="20180630T225503Z">
+        <seg>カードが永続効果を与える場合、その効果が見えるように派閥ボード下にカードを差し込み、そこに書かれているようにあなたは効果を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the card gives you an immediate effect, resolve it and then discard the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T224956Z" creationid="nakahodo" creationdate="20180630T224956Z">
@@ -24930,6 +24962,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134506Z" creationid="aorin" creationdate="20180409T134506Z">
         <seg>3つ全てのダイスのの合計が7以下だった場合、恐怖カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the supply does not have the matching item to take, you cannot craft the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225403Z" creationid="nakahodo" creationdate="20180630T225236Z">
+        <seg>指定されたアイテムがサプライにない場合、あなたはそのカードをクラフトできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32905,6 +32945,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Persistent Effect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225700Z" creationid="nakahodo" creationdate="20180630T225700Z">
+        <seg>永続効果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Persona Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="aorin" creationdate="20171231T234345Z">
@@ -38538,6 +38586,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She takes the matching item from the supply, scores one victory point, and discards the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230020Z" creationid="nakahodo" creationdate="20180630T230020Z">
+        <seg>サプライから一致するアイテムを取り、1勝利点を得点し、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She will earn four Favor Cogs.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T081209Z" creationid="nakahodo" creationdate="20180312T081209Z">
@@ -39149,6 +39205,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T015405Z" creationid="aorin" creationdate="20171229T015331Z">
         <seg>彼らの告白を聞いているうちに、あなたの驚きは大きくなっていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, the Marquise can activate one of these mouse workshops to craft this card!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225945Z" creationid="nakahodo" creationdate="20180630T225945Z">
+        <seg>なので、マルキスはネズミ作業場の1つを発動してこのカードをクラフトできます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42606,6 +42670,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Marquise crafts by activating workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225855Z" creationid="nakahodo" creationdate="20180630T225855Z">
+        <seg>マルキスは作業場を発動することでクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Marquise de Cat occupies the Woodland and wants to turn it into an industrial and military powerhouse.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T140105Z" creationid="nakahodo" creationdate="20180629T140105Z">
@@ -42626,6 +42698,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T140819Z" creationid="nakahodo" creationdate="20180629T140722Z">
         <seg>マルキスは昼時にクラフトするために作業場を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise wants to craft a Gently Used Knapsack, which costs one mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225845Z" creationid="nakahodo" creationdate="20180630T225845Z">
+        <seg>マルキスは丁寧に使用されたナップザックをクラフトしたいと考えています。コストは1ネズミです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53001,6 +53081,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can battle other players to remove their pieces from the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230026Z" creationid="nakahodo" creationdate="20180630T230026Z">
+        <seg>You can battle other players to remove their pieces from the map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can carry up to 2 Treasures or Gems at a time.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152342Z" creationid="nakahodo" creationdate="20180430T152026Z">
@@ -54445,6 +54533,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075415Z" creationid="nakahodo" creationdate="20180311T075415Z">
         <seg>捨て札山の中身を見ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may not craft a card with a persistent effect if you already have one of the same name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225655Z" creationid="nakahodo" creationdate="20180630T225655Z">
+        <seg>あなたがすでに同名の永続効果のカードを持つ場合、そのカードをクラフトすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
