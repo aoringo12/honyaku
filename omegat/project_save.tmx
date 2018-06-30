@@ -2735,6 +2735,38 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143354Z" creationid="nakahodo" creationdate="20180630T143354Z">
+        <seg>10.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.4.1 Adjust Outcast Nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143413Z" creationid="nakahodo" creationdate="20180630T143413Z">
+        <seg>10.4.1	除け者の民の調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.4.2 Discard Lost Souls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143758Z" creationid="nakahodo" creationdate="20180630T143758Z">
+        <seg>10.4.2	ロストソウルを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.4.3 Perform Conspiracies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144056Z" creationid="nakahodo" creationdate="20180630T143941Z">
+        <seg>10.4.3	陰謀の実行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -14498,6 +14530,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard all of the cards in the Lost Souls pile to the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143957Z" creationid="nakahodo" creationdate="20180630T143940Z">
+        <seg>ロストソウル山札のカード全てを捨て札山に捨て札とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard all of the cards on the Decree except your Loyal Viziers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162907Z" creationid="nakahodo" creationdate="20180629T162907Z">
@@ -21483,6 +21523,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Crusade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144325Z" creationid="nakahodo" creationdate="20180630T144325Z">
+        <seg>I	改革運動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Foil Ambush.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T101512Z" creationid="nakahodo" creationdate="20180629T101512Z">
@@ -22845,6 +22893,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no one suit had the most cards, the outcast marker stays on its current nation and side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143749Z" creationid="nakahodo" creationdate="20180630T143749Z">
+        <seg>最も多いスートが複数あった場合、除け者マーカーは現在の民の位置と側で留まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no player has the highest treasure value for a given Hero, either because all players have zero or all players are tied, that Hero stays in town.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T215728Z" creationid="aorin" creationdate="20180528T215728Z">
@@ -23125,6 +23181,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that nation was already the Outcast, flip the outcast marker to its Hated side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143701Z" creationid="nakahodo" creationdate="20180630T143701Z">
+        <seg>その民がすでに除け者であった場合、憎悪側に除け者マーカーを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If that player wins the game, you also win.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T233137Z" creationid="aorin" creationdate="20171215T233137Z">
@@ -23241,6 +23305,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T033424Z" creationid="aorin" creationdate="20180115T033358Z">
         <seg>•	工作員が敵兵士ちょうど1体の紛争地域にいる場合、対戦相手の兵士を殺すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Outcast Nation is Hated, the conspiracy costs one less acolyte, to a minimum of zero.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144308Z" creationid="nakahodo" creationdate="20180630T144308Z">
+        <seg>除け者の民が憎悪側であった場合、陰謀コストはアコライト1つ少なくなります。最小は0です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26830,6 +26902,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082803Z" creationid="aorin" creationdate="20171216T082803Z">
         <seg>ローカル戦闘を開始する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspect the cards in the Lost Souls pile, ignoring birds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143445Z" creationid="nakahodo" creationdate="20180630T143445Z">
+        <seg>鳥を除いた、ロストソウル山札のカードを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32857,8 +32937,8 @@ turn order.</seg>
       <tuv lang="EN-US">
         <seg>Place your gardens on the matching spaces of your Gardens tracks, except the leftmost space of the placed garden.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143353Z" creationid="nakahodo" creationdate="20180630T143353Z">
-        <seg>庭園トラックの一致するスペースに庭園を配置します。庭園トラックの最も左のスペースは空になります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143403Z" creationid="nakahodo" creationdate="20180630T143353Z">
+        <seg>庭園トラックの一致するスペースに庭園を配置します。庭園トラックの最も左のスペースには配置されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38004,6 +38084,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T054932Z" creationid="aorin" creationdate="20171216T054932Z">
         <seg>サポーター3体を消費して、一致する民のあなたが支配する空き地に砦を建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two acolytes to initiate a battle in a clearing of the Outcast Nation, or may move from a clearing of the Outcast Nation and then may initiate a battle in the destination clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144526Z" creationid="nakahodo" creationdate="20180630T144526Z">
+        <seg>アコライト2つを消費して、除け者の民の区域で戦闘を開始します。または、除け者の民の区域から1回移動して移動先区域で戦闘を開始できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43630,6 +43718,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T110009Z" creationid="nakahodo" creationdate="20180525T110009Z">
         <seg>ボスモンスターのストラテジックハートは最もソウルを集めるのは誰かを競うレースです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suit with the most cards becomes the new Outcast Nation— move the outcast marker, with its Outcast side showing, to that nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143552Z" creationid="nakahodo" creationdate="20180630T143552Z">
+        <seg>最も多いスートが新しい除け者の民となります。除け者マーカーをその民になるようにスライドさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51107,6 +51203,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T090929Z" creationid="aorin" creationdate="20180410T090929Z">
         <seg>あなたはブーストダイスを消費することで、このフェイズ時のさまざまなボーナスを得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can spend acolytes to perform conspiracies in clearings matching the Outcast Nation, in any order and combination, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144214Z" creationid="nakahodo" creationdate="20180630T144214Z">
+        <seg>あなたはアコライトを消費することで、除け者の民に一致する区域で陰謀を実行できます。それは次のものを、任意の順番と組み合わせで行います。</seg>
       </tuv>
     </tu>
     <tu>
