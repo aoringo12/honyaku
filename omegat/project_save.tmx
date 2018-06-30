@@ -10062,6 +10062,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As other factions purchase services, the Riverfolk will be able to further entrench their commercial interests by building trade posts across the forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152116Z" creationid="nakahodo" creationdate="20180630T152116Z">
+        <seg>他の派閥がサービスを利用するにつれて、リバーフォークは森へと交易所を建築することにより、その商業利益をさらに確かなものにできると考えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As part of the same Encounter, you may immediately gain a Devotion of your choice or place a Sanctity card at the bottom of the Sanctity deck to gain a new Sanctity, by drawing 3 Sanctity cards, playing one, and placing the other two at the bottom of the Sanctity deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T070322Z" creationid="nakahodo" creationdate="20180601T070322Z">
@@ -42299,6 +42307,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T082141Z" creationid="nakahodo" creationdate="20180312T082141Z">
         <seg>ガーデンにある宝石を色ごとに数え、以下に従いあなたは寵愛の歯車を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The construction of these posts is a viable way to score victory points, but so too is the raw accumulation of wealth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152428Z" creationid="nakahodo" creationdate="20180630T152428Z">
+        <seg>これら交易所は勝利点を得点するための手段でありますが、財産の備蓄でもあります。</seg>
       </tuv>
     </tu>
     <tu>
