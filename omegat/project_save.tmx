@@ -39674,6 +39674,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spending a card represents calling upon animals to lend you their labor, to do you a favor, or to broker a deal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223641Z" creationid="nakahodo" creationdate="20180630T223641Z">
+        <seg>カードを消費することは、生き物たちを呼び出し、彼らの労働力を借りて、恩恵を得たり、取引をしたりすることを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spider or Caster form, you may spend 3 Fire to force her to remove another Spiderling (two total).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T161511Z" creationid="nakahodo" creationdate="20180601T161257Z">
