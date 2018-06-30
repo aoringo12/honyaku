@@ -3049,6 +3049,30 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.5.4 Draw.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172527Z" creationid="nakahodo" creationdate="20180630T172527Z">
+        <seg>11.5.4	ドロー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.5.5 Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172618Z" creationid="nakahodo" creationdate="20180630T172613Z">
+        <seg>11.5.5	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.5.6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172648Z" creationid="nakahodo" creationdate="20180630T172648Z">
+        <seg>11.5.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -13708,6 +13732,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commit one fund to draw a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172610Z" creationid="nakahodo" creationdate="20180630T172610Z">
+        <seg>1資金を委託することで、カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commit one fund to initiate a battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T165545Z" creationid="nakahodo" creationdate="20180630T165545Z">
@@ -17758,6 +17790,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114944Z" creationid="aorin" creationdate="20180528T114944Z">
         <seg>エピックヒーローたちは、全ての通常ヒーローたちが出されるまで町に出てきません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Establish Trade Post with Garrison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172757Z" creationid="nakahodo" creationdate="20180630T172757Z">
+        <seg>駐屯地を持つ駐屯地を設置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38609,6 +38649,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend one fund to place a warrior in any clearing with a river.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172647Z" creationid="nakahodo" creationdate="20180630T172614Z">
+        <seg>1資金を消費することで、任意の川を持つ区域1つに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend one supporter and one card to draw one card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053338Z" creationid="aorin" creationdate="20171216T053338Z">
@@ -38677,6 +38725,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T144644Z" creationid="nakahodo" creationdate="20180630T144619Z">
         <seg>アコライト2体を消費して、除け者の民の区域から敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two funds to place a trade post and a warrior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173017Z" creationid="nakahodo" creationdate="20180630T173017Z">
+        <seg>2資金を商して、交易所1つと戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
