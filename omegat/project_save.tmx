@@ -7646,6 +7646,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A clearing’s suit is shown both by its symbol and by the color of the clearing’s trees.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215531Z" creationid="nakahodo" creationdate="20180630T215520Z">
+        <seg>区域のスートは木々の色とシンボルの両方によって表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A clearing’s suit represents the community living there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T215411Z" creationid="nakahodo" creationdate="20180630T215411Z">
@@ -41163,6 +41171,14 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215533Z" creationid="nakahodo" creationdate="20180630T215521Z">
+        <seg>カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cave Bread has been adjusted so it is useful in a wider range of scenarios while also removing some confusions and ambiguities.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T100044Z" creationid="nakahodo" creationdate="20180430T095824Z">
@@ -47744,6 +47760,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131827Z" creationid="nakahodo" creationdate="20180406T131827Z">
         <seg>プレイヤーが3人以上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throughout play, you will draw cards from Root’s shared deck into your hand, and many actions will require you to spend cards from your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223334Z" creationid="nakahodo" creationdate="20180630T223334Z">
+        <seg>プレイを通して、共有デッキからあなたの手札にカードをドローし、多くのアクションアクションで手札からカードを消費する必要が出てくるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
