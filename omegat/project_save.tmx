@@ -2793,8 +2793,40 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>10.5.3 Recruit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145311Z" creationid="nakahodo" creationdate="20180630T145311Z">
-        <seg>10.5.3	雇用所。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145347Z" creationid="nakahodo" creationdate="20180630T145311Z">
+        <seg>10.5.3	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.4 Score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145400Z" creationid="nakahodo" creationdate="20180630T145400Z">
+        <seg>10.5.4	得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.6 Evening</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150051Z" creationid="nakahodo" creationdate="20180630T150051Z">
+        <seg>10.6	夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.6.1 Return Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150107Z" creationid="nakahodo" creationdate="20180630T150107Z">
+        <seg>10.6.1	カードを戻す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.6.2 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150138Z" creationid="nakahodo" creationdate="20180630T150138Z">
+        <seg>10.6.2	クラフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -35353,6 +35385,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return all cards that you revealed to your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150127Z" creationid="nakahodo" creationdate="20180630T150127Z">
+        <seg>公開したカード全てをあなたの手札に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return all conspiracies on Hideout card slots to your hand (both face-up and facedown cards).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052903Z" creationid="aorin" creationdate="20171216T052903Z">
@@ -38108,6 +38148,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T163100Z" creationid="nakahodo" creationdate="20180604T163100Z">
         <seg>任意のカード1枚を捨て札にすることで、あなたのスペースにあるトレジャー1つを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend any unrevealed card (placing in Lost Souls) and score victory points as listed at the top of the column of the leftmost empty Gardens space on the track matching the revealed card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150045Z" creationid="nakahodo" creationdate="20180630T150045Z">
+        <seg>任意の未公開カードを消費（ロストソウルに配置）して、消費したカードに一致する庭園トラックの最も左の空きスペースの上に記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53582,6 +53630,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T092607Z" creationid="nakahodo" creationdate="20180630T092607Z">
         <seg>あなたの夜は、次の順番に従う4つのステップを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Evening has three steps in the following order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150101Z" creationid="nakahodo" creationdate="20180630T150101Z">
+        <seg>あなたの夜は、次の順番に従う3つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
