@@ -2767,6 +2767,38 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144809Z" creationid="nakahodo" creationdate="20180630T144809Z">
+        <seg>10.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.1 Sacrifice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145143Z" creationid="nakahodo" creationdate="20180630T145143Z">
+        <seg>10.5.1	生贄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.2 Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145229Z" creationid="nakahodo" creationdate="20180630T145229Z">
+        <seg>10.5.2	建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.3 Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145311Z" creationid="nakahodo" creationdate="20180630T145311Z">
+        <seg>10.5.3	雇用所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -21707,6 +21739,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Infiltrate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144622Z" creationid="nakahodo" creationdate="20180630T144530Z">
+        <seg>II	浸透。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Move.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T161815Z" creationid="nakahodo" creationdate="20180629T161805Z">
@@ -21751,6 +21791,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162025Z" creationid="nakahodo" creationdate="20180629T162025Z">
         <seg>III	戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Corrupt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144704Z" creationid="nakahodo" creationdate="20180630T144659Z">
+        <seg>III	改宗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26050,6 +26098,22 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T215243Z" creationid="nakahodo" creationdate="20171229T215243Z">
         <seg>チャーターストーンと生と死のガントレットを結ぶ式典にて、永遠なる王はその魂を自身の体からあなたの体へと転送させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a clearing matching the revealed card, place a warrior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145335Z" creationid="nakahodo" creationdate="20180630T145335Z">
+        <seg>公開したカードと一致する区域に、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a clearing you rule matching the revealed card, place a matching garden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145305Z" creationid="nakahodo" creationdate="20180630T145305Z">
+        <seg>公開したカードに一致する、あなたが支配する区域に、民と一致する庭園1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32179,6 +32243,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a warrior in the Acolytes box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145154Z" creationid="nakahodo" creationdate="20180630T145154Z">
+        <seg>アコライトボックスに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a warrior on the leftmost space of the outrage track on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T144908Z" creationid="aorin" creationdate="20171215T144908Z">
@@ -38072,6 +38144,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend three acolytes to remove an enemy building from a clearing of the Outcast Nation, and then place a garden of matching nation there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144809Z" creationid="nakahodo" creationdate="20180630T144659Z">
+        <seg>アコライト3体を消費して、除け者の民の区域から敵建物1つを取り除き、その後、そこに民と一致する庭園1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend three cards of matching nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000140Z" creationid="aorin" creationdate="20171216T000140Z">
@@ -38090,8 +38170,16 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to initiate a battle in a clearing of the Outcast Nation, or may move from a clearing of the Outcast Nation and then may initiate a battle in the destination clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144526Z" creationid="nakahodo" creationdate="20180630T144526Z">
-        <seg>アコライト2つを消費して、除け者の民の区域で戦闘を開始します。または、除け者の民の区域から1回移動して移動先区域で戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144532Z" creationid="nakahodo" creationdate="20180630T144526Z">
+        <seg>アコライト2つを消費して、除け者の民の区域で戦闘を開始します。または、除け者の民の区域から1回移動して、移動先区域で戦闘を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two acolytes to remove an enemy warrior from a clearing of the Outcast Nation, and then place one warrior there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144644Z" creationid="nakahodo" creationdate="20180630T144619Z">
+        <seg>アコライト2体を消費して、除け者の民の区域から敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46250,6 +46338,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To perform this ritual, you must reveal a bird card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145219Z" creationid="nakahodo" creationdate="20180630T145219Z">
+        <seg>この儀式を実行するためには、鳥カード1枚を公開する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To place a card in a Hideout card slot, its matching Hideout must be on the map, and the slot must not have a card in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052603Z" creationid="aorin" creationdate="20171216T052603Z">
@@ -52451,6 +52547,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T142101Z" creationid="nakahodo" creationdate="20180430T142101Z">
         <seg>あなたは別のトレジャートークンやドラゴンジェムを略奪することにより、部族に筋力ディスクを戻せる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may reveal any number of cards from your hand, placing them face up in front of you, and perform one ritual per card revealed, in any order and combination, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145124Z" creationid="nakahodo" creationdate="20180630T145124Z">
+        <seg>あなたの手札から任意の枚数のカードを公開し、それらをあなたの前に表向きで配置し、公開したカードごとに儀式1つを実行することができます。儀式には次のようなものがあり、任意の順番と組み合わせで実行できます。</seg>
       </tuv>
     </tu>
     <tu>
