@@ -10401,8 +10401,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>As you read on, you’ll learn more about the factions and how they score points, along with a couple ways that any faction can score points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T203105Z" creationid="nakahodo" creationdate="20180630T203105Z">
-        <seg>読み進めることにより、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T204030Z" creationid="nakahodo" creationdate="20180630T203105Z">
+        <seg>読み進めることにより、派閥の詳細と彼らが勝利点を得点する方法と、全ての派閥が勝利点を得点できるいくつかの方法について学習することになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18030,6 +18030,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T202211Z" creationid="aorin" creationdate="20180409T202137Z">
         <seg>逆に言えば、あなたがプレイヤーピースを攻撃できなくても、追加で+1移動力ポイントを支払えばそのスペースに入ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if you use this walkthrough, someone should carefully read this learning-to-play guide before your group meets to play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T203217Z" creationid="nakahodo" creationdate="20180630T203217Z">
+        <seg>Even if you use this walkthrough, someone should carefully read this learning-to-play guide before your group meets to play.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26657,6 +26665,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T192422Z" creationid="nakahodo" creationdate="20180604T192422Z">
         <seg>イベントデッキを使い果たした場合、イベントカードの捨て札山をシャッフルし、カードのドローを続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your group learns by playing and wants to jump into Root without needing a long rules explanation, you can use our robust walkthrough, as described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T203107Z" creationid="nakahodo" creationdate="20180630T203107Z">
+        <seg>If your group learns by playing and wants to jump into Root without needing a long rules explanation, you can use our robust walkthrough, as described below.</seg>
       </tuv>
     </tu>
     <tu>
