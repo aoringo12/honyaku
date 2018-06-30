@@ -1232,6 +1232,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Vagabond exhausts H.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173849Z" creationid="nakahodo" creationdate="20180630T173849Z">
+        <seg>（ヴァガボンドはHを消耗させます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Visibility is defined in Vast:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T140602Z" creationid="nakahodo" creationdate="20180412T140602Z">
@@ -43648,6 +43656,14 @@ d	同盟の犠牲。</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211218Z" creationid="aorin" creationdate="20171215T211218Z">
         <seg>民のクラフト建物は、空き地の民と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The nation of a crafting piece matches its clearing, and each crafting piece may be used only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184052Z" creationid="nakahodo" creationdate="20180630T184052Z">
+        <seg>その区域に一致するクラフトピースの民と、各クラフトピースターンごとに1度のみ使用できます。</seg>
       </tuv>
     </tu>
     <tu>
