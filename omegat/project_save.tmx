@@ -6578,6 +6578,22 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T092551Z" creationid="nakahodo" creationdate="20180630T092551Z">
+        <seg>9.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.6.1 An Evening’s Rest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T092642Z" creationid="nakahodo" creationdate="20180630T092642Z">
+        <seg>9.6.1	夜の休息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -17938,6 +17954,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, draw a card (from the deck).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T092550Z" creationid="nakahodo" creationdate="20180630T092550Z">
+        <seg>最後に、デッキからカード1枚手札にドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, end your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003138Z" creationid="aorin" creationdate="20171216T003138Z">
@@ -24005,6 +24029,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T173944Z" creationid="nakahodo" creationdate="20180604T173944Z">
         <seg>あなたがキャスター形態の場合、さらに3枚のパワーカードをドローし、その後手札上限までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are in a forest, move all items in your Damaged box to your Satchel or their matching track, and flip them face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110057Z" creationid="nakahodo" creationdate="20180630T110057Z">
+        <seg>あなたが森にいる場合、あなたの破損ボックスにあるアイテム全てを、カバンかアイテムトラックに表向きで移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52757,6 +52789,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T150935Z" creationid="nakahodo" creationdate="20180604T150935Z">
         <seg>あなたの防御力はその時の形態と恐怖値を基準にして変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Evening has four steps, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T092607Z" creationid="nakahodo" creationdate="20180630T092607Z">
+        <seg>あなたの夜は、次の順番に従う4つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
