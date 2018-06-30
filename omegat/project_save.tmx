@@ -4353,6 +4353,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 T, 2 C, 2 B, 1 H, 1 F.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073647Z" creationid="nakahodo" creationdate="20180630T073647Z">
+        <seg>3T、 2C、 2B、 1H、 1F。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 Unicorn Pieces (Standee, Meeple, Miniature)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T104048Z" creationid="aorin" creationdate="20180410T104048Z">
@@ -5214,6 +5222,14 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T065758Z" creationid="nakahodo" creationdate="20171209T065758Z">
         <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 M, 3 X, 3 S,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073624Z" creationid="nakahodo" creationdate="20180630T073624Z">
+        <seg>4M、3X、3S、</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,6 +6438,30 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073428Z" creationid="nakahodo" creationdate="20180630T073415Z">
         <seg>9.3.3	ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073529Z" creationid="nakahodo" creationdate="20180630T073529Z">
+        <seg>9.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3.5 Step 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073652Z" creationid="nakahodo" creationdate="20180630T073652Z">
+        <seg>9.3.5	ステップ5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3.6 Step 6:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074039Z" creationid="nakahodo" creationdate="20180630T074039Z">
+        <seg>9.3.6	ステップ6：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18481,6 +18521,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form a supply of 20 item chits and place them near the map:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073610Z" creationid="nakahodo" creationdate="20180630T073610Z">
+        <seg>20アイテムちっとを集め、これらをマップ近くに配置してサプライを作ります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form a supply of 20 warriors near you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153940Z" creationid="nakahodo" creationdate="20180629T153940Z">
@@ -19236,6 +19284,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T115724Z" creationid="nakahodo" creationdate="20180629T115724Z">
         <seg>派閥のピースを集める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073536Z" creationid="nakahodo" creationdate="20180630T073536Z">
+        <seg>アイテムを集める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32936,6 +32992,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Populate Ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073719Z" creationid="nakahodo" creationdate="20180630T073719Z">
+        <seg>遺跡の設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Population (each Tribe) = [INF]</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080059Z" creationid="nakahodo" creationdate="20180413T080028Z">
@@ -34460,6 +34524,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T151552Z" creationid="nakahodo" creationdate="20180601T151552Z">
         <seg>できるだけ、未配置のヒーローキューブを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return each set of ruin and item to an empty ruin slot on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074032Z" creationid="nakahodo" creationdate="20180630T074032Z">
+        <seg>各遺跡とアイテムのセットを、マップの空遺跡スロットに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36403,10 +36475,18 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle these items and place one beneath each ruin marker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073856Z" creationid="nakahodo" creationdate="20180630T073813Z">
+        <seg>それらアイテムをシャッフルし、各遺跡マーカー下に1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle your quest deck, draw three quest cards, and place them face up near the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073446Z" creationid="nakahodo" creationdate="20180630T073446Z">
-        <seg>Shuffle your quest deck, draw three quest cards, and place them face up near the map.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073522Z" creationid="nakahodo" creationdate="20180630T073446Z">
+        <seg>あなたのクエストデッキをシャッフルし、クエストカード3枚をドローし、これらをマップ近くに表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37882,6 +37962,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take Starting Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T074047Z" creationid="nakahodo" creationdate="20180630T074047Z">
+        <seg>開始アイテムを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take a warrior from each player and place them on the Indifferent space of the alignment chart on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145325Z" creationid="aorin" creationdate="20171215T145325Z">
@@ -38035,6 +38123,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214619Z" creationid="aorin" creationdate="20180528T214606Z">
         <seg>次の順番でステップを行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the four ruin markers from the map, and take a B, M, H, and S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073908Z" creationid="nakahodo" creationdate="20180630T073806Z">
+        <seg>マップから遺跡マーカー4つを取り、アイテムB、M、H、Sを1つずつ取ります。</seg>
       </tuv>
     </tu>
     <tu>
