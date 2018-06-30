@@ -17463,6 +17463,14 @@ by the Upkeep phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each scores victory points in its own way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T201044Z" creationid="nakahodo" creationdate="20180630T201044Z">
+        <seg>それぞれ独自の方法で勝利点を得点していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each stack should contain Discovery cards of one discipline from one specific age, so there will be an Early Age, Middle Age, and Late Age stack for Sorcery, Science and Religion.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193119Z" creationid="aorin" creationdate="20180114T192839Z">
@@ -26817,6 +26825,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
         <seg>ルートは、プレイヤーたちを物語へと誘い込み、それぞれの異なる役割は今までにない作用とリプレイ性を生み出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Root, you will play one of four factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200938Z" creationid="nakahodo" creationdate="20180630T200938Z">
+        <seg>ルートにて、あなたは4つの派閥のうち1つをプレイすることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37986,6 +38002,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She scores by constructing buildings in the Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T201532Z" creationid="nakahodo" creationdate="20180630T201513Z">
+        <seg>マルキスはウッドランドに建物を建築することで得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She shares some parts of the Ghost and the Cave’s powers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124137Z" creationid="nakahodo" creationdate="20180406T124137Z">
@@ -43810,6 +43834,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The invading Marquise de Cat wishes to exploit the Woodland, using its vast resources to fuel her economic and military machine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T201517Z" creationid="nakahodo" creationdate="20180630T201510Z">
+        <seg>侵略者であるマルキス・デ・キャットは、経済的かつ軍事的な機械に膨大な資源を使用するため、ウッドランドを利用しようと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The king didn't give me much of a choice;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210609Z" creationid="aorin" creationdate="20171231T210609Z">
@@ -44748,6 +44780,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153225Z" creationid="aorin" creationdate="20171212T153225Z">
         <seg>昇進は現在のプレイヤーターン順番（大きなキューブ）に従って実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The proud Eyrie Dynasties wish to reclaim the glory of their once-great aristocracy and retake the Woodland from the Marquise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T201642Z" creationid="nakahodo" creationdate="20180630T201642Z">
+        <seg>鷲の王族はマルキスからウッドランドを取り戻し、かつての栄光を再び得ようとしています。</seg>
       </tuv>
     </tu>
     <tu>
