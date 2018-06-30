@@ -2615,6 +2615,22 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111536Z" creationid="nakahodo" creationdate="20180630T111536Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.1 Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111622Z" creationid="nakahodo" creationdate="20180630T111622Z">
+        <seg>6.1	概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -12411,6 +12427,14 @@ in players’ Neighborhoods.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Catering to those creatures who have been discarded by the other factions, the Lizard Cult seeks to overwhelm its foes through sheer force of will.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111929Z" creationid="nakahodo" creationdate="20180630T111929Z">
+        <seg>リザード・カルトは他の派閥によって爪弾きにされたモノたちに手を差し伸べ、意思の力により敵を倒す力を蓄えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cave Bread</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162450Z" creationid="nakahodo" creationdate="20180430T135437Z">
@@ -14550,6 +14574,15 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132511Z" creationid="nakahodo" creationdate="20180406T132511Z">
         <seg>次に従いアーティファクトトークンを分配します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not add extra quest cards during setup The final two sections refer to factions available in the Riverfolk expansion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111617Z" creationid="nakahodo" creationdate="20180630T111438Z">
+        <seg>セットアップ時にクエストカードを追加することありません。
+最後のセクション2つは、リバーフォーク拡張で利用可能な派閥について説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17074,8 +17107,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Either Vagabond may complete any of the three face-up quests.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111342Z" creationid="nakahodo" creationdate="20180630T111258Z">
-        <seg>ヴァガボンドは3つの表向きクエストから任意のものを達成できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111445Z" creationid="nakahodo" creationdate="20180630T111258Z">
+        <seg>いずれのヴァガボンドも3つの表向きクエストから任意のものを達成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27873,6 +27906,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T080028Z" creationid="nakahodo" creationdate="20171209T080028Z">
         <seg>次の順序で並べます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lizard Cult</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111620Z" creationid="nakahodo" creationdate="20180630T111620Z">
+        <seg>リザード・カルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -39508,6 +39549,14 @@ the Turn Order Track in proper order for the Round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T095615Z" creationid="nakahodo" creationdate="20180430T095615Z">
         <seg>The Crystal Caverns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cult relies on word of mouth and beak to spread its gospel, and new enclaves can spring up anywhere on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112346Z" creationid="nakahodo" creationdate="20180630T112346Z">
+        <seg>カルトは言葉とくちばしにより教義を広め、ウッドランドのどこにでも新たな仲間を増やします。</seg>
       </tuv>
     </tu>
     <tu>
