@@ -17241,6 +17241,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn, a player may buy one service plus one service per clearing with a trade post where that player has any pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161617Z" creationid="nakahodo" creationdate="20180630T161617Z">
+        <seg>各ターン、サービス1つの購入できます。それに加えて、プレイヤーは自身の任意のピースがある交易所を持つ区域ごとに、サービス1つを購入できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn, a player uses 1 or 2 Action Discs to immediately perform 1 action:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103554Z" creationid="aorin" creationdate="20171212T103554Z">
@@ -21855,6 +21863,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T215411Z" creationid="nakahodo" creationdate="20180629T212717Z">
         <seg>II	同盟状態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>II Amount.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T160353Z" creationid="nakahodo" creationdate="20180630T160353Z">
+        <seg>II	価値。</seg>
       </tuv>
     </tu>
     <tu>
