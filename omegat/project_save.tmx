@@ -12362,6 +12362,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broadly, a battle has two steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230558Z" creationid="nakahodo" creationdate="20180630T230558Z">
+        <seg>戦闘には2つのステップがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Broken Plates</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T144948Z" creationid="nakahodo" creationdate="20180108T144948Z">
@@ -22276,6 +22284,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064829Z" creationid="aorin" creationdate="20180115T064756Z">
         <seg>しかし、戦闘自体は戦闘ステージまで解決されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, each player can roll no more hits than their number of warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230741Z" creationid="nakahodo" creationdate="20180630T230741Z">
+        <seg>しかし、各プレイヤーは戦闘区域の戦士たちの数を上回ったヒット数は与えられません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43873,6 +43889,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The attacker deals hits equal to the higher roll, and the defender deals hits equal to the lower roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230639Z" creationid="nakahodo" creationdate="20180630T230639Z">
+        <seg>アタッカーは高い出目に等しいヒットを相手に与え、ディフェンダーは低い出目に等しいヒットを相手に与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The attacker scores one victory point per building removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221209Z" creationid="aorin" creationdate="20171215T221209Z">
@@ -51118,6 +51142,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you battle, choose any clearing where you have any warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230447Z" creationid="nakahodo" creationdate="20180630T230327Z">
+        <seg>あなたが戦闘する時、あなたの戦士たちがいる任意の区域1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you collect a Dragon Gem, you must roll the Dragon die:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T104924Z" creationid="nakahodo" creationdate="20180412T104924Z">
@@ -52909,6 +52941,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T133856Z" creationid="aorin" creationdate="20180528T133856Z">
         <seg>あなたは、建築フェイズ時にルーム1枚を裏向きで配置しているか、自身のタンジョンにヒーローたちを「進行」させている間、あなたはアクティブプレイヤーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are the attacker, and you choose another faction with any pieces there as the defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230544Z" creationid="nakahodo" creationdate="20180630T230328Z">
+        <seg>あなたがアタッカーになり、その区域にいる任意のピースを持つ他派閥を選択します。対象派閥プレイヤーがディフェンダーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57660,6 +57700,22 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025241Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>•</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» First, roll two dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230628Z" creationid="nakahodo" creationdate="20180630T230628Z">
+        <seg>»»	まず、2つのダイスをロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Then, remove pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230809Z" creationid="nakahodo" creationdate="20180630T230809Z">
+        <seg>»»	その後、ピースを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
