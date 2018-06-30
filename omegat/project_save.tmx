@@ -18036,8 +18036,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Even if you use this walkthrough, someone should carefully read this learning-to-play guide before your group meets to play.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T203217Z" creationid="nakahodo" creationdate="20180630T203217Z">
-        <seg>Even if you use this walkthrough, someone should carefully read this learning-to-play guide before your group meets to play.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205434Z" creationid="nakahodo" creationdate="20180630T203217Z">
+        <seg>このプレイ演習を使用するとしても、あなたのグループがゲームをプレイする前に、そのグループの誰かが本書を読み込んでおいてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26671,8 +26671,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>If your group learns by playing and wants to jump into Root without needing a long rules explanation, you can use our robust walkthrough, as described below.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T204836Z" creationid="nakahodo" creationdate="20180630T203107Z">
-        <seg>あたのグループが長いルール説明を必要とせずにルートを早くあそびn上がら学びたいと思う場合、下記に説明されるプレイ演習を使用することができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205510Z" creationid="nakahodo" creationdate="20180630T203107Z">
+        <seg>あたのグループが長いルール説明を必要とせずにルートを早く遊び、プレイしながら学びたいと思う場合、下記に説明されるプレイ演習を使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34988,6 +34988,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preparing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205523Z" creationid="nakahodo" creationdate="20180630T205523Z">
+        <seg>準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press Gangs</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T143454Z" creationid="nakahodo" creationdate="20180430T143112Z">
@@ -37815,6 +37823,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up the game as described on the next page, but make these changes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205716Z" creationid="nakahodo" creationdate="20180630T205716Z">
+        <seg>次のページにゲームセットアップの説明がありますが、これらの変更を加えます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up your player boards and organize your other components as shown on the next page.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214126Z" creationid="nakahodo" creationdate="20180531T214126Z">
@@ -38547,6 +38563,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T160928Z" creationid="nakahodo" creationdate="20180412T160928Z">
         <seg>ゲームの残りで、彼らのターンはスキップされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip this page if your group prefers to learn most of the rules before starting play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205138Z" creationid="nakahodo" creationdate="20180630T205138Z">
+        <seg>プレイ開始前にほとんどのルールを学ぶことを好む場合、このページは飛ばしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49386,8 +49410,8 @@ COMPONENTS</seg>
       <tuv lang="EN-US">
         <seg>We’ll assume this person is you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T195646Z" creationid="nakahodo" creationdate="20180630T195646Z">
-        <seg>We’ll assume this person is you.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205419Z" creationid="nakahodo" creationdate="20180630T195646Z">
+        <seg>我々はそれがあなただと過程します。</seg>
       </tuv>
     </tu>
     <tu>
