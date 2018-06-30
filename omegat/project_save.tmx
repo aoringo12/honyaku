@@ -2880,6 +2880,22 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.2.2 Swimmers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T153713Z" creationid="nakahodo" creationdate="20180630T153713Z">
+        <seg>11.2.2	スイマー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.2.3 Public Hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T154028Z" creationid="nakahodo" creationdate="20180630T154028Z">
+        <seg>11.2.3	公開手札。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -22567,6 +22583,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If another player would take a random card from the Riverfolk’s hand, the cards are flipped face down, shuffled, drawn from, and then flipped face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155224Z" creationid="nakahodo" creationdate="20180630T155224Z">
+        <seg>他プレイヤーがリバーフォークの手札からカードをランダムに取ろうとする場合、カードを裏向きにしてシャッフルし、そこからドローしてもらい、その後、表向きで配置しなおします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any Possession cards in the deck refer to Flare, take the Flare Variant card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132412Z" creationid="nakahodo" creationdate="20180406T132412Z">
@@ -41400,6 +41424,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T153706Z" creationid="nakahodo" creationdate="20180630T153706Z">
         <seg>リバーフォークは昼フェイズ時に、クラフトコスト上の民の交易所トラックの空きスペースに資金を送ることで、クラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Riverfolk place their hand face up above their faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T154108Z" creationid="nakahodo" creationdate="20180630T154108Z">
+        <seg>リバーフォークは自身の派閥ボード上部に表向きで、自身の手札を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Riverfolk treat rivers as paths and may move along rivers regardless of who rules their origin or destination clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T154020Z" creationid="nakahodo" creationdate="20180630T154020Z">
+        <seg>リバーフォークは川を道として扱い、移動前と移動先区域を誰が支配しているかに関わらず、川にそって移動できます。</seg>
       </tuv>
     </tu>
     <tu>
