@@ -12102,6 +12102,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides the fox, rabbit, and mouse suits, cards have a fourth suit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223740Z" creationid="nakahodo" creationdate="20180630T223740Z">
+        <seg>カードはキツネ、ウサギ、ネズミスートの他に、4つめのスートを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beware!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T201557Z" creationid="nakahodo" creationdate="20180411T201557Z">
@@ -12122,6 +12130,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T113639Z" creationid="nakahodo" creationdate="20180630T113639Z">
         <seg>取りカードはカルトにとってワイルドではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Birds Are Wild:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223758Z" creationid="nakahodo" creationdate="20180630T223758Z">
+        <seg>鳥はワイルド：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,6 +14357,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T210553Z" creationid="aorin" creationdate="20171215T210553Z">
         <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crafting Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224222Z" creationid="nakahodo" creationdate="20180630T224213Z">
+        <seg>カードのクラフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -22242,6 +22266,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if you must spend a bird card, you can’t substitute a card of another suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223941Z" creationid="nakahodo" creationdate="20180630T223941Z">
+        <seg>しかし、あなたが鳥カードを消費する必要がある時、別スートのカードを代わりにすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it is possible to add or drop players after Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142904Z" creationid="nakahodo" creationdate="20171218T142904Z">
@@ -24554,6 +24586,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T154231Z" creationid="nakahodo" creationdate="20180603T154227Z">
         <seg>ウルフが離散する場合、シューティーのカードにウルフピースを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the action said you must spend a matching card, you could spend a fox or a bird card, since birds are wild.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224057Z" creationid="nakahodo" creationdate="20180630T224057Z">
+        <seg>アクションが一致するカードの消費を必要とする場合、あなたはキツネか鳥カードを消費できます。鳥はワイルドです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28758,6 +28798,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just like clearings, each card has a suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223656Z" creationid="nakahodo" creationdate="20180630T223656Z">
+        <seg>区域のように、各カードもスートを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025833Z" creationid="aorin" creationdate="20171212T025833Z">
@@ -29244,6 +29292,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T070555Z" creationid="nakahodo" creationdate="20180413T070555Z">
         <seg>我々がソレを生み出したのだ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s say you want to act in a fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224012Z" creationid="nakahodo" creationdate="20180630T224012Z">
+        <seg>キツネ区域でアクションするとしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29978,6 +30034,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Matching Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223948Z" creationid="nakahodo" creationdate="20180630T223948Z">
+        <seg>一致の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maybe you want to declare a temporary peace treaty so that you’re not fighting on multiple fronts.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120927Z" creationid="aorin" creationdate="20180115T120927Z">
@@ -30144,6 +30208,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T082446Z">
         <seg>多くのカードは、アイテムやクラフトの改善を持ちます（3.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most cards have a second use—you can craft the card to gain its effect, shown at the bottom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224405Z" creationid="nakahodo" creationdate="20180630T224214Z">
+        <seg>ほとんどのカードは消費する他に2つ目の使用方法があります。あなたはカード下部に表示される効果を得るために、そのカードをクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43737,6 +43809,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The birds live in the treetops across the whole Woodland, so you can always treat a bird card as a mouse, fox, or rabbit card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223900Z" creationid="nakahodo" creationdate="20180630T223900Z">
+        <seg>鳥はウッドランドの木々全体に住んでいますので、あなたは常に鳥カードをネズミ、キツネ、ウサギカードとして扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The building is selected based upon its end-of campaign value (the number inside a purple circle).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093931Z" creationid="nakahodo" creationdate="20180108T093931Z">
@@ -47740,6 +47820,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Though both slots in this clearing are full, tokens can still be placed here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224213Z" creationid="nakahodo" creationdate="20180630T224213Z">
+        <seg>この区域の両スロットは埋まっています。しかし、ここにトークンを配置することはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Though some may sympathize with the Alliance’s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152913Z" creationid="nakahodo" creationdate="20171103T152913Z">
@@ -47976,6 +48064,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T212711Z" creationid="aorin" creationdate="20180114T212711Z">
         <seg>アクションを選択するには、ゲームボードからスパイマスターアクションタイルを1つとり、自身の前にこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To craft a card, you must activate crafting pieces in the clearings shown in the card’s bottom-left corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224634Z" creationid="nakahodo" creationdate="20180630T224214Z">
+        <seg>カードをクラフトするには、カードの左下角に示される区域にて、クラフトピースを発動させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52721,6 +52817,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can activate each crafting piece only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224215Z" creationid="nakahodo" creationdate="20180630T224215Z">
+        <seg>You can activate each crafting piece only once per turn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add most of the included promo cards to their matching decks and use them as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T091824Z" creationid="nakahodo" creationdate="20180430T091824Z">
@@ -56129,6 +56233,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205405Z" creationid="aorin" creationdate="20171215T205405Z">
         <seg>鳥、キツネ、ウサギ、ネズミ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bird.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223746Z" creationid="nakahodo" creationdate="20180630T223746Z">
+        <seg>鳥。</seg>
       </tuv>
     </tu>
     <tu>
