@@ -6554,6 +6554,30 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.7 Special Action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090540Z" creationid="nakahodo" creationdate="20180630T090540Z">
+        <seg>9.5.7	スペシャルアクション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.8 Aid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090616Z" creationid="nakahodo" creationdate="20180630T090616Z">
+        <seg>9.5.8	援助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.9 Quest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090904Z" creationid="nakahodo" creationdate="20180630T090904Z">
+        <seg>9.5.9	クエスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -12636,6 +12660,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a quest whose nation matches your clearing, and exhaust the two items listed on the quest to complete it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090953Z" creationid="nakahodo" creationdate="20180630T090953Z">
+        <seg>あなたの区域に一致する民のクエスト1つを選択し、クエストに記述されたアイテム2つを消耗して、これを達成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a space and roll the Dragon die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092357Z" creationid="nakahodo" creationdate="20180413T092357Z">
@@ -17328,6 +17360,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exhaust any one item, and give one of your cards matching your clearing to any player there (even Hostile).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090743Z" creationid="nakahodo" creationdate="20180630T090743Z">
+        <seg>任意のアイテム1つを消耗して、あなたの区域にいる任意のプレイヤー1人に、区域の民と一致するカード1枚を、あなたの手札から渡します（敵対していても）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exhaust one C to remove a warrior from your clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T085701Z" creationid="nakahodo" creationdate="20180630T085701Z">
@@ -17338,8 +17378,16 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust one F to take one item under a ruin marker in your clearing, reveal it, and place it face up in your Satchel or on its matching track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090455Z" creationid="nakahodo" creationdate="20180630T090455Z">
-        <seg>Fを消耗して、あなたの区域の遺跡マーカー下にあるアイテム1つを取り、これを公開し、カバンかアイテムトラックに表向行きでこれを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090550Z" creationid="nakahodo" creationdate="20180630T090455Z">
+        <seg>F1つを消耗して、あなたの区域の遺跡マーカー下にあるアイテム1つを取り、これを公開し、カバンかアイテムトラックに表向行きでこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust one F to take the action listed on your character card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090605Z" creationid="nakahodo" creationdate="20180630T090547Z">
+        <seg>F1つを消耗して、あなたのキャラクターカードに記述されたアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24945,6 +24993,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you remove the last item from a ruin, remove the ruin marker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090525Z" creationid="nakahodo" creationdate="20180630T090525Z">
+        <seg>遺跡から最後のアイテムを取り除いた場合、遺跡マーカーを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you remove your last building from a clearing, you must also discard one improvement from your play area, if able.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151636Z" creationid="aorin" creationdate="20171215T151636Z">
@@ -32140,6 +32196,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the quest in your play area, and then draw a new quest and place it near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T092536Z" creationid="nakahodo" creationdate="20180630T092536Z">
+        <seg>あなたのプレイエリアにクエストを配置します。その後、新しいクエスト1枚をドローし、マップ近くにそれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the remaining Artifact tokens on the Entrance tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132630Z" creationid="nakahodo" creationdate="20180406T132630Z">
@@ -35715,6 +35779,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T152026Z" creationid="aorin" creationdate="20180115T152026Z">
         <seg>科学：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score one victory point per quest of matching nation you have completed, including this one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T091227Z" creationid="nakahodo" creationdate="20180630T091227Z">
+        <seg>今回達成したクエストも含み、一致する民のこれまでに達成したクエスト1つごとに、1勝利点を得点します。つまり、特定の民のクエストを多く達成するほど、勝利点を多く得点できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43697,6 +43769,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, you may take one item, if any, from that player’s Crafted Items box, and place it face up in your Satchel or on its matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090856Z" creationid="nakahodo" creationdate="20180630T090856Z">
+        <seg>その後、もしあれば、そのプレイヤーのクラフトされたアイテムボックスからアイテム1つを取り、あなたのカバンかアイテムトラックに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, you may take up to three actions, plus one action per bird card spent, in any order and combination, as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T145115Z" creationid="nakahodo" creationdate="20180629T145115Z">
@@ -43717,6 +43797,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083127Z" creationid="aorin" creationdate="20171216T083127Z">
         <seg>その後、あなたは1勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090506Z" creationid="nakahodo" creationdate="20180630T090506Z">
+        <seg>その後、あなたは1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
