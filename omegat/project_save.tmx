@@ -7662,6 +7662,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common immediate effect is to take an item from the map’s supply and place it in the Crafted Items box in the top-right corner of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225134Z" creationid="nakahodo" creationdate="20180630T225134Z">
+        <seg>基本的な即時効果は、マップのサプライからアイテム1つを取り、あなたの派閥ボードの右上コーナーのクラフトされたアイテムボックスにそれを配置するものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A courier arrives with a royal decree from the Forever King.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T080051Z" creationid="nakahodo" creationdate="20171230T080051Z">
@@ -9668,6 +9676,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180424T160505Z" creationid="nakahodo" creationdate="20180424T160505Z">
         <seg>勝利条件やルールが示す全ての「エントランスタイル」は「エントランスピースを保持するスペース」と読み替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alliance crafts with sympathy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224832Z" creationid="nakahodo" creationdate="20180630T224832Z">
+        <seg>連合は賛同者でクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17077,6 +17093,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each faction has a different crafting piece, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224749Z" creationid="nakahodo" creationdate="20180630T224725Z">
+        <seg>各派閥は次のように、異なるクラフトピースを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each faction has a unique way of scoring victory points, but any faction can score victory points as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T112524Z" creationid="nakahodo" creationdate="20180629T103534Z">
@@ -18823,6 +18847,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133851Z" creationid="aorin" creationdate="20171215T133851Z">
         <seg>鷲王のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyrie crafts with roosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224814Z" creationid="nakahodo" creationdate="20180630T224814Z">
+        <seg>鷲は止まり木でクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24638,6 +24670,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the card gives you an immediate effect, resolve it and then discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224956Z" creationid="nakahodo" creationdate="20180630T224956Z">
+        <seg>カードが直ちに効果をあなたに与える場合、それを解決し、その後、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the card has no charges, its effect cannot be used, but the Treasure token remains on its upgrade space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T113631Z" creationid="nakahodo" creationdate="20180413T054014Z">
@@ -29886,6 +29926,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192013Z" creationid="nakahodo" creationdate="20180630T192013Z">
         <seg>マルキス（プレイヤー1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marquise crafts with workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224807Z" creationid="nakahodo" creationdate="20180630T224807Z">
+        <seg>マルキスは作業場でクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49530,6 +49578,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VP Whenever you craft an item, you score the victory points listed on the card!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T225209Z" creationid="nakahodo" creationdate="20180630T225155Z">
+        <seg>あなたがアイテム1つをクラフトするたびに、カードに記述された勝利点を得点します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VPs are primarily earned by controlling resource territories, but can also be earned through use of various Discoveries and trading in Influence Points (IPs) at the end of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205530Z" creationid="aorin" creationdate="20180114T205530Z">
@@ -49558,6 +49614,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145010Z" creationid="aorin" creationdate="20171215T145010Z">
         <seg>ヴァガボンドセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond crafts with hammers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224841Z" creationid="nakahodo" creationdate="20180630T224841Z">
+        <seg>ヴァガボンドはハンマーでクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52819,8 +52883,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can activate each crafting piece only once per turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224215Z" creationid="nakahodo" creationdate="20180630T224215Z">
-        <seg>You can activate each crafting piece only once per turn.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224740Z" creationid="nakahodo" creationdate="20180630T224215Z">
+        <seg>あなたは各クラフトピースをターンごとに1度のみ発動できます。</seg>
       </tuv>
     </tu>
     <tu>
