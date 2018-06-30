@@ -3073,6 +3073,30 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.6 Evening</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173258Z" creationid="nakahodo" creationdate="20180630T173258Z">
+        <seg>11.6	夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.6.1 Discard Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173451Z" creationid="nakahodo" creationdate="20180630T173451Z">
+        <seg>9.6.3	カードを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.6.2 Set Prices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173518Z" creationid="nakahodo" creationdate="20180630T173518Z">
+        <seg>11.6.2	価格の設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -13293,6 +13317,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose any clearing without a trade post that is ruled by any player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173123Z" creationid="nakahodo" creationdate="20180630T173120Z">
+        <seg>任意のプレイヤーに支配され、交易所がない任意の区域を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose any clearing you rule.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T145455Z">
@@ -13632,6 +13664,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T175358Z" creationid="nakahodo" creationdate="20171218T175358Z">
         <seg>コイン、リソースは有限です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cole dedicates this game to his younger brothers and sisters, who never let him forget how to play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173630Z" creationid="nakahodo" creationdate="20180630T173630Z">
+        <seg>Cole dedicates this game to his younger brothers and sisters, who never let him forget how to play.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14166,6 +14206,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T115203Z" creationid="nakahodo" creationdate="20171001T115157Z">
         <seg>作成されたブレンドは単純なポーカー基準でランク付けされ、ベストセラーリストに配置され、うまく行けば複数ラウンドで得点されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173613Z" creationid="nakahodo" creationdate="20180630T173613Z">
+        <seg>Credits</seg>
       </tuv>
     </tu>
     <tu>
@@ -22172,6 +22220,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Spend Funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173130Z" creationid="nakahodo" creationdate="20180630T173121Z">
+        <seg>II	資金を消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Spend Supporters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192326Z" creationid="nakahodo" creationdate="20180629T192326Z">
@@ -22256,6 +22312,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192653Z" creationid="nakahodo" creationdate="20180629T192536Z">
         <seg>III	効果の解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Score Points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173252Z" creationid="nakahodo" creationdate="20180630T173252Z">
+        <seg>III	勝利点を得点する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25635,6 +25699,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have more than five cards in your hand, discard cards of your choice until there are five.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173510Z" creationid="nakahodo" creationdate="20180630T173510Z">
+        <seg>手札が5枚を上回っている場合、手札が5枚になるまで、カードを選択して捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have more than five cards in your hand, discard cards of your choice until you have five.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110159Z" creationid="nakahodo" creationdate="20180630T110159Z">
@@ -28302,6 +28374,15 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key References Craft (3.1)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173733Z" creationid="nakahodo" creationdate="20180630T173733Z">
+        <seg>主要リファレンス
+クラフト（3.1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Terms</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150657Z" creationid="aorin" creationdate="20171215T150657Z">
@@ -28426,6 +28507,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T165411Z" creationid="nakahodo" creationdate="20180603T165411Z">
         <seg>ククリ（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kyle dedicates this game to his children, who have always requested cute animal drawings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173636Z" creationid="nakahodo" creationdate="20180630T173636Z">
+        <seg>Kyle dedicates this game to his children, who have always requested cute animal drawings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33757,6 +33846,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play a card, and use the crafting pieces of the nations listed in its bottom-left corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173835Z" creationid="nakahodo" creationdate="20180630T173639Z">
+        <seg>カード1枚をプレイし、左下コーナーに記述されている民のクラフトするピースを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play an Event card to fly the Wraith in the path shown on the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T191211Z" creationid="nakahodo" creationdate="20180604T191136Z">
@@ -38725,6 +38822,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T144644Z" creationid="nakahodo" creationdate="20180630T144619Z">
         <seg>アコライト2体を消費して、除け者の民の区域から敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two funds of the player who rules the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173242Z" creationid="nakahodo" creationdate="20180630T173242Z">
+        <seg>選択した区域を支配しているプレイヤーと一致する、2資金を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52988,6 +53093,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T164234Z" creationid="nakahodo" creationdate="20180604T164052Z">
         <seg>あなたがアタックする各対象ピースを1スペース強制移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move each service marker to any space on its track, setting the service to a new price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173603Z" creationid="nakahodo" creationdate="20180630T173603Z">
+        <seg>各サービスマーカーをサービストラックの任意のスペースに移動し、サービスの新しい価格を設定します。</seg>
       </tuv>
     </tu>
     <tu>
