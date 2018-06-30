@@ -8859,6 +8859,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After everyone has taken their first turn, flip the sheet over and go through the second turn, as before.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211102Z" creationid="nakahodo" creationdate="20180630T211102Z">
+        <seg>全員が自身の最初のターンを実行した後、プレイ演習シートを裏返し、2ターン目へ移行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After extracting all cards for crate A from the Index, use those cards to follow these instructions in order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T222621Z" creationid="nakahodo" creationdate="20171224T222621Z">
@@ -15524,6 +15532,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t be dismayed if play is interrupted to explain the finer points of battling or crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211535Z" creationid="nakahodo" creationdate="20180630T211535Z">
+        <seg>戦闘やクラフトでの細かな事を説明するためにプレイが中断されても心配しないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double offering</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T141704Z" creationid="aorin" creationdate="20171213T043935Z">
@@ -19662,6 +19678,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T110856Z" creationid="nakahodo" creationdate="20171001T110856Z">
         <seg>特別な国トークンの能力と効果の詳細はページ16にある付録Aを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For most players, Root is best learned organically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211736Z" creationid="nakahodo" creationdate="20180630T211736Z">
+        <seg>ほとんどのプレイヤーがルートを学習できています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24026,6 +24050,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101605Z" creationid="aorin" creationdate="20180410T101605Z">
         <seg>ナイトが待ち伏せに殺された場合、バイルグールの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If someone asks about their faction, encourage them to look over their faction board—it is designed to answer most of those questions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211449Z" creationid="nakahodo" creationdate="20180630T211449Z">
+        <seg>いずれかの派閥についての質問は、各自の派閥ボードを見るように勧めてください。ほとんどの疑問を解消できるようデザインされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47436,6 +47468,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Throughout this process, encourage everyone to ask questions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211154Z" creationid="nakahodo" creationdate="20180630T211154Z">
+        <seg>これを通して、皆が質問をしていくことを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Throwing it follows the same rules as an attack, but simply at a distance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T100607Z" creationid="nakahodo" creationdate="20180430T100510Z">
@@ -50298,6 +50338,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T072110Z" creationid="nakahodo" creationdate="20180430T071414Z">
         <seg>エントランピースを保持するスペースが崩壊する時、タイルを取り除いたプレイヤーはエントランスピースを、隣接する未占領の明らかになったタイルに移動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When their turn is over, pass the sheet to the Eyrie player, and have them read their actions aloud as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211015Z" creationid="nakahodo" creationdate="20180630T211015Z">
+        <seg>マルキスプレイヤーのターンが終わったら、鷲プレイヤーにシートを渡し、同様に実行するアクションを読み上げていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54789,6 +54837,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T224854Z" creationid="nakahodo" creationdate="20180531T224854Z">
         <seg>プレイヤーロールの個別ルールの中で、色付きボックスにコアコンセプトの例外が記述されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will likely be able to answer questions about shared concepts such as moving and battling with little reference to this guide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211345Z" creationid="nakahodo" creationdate="20180630T211345Z">
+        <seg>例えば移動や戦闘などの共通の概念についての質問は、このガイドをほとんど参照することなく答えることができるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
