@@ -2679,6 +2679,38 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.2.6 The Lost Souls Pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114155Z" creationid="nakahodo" creationdate="20180630T114155Z">
+        <seg>10.2.6	ロストソウル山札。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.3 Faction Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114503Z" creationid="nakahodo" creationdate="20180630T114503Z">
+        <seg>10.3	派閥のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114509Z" creationid="nakahodo" creationdate="20180630T114509Z">
+        <seg>10.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114520Z" creationid="nakahodo" creationdate="20180630T114520Z">
+        <seg>10.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -18962,6 +18994,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form a supply of 25 warriors near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114517Z" creationid="nakahodo" creationdate="20180630T114517Z">
+        <seg>あなたの近くに25戦士のサプライを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form supplies of 25 warriors and 8 wood tokens near you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T141633Z" creationid="nakahodo" creationdate="20180629T141633Z">
@@ -22331,6 +22371,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T223846Z" creationid="aorin" creationdate="20171215T223846Z">
         <seg>ヒットを与えた後でアタッカーの戦士が残っていた場合、ステップ3に続きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any card (even a dominance card) would be placed in the discard pile, it is instead placed in the Lost Souls pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114414Z" creationid="nakahodo" creationdate="20180630T114414Z">
+        <seg>捨て札山にカードを配置する時（ドミナンスカードであっても）、その代わりにロストソウル山札に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26438,6 +26486,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102131Z" creationid="aorin" creationdate="20180526T102131Z">
         <seg>タイの場合、タイブレーカールールを参照してください（p16参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the clearing on the opposite corner from the Marquise’s keep or Eyrie’s starting roost, place four warriors and a garden matching that nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142040Z" creationid="nakahodo" creationdate="20180630T142040Z">
+        <seg>マップの鷲の開始止まり木かマルキスのキープから反対側角端の区域に、その民に一致する庭園1つと戦士4体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31751,6 +31807,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035503Z" creationid="aorin" creationdate="20180408T035503Z">
         <seg>トレジャーの配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place Warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114524Z" creationid="nakahodo" creationdate="20180630T114524Z">
+        <seg>戦士たちの配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40608,6 +40672,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T215852Z" creationid="nakahodo" creationdate="20180531T215852Z">
         <seg>ライトサイドには、プレイヤーたちが探索することになる館の一部が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Lost Souls pile can be inspected by any player at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114459Z" creationid="nakahodo" creationdate="20180630T114459Z">
+        <seg>ロストソウル山札は誰でも、いつでも中身を確認することができます。</seg>
       </tuv>
     </tu>
     <tu>
