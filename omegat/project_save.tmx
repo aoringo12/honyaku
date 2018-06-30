@@ -2977,6 +2977,38 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.3.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164139Z" creationid="nakahodo" creationdate="20180630T164139Z">
+        <seg>11.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.4 Birdsong</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164717Z" creationid="nakahodo" creationdate="20180630T164717Z">
+        <seg>11.4	朝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.4.1 Protectionism.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164757Z" creationid="nakahodo" creationdate="20180630T164757Z">
+        <seg>11.4.1	保護貿易主義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.4.2 Score Dividends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164845Z" creationid="nakahodo" creationdate="20180630T164845Z">
+        <seg>11.4.2	得点配当。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -23670,6 +23702,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Payments box is empty, place two warriors in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164814Z" creationid="nakahodo" creationdate="20180630T164814Z">
+        <seg>支払いボックスが空の場合、そこに戦士2体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Skeleton is on an Armory tile (Lit or Dark), draw a Gear card and place it beneath the matching Skeleton on your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T135351Z" creationid="nakahodo" creationdate="20180603T135351Z">
@@ -24195,6 +24235,14 @@ is a tie for Cost, it then checks the Type of Plan.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T000557Z" creationid="aorin" creationdate="20180101T000557Z">
         <seg>アクティブチャーターの任意の危険トークンが乗ってる建物がある場合、木箱Mを開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are any trade posts on the map, score one victory point per two funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165028Z" creationid="nakahodo" creationdate="20180630T165028Z">
+        <seg>マップ上に交易所がある場合、2資金ごとに1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32484,6 +32532,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a service marker on one space of each Services track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164709Z" creationid="nakahodo" creationdate="20180630T164709Z">
+        <seg>各サービストラックの1スペースにサービスマーカー1つずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a sympathy token in the chosen clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T194407Z" creationid="nakahodo" creationdate="20180629T194407Z">
@@ -33236,6 +33292,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163019Z" creationid="aorin" creationdate="20171228T163019Z">
         <seg>進展トラックの、プレイヤー人数に一致するスペースにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place three warriors in the Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164133Z" creationid="nakahodo" creationdate="20180630T164133Z">
+        <seg>支払いボックスに戦士3体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37018,6 +37082,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T074503Z" creationid="nakahodo" creationdate="20180630T074503Z">
         <seg>関係性の設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Starting Prices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164146Z" creationid="nakahodo" creationdate="20180630T164146Z">
+        <seg>開始価格の設定。</seg>
       </tuv>
     </tu>
     <tu>
