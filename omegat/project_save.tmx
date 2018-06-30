@@ -2864,6 +2864,22 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.2 Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152705Z" creationid="nakahodo" creationdate="20180630T152705Z">
+        <seg>11.2	派閥ルールと能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.2.1 Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152711Z" creationid="nakahodo" creationdate="20180630T152711Z">
+        <seg>11.2.1	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -21371,6 +21387,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021257Z" creationid="aorin" creationdate="20180408T021257Z">
         <seg>しかし、あなたがゴーストの憑依カードを公開した場合、あなたのターンは終了し、それはゲームから取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, a big treasury makes for an easy target, and so the Riverfolk must balance protecting their growing treasury with expanding of their operations into the more dangerous clearings of the forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152656Z" creationid="nakahodo" creationdate="20180630T152455Z">
+        <seg>しかしながら、わかりやすい攻撃対象とされやすくもあります。なので、リバーフォークは自身の増えていく財産を、森の危険な区域へといかに上手く拡大していくのか戦略を練る必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41372,6 +41396,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Riverfolk craft during Daylight by committing funds to empty spaces on the Trade Posts tracks of the nations on the crafting cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T153706Z" creationid="nakahodo" creationdate="20180630T153706Z">
+        <seg>リバーフォークは昼フェイズ時に、クラフトコスト上の民の交易所トラックの空きスペースに資金を送ることで、クラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Rockslide token can only be placed on an edge adjacent to your space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082747Z" creationid="aorin" creationdate="20180409T082747Z">
@@ -42313,8 +42345,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The construction of these posts is a viable way to score victory points, but so too is the raw accumulation of wealth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152428Z" creationid="nakahodo" creationdate="20180630T152428Z">
-        <seg>これら交易所は勝利点を得点するための手段でありますが、財産の備蓄でもあります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152500Z" creationid="nakahodo" creationdate="20180630T152428Z">
+        <seg>これら交易所は勝利点を得点するための手段であり、財産の備蓄でもあります。</seg>
       </tuv>
     </tu>
     <tu>
