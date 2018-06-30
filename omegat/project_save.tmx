@@ -6530,6 +6530,30 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.4 Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085453Z" creationid="nakahodo" creationdate="20180630T085444Z">
+        <seg>9.5.4	戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.5 Strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085628Z" creationid="nakahodo" creationdate="20180630T085628Z">
+        <seg>9.5.5	ストライク。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.6 Explore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090253Z" creationid="nakahodo" creationdate="20180630T090253Z">
+        <seg>9.5.6	探索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -17304,6 +17328,22 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exhaust one C to remove a warrior from your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085701Z" creationid="nakahodo" creationdate="20180630T085701Z">
+        <seg>C1つを消耗して、あなたの区域から戦士1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust one F to take one item under a ruin marker in your clearing, reveal it, and place it face up in your Satchel or on its matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090455Z" creationid="nakahodo" creationdate="20180630T090455Z">
+        <seg>Fを消耗して、あなたの区域の遺跡マーカー下にあるアイテム1つを取り、これを公開し、カバンかアイテムトラックに表向行きでこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exhaust one H to move one damaged item to the Satchel (if M, H, S, C, or F) or to its matching track (X, T, B), and flip the item face up.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T084851Z" creationid="nakahodo" creationdate="20180630T084851Z">
@@ -17316,6 +17356,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T083143Z" creationid="nakahodo" creationdate="20180630T083143Z">
         <seg>M1つを消耗させることで移動します。移動先区域に敵対戦士が少なくとも1体いる場合、さらに追加でM1つ必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust one S to initiate a battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085515Z" creationid="nakahodo" creationdate="20180630T085445Z">
+        <seg>S1つを消耗して戦闘を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21668,6 +21716,14 @@ Artifact enters such a Ghost tile on their own turn.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player has no warriors there, you may instead remove one building or token of that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085738Z" creationid="nakahodo" creationdate="20180630T085703Z">
+        <seg>対象プレイヤーがそこに戦士を持たない場合、そのプレイヤーの建物かトークン1つを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player has sole possession of a territory, he is in control of it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001358Z" creationid="aorin" creationdate="20180115T001358Z">
@@ -24285,6 +24341,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001852Z" creationid="aorin" creationdate="20180115T001852Z">
         <seg>あなたが要塞を制御している場合、隣接戦闘を増強するためにそこを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you craft an item, you may place it face up in your Satchel or on the matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085455Z" creationid="nakahodo" creationdate="20180630T085436Z">
+        <seg>あなたがアイテム1つをクラフトする場合、これをアイテムトラックかカバンに表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43351,6 +43415,22 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, check your relationship with that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085751Z" creationid="nakahodo" creationdate="20180630T085751Z">
+        <seg>その後、あなたとそのプレイヤーとの関係性を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, check your relationship with the defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085612Z" creationid="nakahodo" creationdate="20180630T085612Z">
+        <seg>その後、あなたとディフェンダーとの関係性を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, choose and place a Possession card facedown on your Possession space, and set aside the other Possession cards facedown.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T182643Z" creationid="aorin" creationdate="20180406T182643Z">
@@ -51002,6 +51082,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000122Z" creationid="aorin" creationdate="20180115T000122Z">
         <seg>あなたは常に、法廷にワーカーを展開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may battle with Allied warriors (9.2.9).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085533Z" creationid="nakahodo" creationdate="20180630T085533Z">
+        <seg>あなたは同盟戦士たちと共に戦闘できます（9.2.9）。</seg>
       </tuv>
     </tu>
     <tu>
