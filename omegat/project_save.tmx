@@ -3009,6 +3009,46 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.4.3 Gather Funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165036Z" creationid="nakahodo" creationdate="20180630T165036Z">
+        <seg>11.4.3	資金を集める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.5 Daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165115Z" creationid="nakahodo" creationdate="20180630T165115Z">
+        <seg>11.5	昼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.5.1 Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165254Z" creationid="nakahodo" creationdate="20180630T165254Z">
+        <seg>11.5.1	移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.5.2 Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165534Z" creationid="nakahodo" creationdate="20180630T165534Z">
+        <seg>11.5.2	戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.5.3 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165552Z" creationid="nakahodo" creationdate="20180630T165552Z">
+        <seg>11.5.3	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -13660,6 +13700,30 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commit funds to craft a card from your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165614Z" creationid="nakahodo" creationdate="20180630T165614Z">
+        <seg>1資金を委託することで、あなたの手札からカード1枚をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit one fund to initiate a battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165545Z" creationid="nakahodo" creationdate="20180630T165545Z">
+        <seg>1資金を委託することで、戦闘を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit one fund to take a move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165530Z" creationid="nakahodo" creationdate="20180630T165530Z">
+        <seg>1資金を委託することで、1回移動アクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compare Treasure Values:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214629Z" creationid="aorin" creationdate="20180528T214629Z">
@@ -21828,6 +21892,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Export.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165728Z" creationid="nakahodo" creationdate="20180630T165728Z">
+        <seg>I	輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Foil Ambush.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T101512Z" creationid="nakahodo" creationdate="20180629T101512Z">
@@ -27371,6 +27443,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of moving these warriors to the Committed box, you must place them on empty spaces of the Trade Posts tracks matching the nations listed on the crafting cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165719Z" creationid="nakahodo" creationdate="20180630T165719Z">
+        <seg>委託ボックスに戦士を移動する代わりに、クラフトコストに記述された民に一致する交易所トラックの空きスペースにそれらを配置する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of spending attack points, your Attack remains constant throughout your turn, except for temporary bonuses that you add by spending Boost dice and using the effects of the Hunt Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T090201Z" creationid="aorin" creationdate="20180410T090201Z">
@@ -29401,6 +29481,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075530Z" creationid="aorin" creationdate="20171216T075530Z">
         <seg>あなたの消耗したアイテムを全て、利用可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move all warriors on your faction board to the Funds box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165110Z" creationid="nakahodo" creationdate="20180630T165110Z">
+        <seg>あなたの派閥ボード上の全ての戦士たちを、資金ボックスに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49565,6 +49653,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you commit a fund, move the warrior to the Committed box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165209Z" creationid="nakahodo" creationdate="20180630T165209Z">
+        <seg>資金を委託する時、委託ボックスに戦士を移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you control these during a Scoring Phase, you earn VPs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T195227Z" creationid="aorin" creationdate="20180114T195227Z">
@@ -49769,6 +49865,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T181803Z" creationid="nakahodo" creationdate="20180601T181803Z">
         <seg>あなたが信仰キューブを消費する時、これは自身のサプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you spend a fund, return the warrior to its owner's supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165250Z" creationid="nakahodo" creationdate="20180630T165231Z">
+        <seg>資金を消費する時、所有者のサプライに戦士を戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51496,6 +51600,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can commit and spend funds to take actions, as follows, in any order and combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165236Z" creationid="nakahodo" creationdate="20180630T165147Z">
+        <seg>あなたは資金を消費したり委託することで、アクションを実行します。次のものを、任意の順番と組み合わせで実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can construct buildings on empty sky island tiles in your charter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003942Z" creationid="aorin" creationdate="20171229T003942Z">
@@ -52708,6 +52820,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T181140Z" creationid="aorin" creationdate="20171228T181140Z">
         <seg>あなたは、建物に示されるVPを得るためにトレジャーカードを（捨て札にして）使用することで、いくつかの建物を建築することになるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may forgo the listed benefit of crafting a card, disarding it if it is an improvement, to place one of your warriors in the Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165734Z" creationid="nakahodo" creationdate="20180630T165734Z">
+        <seg>You may forgo the listed benefit of crafting a card, disarding it if it is an improvement, to place one of your warriors in the Payments box.</seg>
       </tuv>
     </tu>
     <tu>
