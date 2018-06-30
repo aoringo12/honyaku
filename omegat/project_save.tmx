@@ -398,6 +398,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Do not score points for removing the warrior that made the faction Hostile.) b Moving into Hostile Clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072737Z" creationid="nakahodo" creationdate="20180630T072737Z">
+        <seg>（派閥と敵対するために戦士1体を取り除いた時は勝利点を得点しません）
+b	敵対区域への移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Do not shuffle them into the tile stack, as the Ghost does.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T035148Z" creationid="aorin" creationdate="20180408T035148Z">
@@ -4483,8 +4492,8 @@ Collect all Possession cards except the card (if any) on your Mental Block space
       <tuv lang="EN-US">
         <seg>3.3.3 Step 3:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103230Z" creationid="nakahodo" creationdate="20180629T103230Z">
-        <seg>3.3.3	ステッ3：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073444Z" creationid="nakahodo" creationdate="20180629T103230Z">
+        <seg>3.3.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6381,6 +6390,38 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T205516Z" creationid="nakahodo" creationdate="20180629T205516Z">
         <seg>9.2.9	関係性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3 Faction Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073035Z" creationid="nakahodo" creationdate="20180630T073035Z">
+        <seg>9.3	派閥のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073040Z" creationid="nakahodo" creationdate="20180630T073040Z">
+        <seg>9.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073305Z" creationid="nakahodo" creationdate="20180630T073305Z">
+        <seg>9.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073428Z" creationid="nakahodo" creationdate="20180630T073415Z">
+        <seg>9.3.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12395,6 +12436,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Character.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073244Z" creationid="nakahodo" creationdate="20180630T073244Z">
+        <seg>キャラクターを選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Form</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
@@ -12423,6 +12472,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T174407Z" creationid="nakahodo" creationdate="20180604T173956Z">
         <seg>形態カード1枚を選択し、あなたのプレイヤーボードに裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a character card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073257Z" creationid="nakahodo" creationdate="20180630T073257Z">
+        <seg>キャラクターカード1枚を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19279,6 +19336,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get Quests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073451Z" creationid="nakahodo" creationdate="20180630T073445Z">
+        <seg>クエストを得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get a specified number of Penalty</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142701Z" creationid="nakahodo" creationdate="20171213T142701Z">
@@ -24116,6 +24181,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T154520Z" creationid="nakahodo" creationdate="20180430T154520Z">
         <seg>そうした場合、他のカードを破棄した後で、通常より1枚少なくカードをドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do, move their relationship marker to the Indifferent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073027Z" creationid="nakahodo" creationdate="20180630T073027Z">
+        <seg>そうした場合、対象派閥の関係性マーカーを無関心スペースへと移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31033,6 +31106,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place Pawn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073310Z" creationid="nakahodo" creationdate="20180630T073310Z">
+        <seg>ポーンの配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place Program Cards allow you to choose one Gem of any color from the unused Gems and place in in a Garden Sector.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074059Z" creationid="nakahodo" creationdate="20180311T074059Z">
@@ -32033,6 +32114,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T145855Z" creationid="nakahodo" creationdate="20171218T145855Z">
         <seg>0VPに、あなたのVPトークンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your character pawn in any forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073418Z" creationid="nakahodo" creationdate="20180630T073411Z">
+        <seg>任意の森1つにあなたのキャラクターポーンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36310,6 +36399,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171225T105721Z" creationid="nakahodo" creationdate="20171225T105721Z">
         <seg>結果として残る建築された建物カード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffle your quest deck, draw three quest cards, and place them face up near the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T073446Z" creationid="nakahodo" creationdate="20180630T073446Z">
+        <seg>Shuffle your quest deck, draw three quest cards, and place them face up near the map.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49733,6 +49830,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can form a coalition (9.2.8) with a Hostile faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072959Z" creationid="nakahodo" creationdate="20180630T072959Z">
+        <seg>あなたは敵対派閥と連立（9.2.8）を組むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can gain a face-up assistant card (or any advancement card) from the advancement mat by using the Market.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153647Z" creationid="nakahodo" creationdate="20171218T153522Z">
@@ -51413,6 +51518,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must exhaust an extra M to move into a clearing with any warriors of any number of Hostile factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072908Z" creationid="nakahodo" creationdate="20180630T072908Z">
+        <seg>あなたは、任意の数の敵対派閥の戦士たちがいる区域へ移動するために、追加でM1つを消耗させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must fill Omens spaces in a row from left to right.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183055Z" creationid="nakahodo" creationdate="20180604T183055Z">
@@ -52767,6 +52880,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T214128Z" creationid="nakahodo" creationdate="20180629T214053Z">
         <seg>c	同盟と共に攻撃する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c Coalition with Hostile Faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072932Z" creationid="nakahodo" creationdate="20180630T072932Z">
+        <seg>c	敵対派閥との連立。</seg>
       </tuv>
     </tu>
     <tu>
