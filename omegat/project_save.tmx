@@ -1095,6 +1095,15 @@ b	敵対区域への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The buyer cannot use Riverfolk warriors in battle against Riverfolk pieces.) a Vagabond-Hired Mercenaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163410Z" creationid="nakahodo" creationdate="20180630T162934Z">
+        <seg>（購入者はリバーフォークのピースに対しての戦闘にリバーフォークのピースを使用できません）
+a	ヴァガボンドが雇用する傭兵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The defender still discards the played ambush card.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T101737Z" creationid="nakahodo" creationdate="20180629T101737Z">
@@ -2932,6 +2941,38 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T161857Z" creationid="nakahodo" creationdate="20180630T161845Z">
         <seg>11.2.7	リバーフォークのサービス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.3 Faction Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163451Z" creationid="nakahodo" creationdate="20180630T163451Z">
+        <seg>6.3	派閥のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163500Z" creationid="nakahodo" creationdate="20180630T163500Z">
+        <seg>11.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163510Z" creationid="nakahodo" creationdate="20180630T163510Z">
+        <seg>11.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163737Z" creationid="nakahodo" creationdate="20180630T163737Z">
+        <seg>11.3.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19242,6 +19283,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form a supply of 15 warriors near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163506Z" creationid="nakahodo" creationdate="20180630T163506Z">
+        <seg>あなたの近くに15戦士のサプライを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form a supply of 20 item chits and place them near the map:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073610Z" creationid="nakahodo" creationdate="20180630T073610Z">
@@ -19833,6 +19882,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203423Z" creationid="nakahodo" creationdate="20180601T203423Z">
         <seg>安定性を得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Starting Funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T164115Z" creationid="nakahodo" creationdate="20180630T164115Z">
+        <seg>開始資金を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26494,6 +26551,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle, the Vagabond counts Riverfolk mercenaries as Allied, but must follow the Mercenaries rules above.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163446Z" creationid="nakahodo" creationdate="20180630T162935Z">
+        <seg>戦闘にて、ヴァガボンドはリバーフォークの傭兵を同盟としてカウントしますが、上記の傭兵ルールに従う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the Vagabond is defenseless (3.3.2.III) if he has no undamaged S.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203456Z" creationid="nakahodo" creationdate="20180629T203456Z">
@@ -32567,6 +32632,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T180009Z" creationid="nakahodo" creationdate="20171229T180009Z">
         <seg>余分なものをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place four warriors on any clearing or clearings connected to the river.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163732Z" creationid="nakahodo" creationdate="20180630T163732Z">
+        <seg>任意の区域か、川に接続された区域1つ以上に戦士4体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
