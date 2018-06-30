@@ -766,7 +766,6 @@ Dominance Card	支配カード
 Dominance Card	ドミナンスカード
 Explore action	探索アクション
 Riverfolk Company	リバーフォークカンパニー
-crafting piece	クラフティングピース
 Crafted Items box	クラフトされたアイテムボックス
 Daylight	昼
 Birdsong	朝
@@ -838,3 +837,5 @@ faction overview card	派閥概要カード
 labor	労働
 lend	貸す
 calling upon	電話する
+crafting piece	クラフトピース
+sympathy	賛同者
