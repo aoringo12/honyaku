@@ -2896,6 +2896,30 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.2.4 Funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155240Z" creationid="nakahodo" creationdate="20180630T155240Z">
+        <seg>11.2.4	資金。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.2.5 Trade Posts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155412Z" creationid="nakahodo" creationdate="20180630T155412Z">
+        <seg>11.2.5	交易所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.2.6 Buying Services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155538Z" creationid="nakahodo" creationdate="20180630T155538Z">
+        <seg>11.2.6	サービスを購入する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>111</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053301Z" creationid="aorin" creationdate="20180102T053301Z">
@@ -10778,6 +10802,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021933Z" creationid="aorin" creationdate="20180408T021933Z">
         <seg>憑依ターンの開始にて、憑依されたロールの最初のターンの配置セットアップルールに従い、マップにプレイヤーのピースを配置します（もしあれば）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the start of another player's Birdsong, that player may buy Riverfolk services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155602Z" creationid="nakahodo" creationdate="20180630T155602Z">
+        <seg>ほかプレイヤーの朝フェイズ開始時に、そのプレイヤーはリバーフォークのサービスを購入できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21659,6 +21691,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155605Z" creationid="nakahodo" creationdate="20180630T155605Z">
+        <seg>I	コスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Crusade.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T144325Z" creationid="nakahodo" creationdate="20180630T144325Z">
@@ -21743,6 +21783,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110535Z" creationid="nakahodo" creationdate="20180630T110535Z">
         <seg>I	スペシャルアクション：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I Trade Disruption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155452Z" creationid="nakahodo" creationdate="20180630T155452Z">
+        <seg>I	取引途絶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41436,6 +41484,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Riverfolk score victory points when they build trade posts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155429Z" creationid="nakahodo" creationdate="20180630T155429Z">
+        <seg>リバーフォークが交易所を建築する時、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Riverfolk treat rivers as paths and may move along rivers regardless of who rules their origin or destination clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T154020Z" creationid="nakahodo" creationdate="20180630T154020Z">
@@ -42315,6 +42371,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093931Z" creationid="nakahodo" creationdate="20180108T093931Z">
         <seg>建物はキャンペーン終了価値の値に基づいて（紫円内の数字）選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buyer must place warriors from their supply into the Riverfolk's Payments box equal in number to the cost of that service liste on the Riverfolk's Services track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T160228Z" creationid="nakahodo" creationdate="20180630T160228Z">
+        <seg>購入者はリバーフォークのサービストラックのそのサービスに記述されたコストに等しい数、購入者のサプライから戦士たちをリバーフォークの支払いボックスに配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46610,6 +46674,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To take many actions, the Riverfolk commit and spend funds:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155311Z" creationid="nakahodo" creationdate="20180630T155311Z">
+        <seg>多くのアクションを実行するために、リバーフォークは資金を消費して委託します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To take various actions, the Alliance spends supporters, which are cards on the Supporters stack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T183232Z" creationid="nakahodo" creationdate="20180629T182729Z">
@@ -49680,6 +49752,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
         <seg>プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a trade post is removed, the Riverfolk remove half of their funds (rounded up).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155528Z" creationid="nakahodo" creationdate="20180630T155528Z">
+        <seg>交易所1つが取り除かれるたびに、リバーフォークは自身の手札半分（切り上げ）を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55147,6 +55227,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164825Z" creationid="aorin" creationdate="20171228T164825Z">
         <seg>ステップ2から始まるゲーム終了指示に従ってください。そして、セットアップカードと共にこれらをクロニクルに追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>warriors in their Funds box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155405Z" creationid="nakahodo" creationdate="20180630T155405Z">
+        <seg>資金ボックス内の戦士たちが資金です。</seg>
       </tuv>
     </tu>
     <tu>
