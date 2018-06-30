@@ -15452,6 +15452,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dominance cards cannot be played early in the game, so we recommend learning about them later—they are described more on page 21.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200911Z" creationid="nakahodo" creationdate="20180630T200911Z">
+        <seg>ドミナンスカードはゲーム初期ではプレイできません。なので、我々は後にこれらについて後に学習することをおすすめします。これらについての説明はページ21にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't open ANYTHING unless specifically instructed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T141222Z" creationid="nakahodo" creationdate="20171218T141222Z">
@@ -17610,6 +17618,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn is split into three phases:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200338Z" creationid="nakahodo" creationdate="20180630T200338Z">
+        <seg>各ターンは3つのフェイズに分かれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn you can expand your dungeon by building a MONSTER ROOM or TRAP ROOM.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102902Z" creationid="aorin" creationdate="20180526T102902Z">
@@ -19104,6 +19120,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162923Z" creationid="nakahodo" creationdate="20180629T162923Z">
         <seg>その後、現在のリーダーを裏向きにして側に置き、残っている表向きの新しいリーダー1人を選択して、あなたの派閥ボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flow of Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200257Z" creationid="nakahodo" creationdate="20180630T200257Z">
+        <seg>プレイの流れ</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,6 +31298,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you play through these phases in order, your turn ends, and the player to your left begins their turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200413Z" creationid="nakahodo" creationdate="20180630T200413Z">
+        <seg>あなたがこれらフェイズを順番にプレイすると、ターンが終了し、左隣のプレイヤーへとターンが移行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you purchase a Discovery, place the card face-up in front of your screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040638Z" creationid="aorin" creationdate="20180116T040638Z">
@@ -36867,6 +36899,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
         <seg>ルートには2つのルールブックが含まれていて、それはこのルールリファレンスとプレイ学習ガイドになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root is a fast-paced game of adventure and war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T195740Z" creationid="nakahodo" creationdate="20180630T195740Z">
+        <seg>ルートは戦争と冒険のペースが早いゲームです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45007,6 +45047,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The three phases are described in detail on each player’s faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200433Z" creationid="nakahodo" creationdate="20180630T200433Z">
+        <seg>3つのフェイズは各プレイヤーの派閥ボードに詳細が説明されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tiebreakers are the categories on the Campaign Victory Card (from top to bottom).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220626Z" creationid="nakahodo" creationdate="20171229T220626Z">
@@ -48882,6 +48930,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Victory and Gaining Victory Points</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200447Z" creationid="nakahodo" creationdate="20180630T200445Z">
+        <seg>勝利点の獲得と勝利点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vii happy king 息 angry king</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213334Z" creationid="nakahodo" creationdate="20171224T213334Z">
@@ -49212,6 +49268,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T132824Z" creationid="nakahodo" creationdate="20171230T132756Z">
         <seg>仲間が不安定な時に、親切でありましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’ll assume this person is you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T195646Z" creationid="nakahodo" creationdate="20180630T195646Z">
+        <seg>We’ll assume this person is you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52633,6 +52697,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can win in one of two ways:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200501Z" creationid="nakahodo" creationdate="20180630T200445Z">
+        <seg>あなたは2つの方法のうち1つで勝利できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can't use it this game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T032050Z" creationid="nakahodo" creationdate="20171224T153617Z">
@@ -54505,6 +54577,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will play as one of four factions vying to show that you are the most legitimate ruler of the vast Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200247Z" creationid="nakahodo" creationdate="20180630T200247Z">
+        <seg>あなたは広大なウッドランドので最も支配者としてふさわしいことを証明するために争っている、4つの派閥の1つとしてプレイします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will play in this order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214018Z" creationid="nakahodo" creationdate="20180531T214018Z">
@@ -55837,6 +55917,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T164009Z" creationid="aorin" creationdate="20171228T164009Z">
         <seg>ルール：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>score 30 victory points or play and complete a dominance card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T200519Z" creationid="nakahodo" creationdate="20180630T200519Z">
+        <seg>30勝利点を得点するか、ドミナンスカードをプレイしてそれを達成することです。</seg>
       </tuv>
     </tu>
     <tu>
