@@ -8692,6 +8692,14 @@ their own Research Lab Ability Tracks!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a few rounds, the game should flow seamlessly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211836Z" creationid="nakahodo" creationdate="20180630T211836Z">
+        <seg>数ラウンドで、ゲームはスムーズに進んでいくようになるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a long month, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T175929Z" creationid="nakahodo" creationdate="20171229T175929Z">
@@ -13333,6 +13341,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212139Z" creationid="nakahodo" creationdate="20180630T212139Z">
+        <seg>派閥の選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Form</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T173956Z" creationid="nakahodo" creationdate="20180604T173956Z">
@@ -14651,6 +14667,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T225900Z" creationid="aorin" creationdate="20180528T225900Z">
         <seg>アクティブ不可：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deal Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212656Z" creationid="nakahodo" creationdate="20180630T212656Z">
+        <seg>カードを配る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17105,6 +17129,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T071459Z" creationid="nakahodo" creationdate="20180311T071130Z">
         <seg>各プレイヤーは色を選択し、プレイヤーの人数に示された数の、その色のロボタニストを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player chooses a faction board and takes all of their faction’s pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212506Z" creationid="nakahodo" creationdate="20180630T212506Z">
+        <seg>各プレイヤーは派閥ボード1つを選択し、その派閥のピース全てを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19673,6 +19705,14 @@ track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more faction mixes, see page 22.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212100Z" creationid="nakahodo" creationdate="20180630T212100Z">
+        <seg>より多くの派閥組み合わせは、ページ22を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about specific Country Token abilities
 and effects, see Appendix A on page 16.</seg>
       </tuv>
@@ -19684,8 +19724,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>For most players, Root is best learned organically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211736Z" creationid="nakahodo" creationdate="20180630T211736Z">
-        <seg>ほとんどのプレイヤーがルートを学習できています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211921Z" creationid="nakahodo" creationdate="20180630T211736Z">
+        <seg>ほとんどのプレイヤーはルートを遊びながら学習できています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24014,10 +24054,26 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If playing with three players, remove the Vagabond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T211946Z" creationid="nakahodo" creationdate="20180630T211946Z">
+        <seg>プレイヤー3人でプレイする場合、ヴァガボンドを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If playing with three, we recommend that you play without the Vagabond, though you may substitute the Vagabond for the Woodland Alliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132301Z" creationid="aorin" creationdate="20171215T132301Z">
         <seg>3人でプレイする場合、ヴァガボンドなしでプレイするのを推奨し、ウッドランド連合をヴァガボンドの変わりにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If playing with two, also remove the Alliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212018Z" creationid="nakahodo" creationdate="20180630T212018Z">
+        <seg>2人でプレイする場合、連合も取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33863,6 +33919,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the score marker for each faction in play on “0” on the score track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212649Z" creationid="nakahodo" creationdate="20180630T212649Z">
+        <seg>得点トラックの「0」にプレイに参加する各派閥の得点マーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the small cubes on the
 small cube track randomly to determine the
 turn order.</seg>
@@ -37843,6 +37907,14 @@ Rank.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T074503Z" creationid="nakahodo" creationdate="20180630T074503Z">
         <seg>関係性の設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Scores.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212623Z" creationid="nakahodo" creationdate="20180630T212623Z">
+        <seg>得点の設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43437,6 +43509,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T190137Z" creationid="nakahodo" creationdate="20180604T185813Z">
         <seg>レイスは物体である館の化身です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The back of each faction board lists all of its pieces and gives its basics of play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212619Z" creationid="nakahodo" creationdate="20180630T212619Z">
+        <seg>各派閥ボード裏は、全てのピースと基本的なプレイ方法が記述されています。</seg>
       </tuv>
     </tu>
     <tu>
