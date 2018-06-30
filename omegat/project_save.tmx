@@ -11207,6 +11207,22 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacker may cancel defender's ambush card by also playing ambush card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184714Z" creationid="nakahodo" creationdate="20180630T184714Z">
+        <seg>アタッカーもまたアンブッシュカードをプレイすることで、ディフェンダーのアンブッシュカードをキャンセルできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacker will deal hits equal to higher roll, and defender will deal hits equal to lower roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184720Z" creationid="nakahodo" creationdate="20180630T184720Z">
+        <seg>アタッカーは高い出目に等しいヒットを相手に与え、ディフェンダーは低い出目に等しいヒットを相手に与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacking</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T230244Z" creationid="nakahodo" creationdate="20180411T083753Z">
@@ -11776,6 +11792,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220940Z" creationid="aorin" creationdate="20171215T220940Z">
         <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Battle (3.3)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184407Z" creationid="nakahodo" creationdate="20180630T184407Z">
+        <seg>戦闘（3.3）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14611,6 +14635,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222422Z" creationid="aorin" creationdate="20171215T222422Z">
         <seg>ディフェンダーが撤退を宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defender May Ambush.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184642Z" creationid="nakahodo" creationdate="20180630T184642Z">
+        <seg>ディフェンダーはアンブッシュを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25395,6 +25427,22 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you craft an improvement, place the card in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184141Z" creationid="nakahodo" creationdate="20180630T184141Z">
+        <seg>改善をクラフする場合、あなたのプレイエリアにカードを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you craft an item, score its victory points, take its item, and discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184123Z" creationid="nakahodo" creationdate="20180630T184123Z">
+        <seg>あなたがアイテムをクラフする場合、その勝利点を得点し、そのアイテムを取り、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you craft an item, you may place it face up in your Satchel or on the matching track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T085455Z" creationid="nakahodo" creationdate="20180630T085436Z">
@@ -29568,6 +29616,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002231Z" creationid="aorin" creationdate="20171216T002231Z">
         <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move (3.2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184245Z" creationid="nakahodo" creationdate="20180630T184245Z">
+        <seg>移動（3.2）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39581,6 +39637,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take any number of your warriors or your pawn from one clearing and move them to one adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184331Z" creationid="nakahodo" creationdate="20180630T184331Z">
+        <seg>区域1つから、あなたのポーンか、任意の数の戦士たちを取り、1つ隣接した区域にそれらを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take beans
 of the appropriate
 color from The
@@ -43599,6 +43663,14 @@ their track in the same order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T102849Z" creationid="nakahodo" creationdate="20180629T102109Z">
         <seg>ロールによって与えられるヒットの最大数は、アタッカーかディフェンダーかに関わらず、戦場にいる自身の戦士数に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum hits you can deal from rolling equals your number of warriors there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185047Z" creationid="nakahodo" creationdate="20180630T185047Z">
+        <seg>最大ヒット数は、そこの戦士の数が上限となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51745,6 +51817,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can battle in a clearing where you have warriors or your pawn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184631Z" creationid="nakahodo" creationdate="20180630T184631Z">
+        <seg>戦士たちかポーンを持つ区域1つで戦闘を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can carry up to 2 Treasures or Gems at a time.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152342Z" creationid="nakahodo" creationdate="20180430T152026Z">
@@ -52301,6 +52381,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100307Z">
         <seg>自身のプレイエリアに同じ名前の改善を持つ場合、その改善はクラフトできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot craft an improvement if you have one of the same name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184237Z" creationid="nakahodo" creationdate="20180630T184150Z">
+        <seg>あなたが同じ名前のものを保つ場合、改良をクラフトすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53529,6 +53617,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may use its effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184154Z" creationid="nakahodo" creationdate="20180630T184148Z">
+        <seg>あなたはその効果を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may use the effect of this improvement as described on the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100158Z">
@@ -53845,6 +53941,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T161448Z" creationid="nakahodo" creationdate="20180629T161448Z">
         <seg>最も左列から始まり、右列へと移動するように法令を解決しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must rule the origin, destination, or both.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184400Z" creationid="nakahodo" creationdate="20180630T184400Z">
+        <seg>あなたは移動元か移動先か、またはその両方を支配する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
