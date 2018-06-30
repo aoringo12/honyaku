@@ -2647,6 +2647,38 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.2.2 Hatred of Birds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113625Z" creationid="nakahodo" creationdate="20180630T113625Z">
+        <seg>10.2.2	取りの憎悪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.2.3 Revenge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113648Z" creationid="nakahodo" creationdate="20180630T113648Z">
+        <seg>10.2.3	リベンジ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.2.4 Distracting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113849Z" creationid="nakahodo" creationdate="20180630T113726Z">
+        <seg>10.2.4	注意をそらす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.2.5 Fear of the Faithful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114030Z" creationid="nakahodo" creationdate="20180630T114030Z">
+        <seg>10.2.5	狂信者の恐怖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -11513,6 +11545,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T201557Z" creationid="nakahodo" creationdate="20180411T201557Z">
         <seg>注意してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bird cards are not wild for the Cult.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113639Z" creationid="nakahodo" creationdate="20180630T113639Z">
+        <seg>取りカードはカルトにとってワイルドではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39585,10 +39625,18 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cult rules any clearings where they have any gardens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113931Z" creationid="nakahodo" creationdate="20180630T113931Z">
+        <seg>カルトは庭園を持つ区域を支配します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cult uses gardens to craft during Evening.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113052Z" creationid="nakahodo" creationdate="20180630T113052Z">
-        <seg>The Cult uses gardens to craft during Evening.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113614Z" creationid="nakahodo" creationdate="20180630T113052Z">
+        <seg>カルトは夜フェイズ時に、庭園を使用することでクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45453,6 +45501,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This overrides the Eyrie's Lords of the Forest (7.2.2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114001Z" creationid="nakahodo" creationdate="20180630T114001Z">
+        <seg>これは鷲の森の領主ルールを上書きします（7.2.2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This phase has two steps in the following order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195333Z" creationid="nakahodo" creationdate="20180629T195333Z">
@@ -49020,6 +49076,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a Cult warrior is removed while defending in battle, it is placed in the Acolytes box instead of the Cult’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113820Z" creationid="nakahodo" creationdate="20180630T113724Z">
+        <seg>カルトの戦士1体が戦闘でのディフェンダー時に取り除かれるたびに、カルトのサプライではなく、アコライトボックスに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a Marquise warrior is removed, the Marquise may spend any card to immediately place that warrior in the clearing with the keep token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T141502Z">
@@ -49040,6 +49104,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T183908Z" creationid="nakahodo" creationdate="20180629T183908Z">
         <seg>基地が取り除かれた時、連合は一致する森の民の支援者（鳥を含む）全てを捨て札にし、将校半分（切り上げ）を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a garden is removed, the Cult must discard a random card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114114Z" creationid="nakahodo" creationdate="20180630T114114Z">
+        <seg>庭園1つが取り除かれるたびに、カルトは手札からカード1枚をランダムに捨て札にしなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
