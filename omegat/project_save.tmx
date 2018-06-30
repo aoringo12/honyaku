@@ -2825,8 +2825,16 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>10.6.2 Craft.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T150138Z" creationid="nakahodo" creationdate="20180630T150138Z">
-        <seg>10.6.2	クラフト</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151023Z" creationid="nakahodo" creationdate="20180630T150138Z">
+        <seg>10.6.2	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.6.3 Draw and Discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151043Z" creationid="nakahodo" creationdate="20180630T151043Z">
+        <seg>10.6.2	ドローと捨て札。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2836,6 +2844,22 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T075850Z" creationid="nakahodo" creationdate="20171209T075850Z">
         <seg>•あなたの対戦相手として、4つのAIの内1つを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151052Z" creationid="nakahodo" creationdate="20180630T151052Z">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.1 Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151051Z" creationid="nakahodo" creationdate="20180630T151051Z">
+        <seg>6.1	概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -35741,6 +35765,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Riverfolk Company</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151100Z" creationid="nakahodo" creationdate="20180630T151045Z">
+        <seg>リバーフォークカンパニー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rivers do not divide clearings or forests.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T091208Z">
@@ -48656,6 +48688,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When news arrived that the Woodland on the shore of the great lake was descending into all-out war, the Riverfolk Company quickly dispatched its officers to set up shop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151531Z" creationid="nakahodo" creationdate="20180630T151531Z">
+        <seg>大きな湖の岸辺があるウッドランドが全面紛争により崩壊したというニュースが届いた時、リバーフォークカンパニーはすぐに役員を派遣して店を立ち上げました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When paying wages, pay only 1 Coin for that Hourglass.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145939Z" creationid="nakahodo" creationdate="20180108T145939Z">
@@ -52115,6 +52155,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T161307Z" creationid="nakahodo" creationdate="20180629T161307Z">
         <seg>止まり木を使用して、あなたの手札からカードをクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may craft using gardens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T151035Z" creationid="nakahodo" creationdate="20180630T151020Z">
+        <seg>あなたは庭園を使用してクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
