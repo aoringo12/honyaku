@@ -2727,6 +2727,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.3.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142656Z" creationid="nakahodo" creationdate="20180630T142656Z">
+        <seg>10.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11
 » One (1) of the four (4) AIs is selected as your opponent.</seg>
       </tuv>
@@ -18171,6 +18179,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill Gardens Tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142738Z" creationid="nakahodo" creationdate="20180630T142738Z">
+        <seg>庭園トラックを満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill Roosts Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T160045Z" creationid="nakahodo" creationdate="20180629T160045Z">
@@ -31463,6 +31479,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142439Z" creationid="nakahodo" creationdate="20180630T142410Z">
+        <seg>除け者を選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick Up Hero Cubes</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T053848Z" creationid="nakahodo" creationdate="20180601T053848Z">
@@ -32573,6 +32597,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the outcast marker on any nation space in the Outcast Nation box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142615Z" creationid="nakahodo" creationdate="20180630T142411Z">
+        <seg>除け者の民ボックスの任意の民スペースに除け者マーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the player score markers next to the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193831Z" creationid="aorin" creationdate="20180114T193831Z">
@@ -32819,6 +32851,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145157Z" creationid="aorin" creationdate="20171215T145157Z">
         <seg>任意の森にあなたのキャラクターポーンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your gardens on the matching spaces of your Gardens tracks, except the leftmost space of the placed garden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T143353Z" creationid="nakahodo" creationdate="20180630T143353Z">
+        <seg>庭園トラックの一致するスペースに庭園を配置します。庭園トラックの最も左のスペースは空になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45585,6 +45625,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T130623Z" creationid="nakahodo" creationdate="20171213T130623Z">
         <seg>これは、ドレイシンボルをパスしたり、提供フェイズ時に誰も適切な食料を提供できなかった場合でも、報酬フェイズであなたの妖精の昇格ステップを最初に行え、鉱山に妖精を降格させないで良いことを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This nation is called the Outcast Nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142647Z" creationid="nakahodo" creationdate="20180630T142647Z">
+        <seg>この民を除け者の民と呼称します。</seg>
       </tuv>
     </tu>
     <tu>
