@@ -3648,6 +3648,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1st</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205817Z" creationid="nakahodo" creationdate="20180630T205817Z">
+        <seg>1st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1st Action:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T073048Z" creationid="nakahodo" creationdate="20180311T073034Z">
@@ -5674,6 +5682,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3rd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210205Z" creationid="nakahodo" creationdate="20180630T210205Z">
+        <seg>3rd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3rd Place - One Favor Cogs</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T082349Z" creationid="nakahodo" creationdate="20180312T082349Z">
@@ -6293,6 +6309,14 @@ KEYWORDS</seg>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052135Z" creationid="aorin" creationdate="20171228T181154Z">
         <seg>60 - Item Cards
 アイテムカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6th</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210310Z" creationid="nakahodo" creationdate="20180630T210310Z">
+        <seg>6th</seg>
       </tuv>
     </tu>
     <tu>
@@ -9652,6 +9676,14 @@ in their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T214313Z" creationid="aorin" creationdate="20180114T214313Z">
         <seg>首都とともに、彼は合計9ワーカーを雇用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with their faction board, hand each player their faction’s walkthrough card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210204Z" creationid="nakahodo" creationdate="20180630T210204Z">
+        <seg>それぞれ自身の派閥ボードと一緒にその派閥のプレイ演習カードを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15316,6 +15348,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not draw 3 cards for each player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210239Z" creationid="nakahodo" creationdate="20180630T210239Z">
+        <seg>各プレイヤーはカード3枚をドローしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not gain Anger, even if the played cards show angry actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T200924Z" creationid="nakahodo" creationdate="20180411T200924Z">
@@ -18210,6 +18250,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everyone sets up at the same time, not in order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210420Z" creationid="nakahodo" creationdate="20180630T210420Z">
+        <seg>全員が順番ではなく、同時にセットアップを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ex.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074639Z" creationid="nakahodo" creationdate="20180311T074634Z">
@@ -19208,6 +19256,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T235856Z" creationid="aorin" creationdate="20171228T235856Z">
         <seg>（もしあれば）あなたのボーナスを決定するために、フレンドカードの指示に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the setup on the walkthrough cards, not on the faction board backs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210329Z" creationid="nakahodo" creationdate="20180630T210329Z">
+        <seg>派閥ボードの裏ではなく、プレイ演習カードのセットアップに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,6 +27988,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, the walkthrough cards will tell the players to take specific cards from the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210310Z" creationid="nakahodo" creationdate="20180630T210310Z">
+        <seg>代わりに、プレイ演習カードに指定されたカードをデッキから取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead, they are placed face down, creating a treacherous cavern of ludicrous loot and dastardly traps that your opponents will attempt to steal from.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T175222Z" creationid="nakahodo" creationdate="20180524T174244Z">
@@ -29606,6 +29670,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133532Z" creationid="aorin" creationdate="20171215T133402Z">
         <seg>マルキス・デ・キャット、鷲王、森の連合、ヴァガヴォンド。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marquise, Eyrie, Alliance, Vagabond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205943Z" creationid="nakahodo" creationdate="20180630T205943Z">
+        <seg>マルキス、鷲、連合、ヴァガボンド。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34723,6 +34795,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210459Z" creationid="nakahodo" creationdate="20180630T210459Z">
+        <seg>プレイする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Playing a Program Boost:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T195805Z" creationid="nakahodo" creationdate="20180311T195805Z">
@@ -37535,6 +37615,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231605Z" creationid="aorin" creationdate="20180528T231605Z">
         <seg>サーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seat the factions in this clockwise order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T205934Z" creationid="nakahodo" creationdate="20180630T205934Z">
+        <seg>この時計回りの順番で席に座り派閥を割り当てます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50634,6 +50722,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T165250Z" creationid="nakahodo" creationdate="20180630T165231Z">
         <seg>資金を消費する時、所有者のサプライに戦士を戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you start playing, give the walkthrough sheet to the Marquise player, and ask them to read the text in the Marquise’s box aloud as they’re taking the actions described.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T210921Z" creationid="nakahodo" creationdate="20180630T210921Z">
+        <seg>あなたがプレイを開始する時、マルキスプレイヤーにプレイ演習シートを渡し、マルキスのボックスにかかれている内容を読み上げながらプレイするよう頼んでください。テキストには実行するアクションの説明が書かれています。</seg>
       </tuv>
     </tu>
     <tu>
