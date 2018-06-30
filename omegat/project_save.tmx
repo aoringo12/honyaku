@@ -6618,6 +6618,70 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.7 Vagabond Reference</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110430Z" creationid="nakahodo" creationdate="20180630T110430Z">
+        <seg>9.7	ヴァガボンドリファレンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.7.1 Thief.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110504Z" creationid="nakahodo" creationdate="20180630T110431Z">
+        <seg>9.7.1	シーフ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.7.2 Tinker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110736Z" creationid="nakahodo" creationdate="20180630T110736Z">
+        <seg>9.7.2	鍵師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.7.3 Ranger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110844Z" creationid="nakahodo" creationdate="20180630T110844Z">
+        <seg>9.7.3	レンジャー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.8 Playing with Two Vagabonds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110952Z" creationid="nakahodo" creationdate="20180630T110950Z">
+        <seg>9.8	ヴァガボンドプレイヤー2人でのプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.8.1 Add Extra Item to Ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111006Z" creationid="nakahodo" creationdate="20180630T110952Z">
+        <seg>9.8.1	遺跡にアイテムを追加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.8.2 Randomize Setup Order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111235Z" creationid="nakahodo" creationdate="20180630T111157Z">
+        <seg>9.8.2	セットアップ順番のランダム化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.8.3 Share Quests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111302Z" creationid="nakahodo" creationdate="20180630T111257Z">
+        <seg>9.8.3	クエストの共有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053009Z" creationid="aorin" creationdate="20180102T053009Z">
@@ -11849,6 +11913,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By taking two Explore actions, a Vagabond could take both items from one ruin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111213Z" creationid="nakahodo" creationdate="20180630T111153Z">
+        <seg>2回探索アクションを実行することにより、ヴァガボンドは1つの遺跡から両方のアイテムを取ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C. Damage:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114215Z" creationid="aorin" creationdate="20180528T114215Z">
@@ -13838,6 +13910,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Day Labor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110812Z" creationid="nakahodo" creationdate="20180630T110812Z">
+        <seg>日雇労働。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daylight</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235036Z" creationid="aorin" creationdate="20171215T235036Z">
@@ -15234,6 +15314,14 @@ position on the Best-Seller List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T105913Z" creationid="nakahodo" creationdate="20180430T105913Z">
         <seg>セットアップ中、（パワーカードデッキに混ぜてシャッフルするのではなく）鱗カード3枚をシャッフルしてデッキを作り、ドラゴンのプレイヤーボード近くに裏向きでこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During setup, use both sets of items for ruins, and place two items in each ruin slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111051Z" creationid="nakahodo" creationdate="20180630T111051Z">
+        <seg>セットアップ時、遺跡アイテムのセット両方を使用し、各遺跡スロットにアイテム2つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16980,6 +17068,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T103919Z" creationid="aorin" creationdate="20171212T103919Z">
         <seg>1つのディスクを配置できるアクションスペースに、アクションディスク1つのみを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either Vagabond may complete any of the three face-up quests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111342Z" creationid="nakahodo" creationdate="20180630T111258Z">
+        <seg>ヴァガボンドは3つの表向きクエストから任意のものを達成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20151,6 +20247,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110750Z" creationid="nakahodo" creationdate="20180630T110750Z">
+        <seg>　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HARD</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062330Z" creationid="nakahodo" creationdate="20180413T062330Z">
@@ -20749,6 +20853,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hideout.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110913Z" creationid="nakahodo" creationdate="20180630T110913Z">
+        <seg>隠れ家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hideout​ ​Loss.​ Whenever a Hideout is removed, the Alliance must remove any conspiracy and half (round up) of the supporters in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230440Z" creationid="aorin" creationdate="20171215T230440Z">
@@ -21270,6 +21382,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T161658Z" creationid="nakahodo" creationdate="20180629T161658Z">
         <seg>I	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I Special Action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110535Z" creationid="nakahodo" creationdate="20180630T110535Z">
+        <seg>I	スペシャルアクション：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34037,6 +34157,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Randomly determine which Vagabond sets up first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111251Z" creationid="nakahodo" creationdate="20180630T111251Z">
+        <seg>最初にセットアップするヴァガボンドをランダムに決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rather than seeking escape or merely an end, she has claimed the Cave as her own, twisting its powers so she might destroy all trespassers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034939Z" creationid="aorin" creationdate="20180408T034939Z">
@@ -34625,6 +34753,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082805Z" creationid="aorin" creationdate="20171216T082805Z">
         <seg>修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair three items, then immediately end Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110937Z" creationid="nakahodo" creationdate="20180630T110937Z">
+        <seg>3つのアイテムを修理し、その後直ちに昼フェイズに移行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35561,6 +35697,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T151716Z" creationid="nakahodo" creationdate="20180603T151716Z">
         <seg>ルーンストーン（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110901Z" creationid="nakahodo" creationdate="20180630T110901Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -37913,6 +38057,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110539Z" creationid="nakahodo" creationdate="20180630T110539Z">
+        <seg>窃盗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stealing phase</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T093917Z" creationid="aorin" creationdate="20171212T093917Z">
@@ -38318,6 +38470,22 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T074047Z" creationid="nakahodo" creationdate="20180630T074047Z">
         <seg>開始アイテムを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a card from the discard pile matching your clearing’s nation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110839Z" creationid="nakahodo" creationdate="20180630T110839Z">
+        <seg>あなたのいる地域の民に一致する捨て札山から、カード1枚を取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a random card from a player in your clearing who has fewer than three warriors there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110630Z" creationid="nakahodo" creationdate="20180630T110630Z">
+        <seg>あなたの区域にいる、少なくとも3体の戦士を持っているプレイヤーの手札から、カード1枚をランダムに取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44695,6 +44863,30 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Vagabond starts with M, F, B, and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110747Z" creationid="nakahodo" creationdate="20180630T110747Z">
+        <seg>このヴァガボンドはMFBHを持ってゲームを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Vagabond starts with M, F, C, and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110900Z" creationid="nakahodo" creationdate="20180630T110900Z">
+        <seg>このヴァガボンドはMFCSを持ってゲームを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Vagabond starts with M, F, T, and S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110523Z" creationid="nakahodo" creationdate="20180630T110523Z">
+        <seg>このヴァガボンドはMFTSを持ってゲームを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Woodland Alliance will seek to strengthen their presence by building hideouts and launching missions to subvert the rule of the cats.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T152111Z" creationid="nakahodo" creationdate="20171103T152111Z">
@@ -47534,6 +47726,14 @@ of the Plan Deck.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a Vagabond explores a ruin with two items, he may look at them and take one of his choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111156Z" creationid="nakahodo" creationdate="20180630T111138Z">
+        <seg>ヴァガボンドがアイテム2つを持つ遺跡を探索アクションをした時、そのプレイヤーはそれらを見て、1つを選択して取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a card says "discard a card at random," an opponent randomly chooses.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230824Z" creationid="aorin" creationdate="20180528T230824Z">
@@ -50202,6 +50402,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T135504Z" creationid="aorin" creationdate="20180409T135504Z">
         <seg>あなたはまた、恐怖カードの効果を使用することができます（ページ3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can always steal from another Vagabond in your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110713Z" creationid="nakahodo" creationdate="20180630T110713Z">
+        <seg>あなたは常に、あなたの地域にいる別のヴァガボンドを対象に窃盗アクションを行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
