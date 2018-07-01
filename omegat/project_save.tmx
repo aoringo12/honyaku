@@ -9842,6 +9842,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, whenever a Marquise warrior would be removed, the Marquise may call on her Field Hospitals, spending a card matching that warrior’s clearing to place that warrior back in the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051307Z" creationid="nakahodo" creationdate="20180701T051307Z">
+        <seg>また、マルキスが戦士1体を取り除くことになるたびに、その戦士のいる区域に一致するスートのカード1枚を消費することで、キープトークンを持つ区域にその戦士を直ちに配置することができます。これを野戦病院と呼びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alter play priority</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143042Z" creationid="nakahodo" creationdate="20171213T143042Z">
@@ -9895,6 +9903,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045404Z" creationid="nakahodo" creationdate="20180701T045404Z">
         <seg>アンブッシュカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ambush Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050252Z" creationid="nakahodo" creationdate="20180701T050252Z">
+        <seg>アンブッシュの例</seg>
       </tuv>
     </tu>
     <tu>
@@ -12214,6 +12230,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birds are wild, so this card matches the mouse clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050337Z" creationid="nakahodo" creationdate="20180701T050320Z">
+        <seg>鳥はワイルドですので、このカードはネズミ区域に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T144634Z" creationid="aorin" creationdate="20171215T235006Z">
@@ -12654,6 +12678,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T120040Z" creationid="nakahodo" creationdate="20180412T120040Z">
         <seg>それはかつての事、失われた過去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050258Z" creationid="nakahodo" creationdate="20180701T050258Z">
+        <seg>しかし……</seg>
       </tuv>
     </tu>
     <tu>
@@ -19396,6 +19428,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, no one but the Marquise can place pieces in the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051017Z" creationid="nakahodo" creationdate="20180701T051017Z">
+        <seg>まず、マルキス以外はキープトークンのある区域にピースを配置できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, remove any Ghoul discs from your</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134206Z" creationid="aorin" creationdate="20180409T134206Z">
@@ -22506,6 +22546,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, to fuel ongoing construction, the Marquise must maintain and protect a strong, interconnected economy of wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050551Z" creationid="nakahodo" creationdate="20180701T050551Z">
+        <seg>しかし、燃料を供給し続けるために、木材の供給の強固に守り、維持し続ける必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when it would be placed in the discard pile, instead place it near the map to show it is available to be taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113809Z" creationid="nakahodo" creationdate="20180629T113809Z">
@@ -23564,6 +23612,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T150358Z" creationid="nakahodo" creationdate="20180603T150358Z">
         <seg>能力や装備のコストが安定性の場合、特に記述がない限り、スケルトンをアクティブにしている時にのみ、その効果を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an ambush card removes all of the attacker’s warriors, the battle immediately ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050247Z" creationid="nakahodo" creationdate="20180701T050247Z">
+        <seg>アンブッシュカードがアタッカーの戦士たち全てを取り除いた場合、戦闘は直ちに終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41956,6 +42012,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie cannot foil the ambush, so they must remove two warriors, returning them to their supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050424Z" creationid="nakahodo" creationdate="20180701T050424Z">
+        <seg>鷲はアンブッシュに対処できませんでした。なので、戦士2体を取り除く必要があり、彼のサプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie has four leader cards, as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T163304Z" creationid="nakahodo" creationdate="20180629T163304Z">
@@ -42550,6 +42614,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Keep of Marquise de Cat grants two special abilities while it is on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050646Z" creationid="nakahodo" creationdate="20180701T050646Z">
+        <seg>マルキス・デ・キャットのキープはそれがマップ上にある間、2つの特別能力を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Keep of Marquise de Cat is a clearing aligned with all nations.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204526Z" creationid="aorin" creationdate="20171215T204526Z">
@@ -42842,6 +42914,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045314Z" creationid="nakahodo" creationdate="20180701T045314Z">
         <seg>マルキスは0ヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise plays a bird ambush card!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050322Z" creationid="nakahodo" creationdate="20180701T050318Z">
+        <seg>マルキスは鳥アンブッシュカードをプレイしました！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44105,6 +44185,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The battle ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050443Z" creationid="nakahodo" creationdate="20180701T050443Z">
+        <seg>戦士がいなくなったため、この時点で戦闘が終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The battle is considered a draw.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T071434Z" creationid="aorin" creationdate="20180115T071434Z">
@@ -44902,8 +44990,8 @@ d	同盟の犠牲。</seg>
       <tuv lang="EN-US">
         <seg>The more of the same building she has on the map, the more points she scores.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T140245Z" creationid="nakahodo" creationdate="20180629T140245Z">
-        <seg>マップ上にさらに同じ建物を持つことにより、より多くの勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050521Z" creationid="nakahodo" creationdate="20180629T140245Z">
+        <seg>マップ上に同じ建物をさらに持つことで、より多くの勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
