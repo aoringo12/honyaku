@@ -58448,6 +58448,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» First, your regime is humiliated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T180212Z" creationid="nakahodo" creationdate="20180701T180212Z">
+        <seg>»»	まず、あなたの政権は</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» March:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051741Z" creationid="nakahodo" creationdate="20180701T051741Z">
