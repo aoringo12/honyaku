@@ -9891,6 +9891,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambush Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045404Z" creationid="nakahodo" creationdate="20180701T045404Z">
+        <seg>アンブッシュカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among those players, the player with the most influence tokens  in their guidepost personal :</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213221Z" creationid="nakahodo" creationdate="20171224T213221Z">
@@ -10443,6 +10451,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220902Z" creationid="aorin" creationdate="20180528T220902Z">
         <seg>ヒーローが各ルームに入ることで、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the attacker, they take the higher result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045210Z" creationid="nakahodo" creationdate="20180701T045158Z">
+        <seg>アタッカーとして、高い出目を取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11932,6 +11948,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battle Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045135Z" creationid="nakahodo" creationdate="20180701T045121Z">
+        <seg>戦闘の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battle Stage</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064853Z" creationid="aorin" creationdate="20180115T064853Z">
@@ -11986,6 +12010,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031627Z" creationid="nakahodo" creationdate="20171224T144855Z">
         <seg>その移動性と順応性により、ツェッペリンはグリーングリーでの建物を建築する一般的な方法になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because the Eyrie only have two warriors, they can only deal two hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045303Z" creationid="nakahodo" creationdate="20180701T045303Z">
+        <seg>鷲は戦士たち2体を持っているので、相手に3ヒットではなく、2ヒットのみを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12058,6 +12090,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141039Z" creationid="aorin" creationdate="20180528T141039Z">
         <seg>最初のターン開始前に、各プレイヤーはルーム1つを建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before the roll in battle, the defender may play an ambush card whose suit matches the clearing of battle to deal two hits immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045517Z" creationid="nakahodo" creationdate="20180701T045517Z">
+        <seg>戦闘のロールをする前に、ディフェンダーは戦闘区域に一致するスートのアンブッシュカード1枚をプレイすることで、追加ヒット2つを直ちに与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12326,6 +12366,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T043552Z" creationid="nakahodo" creationdate="20180701T043552Z">
         <seg>両プレイヤーは同時にピースを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both sides deal hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045231Z" creationid="nakahodo" creationdate="20180701T045231Z">
+        <seg>両側ヒットを与え合います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19388,6 +19436,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045147Z" creationid="nakahodo" creationdate="20180701T045147Z">
+        <seg>まず……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flare</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T091913Z" creationid="nakahodo" creationdate="20180413T091913Z">
@@ -22340,6 +22396,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T032330Z" creationid="aorin" creationdate="20180115T032330Z">
         <seg>しかし、”FM”でマークされた任意の地域に強行軍することもできます。おそらく、ベストな移動は森に1体のワーカーを展開し、村に少なくとも1体のワーカーを強行軍のために使用することでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if the defender plays an ambush card, the attacker can foil the ambush, canceling its effect, by also playing a matching ambush card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045813Z" creationid="nakahodo" creationdate="20180701T045813Z">
+        <seg>しかし、ディフェンダーがアンブッシュカードをプレイした場合、アタッカーもまたスートの一致するアンブッシュカード1枚をプレイすることにより、そのアンブッシュ効果をキャンセルできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27149,6 +27213,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’ve got an ambush card in hand, don’t be afraid to bait your enemies into attacking you where you seem weak.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050218Z" creationid="nakahodo" creationdate="20180701T050218Z">
+        <seg>あなたの手札にアンブッシュカードがあるなら、弱点を的に攻撃されることを恐れずチャンスに変えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore any damage, treasure, and abilities usually associated with the Room while it is turned sideways.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230043Z" creationid="aorin" creationdate="20180528T230043Z">
@@ -29444,6 +29516,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T152047Z" creationid="nakahodo" creationdate="20180603T152047Z">
         <seg>ボード上のダンシングライトトークンのあるスペース1つへ、全ての移動制限を無視して移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like extra hits, ambush hits are not limited by your number of warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045832Z" creationid="nakahodo" creationdate="20180701T045832Z">
+        <seg>追加ヒットのように、アンブッシュによるヒットは戦闘区域の戦士数によって制限されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39063,6 +39143,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since ambushes deal hits immediately, they can reduce the maximum number of hits the attacker can roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045607Z" creationid="nakahodo" creationdate="20180701T045607Z">
+        <seg>アンブッシュのヒットは直ちに与えられるので、アタッカーのダイスロールによる最大ヒット数は減少させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single Use Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043336Z" creationid="aorin" creationdate="20171213T043336Z">
@@ -41860,6 +41948,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie attack the Marquise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045143Z" creationid="nakahodo" creationdate="20180701T045133Z">
+        <seg>鷲はマルキスを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie has four leader cards, as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T163304Z" creationid="nakahodo" creationdate="20180629T163304Z">
@@ -41872,6 +41968,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003259Z" creationid="aorin" creationdate="20171216T003259Z">
         <seg>鷲は下で説明される4枚のリーダーカードを持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie roll the dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045152Z" creationid="nakahodo" creationdate="20180701T045152Z">
+        <seg>鷲はダイスをロールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42730,6 +42834,22 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T140105Z" creationid="nakahodo" creationdate="20180629T140105Z">
         <seg>マルキス・デ・キャットはウッドランドを支配し工業と軍事大国への転換を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise deals zero hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045314Z" creationid="nakahodo" creationdate="20180701T045314Z">
+        <seg>マルキスは0ヒットを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise returns two pieces to her supply, and the Eyrie score a victory point for removing a token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045401Z" creationid="nakahodo" creationdate="20180701T045401Z">
+        <seg>マルキスは自身のサプライにピース2つを戻し、トークン1つが取り除かれたので、鷲は1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43923,8 +44043,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The attacker deals an extra hit if the defender has no warriors in the clearing of battle, leaving themselves defenseless.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045119Z" creationid="nakahodo" creationdate="20180701T045119Z">
-        <seg>ディフェンダーが戦闘区域に戦士を持たない場合、アタッカーは追加ヒット1つを与えます。彼らは無防備なのです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045942Z" creationid="nakahodo" creationdate="20180701T045119Z">
+        <seg>ディフェンダーが戦闘区域に戦士を持たない場合、アタッカーは追加ヒット1つを与えます。この状態を無防備と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46480,6 +46600,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T090506Z" creationid="nakahodo" creationdate="20180630T090506Z">
         <seg>その後、あなたは1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045217Z" creationid="nakahodo" creationdate="20180701T045217Z">
+        <seg>その後……</seg>
       </tuv>
     </tu>
     <tu>
@@ -53285,6 +53413,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T091330Z" creationid="aorin" creationdate="20180410T091330Z">
         <seg>あなたは他のプレイヤーピースのいるスペースに入れますが、あなたの攻撃力がそのプレイヤーの防御力ステータス（筋力、アーマー、ステルス）以下の場合や、そのプレイヤーピースを直ちに攻撃しない場合、追加で+1移動力ポイントが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can even play an ambush card if you’re defenseless!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045932Z" creationid="nakahodo" creationdate="20180701T045932Z">
+        <seg>あなたは戦闘区域に戦士を持たない（無防備）としても、アンブッシュカード1枚をプレイ出来ます！</seg>
       </tuv>
     </tu>
     <tu>
