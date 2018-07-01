@@ -51638,6 +51638,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you place the building, score the victory points revealed on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053147Z" creationid="nakahodo" creationdate="20180701T053147Z">
+        <seg>あなたが建物を配置する時、派閥ボードでこの時点で公開された勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you play an angry action, first increase your Anger by 1, then perform the listed action (Move or Turn).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T072511Z" creationid="nakahodo" creationdate="20180411T072511Z">
