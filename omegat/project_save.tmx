@@ -9131,6 +9131,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After taking three actions, you may take any number of extra actions by spending one bird card per extra action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051641Z" creationid="nakahodo" creationdate="20180701T051550Z">
+        <seg>3つのアクションを実行した後、あなたが鳥カードを消費する枚数だけ、追加のアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the Automas construct their starting buildings, each Automa's constructed building card is shuffled into the advancement deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091119Z" creationid="nakahodo" creationdate="20180108T091119Z">
@@ -19460,6 +19468,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you can craft any cards in your hand using workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051354Z" creationid="nakahodo" creationdate="20180701T051354Z">
+        <seg>まず、作業場を使用して手札にある任意のカードをクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you may Reform and Craft any number of times.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001854Z" creationid="aorin" creationdate="20171216T001854Z">
@@ -21653,6 +21669,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T132707Z" creationid="nakahodo" creationdate="20171230T132707Z">
         <seg>あなたは王をなだめるために決断をして独善的に王を抑えましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hawks for Hire:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051718Z" creationid="nakahodo" creationdate="20180701T051446Z">
+        <seg>鳥の手を借りる：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33967,6 +33991,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place one building in a clearing you rule with an open slot by spending wood tokens equal to its cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T052038Z" creationid="nakahodo" creationdate="20180701T052038Z">
+        <seg>建物のコストに等しいだけ木材トークンを消費することで、あなたが支配する空きスロットを持つ区域1つに建物1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place one sawmill, one workshop, and one recruiter among the clearing with the keep token and any adjacent clearings, in any combination.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T143543Z">
@@ -34010,6 +34042,14 @@ of his color onto the Slate.</seg>
         <seg>Place one wood token at each sawmill</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T144710Z" creationid="nakahodo" creationdate="20180629T144710Z">
+        <seg>各製材所に木材トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place one wood token at each sawmill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051318Z" creationid="nakahodo" creationdate="20180701T051318Z">
         <seg>各製材所に木材トークン1つを配置します。</seg>
       </tuv>
     </tu>
@@ -40988,8 +41028,8 @@ Slates.</seg>
       <tuv lang="EN-US">
         <seg>Take two moves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T235201Z" creationid="aorin" creationdate="20171215T235201Z">
-        <seg>2移動を行う。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051756Z" creationid="aorin" creationdate="20171215T235201Z">
+        <seg>移動2回を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46640,6 +46680,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131122Z" creationid="nakahodo" creationdate="20180406T131122Z">
         <seg>その後、洞窟タイルの3つの山札を形成する時、各山札にゴーストタイル2つを入れてそれぞれシャッフルし、全ての山札の一番上にゴーストタイルがでなくなるまでシャッフルし続けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you can take up to three of the following actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051419Z" creationid="nakahodo" creationdate="20180701T051419Z">
+        <seg>その後、あなたは次のアクションを3つまで実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55129,6 +55177,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may spend any wood on the map connected to this clearing by any number of clearings you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T052903Z" creationid="nakahodo" creationdate="20180701T052903Z">
+        <seg>あなたはこの区域とそこから道で接続された、任意の数のあなたが支配する区域から、マップ上の任意の木材を消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may still activate this Tribe as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080035Z" creationid="nakahodo" creationdate="20180413T080022Z">
@@ -55149,6 +55205,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T194546Z" creationid="nakahodo" creationdate="20180629T194546Z">
         <seg>あなたは次のアクションを、任意の順番と組み合わせで実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may take this action only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051822Z" creationid="nakahodo" creationdate="20180701T051822Z">
+        <seg>あなたはターンごとに1回のみ、このアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57992,10 +58056,42 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Battle:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051726Z" creationid="nakahodo" creationdate="20180701T051726Z">
+        <seg>»»	戦闘：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Build:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051833Z" creationid="nakahodo" creationdate="20180701T051833Z">
+        <seg>»»	建築:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» First, roll two dice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T230628Z" creationid="nakahodo" creationdate="20180630T230628Z">
         <seg>»»	まず、2つのダイスをロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» March:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051741Z" creationid="nakahodo" creationdate="20180701T051741Z">
+        <seg>»»	マーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Recruit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051810Z" creationid="nakahodo" creationdate="20180701T051810Z">
+        <seg>»»	雇用：</seg>
       </tuv>
     </tu>
     <tu>
