@@ -12038,6 +12038,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because she rules the rabbit clearing, she can now build in its empty slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054546Z" creationid="nakahodo" creationdate="20180701T054459Z">
+        <seg>ウサギ区域を支配しているので、その空きスロットに建築できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because the Eyrie only have two warriors, they can only deal two hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045303Z" creationid="nakahodo" creationdate="20180701T045303Z">
@@ -15980,6 +15988,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw one card plus one card per uncovered draw bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054812Z" creationid="nakahodo" creationdate="20180701T054812Z">
+        <seg>カード1枚をドローします。さらに、覆われていないドローボーナスごとに、カード1枚を追加でドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw one card, plus one card card per uncovered draw bonus.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162450Z" creationid="nakahodo" creationdate="20180629T162450Z">
@@ -16646,6 +16662,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T152742Z" creationid="nakahodo" creationdate="20180629T151527Z">
         <seg>自身の夜時、鷲はマップ上にある止まり木の数に基づいて勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During their Evening, the Eyrie score victory points from their number of roosts on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055044Z" creationid="nakahodo" creationdate="20180701T055044Z">
+        <seg>自身の夜フェイズ時、鷲はマップ上にある止まり木の数に基づいて勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19997,6 +20021,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122354Z" creationid="nakahodo" creationdate="20171213T122354Z">
         <seg>例えば、アクションスポットに利用可能な一回使用タイルがない場合に、プレイヤーは一回使用タイルを得るためにアクションの模倣をすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For her second and third actions, she takes the Overwork action twice, spending a mouse and a bird card to put two extra wood in a mouse clearing with a sawmill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054317Z" creationid="nakahodo" creationdate="20180701T054317Z">
+        <seg>2回め、3回めのアクションにて、ネズミと鳥カードを使用して、残業アクションを2回実行し、作業場を持つネズミ区域に追加の木材2つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30540,6 +30572,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of the other factions draw and discard during Evening in exactly the same way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055001Z" creationid="nakahodo" creationdate="20180701T055001Z">
+        <seg>ほとんどの他派閥も、同様に夜フェイズ時、ドローと捨て札処理を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most often, players deal hits in battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151111Z" creationid="aorin" creationdate="20171215T151111Z">
@@ -38794,6 +38834,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She now rules the rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054159Z" creationid="nakahodo" creationdate="20180701T054159Z">
+        <seg>マルキスは現在ウサギ区域を支配することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She passes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072443Z" creationid="aorin" creationdate="20180115T072443Z">
@@ -42092,10 +42140,26 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by resettling the forest clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055026Z" creationid="nakahodo" creationdate="20180701T055026Z">
+        <seg>鷲の王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳有る一族としての復権を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T152642Z" creationid="nakahodo" creationdate="20180629T151523Z">
         <seg>鷲の王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳有る一族としての復権を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie are the Lords of the Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055121Z" creationid="nakahodo" creationdate="20180701T055121Z">
+        <seg>鷲は森の領主です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44786,6 +44850,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The greater their presence, the greater their gains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055056Z" creationid="nakahodo" creationdate="20180701T055056Z">
+        <seg>ウッドランドでその存在が大きくなるほど、多くの勝利点を得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The greatest of you will be selected to carry on my legacy based on the enclosed parameters."</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T075652Z" creationid="nakahodo" creationdate="20171230T073908Z">
@@ -45176,6 +45248,14 @@ d	同盟の犠牲。</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040411Z" creationid="aorin" creationdate="20180116T040411Z">
         <seg>その後、次のプレイヤーが購入かパスをします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next sawmill to be built costs three wood, so she spends wood from the nearby mouse clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054729Z" creationid="nakahodo" creationdate="20180701T054729Z">
+        <seg>次の製材所の建築コストは木材3つですので、近くのネズミ区域から木材を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46578,6 +46658,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, if you have more than five cards in your hand, discard down to five.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054852Z" creationid="nakahodo" creationdate="20180701T054852Z">
+        <seg>その後、あなたの手札のカードが5枚を超えている場合、5枚になるまで捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, if your space holds another player piece, you attack it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T195814Z" creationid="nakahodo" creationdate="20180411T195754Z">
@@ -46662,6 +46750,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T053929Z" creationid="nakahodo" creationdate="20180701T053929Z">
         <seg>その後、マルキスはアクションの実行を始めます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, she scores three victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054740Z" creationid="nakahodo" creationdate="20180701T054740Z">
+        <seg>その後、3勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47454,6 +47550,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T071345Z" creationid="nakahodo" creationdate="20171230T071345Z">
         <seg>そのプレイヤーの大きなワーカーミープルをアーカイブに入れ、タックボックスiiから幽霊ワーカーを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They rule a clearing even when tied for presence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055224Z" creationid="nakahodo" creationdate="20180701T055224Z">
+        <seg>彼らは区域の支配でタイの場合に支配者になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48360,6 +48464,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T224213Z" creationid="nakahodo" creationdate="20180630T224213Z">
         <seg>この区域の両スロットは埋まっています。しかし、ここにトークンを配置することはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though she has taken three actions, she would like to go again, so she spends a bird card to get an extra action (Hawks for Hire).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054452Z" creationid="nakahodo" creationdate="20180701T054452Z">
+        <seg>3回のアクションを実行しましたが、マルキスはさらにアクションをしたいと考えます。なので、鳥カード1枚を消費して、追加アクション1回を実行します（鳥の手を借りる）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53101,6 +53213,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T114643Z" creationid="aorin" creationdate="20180408T114643Z">
         <seg>小さな孤独は、あなたのパワーを強力にしてコストを下げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this action she decides to build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054514Z" creationid="nakahodo" creationdate="20180701T054458Z">
+        <seg>このアクションにてマルキスは建築することを決定します。</seg>
       </tuv>
     </tu>
     <tu>
