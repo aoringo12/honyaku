@@ -18660,8 +18660,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Extra hits represent superior positioning, tactics, or leadership.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T044047Z" creationid="nakahodo" creationdate="20180701T044047Z">
-        <seg>Extra hits represent superior positioning, tactics, or leadership.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T044213Z" creationid="nakahodo" creationdate="20180701T044047Z">
+        <seg>追加ヒットは優位な位置、戦術、リーダーシップを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43921,6 +43921,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The attacker deals an extra hit if the defender has no warriors in the clearing of battle, leaving themselves defenseless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045119Z" creationid="nakahodo" creationdate="20180701T045119Z">
+        <seg>ディフェンダーが戦闘区域に戦士を持たない場合、アタッカーは追加ヒット1つを与えます。彼らは無防備なのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The attacker deals hits equal to the higher roll, and the defender deals hits equal to the lower roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T230639Z" creationid="nakahodo" creationdate="20180630T230639Z">
@@ -46923,6 +46931,14 @@ Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152428Z" creationid="nakahodo" creationdate="20171218T152428Z">
         <seg>これらは総合的に「発展カード」と呼ばれ、共通サプライの一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are not limited by the number of warriors in the clearing of battle, so a single warrior could deal multiple hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T044301Z" creationid="nakahodo" creationdate="20180701T044301Z">
+        <seg>これらは戦闘区域の戦士たちの数に制限されません。なので、戦士1体でも複数のヒットを与えることができます。</seg>
       </tuv>
     </tu>
     <tu>
