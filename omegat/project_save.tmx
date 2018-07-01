@@ -14831,6 +14831,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Daylight Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053630Z" creationid="nakahodo" creationdate="20180701T053630Z">
+        <seg>昼の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daylight, Action 1:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192057Z" creationid="nakahodo" creationdate="20180630T192057Z">
@@ -19468,6 +19476,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, the Marquise decides to cra the Gently Used Knapsack, so she activates one mouse workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053835Z" creationid="nakahodo" creationdate="20180701T053830Z">
+        <seg>まず、マルキスは丁寧に使われたナップザックのクラフトを決定しましたので、ネズミ作業場1つを発動にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you can craft any cards in your hand using workshops.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051354Z" creationid="nakahodo" creationdate="20180701T051354Z">
@@ -19981,6 +19997,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122354Z" creationid="nakahodo" creationdate="20171213T122354Z">
         <seg>例えば、アクションスポットに利用可能な一回使用タイルがない場合に、プレイヤーは一回使用タイルを得るためにアクションの模倣をすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For her second move, she moves another two warriors into the clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054143Z" creationid="nakahodo" creationdate="20180701T054143Z">
+        <seg>2回めの移動で、別の戦士2体をウサギ区域に移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38762,6 +38786,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She moves two warriors from a mouse clearing, which she rules, to a rabbit clearing, which she doesn’t.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054104Z" creationid="nakahodo" creationdate="20180701T054104Z">
+        <seg>マルキスが支配しているネズミ区域から戦士たち2体を、マルキスが支配していないウサギ区域へと移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She passes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072443Z" creationid="aorin" creationdate="20180115T072443Z">
@@ -38774,6 +38806,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T063230Z" creationid="aorin" creationdate="20171213T063230Z">
         <seg>彼女は1ゴールデンリングを鍛造するために2ゴールド支払います。1アクションで複数のリングを鍛造することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She scores a victory point and puts the item in her Craed Items box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053904Z" creationid="nakahodo" creationdate="20180701T053904Z">
+        <seg>1勝利点を特典し、派閥ボードのクラフトアイテムボックスにアイテムを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38798,6 +38838,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T015553Z" creationid="aorin" creationdate="20180408T015553Z">
         <seg>それら2枚をシャッフルして1枚をドローし、憑依されたゴブリンたちだったので、ボックスにもう一方の憑依されたバイルグールを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She starts by taking the March action, which lets her move twice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054012Z" creationid="nakahodo" creationdate="20180701T054012Z">
+        <seg>移動2回を行うマーチアクションの実行を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39934,6 +39982,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T150614Z">
         <seg>製材所の区画1つに一致するカード1枚を消費して、そこに木材トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend a card to place one wood token at one sawmill in a clearing whose suit matches the card spent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053517Z" creationid="nakahodo" creationdate="20180701T053200Z">
+        <seg>カード1枚を消費して、そのソートに一致する区域1つの製材所1つに木材トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46602,6 +46658,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, she begins to take her actions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053929Z" creationid="nakahodo" creationdate="20180701T053929Z">
+        <seg>その後、マルキスはアクションの実行を始めます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, shuffle the special victory cards into the deck and place it near the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T132946Z" creationid="aorin" creationdate="20171215T132946Z">
@@ -49458,6 +49522,14 @@ the most.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T103112Z" creationid="nakahodo" creationdate="20180108T103112Z">
         <seg>オートマが一時的に人間プレイヤーに置き換えられない限り、オートマはゲーム間で任意のコンポーネントを持ち越しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise noted, a faction may take actions listed in the same phase in any order, and may take a given action multiple times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053624Z" creationid="nakahodo" creationdate="20180701T053624Z">
+        <seg>特に記述がない限り、派閥は1つのフェイズに記述されたアクションを任意の順番で、何回でも実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55187,8 +55259,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may spend any wood on the map connected to this clearing by any number of clearings you rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T052903Z" creationid="nakahodo" creationdate="20180701T052903Z">
-        <seg>あなたはこの区域とそこから道で接続された、任意の数のあなたが支配する区域から、マップ上の任意の木材を消費できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053312Z" creationid="nakahodo" creationdate="20180701T052903Z">
+        <seg>あなたはこの区域とそこから道で接続された、任意の数のあなたが支配する区域から、マップ上の任意の木材を消費できます。接続された区域は、対象区域と隣接している必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58092,6 +58164,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051741Z" creationid="nakahodo" creationdate="20180701T051741Z">
         <seg>»»	マーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Overwork:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053205Z" creationid="nakahodo" creationdate="20180701T053159Z">
+        <seg>»»	残業：</seg>
       </tuv>
     </tu>
     <tu>
