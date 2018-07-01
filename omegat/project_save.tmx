@@ -19508,6 +19508,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, score the victory points shown on the rightmost empty space of your Roosts track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060521Z" creationid="nakahodo" creationdate="20180701T060521Z">
+        <seg>まず、止まり木トラックの最も右にある、空きスペースに記述された勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, select one die from your supply (do not roll it) and place it on the matching die face on the dice chart.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T085337Z" creationid="aorin" creationdate="20180410T085337Z">
@@ -19688,6 +19696,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000530Z" creationid="aorin" creationdate="20171229T000530Z">
         <seg>これらの指示に順番に従います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow these steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T061100Z" creationid="nakahodo" creationdate="20180701T061100Z">
+        <seg>次のステップに従います：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26251,6 +26267,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot take an action for any reason, you fall into turmoil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T061041Z" creationid="nakahodo" creationdate="20180701T061041Z">
+        <seg>なんらかの理由でアクションを実行できなかった場合、あなたは混乱に陥ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot take an action, you immediately fall into Turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001729Z" creationid="aorin" creationdate="20171216T001729Z">
@@ -26655,6 +26679,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110159Z" creationid="nakahodo" creationdate="20180630T110159Z">
         <seg>手札が5枚を上回っている場合、手札が5枚になるまで、カードを選択して捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have more than five cards in your hand, discard down to five.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060556Z" creationid="nakahodo" creationdate="20180701T060556Z">
+        <seg>あなたの手札のカードが5枚を超えている場合、5枚になるまで捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28471,6 +28503,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T135716Z" creationid="aorin" creationdate="20180528T135716Z">
         <seg>初期セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initiate a battle in a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060220Z" creationid="nakahodo" creationdate="20180701T060220Z">
+        <seg>スートに一致する区域1つで戦闘1回を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30762,6 +30802,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T154628Z" creationid="nakahodo" creationdate="20180430T154540Z">
         <seg>任意の怠惰キューブ1つを覚醒トラックに移動させて、その後、ゲームからこのカードを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move at least one warrior from a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060227Z" creationid="nakahodo" creationdate="20180701T060201Z">
+        <seg>スートに一致する区域1つから、少なくとも戦士1体を移動1回を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33905,6 +33953,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T155330Z">
         <seg>キープトークンの反対側角の区画に止まり木1つと戦士6体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a roost in a matching clearing you rule with an open slot and no roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060433Z" creationid="nakahodo" creationdate="20180701T060433Z">
+        <seg>スートに一致し、かつ止まり木を持たず空きスロットがある、あなたの支配する区域1つに止まり木1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46690,6 +46746,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, draw one card plus one per uncovered draw bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060546Z" creationid="nakahodo" creationdate="20180701T060546Z">
+        <seg>その後、カード1枚をドローします。さらに、覆われていないドローボーナスごとに、カード1枚を追加でドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, each Spiderling on the board gains 2 Movement to spend immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T141538Z" creationid="nakahodo" creationdate="20180603T141538Z">
@@ -58388,6 +58452,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051741Z" creationid="nakahodo" creationdate="20180701T051741Z">
         <seg>»»	マーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Move:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060144Z" creationid="nakahodo" creationdate="20180701T060144Z">
+        <seg>»»	移動：</seg>
       </tuv>
     </tu>
     <tu>
