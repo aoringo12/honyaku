@@ -12322,6 +12322,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both players remove pieces at the same time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T043552Z" creationid="nakahodo" creationdate="20180701T043552Z">
+        <seg>両プレイヤーは同時にピースを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both the Ghost and Cave Ghost are advanced roles that should not be used by new players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T124620Z" creationid="nakahodo" creationdate="20180406T124620Z">
@@ -18634,10 +18642,26 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extra Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T043816Z" creationid="nakahodo" creationdate="20180701T043816Z">
+        <seg>追加ヒット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extra hits are not limited by the number of warriors in the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103036Z" creationid="nakahodo" creationdate="20180629T103036Z">
         <seg>追加したヒットは戦場の戦士数によって制限されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extra hits represent superior positioning, tactics, or leadership.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T044047Z" creationid="nakahodo" creationdate="20180701T044047Z">
+        <seg>Extra hits represent superior positioning, tactics, or leadership.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39306,6 +39330,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some effects allow you to deal extra hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T044046Z" creationid="nakahodo" creationdate="20180701T044046Z">
+        <seg>いくつかの効果は追加のヒットを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some effects require that you spend movement points.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T230124Z" creationid="aorin" creationdate="20180409T230124Z">
@@ -45220,6 +45252,14 @@ though they had placed on that Location.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103500Z" creationid="nakahodo" creationdate="20180629T103246Z">
         <seg>取り除くピースはそれらを所持するプレイヤーが選択しますが、そこにある自身の建物やトークンを取り除く前に、自身の戦士全てを取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The player taking hits chooses which pieces to remove, but must remove all their own warriors in the clearing of battle before removing any of their own buildings or tokens there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T043701Z" creationid="nakahodo" creationdate="20180701T043701Z">
+        <seg>取り除くピースはそれらを所持するプレイヤーが選択しますが、そこにある自身の建物やトークンを取り除く前に、戦士たち全てを取り除く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52202,6 +52242,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072453Z" creationid="nakahodo" creationdate="20180630T072453Z">
         <seg>あなたが戦闘で敵対派閥の戦士1体を取り除くたびに、2勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you remove an enemy building or token—even outside battle—you score a victory point!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180701T043810Z" creationid="nakahodo" creationdate="20180701T043810Z">
+        <seg>あなたが敵の建物やトークン1つを取り除くたびに、（戦闘外でも）1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
