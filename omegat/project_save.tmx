@@ -6652,8 +6652,8 @@ PASS</seg>
       <tuv lang="EN-US">
         <seg>8.2.5 Sympathy Tokens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183915Z" creationid="nakahodo" creationdate="20180629T183915Z">
-        <seg>8.2.5	シンパシートークン。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T183915Z">
+        <seg>8.2.5	賛同トークン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6724,8 +6724,8 @@ PASS</seg>
       <tuv lang="EN-US">
         <seg>8.4.2 Spread Sympathy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193229Z" creationid="nakahodo" creationdate="20180629T193229Z">
-        <seg>8.4.2	シンパシーの消費。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T193229Z">
+        <seg>8.4.2	賛同の消費。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7632,8 +7632,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A clearing can hold only one sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T184002Z">
-        <seg>1つの区画は、シンパシートークン1つのみを保持できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T184002Z">
+        <seg>1つの区画は、賛同トークン1つのみを保持できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8108,8 +8108,8 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>A sympathetic clearing is one with a sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T184213Z">
-        <seg>賛同区画はシンパシートークンを持つ場所です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T184213Z">
+        <seg>賛同区画は賛同トークンを持つ場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10029,8 +10029,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An unsympathetic clearing is one without a sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T184231Z">
-        <seg>非賛同区画はシンパシートークンを持たない場所です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T184231Z">
+        <seg>非賛同区画は賛同トークンを持たない場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14467,8 +14467,8 @@ including, but not limited to:</seg>
       <tuv lang="EN-US">
         <seg>Craft a card from your hand, using sympathy tokens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195043Z" creationid="nakahodo" creationdate="20180629T195043Z">
-        <seg>シンパシートークンを使用することで、あなtなお手札からカード1枚をクラフトします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T195043Z">
+        <seg>賛同トークンを使用することで、あなtなお手札からカード1枚をクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17924,8 +17924,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Each time the Alliance places a sympathy token, they score victory points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181117Z" creationid="nakahodo" creationdate="20180629T181000Z">
-        <seg>連合がシンパシートークン1つを配置するたびに、勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094145Z" creationid="nakahodo" creationdate="20180629T181000Z">
+        <seg>連合が賛同トークン1つを配置するたびに、勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19278,8 +19278,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Fill Sympathy Track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192003Z" creationid="nakahodo" creationdate="20180629T191914Z">
-        <seg>シンパシートラックを満たす。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T191914Z">
+        <seg>賛同トラックを満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19360,6 +19360,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235852Z" creationid="aorin" creationdate="20171215T235852Z">
         <seg>最後に、選択した空き地に選択した建物を配置し、自身の派閥ボードから取り除いた建物があったスペースに記述された勝利ポイントを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, the Eyrie must place a roost in a clearing they rule that does not have a roost already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093932Z" creationid="nakahodo" creationdate="20180702T093831Z">
+        <seg>最後に、止まり木を持たず鷲が支配する区域1つに止まり木1つを配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20954,6 +20962,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101207Z" creationid="aorin" creationdate="20171219T101207Z">
         <seg>示された効果を得ます（クラウドポートは3VP）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaining the sympathy of the people requires supporters, cards on the Alliance’s faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094943Z" creationid="nakahodo" creationdate="20180702T094943Z">
+        <seg>賛同を得るには、連合の派閥ボードに支援者カードが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28259,6 +28275,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the battle the Eyrie and Marquise each lose one warrior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093838Z" creationid="nakahodo" creationdate="20180702T093830Z">
+        <seg>鷲とマルキスは戦闘にて、互いに戦士1体のみ失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of a tie, refer to the tiebreaker rules (see p. 16).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102131Z" creationid="aorin" creationdate="20180526T102131Z">
@@ -31304,6 +31328,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next, the Eyrie must move at least one warrior from a rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093753Z" creationid="nakahodo" creationdate="20180702T093753Z">
+        <seg>次に、ウサギ区域1つから、少なくとも戦士1体を移動させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Night Mare</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071547Z" creationid="nakahodo" creationdate="20180413T071547Z">
@@ -34047,16 +34079,16 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a sympathy token in the chosen clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194407Z" creationid="nakahodo" creationdate="20180629T194407Z">
-        <seg>選択した区画にシンパシートークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T194407Z">
+        <seg>選択した区画に賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Place a sympathy token, as follows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193237Z" creationid="nakahodo" creationdate="20180629T193237Z">
-        <seg>次のようにして、シンパシートークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T193237Z">
+        <seg>次のようにして、賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34361,8 +34393,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the 10 sympathy tokens on the sympathy track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192019Z" creationid="nakahodo" creationdate="20180629T192019Z">
-        <seg>シンパシートラックに10シンパシートークンを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T192019Z">
+        <seg>賛同トラックに10賛同トークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36986,8 +37018,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove one of your warriors from an unsympathetic clearing, place a sympathy token there, and score the victory points listed on the space revealed on your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195921Z" creationid="nakahodo" creationdate="20180629T195921Z">
-        <seg>非賛同区画1つからあなたの戦士1体を取り除き、そこにシンパシートークン1つを配置し、自身の派閥ボードのシンパシートラックにある、公開されたスペースに記述されている勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T195921Z">
+        <seg>非賛同区画1つからあなたの戦士1体を取り除き、そこに賛同トークン1つを配置し、自身の派閥ボードの賛同トラックにある、公開されたスペースに記述されている勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38412,8 +38444,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Score the victory points listed on the space revealed on your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194515Z" creationid="nakahodo" creationdate="20180629T194515Z">
-        <seg>あなたの派閥ボード上のシンパシートラックにある、公開されたスペースに記述された勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T194515Z">
+        <seg>あなたの派閥ボード上の賛同トラックにある、公開されたスペースに記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41745,8 +41777,8 @@ them.</seg>
       <tuv lang="EN-US">
         <seg>The Alliance has 10 sympathy tokens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T183931Z" creationid="nakahodo" creationdate="20180629T183931Z">
-        <seg>連合はシンパシートークン10個を持ちます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T183931Z">
+        <seg>連合は賛同トークン10個を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41761,8 +41793,8 @@ them.</seg>
       <tuv lang="EN-US">
         <seg>The Alliance uses sympathy tokens to craft during Daylight.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T182542Z" creationid="nakahodo" creationdate="20180629T182542Z">
-        <seg>連合は昼時にクラフトするためシンパシートークンを使用します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T182542Z">
+        <seg>連合は昼時にクラフトするため賛同トークンを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44350,6 +44382,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Woodland Alliance works to gain the sympathy of the various oppressed creatures of the Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094020Z" creationid="nakahodo" creationdate="20180702T094020Z">
+        <seg>ウッドランド連合は、ウッドランドの様々な生き物の同じ志、賛同を得るために、活動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Workshop</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080451Z" creationid="nakahodo" creationdate="20180311T080451Z">
@@ -45374,8 +45414,16 @@ d	同盟の犠牲。</seg>
       <tuv lang="EN-US">
         <seg>The more sympathy on the map they have, the more victory points they score.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T181258Z" creationid="nakahodo" creationdate="20180629T181102Z">
-        <seg>マップに多くのシンパシートークンを持つと、より多くの勝利点を得点できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T181102Z">
+        <seg>マップに多くの賛同トークンを持つと、より多くの勝利点を得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The more sympathy on the map, the more victory points they score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180702T094024Z">
+        <seg>マップに多くの賛同トークンを持つと、より多くの勝利点を得点できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45521,8 +45569,8 @@ determined by the desired Plan’s Cost.</seg>
       <tuv lang="EN-US">
         <seg>The number of supporters that must be spent is listed above the sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193634Z" creationid="nakahodo" creationdate="20180629T193634Z">
-        <seg>消費する支援者カードの枚数は、シンパシートークンの上部に記述されています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T193634Z">
+        <seg>消費する支援者カードの枚数は、賛同トークンの上部に記述されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47018,6 +47066,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, the Eyrie must battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093803Z" creationid="nakahodo" creationdate="20180702T093803Z">
+        <seg>その後、戦闘を開始する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, the Spider player may choose to change to Spiderling form.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T141626Z" creationid="nakahodo" creationdate="20180603T141626Z">
@@ -47729,6 +47785,14 @@ of the Plan’s printed cost and value.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They have nowhere to place a roost, so the dynasty enters turmoil!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093951Z" creationid="nakahodo" creationdate="20180702T093951Z">
+        <seg>止まり木を配置できないため、混乱に陥ります！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They hold out a closed fist and simultaneously open their hands to show which resources they decided to offer to their Queen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123012Z" creationid="aorin" creationdate="20171212T123012Z">
@@ -47774,6 +47838,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T152023Z" creationid="aorin" creationdate="20180115T152023Z">
         <seg>これらは対戦相手に直接ダメージを与え、リスクなしで彼らの兵士たちを殺すものが頻繁にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They only have a target in the rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093819Z" creationid="nakahodo" creationdate="20180702T093819Z">
+        <seg>対象とできるのはウサギ地域のみでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52416,8 +52488,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever another player removes a sympathy token or moves any warriors into a sympathetic clearing, they must add one card from their hand matching the affected clearing to the Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T184702Z">
-        <seg>他プレイヤーがシンパシートークンを取り除いたり、賛同区画に戦士を移動させたりした時、そのプレイヤーは影響を受けた区画に一致するスートのカードを、手札から1枚、連合の支援者デッキに追加しなければなりません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T184702Z">
+        <seg>他プレイヤーが賛同トークンを取り除いたり、賛同区画に戦士を移動させたりした時、そのプレイヤーは影響を受けた区画に一致するスートのカードを、手札から1枚、連合の支援者デッキに追加しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54931,8 +55003,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may Spread Sympathy any number of times.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193257Z" creationid="nakahodo" creationdate="20180629T193257Z">
-        <seg>あなたは何度でもシンパシーを消費することができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T193257Z">
+        <seg>あなたは何度でも賛同を消費することができます。</seg>
       </tuv>
     </tu>
     <tu>
