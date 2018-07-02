@@ -27197,8 +27197,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you have no undamaged items, you ignore further hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T175050Z" creationid="nakahodo" creationdate="20180702T174722Z">
-        <seg>破損</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T175123Z" creationid="nakahodo" creationdate="20180702T174722Z">
+        <seg>破損させるアイテムがない場合、それ以降のヒットを無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51323,6 +51323,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vagabond Battle Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T183050Z" creationid="nakahodo" creationdate="20180702T183050Z">
+        <seg>ヴァガボンド戦闘の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vagabond Card</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055643Z" creationid="aorin" creationdate="20171216T055643Z">
@@ -59749,6 +59757,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T145340Z" creationid="nakahodo" creationdate="20180702T145340Z">
         <seg>8.5.2	訓練。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» You are defenseless, taking an extra hit, if you have no undamaged S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T175206Z" creationid="nakahodo" creationdate="20180702T175053Z">
+        <seg>»»	あなたが未破損のSを持たない場合、あなたは無防備となり、追加の1ヒットを受けます。</seg>
       </tuv>
     </tu>
     <tu>
