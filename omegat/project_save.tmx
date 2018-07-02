@@ -18138,6 +18138,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time, he must exhaust an item and give a fox or bird card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163714Z" creationid="nakahodo" creationdate="20180702T163659Z">
+        <seg>援助アクションごとに、アイテム1つを消耗し、キツネか鳥カードを相手に渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each track can only hold three matching items.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204219Z" creationid="nakahodo" creationdate="20180629T204219Z">
@@ -22154,6 +22162,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He decides to aid three times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163701Z" creationid="nakahodo" creationdate="20180702T163701Z">
+        <seg>He decides to aid three times.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He decides to send 2 of his Soldiers from the adjacent Citadel to help out in the battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072107Z" creationid="aorin" creationdate="20180115T072107Z">
@@ -22327,8 +22343,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>He shares a fox clearing with them, so he can target the Eyrie with the Aid action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163636Z" creationid="nakahodo" creationdate="20180702T163636Z">
-        <seg>今、相手とキツネ区域を共有していますので、補助アクションにて鷲を対象にします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163729Z" creationid="nakahodo" creationdate="20180702T163636Z">
+        <seg>今、相手とキツネ区域を共有していますので、援助アクションにて鷲を対象にします。</seg>
       </tuv>
     </tu>
     <tu>
