@@ -25841,6 +25841,14 @@ stack is first in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they don’t have a matching card, they show you their hand, and then you draw a card from the deck and add it to your Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101730Z" creationid="nakahodo" creationdate="20180702T101730Z">
+        <seg>そのプレイヤーが一致するカードを持たない場合、そのプレイヤーは手札をあなたに見せて、その後、あなたは共有デッキからカード1枚をドローしてそれを支援者デッキに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If they have no matching cards (including no birds), they must show their hand to the Alliance, and then the Alliance draws a card from the deck and adds it to the Supporters stack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T184946Z" creationid="nakahodo" creationdate="20180629T184704Z">
@@ -40889,6 +40897,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145940Z" creationid="nakahodo" creationdate="20180108T145940Z">
         <seg>Suppliers Shortage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporter Limits:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101736Z" creationid="nakahodo" creationdate="20180702T101736Z">
+        <seg>支援者制限：</seg>
       </tuv>
     </tu>
     <tu>
