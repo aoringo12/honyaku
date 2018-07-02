@@ -14521,6 +14521,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft a card, using sympathy tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104656Z" creationid="nakahodo" creationdate="20180702T104656Z">
+        <seg>賛同トークンを使用してカード1枚をクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft an improvement from your hand, by exhausting &lt;hammer&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075722Z" creationid="aorin" creationdate="20171216T075722Z">
@@ -50249,8 +50257,8 @@ the most.</seg>
       <tuv lang="EN-US">
         <seg>Unlike in Birdsong, these cards come from your hand, not your supporters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104537Z" creationid="nakahodo" creationdate="20180702T104537Z">
-        <seg>朝フェイズ時と違い、支援者カードでは</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104633Z" creationid="nakahodo" creationdate="20180702T104537Z">
+        <seg>朝フェイズ時と違い、支援者スタックではなく、あなたの手札からカードを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58905,6 +58913,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Craft:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104642Z" creationid="nakahodo" creationdate="20180702T104642Z">
+        <seg>»»	クラフト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» Finally, you rest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T092759Z" creationid="nakahodo" creationdate="20180702T092759Z">
@@ -58933,6 +58949,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051741Z" creationid="nakahodo" creationdate="20180701T051741Z">
         <seg>»»	マーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Mobilize:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104710Z" creationid="nakahodo" creationdate="20180702T104708Z">
+        <seg>»»	動員：</seg>
       </tuv>
     </tu>
     <tu>
