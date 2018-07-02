@@ -16810,6 +16810,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the same turn, you must take the Aid action the number of times shown between their current relationship space and the next one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162606Z" creationid="nakahodo" creationdate="20180702T162606Z">
+        <seg>During the same turn, you must take the Aid action the number of times shown between their current relationship space and the next one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During their Evening, the Eyrie score victory points based on the number of roosts on the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T152742Z" creationid="nakahodo" creationdate="20180629T151527Z">
@@ -54862,6 +54870,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153647Z" creationid="nakahodo" creationdate="20171218T153522Z">
         <seg>あなたはマーケットを使用することで、発展マットから表向きのアシスタントカード1枚（または任意の発展カード）を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can improve a relationship with a faction by giving them cards with the Aid action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162605Z" creationid="nakahodo" creationdate="20180702T162605Z">
+        <seg>援助アクションによって相手にカードを与えることで、その派閥との関係性を改善できます。</seg>
       </tuv>
     </tu>
     <tu>
