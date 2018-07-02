@@ -786,7 +786,6 @@ revolt	反乱
 officers	将校
 flexibility	柔軟性
 Alliance	連合
-Supporters stack	支援者デッキ
 unsympathetic clearing	非賛同区画
 relationship	関係性
 improves	改善
@@ -842,3 +841,4 @@ Disdain for Trade	貿易軽視
 sympathy token	賛同トークン
 Sympathy Track	賛同トラック
 sympathetic clearing	賛同区域
+Supporters stack	支援者スタック
