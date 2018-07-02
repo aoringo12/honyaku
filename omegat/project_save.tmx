@@ -18850,6 +18850,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exhaust a F to take the action listed on your character card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161509Z" creationid="nakahodo" creationdate="20180702T161509Z">
+        <seg>F1つを消耗して、あなたのキャラクターカードに記述されたアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exhaust a H to repair a damaged item and place it face up.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T161409Z" creationid="nakahodo" creationdate="20180702T161409Z">
@@ -18908,8 +18916,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust one F to take the action listed on your character card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090605Z" creationid="nakahodo" creationdate="20180630T090547Z">
-        <seg>F1つを消耗して、あなたのキャラクターカードに記述されたアクションを実行できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161515Z" creationid="nakahodo" creationdate="20180630T090547Z">
+        <seg>F1つを消耗して、あなたのキャラクターカードに記述されたアクションを実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19536,6 +19544,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T141836Z" creationid="nakahodo" creationdate="20180412T141836Z">
         <seg>最後に、魂山札が空ではない場合、このフェイズを繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, if you have more items in your Satchel and Damaged box than your item limit—six plus two per B on its track—you must remove items from your Satchel down to your item limit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161817Z" creationid="nakahodo" creationdate="20180702T161804Z">
+        <seg>最後に、あなたのアイテム上限を上回って破損アイテムボックやカバンにアイテムを持っている場合、あなたのカバンからアイテム上限になるまでアイテムを取り除きます。アイテム上限は、基本の6に加えて、アイテムトラックのBごとに2増えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26275,6 +26291,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are in a forest, repair all of your damaged items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161548Z" creationid="nakahodo" creationdate="20180702T161548Z">
+        <seg>あなたが森にいる場合、全ての破損アイテムを修理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in a safe house (light blue zones), you can choose to gain either an additional 1 health or 1 morale.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T135007Z" creationid="nakahodo" creationdate="20171124T135007Z">
@@ -26895,6 +26919,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072211Z" creationid="nakahodo" creationdate="20180630T072211Z">
         <seg>あなたが敵対していない派閥の戦士を取り除いた場合、その派閥の関係性マーカーを直ちに敵対ボックスに移動し、その派閥と敵対状態となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you exhaust a T, X, or B, you must move it to your Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162324Z" creationid="nakahodo" creationdate="20180702T162324Z">
+        <seg>TXBを消耗した場合、それをカバンに移動させなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37096,6 +37128,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relationships</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162423Z" creationid="nakahodo" creationdate="20180702T162423Z">
+        <seg>関係性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Release Lab Robotanists</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072242Z" creationid="nakahodo" creationdate="20180311T072242Z">
@@ -37743,6 +37783,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T151552Z" creationid="nakahodo" creationdate="20180601T151552Z">
         <seg>できるだけ、未配置のヒーローキューブを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return any removed items to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161901Z" creationid="nakahodo" creationdate="20180702T161806Z">
+        <seg>ボックスに任意の数のアイテムを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39526,6 +39574,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090333Z" creationid="nakahodo" creationdate="20180413T080958Z">
         <seg>移ろい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shifting Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162040Z" creationid="nakahodo" creationdate="20180702T162040Z">
+        <seg>アイテムの状態移行</seg>
       </tuv>
     </tu>
     <tu>
@@ -47355,6 +47411,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, draw one card, plus one card per X on its track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161651Z" creationid="nakahodo" creationdate="20180702T161639Z">
+        <seg>その後、カード1枚をドローし、カード1枚をドローし、アイテムトラックにあるXの数だけ、追加でカードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, each Spiderling on the board gains 2 Movement to spend immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T141538Z" creationid="nakahodo" creationdate="20180603T141538Z">
@@ -49080,6 +49144,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This item only adds a bonus draw if it is undamaged and face up on its matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162019Z" creationid="nakahodo" creationdate="20180702T162019Z">
+        <seg>このアイテムは、アイテムトラックにあり、未破損で表向きの場合にのり、ボーナスドローを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it difficult to avoid a Wound in early turns, and brings Epic Heroes into play a turn earlier.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T224017Z" creationid="aorin" creationdate="20180528T224006Z">
@@ -50591,6 +50663,14 @@ the most.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike other factions, the Vagabond does not uncover draw bonuses, but instead gets draw bonuses as items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161942Z" creationid="nakahodo" creationdate="20180702T161942Z">
+        <seg>他の派閥とは違い、ヴァガボンドは通常のドローボーナスをもちませんが、代わりにアイテムからドローボーナスを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike stay on other your workers, buildings minions until  you choose to retrieve all your workers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T172256Z" creationid="aorin" creationdate="20171228T172256Z">
@@ -51828,6 +51908,22 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T052235Z" creationid="aorin" creationdate="20171228T233712Z">
         <seg>アイテム要件があなたのターンにて達成された時、共通サプライにリソースを支払い、アイテムカードの右上に示される利益を得て、その後、そのカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an item is damaged, move it to your Damaged box in your Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162351Z" creationid="nakahodo" creationdate="20180702T162351Z">
+        <seg>アイテムが破損した場合、カバンの破損ボックスに移動しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an item is repaired, move it out of the Damaged box and back to the Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162417Z" creationid="nakahodo" creationdate="20180702T162417Z">
+        <seg>アイテムが修理された時、それを破損ボックスからカバンに戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54754,6 +54850,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can freely move face-up, undamaged T, X, and B between your Satchel and their tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162301Z" creationid="nakahodo" creationdate="20180702T162301Z">
+        <seg>あなたは自由に、未破損で表向きのTXBをカバンとアイテムトラック間で移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can gain a face-up assistant card (or any advancement card) from the advancement mat by using the Market.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153647Z" creationid="nakahodo" creationdate="20171218T153522Z">
@@ -57533,6 +57637,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Relationships chart represents how friendly or hostile other factions are toward you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162535Z" creationid="nakahodo" creationdate="20180702T162535Z">
+        <seg>あなたの関係性チャートは、あなたと他派閥との状態が友好か敵対しているかを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Shield does not reduce the Grit cost of playing this card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T121731Z" creationid="nakahodo" creationdate="20180430T121110Z">
@@ -59435,8 +59547,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>»» Special Action:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161420Z" creationid="nakahodo" creationdate="20180702T161420Z">
-        <seg>»» Special Action:</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161455Z" creationid="nakahodo" creationdate="20180702T161420Z">
+        <seg>»»	スペシャルアクション：</seg>
       </tuv>
     </tu>
     <tu>
