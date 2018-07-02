@@ -14991,6 +14991,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decree Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093357Z" creationid="nakahodo" creationdate="20180702T093357Z">
+        <seg>法令の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defeated Heroes are turned face-down and are worth Souls:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T103015Z" creationid="aorin" creationdate="20180526T103015Z">
@@ -18258,6 +18266,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End Daylight and go to Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092921Z" creationid="nakahodo" creationdate="20180702T092921Z">
+        <seg>昼フェイズを終了し、夜フェイズに移行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End of Game</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T112051Z" creationid="aorin" creationdate="20171219T112051Z">
@@ -19612,6 +19628,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip your current leader face down and set it aside, choose a new leader from those face up, and place it on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092735Z" creationid="nakahodo" creationdate="20180702T092735Z">
+        <seg>その後、現在のリーダーを裏向きにして側に置き、残っている表向きの新しいリーダー1人を選択して、あなたの派閥ボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flow of Play</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T200257Z" creationid="nakahodo" creationdate="20180630T200257Z">
@@ -20081,6 +20105,14 @@ track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you might not have any warriors in your supply to recruit, or maybe all the clearings you rule already have a roost, meaning you can’t build any more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093354Z" creationid="nakahodo" creationdate="20180702T093354Z">
+        <seg>例えば、サプライに戦士がいない状態で雇用したり、支配区域全て止まり木があってそれ以上建築できない、などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For her second and third actions, she takes the Overwork action twice, spending a mouse and a bird card to put two extra wood in a mouse clearing with a sawmill.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T054317Z" creationid="nakahodo" creationdate="20180701T054317Z">
@@ -20151,6 +20183,14 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223443Z" creationid="aorin" creationdate="20171231T223443Z">
         <seg>最後のカテゴリにて、あなたのチャーターの建物6つ全てと、あなたの空島4つの建物全ての価値を含めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the recruit, Eyrie choose to treat the bird card as a fox card and so place two warriors in a fox clearing with a roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093726Z" creationid="nakahodo" creationdate="20180702T093726Z">
+        <seg>雇用のために、鷲は鳥カードをキツネカードとして扱い、止まり木のあるキツネ区域1つに戦士2体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42396,6 +42436,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie’s Decree has a bird and fox card in the Recruit column, and a rabbit card in the Move column, a bird card on the Battle column, and a bird card on the Build column.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093533Z" creationid="nakahodo" creationdate="20180702T093533Z">
+        <seg>鷲の法令は雇用列に鳥とキツネカード1枚ずつを持ち、移動列にウサギカード1枚を持ち、戦闘列に鳥カード1枚を持ち、建築列に鳥カード1枚を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Forever /(/ng appreciates that you've made the choice to focus on progression, as he needs the village to grow at a rapid pace to remain on schedule.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T000511Z" creationid="aorin" creationdate="20171229T000511Z">
@@ -47004,6 +47052,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, tuck your Loyal Viziers into the Decree spaces listed on your new leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092747Z" creationid="nakahodo" creationdate="20180702T092747Z">
+        <seg>新しいリーダーに記述された法令スペースに王宮大臣を差し込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, when you form the three piles of Cave tiles, shuffle 2 Ghost tiles into each pile, continuing to shuffle until none of the piles shows a Ghost tile on top.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T131122Z" creationid="nakahodo" creationdate="20180406T131122Z">
@@ -47137,6 +47193,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T085150Z" creationid="nakahodo" creationdate="20180629T084928Z">
         <seg>4つのスートに一致するドミナンスカードが4枚あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are many ways to fall into turmoil!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093133Z" creationid="nakahodo" creationdate="20180702T093133Z">
+        <seg>混乱に陥るのは多くの方法があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58456,6 +58520,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Finally, you rest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092759Z" creationid="nakahodo" creationdate="20180702T092759Z">
+        <seg>»»	最後に、休息します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» First, roll two dice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T230628Z" creationid="nakahodo" creationdate="20180630T230628Z">
@@ -58522,8 +58594,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>»» Then, your court is purged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092614Z" creationid="nakahodo" creationdate="20180702T092614Z">
-        <seg>»»	その後、あなたの法定は解散します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092723Z" creationid="nakahodo" creationdate="20180702T092614Z">
+        <seg>»»	その後、法定は解散します。</seg>
       </tuv>
     </tu>
     <tu>
