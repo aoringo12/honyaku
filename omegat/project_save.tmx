@@ -9395,6 +9395,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aid and Improving Relationships Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163549Z" creationid="nakahodo" creationdate="20180702T163549Z">
+        <seg>補助と関係性改善の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air - Conditioning Not Working</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151442Z" creationid="nakahodo" creationdate="20180108T151442Z">
@@ -16812,8 +16820,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During the same turn, you must take the Aid action the number of times shown between their current relationship space and the next one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T162606Z" creationid="nakahodo" creationdate="20180702T162606Z">
-        <seg>During the same turn, you must take the Aid action the number of times shown between their current relationship space and the next one.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163005Z" creationid="nakahodo" creationdate="20180702T162606Z">
+        <seg>そうするためには、1つのターン間で、あなたは自身の派閥ボードの関係性チャートを確認し、相手派閥の現在いるスペースと次スペース間に示される回数だけ、援助アクションを実行する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20410,6 +20418,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more, see Law of Root (9.2.9).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163209Z" creationid="nakahodo" creationdate="20180702T163209Z">
+        <seg>詳細はルートの法律（9.2.9）を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For most players, Root is best learned organically.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T211921Z" creationid="nakahodo" creationdate="20180630T211736Z">
@@ -20674,6 +20690,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043006Z" creationid="aorin" creationdate="20171213T043006Z">
         <seg>今後、窃盗フェイズ時にタイルに描かれた量だけ、あなたが選択する食料を得る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From now on, you score a victory point each time you remove one of their pieces in battle, in addition to any points you score for removing buildings and tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163445Z" creationid="nakahodo" creationdate="20180702T163445Z">
+        <seg>今後、その派閥の建物とトークンを取り除くことによる勝利点の得点に加えて、戦闘にてその派閥のピース1つを取り除くごとに、1勝利点を得点できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22301,6 +22325,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He shares a fox clearing with them, so he can target the Eyrie with the Aid action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163636Z" creationid="nakahodo" creationdate="20180702T163636Z">
+        <seg>今、相手とキツネ区域を共有していますので、補助アクションにて鷲を対象にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He simply wants you to lose.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T130712Z" creationid="nakahodo" creationdate="20180412T130712Z">
@@ -23038,6 +23070,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T040741Z" creationid="aorin" creationdate="20180408T040741Z">
         <seg>しかし、あなたはこのフェイズ空きスペースで終了することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you must exhaust another M whenever you move into a clearing with any Hostile warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163541Z" creationid="nakahodo" creationdate="20180702T163541Z">
+        <seg>しかし、あなたは敵対戦士たちのいる区域に入るたびに、追加でM1つを消耗しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26927,6 +26967,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072211Z" creationid="nakahodo" creationdate="20180630T072211Z">
         <seg>あなたが敵対していない派閥の戦士を取り除いた場合、その派閥の関係性マーカーを直ちに敵対ボックスに移動し、その派閥と敵対状態となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you ever remove a warrior, place its faction’s relationship marker in the Hostile box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163249Z" creationid="nakahodo" creationdate="20180702T163249Z">
+        <seg>あなたは相手はバツの戦士1体でも鳥のじた場合、その派閥の関係性マーカーを敵対ボックスに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44823,6 +44871,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond would like to improve his relationship with the Eyrie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163611Z" creationid="nakahodo" creationdate="20180702T163611Z">
+        <seg>ヴァガボンドは鷲との関係性を改善しよう考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond’s capabilities depend on the items he acquires.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203850Z" creationid="nakahodo" creationdate="20180629T203850Z">
@@ -52767,6 +52823,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you improve a relationship, you score the victory points listed on the new space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163031Z" creationid="nakahodo" creationdate="20180702T163031Z">
+        <seg>あなたが関係性を改善する時、新たなスペースに記述される勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you initiate a battle, choose a clearing where you have warriors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221008Z" creationid="aorin" creationdate="20171215T221008Z">
@@ -52883,6 +52947,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T103015Z" creationid="nakahodo" creationdate="20180430T103015Z">
         <seg>悪巧みカードを購入した時、自身のプレイヤーボード近くに表向きでこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you reach the Allied space, you may move and battle with that faction’s warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163130Z" creationid="nakahodo" creationdate="20180702T163130Z">
+        <seg>友軍スペースに到達した時、あなたは、その派閥の戦士たちとともに移動したり、戦闘することができます。</seg>
       </tuv>
     </tu>
     <tu>
