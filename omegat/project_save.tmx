@@ -9600,6 +9600,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of your H match the suit of your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161331Z" creationid="nakahodo" creationdate="20180702T161331Z">
+        <seg>Hのスートは全て、あなたのいる区域のスートtお同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of your rules that refer to Treasure tokens now also refer to Dragon Gems.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T104008Z" creationid="nakahodo" creationdate="20180412T104008Z">
@@ -18818,6 +18826,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exhaust H equal in number to the suits shown on a card’s crafting cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161254Z" creationid="nakahodo" creationdate="20180702T161254Z">
+        <seg>カードのクラフトコストに示されるスートに等しい数だけ、Hを消耗します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exhaust a C to remove a warrior in your clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T152920Z" creationid="nakahodo" creationdate="20180702T152748Z">
@@ -18830,6 +18846,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T153014Z" creationid="nakahodo" creationdate="20180702T153014Z">
         <seg>F1つを消耗して、あなたのいる区域の遺跡1つからアイテム1つを取り、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust a H to repair a damaged item and place it face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161409Z" creationid="nakahodo" creationdate="20180702T161409Z">
+        <seg>H1つを消耗して、破損アイテムを修理して、表向きでアイテムトラックかカバンに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19488,6 +19512,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T092550Z" creationid="nakahodo" creationdate="20180630T092550Z">
         <seg>最後に、デッキからカード1枚手札にドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, draw and put out a new quest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161227Z" creationid="nakahodo" creationdate="20180702T161227Z">
+        <seg>最後に、新シクエスト1枚をドローしてマップ近くに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59385,10 +59417,26 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Repair:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161339Z" creationid="nakahodo" creationdate="20180702T161339Z">
+        <seg>»»	修理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» Revolt:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102330Z" creationid="nakahodo" creationdate="20180702T102330Z">
         <seg>»»	反乱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Special Action:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161420Z" creationid="nakahodo" creationdate="20180702T161420Z">
+        <seg>»» Special Action:</seg>
       </tuv>
     </tu>
     <tu>
