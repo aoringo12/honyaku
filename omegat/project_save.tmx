@@ -12046,6 +12046,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because it has a sympathy token, they must pay one fox card to the Alliance’s Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102050Z" creationid="nakahodo" creationdate="20180702T101949Z">
+        <seg>賛同トークンがあるので、鷲は連合の支援者デッキにキツネカード1枚を支払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because of their mobility and flexibility, zeppelins are the standard way of constructing buildings in Greengully.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031627Z" creationid="nakahodo" creationdate="20171224T144855Z">
@@ -15439,6 +15447,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T154315Z" creationid="nakahodo" creationdate="20180604T154315Z">
         <seg>任意のカード1枚を捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard any excess cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101831Z" creationid="nakahodo" creationdate="20180702T101831Z">
+        <seg>それを上回るカードは捨て札とします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25823,6 +25839,14 @@ stack is first in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they couldn’t pay, the Alliance would have drawn a card from the deck to add to their Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102127Z" creationid="nakahodo" creationdate="20180702T102127Z">
+        <seg>支払えない場合、連合は自身の支援者デッキに共有デッキからドローしたカード1枚を追加するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If they do, they gain the minion from the board to their personal supply I􀁲!\j if the 仙umbe rof􀁳appy kings on all story cards in the Chronicle is greater than or equal to the number of angry kings, the Forever King invites you to a month-l ong festival.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170229Z" creationid="nakahodo" creationdate="20171229T164656Z">
@@ -26527,6 +26551,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T111243Z" creationid="nakahodo" creationdate="20180430T111243Z">
         <seg>そうした場合、他のカードを破棄した後で、通常より1枚少なくカードをドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you don’t have a base on the map, you may only have up to five supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101815Z" creationid="nakahodo" creationdate="20180702T101815Z">
+        <seg>あなたがマップに基地をもたない場合、支援者カード5枚までのみ所持できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36984,6 +37016,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove all enemy pieces there and place the matching base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102420Z" creationid="nakahodo" creationdate="20180702T102420Z">
+        <seg>そこの敵ピース全てを取り除き、一致するスートの基地を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove all enemy pieces there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192707Z" creationid="nakahodo" creationdate="20180629T192707Z">
@@ -40442,6 +40482,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend two supporters matching a sympathetic clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102359Z" creationid="nakahodo" creationdate="20180702T102359Z">
+        <seg>賛同区域に一致する支援者カード2枚を消費します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend two supporters matching the nation of the chosen clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T192351Z">
@@ -42500,6 +42548,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie pay a bird card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102103Z" creationid="nakahodo" creationdate="20180702T102051Z">
+        <seg>鷲は鳥カード1枚を支払いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie roll the dice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045152Z" creationid="nakahodo" creationdate="20180701T045152Z">
@@ -42536,6 +42592,15 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T214823Z" creationid="nakahodo" creationdate="20180630T214754Z">
         <seg>鷲はこの区域外へと移動したいですが、この区域を支配していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie would like to move into the fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101909Z" creationid="nakahodo" creationdate="20180702T101909Z">
+        <seg>暴動の例
+鷲はキツネ区域に移動したいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46817,6 +46882,14 @@ the Upkeep phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then the Eyrie battle in the fox clearing and remove the sympathy token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102020Z" creationid="nakahodo" creationdate="20180702T102008Z">
+        <seg>その後、鷲はキツネ区域で戦闘して賛同トークン1つを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then the Queen will check whether you offered enough Silver and Gold to Her.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171421Z" creationid="aorin" creationdate="20171212T171421Z">
@@ -47038,6 +47111,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T193212Z" creationid="nakahodo" creationdate="20180629T193049Z">
         <seg>その後、その区画に一致する基地を配置し、マップ上にある賛同区画同じ民の数と等しいだけおこに戦士を配置します。例えば、対象区画の民がネズミで、マップ上にネズミの民の賛同区画を3つを合計で持っている場合、対象区画には戦士3体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, place warriors there equal to the number of sympathetic clearings matching the suit of the revolt clearing, including the revolt clearing itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102853Z" creationid="nakahodo" creationdate="20180702T102853Z">
+        <seg>その後、反乱アクションの対象区域のスートに一致する、賛同区域の数に等しいだけ、戦士をそこに配置します。これには反乱アクションんお対象区域も数に含めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47910,6 +47991,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030339Z" creationid="aorin" creationdate="20171212T025226Z">
         <seg>プレイス[または]パスアクションのいずれかが選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They must now pay another fox card to the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102045Z" creationid="nakahodo" creationdate="20180702T102045Z">
+        <seg>さらにもう一枚のキツネカードを支援者デッキに支払う必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55753,6 +55842,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may revolt any number of times, and then spread sympathy any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102308Z" creationid="nakahodo" creationdate="20180702T102308Z">
+        <seg>あなたは任意の回数反乱を行い、その後、任意の数だけ賛同トークンを消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may select and use 1 extra persona card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T041919Z" creationid="nakahodo" creationdate="20171224T204017Z">
@@ -58748,6 +58845,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051810Z" creationid="nakahodo" creationdate="20180701T051810Z">
         <seg>»»	雇用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Revolt:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102330Z" creationid="nakahodo" creationdate="20180702T102330Z">
+        <seg>»»	反乱：</seg>
       </tuv>
     </tu>
     <tu>
