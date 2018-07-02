@@ -8034,6 +8034,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A revolt establishes a new base, allowing the Alliance to train officers that increase their military flexibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095127Z" creationid="nakahodo" creationdate="20180702T095127Z">
+        <seg>反乱は新しい基地を設置し、将校のトレーニングによる軍事的な柔軟性を強くします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A river runs through some clearings.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T213818Z" creationid="nakahodo" creationdate="20180630T213818Z">
@@ -20109,6 +20117,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T122354Z" creationid="nakahodo" creationdate="20171213T122354Z">
         <seg>例えば、アクションスポットに利用可能な一回使用タイルがない場合に、プレイヤーは一回使用タイルを得るためにアクションの模倣をすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you couldn’t craft a card in the Supporters stack or play an ambush card there to deal hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095438Z" creationid="nakahodo" creationdate="20180702T095438Z">
+        <seg>例えば、あなたは支援者デッキのカードをクラフトしたり、ヒットを与えるためにアンブッシュカードを使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40877,10 +40893,34 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supporters are often spent to place sympathy tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T100448Z" creationid="nakahodo" creationdate="20180702T100448Z">
+        <seg>支援者カード賛同トークンを配置するために消費されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporters are separate from your hand of cards, and you can only spend supporters for their suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095400Z" creationid="nakahodo" creationdate="20180702T095400Z">
+        <seg>支援者はあなたの手札から消費され、そのスートの支援者のみ消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supporters can only be spent for their suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T183650Z" creationid="nakahodo" creationdate="20180629T183650Z">
         <seg>支援者カードは自身のスートとしてのみ消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporters, Sympathy, and Outrage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095229Z" creationid="nakahodo" creationdate="20180702T095229Z">
+        <seg>支援者、賛同、暴動</seg>
       </tuv>
     </tu>
     <tu>
@@ -41755,6 +41795,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T132531Z" creationid="nakahodo" creationdate="20180525T132531Z">
         <seg>冒険フェイズは各プレイヤーが行動の機会を持つまで終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alliance are experts in Guerrilla War.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095154Z" creationid="nakahodo" creationdate="20180702T095154Z">
+        <seg>連合はゲリラ戦のエキスパートです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47597,6 +47645,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These supporters can also be put toward violent revolt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095022Z" creationid="nakahodo" creationdate="20180702T095006Z">
+        <seg>これら支援者は反乱を起こすことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These three cards are replacements for the same cards from Vast:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T095615Z" creationid="nakahodo" creationdate="20180430T095615Z">
@@ -48976,6 +49032,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T072227Z" creationid="nakahodo" creationdate="20180411T071843Z">
         <seg>テレポートするには、2枚のカードを1度にプレイする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To act as the Alliance, you often spend supporters—cards in your Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095303Z" creationid="nakahodo" creationdate="20180702T095303Z">
+        <seg>連合が行動するには、支援者を消費します。カードは支援者デッキにあります。</seg>
       </tuv>
     </tu>
     <tu>
