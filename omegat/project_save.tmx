@@ -15347,6 +15347,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard all of the cards in the Decree except the two Loyal Vizier bird cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092650Z" creationid="nakahodo" creationdate="20180702T092650Z">
+        <seg>王宮大臣鳥カード2枚を除き、法令のカード全てを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard all of the cards in the Lost Souls pile to the discard pile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T143957Z" creationid="nakahodo" creationdate="20180630T143940Z">
@@ -30029,6 +30037,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162817Z" creationid="nakahodo" creationdate="20180629T162817Z">
         <seg>法令にある、（王宮大臣を含んだ）鳥カードごとに、勝利点1つを失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose one victory point per bird card in the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092529Z" creationid="nakahodo" creationdate="20180702T092529Z">
+        <seg>法令の鳥カードごとに1勝利点を失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58450,8 +58466,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>»» First, your regime is humiliated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T180212Z" creationid="nakahodo" creationdate="20180701T180212Z">
-        <seg>»»	まず、あなたの政権は</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092515Z" creationid="nakahodo" creationdate="20180701T180212Z">
+        <seg>»»	まず、あなたの政権は面目を失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58468,6 +58484,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T060144Z" creationid="nakahodo" creationdate="20180701T060144Z">
         <seg>»»	移動：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Next, your leader is deposed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092718Z" creationid="nakahodo" creationdate="20180702T092718Z">
+        <seg>»»	次に、リーダーが退位します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58492,6 +58516,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T230809Z" creationid="nakahodo" creationdate="20180630T230809Z">
         <seg>»»	その後、ピースを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Then, your court is purged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T092614Z" creationid="nakahodo" creationdate="20180702T092614Z">
+        <seg>»»	その後、あなたの法定は解散します。</seg>
       </tuv>
     </tu>
     <tu>
