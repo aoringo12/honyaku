@@ -54826,6 +54826,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can battle where your pawn is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T170657Z" creationid="nakahodo" creationdate="20180702T170657Z">
+        <seg>あなたのポーンは戦闘を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can carry up to 2 Treasures or Gems at a time.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152342Z" creationid="nakahodo" creationdate="20180430T152026Z">
@@ -59701,6 +59709,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T170639Z" creationid="nakahodo" creationdate="20180702T163909Z">
         <seg>»»	ヴァガボンドポーンは戦士ではありませんので、区域を支配できず、戦士を指定する効果の影響をうけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» The maximum hits you can deal by rolling equals your total undamaged S, whether exhausted or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T174720Z" creationid="nakahodo" creationdate="20180702T174720Z">
+        <seg>»»	あなたがダイスロールによって相手に与えられる最大ヒット数は、消耗しているかどうかに関わらず、未破損Sの合計数に等しいです。</seg>
       </tuv>
     </tu>
     <tu>
