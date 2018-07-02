@@ -10051,6 +10051,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An item can be in one of three states:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151722Z" creationid="nakahodo" creationdate="20180702T151722Z">
+        <seg>アイテムには3つの状態があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An unsympathetic clearing adjacent to a sympathetic clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T193500Z" creationid="nakahodo" creationdate="20180629T192645Z">
@@ -19744,6 +19752,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T082732Z" creationid="nakahodo" creationdate="20180630T082709Z">
         <seg>あなたの朝フェイズ開始時に、表向きのTごとに消耗アイテム2つを表返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip two items face up per T on its track at the start of Birdsong, then flip three more face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152222Z" creationid="nakahodo" creationdate="20180702T152222Z">
+        <seg>朝フェイズ開始時、アイテムトラックの表向きTごとに未破損アイテムを表替えします。その後、さらに3つの未破損アイテムを表替えします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39960,6 +39976,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slip is the only way you can enter a forest!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152346Z" creationid="nakahodo" creationdate="20180702T152332Z">
+        <seg>スリップはあなたが森へ入る唯一の方法です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slots filled with ruins cannot hold buildings until the Vagabond explores them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T215242Z" creationid="nakahodo" creationdate="20180630T215242Z">
@@ -47517,6 +47541,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, you may slip once, moving into an adjacent clearing or forest without exhausting any M.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152318Z" creationid="nakahodo" creationdate="20180702T152318Z">
+        <seg>その後、1回のスリップができます。任意のMを消耗することなく、隣接区域か森に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, you may take one item, if any, from that player’s Crafted Items box, and place it face up in your Satchel or on its matching track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T090856Z" creationid="nakahodo" creationdate="20180630T090856Z">
@@ -53881,6 +53913,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While undamaged, T, X, and B are stored on their tracks on the left side of your faction board, while all other items are stored in your Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151924Z" creationid="nakahodo" creationdate="20180702T151924Z">
+        <seg>TXBの未破損アイテムはあなたの派閥ボード左側にあるアイテムトラックに保有されます。他の未破損アイテム全てはカバンに保有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While underground, the Dragon can enter your space freely.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T232316Z" creationid="aorin" creationdate="20180409T232316Z">
@@ -54572,8 +54612,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can exhaust an undamaged face-up item to perform an action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151457Z" creationid="nakahodo" creationdate="20180702T151457Z">
-        <seg>、You can exhaust an undamaged face-up item to perform an action.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151652Z" creationid="nakahodo" creationdate="20180702T151457Z">
+        <seg>あなたは表向きの未破損アイテムを消費することでアクション1回を実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54678,6 +54718,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T141424Z" creationid="nakahodo" creationdate="20180603T141424Z">
         <seg>パラディンプレイヤーがゲームに居ない場合、あなたはスパイダーへのみアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can only carry so many items in your Satchel, and you will have to discard down to your item capacity during Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152102Z" creationid="nakahodo" creationdate="20180702T152102Z">
+        <seg>カバンは多くのアイテムを運べます。夜フェイズ時にあなたのアイテム容量になるまでアイテムを捨てなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54902,6 +54950,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T150503Z" creationid="nakahodo" creationdate="20180629T150503Z">
         <seg>あなたはターンごとに1回のみ、このアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take various actions by exhausting items, flipping them face down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152658Z" creationid="nakahodo" creationdate="20180702T152333Z">
+        <seg>あなたは未破損アイテムを表向きから裏向きにすることで、様々なアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
