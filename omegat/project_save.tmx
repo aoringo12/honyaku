@@ -12286,6 +12286,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birdsong Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103752Z" creationid="nakahodo" creationdate="20180702T103732Z">
+        <seg>朝フェイズ例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong, Daylight, and Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T082006Z" creationid="aorin" creationdate="20171215T233415Z">
@@ -25374,6 +25382,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the target clearing has three or more warriors of another player, you must spend another matching supporter to place sympathy there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103713Z" creationid="nakahodo" creationdate="20180702T103713Z">
+        <seg>対象区域が他プレイヤーの戦士3体以上を持つ場合、その区域に一致する支援者1枚を追加で消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tile holding the Entrance piece is removed, also remove the Hero cubes, and place the Hero cubes on the new space with the Entrance piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T085454Z" creationid="nakahodo" creationdate="20180430T085454Z">
@@ -29760,6 +29776,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last, place a warrior in the Officers box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102926Z" creationid="nakahodo" creationdate="20180702T102926Z">
+        <seg>最後に、将校ボックスに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Later in the game, Skeletons can collect Gear from them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065611Z" creationid="nakahodo" creationdate="20180601T065611Z">
@@ -34129,6 +34153,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T164709Z" creationid="nakahodo" creationdate="20180630T164709Z">
         <seg>各サービストラックの1スペースにサービスマーカー1つずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a sympathy token in an unsympathetic clearing, adjacent to a sympathetic clearing if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103555Z" creationid="nakahodo" creationdate="20180702T103555Z">
+        <seg>賛同区域に隣接する、非賛同区域1つに賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40959,8 +40991,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Supporters</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T052643Z" creationid="aorin" creationdate="20171216T052643Z">
-        <seg>サポーター</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103736Z" creationid="aorin" creationdate="20171216T052643Z">
+        <seg>支援者デッキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -53207,6 +53239,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you remove a base, you’ll have to remove half your officers and discard all supporters matching the suit of that base—even your bird supporters!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103523Z" creationid="nakahodo" creationdate="20180702T103424Z">
+        <seg>あなたが基地1つを取り除くたびに、あなたの将軍半分を取り除き、その基地のスートに一致する支援者カード全てを捨て札にしなければなりません。鳥の支援者カードであっても！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you remove a warrior of a Hostile faction in battle, score two victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072453Z" creationid="nakahodo" creationdate="20180630T072453Z">
@@ -56418,6 +56458,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must spend supporters as shown by the cost on your Sympathy track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103617Z" creationid="nakahodo" creationdate="20180702T103617Z">
+        <seg>賛同トラックのコストに示されるように、支援者カードを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must spend this Movement immediately, and you cannot move this Skeleton into a tile that would make you attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T152839Z" creationid="nakahodo" creationdate="20180603T152839Z">
@@ -58853,6 +58901,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102330Z" creationid="nakahodo" creationdate="20180702T102330Z">
         <seg>»»	反乱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Spread Sympathy:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103437Z" creationid="nakahodo" creationdate="20180702T103437Z">
+        <seg>»»	支援者カードの消費：</seg>
       </tuv>
     </tu>
     <tu>
