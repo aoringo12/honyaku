@@ -44839,6 +44839,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond is in a clearing with three Marquise warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T192525Z" creationid="nakahodo" creationdate="20180702T192525Z">
+        <seg>ヴァガボンドはまるきすの戦士3体がいる区域にいます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond may only activate a dominance card in games with four or more players.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T205130Z" creationid="nakahodo" creationdate="20180629T205005Z">
