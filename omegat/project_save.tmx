@@ -13956,6 +13956,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Claim a quest whose suit matches your clearing by exhausting the two items listed on the quest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153417Z" creationid="nakahodo" creationdate="20180702T153417Z">
+        <seg>クエストに記述されたアイテム2つを消耗することで、あなたのいる区域に一致するスートのクエスト達成を主張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clarity = 2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090810Z" creationid="nakahodo" creationdate="20180413T090810Z">
@@ -18806,6 +18814,46 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075459Z" creationid="aorin" creationdate="20171213T075459Z">
         <seg>ゲームボード上のタイルと交換する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust a C to remove a warrior in your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152920Z" creationid="nakahodo" creationdate="20180702T152748Z">
+        <seg>C1つを消耗して、あなたのいる区域の戦士1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust a F to take one item from a ruin in your clearing and score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153014Z" creationid="nakahodo" creationdate="20180702T153014Z">
+        <seg>F1つを消耗して、あなたのいる区域の遺跡1つからアイテム1つを取り、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust a M to take a move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152729Z" creationid="nakahodo" creationdate="20180702T152729Z">
+        <seg>M1つを消耗して移動1回を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust a S to initiate a battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152735Z" creationid="nakahodo" creationdate="20180702T152735Z">
+        <seg>S1つを消耗して戦闘1回を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust any one item, and give a card from your hand matching your clearing to any player in your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153216Z" creationid="nakahodo" creationdate="20180702T153216Z">
+        <seg>任意のアイテム1つを消耗して、あなたのいる区域の任意のプレイヤーに、あなたの手札から区域に一致するスートのカード1枚を、そのプレイヤーに渡します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23770,6 +23818,14 @@ Artifact enters such a Ghost tile on their own turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045055Z" creationid="aorin" creationdate="20171213T045055Z">
         <seg>炭鉱にドレイがいない[または]1体のみいる場合、そのプレイヤーはバッグからキューブを1つのみ選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a player has no warriors there, you can instead remove a building or token of that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152934Z" creationid="nakahodo" creationdate="20180702T152934Z">
+        <seg>対象プレイヤーがそこに戦士を持たない場合、そのプレイヤーの建物かトークン1つを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34847,6 +34903,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the claimed quest into your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153434Z" creationid="nakahodo" creationdate="20180702T153434Z">
+        <seg>あなたのプレイエリアに達成したクエストを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the constructed building card in the Archive tuckbox (a depository for components that are no longer needed).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205629Z" creationid="nakahodo" creationdate="20171218T154808Z">
@@ -37332,6 +37396,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T142007Z" creationid="nakahodo" creationdate="20180430T142007Z">
         <seg>その部族が攻撃されたり、人口が0に減少した場合、ディスクを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the ruin from the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153029Z" creationid="nakahodo" creationdate="20180702T153029Z">
+        <seg>その後、マップからその遺跡を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47427,6 +47499,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, take one item, if any, from their Crafted Items box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153253Z" creationid="nakahodo" creationdate="20180702T153253Z">
+        <seg>その後、もしあれば、相手のクラフトアイテムボックスから、アイテム1つを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, take one move without exhausting &lt;boot&gt;, even if you move into a space with Nemesis players.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075623Z" creationid="aorin" creationdate="20171216T075619Z">
@@ -47537,6 +47617,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000600Z" creationid="aorin" creationdate="20171216T000600Z">
         <seg>その後、あなたは自身の手札上限5枚までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you may draw two cards from the deck, or you may score one victory point per quest of this suit that you have completed, including this one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161207Z" creationid="nakahodo" creationdate="20180702T161207Z">
+        <seg>その後、共通デッキからカード2枚をドローするか、今回達成したクエストと同じスートのクエスト1つごとに、1勝利点を得点します（今回達成したクエストも得点に含みます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59169,6 +59257,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Aid:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153038Z" creationid="nakahodo" creationdate="20180702T153038Z">
+        <seg>»»	援助：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» Battle:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051726Z" creationid="nakahodo" creationdate="20180701T051726Z">
@@ -59189,6 +59285,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T104642Z" creationid="nakahodo" creationdate="20180702T104642Z">
         <seg>»»	クラフト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Explore:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152942Z" creationid="nakahodo" creationdate="20180702T152942Z">
+        <seg>»»	探索：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59265,6 +59369,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Quest:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153305Z" creationid="nakahodo" creationdate="20180702T153305Z">
+        <seg>»»	クエスト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» Recruit:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051810Z" creationid="nakahodo" creationdate="20180701T051810Z">
@@ -59285,6 +59397,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T103437Z" creationid="nakahodo" creationdate="20180702T103437Z">
         <seg>»»	支援者カードの消費：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Strike:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152825Z" creationid="nakahodo" creationdate="20180702T152747Z">
+        <seg>»»	強襲：</seg>
       </tuv>
     </tu>
     <tu>
