@@ -10519,6 +10519,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Vagabond improves his relationships with other factions, or removes pieces of factions hostile toward him, he scores victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151019Z" creationid="nakahodo" creationdate="20180702T151019Z">
+        <seg>ヴァガボンドは他派閥との関係性を改善したり、敵対派閥のピースを取りのくことで、勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the attacker, they take the higher result.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045210Z" creationid="nakahodo" creationdate="20180701T045158Z">
@@ -10715,6 +10723,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T060450Z" creationid="nakahodo" creationdate="20180601T060443Z">
         <seg>あなたのターン中はいつでも、ステータストラックにヒーローキューブを配置することで、ステータス（感知力、移動力、筋力）を上昇させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At any time, an item can be damaged or undamaged, and an undamaged item can be either face up or down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151612Z" creationid="nakahodo" creationdate="20180702T151456Z">
+        <seg>アイテムは破損か未破損の状態があり、かつ、未破損アイテムは表と裏向きの状態があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12250,6 +12266,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141507Z" creationid="aorin" creationdate="20180528T141503Z">
         <seg>ターンを開始する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Being a Lone Wanderer, the Vagabond cannot rule a clearing or stop another player from ruling one, but he is Nimble, so he can move regardless of who rules his clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151210Z" creationid="nakahodo" creationdate="20180702T151210Z">
+        <seg>孤独な放浪者であるヴァガボンドは区域を支配することはなく、他プレイヤーが区域を支配するのを止めることは出来ませんが、同時に機敏でもあります。ヴァガボンドはその区域を誰が支配しているのか関係なく移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19468,6 +19492,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, they organize, removing one of their warriors to place a sympathy token in the mouse clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150746Z" creationid="nakahodo" creationdate="20180702T150711Z">
+        <seg>最後に、整理を選択し、ネズミ区域の戦士たちのうち1体を取り除き、賛同トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, three Unique Units can be used during the Reinforcement stage:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T002142Z" creationid="aorin" creationdate="20180115T002142Z">
@@ -19646,8 +19678,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>First, they choose to recruit, placing a warrior at their fox base.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150636Z" creationid="nakahodo" creationdate="20180702T150636Z">
-        <seg>まず、雇用を選択肢、自身のキツネ基地に戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150715Z" creationid="nakahodo" creationdate="20180702T150636Z">
+        <seg>まず、雇用を選択し、自身のキツネ基地に戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29325,6 +29357,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151316Z" creationid="nakahodo" creationdate="20180702T151316Z">
+        <seg>アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items on the Vagabond’s faction board can be face up, face down, or damaged.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203937Z" creationid="nakahodo" creationdate="20180629T203937Z">
@@ -31484,6 +31524,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T093753Z" creationid="nakahodo" creationdate="20180702T093753Z">
         <seg>次に、ウサギ区域1つから、少なくとも戦士1体を移動させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, they move two warriors to an adjacent mouse clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150659Z" creationid="nakahodo" creationdate="20180702T150659Z">
+        <seg>次に、隣接するネズミ区域に戦士たち2体を移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44527,6 +44575,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond only has one piece:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151226Z" creationid="nakahodo" creationdate="20180702T151219Z">
+        <seg>ヴァガボンドはピース1つのみを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond pawn cannot be removed from the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T202343Z" creationid="nakahodo" creationdate="20180629T202343Z">
@@ -44547,6 +44603,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T161836Z" creationid="nakahodo" creationdate="20180630T161836Z">
         <seg>ヴァガボンドアイテムを消耗させることでサービスの支払いをします。そうしてアイテム1つを消耗させるごとに、リバーフォークは支払いボックスに自身の戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond plays all sides of the conflict, making friends and enemies as suit his ends, while going on quests to increase his renown throughout the wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150823Z" creationid="nakahodo" creationdate="20180702T150823Z">
+        <seg>ヴァガボンドは紛争の当事者たち、その全てを演じ、目的により友軍と敵の服を着こなし、ウッドランドでの名声を高めるため目的のために行動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48936,6 +49000,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This pawn can move and battle just like a warrior, but it is not a warrior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151313Z" creationid="nakahodo" creationdate="20180702T151313Z">
+        <seg>このポーンは戦士のように移動したり戦闘したりできますが、明確に戦士というわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This phase has two steps in the following order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195333Z" creationid="nakahodo" creationdate="20180629T195333Z">
@@ -49441,6 +49513,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105814Z" creationid="nakahodo" creationdate="20180108T105814Z">
         <seg>ネタバレを最小限に抑えるために、意図的に曖昧な記述をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move and act effectively as the Vagabond, you must manage your items, expanding your selection by exploring the Woodland’s ruins and providing aid to other factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151451Z" creationid="nakahodo" creationdate="20180702T151451Z">
+        <seg>効果的に移動と行動を行うために、あなたは自身のアイテムを管理し、ウッドランドの遺跡を探索をしたり、他派閥を補助することで選択肢を広げていきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54490,6 +54570,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can exhaust an undamaged face-up item to perform an action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151457Z" creationid="nakahodo" creationdate="20180702T151457Z">
+        <seg>、You can exhaust an undamaged face-up item to perform an action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can exhaust items to take the following actions, in any order and combination.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T083020Z" creationid="nakahodo" creationdate="20180630T083020Z">
@@ -58342,6 +58430,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T105609Z" creationid="aorin" creationdate="20171212T105609Z">
         <seg>一時的な優位性アクション）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Vagabond pawn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151224Z" creationid="nakahodo" creationdate="20180702T151224Z">
+        <seg>ヴァガボンドポーン。</seg>
       </tuv>
     </tu>
     <tu>
