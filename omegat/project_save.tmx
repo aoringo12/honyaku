@@ -35149,6 +35149,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placing sympathy is the main way you score victory points, and sympathy can gain you more supporters through Outrage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T100554Z" creationid="nakahodo" creationdate="20180702T100453Z">
+        <seg>賛同トークンは多くの方法で勝利点を特典し、暴動を通してより多くの支援者カードをあなたに提供しまますます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plan</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T071931Z" creationid="nakahodo" creationdate="20171209T071931Z">
@@ -40903,8 +40911,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Supporters are separate from your hand of cards, and you can only spend supporters for their suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T095400Z" creationid="nakahodo" creationdate="20180702T095400Z">
-        <seg>支援者はあなたの手札から消費され、そのスートの支援者のみ消費できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T100502Z" creationid="nakahodo" creationdate="20180702T095400Z">
+        <seg>支援者カードはあなたの手札から消費され、そのスートの支援者カードのみ消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52546,6 +52554,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003421Z" creationid="aorin" creationdate="20171216T003421Z">
         <seg>改良にて勝利点を得点するたびに、勝利点を二倍得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever another player removes a sympathy token or moves any warriors into a clearing with a sympathy token, they must add a card from their hand matching that clearing to your Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101601Z" creationid="nakahodo" creationdate="20180702T101601Z">
+        <seg>他プレイヤーが賛同トークン1つを取り除くか、賛同トークンのある区域にいずれかの戦士を移動させるたびに、そのプレイヤーは対象区域に一致するスートのカードを、そのプレイヤーの手札からあなたの支援者デッキに追加する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
