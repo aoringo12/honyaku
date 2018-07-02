@@ -59699,8 +59699,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>»» The Vagabond pawn is not a warrior, so you can’t rule and you are not affected by effects that refer to warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163909Z" creationid="nakahodo" creationdate="20180702T163909Z">
-        <seg>»»	</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T170639Z" creationid="nakahodo" creationdate="20180702T163909Z">
+        <seg>»»	ヴァガボンドポーンは戦士ではありませんので、区域を支配できず、戦士を指定する効果の影響をうけません。</seg>
       </tuv>
     </tu>
     <tu>
