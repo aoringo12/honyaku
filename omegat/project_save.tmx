@@ -9291,6 +9291,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you finish military operations, draw one card plus one per uncovered draw bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150246Z" creationid="nakahodo" creationdate="20180702T150104Z">
+        <seg>軍事作戦アクションを全て終了した後、共通デッキから手札にカード1枚をドローします。さらに、派閥ボードの覆われていないドローボーナス1つごとに、追加でカード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you finish moving the Skeleton, it may perform one of the following actions:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T134954Z" creationid="nakahodo" creationdate="20180603T134954Z">
@@ -19636,6 +19644,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, they choose to recruit, placing a warrior at their fox base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150636Z" creationid="nakahodo" creationdate="20180702T150636Z">
+        <seg>まず、雇用を選択肢、自身のキツネ基地に戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you can craft any cards in your hand using workshops.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051354Z" creationid="nakahodo" creationdate="20180701T051354Z">
@@ -29133,6 +29149,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is now the start of Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150532Z" creationid="nakahodo" creationdate="20180702T150532Z">
+        <seg>夜フェイズを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible that one of your opponents, earlier in turn order, kills all your units in a contested tile during their Reinforcement stage (through use of a Unique Unit, for example).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064746Z" creationid="aorin" creationdate="20180115T064746Z">
@@ -30760,6 +30784,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045058Z" creationid="aorin" creationdate="20171213T045058Z">
         <seg>慈悲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Military Operations Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150304Z" creationid="nakahodo" creationdate="20180702T150304Z">
+        <seg>軍事作戦アクションの例</seg>
       </tuv>
     </tu>
     <tu>
@@ -34221,6 +34253,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a warrior in a clearing with a base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150015Z" creationid="nakahodo" creationdate="20180702T150015Z">
+        <seg>基地のある区域1つに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a warrior in a matching clearing with a roost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T060131Z" creationid="nakahodo" creationdate="20180701T060131Z">
@@ -37160,6 +37200,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove one of your warriors from an unsympathetic clearing to place a sympathy token there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150048Z" creationid="nakahodo" creationdate="20180702T150048Z">
+        <seg>非賛同区域から戦士1体を取り除き、そこに賛同トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove one of your warriors from an unsympathetic clearing, place a sympathy token there, and score the victory points listed on the space revealed on your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T195921Z">
@@ -38566,6 +38614,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T091227Z" creationid="nakahodo" creationdate="20180630T091227Z">
         <seg>今回達成したクエストも含み、一致する民のこれまでに達成したクエスト1つごとに、1勝利点を得点します。つまり、特定の民のクエストを多く達成するほど、勝利点を多く得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score the revealed victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150115Z" creationid="nakahodo" creationdate="20180702T150104Z">
+        <seg>この時に派閥ボードの賛同トークンがあった場所の公開された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41979,6 +42035,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T183931Z">
         <seg>連合は賛同トークン10個を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alliance has three officers, so they can Officers perform three operations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150600Z" creationid="nakahodo" creationdate="20180702T150600Z">
+        <seg>連合派閥は将校3体を持ちますので、作戦アクションを3回実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49021,6 +49085,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This warrior is now an officer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145621Z" creationid="nakahodo" creationdate="20180702T145621Z">
+        <seg>この戦士は将校になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will let you unlock the crate shown on your constructed building card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031539Z" creationid="nakahodo" creationdate="20171224T142453Z">
@@ -49708,6 +49780,14 @@ side to place face-up on the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053633Z" creationid="aorin" creationdate="20171216T053633Z">
         <seg>訓練</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training officers will also let you recruit new warriors and place sympathy tokens without spending supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145915Z" creationid="nakahodo" creationdate="20180702T145915Z">
+        <seg>将校のトレーニングは、支援者カードを消費することなく、賛同トークンを配置したり、新しい戦士たちを雇用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53890,6 +53970,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Without officers, you can’t move or battle with your warriors!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145747Z" creationid="nakahodo" creationdate="20180702T145738Z">
+        <seg>将校がいないと、あなたの戦士たちは移動や戦闘ができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Without warning, that player's spirit is forcibly removed from their body.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T071255Z" creationid="nakahodo" creationdate="20171230T071255Z">
@@ -56050,6 +56138,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may take these military operations, up to your number of officers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145946Z" creationid="nakahodo" creationdate="20180702T145946Z">
+        <seg>あなたは、自身の将校たちの数まで、これら軍事的作戦アクションを実行することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may take this action only once per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051822Z" creationid="nakahodo" creationdate="20180701T051822Z">
@@ -57361,6 +57457,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T151152Z" creationid="nakahodo" creationdate="20180604T151152Z">
         <seg>あなたの移動力とパワーはその形態によって大きく変化するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your officers determine the number of military operations you can take during Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145653Z" creationid="nakahodo" creationdate="20180702T145648Z">
+        <seg>将校は夜時に実行できる軍事的作戦の回数を決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58989,6 +59093,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T092718Z" creationid="nakahodo" creationdate="20180702T092718Z">
         <seg>»»	次に、リーダーが退位します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Organize:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150021Z" creationid="nakahodo" creationdate="20180702T150021Z">
+        <seg>»»	整理。</seg>
       </tuv>
     </tu>
     <tu>
