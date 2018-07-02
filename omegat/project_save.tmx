@@ -12092,6 +12092,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battling as the Vagabond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163835Z" creationid="nakahodo" creationdate="20180702T163835Z">
+        <seg>ヴァガボンドの戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be prepared to only keep 1 of each after game 2!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042048Z" creationid="nakahodo" creationdate="20171224T204927Z">
@@ -12178,6 +12186,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T110927Z" creationid="nakahodo" creationdate="20180411T091431Z">
         <seg>なぜなたら、攻撃の後に強制テレポートするからで、そうなるとあなたはタイルのマーキングやトレジャーの収集ができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because you don’t have warriors, you follow a few different rules in battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163903Z" creationid="nakahodo" creationdate="20180702T163903Z">
+        <seg>あなたは戦士たちを保有していないので、次のように少し異なる戦闘ルールに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22164,8 +22180,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>He decides to aid three times.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163701Z" creationid="nakahodo" creationdate="20180702T163701Z">
-        <seg>He decides to aid three times.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163741Z" creationid="nakahodo" creationdate="20180702T163701Z">
+        <seg>3回援助することに決定しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44783,6 +44799,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond advances the Eyrie marker two spaces and scores three victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163825Z" creationid="nakahodo" creationdate="20180702T163825Z">
+        <seg>ヴァガボンドは鷲マーカーを2スペース前進させ、3勝利点を得点しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond can move regardless of who rules his origin or destination clearing (3.2.1).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203223Z" creationid="nakahodo" creationdate="20180629T203223Z">
@@ -59669,6 +59693,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T152825Z" creationid="nakahodo" creationdate="20180702T152747Z">
         <seg>»»	強襲：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» The Vagabond pawn is not a warrior, so you can’t rule and you are not affected by effects that refer to warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163909Z" creationid="nakahodo" creationdate="20180702T163909Z">
+        <seg>»»	</seg>
       </tuv>
     </tu>
     <tu>
