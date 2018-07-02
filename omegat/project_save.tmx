@@ -8330,6 +8330,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATher a long and fruitful relationship with the Marquise, the Vagabond is ready to betray his friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T193738Z" creationid="nakahodo" creationdate="20180702T193738Z">
+        <seg>これまでのマルキストとの関係性のやりとりにより、ヴァガボンドとマルキスは有効的な関係を気づけています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOMA DECK:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T090413Z" creationid="nakahodo" creationdate="20180108T090413Z">
@@ -22232,6 +22240,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T093827Z" creationid="nakahodo" creationdate="20171230T093827Z">
         <seg>王はあなたたちから村の支配を奪うために彼自身がその上に立った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He has two face-up swords in his Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T192855Z" creationid="nakahodo" creationdate="20180702T192527Z">
+        <seg>ヴァガボンドはカバンに表向きの剣2つを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44841,8 +44857,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Vagabond is in a clearing with three Marquise warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T192525Z" creationid="nakahodo" creationdate="20180702T192525Z">
-        <seg>ヴァガボンドはまるきすの戦士3体がいる区域にいます、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T192530Z" creationid="nakahodo" creationdate="20180702T192525Z">
+        <seg>ヴァガボンドはまるきすの戦士3体がいる区域にいます。</seg>
       </tuv>
     </tu>
     <tu>
