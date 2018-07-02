@@ -27195,6 +27195,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have no undamaged items, you ignore further hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T175050Z" creationid="nakahodo" creationdate="20180702T174722Z">
+        <seg>破損</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have no warriors, you must remove one of your other pieces of your choice from the affected clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151044Z" creationid="aorin" creationdate="20171215T151044Z">
@@ -59741,6 +59749,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T145340Z" creationid="nakahodo" creationdate="20180702T145340Z">
         <seg>8.5.2	訓練。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» You take hits by damaging items of your choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T174753Z" creationid="nakahodo" creationdate="20180702T174721Z">
+        <seg>»»	あなたが受けるダメージの数だけ、あなたが選択してアイテムを破損させます。</seg>
       </tuv>
     </tu>
     <tu>
