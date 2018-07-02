@@ -8483,6 +8483,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a card to the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145442Z" creationid="nakahodo" creationdate="20180702T145442Z">
+        <seg>支援者スタックにあなたの手札からカード1枚を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add any modifiers from Room abilities or Spells.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214713Z" creationid="aorin" creationdate="20180528T214713Z">
@@ -40418,6 +40426,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend a card whose suit matches a built base to place a warrior in the Officers box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145605Z" creationid="nakahodo" creationdate="20180702T145605Z">
+        <seg>建築された基地のスートに一致する、カード1枚を手札から消費することで、将校ボックスに戦士1つを配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend a fox, rabbit, or mouse card to place a supporter in the matching forest nation box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053544Z" creationid="aorin" creationdate="20171216T053544Z">
@@ -59021,6 +59037,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T092723Z" creationid="nakahodo" creationdate="20180702T092614Z">
         <seg>»»	その後、法定は解散します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Train:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T145340Z" creationid="nakahodo" creationdate="20180702T145340Z">
+        <seg>8.5.2	訓練。</seg>
       </tuv>
     </tu>
     <tu>
