@@ -17621,6 +17621,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each clearing may have only one trade post.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203001Z" creationid="nakahodo" creationdate="20180703T203001Z">
+        <seg>各区域は交易所を1つのみ持てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each clearing on the map has one to three slots, which hold buildings that players will place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T215049Z" creationid="nakahodo" creationdate="20180630T215026Z">
@@ -19254,6 +19262,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083214Z" creationid="aorin" creationdate="20171216T083214Z">
         <seg>探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203058Z" creationid="nakahodo" creationdate="20180703T203007Z">
+        <seg>輸出：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29472,6 +29488,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231151Z" creationid="aorin" creationdate="20180528T231151Z">
         <seg>これはつまり、負傷をソウルに変えることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of gaining a card’s listed crafting effect, you may discard the card and place a warrior in your Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203229Z" creationid="nakahodo" creationdate="20180703T203229Z">
+        <seg>カードに記述されたクラフト効果を得る代わりに、あなたはそのカードを捨て札にして、自身の支払いボックスに自身の戦士1体を配置できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41491,6 +41515,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend a fund to place a warrior in any clearing with a river.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202359Z" creationid="nakahodo" creationdate="20180703T202359Z">
+        <seg>1資金を消費することで、川を持つ任意の区域1つに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend an unrevealed card (placing it in the Lost Souls Pile) to score the victory points listed by the Gardens column of the rightmost empty space matching the card spent.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T185455Z" creationid="nakahodo" creationdate="20180703T185455Z">
@@ -41631,6 +41663,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T173242Z" creationid="nakahodo" creationdate="20180630T173242Z">
         <seg>選択した区域を支配しているプレイヤーと一致する、2資金を消費します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two funds to place a trade post and a warrior in a clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202452Z" creationid="nakahodo" creationdate="20180703T202452Z">
+        <seg>2資金を消費して、交易所1つと戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51120,6 +51160,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trade Disruption:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203237Z" creationid="nakahodo" creationdate="20180703T203237Z">
+        <seg>取引途絶：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade Tiles</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142443Z" creationid="nakahodo" creationdate="20171213T142433Z">
@@ -54356,6 +54404,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
         <seg>プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a trade post is removed, remove half of your funds and return that trade post to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203337Z" creationid="nakahodo" creationdate="20180703T203337Z">
+        <seg>取引所1つが取り除かれるたびに、あなたの資金が半分取り除かれ、その交易所はゲームボックスに戻されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58283,6 +58339,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must spend funds of the faction who rules the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203050Z" creationid="nakahodo" creationdate="20180703T202951Z">
+        <seg>あなたが選択できる区域は、消費する資金の派閥が支配する区域となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must spend supporters as shown by the cost on your Sympathy track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T103617Z" creationid="nakahodo" creationdate="20180702T103617Z">
@@ -60790,6 +60854,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T202326Z" creationid="nakahodo" creationdate="20180703T202232Z">
         <seg>»»	ドロー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Establish Trade Post with Garrison:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202432Z" creationid="nakahodo" creationdate="20180703T202432Z">
+        <seg>»» 駐屯地を持つ交易所を設置する：</seg>
       </tuv>
     </tu>
     <tu>
