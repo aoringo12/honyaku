@@ -10294,6 +10294,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any other player, at the start of their Birdsong, may buy one Riverfolk service plus another per clearing with a trade post and any of their pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195407Z" creationid="nakahodo" creationdate="20180703T195407Z">
+        <seg>任意の他プレイヤーは、自身の朝フェイズ開始時に、自身のピースがいる区域にある交易所の数に1を加えた数だけ、リバーフォークのサービスを購入できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any piece listed in a player’s components list.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223427Z" creationid="nakahodo" creationdate="20180531T223427Z">
@@ -16441,6 +16449,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T162558Z" creationid="nakahodo" creationdate="20180630T162558Z">
         <seg>このターン昼と夜フェイズ時、購入者はリバーフォークのピースを戦争と区域を支配するために、それらを自身の所有物として扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During Daylight and Evening of this turn, the buyer treats Riverfolk warriors as their own for rule and battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201142Z" creationid="nakahodo" creationdate="20180703T201142Z">
+        <seg>このターンの昼フェイズ時と夜フェイズ時、購入者はリバーフォークの戦士たちを自身のモノとして支配したり戦闘のために扱える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46019,6 +46035,22 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The buyer pays for services by taking warriors from their own supply and placing them in the Riverfolk’s Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T200042Z" creationid="nakahodo" creationdate="20180703T200042Z">
+        <seg>購入者はサービスに支払う戦士たちを、自身のサプライから取り、リバーフォークの支払いボックスに配置します（マップからではなくサプライから、であることに注意してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buyer takes a card from the Riverfolk’s hand and adds it to their hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T200100Z" creationid="nakahodo" creationdate="20180703T200100Z">
+        <seg>購入者はリバーフォークの手札から任意のカード1枚を取り、自身の手札としてそれを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The buyer takes any card from the Riverfolk's hand and adds it to their hand.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T162103Z" creationid="nakahodo" creationdate="20180630T162103Z">
@@ -49416,6 +49448,14 @@ either the Place or Pass action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T201721Z" creationid="nakahodo" creationdate="20180630T201721Z">
         <seg>鷲はウッドランドの止まり木を建築し、保護することで各ターンで得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They set the costs of their services during their Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195255Z" creationid="nakahodo" creationdate="20180703T195255Z">
+        <seg>夜フェイズ時に提供するサービスのコストを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60658,10 +60698,26 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Hand Card:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T200048Z" creationid="nakahodo" creationdate="20180703T200048Z">
+        <seg>»»	手札：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» March:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051741Z" creationid="nakahodo" creationdate="20180701T051741Z">
         <seg>»»	マーチ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Mercenaries:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T200136Z" creationid="nakahodo" creationdate="20180703T200136Z">
+        <seg>»»	傭兵：</seg>
       </tuv>
     </tu>
     <tu>
@@ -60734,6 +60790,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102330Z" creationid="nakahodo" creationdate="20180702T102330Z">
         <seg>»»	反乱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Riverboats:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T200116Z" creationid="nakahodo" creationdate="20180703T200116Z">
+        <seg>»»	リバーボード：</seg>
       </tuv>
     </tu>
     <tu>
