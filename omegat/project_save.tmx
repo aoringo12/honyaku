@@ -7574,6 +7574,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Vagabond can even form a coalition with a Hostile faction!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114447Z" creationid="nakahodo" creationdate="20180703T114447Z">
+        <seg>ヴァガボンドは敵対派閥とも同盟を結成できます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battle has four steps:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221326Z" creationid="aorin" creationdate="20171215T221314Z">
@@ -24434,6 +24442,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If doing so, the Vagabond moves his partner’s relationship marker to the Indifferent space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114522Z" creationid="nakahodo" creationdate="20180703T114522Z">
+        <seg>そうした場合、ヴァガボンドは同盟派閥の関係性マーカーを無関心スペースへと移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If either or both tiles are occupied, you can only move them half the number of spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T184011Z" creationid="nakahodo" creationdate="20180604T184011Z">
@@ -32100,6 +32116,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, the Vagabond will share the victory if that player wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114435Z" creationid="nakahodo" creationdate="20180703T114435Z">
+        <seg>現在より、ヴァガボンドの勝利条件は「そのプレイヤーが勝利する」になり、共有することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, with the aid of gorgeous, multi-use cards, a truly asymmetric design has never been more accessible.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154311Z" creationid="nakahodo" creationdate="20171103T154311Z">
@@ -38552,6 +38576,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root can be played with many combinations of factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T120351Z" creationid="nakahodo" creationdate="20180703T120351Z">
+        <seg>ルートは多くの派閥組み合わせによってプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root contains two rulebooks, this rules reference and a learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171209T064515Z" creationid="nakahodo" creationdate="20171209T064515Z">
@@ -38967,6 +38999,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074911Z" creationid="aorin" creationdate="20180410T074840Z">
         <seg>スカヴェンジャー（イージー）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scenarios</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114525Z" creationid="nakahodo" creationdate="20180703T114525Z">
+        <seg>シナリオ</seg>
       </tuv>
     </tu>
     <tu>
