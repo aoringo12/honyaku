@@ -33335,6 +33335,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other combinations are possible but may be more fragile and thus require experienced, aggressive players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T120842Z" creationid="nakahodo" creationdate="20180703T120600Z">
+        <seg>他の組み合わせは可能ですが、崩壊しやすく、経験豊富でアグレッシブなプレイヤーたちでプレイされる必要があるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other notes</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T152236Z" creationid="nakahodo" creationdate="20171230T152236Z">
@@ -45843,6 +45851,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following list is not exhaustive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T120608Z" creationid="nakahodo" creationdate="20180703T120531Z">
+        <seg>次のリストは完璧なものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following rules apply:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123020Z" creationid="aorin" creationdate="20171212T123020Z">
@@ -47381,6 +47397,14 @@ from Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T144249Z" creationid="aorin" creationdate="20180528T144249Z">
         <seg>ターンが終了し、新しいターンが開始されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two player game is also best played over the course of two full games (each takes about 30-45 minutes).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T124006Z" creationid="nakahodo" creationdate="20180703T124006Z">
+        <seg>2プレイヤーゲームは</seg>
       </tuv>
     </tu>
     <tu>
@@ -51874,6 +51898,14 @@ COMPONENTS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We offer some recommended mixes (marked with a torch) as ideal ways to introduce the game to new players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T120943Z" creationid="nakahodo" creationdate="20180703T120943Z">
+        <seg>我々は初心者がゲームへと理想的に導入して楽しめるように、理想的な組み合わせを提供します（トーチアイコン）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We recommend that the same people play the entire Charterstone campaign.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142826Z" creationid="nakahodo" creationdate="20171218T142738Z">
@@ -52656,6 +52688,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T075910Z" creationid="aorin" creationdate="20180410T075910Z">
         <seg>バイルグールをプレイする時、特に記載がない限り、グールのルールに全て従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When playing with two players, do not use the dominance cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T121003Z" creationid="nakahodo" creationdate="20180703T121003Z">
+        <seg>2人プレイヤーでのゲームでは、ドミナンスカードを使用しません。</seg>
       </tuv>
     </tu>
     <tu>
