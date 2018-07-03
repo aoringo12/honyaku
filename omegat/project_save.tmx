@@ -12494,6 +12494,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bird cards are not wild when performing rituals!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184839Z" creationid="nakahodo" creationdate="20180703T184839Z">
+        <seg>儀式を実行する時、鳥カードはワイルドではありません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birds Are Wild:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T223758Z" creationid="nakahodo" creationdate="20180630T223758Z">
@@ -22294,6 +22302,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024821Z" creationid="aorin" creationdate="20180408T024821Z">
         <seg>ハード：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hatred of Birds:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184810Z" creationid="nakahodo" creationdate="20180703T184810Z">
+        <seg>鳥たちの憎悪：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38447,6 +38463,30 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal a bird card to move a warrior from the map to the Acolytes box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185216Z" creationid="nakahodo" creationdate="20180703T185133Z">
+        <seg>鳥カード1枚を公開することで、マップから戦士1体を、派閥ボードのアコライトボックスに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal a card matching a clearing you rule to place a garden there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185057Z" creationid="nakahodo" creationdate="20180703T185057Z">
+        <seg>公開カードに一致する区域1つに庭園を配置し、そこを支配します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal a card to place a warrior in a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185121Z" creationid="nakahodo" creationdate="20180703T185121Z">
+        <seg>公開カードに一致する区1つに戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal all Dark tiles affected by the roll, with the selected space as the center.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092416Z" creationid="nakahodo" creationdate="20180413T092416Z">
@@ -38467,6 +38507,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T061701Z" creationid="nakahodo" creationdate="20180601T061701Z">
         <seg>ダークタイルの公開と解決（必須）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reveal any number of cards from your hand, and perform one ritual per card, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184905Z" creationid="nakahodo" creationdate="20180703T184905Z">
+        <seg>あなたの手札から任意の枚数のカードを公開し、次のように、カードごとに儀式1つを実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39544,6 +39592,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T225123Z" creationid="aorin" creationdate="20180407T225123Z">
         <seg>2つ目は、他のプレイヤーはメンタルブロックを仕掛けることが出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, they spend two acolytes to crusade with the warrior in the rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184639Z" creationid="nakahodo" creationdate="20180703T184602Z">
+        <seg>つぎに、アコライト2体を消費して、ウサギ区域の戦士たちにより改革運動を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56483,6 +56539,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot use revealed cards for any other purpose during Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185033Z" creationid="nakahodo" creationdate="20180703T185033Z">
+        <seg>昼フェイズ時、公開したカードは、他の目的のために使用はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot use the effects of Terror cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085401Z" creationid="nakahodo" creationdate="20180413T085401Z">
@@ -60123,6 +60187,22 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Marquise warrior is removed, and a Cult warrior is placed there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184527Z" creationid="nakahodo" creationdate="20180703T184527Z">
+        <seg>マルキスの戦士1体が取り除かれ、カルトの戦士1体がそこに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ey choose to move the warrior to an adjacent clearing and battle against the Marquise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184801Z" creationid="nakahodo" creationdate="20180703T184801Z">
+        <seg>戦士1体を選択して隣接区域に移動し、マルキスに対して戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>£D.Y other Room.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T113831Z" creationid="aorin" creationdate="20180528T113831Z">
@@ -60566,6 +60646,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102330Z" creationid="nakahodo" creationdate="20180702T102330Z">
         <seg>»»	反乱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Sacrifice:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185135Z" creationid="nakahodo" creationdate="20180703T185132Z">
+        <seg>»»	生贄：</seg>
       </tuv>
     </tu>
     <tu>
