@@ -14785,6 +14785,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crafting Pieces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174123Z" creationid="nakahodo" creationdate="20180703T174117Z">
+        <seg>クラフトピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a discard pile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152941Z" creationid="nakahodo" creationdate="20171218T152941Z">
@@ -22270,6 +22278,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093844Z" creationid="nakahodo" creationdate="20180209T093844Z">
         <seg>８体のワーカーすべてをボード上に配置する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have more questions?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174139Z" creationid="nakahodo" creationdate="20180703T174139Z">
+        <seg>さらに疑問がありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -37317,6 +37333,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T132956Z" creationid="nakahodo" creationdate="20180525T132956Z">
         <seg>アクティブ済ルームを再アクティブ化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read The Law of Root!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174150Z" creationid="nakahodo" creationdate="20180703T174150Z">
+        <seg>ルートの法律を読んでみてください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -59027,16 +59051,16 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>ey add to rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172728Z" creationid="nakahodo" creationdate="20180703T172712Z">
-        <seg>区域を支配できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174116Z" creationid="nakahodo" creationdate="20180703T172712Z">
+        <seg>区域の支配にカウントされます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>ey do not add to rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172817Z" creationid="nakahodo" creationdate="20180703T172811Z">
-        <seg>区域を支配できません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174110Z" creationid="nakahodo" creationdate="20180703T172811Z">
+        <seg>区域の支配にカウントされません。</seg>
       </tuv>
     </tu>
     <tu>
