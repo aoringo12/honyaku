@@ -11319,6 +11319,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of the Cult’s turn, the most common suit of Lost Souls sets the Outcast, the suit of clearings where the Cult can perform conspiracies with their acolytes for that turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182213Z" creationid="nakahodo" creationdate="20180703T182213Z">
+        <seg>カルトのターン開始時、ロストソウル山札の最も多い除け者のスートカードは、そのターンでカルトのアコライトが陰謀を実行する区域のスートを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of the game, each Artifact shows its side without the blue border.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T232443Z" creationid="aorin" creationdate="20180407T232443Z">
