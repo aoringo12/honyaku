@@ -13010,6 +13010,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buying a Service Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201201Z" creationid="nakahodo" creationdate="20180703T201201Z">
+        <seg>サービスを購入する例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By choosing this action, a player can exchange 1 of their Tiles with a Tile of the same type on the game board OR on an opponent’s player screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T075214Z" creationid="aorin" creationdate="20171213T075214Z">
@@ -16455,8 +16463,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>During Daylight and Evening of this turn, the buyer treats Riverfolk warriors as their own for rule and battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201142Z" creationid="nakahodo" creationdate="20180703T201142Z">
-        <seg>このターンの昼フェイズ時と夜フェイズ時、購入者はリバーフォークの戦士たちを自身のモノとして支配したり戦闘のために扱える。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201155Z" creationid="nakahodo" creationdate="20180703T201142Z">
+        <seg>このターンの昼フェイズ時と夜フェイズ時、購入者はリバーフォークの戦士たちを、自身の物として支配したり戦闘のために扱える。</seg>
       </tuv>
     </tu>
     <tu>
