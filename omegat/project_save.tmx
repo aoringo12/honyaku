@@ -10647,6 +10647,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the other factions purchase services, the Riverfolk will be able to further entrench their commercial interests by building trade posts across the forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T190126Z" creationid="nakahodo" creationdate="20180703T190126Z">
+        <seg>他の派閥がサービスを利用するにつれて、リバーフォークは森へと交易所を建築することにより、その商業利益をさらに確かなものにできると考えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the party finally winds down, a royal guard informs you that the king is ready to meet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T171228Z" creationid="nakahodo" creationdate="20171229T171228Z">
@@ -19756,6 +19764,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, draw one card plus one per uncovered draw bonus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T190118Z" creationid="nakahodo" creationdate="20180703T190118Z">
+        <seg>最後に、カード1枚をドローします。さらに、覆われていないドローボーナスごとに、カード1枚を追加でドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, end your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003138Z" creationid="aorin" creationdate="20171216T003138Z">
@@ -20274,6 +20290,14 @@ Bold Blend of white beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204748Z" creationid="nakahodo" creationdate="20171218T145912Z">
         <seg>rゲーム1でのみ、各プレイヤーは＄4から始まります。r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Sale:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195147Z" creationid="nakahodo" creationdate="20180703T195147Z">
+        <seg>販売：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38348,6 +38372,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return any revealed cards to your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185514Z" creationid="nakahodo" creationdate="20180703T185514Z">
+        <seg>あなたの手札に公開カードを全て戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return each set of ruin and item to an empty ruin slot on the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T074032Z" creationid="nakahodo" creationdate="20180630T074032Z">
@@ -41359,6 +41391,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053544Z" creationid="aorin" creationdate="20171216T053544Z">
         <seg>キツネ、ウサギ、マウスいずれかのカード1枚を消費して、一致する森の民ボックスにサポーターを1人配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend an unrevealed card (placing it in the Lost Souls Pile) to score the victory points listed by the Gardens column of the rightmost empty space matching the card spent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185455Z" creationid="nakahodo" creationdate="20180703T185455Z">
+        <seg>未公開カード1枚を消費すること（ロストソウル山札に配置する）で、派閥ボードの庭園列、消費したカードのスートに一致する最も右の空きスペースに記述されている勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44880,6 +44920,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Riverfolk are excellent Swimmers, so they treat rivers as paths, and they can move between clearings connected by a river regardless of who rules the origin or destination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T190224Z" creationid="nakahodo" creationdate="20180703T190224Z">
+        <seg>リバーフォークは生粋のスイマーですので、川を道として扱い、移動前と移動先区域を誰が支配しているかに関わらず、川にそって移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Riverfolk craft during Daylight by committing funds to empty spaces on the Trade Posts tracks of the nations on the crafting cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T153706Z" creationid="nakahodo" creationdate="20180630T153706Z">
@@ -46023,6 +46071,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T082141Z" creationid="nakahodo" creationdate="20180312T082141Z">
         <seg>ガーデンにある宝石を色ごとに数え、以下に従いあなたは寵愛の歯車を得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The construction of these posts is a viable way to score victory points, but so too are dividends they might gain from their wealth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T190152Z" creationid="nakahodo" creationdate="20180703T190152Z">
+        <seg>これら交易所は勝利点を得点するための手段であり、財産の備蓄でもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48546,6 +48602,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000600Z" creationid="aorin" creationdate="20171216T000600Z">
         <seg>その後、あなたは自身の手札上限5枚までカードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you may craft cards by activating gardens that match the Outcast suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T190104Z" creationid="nakahodo" creationdate="20180703T190104Z">
+        <seg>その後、除け者スートに一致する庭園を発動することでカードをクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60662,6 +60726,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T183745Z" creationid="nakahodo" creationdate="20180703T183720Z">
         <seg>»»	聖別：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Score:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185253Z" creationid="nakahodo" creationdate="20180703T185253Z">
+        <seg>»»	得点：</seg>
       </tuv>
     </tu>
     <tu>
