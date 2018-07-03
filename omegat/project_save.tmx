@@ -9219,6 +9219,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the first game, players should record their scores and trade factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T154145Z" creationid="nakahodo" creationdate="20180703T154145Z">
+        <seg>最初のゲームのあと、プレイヤーは自身の勝利点をそれぞれ記録します。その後、派閥を互いに交換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the highest-XP Boss processes all Heroes, the next highest-XP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T132419Z" creationid="nakahodo" creationdate="20180525T132419Z">
