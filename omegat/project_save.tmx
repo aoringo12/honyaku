@@ -22228,6 +22228,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He exhausts a sword to battle the Marquise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T083221Z" creationid="nakahodo" creationdate="20180703T083221Z">
+        <seg>ヴァガボンドは剣を消耗してマルキスへの戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He falls back, his body crumbling to dust.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T142106Z" creationid="nakahodo" creationdate="20171230T142106Z">
@@ -43105,6 +43113,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T093533Z" creationid="nakahodo" creationdate="20180702T093533Z">
         <seg>鷲の法令は雇用列に鳥とキツネカード1枚ずつを持ち、移動列にウサギカード1枚を持ち、戦闘列に鳥カード1枚を持ち、建築列に鳥カード1枚を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The First Battle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180702T193743Z" creationid="nakahodo" creationdate="20180702T193743Z">
+        <seg>最初の戦闘</seg>
       </tuv>
     </tu>
     <tu>
