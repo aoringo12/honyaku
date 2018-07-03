@@ -8394,6 +8394,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acolytes Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184318Z" creationid="nakahodo" creationdate="20180703T184318Z">
+        <seg>アコライトの例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acolytes can be gained by Revenge:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T182228Z" creationid="nakahodo" creationdate="20180703T182228Z">
@@ -11311,6 +11319,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of Birdsong, the Cult has four acolytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184344Z" creationid="nakahodo" creationdate="20180703T184344Z">
+        <seg>朝フェイズ開始時にて、カルトはアコライト4体を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of a possession turn, place the player piece (if any) of the possessed role on the map according to its setup rules for placement on its first turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021933Z" creationid="aorin" creationdate="20180408T021933Z">
@@ -12226,6 +12242,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102050Z" creationid="nakahodo" creationdate="20180702T101949Z">
         <seg>賛同トークンがあるので、鷲は連合の支援者デッキにキツネカード1枚を支払う必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of space concerns, the Lizard faction board sometimes uses the term “replace.” This should be understood to mean that a piece is removed and then placed for the purposes of triggering other special abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184314Z" creationid="nakahodo" creationdate="20180703T184314Z">
+        <seg>文字数の問題から、カルト派閥はしばしば「置き換え」という単語を使用します。これは、特別能力が発動することにより、そのピースを取り除いて配置することを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19984,6 +20008,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T150715Z" creationid="nakahodo" creationdate="20180702T150636Z">
         <seg>まず、雇用を選択し、自身のキツネ基地に戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, they spend two acolytes to convert the Marquise warrior in the rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184504Z" creationid="nakahodo" creationdate="20180703T184504Z">
+        <seg>まず、アコライト2体を消費して、ウサギ区域のマルキス戦士を転向させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37304,6 +37336,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rabbits are the Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184353Z" creationid="nakahodo" creationdate="20180703T184353Z">
+        <seg>ウサギが除け者になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Radiance and Upgrades</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T085212Z" creationid="nakahodo" creationdate="20180412T085212Z">
@@ -38062,6 +38102,14 @@ the game box.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T161203Z" creationid="nakahodo" creationdate="20180413T161156Z">
         <seg>Replacement Cards
 カードを入れ替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replacing Pieces:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184013Z" creationid="nakahodo" creationdate="20180703T184013Z">
+        <seg>ピースの置き換え：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41331,6 +41379,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend three acolytes to remove an enemy building from an Outcast clearing and then place a garden there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184005Z" creationid="nakahodo" creationdate="20180703T184005Z">
+        <seg>アコライト3体を消費することで、除け者区域1つから敵建物1つを取り除き、その後、そこに庭園1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend three cards of matching nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000140Z" creationid="aorin" creationdate="20171216T000140Z">
@@ -41373,8 +41429,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place a warrior there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183718Z" creationid="nakahodo" creationdate="20180703T183718Z">
-        <seg>アコライト2体を消費することで、除け者区域1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置いします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183722Z" creationid="nakahodo" creationdate="20180703T183718Z">
+        <seg>アコライト2体を消費することで、除け者区域1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60510,6 +60566,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102330Z" creationid="nakahodo" creationdate="20180702T102330Z">
         <seg>»»	反乱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Sanctify:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183745Z" creationid="nakahodo" creationdate="20180703T183720Z">
+        <seg>»»	聖別：</seg>
       </tuv>
     </tu>
     <tu>
