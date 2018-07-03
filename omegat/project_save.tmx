@@ -8394,6 +8394,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acolytes can be gained by Revenge:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182228Z" creationid="nakahodo" creationdate="20180703T182228Z">
+        <seg>アコライトはリベンジにより得ます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acquired Reward Points are used to move a player’s score marker towards or even beyond the 0 on the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T033021Z" creationid="aorin" creationdate="20171213T033021Z">
@@ -30701,6 +30709,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T153853Z" creationid="nakahodo" creationdate="20180603T153853Z">
         <seg>ロングボウ（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look at the cards in the Lost Souls pile, ignoring any bird cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182436Z" creationid="nakahodo" creationdate="20180703T182436Z">
+        <seg>ロストソウル山札の鳥カード以外のカードを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59911,6 +59927,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T043043Z" creationid="aorin" creationdate="20171213T043043Z">
         <seg>あなたがリソースを獲得するたびに、それらのいずれかを拒否することがはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whenever you remove a warrior defending in battle, you place it in your Acolytes box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182342Z" creationid="nakahodo" creationdate="20180703T182342Z">
+        <seg>カルトはディフェンダーでの戦闘で戦士1体を取り除くたびに、アコライトボックスにそれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
