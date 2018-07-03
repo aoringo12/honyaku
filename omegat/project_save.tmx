@@ -18834,6 +18834,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Establishing a Trade Post Example</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203355Z" creationid="nakahodo" creationdate="20180703T203355Z">
+        <seg>交易所設置の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even if an Automa should choose a revealed option on a guidepost, human players will choose on their behalf.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105034Z" creationid="nakahodo" creationdate="20180108T105034Z">
@@ -29798,6 +29806,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It cannot be rebuilt!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203347Z" creationid="nakahodo" creationdate="20180703T203347Z">
+        <seg>それはもう再建築できません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot deal damage, be deactivated, or be destroyed (more on these terms later).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104244Z" creationid="aorin" creationdate="20180526T104244Z">
@@ -31536,6 +31552,14 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T141240Z" creationid="nakahodo" creationdate="20180430T141215Z">
         <seg>Meat!
 にくぅ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical Marquise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203706Z" creationid="nakahodo" creationdate="20180703T203706Z">
+        <seg>メカニカルマルキス</seg>
       </tuv>
     </tu>
     <tu>
@@ -44744,6 +44768,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Mechanical Marquise is an automated player that can be used in two ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203724Z" creationid="nakahodo" creationdate="20180703T203724Z">
+        <seg>メカニカルマルキスは2つの方法で使用できるオートマプレイヤーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Middle Age covers turns 3-4.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T204909Z" creationid="aorin" creationdate="20180114T204909Z">
@@ -48794,6 +48826,14 @@ to stop.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T161207Z" creationid="nakahodo" creationdate="20180702T161207Z">
         <seg>その後、共通デッキからカード2枚をドローするか、今回達成したクエストと同じスートのクエスト1つごとに、1勝利点を得点します（今回達成したクエストも得点に含みます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you may set the costs for your three services by moving the service markers on your Services tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203702Z" creationid="nakahodo" creationdate="20180703T203702Z">
+        <seg>その後、自身のサービストラックのサービスマーカーを移動することで、それらサービスの価格コストを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59577,6 +59617,30 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Marquise rules, so the Riverfolk must spend two Marquise funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203540Z" creationid="nakahodo" creationdate="20180703T203540Z">
+        <seg>マルキスが支配していますので、リバーフォークはマルキス資金2つを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Riverfolk place a fox trade post with a warrior there, and score two victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203612Z" creationid="nakahodo" creationdate="20180703T203612Z">
+        <seg>リバーフォークはキツネ交易所1つを戦士1体とともにそこに配置し、2勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Riverfolk want to Funds establish a trade post in this fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203428Z" creationid="nakahodo" creationdate="20180703T203428Z">
+        <seg>リバーフォークは資金でこのキツネ区域に交易所を設置したいと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Vagabond can explore ruins to find items and empty their slots.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T173906Z" creationid="nakahodo" creationdate="20180703T173906Z">
@@ -60878,6 +60942,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T092759Z" creationid="nakahodo" creationdate="20180702T092759Z">
         <seg>»»	最後に、休息します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» First, it can replace a human Marquise player in a multiplayer competitive game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203725Z" creationid="nakahodo" creationdate="20180703T203725Z">
+        <seg>»» First, it can replace a human Marquise player in a multiplayer competitive game.</seg>
       </tuv>
     </tu>
     <tu>
