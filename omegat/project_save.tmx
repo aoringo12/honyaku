@@ -11367,6 +11367,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of the Eyrie’s Birdsong, the Eyrie can purchase up to two services because they have pieces in one clearing with a trade post.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201554Z" creationid="nakahodo" creationdate="20180703T201406Z">
+        <seg>鷲の朝フェイズの開始時にて、鷲は自身のピースがある区域の内、1箇所に交易所がありますので、サービス2つまでを購入できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of the game, each Artifact shows its side without the blue border.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T232443Z" creationid="aorin" creationdate="20180407T232443Z">
@@ -14424,6 +14432,30 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003521Z" creationid="aorin" creationdate="20171216T003521Z">
         <seg>コマンダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit a fund to draw a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202321Z" creationid="nakahodo" creationdate="20180703T202321Z">
+        <seg>1資金を委託することで、カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit a fund to initiate a battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202140Z" creationid="nakahodo" creationdate="20180703T202140Z">
+        <seg>1資金を委託することで、戦闘1回を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit a fund to take a move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202158Z" creationid="nakahodo" creationdate="20180703T202129Z">
+        <seg>1資金を委託することで、移動アクション1回を実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19816,6 +19848,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T161817Z" creationid="nakahodo" creationdate="20180702T161804Z">
         <seg>最後に、あなたのアイテム上限を上回って破損アイテムボックやカバンにアイテムを持っている場合、あなたのカバンからアイテム上限になるまでアイテムを取り除きます。アイテム上限は、基本の6に加えて、アイテムトラックのBごとに2増えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, move all warriors on your faction board to the Funds box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201956Z" creationid="nakahodo" creationdate="20180703T201956Z">
+        <seg>あなたの派閥ボード上の全ての戦士たちを、資金ボックスに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28142,6 +28182,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your Payments box is empty, place two warriors in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201732Z" creationid="nakahodo" creationdate="20180703T201732Z">
+        <seg>あなたの支払いボックスが空の場合、そこに自身の戦士たち2体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your Program Card's Program Die does not match any Sector Dice, the Program Die becomes wild and may represent any number.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T075119Z" creationid="nakahodo" creationdate="20180311T075119Z">
@@ -29424,6 +29472,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231151Z" creationid="aorin" creationdate="20180528T231151Z">
         <seg>これはつまり、負傷をソウルに変えることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of moving these warriors to the Commitments box, you must place them on empty spaces of the Trade Posts tracks matching the suits of the crafting cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202305Z" creationid="nakahodo" creationdate="20180703T202230Z">
+        <seg>委託ボックスに戦士を移動する代わりに、クラフトコストに記述されたスートに一致する、交易所トラックの空きスペースに戦士たちを配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31481,6 +31537,14 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T144339Z" creationid="nakahodo" creationdate="20180430T144327Z">
         <seg>Mercenaries
 傭兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mercenaries currently cost 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201614Z" creationid="nakahodo" creationdate="20180703T201407Z">
+        <seg>傭兵の購入コストは現在3です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48404,6 +48468,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, if you have any trade posts on the map, score one victory point per two funds (warriors in the Funds box).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201917Z" creationid="nakahodo" creationdate="20180703T201917Z">
+        <seg>その後、マップに交易所が1つでもある場合、資金（資金ボックスの戦士たち）2つごとに1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, if you have more than five cards in your hand, discard cards of your choice until you have five.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T150838Z" creationid="nakahodo" creationdate="20180629T150838Z">
@@ -53760,6 +53832,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you commit a fund, move the warrior to the Commitments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202119Z" creationid="nakahodo" creationdate="20180703T202119Z">
+        <seg>資金を委託する時、委託ボックスに戦士たちを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you commit a fund, move the warrior to the Committed box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T165209Z" creationid="nakahodo" creationdate="20180630T165209Z">
@@ -54020,6 +54100,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T165250Z" creationid="nakahodo" creationdate="20180630T165231Z">
         <seg>資金を消費する時、所有者のサプライに戦士を戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you spend a fund, return the warrior to its owner’s supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202056Z" creationid="nakahodo" creationdate="20180703T202056Z">
+        <seg>あなたが資金を消費する時、所有者のサプライに戦士たちを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55387,6 +55475,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With these mercenaries, the Eyrie rule the rabbit clearing, so they can build a roost there, assuming the right card is in the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201650Z" creationid="nakahodo" creationdate="20180703T201650Z">
+        <seg>With these mercenaries, the Eyrie rule the rabbit clearing, so they can build a roost there, assuming the right card is in the Decree.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With this action she decides to build.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T054514Z" creationid="nakahodo" creationdate="20180701T054458Z">
@@ -56287,6 +56383,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T104035Z" creationid="nakahodo" creationdate="20180430T104035Z">
         <seg>ストックできるトレジャーの最大数は、購入した悪巧みカードの数に等しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take action by spending and committing funds—warriors in your Funds box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202038Z" creationid="nakahodo" creationdate="20180703T202038Z">
+        <seg>あなたはアクションを実行するために、資金（資金ボックスの戦士たち）を消費するか委託することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59401,6 +59505,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Eyrie decide to buy them, so they move three warriors from their supply to the Riverfolk’s Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201645Z" creationid="nakahodo" creationdate="20180703T201645Z">
+        <seg>鷲はそれの購入を決定しましたので、自身のサプライから戦士たち3体を、リバーフォークの支払いボックスに移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Vagabond can explore ruins to find items and empty their slots.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T173906Z" creationid="nakahodo" creationdate="20180703T173906Z">
@@ -60670,6 +60782,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T182931Z" creationid="nakahodo" creationdate="20180703T182931Z">
         <seg>»»	改革運動：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Draw:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202326Z" creationid="nakahodo" creationdate="20180703T202232Z">
+        <seg>»»	ドロー：</seg>
       </tuv>
     </tu>
     <tu>
