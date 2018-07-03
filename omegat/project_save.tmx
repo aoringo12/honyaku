@@ -9581,6 +9581,14 @@ are returned to players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All factions can craft items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173536Z" creationid="nakahodo" creationdate="20180703T173536Z">
+        <seg>全ての派閥はアイテムをクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All income buildings have 1 influence token as part of their cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T165813Z" creationid="aorin" creationdate="20171228T165813Z">
@@ -29614,6 +29622,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not a warrior and does not add to rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174100Z" creationid="nakahodo" creationdate="20180703T174100Z">
+        <seg>戦士とはとは違い、区域の支配にカウントされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is now the Combat Phase and they need to make some decisions regarding reinforcement.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T071814Z" creationid="aorin" creationdate="20180115T071814Z">
@@ -29810,6 +29826,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203937Z" creationid="nakahodo" creationdate="20180629T203937Z">
         <seg>ヴァガボンドの派閥ボード上のアイテムの状態には、表向き、裏向き、破損があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items, which the Vagabond exhausts to take actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173529Z" creationid="nakahodo" creationdate="20180703T173529Z">
+        <seg>アイテム。ヴァガボンドがアクションを実行するために消耗させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38808,6 +38832,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ruins, which fill slots in clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173750Z" creationid="nakahodo" creationdate="20180703T173750Z">
+        <seg>遺跡。区域のスロットを満たします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rulebook</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144124Z" creationid="nakahodo" creationdate="20180525T144124Z">
@@ -45156,6 +45188,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T133918Z" creationid="nakahodo" creationdate="20180412T133918Z">
         <seg>ユニコーンのステータスは、明らかにされたクリスタルトラックで示されるように、明らかにされているクリスタルタイルによって上昇します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond Pawn, which can move around the map and battle pieces of other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173923Z" creationid="nakahodo" creationdate="20180703T173923Z">
+        <seg>ヴァガボンドポーン。マップに沿って移動し、他プレイヤーのピースに戦闘できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51768,6 +51808,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T095837Z" creationid="nakahodo" creationdate="20180629T095837Z">
         <seg>VO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173340Z" creationid="nakahodo" creationdate="20180703T173340Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -58933,6 +58981,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T204415Z" creationid="nakahodo" creationdate="20171224T204415Z">
         <seg>それ以外のものは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Vagabond can explore ruins to find items and empty their slots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173906Z" creationid="nakahodo" creationdate="20180703T173906Z">
+        <seg>ヴァガボンドは遺跡を探索してアイテムを探し、そのスロットを空にします。</seg>
       </tuv>
     </tu>
     <tu>
