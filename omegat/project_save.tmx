@@ -12866,6 +12866,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buildings, which start on faction boards and can be placed in empty slots in clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172750Z" creationid="nakahodo" creationdate="20180703T172725Z">
+        <seg>建物。派閥ボードから開始し、区域の空きスロットに配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buildings.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093418Z" creationid="nakahodo" creationdate="20180629T093418Z">
@@ -27212,6 +27220,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you feel a part of your game is missing or arrived damaged please contact us at our website (www.ledergames.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172417Z" creationid="nakahodo" creationdate="20180703T172417Z">
+        <seg>ゲームの一部が行方不明または破損していると感じた場合は、我々のウェブサイト（www.ledergames.com）かメール（support@ ledergames.com）で連絡してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you fly the complete pattern shown on the card, increase your Mold as listed on the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T191445Z" creationid="nakahodo" creationdate="20180604T191351Z">
@@ -31035,6 +31051,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Markers, which track things like victory points and the Vagabond’s relationships with other factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173332Z" creationid="nakahodo" creationdate="20180703T172814Z">
+        <seg>マーカー。勝利点やヴァガボンドの他派閥との関係性のように状態を追跡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marquise (1st player)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192013Z" creationid="nakahodo" creationdate="20180630T192013Z">
@@ -34230,6 +34254,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152513Z" creationid="aorin" creationdate="20171215T152513Z">
         <seg>ピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piece Glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172528Z" creationid="nakahodo" creationdate="20180703T172528Z">
+        <seg>ピース用語</seg>
       </tuv>
     </tu>
     <tu>
@@ -40743,6 +40775,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T090749Z" creationid="nakahodo" creationdate="20180629T090634Z">
         <seg>いくつかのスロットは最初から遺跡によって埋まっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes errors happen during manufacturing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172154Z" creationid="nakahodo" creationdate="20180703T172154Z">
+        <seg>製造時にエラーが発生することがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50504,6 +50544,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tokens, which can be placed in clearings but do not fill slots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172803Z" creationid="nakahodo" creationdate="20180703T172803Z">
+        <seg>トークン。区域に配置されますが、スロットを満たしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Too Crowded</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T151524Z" creationid="nakahodo" creationdate="20180108T151524Z">
@@ -52070,6 +52118,14 @@ COMPONENTS</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T151002Z" creationid="nakahodo" creationdate="20180430T151002Z">
         <seg>魔法使いのワンド
 このカードは5回のチャージを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warriors, which can move around the map and battle pieces of other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172657Z" creationid="nakahodo" creationdate="20180703T172657Z">
+        <seg>戦士たち。マップに沿って移動し、他プレイヤーのピースに戦闘できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58841,6 +58897,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>com) or email us at support@ ledergames.com and we will be happy to work with you to replace the missing piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172513Z" creationid="nakahodo" creationdate="20180703T172420Z">
+        <seg>不足しているものを取り替えるために協力したいと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contrary to the action phase, during the reward phase action spaces can only be occupied by Pixies, as the Action Discs were removed at the start of the Offering phase (III).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
@@ -58901,6 +58965,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185142Z" creationid="nakahodo" creationdate="20180630T185142Z">
         <seg>追加のヒットは戦士たちで制限されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ey add to rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172728Z" creationid="nakahodo" creationdate="20180703T172712Z">
+        <seg>区域を支配できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ey do not add to rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172817Z" creationid="nakahodo" creationdate="20180703T172811Z">
+        <seg>区域を支配できません。</seg>
       </tuv>
     </tu>
     <tu>
