@@ -23243,6 +23243,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this gentler approach makes movement and battle difficult, so these actions can only be undertaken by the most radicalized members of the Cult—their acolytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175530Z" creationid="nakahodo" creationdate="20180703T175530Z">
+        <seg>しかしながら、この緩やかなアプローチは、移動と戦闘を難しいものとします。なので、これらアクションはカルトの過激派メンバーによって実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, this gentler approach makes movement and combat operations difficult, and so these actions can only be undertaken by the most radicalized members of the Cult.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T113040Z" creationid="nakahodo" creationdate="20180630T113040Z">
@@ -38784,6 +38792,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root PNP (Final) Expansion Learn-to-Play Rulebook</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175433Z" creationid="nakahodo" creationdate="20180703T175433Z">
+        <seg>Root PNP (Final) Expansion Learn-to-Play Rulebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root can be played with many combinations of factions.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T120351Z" creationid="nakahodo" creationdate="20180703T120351Z">
@@ -46196,6 +46212,14 @@ includes four different AI opponents to play against.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The gardens of the Lizard Cult attract Pilgrims, so the Cult rules any clearings where they have gardens, even one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175950Z" creationid="nakahodo" creationdate="20180703T175950Z">
+        <seg>リザード・カルトの庭園は巡礼者を引きつけますので、カルトが庭園を持つ区域を支配します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal is to have the greatest fortune at the end of the game;</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093928Z" creationid="nakahodo" creationdate="20180209T093928Z">
@@ -49937,6 +49961,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This special ability trumps even the Eyrie’s Lords of the Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T180047Z" creationid="nakahodo" creationdate="20180703T180047Z">
+        <seg>この特別能力は鷲の「森の領主」よりも優先されmさう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This still might be named “Hostile” on the faction board.&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075312Z" creationid="aorin" creationdate="20171216T075312Z">
@@ -51299,6 +51331,14 @@ the most.</seg>
         <seg>Unless used for scoring, these cards are not spent and are returned to the Cult's hand during Evening.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T112852Z" creationid="nakahodo" creationdate="20180630T112852Z">
+        <seg>得点として使用されない限り、これらカードは消費されず、夜フェイズ時にカルトの手札へと返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless used for scoring, these cards are not spent and are returned to the Cult’s hand during Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175515Z" creationid="nakahodo" creationdate="20180703T175515Z">
         <seg>得点として使用されない限り、これらカードは消費されず、夜フェイズ時にカルトの手札へと返されます。</seg>
       </tuv>
     </tu>
@@ -53068,6 +53108,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the Cult is in play, spent and discarded cards are placed in the Cult’s Lost Souls pile rather than the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T181152Z" creationid="nakahodo" creationdate="20180703T181152Z">
+        <seg>カルトがゲームにいる時、消費され捨て札にされるカードは、共通捨て札山ではなく、カルトのロストソウル山札に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the Unicorn performs a Rampage, determine which player piece the Unicorn targets in the following order of priority:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T155030Z" creationid="nakahodo" creationdate="20180412T155030Z">
@@ -54747,6 +54795,14 @@ be added to the Blend Slate from the Fields.</seg>
         <seg>Where the Cult rule clearings, they can build gardens, which will further radicalize the animals that live there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T112547Z" creationid="nakahodo" creationdate="20180630T112348Z">
+        <seg>カルトが区域を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the Cult rules clearings, they can build gardens, which will further radicalize the animals that live there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175444Z" creationid="nakahodo" creationdate="20180703T175444Z">
         <seg>カルトが区域を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
       </tuv>
     </tu>
