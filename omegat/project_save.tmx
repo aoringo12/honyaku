@@ -39784,6 +39784,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195215Z" creationid="nakahodo" creationdate="20180703T195215Z">
+        <seg>サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Automa strength back to 3.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T154100Z" creationid="nakahodo" creationdate="20171230T154100Z">
@@ -44920,6 +44928,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Riverfolk Company is a commercial faction that offers services to the other players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195240Z" creationid="nakahodo" creationdate="20180703T195240Z">
+        <seg>リバーフォークカンパニーは他プレイヤーにサービスを提供する商業的な派閥です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Riverfolk are excellent Swimmers, so they treat rivers as paths, and they can move between clearings connected by a river regardless of who rules the origin or destination.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T190224Z" creationid="nakahodo" creationdate="20180703T190224Z">
@@ -44964,6 +44980,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T154020Z" creationid="nakahodo" creationdate="20180630T154020Z">
         <seg>リバーフォークは川を道として扱い、移動前と移動先区域を誰が支配しているかに関わらず、川にそって移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Riverfolk’s hand is always shown face up above their faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195210Z" creationid="nakahodo" creationdate="20180703T195210Z">
+        <seg>リバーフォークの手振でゃ常にあなたの派閥ボード上部に表向きで公開されます。</seg>
       </tuv>
     </tu>
     <tu>
