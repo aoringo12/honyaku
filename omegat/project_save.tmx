@@ -12262,6 +12262,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before playing on the winter map, take out the 12 suit markers, flip them face down, and shuffle them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171050Z" creationid="nakahodo" creationdate="20180703T171050Z">
+        <seg>Before playing on the winter map, take out the 12 suit markers, flip them face down, and shuffle them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before the Collapse, if he would Teleport to an open space, then add a Dark tile there, connect it to the map with the fewest possible Dark tiles (all Dark tiles are provided by the Cave player, if present), and then place the Unicorn piece there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T152938Z" creationid="nakahodo" creationdate="20180412T152938Z">
@@ -12590,6 +12598,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T043552Z" creationid="nakahodo" creationdate="20180701T043552Z">
         <seg>両プレイヤーは同時にピースを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both should watch out for dominance victory and not neglect developing their military strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170559Z" creationid="nakahodo" creationdate="20180703T170559Z">
+        <seg>ドミナンス勝利条件と軍事力拡大を無視しすぎないように注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22622,6 +22638,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, the Vagabond will have a natural friend in the Alliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170448Z" creationid="nakahodo" creationdate="20180703T170425Z">
+        <seg>ここでは、ヴァガボンドは連合と自然と友好関係を築くでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hero Deck with 25 cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144100Z" creationid="nakahodo" creationdate="20180525T144100Z">
@@ -25099,6 +25123,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T101605Z" creationid="aorin" creationdate="20180410T101605Z">
         <seg>ナイトが待ち伏せに殺された場合、バイルグールの勝利条件にカウントされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If she loses control, she will not easily regain it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170931Z" creationid="nakahodo" creationdate="20180703T170931Z">
+        <seg>マルキスが制御を失った場合、それを復旧するのは容易ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45248,6 +45280,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Winter Map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170936Z" creationid="nakahodo" creationdate="20180703T170936Z">
+        <seg>ウィンターマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Wolf moves, distracts, and defends like a Skeleton, but cannot attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T154133Z" creationid="nakahodo" creationdate="20180603T154133Z">
@@ -47143,6 +47183,14 @@ plus the desired Location’s cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T102600Z" creationid="nakahodo" creationdate="20180413T102600Z">
         <seg>あなたの選択した攻撃ダイスの結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reverse side of the autumn map is the winter map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170952Z" creationid="nakahodo" creationdate="20180703T170952Z">
+        <seg>裏側のマップはウィンターマップとなっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51654,8 +51702,8 @@ DRAGON</seg>
       <tuv lang="EN-US">
         <seg>Vagabond and Alliance alike must be careful to pick their friends and not create a situation that they cannot later control.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170346Z" creationid="nakahodo" creationdate="20180703T165212Z">
-        <seg>ヴァガボンドと連合はゲーム全体を、後に制御できない状況が作り出されないように注意しなければなりません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170436Z" creationid="nakahodo" creationdate="20180703T165212Z">
+        <seg>ヴァガボンドと連合はゲーム全体を見たり関係性を調整して、後に制御できない状況が作り出されないように注意しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54747,6 +54795,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the map brimming with interlopers, the Marquise must not neglect policing the Woodland in the hopes of scoring a few extra victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T170854Z" creationid="nakahodo" creationdate="20180703T170854Z">
+        <seg>侵入者が多くなるマップにて、マルキスはウッドランドの警備を怠らず、追加勝利点の得点を逃さないようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With this action she decides to build.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T054514Z" creationid="nakahodo" creationdate="20180701T054458Z">
@@ -55519,6 +55575,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T163417Z" creationid="nakahodo" creationdate="20180604T163417Z">
         <seg>蜘蛛の子1体がアクティブになっている時、その蜘蛛の子のためにパワーカードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can play any mix of factions on this map, but it is recommended only for experienced players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171024Z" creationid="nakahodo" creationdate="20180703T171024Z">
+        <seg>任意の派閥組み合わせでこのマップをプレイできますが、経験豊富なプレイヤーによるプレイを推奨します。</seg>
       </tuv>
     </tu>
     <tu>
