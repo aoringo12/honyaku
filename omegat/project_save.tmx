@@ -7494,6 +7494,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Note from Leder Games:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172125Z" creationid="nakahodo" creationdate="20180703T172125Z">
+        <seg>リーダーゲームからの注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Pit can hold only one Skeleton.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T133758Z" creationid="nakahodo" creationdate="20180603T133758Z">
@@ -7578,6 +7586,14 @@ order to be targeted by the Temp Agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T114447Z" creationid="nakahodo" creationdate="20180703T114447Z">
         <seg>ヴァガボンドは敵対派閥とも同盟を結成できます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171354Z" creationid="nakahodo" creationdate="20180703T171354Z">
+        <seg>注意</seg>
       </tuv>
     </tu>
     <tu>
@@ -8808,6 +8824,14 @@ their own Research Lab Ability Tracks!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T064503Z" creationid="aorin" creationdate="20180115T064503Z">
         <seg>プレイヤーガパスをした後、彼はそのターンにて追加の増強オーダーはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After a suit marker has been added to each clearing, flip them all over, and set up the game as normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171226Z" creationid="nakahodo" creationdate="20180703T171226Z">
+        <seg>各区域にスートマーカーを追加した後、これらを表替えして公開し、通常通りゲームをセットアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12264,8 +12288,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Before playing on the winter map, take out the 12 suit markers, flip them face down, and shuffle them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171050Z" creationid="nakahodo" creationdate="20180703T171050Z">
-        <seg>Before playing on the winter map, take out the 12 suit markers, flip them face down, and shuffle them.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171136Z" creationid="nakahodo" creationdate="20180703T171050Z">
+        <seg>ウィンターマップでプレイする前に、スートマーカー12個を取り、裏側にして混ぜます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29991,6 +30015,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the map’s geography in mind when picking factions, and understand that certain factions may gain new advantages and disadvantages in each possible layout.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171737Z" creationid="nakahodo" creationdate="20180703T171737Z">
+        <seg>派閥を選択する時にマップの地形を念頭に置き、特定派閥が有利、または不利になるかもしれないことを理解してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep the remaining cubes in a supply near your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T112815Z" creationid="aorin" creationdate="20180410T112815Z">
@@ -32098,6 +32130,14 @@ Corporate HQ and Tiebreakers.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note the different placement of ruins, as shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171250Z" creationid="nakahodo" creationdate="20180703T171250Z">
+        <seg>次のように、遺跡配置が異なることにちゅういしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T032015Z" creationid="aorin" creationdate="20171212T025228Z">
@@ -32473,6 +32513,22 @@ contains a red negative action.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T172855Z" creationid="aorin" creationdate="20171212T172855Z">
         <seg>最上段2段目からは、どのトラックからペナルティポイントをもはや受け取らなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the winter map, the randomness of clearing suits can introduce many new challenges to each faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171438Z" creationid="nakahodo" creationdate="20180703T171438Z">
+        <seg>ウィンターマップにて、ランダムな区域スートは各派閥に新たな挑戦を強いるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the winter map, the river divides forests as if it were a path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171350Z" creationid="nakahodo" creationdate="20180703T171350Z">
+        <seg>ウィンターマップでは、川が森を分断するように流れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44496,6 +44552,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Raging River</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171255Z" creationid="nakahodo" creationdate="20180703T171255Z">
+        <seg>荒れ狂う川</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Reinforcement stage is over and the battle is resolved.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072453Z" creationid="aorin" creationdate="20180115T072453Z">
@@ -47952,6 +48016,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T112756Z" creationid="aorin" creationdate="20180410T112756Z">
         <seg>その後、輝きトラックの12個のスペースにユニコーンキューブを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, place one suit marker near each clearing on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171151Z" creationid="nakahodo" creationdate="20180703T171052Z">
+        <seg>その後、マップの各区域近くにスートマーカー1つずつを配置します。</seg>
       </tuv>
     </tu>
     <tu>
