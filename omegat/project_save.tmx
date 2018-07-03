@@ -43967,6 +43967,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Marquise doesn’t play an ambush card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T083224Z" creationid="nakahodo" creationdate="20180703T083224Z">
+        <seg>The Marquise doesn’t play an ambush card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Marquise plays a bird ambush card!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T050322Z" creationid="nakahodo" creationdate="20180701T050318Z">
