@@ -9243,6 +9243,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the second game, each player should add their scores from both games to determine the winner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T154326Z" creationid="nakahodo" creationdate="20180703T154326Z">
+        <seg>2回目のゲームのあと、各プレイヤーは自身の勝利点をそれぞれ合計して、最終的な勝者を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After using a Program Boost, return it to any empty spot in the Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T200731Z" creationid="nakahodo" creationdate="20180311T200731Z">
@@ -19363,6 +19371,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eyrie versus Marquise is an ideal two-player learning game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T154412Z" creationid="nakahodo" creationdate="20180703T154412Z">
+        <seg>鷲対マルキスは2プレイヤーゲームでの学習に最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FACE-UP:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T152757Z" creationid="nakahodo" creationdate="20171218T152757Z">
@@ -22570,6 +22586,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T032345Z" creationid="aorin" creationdate="20180115T032345Z">
         <seg>これは、同じゲームのその後の例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here the Eyrie must be careful to build a Decree that can withstand the Vagabond’s nimble attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T155318Z" creationid="nakahodo" creationdate="20180703T155318Z">
+        <seg>鷲はヴァガボンドの機敏な攻撃に抵抗する法令を作るのに注意しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43181,6 +43205,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie must grow explosively to keep the Marquise in check.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T154525Z" creationid="nakahodo" creationdate="20180703T154525Z">
+        <seg>鷲はマルキスを制するために急速に成長する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie pay a bird card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102103Z" creationid="nakahodo" creationdate="20180702T102051Z">
@@ -48860,6 +48892,14 @@ either the Place or Pass action.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They will usually fare better against the Eyrie, but well-timed revolts and rapid mobilization can vex the Marquise as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T155100Z" creationid="nakahodo" creationdate="20180703T155100Z">
+        <seg>普段は鷲にとって程よいおやつですが、時期を見た反乱と急速な動員はマルキス同様イラつかせるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They work as Secrets cards, except that they cannot be used for their effects until they are purchased.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T102950Z" creationid="nakahodo" creationdate="20180430T102950Z">
@@ -50760,6 +50800,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T135125Z" creationid="aorin" creationdate="20180528T135125Z">
         <seg>2プレイヤー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-player Alliance games offer Alliance players a chance to hone their skills in difficult situations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T154731Z" creationid="nakahodo" creationdate="20180703T154731Z">
+        <seg>2プレイヤーゲームでの連合は、連合プレイヤーに厳しい状況でのプレイスキルを磨く機会を提供するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
