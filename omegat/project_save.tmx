@@ -19804,6 +19804,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, you can spend acolytes—warriors in your Acolytes box—to perform conspiracies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182851Z" creationid="nakahodo" creationdate="20180703T182825Z">
+        <seg>最後に、あなたはアコライト（アコライトボックスにいる戦士）を消費して、陰謀を実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, you gain 2 Grit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T064814Z" creationid="nakahodo" creationdate="20180601T064814Z">
@@ -25079,6 +25087,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If one suit has more cards than any other suit, that suit becomes the Outcast—move the outcast marker to the new suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182556Z" creationid="nakahodo" creationdate="20180703T182541Z">
+        <seg>最も多いカードのスート1種類の場合、そのスートが除け者になります。新たなスートに除け者マーカーを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If only 1 player offered Silver, they also offered the most Silver and thus advance 2 steps on the Silver track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T130503Z" creationid="aorin" creationdate="20171212T130503Z">
@@ -25395,6 +25411,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T144308Z" creationid="nakahodo" creationdate="20180630T144308Z">
         <seg>除け者の民が憎悪側であった場合、陰謀コストはアコライト1つ少なくなります。最小は0です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Outcast is Hated, all conspiracies cost one less acolyte.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182921Z" creationid="nakahodo" creationdate="20180703T182921Z">
+        <seg>除け者が憎悪側の場合、陰謀のコストはアコライト1体減少します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26470,6 +26494,14 @@ stack is first in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164656Z" creationid="aorin" creationdate="20171212T164656Z">
         <seg>アクションフェイズ（Ⅱ）時に昇進アクションを実行することでこれが発生する場合、次を行います：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this suit was already the Outcast, it becomes the Hated Outcast—flip the outcast marker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182718Z" creationid="nakahodo" creationdate="20180703T182552Z">
+        <seg>そのスートがすでに除け者dある場合、除け者マーカーを裏返して、憎悪した除け者になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41315,6 +41347,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend two acolytes to battle in an Outcast clearing or move from an Outcast clearing and then, if you wish, battle in the destination clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183315Z" creationid="nakahodo" creationdate="20180703T183143Z">
+        <seg>アコライト2体を消費することで、除け者区域で戦闘を開始する。または、除け者区域から移動1回を行い、その後、望むなら移動先区域で戦闘を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend two acolytes to initiate a battle in a clearing of the Outcast Nation, or may move from a clearing of the Outcast Nation and then may initiate a battle in the destination clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T144532Z" creationid="nakahodo" creationdate="20180630T144526Z">
@@ -41327,6 +41367,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T144644Z" creationid="nakahodo" creationdate="20180630T144619Z">
         <seg>アコライト2体を消費して、除け者の民の区域から敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place a warrior there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183718Z" creationid="nakahodo" creationdate="20180703T183718Z">
+        <seg>アコライト2体を消費することで、除け者区域1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置いします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48144,6 +48192,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T195814Z" creationid="nakahodo" creationdate="20180411T195754Z">
         <seg>その後、あなたのスペースに他プレイヤーピースが保持されていた場合、これを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, move all of the cards in the Lost Souls pile to the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182747Z" creationid="nakahodo" creationdate="20180703T182747Z">
+        <seg>その後、ロストソウル山札のカード全てを共通捨て札山に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60322,10 +60378,26 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» Convert:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183341Z" creationid="nakahodo" creationdate="20180703T183145Z">
+        <seg>»»	転向：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» Craft:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T104642Z" creationid="nakahodo" creationdate="20180702T104642Z">
         <seg>»»	クラフト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Crusade:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182931Z" creationid="nakahodo" creationdate="20180703T182931Z">
+        <seg>»»	改革運動：</seg>
       </tuv>
     </tu>
     <tu>
