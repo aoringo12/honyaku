@@ -20547,6 +20547,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the rest of the game, you can only win by meeting the victory condition listed on your activated dominance card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T113915Z" creationid="nakahodo" creationdate="20180703T113915Z">
+        <seg>残りのゲームにて、あなたは自身がアクティブにしたドミナンスカードに記述された勝利条件に一致した時にのみ、勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the rest of the game, you can only win by meeting the victory condition listed on your activated special victory card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232230Z" creationid="aorin" creationdate="20171215T232150Z">
@@ -20647,6 +20655,15 @@ and effects, see Appendix A on page 16.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082621Z" creationid="aorin" creationdate="20180409T082621Z">
         <seg>憑依デッキを通常どおり形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forming a Coalition as the Vagabond The Vagabond cannot rule clearings, but he can play a dominance card to form a coalition with the player other than himself with the lowest score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114203Z" creationid="nakahodo" creationdate="20180703T114039Z">
+        <seg>ヴァガボンドの同盟結成
+ヴァガボンドは区域を支配できませんが、ドミナンスカードをプレイして、自身以外で最も勝利点の低いプレイヤーと同盟を結成することができます（関係性による友軍とは違うことに注意してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26179,6 +26196,14 @@ stack is first in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T102704Z" creationid="nakahodo" creationdate="20171001T102704Z">
         <seg>タイの場合、右の例に示されるように、スタックの一番上プレイヤーがターン順番最初に行動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there’s a tie for lowest score, the Vagabond chooses which player to form a coalition with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114238Z" creationid="nakahodo" creationdate="20180703T114042Z">
+        <seg>最も勝利点の低いプレイヤーが複数いた場合、ヴァガボンドが同盟を組むプレイヤーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52363,6 +52388,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When forming a coalition, the Vagabond removes his score marker from the score track and places it on the faction board of that player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114337Z" creationid="nakahodo" creationdate="20180703T114337Z">
+        <seg>同盟を結成した時、ヴァガボンドは得点トラックから自身の勝利点マーカーを取り、同盟対象プレイヤーの派閥ボードにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When gained, M, S, C, F, and H are placed face up in the Vagabond's Satchel.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204453Z" creationid="nakahodo" creationdate="20180629T204433Z">
@@ -57977,6 +58010,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T100752Z" creationid="nakahodo" creationdate="20180430T100752Z">
         <seg>ナイトの筋力（や感知力）は依然として、対象の防御力と比較しヒットするのに十分である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your activated dominance card does not count against your hand size, and it cannot be removed from play or replaced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180703T113941Z" creationid="nakahodo" creationdate="20180703T113941Z">
+        <seg>発動したドミナンスカードは、手札としてカウントされず、ゲームプレイから取り除いたり、上書きすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
