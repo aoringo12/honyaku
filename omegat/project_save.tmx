@@ -13239,6 +13239,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But beware, the Alliance are experts in Guerrilla War:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163112Z" creationid="nakahodo" creationdate="20180719T163112Z">
+        <seg>だが、連合はゲリラ戦のエキスパートだ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But get ready to slam your brain into reverse, because Ultimate Troll is unique in that cards are not played from your hand.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T174451Z" creationid="nakahodo" creationdate="20180524T174241Z">
@@ -60872,6 +60880,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Eyrie Dynasties score points each turn based on how many roosts are on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163501Z" creationid="nakahodo" creationdate="20180719T163501Z">
+        <seg>鳥の王族はマップ上の止まり木に基づいて各ターンに勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Eyrie decide to buy them, so they move three warriors from their supply to the Riverfolk’s Payments box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T201645Z" creationid="nakahodo" creationdate="20180703T201645Z">
@@ -60924,6 +60940,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T160550Z" creationid="nakahodo" creationdate="20180719T160550Z">
         <seg>ウッドランド連合はマップに賛同者を配置することで得点し、彼らを多くすることでさらに得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e more roosts, the more they score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163522Z" creationid="nakahodo" creationdate="20180719T163522Z">
+        <seg>多くの止まり木は、より多く得点できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61550,6 +61574,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151405Z" creationid="aorin" creationdate="20171215T151405Z">
         <seg>これら効果は、空き地からどのコンポーネントを取り除くかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>they defend with the higher roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163136Z" creationid="nakahodo" creationdate="20180719T163136Z">
+        <seg>ディフェンダーの時に高い出目を得られる。</seg>
       </tuv>
     </tu>
     <tu>
