@@ -3672,6 +3672,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1–3 of one suit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072809Z" creationid="nakahodo" creationdate="20180719T072809Z">
+        <seg>1～3個のスート1種類：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T205742Z" creationid="nakahodo" creationdate="20171224T122746Z">
@@ -12212,6 +12220,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071755Z" creationid="nakahodo" creationdate="20180719T071755Z">
+        <seg>戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battles result when units of two or more races occupy the same map territory.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T001545Z" creationid="aorin" creationdate="20180115T001545Z">
@@ -20623,6 +20639,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each move, move all of your warriors except for three from the origin clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072411Z" creationid="nakahodo" creationdate="20180719T072342Z">
+        <seg>移動ごとに、移動元区画に3体を残した、それ以外の戦士たちの全てを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each of these disciplines, there are 3 different Discoveries corresponding to the 3 Ages of the game.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T151713Z" creationid="aorin" creationdate="20180115T151713Z">
@@ -24253,6 +24277,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a clearing has multiple enemy factions, choose the defender in this priority order:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071943Z" creationid="nakahodo" creationdate="20180719T071943Z">
+        <seg>区画に複数の敵派閥がいる場合、優先順位によってディフェンダーが決定されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a faction’s relationship marker reaches the final space on the Allied track, you are now trusted by the warriors of that faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T212837Z" creationid="nakahodo" creationdate="20180629T212837Z">
@@ -24994,6 +25026,14 @@ Cloud Port or Grandstand)</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T102914Z" creationid="nakahodo" creationdate="20171229T102914Z">
         <seg>何らかの理由で火が消える場合、誰のターンであるかを確認し、再度キャンドルに火をつけないでください。
 燃料不足危険トークンのある建物を使用する場合、あなたは直ちにキャンドルを消さなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it has no crafting cost, restart Daylight, revealing the next order card—if the Schedule of Orders has no more cards, go to Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072725Z" creationid="nakahodo" creationdate="20180719T072725Z">
+        <seg>クラフトコストを持たない場合、昼をやり直し、次のオーダーカードを公開します――スケジュールオーダーがない場合、夜に移行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29500,6 +29540,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initiate a battle in each clearing with your warriors and any enemy pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071833Z" creationid="nakahodo" creationdate="20180719T071833Z">
+        <seg>メカニカルマルキスの戦士たちと任意の敵ピースがいる区域ごとに戦争が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initiate a battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195617Z" creationid="aorin" creationdate="20171215T235206Z">
@@ -32051,6 +32099,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115314Z" creationid="aorin" creationdate="20180410T115314Z">
         <seg>移動、ターン、テレポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072046Z" creationid="nakahodo" creationdate="20180719T072046Z">
+        <seg>移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36038,6 +36094,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T164133Z" creationid="nakahodo" creationdate="20180630T164133Z">
         <seg>支払いボックスに戦士3体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place warriors in clearings you rule based on the crafting cost of the revealed order card, as shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072629Z" creationid="nakahodo" creationdate="20180719T072629Z">
+        <seg>下記に示すように、公開したオーダーカードのクラフトコストに基づいて、メカニカルマルキスが支配する区画に戦士を配置していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42069,6 +42133,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting with the clearing with the lowest number in the Clearing Priority box (1, 2, etc.) and going up, move from clearings you rule with four or more of your warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072346Z" creationid="nakahodo" creationdate="20180719T072317Z">
+        <seg>区画優先ボックス（1、2……）の低い順番の区域から始まり、数字が増加するように、メカニカルマルキスの戦士4体以上いて、かつ支配する区画から戦士たちを移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting with the first Hero to arrive at an entrance to a player's dungeon, that Hero begins to move through that player's dungeon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220839Z" creationid="aorin" creationdate="20180528T220839Z">
@@ -46511,6 +46583,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T222504Z" creationid="aorin" creationdate="20171215T222504Z">
         <seg>ディフェンダーは彼が隣接空き地を支配している場合に撤退できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The destination is the adjacent clearing with the most enemy pieces, then the tied clearing with the lowest number in the Clearing Priority box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072514Z" creationid="nakahodo" creationdate="20180719T072514Z">
+        <seg>目的地は、最も敵ピースのいる連接区画、次に、区画優先ボックスの数字が低い方の区画となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60059,6 +60139,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>most pieces there, then most victory points, then highest setup priority (A, B, C, etc.).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072025Z" creationid="nakahodo" creationdate="20180719T072020Z">
+        <seg>そこに最もピースを持つ、次に最も勝利点を持つ、次に最もセットアップ順位が高い（A、B、C……）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mouse, rabbit, or fox.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T204451Z" creationid="aorin" creationdate="20171215T204451Z">
@@ -61302,6 +61390,30 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T103437Z" creationid="nakahodo" creationdate="20180702T103437Z">
         <seg>»»	支援者カードの消費：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071752Z" creationid="nakahodo" creationdate="20180719T071752Z">
+        <seg>»»	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072023Z" creationid="nakahodo" creationdate="20180719T072023Z">
+        <seg>»»	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072516Z" creationid="nakahodo" creationdate="20180719T072516Z">
+        <seg>»»	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
