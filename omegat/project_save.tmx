@@ -334,10 +334,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>( e keep does not fill a slot.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155314Z" creationid="nakahodo" creationdate="20180719T155314Z">
+        <seg>（キープは区画のスロットを埋めない）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(1) Total number of tokens on the reputation track, (2) total number of tokens on the quota chart, (3) total number of all components remaining in your personal supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151319Z" creationid="nakahodo" creationdate="20171230T151319Z">
         <seg>（1）評判トラックの合計トークンの数、（2）ノルマチャートのトークンの合計数、（3）自身の個人サプライに残っている全てのコンポーネントの合計数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(11 total.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155401Z" creationid="nakahodo" creationdate="20180719T155401Z">
+        <seg>（合計11個）</seg>
       </tuv>
     </tu>
     <tu>
@@ -35374,6 +35390,22 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 warrior in each clearing, except diagonally opposite from keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155353Z" creationid="nakahodo" creationdate="20180719T155353Z">
+        <seg>キープの反対側角の区画を除いて、各区画に戦士1対を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 workshop and 1 recruiter on map as shown on walkthrough sheet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155424Z" creationid="nakahodo" creationdate="20180719T155424Z">
+        <seg>プレイ演習シートに示されるように、マップに作業場1つと雇用所1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 2 Hero cubes (yellow) on the two spaces near the top of your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T053752Z" creationid="nakahodo" creationdate="20180601T053313Z">
@@ -36087,6 +36119,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T145334Z" creationid="nakahodo" creationdate="20180719T145334Z">
         <seg>止まり木トラックの右から左へと、残った止まり木を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place rest of buildings on your faction board tracks, from right to le .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155456Z" creationid="nakahodo" creationdate="20180719T155456Z">
+        <seg>自身の派閥ボードトラック右から左へと、残りの建物を配置する。</seg>
       </tuv>
     </tu>
     <tu>
