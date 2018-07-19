@@ -10099,6 +10099,15 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambush!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102055Z" creationid="nakahodo" creationdate="20180719T102040Z">
+        <seg>Ambush!
+待ち伏せ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among those players, the player with the most influence tokens  in their guidepost personal :</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213221Z" creationid="nakahodo" creationdate="20171224T213221Z">
@@ -10514,6 +10523,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T160710Z" creationid="nakahodo" creationdate="20180601T160710Z">
         <seg>アーマー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armorers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102825Z" creationid="nakahodo" creationdate="20180719T102513Z">
+        <seg>甲冑師</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,6 +11060,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080806Z" creationid="nakahodo" creationdate="20180413T080806Z">
         <seg>憑依ターンの終了時、任意の順番でスタックの一番上にこれらを返す）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At start of battle, defender may play to deal two immediate hits, then discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102258Z" creationid="nakahodo" creationdate="20180719T102048Z">
+        <seg>戦闘開始時、ディフェンダーは相手に直ちに2ヒット与えるためにプレイし、その後、捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12842,6 +12867,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brutal Tactics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102856Z" creationid="nakahodo" creationdate="20180719T102856Z">
+        <seg>残忍な手口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BuilCling over</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T213839Z" creationid="aorin" creationdate="20180528T213839Z">
@@ -13350,6 +13383,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T072906Z" creationid="aorin" creationdate="20171216T072906Z">
         <seg>あなたかあなたの敵が撤退する時に、ヒットを負わせるために消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel if attacker plays matching ambush.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102458Z" creationid="nakahodo" creationdate="20180719T102458Z">
+        <seg>アタッカーもまた待ち伏せをプレイした場合、これはキャンセルされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28920,6 +28961,30 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle as attacker, may deal an extra hit, but defender scores one point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102915Z" creationid="nakahodo" creationdate="20180719T102915Z">
+        <seg>アタッカーとしての戦闘にて、追加の1ヒットを与えるが、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In battle as defender, may discard this to deal an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102734Z" creationid="nakahodo" creationdate="20180719T102734Z">
+        <seg>ディフェンダーとしての戦闘にて、これを捨て札にすることで、追加の1ヒットを与えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In battle, may discard this to ignore all rolled hits taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102641Z" creationid="nakahodo" creationdate="20180719T102519Z">
+        <seg>戦闘にて、これを捨て札にすることで、ロールされて受けることになるヒット全てを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the Vagabond counts Riverfolk mercenaries as Allied, but must follow the Mercenaries rules above.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T163446Z" creationid="nakahodo" creationdate="20180630T162935Z">
@@ -39830,6 +39895,14 @@ the start of each Research Track.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153253Z" creationid="nakahodo" creationdate="20180601T153113Z">
         <seg>神聖アップグレード
 （破棄）エンカウンターの一部として、隣接スペースにアタックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sappers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102740Z" creationid="nakahodo" creationdate="20180719T102704Z">
+        <seg>工兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -55800,6 +55873,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Which to choose…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102043Z" creationid="nakahodo" creationdate="20180719T102043Z">
+        <seg>Which to choose…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While a faction’s alignment marker is on the final friendly space of the alignment chart, that faction is an Ally​.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074407Z" creationid="aorin" creationdate="20171216T074407Z">
@@ -57647,6 +57728,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T000122Z" creationid="aorin" creationdate="20180115T000122Z">
         <seg>あなたは常に、法廷にワーカーを展開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may ambush in any clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102128Z" creationid="nakahodo" creationdate="20180719T102046Z">
+        <seg>あなた任意の区画で待ち伏せ出来ます。</seg>
       </tuv>
     </tu>
     <tu>
