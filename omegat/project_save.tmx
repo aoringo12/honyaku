@@ -463,6 +463,14 @@ b	敵対区域への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Example:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T075137Z" creationid="nakahodo" creationdate="20180719T075137Z">
+        <seg>（例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, if a Goblin Tribe is in a space marked “2” and the Knight is in one marked “3”, your Isolation is 2.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T114500Z" creationid="aorin" creationdate="20180408T114500Z">
@@ -18458,6 +18466,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time the players win a game, the Mechanical Marquise will start the next game with three more victory points, but each player will start with one crafted card from their final play area of the last game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T075133Z" creationid="nakahodo" creationdate="20180719T075133Z">
+        <seg>プレイヤーたちがゲームに勝利するたびに、メカニカルマルキスは3勝利点を前より多く持ちゲームを開始します。また、各プレイヤーは前ゲームの自身の最終プレイエリアにある、クラフトカード1枚を持ちゲームを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time you Aid an Allied faction, score two victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T213128Z" creationid="nakahodo" creationdate="20180629T213128Z">
@@ -20829,6 +20845,14 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T054143Z" creationid="nakahodo" creationdate="20180701T054143Z">
         <seg>2回めの移動で、別の戦士2体をウサギ区域に移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For his third game, he starts with Brutal Tactics, which he crafted during game one and chose for game two, and chooses Command Warren, which he crafted during game two.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T075520Z" creationid="nakahodo" creationdate="20180719T075520Z">
+        <seg>3回目のゲームで、ゲーム2時に選択したゲーム1時にクラフトしたBrutal Tacticsと、ゲーム2時にクラフトしたCommand Warrenを選択してゲームに挑みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25459,6 +25483,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132723Z" creationid="nakahodo" creationdate="20180412T132723Z">
         <seg>ソロでプレイする場合、アローンインザダークヴァリアントカードは取りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If playing with three or four human players, add any one or two factions to these mixes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T080007Z" creationid="nakahodo" creationdate="20180719T080007Z">
+        <seg>3から4人の人間プレイヤーで遊ぶ場合、これらミックスに任意の1か2派閥を追加してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34319,6 +34351,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patrick has won two games so far.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T075219Z" creationid="nakahodo" creationdate="20180719T075219Z">
+        <seg>パトリックは2ゲームに勝利しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pauldrons (Gear):</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T153208Z" creationid="nakahodo" creationdate="20180603T153208Z">
@@ -42838,6 +42878,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take any three-player mix and add any remaining one, two, or three factions, or use these recommended mixes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T075732Z" creationid="nakahodo" creationdate="20180719T075732Z">
+        <seg>任意の3プレイヤーミックスを選択し、それに1～3派閥を追加するか、これら推奨ミックスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take beans
 of the appropriate
 color from The
@@ -45020,6 +45068,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T152636Z" creationid="aorin" creationdate="20171215T152636Z">
         <seg>マルキスはまた木も持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise begins with 6 victory points.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T075538Z" creationid="nakahodo" creationdate="20180719T075538Z">
+        <seg>マルキスは6勝利点で開始します）。</seg>
       </tuv>
     </tu>
     <tu>
