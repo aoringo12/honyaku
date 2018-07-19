@@ -60976,6 +60976,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Vagabond scores points by giving cards to friendly factions, defeating warriors of hostile factions in battle, and going on quests to endear himself to the Woodland folk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T201951Z" creationid="nakahodo" creationdate="20180719T201951Z">
+        <seg>ヴァガボンドは友好派閥にカードを与えることで、戦闘で敵対派閥の戦士たちを打破し、ウッドランドの人々から尊敬を得るためにクエストを達成することで勝利点を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Woodland Alliance scores as they place sympathy on the map, scoring more as they place more.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T160550Z" creationid="nakahodo" creationdate="20180719T160550Z">
