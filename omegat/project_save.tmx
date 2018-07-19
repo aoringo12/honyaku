@@ -14564,6 +14564,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Competitive Mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T080012Z" creationid="nakahodo" creationdate="20180719T080012Z">
+        <seg>協力モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete all 6 upgrades</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093517Z" creationid="nakahodo" creationdate="20180209T093517Z">
@@ -42634,6 +42642,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T163617Z" creationid="aorin" creationdate="20171228T163617Z">
         <seg>王国を支える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap A for B in any suggested mix.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T080045Z" creationid="nakahodo" creationdate="20180719T080045Z">
+        <seg>任意の提案ミックスでAをBに交換します。</seg>
       </tuv>
     </tu>
     <tu>
