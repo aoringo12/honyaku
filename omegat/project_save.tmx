@@ -2527,6 +2527,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 of each suit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072922Z" creationid="nakahodo" creationdate="20180719T072922Z">
+        <seg>各スート1つずつ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T133848Z" creationid="nakahodo" creationdate="20180406T133848Z">
@@ -3674,8 +3682,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>1–3 of one suit:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072809Z" creationid="nakahodo" creationdate="20180719T072809Z">
-        <seg>1～3個のスート1種類：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073014Z" creationid="nakahodo" creationdate="20180719T072809Z">
+        <seg>スート1種類を1～3つ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5735,6 +5743,14 @@ SET UP</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073624Z" creationid="nakahodo" creationdate="20180630T073624Z">
         <seg>4M、3X、3S、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 of any suits:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073000Z" creationid="nakahodo" creationdate="20180719T073000Z">
+        <seg>任意のスート4つ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,6 +14734,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooperative Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073711Z" creationid="nakahodo" creationdate="20180719T073711Z">
+        <seg>協力プレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy action</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142653Z" creationid="nakahodo" creationdate="20171213T142653Z">
@@ -16416,6 +16440,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203128Z" creationid="nakahodo" creationdate="20180601T203128Z">
         <seg>プレイヤーボードの行進順番スペース左から右へと、1枚ずつどろーして表向きでそれらを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw cards and add them to the right side of the Schedule of Orders until it has five cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073223Z" creationid="nakahodo" creationdate="20180719T073223Z">
+        <seg>カードをどろーし、カード5枚になるまで、スケジュールオーダーの右側にそれらを追加していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27604,6 +27636,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have a spy card in your play area, you may reveal one order card during your Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073435Z" creationid="nakahodo" creationdate="20180719T073435Z">
+        <seg>プレイエリアにスパイカードを持つ場合、そのプレイヤーは自身の昼時にオーダーカード1枚を公開することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have a victory condition of killing the player whom you are attacking, they must choose to lose Health as the result of the attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T092441Z" creationid="aorin" creationdate="20180410T092441Z">
@@ -28024,6 +28064,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T143611Z" creationid="nakahodo" creationdate="20180604T143030Z">
         <seg>新しい形態を公開した場合、あなたのいるスペースに新しい形態のピースを配置し、古いピースをボードからあなたのサプライに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you reveal an order card whose suit matches your spy card, you must discard your spy card immediately—for this purpose, bird cards are not wild.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073551Z" creationid="nakahodo" creationdate="20180719T073551Z">
+        <seg>スパイカードと公開したオーダーカードのスートが一致した場合、そのプレイヤーは直ちにスパイカードを捨て札にする必要があります――この処理のために、鳥カードはワイルドではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35422,6 +35470,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place four warriors in the clearing with the keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073044Z" creationid="nakahodo" creationdate="20180719T073044Z">
+        <seg>キープのある区画に戦士たち4体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place four warriors on any clearing or clearings connected to the river.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T163732Z" creationid="nakahodo" creationdate="20180630T163732Z">
@@ -35496,6 +35552,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place one to three warriors (equal in number to crafting cost) in each clearing you rule of this suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072914Z" creationid="nakahodo" creationdate="20180719T072914Z">
+        <seg>このスートのメカニカルマルキスが支配する区画ごとに、（クラフトコストの数に等しい）1～3体の戦士を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place one warrior at each Recruiter.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000015Z" creationid="aorin" creationdate="20171216T000015Z">
@@ -35508,6 +35572,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T150423Z" creationid="nakahodo" creationdate="20180629T150423Z">
         <seg>各雇用所に戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place one warrior in each clearing you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072943Z" creationid="nakahodo" creationdate="20180719T072943Z">
+        <seg>メカニカルマルキスが支配する各区画に戦士体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42031,6 +42103,22 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053247Z" creationid="aorin" creationdate="20171216T053247Z">
         <seg>スパイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spy Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073226Z" creationid="nakahodo" creationdate="20180719T073226Z">
+        <seg>スパイカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spy cards use the same rules as dominance cards for playing, discarding, and taking available cards, but do not change your victory condition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073349Z" creationid="nakahodo" creationdate="20180719T073349Z">
+        <seg>スパイカードはドミナンスカードのように同じルールを使用し、利用可能なカードとしてプレイしたり捨て札にしたりできますが、勝利条件を変更することはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48816,6 +48904,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T195814Z" creationid="nakahodo" creationdate="20180411T195754Z">
         <seg>その後、あなたのスペースに他プレイヤーピースが保持されていた場合、これを攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, if your spy card was not discarded, you may swap any two order cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T073647Z" creationid="nakahodo" creationdate="20180719T073647Z">
+        <seg>その後、スパイカードを捨て札にしなかった場合、そのプレイヤーは任意のオーダーカード2枚を入れ替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56615,6 +56711,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T163417Z" creationid="nakahodo" creationdate="20180604T163417Z">
         <seg>蜘蛛の子1体がアクティブになっている時、その蜘蛛の子のためにパワーカードをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can play a cooperative game against the Mechanical Marquise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074140Z" creationid="nakahodo" creationdate="20180719T074140Z">
+        <seg>メカニカルマルキスに対して協力ゲームを遊ぶことが出来ます。</seg>
       </tuv>
     </tu>
     <tu>
