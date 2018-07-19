@@ -376,6 +376,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Bird) Brutal Tactics (Mouse) Scouting Party (Mouse) Crossbow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T152312Z" creationid="nakahodo" creationdate="20180719T152303Z">
+        <seg>(鳥) Brutal Tactics 
+(ネズミ) Scouting Party
+(ネズミ) Crossbow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Bird) Sappers (Bird) Birdy Bindle (Fox) Anvil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T152233Z" creationid="nakahodo" creationdate="20180719T152233Z">
+        <seg>(鳥) Sappers
+(鳥) Birdy Bindle
+(キツネ) Anvil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Discard) Destroy all Webs, Dancing Lights, Force</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153732Z" creationid="nakahodo" creationdate="20180601T153732Z">
@@ -36399,6 +36419,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the keep and 1 sawmill in the top-le  fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155245Z" creationid="nakahodo" creationdate="20180719T152305Z">
+        <seg>マップ左上のキツネ区画にキープと製材所1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the keep token in the corner clearing of your choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T141728Z">
@@ -43624,6 +43652,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042847Z" creationid="aorin" creationdate="20171213T042847Z">
         <seg>食料タイルの1番上を取り、あなのプレイヤースクリーンの前にある適切なスポットにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take these cards from the shared deck and put them on the Supporters stack on faction board:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T152206Z" creationid="nakahodo" creationdate="20180719T152206Z">
+        <seg>共通デッキからこれらカードを鳥、派閥ボードの支援者スタックにこれらを配置する：</seg>
       </tuv>
     </tu>
     <tu>
