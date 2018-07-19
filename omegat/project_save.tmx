@@ -12722,6 +12722,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beyond adding sympathy, their supporters can incite revolt, destroying all enemy pieces in a clearing and establishing a base there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T162238Z" creationid="nakahodo" creationdate="20180719T162238Z">
+        <seg>賛同者を追加するのに加えて、支援者たちは反乱を起こし、区域の敵ピース全てを打破し、新たな基地をそこに配置できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bird cards are always wild, so I’m treating this bird as a rabbit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T193636Z" creationid="nakahodo" creationdate="20180630T193353Z">
@@ -52089,6 +52097,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052603Z" creationid="aorin" creationdate="20171216T052603Z">
         <seg>隠れ家のカードスロットにカードを配置するには、それに一致する隠れ家マップに必要で、配置するカードにスロットがあってはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To place sympathy, they need to fi rst add cards to their faction board as supporters—if you oppress sympathetic clearings, though, you’ll add to their supporters as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160936Z" creationid="nakahodo" creationdate="20180719T160936Z">
+        <seg>賛同者を配置するには、まず支援者として自身の派閥ボードにカードを追加する必要がある――連合の対戦相手が賛同区域を制圧するなら、その相手もまた支援者を追加することになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
