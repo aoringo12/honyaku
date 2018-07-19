@@ -16375,6 +16375,22 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dominance - bird</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T143942Z" creationid="nakahodo" creationdate="20180719T143942Z">
+        <seg>Dominance - bird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dominance - rabbit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104507Z" creationid="nakahodo" creationdate="20180719T104507Z">
+        <seg>Dominance - rabbit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dominance Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T083718Z" creationid="nakahodo" creationdate="20180703T083718Z">
@@ -19962,6 +19978,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T104039Z" creationid="nakahodo" creationdate="20180719T104039Z">
         <seg>Favor of the Foxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favor of the Mice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104458Z" creationid="nakahodo" creationdate="20180719T104458Z">
+        <seg>Favor of the Mice</seg>
       </tuv>
     </tu>
     <tu>
@@ -25730,6 +25754,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If spent for suit, make available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104621Z" creationid="nakahodo" creationdate="20180719T104621Z">
+        <seg>スートとして消費した場合、マップ近くに配置し、誰でも利用可能になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If text in the learn to play conflicts with text in this rules reference, this rules reference takes precedence.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T145812Z" creationid="aorin" creationdate="20171215T145812Z">
@@ -27863,6 +27895,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have at least 10 points, play during Daylight and remove your score marker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104910Z" creationid="nakahodo" creationdate="20180719T104910Z">
+        <seg>あなたが少なくとも10勝利点を持つ場合、昼時にプレイでき、そうした場合、あなたのスコアマーカーを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have ever spent hours navigating the pixelated perils of 8-bit dungeons, Boss Monster is designed for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T104024Z" creationid="nakahodo" creationdate="20180525T103754Z">
@@ -29248,6 +29288,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T110813Z" creationid="nakahodo" creationdate="20171001T110813Z">
         <seg>3から6プレイヤーゲームでは、特別アクションで許可されない限り、●側に返された国を選択することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games of four or more, as Vagabond, you may form a coalition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T105054Z" creationid="nakahodo" creationdate="20180719T105054Z">
+        <seg>4人以上のゲームにて、ヴァガボンドとして、あなたは連合を組める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38560,6 +38608,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T104135Z" creationid="nakahodo" creationdate="20180719T104135Z">
         <seg>キツネ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all enemy pieces in mouse clearings, then discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104506Z" creationid="nakahodo" creationdate="20180719T104506Z">
+        <seg>ネズミ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59492,6 +59548,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102339Z" creationid="aorin" creationdate="20180410T102339Z">
         <seg>あなたは十分な数のクリスタルを砕き、その後、洞窟から脱出した場合に勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win the game if you rule three rabbit clearings at the start of your Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T105007Z" creationid="nakahodo" creationdate="20180719T105007Z">
+        <seg>あなたの朝開始時にて、ウサギ区域3つを支配している場合、あなたはゲームに勝利する。</seg>
       </tuv>
     </tu>
     <tu>
