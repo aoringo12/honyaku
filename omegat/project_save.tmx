@@ -601,6 +601,16 @@ b	敵対区域への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Fox) Root Tea (Fox) Protection Racket (Rabbit) Cobbler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T151241Z" creationid="nakahodo" creationdate="20180719T151241Z">
+        <seg>(キツネ) Root Tea
+(キツネ) Protection Racket
+(ウサギ) Cobbler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(From any non-negative alignment.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074116Z" creationid="aorin" creationdate="20171216T073957Z">
@@ -36631,6 +36641,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your 3 bases and 10 sympathy on their faction board tracks, filling them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T152034Z" creationid="nakahodo" creationdate="20180719T152034Z">
+        <seg>自身の派閥ボードのトラックにベース3つと賛同者10個を配置し、満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your Loyal Viziers on the Decree spaces shown on your new leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003043Z" creationid="aorin" creationdate="20171216T003043Z">
@@ -37962,6 +37980,14 @@ players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put Errand (fox) quest card and 2 drawn quests near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150945Z" creationid="nakahodo" creationdate="20180719T150535Z">
+        <seg>Errand（キツネ）クエストカード1枚と、クエストカード2枚をドローしてあなたの近くに配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put Score Tokens
 in a Roaster.</seg>
       </tuv>
@@ -37995,10 +38021,26 @@ in a Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put a random “R” item beneath each ruin on map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150959Z" creationid="nakahodo" creationdate="20180719T150938Z">
+        <seg>マップの各遺跡下にランダムに”R”アイテムを1つずつ配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put pawn on map as walkthrough sheet shows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150451Z" creationid="nakahodo" creationdate="20180719T150451Z">
-        <seg>プレイ演習シートで示されるようにマップにポーンを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150942Z" creationid="nakahodo" creationdate="20180719T150451Z">
+        <seg>プレイ演習シートで示されるようにマップにポーンを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put relationship markers on their chart on Indifferent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T151218Z" creationid="nakahodo" creationdate="20180719T151218Z">
+        <seg>無関心のチャートに関係性マーカーを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38032,6 +38074,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193907Z" creationid="aorin" creationdate="20180114T193907Z">
         <seg>残ったカードはゲームボードの横に、裏向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put the “S” M, F, S items in your Satchel and the “S”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T151112Z" creationid="nakahodo" creationdate="20180719T150955Z">
+        <seg>あなたのカバンに”S”のMFSアイテム1つずつを配置し、トラックに</seg>
       </tuv>
     </tu>
     <tu>
@@ -43129,6 +43179,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183813Z" creationid="nakahodo" creationdate="20180604T183747Z">
         <seg>これらを交換し、それぞれ任意の方向へと回転させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T item on its track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T151045Z" creationid="nakahodo" creationdate="20180719T151045Z">
+        <seg>”S”のTアイテム1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
