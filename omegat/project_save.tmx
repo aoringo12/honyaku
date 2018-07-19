@@ -10665,6 +10665,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As attacker in battle, you deal an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144159Z" creationid="nakahodo" creationdate="20180719T144132Z">
+        <seg>戦闘でアタッカーになる時、あなたは相手に追加の1ヒットを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As dawn breaks,yo11 hear a buzzing sound in the distance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T084741Z" creationid="nakahodo" creationdate="20171230T084537Z">
@@ -13071,8 +13079,8 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>Builder</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T003302Z" creationid="aorin" creationdate="20171216T003302Z">
-        <seg>ビルダー</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144255Z" creationid="aorin" creationdate="20171216T003302Z">
+        <seg>Builder</seg>
       </tuv>
     </tu>
     <tu>
@@ -13812,8 +13820,8 @@ in players’ Neighborhoods.</seg>
       <tuv lang="EN-US">
         <seg>Charismatic</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T003428Z" creationid="aorin" creationdate="20171216T003428Z">
-        <seg>カリスマティック</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144336Z" creationid="aorin" creationdate="20171216T003428Z">
+        <seg>Charismatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -14617,8 +14625,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Commander</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T003521Z" creationid="aorin" creationdate="20171216T003521Z">
-        <seg>コマンダー</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144135Z" creationid="aorin" creationdate="20171216T003521Z">
+        <seg>Commander</seg>
       </tuv>
     </tu>
     <tu>
@@ -15740,8 +15748,8 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>Despot</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T003616Z" creationid="aorin" creationdate="20171216T003616Z">
-        <seg>独裁者</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144204Z" creationid="aorin" creationdate="20171216T003616Z">
+        <seg>Despot</seg>
       </tuv>
     </tu>
     <tu>
@@ -19818,6 +19826,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133851Z" creationid="aorin" creationdate="20171215T133851Z">
         <seg>鷲王のセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyrie Leader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144101Z" creationid="nakahodo" creationdate="20180719T144101Z">
+        <seg>Eyrie Leader</seg>
       </tuv>
     </tu>
     <tu>
@@ -28271,6 +28287,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you remove at least one enemy building or token in battle, score one point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144249Z" creationid="nakahodo" creationdate="20180719T144249Z">
+        <seg>戦闘にて少なくとも1つの敵の建物かトークンを取り除く場合、1勝利点を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you remove the last item from a ruin, remove the ruin marker.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T090525Z" creationid="nakahodo" creationdate="20180630T090525Z">
@@ -28773,6 +28797,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T200350Z" creationid="nakahodo" creationdate="20180411T200350Z">
         <seg>もう一方のカードの指示は無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore your Disdain for Trade when you cra .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144325Z" creationid="nakahodo" creationdate="20180719T144252Z">
+        <seg>あなたがクラフトする時、あなたの貿易軽視を無視する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32220,6 +32252,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002231Z" creationid="aorin" creationdate="20171216T002231Z">
         <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp; Battle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144129Z" creationid="nakahodo" creationdate="20180719T144124Z">
+        <seg>移動と戦闘</seg>
       </tuv>
     </tu>
     <tu>
@@ -38244,6 +38284,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recruit &amp;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144333Z" creationid="nakahodo" creationdate="20180719T144333Z">
+        <seg>雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recruit happens in clearings based on the order’s crafting cost, as described in step 3.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T071742Z" creationid="nakahodo" creationdate="20180719T071742Z">
@@ -43167,6 +43215,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110630Z" creationid="nakahodo" creationdate="20180630T110630Z">
         <seg>あなたの区域にいる、少なくとも3体の戦士を持っているプレイヤーの手札から、カード1枚をランダムに取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a random card from a player in your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144445Z" creationid="nakahodo" creationdate="20180719T144445Z">
+        <seg>あなたの区域にいるプレイヤー1人から、ランダムなカード1枚を取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59272,6 +59328,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You place two warriors, not one, each time you recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144419Z" creationid="nakahodo" creationdate="20180719T144419Z">
+        <seg>あなたが雇用アクションをするたびに、1体ではなく、戦士2体配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You play the turn from its beginning, following the normal rules for the role.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082353Z" creationid="aorin" creationdate="20180409T082340Z">
@@ -59556,6 +59620,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T105007Z" creationid="nakahodo" creationdate="20180719T105007Z">
         <seg>あなたの朝開始時にて、ウサギ区域3つを支配している場合、あなたはゲームに勝利する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win the game if you rule two opposite corners at the start of your Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144043Z" creationid="nakahodo" creationdate="20180719T144043Z">
+        <seg>あなたの朝開始時にて、マップ端2つの角区画を支配している場合、あなたはゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
