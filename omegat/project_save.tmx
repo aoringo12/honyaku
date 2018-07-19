@@ -14734,10 +14734,26 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooperative Campaign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074743Z" creationid="nakahodo" creationdate="20180719T074743Z">
+        <seg>協力キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooperative Play</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T073711Z" creationid="nakahodo" creationdate="20180719T073711Z">
         <seg>協力プレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooperative games can be strung together into a campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074808Z" creationid="nakahodo" creationdate="20180719T074808Z">
+        <seg>協力ゲームをキャンペーンに組み込むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28502,6 +28518,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’re playing alone against the Mechanical Marquise, remove the Favor of the Foxes, Favor of the Rabbits, and Favor of the Mice from the deck before starting play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074726Z" creationid="nakahodo" creationdate="20180719T074726Z">
+        <seg>あなたが1人でメカニカルマルキスに対する場合、プレイ開始前に、共通デッキからFavor of the Foxes、Favor of the Rabbits、Favor of the Miceのカードを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you’ve got an ambush card in hand, don’t be afraid to bait your enemies into attacking you where you seem weak.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T050218Z" creationid="nakahodo" creationdate="20180701T050218Z">
@@ -41282,6 +41306,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Solo Play:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074624Z" creationid="nakahodo" creationdate="20180719T074624Z">
+        <seg>ソロプレイ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solo or two players:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T132022Z" creationid="nakahodo" creationdate="20180406T132022Z">
@@ -45076,6 +45108,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T071241Z" creationid="nakahodo" creationdate="20180719T071241Z">
         <seg>メカニカルマルキスはマルキスの建物を使用しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Mechanical Marquise has two changes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074239Z" creationid="nakahodo" creationdate="20180719T074239Z">
+        <seg>メカニカルマルキスに2つの変更があります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59003,6 +59043,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You win as a team if every player scores 30 points before the Mechanical Marquise does.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074226Z" creationid="nakahodo" creationdate="20180719T074226Z">
+        <seg>メカニカルマルキスが30勝利点を獲得する前に、全てのプレイヤーが30勝利点を獲得すると、あなたたちの勝利になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You win if you gain 9 Radiance and then escape the Cave by entering the Entrance tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T103835Z" creationid="nakahodo" creationdate="20180412T103709Z">
@@ -61298,6 +61346,14 @@ added to your Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>»» During Birdsong, the Mechanical Marquise also scores one victory point per human player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074333Z" creationid="nakahodo" creationdate="20180719T074333Z">
+        <seg>»»	朝時、メカニカルマルキスは人間プレイヤーごとに1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>»» Establish Trade Post with Garrison:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T202432Z" creationid="nakahodo" creationdate="20180703T202432Z">
@@ -61526,6 +61582,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T152825Z" creationid="nakahodo" creationdate="20180702T152747Z">
         <seg>»»	強襲：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» The Mechanical Marquise recruits in all clearings matching the suit of the crafting cost, regardless of rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T074618Z" creationid="nakahodo" creationdate="20180719T074618Z">
+        <seg>»»	メカニカルマルキスは支配に関係なく、クラフトコストに一致する区画全てで雇用アクションを実行します。</seg>
       </tuv>
     </tu>
     <tu>
