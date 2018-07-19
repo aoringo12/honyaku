@@ -10059,6 +10059,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambush cards cannot be played against the Mechanical Marquise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070531Z" creationid="nakahodo" creationdate="20180719T070501Z">
+        <seg>メカニカルマルキスに対してアンブッシュカードは使用出来ません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among those players, the player with the most influence tokens  in their guidepost personal :</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T213221Z" creationid="nakahodo" creationdate="20171224T213221Z">
@@ -22088,6 +22096,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give the Mechanical Marquise a random seating position, as if it were a human player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070650Z" creationid="nakahodo" creationdate="20180719T070650Z">
+        <seg>メカニカルマルキスに、人間プレイヤーのようにランダムに席を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glory</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T200132Z" creationid="nakahodo" creationdate="20171224T200122Z">
@@ -22414,6 +22430,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024821Z" creationid="aorin" creationdate="20180408T024821Z">
         <seg>ハード：憑依デッキを形成した後、デッキをシャッフルし、使用するために3枚カードをドローし、ゲームから残りを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hates Surprises:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070519Z" creationid="nakahodo" creationdate="20180719T070456Z">
+        <seg>驚くほど神経質：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28126,6 +28150,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you would give it a card, discard the card, and the Mechanical Marquise scores one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070438Z" creationid="nakahodo" creationdate="20180719T070438Z">
+        <seg>あなたがカードをメカニカルマルキスに与えたい場合、カードを捨て札とし、メカニカルマルキスは1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you would like for 1 or more inactive charters to become active and participate as a player, use these Automa rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085055Z" creationid="nakahodo" creationdate="20180108T085055Z">
@@ -28154,6 +28186,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T235819Z" creationid="aorin" creationdate="20171231T235819Z">
         <seg>このゲームの合計VPを計算する時、建物のキャンペーン終了価値（○）を含めたくない場合は、木箱Dを開ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you would take a card from its hand, draw a card from the deck instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070351Z" creationid="nakahodo" creationdate="20180719T070351Z">
+        <seg>あなたがメカニカルマルキスの手札からカードを取りたい場合、代わりに共通デッキからカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29786,6 +29826,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T031935Z" creationid="aorin" creationdate="20171213T031935Z">
         <seg>彼は絶対に炭鉱に送られません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It cannot be forced to discard cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070323Z" creationid="nakahodo" creationdate="20180719T070323Z">
+        <seg>捨て札を強制させることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33355,6 +33403,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One player sitting near the Mechanical Marquise will be responsible for setting it up and playing its turns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070805Z" creationid="nakahodo" creationdate="20180719T070805Z">
+        <seg>そのターン順番に対応する、プレイヤーの近くへとメカニカルマルキスを配置して担当してもらいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One player starts by shaking his roaster, randomly
 pulling a bean and placing it on the Blend Slate in one of the five
 bean spaces.</seg>
@@ -36864,6 +36920,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065356Z" creationid="nakahodo" creationdate="20180601T065356Z">
         <seg>ポルターガイスト：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poor Manual Dexterity:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070258Z" creationid="nakahodo" creationdate="20180719T070258Z">
+        <seg>不器用な機敏性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44768,10 +44832,26 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Mechanical Marquise does not have a hand of cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070305Z" creationid="nakahodo" creationdate="20180719T070305Z">
+        <seg>メカニカルマルキスは手札を持ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Mechanical Marquise is an automated player that can be used in two ways.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T203724Z" creationid="nakahodo" creationdate="20180703T203724Z">
         <seg>メカニカルマルキスは2つの方法で使用できるオートマプレイヤーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Mechanical Marquise uses the pieces of the Marquise de Cat, so you cannot include both in the same game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070209Z" creationid="nakahodo" creationdate="20180719T070038Z">
+        <seg>メカニカルマルキスはマルキス・デ・キャットのピースを使用しますので、同じゲームに両者を含めることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53380,6 +53460,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When including the Mechanical Marquise, modify the following steps of setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070555Z" creationid="nakahodo" creationdate="20180719T070555Z">
+        <seg>メカニカルマルキスがゲームにいる時、次に従いセットアップを変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When making deployment decisions, you must take into account the territories on the map that you and your opponents control.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T235320Z" creationid="aorin" creationdate="20180114T235320Z">
@@ -60948,8 +61036,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>»» First, it can replace a human Marquise player in a multiplayer competitive game.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203725Z" creationid="nakahodo" creationdate="20180703T203725Z">
-        <seg>»» First, it can replace a human Marquise player in a multiplayer competitive game.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T065935Z" creationid="nakahodo" creationdate="20180703T203725Z">
+        <seg>»»	まず、これは複数人での対戦ゲームにて人間のマルキスプレイヤーと置き換えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61094,6 +61182,14 @@ added to your Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T185253Z" creationid="nakahodo" creationdate="20180703T185253Z">
         <seg>»»	得点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>»» Second, with a couple changes to the rules, it can be an opponent in a cooperative game for one to four players (page 8).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T070134Z" creationid="nakahodo" creationdate="20180719T070037Z">
+        <seg>»»	次に、ルールに変更が加えられてから、1人から4人プレイヤーの協力ゲームの対戦相手として置き換えることができます（ページ8）。</seg>
       </tuv>
     </tu>
     <tu>
