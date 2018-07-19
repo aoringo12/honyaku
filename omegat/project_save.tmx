@@ -14359,6 +14359,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Claim this quest and pick a reward.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144733Z" creationid="nakahodo" creationdate="20180719T144733Z">
+        <seg>このクエストを達成して報酬1つを選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clarity = 2</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T090810Z" creationid="nakahodo" creationdate="20180413T090810Z">
@@ -15422,6 +15430,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134813Z" creationid="nakahodo" creationdate="20171127T134813Z">
         <seg>これによってオープンエッジに追加されたダークタイルは、たとえダイスの影響を受ける場所であっても明らかにされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Day Labor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144455Z" creationid="nakahodo" creationdate="20180719T144455Z">
+        <seg>Day Labor</seg>
       </tuv>
     </tu>
     <tu>
@@ -19093,6 +19109,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand in a fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144744Z" creationid="nakahodo" creationdate="20180719T144744Z">
+        <seg>Errand in a fox clearing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Establish Trade Post with Garrison.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T172757Z" creationid="nakahodo" creationdate="20180630T172757Z">
@@ -21410,6 +21434,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fundraising in a fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144711Z" creationid="nakahodo" creationdate="20180719T144711Z">
+        <seg>キツネ区域にて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further tokens are placed on the next open space closer to the ocean.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T211404Z" creationid="aorin" creationdate="20171219T103703Z">
@@ -23367,6 +23399,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230609Z" creationid="aorin" creationdate="20171215T230609Z">
         <seg>潜む。戦士1体と共に防衛する時、連合は受けるヒット1つを無視できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hideout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144621Z" creationid="nakahodo" creationdate="20180719T144621Z">
+        <seg>隠れ家。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35278,6 +35318,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 roost and 6 warriors in the bottom-right rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144935Z" creationid="nakahodo" creationdate="20180719T144935Z">
+        <seg>右下ウサギ区域に止まり木1つと戦士6体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 2 Hero cubes (yellow) on the two spaces near the top of your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T053752Z" creationid="nakahodo" creationdate="20180601T053313Z">
@@ -35987,6 +36035,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place remaining roosts on your Roosts track from right to left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T145334Z" creationid="nakahodo" creationdate="20180719T145334Z">
+        <seg>止まり木トラックの右から左へと、残った止まり木を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place ruins on each slot with a ruin icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185607Z" creationid="nakahodo" creationdate="20180630T185607Z">
@@ -36071,6 +36127,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T142940Z" creationid="nakahodo" creationdate="20180604T142940Z">
         <seg>キャスターと蜘蛛の子ピースはあなたのプレイヤーボード近くに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the Despot card on your Leader Card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144816Z" creationid="nakahodo" creationdate="20180719T144816Z">
+        <seg>あなたのリーダーカードスロットにDespotカードを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38888,6 +38952,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110937Z" creationid="nakahodo" creationdate="20180630T110937Z">
         <seg>3つのアイテムを修理し、その後直ちに昼フェイズに移行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair three items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144643Z" creationid="nakahodo" creationdate="20180719T144643Z">
+        <seg>アイテム3つを修理する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42700,8 +42772,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Steal</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171216T082832Z" creationid="aorin" creationdate="20171216T082832Z">
-        <seg>窃盗</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144458Z" creationid="aorin" creationdate="20171216T082832Z">
+        <seg>Steal</seg>
       </tuv>
     </tu>
     <tu>
@@ -43203,6 +43275,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take a card from the discard pile matching your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144620Z" creationid="nakahodo" creationdate="20180719T144620Z">
+        <seg>あなたの区域に一致する捨て札山から、カード1枚を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take a card from the discard pile matching your clearing’s nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110839Z" creationid="nakahodo" creationdate="20180630T110839Z">
@@ -43452,6 +43532,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T042847Z" creationid="aorin" creationdate="20171213T042847Z">
         <seg>食料タイルの1番上を取り、あなのプレイヤースクリーンの前にある適切なスポットにこれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take these cards from the shared deck into your hand:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T145816Z" creationid="nakahodo" creationdate="20180719T145816Z">
+        <seg>共通デッキからこれらカードをあなたの手札に加える：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52249,6 +52337,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuck your 2 Loyal Vizier cards into Move and Build on the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144859Z" creationid="nakahodo" creationdate="20180719T144859Z">
+        <seg>法令の移動と建築にLoyal Vizierカード2枚を差し込む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuck your Loyal Viziers into the Decree spaces listed on your new leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T163025Z" creationid="nakahodo" creationdate="20180629T163025Z">
@@ -60602,6 +60698,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123107Z" creationid="aorin" creationdate="20171212T123107Z">
         <seg>食料、シルバー、ゴールドのいずれか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en, immediately end Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144653Z" creationid="nakahodo" creationdate="20180719T144653Z">
+        <seg>その後、直ちに昼を終了する。</seg>
       </tuv>
     </tu>
     <tu>
