@@ -12351,6 +12351,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bases improve the Alliance’s card draw and let them train offi cers, which give them free actions each turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T162400Z" creationid="nakahodo" creationdate="20180719T162400Z">
+        <seg>基地は連合のカードドローを改善し、将校を訓練し、各ターンにてフリーアクションを提供する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Resource Buildings</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234223Z" creationid="aorin" creationdate="20171231T234223Z">
@@ -15856,6 +15864,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230319Z" creationid="aorin" creationdate="20180528T230319Z">
         <seg>破壊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destroying bases will subdue many supporters and offi cers, slowing the revolution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163046Z" creationid="nakahodo" creationdate="20180719T163046Z">
+        <seg>基地が破壊されると、多くの支援者と将校が鎮圧され、革命が遅れます。</seg>
       </tuv>
     </tu>
     <tu>
