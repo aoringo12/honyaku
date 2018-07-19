@@ -1966,6 +1966,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- rabit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104136Z" creationid="nakahodo" creationdate="20180719T104136Z">
+        <seg>- rabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--A Flame Wall placed on the Entrance will prevent the Thief from stashing treasures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134219Z" creationid="nakahodo" creationdate="20171127T134219Z">
@@ -10083,6 +10091,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambush - mice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104331Z" creationid="nakahodo" creationdate="20180719T104331Z">
+        <seg>Ambush - mice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambush Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045404Z" creationid="nakahodo" creationdate="20180701T045404Z">
@@ -10641,6 +10657,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As attacker in battle, you are not affected by ambush cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104416Z" creationid="nakahodo" creationdate="20180719T104416Z">
+        <seg>アタッカーとしての戦闘にて、あなたは待ち伏せカードの影響を受けない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As dawn breaks,yo11 hear a buzzing sound in the distance.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T084741Z" creationid="nakahodo" creationdate="20171230T084537Z">
@@ -11069,6 +11093,30 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080806Z" creationid="nakahodo" creationdate="20180413T080806Z">
         <seg>憑依ターンの終了時、任意の順番でスタックの一番上にこれらを返す）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At start of Birdsong, you and another player draw a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104242Z" creationid="nakahodo" creationdate="20180719T104242Z">
+        <seg>朝開始時、あなたと他プレイヤー1人はカード1枚をドローできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At start of Daylight, may initiate a battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104204Z" creationid="nakahodo" creationdate="20180719T104204Z">
+        <seg>昼開始時、戦闘1回を始められる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At start of Evening, may take a move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104311Z" creationid="nakahodo" creationdate="20180719T104311Z">
+        <seg>夜開始時、移動1回ができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12580,6 +12628,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T223740Z" creationid="nakahodo" creationdate="20180630T223740Z">
         <seg>カードはキツネ、ウサギ、ネズミスートの他に、4つめのスートを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Better Burrow Bank</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104209Z" creationid="nakahodo" creationdate="20180719T104209Z">
+        <seg>Better Burrow Bank</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,10 +14487,26 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cobbler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104242Z" creationid="nakahodo" creationdate="20180719T104242Z">
+        <seg>Cobbler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cobbler:​ ​For the Vagabond, this improvement gives a free &lt;boot&gt; whenever he exhausts a &lt;boot&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083523Z" creationid="aorin" creationdate="20171216T083523Z">
         <seg>靴屋：この改良は、ヴァガボンドが&lt;ブーツ&gt;を消耗させるたびに、無料で&lt;ブーツ&gt;を1つ与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Codebreakers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104420Z" creationid="nakahodo" creationdate="20180719T104420Z">
+        <seg>Codebreakers</seg>
       </tuv>
     </tu>
     <tu>
@@ -14531,6 +14603,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T120134Z" creationid="aorin" creationdate="20180115T120134Z">
         <seg>クロックウォーズの戦闘における戦術は、対戦相手がどうユニットを展開するのか予想することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command Warren</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104148Z" creationid="nakahodo" creationdate="20180719T104148Z">
+        <seg>Command Warren</seg>
       </tuv>
     </tu>
     <tu>
@@ -19874,6 +19954,22 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T153413Z" creationid="nakahodo" creationdate="20180604T153351Z">
         <seg>スケルトンは安定性を1、失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favor of the Foxes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104039Z" creationid="nakahodo" creationdate="20180719T104039Z">
+        <seg>Favor of the Foxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favor of the Rabbits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104312Z" creationid="nakahodo" creationdate="20180719T104312Z">
+        <seg>Favor of the Rabbits</seg>
       </tuv>
     </tu>
     <tu>
@@ -28729,6 +28825,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Birdsong, may take a random card from another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103647Z" creationid="nakahodo" creationdate="20180719T103647Z">
+        <seg>朝時、他プレイヤー1人からランダムにカード1枚を取れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Root, the players drive the narrative, and the differences among the roles create unparalleled interaction and replayability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
@@ -33417,6 +33521,22 @@ shown on the board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T223420Z" creationid="aorin" creationdate="20180528T223420Z">
         <seg>プレイヤーが行動する機会があるかどうか、次に従い決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once in Daylight, may look at another player’s hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104455Z" creationid="nakahodo" creationdate="20180719T104455Z">
+        <seg>昼になると、他プレイヤー1人の手札を見れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once in Daylight, may remove one of your warriors to draw a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104038Z" creationid="nakahodo" creationdate="20180719T104038Z">
+        <seg>昼になると、カード1枚をドローするために、あなたの戦士の1体を取り除ける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38436,6 +38556,22 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove all enemy pieces in fox clearings, then discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104135Z" creationid="nakahodo" creationdate="20180719T104135Z">
+        <seg>キツネ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all enemy pieces in rabbit clearings, then discard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104329Z" creationid="nakahodo" creationdate="20180719T104329Z">
+        <seg>ウサギ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove all enemy pieces there and place the matching base.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102420Z" creationid="nakahodo" creationdate="20180702T102420Z">
@@ -40109,6 +40245,14 @@ the start of each Research Track.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061944Z" creationid="nakahodo" creationdate="20180413T061542Z">
         <seg>Scour
 隠れ見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scouting Party</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104353Z" creationid="nakahodo" creationdate="20180719T104353Z">
+        <seg>Scouting Party</seg>
       </tuv>
     </tu>
     <tu>
@@ -42378,6 +42522,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stand and Deliver!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103612Z" creationid="nakahodo" creationdate="20180719T103612Z">
+        <seg>Stand and Deliver!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start the game with no</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T153411Z" creationid="nakahodo" creationdate="20180108T153411Z">
@@ -43258,6 +43410,14 @@ do not show what’s in it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tax Collector</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103707Z" creationid="nakahodo" creationdate="20180719T103707Z">
+        <seg>Tax Collector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technophilia:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213504Z" creationid="aorin" creationdate="20180114T213504Z">
@@ -43463,6 +43623,14 @@ do not show what’s in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204708Z" creationid="nakahodo" creationdate="20171230T084450Z">
         <seg>そのプレイヤーは、アーカイブに自身が使用したペルソナカードの1枚（現在のゲーム[または]自身のチャーターチェストから）を入れなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That player scores one point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103705Z" creationid="nakahodo" creationdate="20180719T103705Z">
+        <seg>そのプレイヤーは1勝利点を得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58188,6 +58356,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T103257Z" creationid="nakahodo" creationdate="20180719T103257Z">
         <seg>あなたはキツネ区画で待ち伏せできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only ambush in a mouse clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104336Z" creationid="nakahodo" creationdate="20180719T104336Z">
+        <seg>あなたはネズミ区画で待ち伏せできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only ambush in a rabbit clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104141Z" creationid="nakahodo" creationdate="20180719T104141Z">
+        <seg>あなたはウサギ区画で待ち伏せできる。</seg>
       </tuv>
     </tu>
     <tu>
