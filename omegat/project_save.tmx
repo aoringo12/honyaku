@@ -366,6 +366,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Bird) Ambush (Rabbit) A Visit to Friends (Rabbit) Bake Sale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T145909Z" creationid="nakahodo" creationdate="20180719T145844Z">
+        <seg>(鳥) Ambush
+(ウサギ) A Visit to Friends
+(ウサギ) Bake Sale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Discard) Destroy all Webs, Dancing Lights, Force</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153732Z" creationid="nakahodo" creationdate="20180601T153732Z">
@@ -13634,6 +13644,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T114427Z" creationid="aorin" creationdate="20180528T114427Z">
         <seg>カードタイプ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150104Z" creationid="nakahodo" creationdate="20180719T145924Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -37928,6 +37946,14 @@ players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put  ief card on Character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150103Z" creationid="nakahodo" creationdate="20180719T150103Z">
+        <seg>キャラクターカードスロットにThiefカードを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put 4 sky island tiles in each inactive Charter Chest.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T003236Z" creationid="aorin" creationdate="20171229T003236Z">
@@ -37965,6 +37991,14 @@ in a Roaster.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T145301Z" creationid="nakahodo" creationdate="20180108T145301Z">
         <seg>故障トークンをオーブンスペース2箇所に配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put pawn on map as walkthrough sheet shows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T150451Z" creationid="nakahodo" creationdate="20180719T150451Z">
+        <seg>プレイ演習シートで示されるようにマップにポーンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
