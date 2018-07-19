@@ -13255,6 +13255,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But take care, as the Eyrie are the Lords of the Forest:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T164522Z" creationid="nakahodo" creationdate="20180719T164522Z">
+        <seg>しかし注意せよ、鷲は森の王者なのだ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But that was before, and he failed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T120040Z" creationid="nakahodo" creationdate="20180412T120040Z">
@@ -18887,6 +18895,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each turn, they must add cards to it and then resolve it, taking a decreed action for each card in the matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163717Z" creationid="nakahodo" creationdate="20180719T163717Z">
+        <seg>各ターン、法令にカードを追加し、その後、一致する区域で各カードの法令アクションを実行し解決しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each turn, they must take all of the actions on their Decree, or else fall into turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153257Z" creationid="nakahodo" creationdate="20180629T153257Z">
@@ -19667,6 +19683,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150602Z" creationid="nakahodo" creationdate="20180108T150602Z">
         <seg>Expired Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exploit a weak spot in their Decree, and you’ll clip their wings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T164458Z" creationid="nakahodo" creationdate="20180719T164458Z">
+        <seg>法令の弱点を疲れると、その羽根をもぎ取られることになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27097,6 +27121,14 @@ stack is first in turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T144222Z" creationid="nakahodo" creationdate="20180412T144222Z">
         <seg>距離も等しい場合、あなたがユニコーンの対象を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they can’t complete all of the decreed actions, they fall into turmoil, losing them many points, replacing their leader, and discarding their Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163953Z" creationid="nakahodo" creationdate="20180719T163953Z">
+        <seg>全ての法令アクションが完了できない場合、混乱に陥り、多くの得点を失い、リーダーが入れ替わり、法令が捨て札にされる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60882,8 +60914,16 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>e Eyrie Dynasties score points each turn based on how many roosts are on the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163501Z" creationid="nakahodo" creationdate="20180719T163501Z">
-        <seg>鳥の王族はマップ上の止まり木に基づいて各ターンに勝利点を得点する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163540Z" creationid="nakahodo" creationdate="20180719T163501Z">
+        <seg>鷲の王族はマップ上の止まり木の数に基づいて各ターンに勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Eyrie are bound by their Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163607Z" creationid="nakahodo" creationdate="20180719T163535Z">
+        <seg>鷲は自身の法令によって縛られている。</seg>
       </tuv>
     </tu>
     <tu>
