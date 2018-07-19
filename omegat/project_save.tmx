@@ -402,6 +402,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Bird) Brutal Tactics (Rabbit) Better Burrow Bank (Mouse) Travel Gear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155521Z" creationid="nakahodo" creationdate="20180719T155503Z">
+        <seg>(鳥) Brutal Tactics
+(ウサギ) Better Burrow Bank 
+(ネズミ) Travel Gear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Bird) Sappers (Bird) Birdy Bindle (Fox) Anvil</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T152233Z" creationid="nakahodo" creationdate="20180719T152233Z">
@@ -15842,6 +15852,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destroying her keep would be a mighty blow against her invasion—strike at it if you dare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160434Z" creationid="nakahodo" creationdate="20180719T160434Z">
+        <seg>キープが破壊されると、マルキスの侵略に対する大きな打撃となるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determine Turn Order
 The player with the lowest score on the Performance
 Track will go first.</seg>
@@ -23253,6 +23271,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T130439Z" creationid="nakahodo" creationdate="20180406T130439Z">
         <seg>彼女が安らぎを得る唯一の希望は、最後に少しだけ残った彼女の生きた証、それを洞窟の根源へと残し、苦しみから抜け出すために十分なエネルギーを引き出すことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Her recruiters let her recruit more warriors per turn and improve her card draw, her sawmills give her more wood each turn, and her workshops let her cra  cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155911Z" creationid="nakahodo" creationdate="20180719T155911Z">
+        <seg>雇用所はターンごとに多くの戦士たちを雇用してカードのドローを良くし、製材所は各ターンで多くの木材を提供し、作業場はクラフトカードを実行できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56503,6 +56529,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While her keep stands, her Field Hospitals let her spend cards to place dying warriors back at her keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160221Z" creationid="nakahodo" creationdate="20180719T160221Z">
+        <seg>キープがある間、野戦病院はカードを消費することで、死ぬはずだった戦士たちをキープへと戻せる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While in an open space, a Skeleton cannot use its abilities or Gear, cannot be affected by any opposing player effects, and cannot distract other pieces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T141123Z" creationid="nakahodo" creationdate="20180603T134255Z">
@@ -60814,6 +60848,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Marquise de Cat scores by spending wood to place buildings, scoring more if she has more of a given building on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T155614Z" creationid="nakahodo" creationdate="20180719T155505Z">
+        <seg>マルキス・デ・キャットは建物を配置するために木材を消費することで得点し、マップに建物が多いほどさらに得点できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Marquise rules, so the Riverfolk must spend two Marquise funds.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T203540Z" creationid="nakahodo" creationdate="20180703T203540Z">
@@ -60842,6 +60884,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T173906Z" creationid="nakahodo" creationdate="20180703T173906Z">
         <seg>ヴァガボンドは遺跡を探索してアイテムを探し、そのスロットを空にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Woodland Alliance scores as they place sympathy on the map, scoring more as they place more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160550Z" creationid="nakahodo" creationdate="20180719T160550Z">
+        <seg>ウッドランド連合はマップに賛同者を配置することで得点し、彼らを多くすることでさらに得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e seat of her power is the Keep of Marquise de Cat, a structure so imposing that no other faction can place pieces in its clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160049Z" creationid="nakahodo" creationdate="20180719T160049Z">
+        <seg>マルキス・デ・キャットの玉座はキープであり、他派閥がその区域にピースを配置できなようになっている。</seg>
       </tuv>
     </tu>
     <tu>
