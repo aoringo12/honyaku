@@ -1958,6 +1958,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- fox</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103242Z" creationid="nakahodo" creationdate="20180719T103242Z">
+        <seg>キツネ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--A Flame Wall placed on the Entrance will prevent the Thief from stashing treasures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171127T134219Z" creationid="nakahodo" creationdate="20171127T134219Z">
@@ -10529,8 +10537,9 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Armorers</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102825Z" creationid="nakahodo" creationdate="20180719T102513Z">
-        <seg>甲冑師</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102957Z" creationid="nakahodo" creationdate="20180719T102513Z">
+        <seg>Armorers
+甲冑師</seg>
       </tuv>
     </tu>
     <tu>
@@ -11066,8 +11075,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At start of battle, defender may play to deal two immediate hits, then discard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102258Z" creationid="nakahodo" creationdate="20180719T102048Z">
-        <seg>戦闘開始時、ディフェンダーは相手に直ちに2ヒット与えるためにプレイし、その後、捨て札にします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102936Z" creationid="nakahodo" creationdate="20180719T102048Z">
+        <seg>戦闘開始時、ディフェンダーは相手に直ちに2ヒット与えるためにプレイし、その後、捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12869,8 +12878,9 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>Brutal Tactics</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102856Z" creationid="nakahodo" creationdate="20180719T102856Z">
-        <seg>残忍な手口</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103013Z" creationid="nakahodo" creationdate="20180719T102856Z">
+        <seg>Brutal Tactics
+残忍な手口</seg>
       </tuv>
     </tu>
     <tu>
@@ -13389,8 +13399,8 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>Cancel if attacker plays matching ambush.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102458Z" creationid="nakahodo" creationdate="20180719T102458Z">
-        <seg>アタッカーもまた待ち伏せをプレイした場合、これはキャンセルされます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103315Z" creationid="nakahodo" creationdate="20180719T102458Z">
+        <seg>アタッカーもまたスートが一致する待ち伏せをプレイした場合、これはキャンセルされる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28711,6 +28721,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Birdsong, may discard this to score one point per clearing you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103235Z" creationid="nakahodo" creationdate="20180719T103235Z">
+        <seg>朝時、これを捨て札にすることで、あなたが支配する区域ごとに1勝利点得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Root, the players drive the narrative, and the differences among the roles create unparalleled interaction and replayability.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171103T154729Z" creationid="nakahodo" creationdate="20171103T154729Z">
@@ -28971,16 +28989,16 @@ World Map and collect beans.</seg>
       <tuv lang="EN-US">
         <seg>In battle as defender, may discard this to deal an extra hit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102734Z" creationid="nakahodo" creationdate="20180719T102734Z">
-        <seg>ディフェンダーとしての戦闘にて、これを捨て札にすることで、追加の1ヒットを与えることができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102923Z" creationid="nakahodo" creationdate="20180719T102734Z">
+        <seg>ディフェンダーとしての戦闘にて、これを捨て札にすることで、追加の1ヒットを与えることができる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In battle, may discard this to ignore all rolled hits taken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102641Z" creationid="nakahodo" creationdate="20180719T102519Z">
-        <seg>戦闘にて、これを捨て札にすることで、ロールされて受けることになるヒット全てを無視できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102928Z" creationid="nakahodo" creationdate="20180719T102519Z">
+        <seg>戦闘にて、これを捨て札にすることで、ロールされて受けることになるヒット全てを無視できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39577,6 +39595,15 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Royal Claim</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103150Z" creationid="nakahodo" creationdate="20180719T103150Z">
+        <seg>Royal Claim
+勅命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ruins can only be removed by the Vagabond's Explore action (9.5.6).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T090825Z" creationid="nakahodo" creationdate="20180629T090825Z">
@@ -39901,8 +39928,9 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Sappers</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102740Z" creationid="nakahodo" creationdate="20180719T102704Z">
-        <seg>工兵</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103003Z" creationid="nakahodo" creationdate="20180719T102704Z">
+        <seg>Sappers
+工兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -57734,8 +57762,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may ambush in any clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102128Z" creationid="nakahodo" creationdate="20180719T102046Z">
-        <seg>あなた任意の区画で待ち伏せ出来ます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102944Z" creationid="nakahodo" creationdate="20180719T102046Z">
+        <seg>あなた任意の区画で待ち伏せできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58152,6 +58180,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T170952Z" creationid="nakahodo" creationdate="20171229T170450Z">
         <seg>あなたは、自身のチャーターに通常ワーカーを配置することはできません（ミニオンはできます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only ambush in a fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103257Z" creationid="nakahodo" creationdate="20180719T103257Z">
+        <seg>あなたはキツネ区画で待ち伏せできる。</seg>
       </tuv>
     </tu>
     <tu>
