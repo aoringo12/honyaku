@@ -8669,6 +8669,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add one or two cards to the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091732Z" creationid="nakahodo" creationdate="20180720T091732Z">
+        <seg>法令にカード1枚か2枚を追加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add them to the Chronicle along with the Setup cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T223125Z" creationid="nakahodo" creationdate="20171224T223125Z">
@@ -15257,8 +15265,8 @@ including, but not limited to:</seg>
       <tuv lang="EN-US">
         <seg>Crafted Items</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085327Z" creationid="nakahodo" creationdate="20180720T085327Z">
-        <seg>クラフトしたアイテム</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091627Z" creationid="nakahodo" creationdate="20180720T085327Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -16341,6 +16349,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143323Z" creationid="nakahodo" creationdate="20171213T143323Z">
         <seg>このターンに残った全てのアクションディスクを、アクションスペースへと配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disdain for Trade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091542Z" creationid="nakahodo" creationdate="20180720T091419Z">
+        <seg>貿易軽視</seg>
       </tuv>
     </tu>
     <tu>
@@ -28988,6 +29004,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your hand is empty, draw 1 card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091647Z" creationid="nakahodo" creationdate="20180720T091647Z">
+        <seg>あなたの手札が空の場合、カード1枚をドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your role’s placement rules conflict with the rules given here, you only need to satisfy the role’s placement rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234917Z" creationid="nakahodo" creationdate="20180531T234917Z">
@@ -31799,6 +31823,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lords of the Forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091417Z" creationid="nakahodo" creationdate="20180720T091417Z">
+        <seg>森の領主</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lords​ ​of​ ​the​ ​Forest.​ The Eyrie is the ruler of a clearing when tied for most combined warriors and buildings there.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154138Z" creationid="aorin" creationdate="20171215T154138Z">
@@ -34352,6 +34384,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T080305Z" creationid="nakahodo" creationdate="20180311T080305Z">
         <seg>ロボタニスト1体のみが、1つのガーデンセクターを一度に占領できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only one card added may be a .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091908Z" creationid="nakahodo" creationdate="20180720T091908Z">
+        <seg>○はカード1枚のみを追加できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54657,6 +54697,14 @@ Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When cra ing items, you score only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091623Z" creationid="nakahodo" creationdate="20180720T091623Z">
+        <seg>アイテムをクラフトする時、あなたはクラフトしたアイテムのみ得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When defending in battle, the Alliance uses the higher roll and the attacker uses the lower roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T182727Z" creationid="nakahodo" creationdate="20180629T182727Z">
@@ -59999,6 +60047,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T214318Z" creationid="nakahodo" creationdate="20180630T214318Z">
         <seg>あなたが区域1つで戦士たちと建物を最も合計で持っている場合に、その区域を支配します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You rule any clearings where you are tied in presence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091533Z" creationid="nakahodo" creationdate="20180720T091417Z">
+        <seg>あなたが支配する区域全てで、タイにて優先される。</seg>
       </tuv>
     </tu>
     <tu>
