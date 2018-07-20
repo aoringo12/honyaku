@@ -20241,6 +20241,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Field Hospitals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T084243Z" creationid="nakahodo" creationdate="20180720T084243Z">
+        <seg>野戦病院</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field​ ​Hospitals.​ Whenever a Marquise warrior takes a hit, the Marquise may spend any card to move the warrior to the Keep, instead of removing it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T230240Z" creationid="aorin" creationdate="20171215T230240Z">
@@ -33333,6 +33341,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042657Z" creationid="aorin" creationdate="20171228T165733Z">
         <seg>村が繁栄している今、王国全体の文化、技術、軍事、教育、娯楽、経済に影響を与えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you must build a kingdom worthy of your name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T084215Z" creationid="nakahodo" creationdate="20180720T084207Z">
+        <seg>まさに今、あなたの名前にふさわしい王国を作る必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55687,6 +55703,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a Marquise warrior is removed, you may spend a card matching its clearing to move the warrior to the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085320Z" creationid="nakahodo" creationdate="20180720T085320Z">
+        <seg>マルキスの戦士が取り除かれるたびに、あなたは、その戦士がいた区画に一致するsウートのカード1枚を消費することで、キープトークンのある区画に戦士を移動させることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a Tribe Reveals, you may return the Strength disc to your supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T141504Z" creationid="nakahodo" creationdate="20180430T141504Z">
@@ -58426,6 +58450,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have conquered the forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T084124Z" creationid="nakahodo" creationdate="20180720T084124Z">
+        <seg>あなたは森を征服している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You lose if 5 Crystal tiles collapse.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024759Z" creationid="aorin" creationdate="20180408T024646Z">
@@ -61060,6 +61092,15 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T201645Z" creationid="nakahodo" creationdate="20180703T201645Z">
         <seg>鷲はそれの購入を決定しましたので、自身のサプライから戦士たち3体を、リバーフォークの支払いボックスに移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Keep Only you can place pieces in the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T084239Z" creationid="nakahodo" creationdate="20180720T084209Z">
+        <seg>キープ
+あなたはキープトークンを持つ区域にのみ、ピースを配置できる。</seg>
       </tuv>
     </tu>
     <tu>
