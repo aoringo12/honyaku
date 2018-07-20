@@ -24032,6 +24032,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, unlike other pieces, when trade posts are removed, they cannot be rebuilt!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075710Z" creationid="nakahodo" creationdate="20180720T075710Z">
+        <seg>しかしながら、他ピースたちと違い、交易所は取り除かれたら、再建築することはできない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when it would be placed in the discard pile, instead place it near the map to show it is available to be taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113809Z" creationid="nakahodo" creationdate="20180629T113809Z">
@@ -61088,6 +61096,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Riverfolk off er three services:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075851Z" creationid="nakahodo" creationdate="20180720T075851Z">
+        <seg>リバーフォークは3つのサービスを提供する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Riverfolk place a fox trade post with a warrior there, and score two victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T203612Z" creationid="nakahodo" creationdate="20180703T203612Z">
@@ -61140,6 +61156,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T163522Z" creationid="nakahodo" creationdate="20180719T163522Z">
         <seg>多くの止まり木は、より多く得点できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e more trade posts in clearings of the same suit, the more points they score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075647Z" creationid="nakahodo" creationdate="20180720T075647Z">
+        <seg>同じスートの区画の交易所が多くなるほど、より勝利点を得点できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61208,10 +61232,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ey also score points by earning and saving up funds, warriors that other factions pay to the Riverfolk for their services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075841Z" creationid="nakahodo" creationdate="20180720T075841Z">
+        <seg>彼らはまた、他派閥がリバーフォークのサービスを受けるために支払った戦士たちを資金として儲けて貯めることにより、勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ey do not add to rule.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T174110Z" creationid="nakahodo" creationdate="20180703T172811Z">
         <seg>区域の支配にカウントされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ey score points as they set up trade posts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075619Z" creationid="nakahodo" creationdate="20180720T075619Z">
+        <seg>彼らは交易所により勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61750,6 +61790,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171212Z" creationid="aorin" creationdate="20171212T171124Z">
         <seg>炭鉱の最も低い場所にある2つのドレイの場所は、常に最初に満たされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>their riverboats, their mercenary warriors, and cards from their public hand For Sale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075934Z" creationid="nakahodo" creationdate="20180720T075934Z">
+        <seg>リバーブーツ、傭兵、公開された手札だ。</seg>
       </tuv>
     </tu>
     <tu>
