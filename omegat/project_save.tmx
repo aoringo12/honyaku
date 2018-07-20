@@ -22937,6 +22937,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guerrilla War</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092844Z" creationid="nakahodo" creationdate="20180720T092844Z">
+        <seg>ゲリラ戦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest Cards</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171228T233739Z" creationid="aorin" creationdate="20171228T233739Z">
@@ -27287,6 +27295,14 @@ stack is first in turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they cannot, they show you their hand, and you draw a card and add it to your supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092840Z" creationid="nakahodo" creationdate="20180720T092840Z">
+        <seg>それができない場合、そのプレイヤーはあなたに手札を見せ、あなたはカード1枚を共通デッキからドローし、支援者にこれを追加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If they can’t complete all of the decreed actions, they fall into turmoil, losing them many points, replacing their leader, and discarding their Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T163953Z" creationid="nakahodo" creationdate="20180719T163953Z">
@@ -29197,6 +29213,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immediately end Daylight and go to Evening.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092530Z" creationid="nakahodo" creationdate="20180720T092530Z">
+        <seg>直ちに昼フェイズを終了し、夜フェイズに移行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediately place the Wolf piece on Shooty’s space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T154045Z" creationid="nakahodo" creationdate="20180603T154026Z">
@@ -29563,6 +29587,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T102923Z" creationid="nakahodo" creationdate="20180719T102734Z">
         <seg>ディフェンダーとしての戦闘にて、これを捨て札にすることで、追加の1ヒットを与えることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In battle as defender, you use the higher roll and the attacker uses the lower.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092912Z" creationid="nakahodo" creationdate="20180720T092912Z">
+        <seg>ディフェンダーとしての戦闘時、あなたはダイスロールの高い出目を使用し、アタッカーは低い方を使用する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31963,8 +31995,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Lose one victory point per bird card (including Viziers) on Decree.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092335Z" creationid="nakahodo" creationdate="20180720T092244Z">
-        <seg>法令にある、（王宮大臣を含んだ）鳥カードごとに、勝利点1を失う。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092504Z" creationid="nakahodo" creationdate="20180720T092244Z">
+        <seg>法令にある、（Viziersを含んだ）鳥カードごとに、勝利点1を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34906,6 +34938,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T080826Z" creationid="aorin" creationdate="20180410T080826Z">
         <seg>そうでなければ、ダイスをダイスチャーの左側から、同じ行の右側にスライドさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outrage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092547Z" creationid="nakahodo" creationdate="20180720T092547Z">
+        <seg>暴動</seg>
       </tuv>
     </tu>
     <tu>
@@ -38542,6 +38582,22 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P a warrior in the Officers box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T093211Z" creationid="nakahodo" creationdate="20180720T093211Z">
+        <seg>将校ボックスに戦士1体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P matching base and warriors there equal to total number of matching sympathetic clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T093153Z" creationid="nakahodo" creationdate="20180720T093153Z">
+        <seg>対象区画に、スートの一致する基地と、スートの一致する賛同区域の合計数に等しい数の戦士を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Q You accept his apology and allow the spying to continue so the king won't suspect anything.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210759Z" creationid="aorin" creationdate="20171231T210759Z">
@@ -39708,6 +39764,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rest:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092517Z" creationid="nakahodo" creationdate="20180720T092517Z">
+        <seg>休息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restore Omens</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T182929Z" creationid="nakahodo" creationdate="20180604T182929Z">
@@ -40059,6 +40123,15 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T143115Z" creationid="nakahodo" creationdate="20171224T143115Z">
         <seg>Review the steps on 「ule 19 the first time this happens this in Game 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revolt any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092928Z" creationid="nakahodo" creationdate="20180720T092928Z">
+        <seg>反乱
+任意の回数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40574,6 +40647,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T151716Z" creationid="nakahodo" creationdate="20180603T151716Z">
         <seg>ルーンストーン（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R all enemy pieces there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T093009Z" creationid="nakahodo" creationdate="20180720T093009Z">
+        <seg>そこにいる敵ピース全てを取り除く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42917,6 +42998,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend number of supporters listed on Sympathy track to place a sympathy, adjacent to sympathetic clearing if possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T093244Z" creationid="nakahodo" creationdate="20180720T093244Z">
+        <seg>Spend number of supporters listed on Sympathy track to place a sympathy, adjacent to sympathetic clearing if possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend one fund to place a warrior in any clearing with a river.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T172647Z" creationid="nakahodo" creationdate="20180630T172614Z">
@@ -43169,6 +43258,15 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T193509Z" creationid="nakahodo" creationdate="20180411T193509Z">
         <seg>Spores to remove one upgrade of your choice (but you do not lose Radiance).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spread Sympathy any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T093238Z" creationid="nakahodo" creationdate="20180720T093238Z">
+        <seg>賛同者を広げる
+任意の回数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43668,6 +43766,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183813Z" creationid="nakahodo" creationdate="20180604T183747Z">
         <seg>これらを交換し、それぞれ任意の方向へと回転させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S ­ 2 supporters matching a sympathetic clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092956Z" creationid="nakahodo" creationdate="20180720T092956Z">
+        <seg>賛同区域に一致する支援者2枚を消費する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54623,6 +54729,14 @@ Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T025225Z" creationid="aorin" creationdate="20171212T025225Z">
         <seg>プレイヤーが何かを「得る」とき、それぞれのサプライからそれを取り、彼の近所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a player removes sympathy or moves any warriors into a sympathetic clearing, that player must add a matching card from their hand to your supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092745Z" creationid="nakahodo" creationdate="20180720T092745Z">
+        <seg>プレイヤー1人が賛同者か、賛同区域の戦士を取り除いた時、そのプレイヤーはあなたの支援者へと、自身の手札から区域とスートが一致するカード1枚を追加しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
