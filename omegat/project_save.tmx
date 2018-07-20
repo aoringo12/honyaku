@@ -13336,6 +13336,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building up infrastructure makes your turns more effi cient and helps you draw more cards, so strike out to secure your right to expansion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163937Z" creationid="nakahodo" creationdate="20180720T163937Z">
+        <seg>インフラを構築することで、あなたのターンをより効率的に、カードをより多くドローできるので、その拡張への余力を確保できるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buildings fi ll slots in clearings.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T162833Z" creationid="nakahodo" creationdate="20180720T162833Z">
@@ -62148,6 +62156,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T142633Z" creationid="nakahodo" creationdate="20180430T142356Z">
         <seg>あなたの怒りの最大値が4に上昇する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your military is legion, letting you enforce your rule with an iron fi st, if necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163942Z" creationid="nakahodo" creationdate="20180720T163942Z">
+        <seg>Your military is legion, letting you enforce your rule with an iron fi st, if necessary.</seg>
       </tuv>
     </tu>
     <tu>
