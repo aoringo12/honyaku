@@ -23298,6 +23298,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hates Surprises</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144848Z" creationid="nakahodo" creationdate="20180720T144848Z">
+        <seg>驚くほど神経質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hates Surprises:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T070519Z" creationid="nakahodo" creationdate="20180719T070456Z">
@@ -25351,6 +25359,14 @@ Artifact enters such a Ghost tile on their own turn.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a player is prompted to take a card from the Mechanical Marquise, they draw a card instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144812Z" creationid="nakahodo" creationdate="20180720T144812Z">
+        <seg>プレイヤーがメカニカルマルキスからカードを取るよう指示された場合、代わりに共通山札からカード1枚をドローする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a player needs to place
 a fourth Marker, that player removes a Marker from another
 blend or doesn’t add a Marker to a Blend created this round.</seg>
@@ -26371,6 +26387,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T212018Z" creationid="nakahodo" creationdate="20180630T212018Z">
         <seg>2人でプレイする場合、連合も取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If prompted to give it a card, discard the card, and it scores .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144844Z" creationid="nakahodo" creationdate="20180720T144844Z">
+        <seg>カードを与えるよう指示された場合、カードを捨て札にして、メカニカルマルキスが○得点する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31098,6 +31122,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T104244Z" creationid="aorin" creationdate="20180526T104244Z">
         <seg>ボスカードはヒーローたちにダメージを与えず、アクティブ不可にならず、撃破されません（これらの用語の詳細は後ほど）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It cannot discard cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144735Z" creationid="nakahodo" creationdate="20180720T144735Z">
+        <seg>カードを捨て札にできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38517,6 +38549,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poor Manual Dexerity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144714Z" creationid="nakahodo" creationdate="20180720T144714Z">
+        <seg>不器用な機敏性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poor Manual Dexterity:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T070258Z" creationid="nakahodo" creationdate="20180719T070258Z">
@@ -40609,6 +40649,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal the next order card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T155555Z" creationid="nakahodo" creationdate="20180720T155555Z">
+        <seg>公開　次のオーダーカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal this card immediately if kept.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T124914Z" creationid="nakahodo" creationdate="20180430T124826Z">
@@ -41612,6 +41660,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T101131Z" creationid="nakahodo" creationdate="20180720T101131Z">
         <seg>戦闘で敵対派閥ピースを取り除くごとに○得点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score per clearing you rule with at least 3 of your warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T145031Z" creationid="nakahodo" creationdate="20180720T145031Z">
+        <seg>少なくともあなたの戦士3体を持ち、あなたが支配する区画ごとに○得点する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63446,6 +63502,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T103452Z" creationid="nakahodo" creationdate="20180720T103452Z">
         <seg>交易所がすでにある区画は対象にできない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Mechanical Marquise has no hand of cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144723Z" creationid="nakahodo" creationdate="20180720T144723Z">
+        <seg>メカニカルマルキスは手札を持てない。</seg>
       </tuv>
     </tu>
     <tu>
