@@ -10891,6 +10891,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Eyrie Dynasties, you wish to restore your once-dignifi ed kind to your former glory by retaking control of the Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185419Z" creationid="nakahodo" creationdate="20180720T185419Z">
+        <seg>鳥の王族として、あなたはウッドランドの支配権を取り戻すことにより、かつての栄光を今一度、復権したいと考えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the Hero enters each</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220902Z" creationid="aorin" creationdate="20180528T220902Z">
@@ -20737,6 +20745,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234134Z" creationid="nakahodo" creationdate="20180531T234134Z">
         <seg>開いた側面を満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill your Roosts track with roosts except for the le  most space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T180321Z" creationid="nakahodo" creationdate="20180720T180321Z">
+        <seg>止まり木トラックに、最も左のスペースを除いて止まり木で満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38739,6 +38755,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074539Z" creationid="nakahodo" creationdate="20180311T074505Z">
         <seg>プログラムカードをプレイする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Playing the Eyrie</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T180328Z" creationid="nakahodo" creationdate="20180720T180328Z">
+        <seg>鷲のプレイング</seg>
       </tuv>
     </tu>
     <tu>
