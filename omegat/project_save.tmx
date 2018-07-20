@@ -61638,8 +61638,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your removed defending warriors become acolytes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104850Z" creationid="nakahodo" creationdate="20180720T104850Z">
-        <seg>Your removed defending warriors become acolytes.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133344Z" creationid="nakahodo" creationdate="20180720T104850Z">
+        <seg>ディフェンダー時にあなたの取り除かれた戦士はアコライトになる。</seg>
       </tuv>
     </tu>
     <tu>
