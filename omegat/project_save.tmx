@@ -24684,6 +24684,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, your people feel Disdain for Trade, so you’ll o  en score fewer points for cra  ing items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T190451Z" creationid="nakahodo" creationdate="20180720T190451Z">
+        <seg>しかし、あなたの民たちは貿易を軽視しているので、アイテムをクラフトすることによる勝利点を少ししか得点できないだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Humiliate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162722Z" creationid="nakahodo" creationdate="20180629T162722Z">
@@ -42574,6 +42582,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T172259Z" creationid="nakahodo" creationdate="20180720T172259Z">
         <seg>Setup (B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup (C)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T190503Z" creationid="nakahodo" creationdate="20180720T190503Z">
+        <seg>セットアップ（C）</seg>
       </tuv>
     </tu>
     <tu>
