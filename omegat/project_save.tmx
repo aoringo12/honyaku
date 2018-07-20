@@ -13640,6 +13640,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Campaign Games</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T161137Z" creationid="nakahodo" creationdate="20180720T161115Z">
+        <seg>キャンペーンゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camping allows you to restore health and sometimes morale, as well as use certain skills and equipment.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171124T134924Z" creationid="nakahodo" creationdate="20171124T134924Z">
@@ -15163,6 +15171,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue until you reveal an order card with a cra ing cost or you run out of order cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160757Z" creationid="nakahodo" creationdate="20180720T160757Z">
+        <seg>クラフトコストを持つオーダーカードが公開されるか、オーダーカードが使い果たされるまで続ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controlled Sectors 1:1 - If you Control a Sector Die in this row that matches any Garden Sector Dice, earn one Favor Cog for every Gem in all matching Garden Sectors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180312T075710Z" creationid="nakahodo" creationdate="20180312T075710Z">
@@ -15192,6 +15208,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T074743Z" creationid="nakahodo" creationdate="20180719T074743Z">
         <seg>協力キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooperative Mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160901Z" creationid="nakahodo" creationdate="20180720T160901Z">
+        <seg>協力モード</seg>
       </tuv>
     </tu>
     <tu>
@@ -17105,6 +17129,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T073223Z" creationid="nakahodo" creationdate="20180719T073223Z">
         <seg>カードをどろーし、カード5枚になるまで、スケジュールオーダーの右側にそれらを追加していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw cards to fill the Schedule of Orders to 5 cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160850Z" creationid="nakahodo" creationdate="20180720T160850Z">
+        <seg>オーダーのスケジュールが5枚で満たされるまで共通デッキからドローして補充する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19755,6 +19787,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every player must score 30 points before the Marquise does.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160943Z" creationid="nakahodo" creationdate="20180720T160943Z">
+        <seg>全てのプレイヤーがマルキスが30点になる前に、30点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every star token placed</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093950Z" creationid="nakahodo" creationdate="20180209T093950Z">
@@ -21486,6 +21526,22 @@ track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040042Z" creationid="aorin" creationdate="20171213T040042Z">
         <seg>リソースキューブの種類ごとに、個人サプライに残っているリソースが最も多いプレイヤーを決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each victory, each player may start the game with a cra ed card from their final play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T161344Z" creationid="nakahodo" creationdate="20180720T161344Z">
+        <seg>勝利するごとに、各プレイヤーは自身の最終プレイエリアからクラフトカードを持ち越しゲームを開始する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each victory, the Marquise starts with three more points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T161304Z" creationid="nakahodo" creationdate="20180720T161304Z">
+        <seg>勝利するごとに、マルキスは3点を追加でもってゲームを開始する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27088,6 +27144,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the order card has no cra ing cost, restart the process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160716Z" creationid="nakahodo" creationdate="20180720T160716Z">
+        <seg>クラフトコストがないオーダーカードの場合、このポロセスをやり直す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the position in turn order of the Possession card is before the non-Ghost player, reveal the card at the end of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021517Z" creationid="aorin" creationdate="20180408T021517Z">
@@ -29679,10 +29743,26 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Birdsong, the Marquise also scores per player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T161031Z" creationid="nakahodo" creationdate="20180720T161031Z">
+        <seg>朝にて、マルキスはさらに、プレイヤーごとに○得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Daylight, reveal an order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T071312Z" creationid="nakahodo" creationdate="20180720T070323Z">
         <seg>昼にて、オーダー1枚を公開する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Daylight, the Marquise does not need to rule in order to recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T161124Z" creationid="nakahodo" creationdate="20180720T161114Z">
+        <seg>昼にて、マルキスは区画を雇用するために支配する必要はない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36310,6 +36390,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 warrior in each clearing you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160601Z" creationid="nakahodo" creationdate="20180720T160601Z">
+        <seg>あなたが支配する区画ごとに戦士1体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 warrior in each clearing, except diagonally opposite from keep.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T155353Z" creationid="nakahodo" creationdate="20180719T155353Z">
@@ -36346,6 +36434,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T081946Z" creationid="aorin" creationdate="20180409T081946Z">
         <seg>自身のボード近くに憎悪トークン4つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 4 warriors in the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160643Z" creationid="nakahodo" creationdate="20180720T160643Z">
+        <seg>キープトークンがある区画に戦士4体を配置知る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41216,6 +41312,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rule Additions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160949Z" creationid="nakahodo" creationdate="20180720T160949Z">
+        <seg>追加ルール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rulebook</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T144124Z" creationid="nakahodo" creationdate="20180525T144124Z">
@@ -44849,6 +44953,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100320Z">
         <seg>あなたのいる区画にある遺跡からアイテム1つを取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take moves from lowest to highest number.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T161417Z" creationid="nakahodo" creationdate="20180720T161417Z">
+        <seg>数字の低い順番に移動を実行する。</seg>
       </tuv>
     </tu>
     <tu>
