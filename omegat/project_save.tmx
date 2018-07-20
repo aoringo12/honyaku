@@ -21199,6 +21199,14 @@ please see page 13.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For battle and rule in Daylight and Evening, buyer treats Riverfolk warriors as own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104627Z" creationid="nakahodo" creationdate="20180720T104627Z">
+        <seg>昼と夜の戦闘と支配にて、購入者はリバーフォークの戦士たちを自身が所有するものとして扱える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For buildings you constructed this game, the first time you use them, gain 4 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T201746Z" creationid="aorin" creationdate="20171231T201746Z">
@@ -29864,6 +29872,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle, they must split hits between their own pieces and Riverfolk warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104710Z" creationid="nakahodo" creationdate="20180720T104710Z">
+        <seg>戦闘にて、リバーフォークの戦士と自身のピースとで、ヒットを半々でわけて受ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In both situations, the current round is finished by the players including the reward and penalty phases.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032730Z" creationid="aorin" creationdate="20171213T032730Z">
@@ -32801,6 +32817,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T201614Z" creationid="nakahodo" creationdate="20180703T201407Z">
         <seg>傭兵の購入コストは現在3です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mercenaries:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104534Z" creationid="nakahodo" creationdate="20180720T104527Z">
+        <seg>傭兵：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40465,6 +40489,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revenge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104849Z" creationid="nakahodo" creationdate="20180720T104849Z">
+        <seg>リベンジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review the steps on rule 19 the first time this happens this in Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T143341Z" creationid="nakahodo" creationdate="20171224T143341Z">
@@ -46634,6 +46666,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T215852Z" creationid="nakahodo" creationdate="20180531T215852Z">
         <seg>ライトサイドには、プレイヤーたちが探索することになる館の一部が描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Lizard Cult</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104843Z" creationid="nakahodo" creationdate="20180720T104843Z">
+        <seg>リザード・カルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -53294,6 +53334,14 @@ side to place face-up on the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trade Posts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104714Z" creationid="nakahodo" creationdate="20180720T104714Z">
+        <seg>交易所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade Tiles</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T142443Z" creationid="nakahodo" creationdate="20171213T142433Z">
@@ -54828,6 +54876,14 @@ COMPONENTS</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T151002Z" creationid="nakahodo" creationdate="20180430T151002Z">
         <seg>魔法使いのワンド
 このカードは5回のチャージを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warriors are placed in this box to pay for services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104841Z" creationid="nakahodo" creationdate="20180720T104841Z">
+        <seg>戦士たちはこのボックスに配置されることで、サービスの支払いとする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56586,6 +56642,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T045211Z" creationid="aorin" creationdate="20171213T045211Z">
         <seg>プレイヤーが自身の昇進済み妖精1体を降格させて妖精に送る必要がある時、このタイルを使用してクイーンに慈悲を乞うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a trade post is removed from the map, remove it from the game, and remove half of your funds (rounded up).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104800Z" creationid="nakahodo" creationdate="20180720T104800Z">
+        <seg>交易所がマップから取り除かれるたびに、それはゲームから取り除かれ、あなたの資金半分（切り上げ）が取り除かれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61568,6 +61632,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T194337Z" creationid="aorin" creationdate="20180114T194337Z">
         <seg>あなたの種族の首都です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your removed defending warriors become acolytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104850Z" creationid="nakahodo" creationdate="20180720T104850Z">
+        <seg>Your removed defending warriors become acolytes.</seg>
       </tuv>
     </tu>
     <tu>
