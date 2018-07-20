@@ -9589,6 +9589,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aid a faction times during one turn to shi­ its relationship marker right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101035Z" creationid="nakahodo" creationdate="20180720T101035Z">
+        <seg>関係性マーカーを右にシフトするために、1つのターン間に○の数だけ対象派閥を支援する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aid a non-Hostile faction the number of times listed between their current Allied space and their next Allied space during the same turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T212415Z" creationid="nakahodo" creationdate="20180629T212415Z">
@@ -9970,6 +9978,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allied</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101154Z" creationid="nakahodo" creationdate="20180720T101154Z">
+        <seg>友軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allied warriors do not gain the benefit of your Nimble special ability and cannot enter forests.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T214037Z" creationid="nakahodo" creationdate="20180629T214037Z">
@@ -10258,6 +10274,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T175544Z" creationid="nakahodo" creationdate="20180604T175505Z">
         <seg>卵の防御力は1で、そこに配置されているブラッドトークンの数だけさらに追加されます（例：ブラッドトークン2つを持つ卵の防御力は3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An Evening’s Rest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100655Z" creationid="nakahodo" creationdate="20180720T100655Z">
+        <seg>夜の休息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14513,6 +14537,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Claim a quest and replace it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100514Z" creationid="nakahodo" creationdate="20180720T100514Z">
+        <seg>クエスト1つの達成を主張し、それを入れ替える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Claim a quest whose suit matches your clearing by exhausting the two items listed on the quest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T153417Z" creationid="nakahodo" creationdate="20180702T153417Z">
@@ -16792,6 +16824,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T192153Z" creationid="nakahodo" creationdate="20180604T192153Z">
         <seg>イベントに割りてられた前兆トークンごとに、イベントカード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw 1 card plus 1 per coin stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100732Z" creationid="nakahodo" creationdate="20180720T100732Z">
+        <seg>カード1枚をドローする。加えて、スタックのコインごとにカード1枚ドローする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22662,6 +22702,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give a card matching your clearing to a player there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100435Z" creationid="nakahodo" creationdate="20180720T100435Z">
+        <seg>あなたのいる区域にスートが一致するカード1枚を、そこにいるプレイヤー1人にあげる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give any number of cards matching your current clearing to a local player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T082559Z" creationid="aorin" creationdate="20171216T082559Z">
@@ -23868,6 +23916,14 @@ Roaster...</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T153020Z" creationid="nakahodo" creationdate="20180603T152907Z">
         <seg>ホーン（装備）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hostile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101042Z" creationid="nakahodo" creationdate="20180720T101042Z">
+        <seg>敵対</seg>
       </tuv>
     </tu>
     <tu>
@@ -25591,6 +25647,14 @@ enough to place onto the list, it is removed from play.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T084554Z" creationid="nakahodo" creationdate="20180630T084554Z">
         <seg>森に移動する場合、隣接区域1つにのみ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If in forest, repair all items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100703Z" creationid="nakahodo" creationdate="20180720T100703Z">
+        <seg>森にいる場合、全てのアイテムが修理される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32547,6 +32611,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>May move and battle with Allied warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101214Z" creationid="nakahodo" creationdate="20180720T101214Z">
+        <seg>友軍戦士と共に移動し戦闘できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May move to a clearing or forest at no cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T100233Z" creationid="nakahodo" creationdate="20180720T100233Z">
@@ -33190,6 +33262,14 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162652Z" creationid="nakahodo" creationdate="20180430T160204Z">
         <seg>Mushroom Forest
 キノコの森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must exhaust extra boot to enter Hostile clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101108Z" creationid="nakahodo" creationdate="20180720T101108Z">
+        <seg>敵対区画に入るために、追加の靴1つを消耗させる必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39402,6 +39482,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove a piece in your clearing, warriors first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100550Z" creationid="nakahodo" creationdate="20180720T100550Z">
+        <seg>あなたのいる区域のピース1つを取り除く。戦士優先。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove all Meat tokens from all active Storage areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150639Z" creationid="nakahodo" creationdate="20180108T150639Z">
@@ -39526,6 +39614,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T160619Z" creationid="nakahodo" creationdate="20180604T160619Z">
         <seg>これを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove items in Satchel down to 6 plus 2 per bag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100902Z" creationid="nakahodo" creationdate="20180720T100902Z">
+        <seg>カバンのアイテムを6個になるまで取り除く。この上限はバッグごとに2増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41120,6 +41216,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Score .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100349Z" creationid="nakahodo" creationdate="20180720T100349Z">
+        <seg>その後、○得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score a victory point each time you remove a building or token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185510Z" creationid="nakahodo" creationdate="20180630T185448Z">
@@ -41140,6 +41244,22 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T091227Z" creationid="nakahodo" creationdate="20180630T091227Z">
         <seg>今回達成したクエストも含み、一致する民のこれまでに達成したクエスト1つごとに、1勝利点を得点します。つまり、特定の民のクエストを多く達成するほど、勝利点を多く得点できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score per Aid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101404Z" creationid="nakahodo" creationdate="20180720T101404Z">
+        <seg>支援するごとに○得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score per Hostile piece removed in battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101131Z" creationid="nakahodo" creationdate="20180720T101131Z">
+        <seg>戦闘で敵対派閥ピースを取り除くごとに○得点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59801,6 +59921,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may take an item from them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100453Z" creationid="nakahodo" creationdate="20180720T100453Z">
+        <seg>対象からアイテム1つを取れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may take the following actions in any order and combination.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T194546Z" creationid="nakahodo" creationdate="20180629T194546Z">
@@ -62702,6 +62830,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T103429Z" creationid="nakahodo" creationdate="20180525T103410Z">
         <seg>ダンジョンへようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>when craing, all hammers match your clearing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100650Z" creationid="nakahodo" creationdate="20180720T100650Z">
+        <seg>クラフトする時、全てのハンマーは、あなたのいる区域のスートになる。</seg>
       </tuv>
     </tu>
     <tu>
