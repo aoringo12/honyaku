@@ -13255,10 +13255,18 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But he’s Nimble, so he can move regardless of rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070216Z" creationid="nakahodo" creationdate="20180720T070216Z">
+        <seg>But he’s Nimble, so he can move regardless of rule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But if he’s getting too powerful, battle him, especially if he’s light on swords.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T065837Z" creationid="nakahodo" creationdate="20180720T065837Z">
-        <seg>But if he’s getting too powerful, battle him, especially if he’s light on swords.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070048Z" creationid="nakahodo" creationdate="20180720T065837Z">
+        <seg>しかし、あまりにも見過ごせないほどの力を持っているなら、争うことも視野に入れるべきだ。彼の剣が少ない場合は特に。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23100,8 +23108,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>He grows more powerful by getting ahold of items, so cra  ing an item he wants is an easy way to get on his good side and gain a card in trade.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T065756Z" creationid="nakahodo" creationdate="20180719T201953Z">
-        <seg>アイテムを持つ程強力になるので、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T065936Z" creationid="nakahodo" creationdate="20180719T201953Z">
+        <seg>アイテムを持つ程強力になるので、ヴァカボンドのクラフトするアイテムを望むのなら、彼の良き友となり、交易によりカードを得るのが簡単な方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59282,6 +59290,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You might just send him back to the forest for a whole turn to repair his gear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070148Z" creationid="nakahodo" creationdate="20180720T070037Z">
+        <seg>ヴァガボンドは装備を修理する必要があるので、森へと退避させることが可能だろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You might want to do this if there is no free action space to promote to, or because the action space seems interesting to you, or just to annoy an opponent by swapping places with one of their Pixies …</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164411Z" creationid="aorin" creationdate="20171212T164411Z">
@@ -60988,6 +61004,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T173906Z" creationid="nakahodo" creationdate="20180703T173906Z">
         <seg>ヴァガボンドは遺跡を探索してアイテムを探し、そのスロットを空にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Vagabond is a Lone Wanderer, not a warrior, so he can’t rule a clearing or stop you from ruling one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070247Z" creationid="nakahodo" creationdate="20180720T070215Z">
+        <seg>ヴァガボンドは孤独な放浪者であり、戦死ではない。なので、彼は区画を支配することも、他者の支配を止めることも無い。</seg>
       </tuv>
     </tu>
     <tu>
