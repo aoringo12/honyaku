@@ -18157,6 +18157,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each clearing may only have one sympathy token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T095450Z" creationid="nakahodo" creationdate="20180720T095450Z">
+        <seg>各区画は賛同トークン1つのみを持てる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each clearing on the map has one to three slots, which hold buildings that players will place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T215049Z" creationid="nakahodo" creationdate="20180630T215026Z">
@@ -25831,6 +25839,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no bases remain on the map, discard supporters down to 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T095410Z" creationid="nakahodo" creationdate="20180720T095410Z">
+        <seg>マップに基地が残っていない場合、支援者が5枚になるまで捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no discs remain, your Defense is 0.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T224349Z" creationid="aorin" creationdate="20180409T224349Z">
@@ -28376,6 +28392,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T003131Z" creationid="aorin" creationdate="20171216T003131Z">
         <seg>マップに止まり木がない場合、任意の空き地に1つ建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have no bases on the map, discard any cards that would be added beyond 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T095713Z" creationid="nakahodo" creationdate="20180720T095713Z">
+        <seg>マップに基地が無い場合、5枚を超えて追加されるカードは捨て札にされる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31881,6 +31905,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lone Wanderer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100106Z" creationid="nakahodo" creationdate="20180720T100106Z">
+        <seg>孤独な放浪者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lone​ ​Wanderer.​ ​The Vagabond pawn is not a warrior, so he cannot be the ruler of a clearing or cause another player to cease being ruler.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T154320Z" creationid="aorin" creationdate="20171215T154320Z">
@@ -32491,6 +32523,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Martial Law.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T095455Z" creationid="nakahodo" creationdate="20180720T095455Z">
+        <seg>厳戒令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Martial law has severe limitations on your available actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T174158Z" creationid="nakahodo" creationdate="20171229T174158Z">
@@ -32503,6 +32543,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T223948Z" creationid="nakahodo" creationdate="20180630T223948Z">
         <seg>一致の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May move to a clearing or forest at no cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100233Z" creationid="nakahodo" creationdate="20180720T100233Z">
+        <seg>コストなしで区域か森に1回移動できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33366,6 +33414,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T115409Z" creationid="nakahodo" creationdate="20180412T115409Z">
         <seg>ナイトメアユニコーン（スタンダード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nimble</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100031Z" creationid="nakahodo" creationdate="20180720T100031Z">
+        <seg>軽快</seg>
       </tuv>
     </tu>
     <tu>
@@ -37323,6 +37379,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placement Limits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T095420Z" creationid="nakahodo" creationdate="20180720T095420Z">
+        <seg>配置制限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place​ ​Ruins:​ In games with the Vagabond, shuffle the ruin tokens and place one, with the item side face down, on each red-bordered slot on the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133122Z" creationid="aorin" creationdate="20171215T133122Z">
@@ -39102,6 +39166,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001856Z" creationid="aorin" creationdate="20171216T001856Z">
         <seg>リフォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh 3 items plus 2 per tea.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100208Z" creationid="nakahodo" creationdate="20180720T100208Z">
+        <seg>アイテム4つをリフレッシュする。加えて、ティーごとに2アイテムをリフレッシュする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42414,6 +42486,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slip.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100213Z" creationid="nakahodo" creationdate="20180720T100213Z">
+        <seg>スリップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slots filled with ruins cannot hold buildings until the Vagabond explores them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T215242Z" creationid="nakahodo" creationdate="20180630T215242Z">
@@ -44125,6 +44205,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T090943Z" creationid="nakahodo" creationdate="20170924T090943Z">
         <seg>フィールドから対応した色の豆を取り、スレートにそれらを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take item from ruin in your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100320Z" creationid="nakahodo" creationdate="20180720T100320Z">
+        <seg>あなたのいる区域にある遺跡からアイテム1つを取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58033,6 +58121,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can move regardless of who rules your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100059Z" creationid="nakahodo" creationdate="20180720T100059Z">
+        <seg>あなたは、区域を誰が支配しているのかに関わらず移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can never promote a Pixie to an action field on the same or on a lower level in the game board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T163107Z" creationid="aorin" creationdate="20171212T163107Z">
@@ -60241,6 +60337,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must spend another matching supporter if the target clearing has at least 3 warriors of another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T095602Z" creationid="nakahodo" creationdate="20180720T095602Z">
+        <seg>対象区画に他プレイヤーの戦士が少なくとも3体いる場合、そのスートに一致する支援者をさらに1枚を消費する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must spend another matching supporter if the target clearing has at least three warriors belonging to another player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T194351Z" creationid="nakahodo" creationdate="20180629T194341Z">
@@ -60381,6 +60485,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T220838Z" creationid="nakahodo" creationdate="20171229T220838Z">
         <seg>あなたは群衆に歩み寄り、手を握り、赤ちゃんにキスをします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wander the woods, seeking to secure a place in the new society that is taking shape.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100026Z" creationid="nakahodo" creationdate="20180720T100026Z">
+        <seg>あなたはウッドランドをさまよい、新たに形作られるであろう社会での居場所を作ろうとしている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61128,6 +61240,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T145653Z" creationid="nakahodo" creationdate="20180702T145648Z">
         <seg>将校は夜時に実行できる軍事的作戦の回数を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your pawn is not a warrior and cannot be removed from the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100122Z" creationid="nakahodo" creationdate="20180720T100115Z">
+        <seg>あなたのポーンは戦士ではなく、マップから取り除くことはできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61930,6 +62050,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>max hits equals undamaged swords</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100300Z" creationid="nakahodo" creationdate="20180720T100300Z">
+        <seg>未破損の剣に等しい数が最大ヒットになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>me!"</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T152654Z" creationid="nakahodo" creationdate="20180430T152654Z">
@@ -61958,6 +62086,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205356Z" creationid="nakahodo" creationdate="20171224T205356Z">
         <seg>● 異なるタイプでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not into forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100241Z" creationid="nakahodo" creationdate="20180720T100241Z">
+        <seg>森にはいけない。</seg>
       </tuv>
     </tu>
     <tu>
