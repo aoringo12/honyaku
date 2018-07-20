@@ -8749,6 +8749,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133501Z" creationid="nakahodo" creationdate="20180720T133501Z">
+        <seg>除け者の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the player turn order by matching the order of the big cubes to the order of the small cubes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T094023Z" creationid="aorin" creationdate="20171212T094023Z">
@@ -12834,6 +12842,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bird cards are not wild for your rituals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133404Z" creationid="nakahodo" creationdate="20180720T133404Z">
+        <seg>鳥カードはあなたの儀式に対してワイルドではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bird cards are not wild when performing rituals!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T184839Z" creationid="nakahodo" creationdate="20180703T184839Z">
@@ -16215,6 +16231,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T092453Z" creationid="nakahodo" creationdate="20180720T092413Z">
         <seg>Viziers大臣を除いた法令全て捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard Lost Souls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133509Z" creationid="nakahodo" creationdate="20180720T133509Z">
+        <seg>ロストソウルを捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23230,6 +23254,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T070519Z" creationid="nakahodo" creationdate="20180719T070456Z">
         <seg>驚くほど神経質：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hatred of Birds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133351Z" creationid="nakahodo" creationdate="20180720T133351Z">
+        <seg>鳥たちの憎悪：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35755,6 +35787,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perform Conspiracies in Outcast clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133550Z" creationid="nakahodo" creationdate="20180720T133550Z">
+        <seg>除け者区画の策略を実行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform the following steps in order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T111050Z" creationid="aorin" creationdate="20171212T111050Z">
@@ -35951,6 +35991,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093222Z" creationid="nakahodo" creationdate="20180629T093222Z">
         <seg>ピースはゲームに含まれている数で制限されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pilgrims</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133411Z" creationid="nakahodo" creationdate="20180720T133411Z">
+        <seg>巡礼者</seg>
       </tuv>
     </tu>
     <tu>
@@ -36447,6 +36495,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a garden in a matching clearing you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133733Z" creationid="nakahodo" creationdate="20180720T133716Z">
+        <seg>スートに一致する、あなたが支配する区画1つに庭園1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a random minion on each highlighted plot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T224359Z" creationid="aorin" creationdate="20171231T224359Z">
@@ -36531,6 +36587,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T060131Z" creationid="nakahodo" creationdate="20180701T060131Z">
         <seg>止まり木を持つスートに一致する区域1つで戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133759Z" creationid="nakahodo" creationdate="20180720T133730Z">
+        <seg>スートに一致する区画1つで戦士1体を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40393,6 +40457,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal any number of cards from your hand, and perform one ritual for each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133632Z" creationid="nakahodo" creationdate="20180720T133632Z">
+        <seg>あなたの手札から任意の数のカードを公開し、それぞれの儀式1つを実行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal any number of cards from your hand, and perform one ritual per card, as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T184905Z" creationid="nakahodo" creationdate="20180703T184905Z">
@@ -41396,6 +41468,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T092240Z" creationid="nakahodo" creationdate="20180720T092240Z">
         <seg>止まり木トラックの最も右にある空スペースだけ得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score once per suit per turn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142433Z" creationid="nakahodo" creationdate="20180720T142433Z">
+        <seg>得点	ターンごと、スートごとに一度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60805,6 +60885,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T091533Z" creationid="nakahodo" creationdate="20180720T091417Z">
         <seg>あなたが支配する区域全てで、タイにて優先される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You rule any clearings where you have any gardens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T133449Z" creationid="nakahodo" creationdate="20180720T133449Z">
+        <seg>庭園を持つ区画はあなたが支配する。</seg>
       </tuv>
     </tu>
     <tu>
