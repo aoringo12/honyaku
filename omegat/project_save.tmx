@@ -7840,6 +7840,14 @@ order to be targeted by the Temp Agency.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A er all, where there’s muck, there’s clams!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102124Z" creationid="nakahodo" creationdate="20180720T102124Z">
+        <seg>”泥川にこそ、貝はある”ってことさ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few buildings/cards have infiuence as a benefit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T205008Z" creationid="nakahodo" creationdate="20171218T150952Z">
@@ -14841,6 +14849,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commit a fund to battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102451Z" creationid="nakahodo" creationdate="20180720T102451Z">
+        <seg>資金1つを委託して戦闘1回する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commit a fund to draw a card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T202321Z" creationid="nakahodo" creationdate="20180703T202321Z">
@@ -14857,6 +14873,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commit a fund to move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102454Z" creationid="nakahodo" creationdate="20180720T102437Z">
+        <seg>資金1つを委託して移動1回する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commit a fund to take a move.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T202158Z" creationid="nakahodo" creationdate="20180703T202129Z">
@@ -14869,6 +14893,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T165614Z" creationid="nakahodo" creationdate="20180630T165614Z">
         <seg>1資金を委託することで、あなたの手札からカード1枚をクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit funds to empty spaces on Trade Posts tracks to cra.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102618Z" creationid="nakahodo" creationdate="20180720T102618Z">
+        <seg>交易所トラックの空きスペースの数だけ、資金を委託することで、クラフトする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15356,6 +15388,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T174123Z" creationid="nakahodo" creationdate="20180703T174117Z">
         <seg>クラフトピース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cra</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102458Z" creationid="nakahodo" creationdate="20180720T102458Z">
+        <seg>クラフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -21054,6 +21094,14 @@ Bold Blend of white beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For Sale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102128Z" creationid="nakahodo" creationdate="20180720T102128Z">
+        <seg>販売</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For Sale:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T195147Z" creationid="nakahodo" creationdate="20180703T195147Z">
@@ -24869,6 +24917,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Payments box is empty, place two warriors in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102306Z" creationid="nakahodo" creationdate="20180720T102306Z">
+        <seg>支払いボックスが空の場合、そこに戦士2体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a Crystal tile with a Unicorn cube is collapsed, remove the cube with the tile, but do not return a cube to your Radiance track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T101740Z" creationid="nakahodo" creationdate="20180412T101740Z">
@@ -25494,6 +25550,14 @@ offer a brief opportunity to place an Investment Token onto a Blend at this time
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171001T114546Z" creationid="nakahodo" creationdate="20171001T114546Z">
         <seg>いずれかのプレイヤー（たち）が投資トークンを持つ場合、醸造長は投票が完了した後に直ちにプレイを止めて、この時点でブレンドに投資トークンを配置する機会を提供します（ページ18の投資を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any trade posts are on the map, score per two funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102405Z" creationid="nakahodo" creationdate="20180720T102405Z">
+        <seg>マップ上に交易所が1つでもある場合、資金2つごとに○得点する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38608,6 +38672,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protectionism</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102238Z" creationid="nakahodo" creationdate="20180720T102238Z">
+        <seg>保護貿易主義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provides for each Building in the same Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T034709Z" creationid="aorin" creationdate="20171212T034709Z">
@@ -41236,6 +41308,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T100349Z" creationid="nakahodo" creationdate="20180720T100349Z">
         <seg>その後、○得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score Dividends</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102310Z" creationid="nakahodo" creationdate="20180720T102310Z">
+        <seg>得点配当。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44064,6 +44144,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183813Z" creationid="nakahodo" creationdate="20180604T183747Z">
         <seg>これらを交換し、それぞれ任意の方向へと回転させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swimmers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102149Z" creationid="nakahodo" creationdate="20180720T102149Z">
+        <seg>スイマー</seg>
       </tuv>
     </tu>
     <tu>
@@ -59121,6 +59209,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have a public hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102146Z" creationid="nakahodo" creationdate="20180720T102146Z">
+        <seg>あなたは公開した手札を持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have conquered the forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T084124Z" creationid="nakahodo" creationdate="20180720T084124Z">
@@ -60617,6 +60713,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You treat rivers as paths, and may move along rivers regardless of ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102232Z" creationid="nakahodo" creationdate="20180720T102232Z">
+        <seg>あなたは川を道として扱えて、支配者に関係なく川に沿って移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You use only 2 Ghoul dice.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T074925Z" creationid="aorin" creationdate="20180410T074925Z">
@@ -61850,8 +61954,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>e Riverfolk Company is always on the hunt for new markets.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101454Z" creationid="nakahodo" creationdate="20180720T101454Z">
-        <seg>e Riverfolk Company is always on the hunt for new markets.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101719Z" creationid="nakahodo" creationdate="20180720T101454Z">
+        <seg>リバーフォークカンパニーは常に新たなマーケットを開拓している。</seg>
       </tuv>
     </tu>
     <tu>
