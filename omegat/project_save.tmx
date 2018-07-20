@@ -13663,6 +13663,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot be used until repaired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101448Z" creationid="nakahodo" creationdate="20180720T101448Z">
+        <seg>修理するまで使用できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot mark Crystals or collect Treasures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T070649Z" creationid="nakahodo" creationdate="20180413T070629Z">
@@ -22275,6 +22283,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171219T101207Z" creationid="aorin" creationdate="20171219T101207Z">
         <seg>示された効果を得ます（クラウドポートは3VP）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gained and repaired items go face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101438Z" creationid="nakahodo" creationdate="20180720T101438Z">
+        <seg>獲得したり修理したアイテムは表向きになる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61828,6 +61844,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T203540Z" creationid="nakahodo" creationdate="20180703T203540Z">
         <seg>マルキスが支配していますので、リバーフォークはマルキス資金2つを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Riverfolk Company is always on the hunt for new markets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T101454Z" creationid="nakahodo" creationdate="20180720T101454Z">
+        <seg>e Riverfolk Company is always on the hunt for new markets.</seg>
       </tuv>
     </tu>
     <tu>
