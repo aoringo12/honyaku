@@ -14387,6 +14387,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a leader, and keep the rest nearby.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T172737Z" creationid="nakahodo" creationdate="20180720T172731Z">
+        <seg>リーダーを選択し、残りを近くに保持する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a location with a promoted Pixie of an opposing player’s colour.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T164905Z" creationid="aorin" creationdate="20171212T164905Z">
@@ -21141,6 +21149,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip your board and place your chosen leader on your Leader Card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T180132Z" creationid="nakahodo" creationdate="20180720T180132Z">
+        <seg>このボードを返し、リーダーカードスロットに選択肢たリーダーを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip your current leader face down and set it aside, choose a new leader from those face up, and place it near your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162923Z" creationid="nakahodo" creationdate="20180629T162923Z">
@@ -26764,6 +26780,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T155420Z" creationid="nakahodo" creationdate="20180629T155420Z">
         <seg>マルキスがゲームに居ない場合、マップの角1つをあなたが選択してピースと止まり木を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Marquise is not playing, place these pieces in a corner clearing of your choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T172705Z" creationid="nakahodo" creationdate="20180720T172705Z">
+        <seg>マルキスがゲームに居ない場合、マップの角1つをあなたが選択してピースと止まり木を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36534,6 +36558,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 6 warriors and 1 roost in the corner clearing diagonally opposite from the clearing with the keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T172655Z" creationid="nakahodo" creationdate="20180720T172655Z">
+        <seg>キープのある区画から反対角端の区画に戦士6体ととまり木1つを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 8 Hatred tokens near your board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082201Z" creationid="aorin" creationdate="20180409T082201Z">
@@ -39150,6 +39182,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T071525Z" creationid="nakahodo" creationdate="20180720T071525Z">
         <seg>Protect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protect it well!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T172248Z" creationid="nakahodo" creationdate="20180720T172248Z">
+        <seg>だからこそ、死守せよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42446,6 +42486,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T162250Z" creationid="nakahodo" creationdate="20180720T162241Z">
         <seg>セットアップ（A）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup (B)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T172259Z" creationid="nakahodo" creationdate="20180720T172259Z">
+        <seg>Setup (B)</seg>
       </tuv>
     </tu>
     <tu>
