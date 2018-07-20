@@ -8532,6 +8532,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Above all, remember:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T190013Z" creationid="nakahodo" creationdate="20180720T190013Z">
+        <seg>上記の全てを覚えておくこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accompanying the Forever King's arrival are a host of advancements never before seen in the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T233335Z" creationid="aorin" creationdate="20171231T233335Z">
@@ -11287,6 +11295,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080806Z" creationid="nakahodo" creationdate="20180413T080806Z">
         <seg>憑依ターンの終了時、任意の順番でスタックの一番上にこれらを返す）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At fi rst this is simple, but as the Decree grows to 10 or 12 cards, you’ll fi nd yourself scrambling to complete every action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185855Z" creationid="nakahodo" creationdate="20180720T185855Z">
+        <seg>これは最初シンプルだが、法令が10や12枚にもなってくると、全てのアクションを完全に実行するのに苦しめられることになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18390,6 +18406,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each action must happen in the clearing matching its card, so plan wisely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185736Z" creationid="nakahodo" creationdate="20180720T185736Z">
+        <seg>各アクションはそのカードスートに一致する区画にて実行するので、入念な計画が必要だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each built Hideout provides one card slot, which you can use with the Keep Secrets and Conspire actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052429Z" creationid="aorin" creationdate="20171216T052429Z">
@@ -19359,6 +19383,22 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T113716Z" creationid="aorin" creationdate="20180528T113716Z">
         <seg>各ターン、自身のダンジョンに有効ルームが最大5つになるまで、新しいルームを建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each turn, you must add cards to the Decree, and then take an action for each card in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185704Z" creationid="nakahodo" creationdate="20180720T185704Z">
+        <seg>各ターン、あなたは法令にカードを追加して、その後、そこにあるカードごとにアクション1つを実行しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each turn, you score points for your roosts on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185503Z" creationid="nakahodo" creationdate="20180720T185503Z">
+        <seg>各ターン、マップ上のあなたの止まり木により勝利点を得点する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24604,6 +24644,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you are bound by the Decree, a mandate from the Eyrie leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185609Z" creationid="nakahodo" creationdate="20180720T185535Z">
+        <seg>しかしながら、あなたは私達のリーダーに命じられる法令に縛られている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you cannot end this phase on an open space, a space with any Artifacts, or a space with player pieces who carry any Artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T135813Z" creationid="nakahodo" creationdate="20180406T135813Z">
@@ -28417,6 +28465,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T001729Z" creationid="aorin" creationdate="20171216T001729Z">
         <seg>アクションを実行できない場合、直ちに混乱に移行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you can’t complete one, you’ll fall into turmoil, losing you points, replacing your leader, and discarding the Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185951Z" creationid="nakahodo" creationdate="20180720T185951Z">
+        <seg>あなたが1つでもアクションを完了できないと、混乱に陥り、勝利点を失い、リーダーが入れ替わり、法令が捨て札にされる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58717,6 +58773,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are the Lords of the Forest—you rule a clearing even when tied for presence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T190311Z" creationid="nakahodo" creationdate="20180720T190311Z">
+        <seg>あなたは森の君主だ――区域を支配する上で、同値の場合に優先権を持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are the active player while you are placing a Room face-down during the Build phase, or while you are "processing" Heroes in your dungeon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T133856Z" creationid="aorin" creationdate="20180528T133856Z">
@@ -62828,6 +62892,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e more roosts, the more points you score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T185538Z" creationid="nakahodo" creationdate="20180720T185526Z">
+        <seg>多くの止まり木は、さらなる勝利点をもたらす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e more roosts, the more they score.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T163522Z" creationid="nakahodo" creationdate="20180719T163522Z">
@@ -63474,6 +63546,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231745Z" creationid="aorin" creationdate="20180528T231745Z">
         <seg>ピクセル化された危険な8ビットダンジョンで何時間も費やしたあなたのために、このゲームはデザインされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the ground creatures tremble and scatter upon your arrival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T190151Z" creationid="nakahodo" creationdate="20180720T190151Z">
+        <seg>地上の生き物たちはあなたが到着すると、震え上がり、散る。</seg>
       </tuv>
     </tu>
     <tu>
