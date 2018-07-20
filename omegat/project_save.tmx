@@ -10561,6 +10561,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arbiter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071523Z" creationid="nakahodo" creationdate="20180720T071523Z">
+        <seg>Arbiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you a bad enough dude to become the ultimate Boss Monster?</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T143943Z" creationid="nakahodo" creationdate="20180525T143943Z">
@@ -12574,6 +12582,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T171136Z" creationid="nakahodo" creationdate="20180703T171050Z">
         <seg>ウィンターマップでプレイする前に、スートマーカー12個を取り、裏側にして混ぜます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before rolling in battle, the defender may enlist the Arbiter if he is in the battle’s clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071643Z" creationid="nakahodo" creationdate="20180720T071643Z">
+        <seg>戦闘のダイスロール前、ディフェンダーは戦闘区画に彼がいる場合、Arbiterを入隊させることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26652,6 +26668,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the spy reveals a rabbit card, discard the spy, making it available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071515Z" creationid="nakahodo" creationdate="20180720T071515Z">
+        <seg>スパイにてウサギカードを公開した場合、このスパイカードを捨て札にし、誰でも利用可能にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the sum of all three dice is 7 or less, draw a Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T134506Z" creationid="aorin" creationdate="20180409T134506Z">
@@ -30153,6 +30177,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initiate a battle in your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071818Z" creationid="nakahodo" creationdate="20180720T071818Z">
+        <seg>あなたのいる区域で戦闘を開始する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initiate a battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195617Z" creationid="aorin" creationdate="20171215T235206Z">
@@ -30334,6 +30366,14 @@ Point Tile of value 1 from the general supply and put it behind your player scre
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T132234Z" creationid="nakahodo" creationdate="20180412T132234Z">
         <seg>「あなた」は勝利条件をユニコーンを殺すことにしているプレイヤーを指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instigate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071759Z" creationid="nakahodo" creationdate="20180720T071759Z">
+        <seg>Instigate</seg>
       </tuv>
     </tu>
     <tu>
@@ -38096,6 +38136,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150942Z" creationid="nakahodo" creationdate="20180108T150840Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071525Z" creationid="nakahodo" creationdate="20180720T071525Z">
+        <seg>Protect</seg>
       </tuv>
     </tu>
     <tu>
@@ -53683,6 +53731,14 @@ DRAGON</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vagrant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071757Z" creationid="nakahodo" creationdate="20180720T071757Z">
+        <seg>Vagrant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Variant Rules</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T050432Z" creationid="nakahodo" creationdate="20180413T050432Z">
@@ -58162,6 +58218,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You choose both attacker and defender, and you remove pieces for each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T072020Z" creationid="nakahodo" creationdate="20180720T071918Z">
+        <seg>あなたはアタッカーとディフェンダーの両方を選択し、あなたがそれぞれのピースを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You choose the order in which to reveal them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234124Z" creationid="nakahodo" creationdate="20180531T234124Z">
@@ -60952,6 +61016,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Arbiter scores one point and adds undamaged swords to the defender’s maximum rolled hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071739Z" creationid="nakahodo" creationdate="20180720T071739Z">
+        <seg>Arbiterは1勝利点を特典し、ディフェンダーの最大ダイスロールヒットに未破損の剣を追加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Eyrie Dynasties score points each turn based on how many roosts are on the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T163540Z" creationid="nakahodo" creationdate="20180719T163501Z">
@@ -60972,6 +61044,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T201645Z" creationid="nakahodo" creationdate="20180703T201645Z">
         <seg>鷲はそれの購入を決定しましたので、自身のサプライから戦士たち3体を、リバーフォークの支払いボックスに移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Lizard Cult works toward a cause far greater than the petty squabbles of these woods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T072546Z" creationid="nakahodo" creationdate="20180720T072546Z">
+        <seg>リザード・カルトはウッドランドの些細な騒動よりも、遥かに大きな目的のために活動している。</seg>
       </tuv>
     </tu>
     <tu>
