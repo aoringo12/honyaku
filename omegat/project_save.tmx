@@ -1025,6 +1025,22 @@ b	敵対区画への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Place 11 warriors in total.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162614Z" creationid="nakahodo" creationdate="20180720T162614Z">
+        <seg>（合計で戦士11体を配置する）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Place 3 in total.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162817Z" creationid="nakahodo" creationdate="20180720T162817Z">
+        <seg>（合計で3つ配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Place the Hero beside the leftmost Room in that dungeon.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T214836Z" creationid="aorin" creationdate="20180528T214836Z">
@@ -1286,6 +1302,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T095138Z" creationid="nakahodo" creationdate="20180629T095130Z">
         <seg>（トークンは支配に関係しません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Tokens do not fi ll slots in clearings.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162512Z" creationid="nakahodo" creationdate="20180720T162512Z">
+        <seg>（トークンは区画のスロットを満たさない）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10875,6 +10899,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Marquise de Cat, you want to turn the Woodland into an industrial and military powerhouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163039Z" creationid="nakahodo" creationdate="20180720T163039Z">
+        <seg>マルキス・デ・キャットはウッドランドを工業と軍事の大国としての転換を望んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the Vagabond improves his relationships with other factions, or removes pieces of factions hostile toward him, he scores victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T151019Z" creationid="nakahodo" creationdate="20180702T151019Z">
@@ -13300,6 +13332,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T072934Z" creationid="nakahodo" creationdate="20180311T072934Z">
         <seg>ガーデンを構築するあなたとあなたの対戦相手たちは、ゲームボードに最期のロボタニストが配置されまで、時計回りにターンを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buildings fi ll slots in clearings.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162833Z" creationid="nakahodo" creationdate="20180720T162833Z">
+        <seg>建物は区画のスロットを満たす）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19163,6 +19203,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time you place a building on the map, you score points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163100Z" creationid="nakahodo" creationdate="20180720T163100Z">
+        <seg>あなたがマップに建物を配置するたびに、勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time you take a hit, you must remove one of your warriors from the affected clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150943Z" creationid="aorin" creationdate="20171215T150943Z">
@@ -21065,6 +21113,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T152222Z" creationid="nakahodo" creationdate="20180702T152222Z">
         <seg>朝フェイズ開始時、アイテムトラックの表向きTごとに未破損アイテムを表替えします。その後、さらに3つの未破損アイテムを表替えします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip your board and fi ll your Buildings tracks with sawmills, workshops, and recruiters, except for the le  most space of each track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162948Z" creationid="nakahodo" creationdate="20180720T162948Z">
+        <seg>このボードを裏返し、製材所、作業場、雇用所の建物トラックを、それぞれ最も左スペースを除いて満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36382,6 +36438,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 sawmill, workshop, and recruiter among the clearing with the keep token and any adjacent ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162808Z" creationid="nakahodo" creationdate="20180720T162808Z">
+        <seg>キープトークンのある区画と、そこに隣接する区画らへと、製材所、作業場、雇用所1つずつを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 to 3 warriors (cost) in each clearing you rule of this suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T160541Z" creationid="nakahodo" creationdate="20180720T160541Z">
@@ -36402,6 +36466,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T155353Z" creationid="nakahodo" creationdate="20180719T155353Z">
         <seg>キープの反対側角の区画を除いて、各区画に戦士1対を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 warrior in each clearing, except the corner clearing diagonally opposite from the keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162559Z" creationid="nakahodo" creationdate="20180720T162559Z">
+        <seg>キープから対角端区画を除いた、各区画ごとに戦士1つを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37845,6 +37917,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your keep token in a corner clearing of your choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162459Z" creationid="nakahodo" creationdate="20180720T162459Z">
+        <seg>あなたが選択するマップ上の角端の区画へと、キープトークンを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your persona card, constructed building card, 2 workers, and 12 influence tokens in front of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204730Z" creationid="nakahodo" creationdate="20171218T145840Z">
@@ -38611,6 +38691,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074539Z" creationid="nakahodo" creationdate="20180311T074505Z">
         <seg>プログラムカードをプレイする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Playing the Marquise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162953Z" creationid="nakahodo" creationdate="20180720T162953Z">
+        <seg>マルキスでのプレイング</seg>
       </tuv>
     </tu>
     <tu>
@@ -42334,6 +42422,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185517Z" creationid="nakahodo" creationdate="20180630T185511Z">
         <seg>セットアップ（5.1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup (A)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T162250Z" creationid="nakahodo" creationdate="20180720T162241Z">
+        <seg>セットアップ（A）</seg>
       </tuv>
     </tu>
     <tu>
@@ -53424,6 +53520,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To fuel this construction, you must grow and protect an interconnected economy of wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163428Z" creationid="nakahodo" creationdate="20180720T163428Z">
+        <seg>それら建造物の燃料のために、あなたは木材による流通網を保護し成長させる必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To keep the village growing at a steady pace, follow these steps once per each inactive charter with at least 1 open plot (any order):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T054357Z" creationid="nakahodo" creationdate="20171224T234631Z">
@@ -62600,6 +62704,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T160550Z" creationid="nakahodo" creationdate="20180719T160550Z">
         <seg>ウッドランド連合はマップに賛同者を配置することで得点し、彼らを多くすることでさらに得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e more of that building type there is on the map, the more points you score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163138Z" creationid="nakahodo" creationdate="20180720T163138Z">
+        <seg>マップにその種類の建物が多くなるほど、さらに多くの勝利点を得点する。</seg>
       </tuv>
     </tu>
     <tu>
