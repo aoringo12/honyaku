@@ -54166,6 +54166,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuck your 2 Loyal Viziers under the Decree columns listed on your leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T180213Z" creationid="nakahodo" creationdate="20180720T180213Z">
+        <seg>リーダーに記述された法令カラムの下にLoyal Vizierカード2枚を差し込む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuck your Loyal Viziers into the Decree spaces listed on your new leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T163025Z" creationid="nakahodo" creationdate="20180629T163025Z">
