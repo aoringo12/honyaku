@@ -16860,6 +16860,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102822Z" creationid="nakahodo" creationdate="20180720T102822Z">
+        <seg>ドロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw 1 Automa card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T091358Z" creationid="nakahodo" creationdate="20180108T091358Z">
@@ -19470,6 +19478,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T144744Z" creationid="nakahodo" creationdate="20180719T144744Z">
         <seg>Errand in a fox clearing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Establish Trade Post with Garrison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102838Z" creationid="nakahodo" creationdate="20180720T102838Z">
+        <seg>駐屯地を持つ交易所を設置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39146,6 +39162,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than gaining the listed effect of craing the card, you may discard the card to place a warrior in the Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T102812Z" creationid="nakahodo" creationdate="20180720T102812Z">
+        <seg>クラフトするカードに記述されるカードを得るのではなく、カードを捨て札にすることによって、支払いボックスに戦士1体を配置できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rather than seeking escape or merely an end, she has claimed the Cave as her own, twisting its powers so she might destroy all trespassers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T034939Z" creationid="aorin" creationdate="20180408T034939Z">
@@ -41717,6 +41741,14 @@ Rank.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Service Costs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104224Z" creationid="nakahodo" creationdate="20180720T104224Z">
+        <seg>サービスのコストを設定する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Starting Prices.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T164146Z" creationid="nakahodo" creationdate="20180630T164146Z">
@@ -43196,6 +43228,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061330Z" creationid="nakahodo" creationdate="20180413T061330Z">
         <seg>1移動力を消費して、トレジャーかジェム1つを収集する[または]2移動力を消費して、ドラゴンダイスのロールをせずにジェム1つを収集する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend 2 funds of a clearing’s ruler to place a matching trade post and a warrior there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T103251Z" creationid="nakahodo" creationdate="20180720T103251Z">
+        <seg>区画の支配者の資金2つを消費することで、とこにスートが一致する交易所1つと戦士1体を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63078,6 +63118,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T184801Z" creationid="nakahodo" creationdate="20180703T184801Z">
         <seg>戦士1体を選択して隣接区域に移動し、マルキスに対して戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e clearing cannot already have a trade post.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T103452Z" creationid="nakahodo" creationdate="20180720T103452Z">
+        <seg>交易所がすでにある区画は対象にできない。</seg>
       </tuv>
     </tu>
     <tu>
