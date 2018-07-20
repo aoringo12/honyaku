@@ -15049,6 +15049,14 @@ and have decided to Blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conspiracies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142726Z" creationid="nakahodo" creationdate="20180720T142726Z">
+        <seg>策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conspire</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053840Z" creationid="aorin" creationdate="20171216T053840Z">
@@ -15416,6 +15424,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cra using gardens matching Outcast suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142714Z" creationid="nakahodo" creationdate="20180720T142714Z">
+        <seg>除け者スートに一致する庭園を使用してクラフトする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cra</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T102458Z" creationid="nakahodo" creationdate="20180720T102458Z">
@@ -15502,6 +15518,14 @@ a simple poker scale and placed onto the Best-Seller List to score points, hopef
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T160441Z" creationid="aorin" creationdate="20180408T160423Z">
         <seg>いっぱい屋敷はプレイヤーが多くいるゲームでの使用を想定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crusade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142732Z" creationid="nakahodo" creationdate="20180720T142732Z">
+        <seg>改革運動</seg>
       </tuv>
     </tu>
     <tu>
@@ -16343,6 +16367,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T042635Z" creationid="aorin" creationdate="20171231T234900Z">
         <seg>全ての個人目標カードはゲーム終了時に捨て札にされます（未達成でも次に引き継がれません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard an unrevealed card to score of rightmost empty, matching Gardens space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142613Z" creationid="nakahodo" creationdate="20180720T142547Z">
+        <seg>未公開カード1枚を捨て札にすることで、スートに一致する庭園トラックの、最も右の空きスペースを得点する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33208,6 +33240,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move one of your warriors from the map to the Acolytes box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142637Z" creationid="nakahodo" creationdate="20180720T142601Z">
+        <seg>マップからあなたの戦士1体をアコライトボックスに移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move that Hero to your score keeping area and place it face-down, adding its Soul value to your total.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T221135Z" creationid="aorin" creationdate="20180528T221135Z">
@@ -40310,6 +40350,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return revealed cards to hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142650Z" creationid="nakahodo" creationdate="20180720T142650Z">
+        <seg>公開カードを手札に戻す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the extra Armory tile to the box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T214814Z" creationid="nakahodo" creationdate="20180531T214808Z">
@@ -41321,6 +41369,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183206Z" creationid="nakahodo" creationdate="20180604T183206Z">
         <seg>スワップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sacrifice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T142559Z" creationid="nakahodo" creationdate="20180720T142559Z">
+        <seg>生贄</seg>
       </tuv>
     </tu>
     <tu>
@@ -43348,6 +43404,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T061330Z" creationid="nakahodo" creationdate="20180413T061330Z">
         <seg>1移動力を消費して、トレジャーかジェム1つを収集する[または]2移動力を消費して、ドラゴンダイスのロールをせずにジェム1つを収集する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend 2 acolytes to battle in any Outcast clearing    may move from any Outcast clearing and then may battle in the destination clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143151Z" creationid="nakahodo" creationdate="20180720T143151Z">
+        <seg>アコライト2体を消費することで、任意の除け者区画1つで戦闘する。または、任意の除け者区画から移動1回をでき、その後、移動先区画で戦闘できる。</seg>
       </tuv>
     </tu>
     <tu>
