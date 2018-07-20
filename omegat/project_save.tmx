@@ -12496,6 +12496,15 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battle in clearings matching the order card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T155758Z" creationid="nakahodo" creationdate="20180720T155742Z">
+        <seg>戦闘
+オーダーカードのスートに一致する区画にて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T071755Z" creationid="nakahodo" creationdate="20180719T071755Z">
@@ -15991,6 +16000,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defender is the player with the most pieces there, then most victory points, then highest setup priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160029Z" creationid="nakahodo" creationdate="20180720T160029Z">
+        <seg>ディフェンダーは、最もそこにピースを持つプレイヤーを、次に、最も勝利点を持つ、次に、最も高いセットアップ順。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defender​ ​may​ ​declare​ ​retreat.​ If defender does retreat, the defender takes hits based on the number of retreating warriors, the attacker may play one ambush card to deal a hit, and then the battle ends.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T221555Z" creationid="aorin" creationdate="20171215T221555Z">
@@ -16115,6 +16132,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T144204Z" creationid="aorin" creationdate="20171216T003616Z">
         <seg>Despot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination is the adjacent clearing with the most enemy pieces, then with highest clearing priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160357Z" creationid="nakahodo" creationdate="20180720T160357Z">
+        <seg>移動先は、最も敵ピースが隣接区画、次に、区画優先番号が高い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33216,6 +33241,15 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move all but 3 of your warriors from clearings matching the order card, following clearing priority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160318Z" creationid="nakahodo" creationdate="20180720T160252Z">
+        <seg>移動
+オーダーカードのスートに一致する区画全てで、各区画戦士3体を残して移動する。次の優先順位に従う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move all of your exhausted items to your available items.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075530Z" creationid="aorin" creationdate="20171216T075530Z">
@@ -36264,6 +36298,14 @@ the marker clockwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T144935Z">
         <seg>右下ウサギ区画に止まり木1つと戦士6体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1 to 3 warriors (cost) in each clearing you rule of this suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160541Z" creationid="nakahodo" creationdate="20180720T160541Z">
+        <seg>指定されたスートの、あなたが支配する区画ごとに1～3体（コスト数）の戦士を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39490,6 +39532,15 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recruit based on the cra ing cost of the order card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T160424Z" creationid="nakahodo" creationdate="20180720T160424Z">
+        <seg>雇用
+オーダーカードのクラフトコストに基づく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recruit happens in clearings based on the order’s crafting cost, as described in step 3.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T071742Z">
@@ -40651,8 +40702,9 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Reveal the next order card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T155555Z" creationid="nakahodo" creationdate="20180720T155555Z">
-        <seg>公開　次のオーダーカード。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T155744Z" creationid="nakahodo" creationdate="20180720T155555Z">
+        <seg>公開
+次のオーダーカード。</seg>
       </tuv>
     </tu>
     <tu>
