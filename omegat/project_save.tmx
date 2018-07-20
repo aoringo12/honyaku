@@ -15190,6 +15190,15 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cra  using workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085413Z" creationid="nakahodo" creationdate="20180720T085413Z">
+        <seg>クラフト
+作業場を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000420Z" creationid="aorin" creationdate="20171216T000420Z">
@@ -15242,6 +15251,14 @@ including, but not limited to:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000445Z" creationid="aorin" creationdate="20171216T000445Z">
         <seg>作業場を使用してあなたの手札から改良1つをクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crafted Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085327Z" creationid="nakahodo" creationdate="20180720T085327Z">
+        <seg>クラフトしたアイテム</seg>
       </tuv>
     </tu>
     <tu>
@@ -29285,6 +29302,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a clearing you rule, place a building, spending its cost in wood connected through any number of clearings you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085809Z" creationid="nakahodo" creationdate="20180720T085809Z">
+        <seg>あなたの支配する区画1つに、建物1つを配置する。消費するコストである木材は、対象区画から接続されたあなたの支配する区画の連なりから利用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a game with more than two players, when one player loses, that player's cards are set aside and "removed from the game." They do not go to the discard pile, and no effects can interact with those cards until the game concludes.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T223150Z" creationid="aorin" creationdate="20180528T223150Z">
@@ -33943,6 +33968,14 @@ shown on the board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once per turn, place one warrior at each recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085522Z" creationid="nakahodo" creationdate="20180720T085522Z">
+        <seg>ターンごとに一度、各雇用所に戦士1体ずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once per turn, spend 1 Blood to place a Blood cube on all Eggs within 2 spaces of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T154951Z" creationid="nakahodo" creationdate="20180604T154951Z">
@@ -36273,6 +36306,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235035Z" creationid="aorin" creationdate="20171215T235035Z">
         <seg>各製材所に木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place one wood at each sawmill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085401Z" creationid="nakahodo" creationdate="20180720T085401Z">
+        <seg>各製材所に木1つずつ配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43916,8 +43957,16 @@ Slates.</seg>
       <tuv lang="EN-US">
         <seg>Take two moves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051756Z" creationid="aorin" creationdate="20171215T235201Z">
-        <seg>移動2回を行います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085502Z" creationid="aorin" creationdate="20171215T235201Z">
+        <seg>移動アクション2回を行う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take up to 3 actions, plus one per you spend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085451Z" creationid="nakahodo" creationdate="20180720T085451Z">
+        <seg>3アクションまで実行する。○1枚を消費するごとに、1アクション追加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53743,6 +53792,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T170436Z" creationid="nakahodo" creationdate="20180703T165212Z">
         <seg>ヴァガボンドと連合はゲーム全体を見たり関係性を調整して、後に制御できない状況が作り出されないように注意しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond can give you cards to take these items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085348Z" creationid="nakahodo" creationdate="20180720T085348Z">
+        <seg>ヴァガボンドはあなたにカードを与え、これらアイテムを取ることができる。</seg>
       </tuv>
     </tu>
     <tu>
