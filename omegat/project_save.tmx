@@ -11267,6 +11267,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At start of their Birdsong, other players may purchase 1 service plus 1 per clearing with trade post and any of their pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T104522Z" creationid="nakahodo" creationdate="20180720T104522Z">
+        <seg>他プレイヤーたちは、自身の朝開始時、1サービスに加えて、自身のピースが1つでもあり交易所を持つ区画1つごとにサービスを購入できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the End of the Build phase, any Level Up or "when you build this Room" effects trigger in XP order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T145330Z" creationid="aorin" creationdate="20180528T145330Z">
