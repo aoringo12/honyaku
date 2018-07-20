@@ -29125,8 +29125,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>In Daylight, reveal an order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070323Z" creationid="nakahodo" creationdate="20180720T070323Z">
-        <seg>In Daylight, reveal an order.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071312Z" creationid="nakahodo" creationdate="20180720T070323Z">
+        <seg>昼にて、オーダー1枚を公開する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61076,6 +61076,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T123107Z" creationid="aorin" creationdate="20171212T123107Z">
         <seg>食料、シルバー、ゴールドのいずれか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en, if not discarded, you may swap any two orders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071340Z" creationid="nakahodo" creationdate="20180720T071340Z">
+        <seg>その後、捨て札がなければ、あなたは任意のオーダー2枚を入れ替えできる。</seg>
       </tuv>
     </tu>
     <tu>
