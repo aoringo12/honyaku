@@ -61080,6 +61080,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e Riverfolk Company plies the rivers winding through the great Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T075605Z" creationid="nakahodo" creationdate="20180720T075605Z">
+        <seg>リバーフォークカンパニーは広大なウッドランドをまたぐ川で働いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e Riverfolk place a fox trade post with a warrior there, and score two victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T203612Z" creationid="nakahodo" creationdate="20180703T203612Z">
