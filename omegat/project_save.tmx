@@ -19723,6 +19723,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even more, your Field Hospitals will help keep you in the fi ght.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T164144Z" creationid="nakahodo" creationdate="20180720T164144Z">
+        <seg>Even more, your Field Hospitals will help keep you in the fi ght.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though he would like to Force March some workers into the uncontrolled Citadel, he cannot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T032536Z" creationid="aorin" creationdate="20180115T032536Z">
@@ -62162,8 +62170,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your military is legion, letting you enforce your rule with an iron fi st, if necessary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T163942Z" creationid="nakahodo" creationdate="20180720T163942Z">
-        <seg>Your military is legion, letting you enforce your rule with an iron fi st, if necessary.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T164110Z" creationid="nakahodo" creationdate="20180720T163942Z">
+        <seg>あなたの武力は軍隊であり、必要に応じてその力で持って支配を維持していく。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62752,6 +62760,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T160049Z">
         <seg>マルキス・デ・キャットの玉座はキープであり、他派閥がその区画にピースを配置できなようになっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e seat of your power is the Keep of Marquise de Cat, a structure so imposing that no other faction can place pieces in its clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T164143Z" creationid="nakahodo" creationdate="20180720T164019Z">
+        <seg>マルキス・デ・キャットの玉座はキープであり、他派閥はその区画にピースを配置できない。</seg>
       </tuv>
     </tu>
     <tu>
