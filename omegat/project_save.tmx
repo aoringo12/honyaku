@@ -16233,6 +16233,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard down to 5 cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090018Z" creationid="nakahodo" creationdate="20180720T090018Z">
+        <seg>手札が5枚になるまでカードを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard down to your hand limit of four cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002820Z" creationid="aorin" creationdate="20171216T002820Z">
@@ -16726,6 +16734,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T192153Z" creationid="nakahodo" creationdate="20180604T192153Z">
         <seg>イベントに割りてられた前兆トークンごとに、イベントカード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw 1 card, plus 1 card per showing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085954Z" creationid="nakahodo" creationdate="20180720T085954Z">
+        <seg>カード1枚をドローする。加えて、表示されている○ごとに、カード1枚をドローする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29318,6 +29334,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a moment of weakness the Marquise descended.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090608Z" creationid="nakahodo" creationdate="20180720T090608Z">
+        <seg>マルキスに隙きを突かれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a multiplayer game against the Shadow Unicorn, one player can change their victory condition to the one listed above.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T131852Z" creationid="nakahodo" creationdate="20180412T131852Z">
@@ -33370,6 +33394,14 @@ they may use Leadership Council to retain it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now you have rallied your strength and are poised to recapture your birthright.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091412Z" creationid="nakahodo" creationdate="20180720T091412Z">
+        <seg>今あなたは、力を集結し、一族の栄光を取り戻そうとしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now you must build a kingdom worthy of your name.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T084215Z" creationid="nakahodo" creationdate="20180720T084207Z">
@@ -34825,6 +34857,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T062601Z" creationid="nakahodo" creationdate="20180311T062601Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwork</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085814Z" creationid="nakahodo" creationdate="20180720T085814Z">
+        <seg>残業</seg>
       </tuv>
     </tu>
     <tu>
@@ -42663,6 +42703,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T150614Z">
         <seg>製材所の区画1つに一致するカード1枚を消費して、そこに木材トークン1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend a card to place one wood at a sawmill in a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085910Z" creationid="nakahodo" creationdate="20180720T085910Z">
+        <seg>カード1枚を消費することで、そのスートに一致する区画の製材所1つに木材1つを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64682,6 +64730,38 @@ in the same tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T205156Z" creationid="nakahodo" creationdate="20171224T205156Z">
         <seg>•リソーストークン：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…from a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090203Z" creationid="nakahodo" creationdate="20180720T090203Z">
+        <seg>一致する区域1つから……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…in a matching clearing with a roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090210Z" creationid="nakahodo" creationdate="20180720T090153Z">
+        <seg>一致する止まり木がある区域1つにて……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…in a matching clearing you rule without a roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090301Z" creationid="nakahodo" creationdate="20180720T090301Z">
+        <seg>あなたが支配する、止まり木のない一致する区域1つにて……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>…in a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090218Z" creationid="nakahodo" creationdate="20180720T090218Z">
+        <seg>一致する区域1つにて……</seg>
       </tuv>
     </tu>
     <tu>
