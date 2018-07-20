@@ -57322,6 +57322,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever one of your warriors is removed, you can spend a card matching the warrior’s clearing to place the warrior back at your keep—as long as it stands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T172239Z" creationid="nakahodo" creationdate="20180720T172239Z">
+        <seg>あなたの戦士が1つ取り除かれるたびに、戦士のいる区画に一致するスートのカード1枚を消費することで、キープへとその戦士を戻して配置することができる――キープがある限り。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever the Eyrie craft an item, they ignore the listed victory points and instead score only one victory point.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153808Z" creationid="nakahodo" creationdate="20180629T153808Z">
