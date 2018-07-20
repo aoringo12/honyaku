@@ -456,9 +456,9 @@
       <tuv lang="EN-US">
         <seg>(Do not score points for removing the warrior that made the faction Hostile.) b Moving into Hostile Clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072737Z" creationid="nakahodo" creationdate="20180630T072737Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T072737Z">
         <seg>（派閥と敵対するために戦士1体を取り除いた時は勝利点を得点しません）
-b	敵対区域への移動。</seg>
+b	敵対区画への移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7786,24 +7786,24 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A clearing with no open slots cannot hold more buildings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215142Z" creationid="nakahodo" creationdate="20180630T215028Z">
-        <seg>区域に空きスロットが無い場合、それ以上の建物を配置することはできません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T215028Z">
+        <seg>区画に空きスロットが無い場合、それ以上の建物を配置することはできません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A clearing’s suit is shown both by its symbol and by the color of the clearing’s trees.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215531Z" creationid="nakahodo" creationdate="20180630T215520Z">
-        <seg>区域のスートは木々の色とシンボルの両方によって表されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T215520Z">
+        <seg>区画のスートは木々の色とシンボルの両方によって表されます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A clearing’s suit represents the community living there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215411Z" creationid="nakahodo" creationdate="20180630T215411Z">
-        <seg>区域のスートは、そこで住んでいるコミュニティを表しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T215411Z">
+        <seg>区画のスートは、そこで住んでいるコミュニティを表しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8190,8 +8190,8 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>A river runs through some clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213818Z" creationid="nakahodo" creationdate="20180630T213818Z">
-        <seg>いくつかの区域には川が通っています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T213818Z">
+        <seg>いくつかの区画には川が通っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,8 +8992,8 @@ their own Research Lab Ability Tracks!</seg>
       <tuv lang="EN-US">
         <seg>After a suit marker has been added to each clearing, flip them all over, and set up the game as normal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171226Z" creationid="nakahodo" creationdate="20180703T171226Z">
-        <seg>各区域にスートマーカーを追加した後、これらを表替えして公開し、通常通りゲームをセットアップします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T171226Z">
+        <seg>各区画にスートマーカーを追加した後、これらを表替えして公開し、通常通りゲームをセットアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9844,8 +9844,8 @@ in their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>All of your H match the suit of your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T161331Z" creationid="nakahodo" creationdate="20180702T161331Z">
-        <seg>Hのスートは全て、あなたのいる区域のスートtお同じになります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T161331Z">
+        <seg>Hのスートは全て、あなたのいる区画のスートtお同じになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10150,8 +10150,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>Also, whenever a Marquise warrior would be removed, the Marquise may call on her Field Hospitals, spending a card matching that warrior’s clearing to place that warrior back in the clearing with the keep token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051307Z" creationid="nakahodo" creationdate="20180701T051307Z">
-        <seg>また、マルキスが戦士1体を取り除くことになるたびに、その戦士のいる区域に一致するスートのカード1枚を消費することで、キープトークンを持つ区域にその戦士を直ちに配置することができます。これを野戦病院と呼びます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T051307Z">
+        <seg>また、マルキスが戦士1体を取り除くことになるたびに、その戦士のいる区画に一致するスートのカード1枚を消費することで、キープトークンを持つ区画にその戦士を直ちに配置することができます。これを野戦病院と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10491,8 +10491,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>Any other player, at the start of their Birdsong, may buy one Riverfolk service plus another per clearing with a trade post and any of their pieces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T195407Z" creationid="nakahodo" creationdate="20180703T195407Z">
-        <seg>任意の他プレイヤーは、自身の朝フェイズ開始時に、自身のピースがいる区域にある交易所の数に1を加えた数だけ、リバーフォークのサービスを購入できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T195407Z">
+        <seg>任意の他プレイヤーは、自身の朝フェイズ開始時に、自身のピースがいる区画にある交易所の数に1を加えた数だけ、リバーフォークのサービスを購入できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11605,8 +11605,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the start of Birdsong, the Alliance sees a sympathetic fox clearing as a prime target for revolt, so they take the opportunity, spending a fox and a bird from their Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104059Z" creationid="nakahodo" creationdate="20180702T104059Z">
-        <seg>朝フェイズ開始時、連合は反乱アクションの対象にキツネ賛同区域を狙ました。なので、支援者デッキからキツネと鳥カードを消費します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T104059Z">
+        <seg>朝フェイズ開始時、連合は反乱アクションの対象にキツネ賛同区画を狙ました。なので、支援者デッキからキツネと鳥カードを消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11637,16 +11637,16 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>At the start of the Cult’s turn, the most common suit of Lost Souls sets the Outcast, the suit of clearings where the Cult can perform conspiracies with their acolytes for that turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T182213Z" creationid="nakahodo" creationdate="20180703T182213Z">
-        <seg>カルトのターン開始時、ロストソウル山札の最も多い除け者のスートカードは、そのターンでカルトのアコライトが陰謀を実行する区域のスートを決定します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T182213Z">
+        <seg>カルトのターン開始時、ロストソウル山札の最も多い除け者のスートカードは、そのターンでカルトのアコライトが陰謀を実行する区画のスートを決定します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>At the start of the Eyrie’s Birdsong, the Eyrie can purchase up to two services because they have pieces in one clearing with a trade post.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T201554Z" creationid="nakahodo" creationdate="20180703T201406Z">
-        <seg>鷲の朝フェイズの開始時にて、鷲は自身のピースがある区域の内、1箇所に交易所がありますので、サービス2つまでを購入できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T201406Z">
+        <seg>鷲の朝フェイズの開始時にて、鷲は自身のピースがある区画の内、1箇所に交易所がありますので、サービス2つまでを購入できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12580,16 +12580,16 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Because she rules the rabbit clearing, she can now build in its empty slot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054546Z" creationid="nakahodo" creationdate="20180701T054459Z">
-        <seg>ウサギ区域を支配しているので、その空きスロットに建築できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T054459Z">
+        <seg>ウサギ区画を支配しているので、その空きスロットに建築できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Because the Alliance has three sympathetic fox clearings, they place three warriors in the fox clearing of the revolt and one warrior in the Officers box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104247Z" creationid="nakahodo" creationdate="20180702T104247Z">
-        <seg>連合はキツネ賛同区域3つを持つことになるので、対象区域に戦士3体を配置し、派閥ボードの将校ボックスに戦士1体を追加します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T104247Z">
+        <seg>連合はキツネ賛同区画3つを持つことになるので、対象区画に戦士3体を配置し、派閥ボードの将校ボックスに戦士1体を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12708,8 +12708,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Before the roll in battle, the defender may play an ambush card whose suit matches the clearing of battle to deal two hits immediately.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045517Z" creationid="nakahodo" creationdate="20180701T045517Z">
-        <seg>戦闘のロールをする前に、ディフェンダーは戦闘区域に一致するスートのアンブッシュカード1枚をプレイすることで、追加ヒット2つを直ちに与えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T045517Z">
+        <seg>戦闘のロールをする前に、ディフェンダーは戦闘区画に一致するスートのアンブッシュカード1枚をプレイすることで、追加ヒット2つを直ちに与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12772,8 +12772,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Being a Lone Wanderer, the Vagabond cannot rule a clearing or stop another player from ruling one, but he is Nimble, so he can move regardless of who rules his clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T151210Z" creationid="nakahodo" creationdate="20180702T151210Z">
-        <seg>孤独な放浪者であるヴァガボンドは区域を支配することはなく、他プレイヤーが区域を支配するのを止めることは出来ませんが、同時に機敏でもあります。ヴァガボンドはその区域を誰が支配しているのか関係なく移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T151210Z">
+        <seg>孤独な放浪者であるヴァガボンドは区画を支配することはなく、他プレイヤーが区画を支配するのを止めることは出来ませんが、同時に機敏でもあります。ヴァガボンドはその区画を誰が支配しているのか関係なく移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12820,8 +12820,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Beyond adding sympathy, their supporters can incite revolt, destroying all enemy pieces in a clearing and establishing a base there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T162238Z" creationid="nakahodo" creationdate="20180719T162238Z">
-        <seg>賛同者を追加するのに加えて、支援者たちは反乱を起こし、区域の敵ピース全てを打破し、新たな基地をそこに配置できる。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T162238Z">
+        <seg>賛同者を追加するのに加えて、支援者たちは反乱を起こし、区画の敵ピース全てを打破し、新たな基地をそこに配置できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12868,8 +12868,8 @@ is turned over.</seg>
       <tuv lang="EN-US">
         <seg>Birds are wild, so this card matches the mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050337Z" creationid="nakahodo" creationdate="20180701T050320Z">
-        <seg>鳥はワイルドですので、このカードはネズミ区域に一致します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T050320Z">
+        <seg>鳥はワイルドですので、このカードはネズミ区画に一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,8 +13289,8 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>Buildings, which start on faction boards and can be placed in empty slots in clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172750Z" creationid="nakahodo" creationdate="20180703T172725Z">
-        <seg>建物。派閥ボードから開始し、区域の空きスロットに配置されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T172725Z">
+        <seg>建物。派閥ボードから開始し、区画の空きスロットに配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14332,8 +14332,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose a quest whose nation matches your clearing, and exhaust the two items listed on the quest to complete it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090953Z" creationid="nakahodo" creationdate="20180630T090953Z">
-        <seg>あなたの区域に一致する民のクエスト1つを選択し、クエストに記述されたアイテム2つを消耗して、これを達成します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T090953Z">
+        <seg>あなたの区画に一致する民のクエスト1つを選択し、クエストに記述されたアイテム2つを消耗して、これを達成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14372,8 +14372,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose any clearing without a trade post that is ruled by any player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173123Z" creationid="nakahodo" creationdate="20180630T173120Z">
-        <seg>任意のプレイヤーに支配され、交易所がない任意の区域を選択します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T173120Z">
+        <seg>任意のプレイヤーに支配され、交易所がない任意の区画を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14587,8 +14587,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Claim a quest whose suit matches your clearing by exhausting the two items listed on the quest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153417Z" creationid="nakahodo" creationdate="20180702T153417Z">
-        <seg>クエストに記述されたアイテム2つを消耗することで、あなたのいる区域に一致するスートのクエスト達成を主張します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T153417Z">
+        <seg>クエストに記述されたアイテム2つを消耗することで、あなたのいる区画に一致するスートのクエスト達成を主張します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,8 +14667,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Clearings</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214838Z" creationid="nakahodo" creationdate="20180630T214838Z">
-        <seg>区域</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214838Z">
+        <seg>区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -15159,6 +15159,14 @@ and have decided to Blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T200849Z" creationid="aorin" creationdate="20180114T200849Z">
         <seg>スパイと法廷を制御すると、特別ボーナスと勝利点を獲得できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143159Z" creationid="nakahodo" creationdate="20180720T143159Z">
+        <seg>転向</seg>
       </tuv>
     </tu>
     <tu>
@@ -17175,8 +17183,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>During Daylight and Evening of this turn, the buyer treats Riverfolk pieces as their own in battles and in determining rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162558Z" creationid="nakahodo" creationdate="20180630T162558Z">
-        <seg>このターン昼と夜フェイズ時、購入者はリバーフォークのピースを戦争と区域を支配するために、それらを自身の所有物として扱えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T162558Z">
+        <seg>このターン昼と夜フェイズ時、購入者はリバーフォークのピースを戦争と区画を支配するために、それらを自身の所有物として扱えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18287,8 +18295,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each clearing also has a suit:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215307Z" creationid="nakahodo" creationdate="20180630T215307Z">
-        <seg>各区域はまた、スート1つを持っています：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T215307Z">
+        <seg>各区画はまた、スート1つを持っています：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18311,8 +18319,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each clearing may have only one trade post.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203001Z" creationid="nakahodo" creationdate="20180703T203001Z">
-        <seg>各区域は交易所を1つのみ持てます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T203001Z">
+        <seg>各区画は交易所を1つのみ持てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18327,8 +18335,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each clearing on the map has one to three slots, which hold buildings that players will place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T215049Z" creationid="nakahodo" creationdate="20180630T215026Z">
-        <seg>マップの各区域は1～3つのスロットを持ち、そこに建物を配置し保持することができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T215026Z">
+        <seg>マップの各区画は1～3つのスロットを持ち、そこに建物を配置し保持することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19156,8 +19164,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Each turn, a player may buy one service plus one service per clearing with a trade post where that player has any pieces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161617Z" creationid="nakahodo" creationdate="20180630T161617Z">
-        <seg>各ターン、サービス1つの購入できます。それに加えて、プレイヤーは自身の任意のピースがある交易所を持つ区域ごとに、サービス1つを購入できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T161617Z">
+        <seg>各ターン、サービス1つの購入できます。それに加えて、プレイヤーは自身の任意のピースがある交易所を持つ区画ごとに、サービス1つを購入できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19196,8 +19204,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Each turn, they must add cards to it and then resolve it, taking a decreed action for each card in the matching clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T163717Z" creationid="nakahodo" creationdate="20180719T163717Z">
-        <seg>各ターン、法令にカードを追加し、その後、一致する区域で各カードの法令アクションを実行し解決しなければならない。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T163717Z">
+        <seg>各ターン、法令にカードを追加し、その後、一致する区画で各カードの法令アクションを実行し解決しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19860,16 +19868,16 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust a C to remove a warrior in your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152920Z" creationid="nakahodo" creationdate="20180702T152748Z">
-        <seg>C1つを消耗して、あなたのいる区域の戦士1体を取り除きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T152748Z">
+        <seg>C1つを消耗して、あなたのいる区画の戦士1体を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Exhaust a F to take one item from a ruin in your clearing and score one victory point.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153014Z" creationid="nakahodo" creationdate="20180702T153014Z">
-        <seg>F1つを消耗して、あなたのいる区域の遺跡1つからアイテム1つを取り、1勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T153014Z">
+        <seg>F1つを消耗して、あなたのいる区画の遺跡1つからアイテム1つを取り、1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19908,32 +19916,32 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust any one item, and give a card from your hand matching your clearing to any player in your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T153216Z" creationid="nakahodo" creationdate="20180702T153216Z">
-        <seg>任意のアイテム1つを消耗して、あなたのいる区域の任意のプレイヤーに、あなたの手札から区域に一致するスートのカード1枚を、そのプレイヤーに渡します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T153216Z">
+        <seg>任意のアイテム1つを消耗して、あなたのいる区画の任意のプレイヤーに、あなたの手札から区画に一致するスートのカード1枚を、そのプレイヤーに渡します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Exhaust any one item, and give one of your cards matching your clearing to any player there (even Hostile).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090743Z" creationid="nakahodo" creationdate="20180630T090743Z">
-        <seg>任意のアイテム1つを消耗して、あなたの区域にいる任意のプレイヤー1人に、区域の民と一致するカード1枚を、あなたの手札から渡します（敵対していても）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T090743Z">
+        <seg>任意のアイテム1つを消耗して、あなたの区画にいる任意のプレイヤー1人に、区画の民と一致するカード1枚を、あなたの手札から渡します（敵対していても）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Exhaust one C to remove a warrior from your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085701Z" creationid="nakahodo" creationdate="20180630T085701Z">
-        <seg>C1つを消耗して、あなたの区域から戦士1体を取り除きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T085701Z">
+        <seg>C1つを消耗して、あなたの区画から戦士1体を取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Exhaust one F to take one item under a ruin marker in your clearing, reveal it, and place it face up in your Satchel or on its matching track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T090550Z" creationid="nakahodo" creationdate="20180630T090455Z">
-        <seg>F1つを消耗して、あなたの区域の遺跡マーカー下にあるアイテム1つを取り、これを公開し、カバンかアイテムトラックに表向行きでこれを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T090455Z">
+        <seg>F1つを消耗して、あなたの区画の遺跡マーカー下にあるアイテム1つを取り、これを公開し、カバンかアイテムトラックに表向行きでこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19956,8 +19964,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust one M to move, plus one M if the destination clearing has any Hostile warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083143Z" creationid="nakahodo" creationdate="20180630T083143Z">
-        <seg>M1つを消耗させることで移動します。移動先区域に敵対戦士が少なくとも1体いる場合、さらに追加でM1つ必要です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T083143Z">
+        <seg>M1つを消耗させることで移動します。移動先区画に敵対戦士が少なくとも1体いる場合、さらに追加でM1つ必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20678,8 +20686,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Finally, the Eyrie must place a roost in a clearing they rule that does not have a roost already.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093932Z" creationid="nakahodo" creationdate="20180702T093831Z">
-        <seg>最後に、止まり木を持たず鷲が支配する区域1つに止まり木1つを配置する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T093831Z">
+        <seg>最後に、止まり木を持たず鷲が支配する区画1つに止まり木1つを配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20702,8 +20710,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Finally, they organize, removing one of their warriors to place a sympathy token in the mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150746Z" creationid="nakahodo" creationdate="20180702T150711Z">
-        <seg>最後に、整理を選択し、ネズミ区域の戦士たちのうち1体を取り除き、賛同トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T150711Z">
+        <seg>最後に、整理を選択し、ネズミ区画の戦士たちのうち1体を取り除き、賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20846,8 +20854,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>First, no one but the Marquise can place pieces in the clearing with the keep token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T051017Z" creationid="nakahodo" creationdate="20180701T051017Z">
-        <seg>まず、マルキス以外はキープトークンのある区域にピースを配置できません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T051017Z">
+        <seg>まず、マルキス以外はキープトークンのある区画にピースを配置できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20902,8 +20910,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>First, they spend two acolytes to convert the Marquise warrior in the rabbit clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184504Z" creationid="nakahodo" creationdate="20180703T184504Z">
-        <seg>まず、アコライト2体を消費して、ウサギ区域のマルキス戦士を転向させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T184504Z">
+        <seg>まず、アコライト2体を消費して、ウサギ区画のマルキス戦士を転向させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21313,8 +21321,8 @@ please see page 13.</seg>
       <tuv lang="EN-US">
         <seg>For each card in a column, you must take the action listed by the column in a clearing matching the card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060005Z" creationid="nakahodo" creationdate="20180701T060005Z">
-        <seg>列の各カードにより、カードスートに一致する区域で、列により記述されたアクションを実行しなければなりません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T060005Z">
+        <seg>列の各カードにより、カードスートに一致する区画で、列により記述されたアクションを実行しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21523,24 +21531,24 @@ track.</seg>
       <tuv lang="EN-US">
         <seg>For example, you might not have any warriors in your supply to recruit, or maybe all the clearings you rule already have a roost, meaning you can’t build any more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093354Z" creationid="nakahodo" creationdate="20180702T093354Z">
-        <seg>例えば、サプライに戦士がいない状態で雇用したり、支配区域全て止まり木があってそれ以上建築できない、などです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T093354Z">
+        <seg>例えば、サプライに戦士がいない状態で雇用したり、支配区画全て止まり木があってそれ以上建築できない、などです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>For her second and third actions, she takes the Overwork action twice, spending a mouse and a bird card to put two extra wood in a mouse clearing with a sawmill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054317Z" creationid="nakahodo" creationdate="20180701T054317Z">
-        <seg>2回め、3回めのアクションにて、ネズミと鳥カードを使用して、残業アクションを2回実行し、作業場を持つネズミ区域に追加の木材2つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T054317Z">
+        <seg>2回め、3回めのアクションにて、ネズミと鳥カードを使用して、残業アクションを2回実行し、作業場を持つネズミ区画に追加の木材2つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>For her second move, she moves another two warriors into the clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054143Z" creationid="nakahodo" creationdate="20180701T054143Z">
-        <seg>2回めの移動で、別の戦士2体をウサギ区域に移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T054143Z">
+        <seg>2回めの移動で、別の戦士2体をウサギ区画に移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21621,8 +21629,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>For the recruit, Eyrie choose to treat the bird card as a fox card and so place two warriors in a fox clearing with a roost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093726Z" creationid="nakahodo" creationdate="20180702T093726Z">
-        <seg>雇用のために、鷲は鳥カードをキツネカードとして扱い、止まり木のあるキツネ区域1つに戦士2体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T093726Z">
+        <seg>雇用のために、鷲は鳥カードをキツネカードとして扱い、止まり木のあるキツネ区画1つに戦士2体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21757,9 +21765,9 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>Forming a Coalition as the Vagabond The Vagabond cannot rule clearings, but he can play a dominance card to form a coalition with the player other than himself with the lowest score.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T114203Z" creationid="nakahodo" creationdate="20180703T114039Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T114039Z">
         <seg>ヴァガボンドの同盟結成
-ヴァガボンドは区域を支配できませんが、ドミナンスカードをプレイして、自身以外で最も勝利点の低いプレイヤーと同盟を結成することができます（関係性による友軍とは違うことに注意してください）。</seg>
+ヴァガボンドは区画を支配できませんが、ドミナンスカードをプレイして、自身以外で最も勝利点の低いプレイヤーと同盟を結成することができます（関係性による友軍とは違うことに注意してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21913,8 +21921,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Fundraising in a fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144711Z" creationid="nakahodo" creationdate="20180719T144711Z">
-        <seg>キツネ区域にて</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T144711Z">
+        <seg>キツネ区画にて</seg>
       </tuv>
     </tu>
     <tu>
@@ -22856,8 +22864,8 @@ place them on the table as shown below.</seg>
       <tuv lang="EN-US">
         <seg>Give a card matching your clearing to a player there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100435Z" creationid="nakahodo" creationdate="20180720T100435Z">
-        <seg>あなたのいる区域にスートが一致するカード1枚を、そこにいるプレイヤー1人にあげる。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100435Z">
+        <seg>あなたのいる区画にスートが一致するカード1枚を、そこにいるプレイヤー1人にあげる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23608,8 +23616,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>He shares a fox clearing with them, so he can target the Eyrie with the Aid action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163729Z" creationid="nakahodo" creationdate="20180702T163636Z">
-        <seg>今、相手とキツネ区域を共有していますので、援助アクションにて鷲を対象にします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T163636Z">
+        <seg>今、相手とキツネ区画を共有していますので、援助アクションにて鷲を対象にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24179,8 +24187,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>However, a big treasury makes for an easy target, and so the Riverfolk must balance protecting their growing treasury with expanding of their operations into the more dangerous clearings of the forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T152656Z" creationid="nakahodo" creationdate="20180630T152455Z">
-        <seg>しかしながら、わかりやすい攻撃対象とされやすくもあります。なので、リバーフォークは自身の増えていく財産を、森の危険な区域へといかに上手く拡大していくのか戦略を練る必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T152455Z">
+        <seg>しかしながら、わかりやすい攻撃対象とされやすくもあります。なので、リバーフォークは自身の増えていく財産を、森の危険な区画へといかに上手く拡大していくのか戦略を練る必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24211,8 +24219,8 @@ Roaster...</seg>
       <tuv lang="EN-US">
         <seg>However, each player can roll no more hits than their number of warriors in the clearing of battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230741Z" creationid="nakahodo" creationdate="20180630T230741Z">
-        <seg>しかし、各プレイヤーは戦闘区域の戦士たちの数を上回ったヒット数は与えられません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T230741Z">
+        <seg>しかし、各プレイヤーは戦闘区画の戦士たちの数を上回ったヒット数は与えられません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24413,8 +24421,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>However, you must exhaust another M whenever you move into a clearing with any Hostile warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T163541Z" creationid="nakahodo" creationdate="20180702T163541Z">
-        <seg>しかし、あなたは敵対戦士たちのいる区域に入るたびに、追加でM1つを消耗しなければなりません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T163541Z">
+        <seg>しかし、あなたは敵対戦士たちのいる区画に入るたびに、追加でM1つを消耗しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24655,16 +24663,16 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>I move my warrior first to the mouse clearing, then move both warriors to the fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192545Z" creationid="nakahodo" creationdate="20180630T192545Z">
-        <seg>私はネズミの区域に戦士1体を移動させます。②その後、キツネ区域に両方の戦士たちを移動させます。③</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T192545Z">
+        <seg>私はネズミの区画に戦士1体を移動させます。②その後、キツネ区画に両方の戦士たちを移動させます。③</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I place a warrior at my recruiter in the mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193106Z" creationid="nakahodo" creationdate="20180630T192849Z">
-        <seg>私はネズミ区域に自分の雇用所に戦士1体を配置します。④</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T192849Z">
+        <seg>私はネズミ区画に自分の雇用所に戦士1体を配置します。④</seg>
       </tuv>
     </tu>
     <tu>
@@ -25143,8 +25151,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>If a card requires multiple of one nation to craft, you must exhaust the listed number of H. All of your H match the nation of your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T085326Z" creationid="nakahodo" creationdate="20180630T085326Z">
-        <seg>クラフトに民が複数必要必要な場合、あなたはHを記述された数だけ消耗する必要があります。Hは全て、あなたが現在いる区域の民と一致します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T085326Z">
+        <seg>クラフトに民が複数必要必要な場合、あなたはHを記述された数だけ消耗する必要があります。Hは全て、あなたが現在いる区画の民と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25821,8 +25829,8 @@ enough to place onto the list, it is removed from play.</seg>
       <tuv lang="EN-US">
         <seg>If in a forest, you may only move into an adjacent clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T084554Z" creationid="nakahodo" creationdate="20180630T084554Z">
-        <seg>森に移動する場合、隣接区域1つにのみ移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T084554Z">
+        <seg>森に移動する場合、隣接区画1つにのみ移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27097,8 +27105,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If the target clearing has three or more warriors of another player, you must spend another matching supporter to place sympathy there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103713Z" creationid="nakahodo" creationdate="20180702T103713Z">
-        <seg>対象区域が他プレイヤーの戦士3体以上を持つ場合、その区域に一致する支援者1枚を追加で消費する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T103713Z">
+        <seg>対象区画が他プレイヤーの戦士3体以上を持つ場合、その区画に一致する支援者1枚を追加で消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29576,8 +29584,8 @@ the Supplier without emptying any spaces.</seg>
       <tuv lang="EN-US">
         <seg>In Birdsong, may discard this to score one point per clearing you rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T103235Z" creationid="nakahodo" creationdate="20180719T103235Z">
-        <seg>朝時、これを捨て札にすることで、あなたが支配する区域ごとに1勝利点得る。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T103235Z">
+        <seg>朝時、これを捨て札にすることで、あなたが支配する区画ごとに1勝利点得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29690,16 +29698,16 @@ World Map and collect beans.</seg>
       <tuv lang="EN-US">
         <seg>In a clearing matching the revealed card, place a warrior.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145335Z" creationid="nakahodo" creationdate="20180630T145335Z">
-        <seg>公開したカードと一致する区域に、戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T145335Z">
+        <seg>公開したカードと一致する区画に、戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In a clearing you rule matching the revealed card, place a matching garden.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T145305Z" creationid="nakahodo" creationdate="20180630T145305Z">
-        <seg>公開したカードに一致する、あなたが支配する区域に、民と一致する庭園1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T145305Z">
+        <seg>公開したカードに一致する、あなたが支配する区画に、民と一致する庭園1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30342,8 +30350,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>In the clearing on the opposite corner from the Marquise’s keep or Eyrie’s starting roost, place four warriors and a garden matching that nation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142040Z" creationid="nakahodo" creationdate="20180630T142040Z">
-        <seg>マップの鷲の開始止まり木かマルキスのキープから反対側角端の区域に、その民に一致する庭園1つと戦士4体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T142040Z">
+        <seg>マップの鷲の開始止まり木かマルキスのキープから反対側角端の区画に、その民に一致する庭園1つと戦士4体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30630,8 +30638,8 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>Initiate a battle in a matching clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060220Z" creationid="nakahodo" creationdate="20180701T060220Z">
-        <seg>スートに一致する区域1つで戦闘1回を開始します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T060220Z">
+        <seg>スートに一致する区画1つで戦闘1回を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30646,16 +30654,16 @@ indicates an action that must be performed for a specific Country in that region
       <tuv lang="EN-US">
         <seg>Initiate a battle in each clearing with your warriors and any enemy pieces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071833Z" creationid="nakahodo" creationdate="20180719T071833Z">
-        <seg>メカニカルマルキスの戦士たちと任意の敵ピースがいる区域ごとに戦争が発生します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T071833Z">
+        <seg>メカニカルマルキスの戦士たちと任意の敵ピースがいる区画ごとに戦争が発生します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Initiate a battle in your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T071818Z" creationid="nakahodo" creationdate="20180720T071818Z">
-        <seg>あなたのいる区域で戦闘を開始する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T071818Z">
+        <seg>あなたのいる区画で戦闘を開始する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31128,8 +31136,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>It is not a warrior and does not add to rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174100Z" creationid="nakahodo" creationdate="20180703T174100Z">
-        <seg>戦士とはとは違い、区域の支配にカウントされません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T174100Z">
+        <seg>戦士とはとは違い、区画の支配にカウントされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31457,8 +31465,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Just like clearings, each card has a suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223656Z" creationid="nakahodo" creationdate="20180630T223656Z">
-        <seg>区域のように、各カードもスートを持ちます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T223656Z">
+        <seg>区画のように、各カードもスートを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31971,8 +31979,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Let’s say you want to act in a fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224012Z" creationid="nakahodo" creationdate="20180630T224012Z">
-        <seg>キツネ区域でアクションするとしましょう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T224012Z">
+        <seg>キツネ区画でアクションするとしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32011,8 +32019,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Like extra hits, ambush hits are not limited by your number of warriors in the clearing of battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045832Z" creationid="nakahodo" creationdate="20180701T045832Z">
-        <seg>追加ヒットのように、アンブッシュによるヒットは戦闘区域の戦士数によって制限されません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T045832Z">
+        <seg>追加ヒットのように、アンブッシュによるヒットは戦闘区画の戦士数によって制限されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32805,8 +32813,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>May move to a clearing or forest at no cost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100233Z" creationid="nakahodo" creationdate="20180720T100233Z">
-        <seg>コストなしで区域か森に1回移動できる。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100233Z">
+        <seg>コストなしで区画か森に1回移動できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33016,8 +33024,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Most action in Root unfolds on the map of the Woodland, consisting of 12 clearings connected by paths.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213757Z" creationid="nakahodo" creationdate="20180630T213757Z">
-        <seg>ルートのほとんどのアクションは、道で接続された12の区域からなる、ウッドランドのマップで展開されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T213757Z">
+        <seg>ルートのほとんどのアクションは、道で接続された12の区画からなる、ウッドランドのマップで展開されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33170,8 +33178,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Move and battle happen in all clearings matching the suit of the order card.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071704Z" creationid="nakahodo" creationdate="20180719T071603Z">
-        <seg>移動と戦闘アクションは、オーダーカードのスートに一致する区域全てで発生します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T071603Z">
+        <seg>移動と戦闘アクションは、オーダーカードのスートに一致する区画全てで発生します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33186,8 +33194,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>Move at least one warrior from a matching clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060227Z" creationid="nakahodo" creationdate="20180701T060201Z">
-        <seg>スートに一致する区域1つから、少なくとも戦士1体を移動1回を行います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T060201Z">
+        <seg>スートに一致する区画1つから、少なくとも戦士1体を移動1回を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33596,8 +33604,8 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Next I move three warriors from the rabbit clearing west to the mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193601Z" creationid="nakahodo" creationdate="20180630T193024Z">
-        <seg>次に、ウサギ区域から戦士3体をネズミ区域に移動します。②</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T193024Z">
+        <seg>次に、ウサギ区画から戦士3体をネズミ区画に移動します。②</seg>
       </tuv>
     </tu>
     <tu>
@@ -33652,16 +33660,16 @@ Corporate HQ and Tiebreakers.</seg>
       <tuv lang="EN-US">
         <seg>Next, the Eyrie must move at least one warrior from a rabbit clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T093753Z" creationid="nakahodo" creationdate="20180702T093753Z">
-        <seg>次に、ウサギ区域1つから、少なくとも戦士1体を移動させる必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T093753Z">
+        <seg>次に、ウサギ区画1つから、少なくとも戦士1体を移動させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Next, they move two warriors to an adjacent mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150659Z" creationid="nakahodo" creationdate="20180702T150659Z">
-        <seg>次に、隣接するネズミ区域に戦士たち2体を移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T150659Z">
+        <seg>次に、隣接するネズミ区画に戦士たち2体を移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34232,8 +34240,8 @@ contains a red negative action.</seg>
       <tuv lang="EN-US">
         <seg>On the winter map, the randomness of clearing suits can introduce many new challenges to each faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171438Z" creationid="nakahodo" creationdate="20180703T171438Z">
-        <seg>ウィンターマップにて、ランダムな区域スートは各派閥に新たな挑戦を強いるでしょう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T171438Z">
+        <seg>ウィンターマップにて、ランダムな区画スートは各派閥に新たな挑戦を強いるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36182,8 +36190,8 @@ the marker clockwise.</seg>
       <tuv lang="EN-US">
         <seg>Place 1 roost and 6 warriors in the bottom-right rabbit clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144935Z" creationid="nakahodo" creationdate="20180719T144935Z">
-        <seg>右下ウサギ区域に止まり木1つと戦士6体を配置する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T144935Z">
+        <seg>右下ウサギ区画に止まり木1つと戦士6体を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36561,8 +36569,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a roost in a matching clearing you rule with an open slot and no roost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060433Z" creationid="nakahodo" creationdate="20180701T060433Z">
-        <seg>スートに一致し、かつ止まり木を持たず空きスロットがある、あなたの支配する区域1つに止まり木1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T060433Z">
+        <seg>スートに一致し、かつ止まり木を持たず空きスロットがある、あなたの支配する区画1つに止まり木1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36593,8 +36601,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a sympathy token in an unsympathetic clearing, adjacent to a sympathetic clearing if possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103555Z" creationid="nakahodo" creationdate="20180702T103555Z">
-        <seg>賛同区域に隣接する、非賛同区域1つに賛同トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T103555Z">
+        <seg>賛同区画に隣接する、非賛同区画1つに賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36617,16 +36625,16 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a warrior in a clearing with a base.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150015Z" creationid="nakahodo" creationdate="20180702T150015Z">
-        <seg>基地のある区域1つに戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T150015Z">
+        <seg>基地のある区画1つに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Place a warrior in a matching clearing with a roost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T060131Z" creationid="nakahodo" creationdate="20180701T060131Z">
-        <seg>止まり木を持つスートに一致する区域1つで戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T060131Z">
+        <seg>止まり木を持つスートに一致する区画1つで戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36785,8 +36793,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place four warriors on any clearing or clearings connected to the river.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163732Z" creationid="nakahodo" creationdate="20180630T163732Z">
-        <seg>任意の区域か、川に接続された区域1つ以上に戦士4体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T163732Z">
+        <seg>任意の区画か、川に接続された区画1つ以上に戦士4体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36835,8 +36843,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place one building in a clearing you rule with an open slot by spending wood tokens equal to its cost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T052038Z" creationid="nakahodo" creationdate="20180701T052038Z">
-        <seg>建物のコストに等しいだけ木材トークンを消費することで、あなたが支配する空きスロットを持つ区域1つに建物1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T052038Z">
+        <seg>建物のコストに等しいだけ木材トークンを消費することで、あなたが支配する空きスロットを持つ区画1つに建物1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39026,8 +39034,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>P matching base and warriors there equal to total number of matching sympathetic clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T093153Z" creationid="nakahodo" creationdate="20180720T093153Z">
-        <seg>対象区画に、スートの一致する基地と、スートの一致する賛同区域の合計数に等しい数の戦士を配置する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T093153Z">
+        <seg>対象区画に、スートの一致する基地と、スートの一致する賛同区画の合計数に等しい数の戦士を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39404,8 +39412,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Recruit happens in clearings based on the order’s crafting cost, as described in step 3.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071742Z" creationid="nakahodo" creationdate="20180719T071742Z">
-        <seg>雇用アクションは、ステップ3で説明されるように、オーダーカードのクラフトコストに基づいた区域で発生します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T071742Z">
+        <seg>雇用アクションは、ステップ3で説明されるように、オーダーカードのクラフトコストに基づいた区画で発生します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39732,8 +39740,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove a piece in your clearing, warriors first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100550Z" creationid="nakahodo" creationdate="20180720T100550Z">
-        <seg>あなたのいる区域のピース1つを取り除く。戦士優先。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100550Z">
+        <seg>あなたのいる区画のピース1つを取り除く。戦士優先。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39780,24 +39788,24 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove all enemy pieces in fox clearings, then discard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104135Z" creationid="nakahodo" creationdate="20180719T104135Z">
-        <seg>キツネ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T104135Z">
+        <seg>キツネ区画全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remove all enemy pieces in mouse clearings, then discard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104506Z" creationid="nakahodo" creationdate="20180719T104506Z">
-        <seg>ネズミ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T104506Z">
+        <seg>ネズミ区画全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remove all enemy pieces in rabbit clearings, then discard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104329Z" creationid="nakahodo" creationdate="20180719T104329Z">
-        <seg>ウサギ区域全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T104329Z">
+        <seg>ウサギ区画全てにいる敵ピース全てを取り除き、その後、捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39884,8 +39892,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove one of your warriors from an unsympathetic clearing to place a sympathy token there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T150048Z" creationid="nakahodo" creationdate="20180702T150048Z">
-        <seg>非賛同区域から戦士1体を取り除き、そこに賛同トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T150048Z">
+        <seg>非賛同区画から戦士1体を取り除き、そこに賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40199,9 +40207,9 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Resolve the Decree from le column to right, taking one action per card in a matching clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092210Z" creationid="nakahodo" creationdate="20180720T092210Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T092210Z">
         <seg>法令の解決
-カラムの左から右へ、カードごとに、スートが一致する区域1つにアクション1つを実行する。</seg>
+カラムの左から右へ、カードごとに、スートが一致する区画1つにアクション1つを実行する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40467,8 +40475,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Reveal a card matching a clearing you rule to place a garden there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T185057Z" creationid="nakahodo" creationdate="20180703T185057Z">
-        <seg>公開カードに一致する区域1つに庭園を配置し、そこを支配します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T185057Z">
+        <seg>公開カードに一致する区画1つに庭園を配置し、そこを支配します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41062,8 +41070,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Ruins, which fill slots in clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T173750Z" creationid="nakahodo" creationdate="20180703T173750Z">
-        <seg>遺跡。区域のスロットを満たします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T173750Z">
+        <seg>遺跡。区画のスロットを満たします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41381,6 +41389,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sanctify</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143235Z" creationid="nakahodo" creationdate="20180720T143235Z">
+        <seg>聖別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sanctity Upgrades (Discard) As part of an Encounter, you can attack an adjacent space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T153253Z" creationid="nakahodo" creationdate="20180601T153113Z">
@@ -41602,8 +41618,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Score two victory points per clearing you rule where you have at least three warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T071349Z" creationid="nakahodo" creationdate="20180719T071349Z">
-        <seg>メカニカルマルキスが少なくとも戦士3体を持ち、かつ支配する区域ごとに、2勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T071349Z">
+        <seg>メカニカルマルキスが少なくとも戦士3体を持ち、かつ支配する区画ごとに、2勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41723,8 +41739,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Second, they spend two acolytes to crusade with the warrior in the rabbit clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184639Z" creationid="nakahodo" creationdate="20180703T184602Z">
-        <seg>つぎに、アコライト2体を消費して、ウサギ区域の戦士たちにより改革運動を行います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T184602Z">
+        <seg>つぎに、アコライト2体を消費して、ウサギ区画の戦士たちにより改革運動を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42242,16 +42258,16 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>She moves two warriors from a mouse clearing, which she rules, to a rabbit clearing, which she doesn’t.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054104Z" creationid="nakahodo" creationdate="20180701T054104Z">
-        <seg>マルキスが支配しているネズミ区域から戦士たち2体を、マルキスが支配していないウサギ区域へと移動します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T054104Z">
+        <seg>マルキスが支配しているネズミ区画から戦士たち2体を、マルキスが支配していないウサギ区画へと移動します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>She now rules the rabbit clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054159Z" creationid="nakahodo" creationdate="20180701T054159Z">
-        <seg>マルキスは現在ウサギ区域を支配することになります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T054159Z">
+        <seg>マルキスは現在ウサギ区画を支配することになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43416,6 +43432,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend 2 acolytes to remove an enemy warrior in an Outcast clearing and place a warrior there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143231Z" creationid="nakahodo" creationdate="20180720T143231Z">
+        <seg>アコライト2体を消費することで、除け者区画1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend 2 funds of a clearing’s ruler to place a matching trade post and a warrior there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T103251Z" creationid="nakahodo" creationdate="20180720T103251Z">
@@ -43436,6 +43460,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T154300Z" creationid="nakahodo" creationdate="20180604T154234Z">
         <seg>ブラッド3つを消費することで、恐怖1つを得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend 3 acolytes to remove an enemy building in an Outcast clearing and place a garden there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143423Z" creationid="nakahodo" creationdate="20180720T143423Z">
+        <seg>アコライト3体を消費することで、除け者区画1つから敵建物1つを取り除き、その後、そこに庭園1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43522,8 +43554,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend a card to place one wood token at one sawmill in a clearing whose suit matches the card spent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053517Z" creationid="nakahodo" creationdate="20180701T053200Z">
-        <seg>カード1枚を消費して、そのソートに一致する区域1つの製材所1つに木材トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T053200Z">
+        <seg>カード1枚を消費して、そのソートに一致する区画1つの製材所1つに木材トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43554,8 +43586,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend a fund to place a warrior in any clearing with a river.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202359Z" creationid="nakahodo" creationdate="20180703T202359Z">
-        <seg>1資金を消費することで、川を持つ任意の区域1つに戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T202359Z">
+        <seg>1資金を消費することで、川を持つ任意の区画1つに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43594,16 +43626,16 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend number of supporters listed on Sympathy track to place a sympathy, adjacent to sympathetic clearing if possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T094638Z" creationid="nakahodo" creationdate="20180720T093244Z">
-        <seg>賛同トラックに記述された数の支援者を消費することで、可能であれば、賛同区域に隣接する区域1つに、賛同者1つを配置する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T093244Z">
+        <seg>賛同トラックに記述された数の支援者を消費することで、可能であれば、賛同区画に隣接する区画1つに、賛同者1つを配置する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Spend one fund to place a warrior in any clearing with a river.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T172647Z" creationid="nakahodo" creationdate="20180630T172614Z">
-        <seg>1資金を消費することで、任意の川を持つ区域1つに戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T172614Z">
+        <seg>1資金を消費することで、任意の川を持つ区画1つに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43642,16 +43674,16 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend three acolytes to remove an enemy building from a clearing of the Outcast Nation, and then place a garden of matching nation there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144809Z" creationid="nakahodo" creationdate="20180630T144659Z">
-        <seg>アコライト3体を消費して、除け者の民の区域から敵建物1つを取り除き、その後、そこに民と一致する庭園1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T144659Z">
+        <seg>アコライト3体を消費して、除け者の民の区画から敵建物1つを取り除き、その後、そこに民と一致する庭園1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Spend three acolytes to remove an enemy building from an Outcast clearing and then place a garden there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184005Z" creationid="nakahodo" creationdate="20180703T184005Z">
-        <seg>アコライト3体を消費することで、除け者区域1つから敵建物1つを取り除き、その後、そこに庭園1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T184005Z">
+        <seg>アコライト3体を消費することで、除け者区画1つから敵建物1つを取り除き、その後、そこに庭園1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43674,40 +43706,40 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to battle in an Outcast clearing or move from an Outcast clearing and then, if you wish, battle in the destination clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183315Z" creationid="nakahodo" creationdate="20180703T183143Z">
-        <seg>アコライト2体を消費することで、除け者区域で戦闘を開始する。または、除け者区域から移動1回を行い、その後、望むなら移動先区域で戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T183143Z">
+        <seg>アコライト2体を消費することで、除け者区画で戦闘を開始する。または、除け者区画から移動1回を行い、その後、望むなら移動先区画で戦闘を開始できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to initiate a battle in a clearing of the Outcast Nation, or may move from a clearing of the Outcast Nation and then may initiate a battle in the destination clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144532Z" creationid="nakahodo" creationdate="20180630T144526Z">
-        <seg>アコライト2つを消費して、除け者の民の区域で戦闘を開始します。または、除け者の民の区域から1回移動して、移動先区域で戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T144526Z">
+        <seg>アコライト2つを消費して、除け者の民の区画で戦闘を開始します。または、除け者の民の区画から1回移動して、移動先区画で戦闘を開始できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to remove an enemy warrior from a clearing of the Outcast Nation, and then place one warrior there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144644Z" creationid="nakahodo" creationdate="20180630T144619Z">
-        <seg>アコライト2体を消費して、除け者の民の区域から敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T144619Z">
+        <seg>アコライト2体を消費して、除け者の民の区画から敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place a warrior there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T183722Z" creationid="nakahodo" creationdate="20180703T183718Z">
-        <seg>アコライト2体を消費することで、除け者区域1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T183718Z">
+        <seg>アコライト2体を消費することで、除け者区画1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Spend two funds of the player who rules the chosen clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173242Z" creationid="nakahodo" creationdate="20180630T173242Z">
-        <seg>選択した区域を支配しているプレイヤーと一致する、2資金を消費します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T173242Z">
+        <seg>選択した区画を支配しているプレイヤーと一致する、2資金を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43730,8 +43762,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two supporters matching a sympathetic clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102359Z" creationid="nakahodo" creationdate="20180702T102359Z">
-        <seg>賛同区域に一致する支援者カード2枚を消費します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T102359Z">
+        <seg>賛同区画に一致する支援者カード2枚を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43997,8 +44029,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Starting with the clearing with the lowest number in the Clearing Priority box (1, 2, etc.) and going up, move from clearings you rule with four or more of your warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T072346Z" creationid="nakahodo" creationdate="20180719T072317Z">
-        <seg>区画優先ボックス（1、2……）の低い順番の区域から始まり、数字が増加するように、メカニカルマルキスの戦士4体以上いて、かつ支配する区画から戦士たちを移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T072317Z">
+        <seg>区画優先ボックス（1、2……）の低い順番の区画から始まり、数字が増加するように、メカニカルマルキスの戦士4体以上いて、かつ支配する区画から戦士たちを移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44278,8 +44310,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Supporters must match the target clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T094649Z" creationid="nakahodo" creationdate="20180720T094630Z">
-        <seg>支援者は対象区域に一致している必要がある。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T094630Z">
+        <seg>支援者は対象区画に一致している必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44382,8 +44414,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>S ­ 2 supporters matching a sympathetic clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092956Z" creationid="nakahodo" creationdate="20180720T092956Z">
-        <seg>賛同区域に一致する支援者2枚を消費する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T092956Z">
+        <seg>賛同区画に一致する支援者2枚を消費する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44574,8 +44606,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Take a card from the discard pile matching your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144620Z" creationid="nakahodo" creationdate="20180719T144620Z">
-        <seg>あなたの区域に一致する捨て札山から、カード1枚を取る。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T144620Z">
+        <seg>あなたの区画に一致する捨て札山から、カード1枚を取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44590,16 +44622,16 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Take a random card from a player in your clearing who has fewer than three warriors there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110630Z" creationid="nakahodo" creationdate="20180630T110630Z">
-        <seg>あなたの区域にいる、少なくとも3体の戦士を持っているプレイヤーの手札から、カード1枚をランダムに取る。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T110630Z">
+        <seg>あなたの区画にいる、少なくとも3体の戦士を持っているプレイヤーの手札から、カード1枚をランダムに取る。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Take a random card from a player in your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T144445Z" creationid="nakahodo" creationdate="20180719T144445Z">
-        <seg>あなたの区域にいるプレイヤー1人から、ランダムなカード1枚を取る。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T144445Z">
+        <seg>あなたの区画にいるプレイヤー1人から、ランダムなカード1枚を取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44630,8 +44662,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Take any number of your warriors or your pawn from one clearing and move them to one adjacent clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184331Z" creationid="nakahodo" creationdate="20180630T184331Z">
-        <seg>区域1つから、あなたのポーンか、任意の数の戦士たちを取り、1つ隣接した区域にそれらを移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T184331Z">
+        <seg>区画1つから、あなたのポーンか、任意の数の戦士たちを取り、1つ隣接した区画にそれらを移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44659,8 +44691,8 @@ Slates.</seg>
       <tuv lang="EN-US">
         <seg>Take item from ruin in your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100320Z" creationid="nakahodo" creationdate="20180720T100320Z">
-        <seg>あなたのいる区域にある遺跡からアイテム1つを取る。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100320Z">
+        <seg>あなたのいる区画にある遺跡からアイテム1つを取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45732,8 +45764,8 @@ the Turn Order Track in proper order for the Round.</seg>
       <tuv lang="EN-US">
         <seg>The Cult rules any clearings where they have any gardens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113931Z" creationid="nakahodo" creationdate="20180630T113931Z">
-        <seg>カルトは庭園を持つ区域を支配します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T113931Z">
+        <seg>カルトは庭園を持つ区画を支配します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46021,17 +46053,17 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Eyrie want to move out of this clearing, which they don’t rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214823Z" creationid="nakahodo" creationdate="20180630T214754Z">
-        <seg>鷲はこの区域外へと移動したいですが、この区域を支配していません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214754Z">
+        <seg>鷲はこの区画外へと移動したいですが、この区画を支配していません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Eyrie would like to move into the fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101909Z" creationid="nakahodo" creationdate="20180702T101909Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T101909Z">
         <seg>暴動の例
-鷲はキツネ区域に移動したいです。</seg>
+鷲はキツネ区画に移動したいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47328,8 +47360,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Riverfolk are excellent Swimmers, so they treat rivers as paths, and they can move between clearings connected by a river regardless of who rules the origin or destination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T190224Z" creationid="nakahodo" creationdate="20180703T190224Z">
-        <seg>リバーフォークは生粋のスイマーですので、川を道として扱い、移動前と移動先区域を誰が支配しているかに関わらず、川にそって移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T190224Z">
+        <seg>リバーフォークは生粋のスイマーですので、川を道として扱い、移動前と移動先区画を誰が支配しているかに関わらず、川にそって移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47368,8 +47400,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Riverfolk treat rivers as paths and may move along rivers regardless of who rules their origin or destination clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T154020Z" creationid="nakahodo" creationdate="20180630T154020Z">
-        <seg>リバーフォークは川を道として扱い、移動前と移動先区域を誰が支配しているかに関わらず、川にそって移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T154020Z">
+        <seg>リバーフォークは川を道として扱い、移動前と移動先区画を誰が支配しているかに関わらず、川にそって移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47928,8 +47960,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Vagabond is in a clearing with three Marquise warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T192530Z" creationid="nakahodo" creationdate="20180702T192525Z">
-        <seg>ヴァガボンドはまるきすの戦士3体がいる区域にいます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T192525Z">
+        <seg>ヴァガボンドはまるきすの戦士3体がいる区画にいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48299,8 +48331,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The attacker deals an extra hit if the defender has no warriors in the clearing of battle, leaving themselves defenseless.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045942Z" creationid="nakahodo" creationdate="20180701T045119Z">
-        <seg>ディフェンダーが戦闘区域に戦士を持たない場合、アタッカーは追加ヒット1つを与えます。この状態を無防備と呼びます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T045119Z">
+        <seg>ディフェンダーが戦闘区画に戦士を持たない場合、アタッカーは追加ヒット1つを与えます。この状態を無防備と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48892,8 +48924,8 @@ includes four different AI opponents to play against.</seg>
       <tuv lang="EN-US">
         <seg>The gardens of the Lizard Cult attract Pilgrims, so the Cult rules any clearings where they have gardens, even one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175950Z" creationid="nakahodo" creationdate="20180703T175950Z">
-        <seg>リザード・カルトの庭園は巡礼者を引きつけますので、カルトが庭園を持つ区域を支配します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T175950Z">
+        <seg>リザード・カルトの庭園は巡礼者を引きつけますので、カルトが庭園を持つ区画を支配します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49278,8 +49310,8 @@ d	同盟の犠牲。</seg>
       <tuv lang="EN-US">
         <seg>The nation of a crafting piece matches its clearing, and each crafting piece may be used only once per turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184052Z" creationid="nakahodo" creationdate="20180630T184052Z">
-        <seg>その区域に一致するクラフトピースの民と、各クラフトピースターンごとに1度のみ使用できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T184052Z">
+        <seg>その区画に一致するクラフトピースの民と、各クラフトピースターンごとに1度のみ使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49334,8 +49366,8 @@ d	同盟の犠牲。</seg>
       <tuv lang="EN-US">
         <seg>The next sawmill to be built costs three wood, so she spends wood from the nearby mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T054729Z" creationid="nakahodo" creationdate="20180701T054729Z">
-        <seg>次の製材所の建築コストは木材3つですので、近くのネズミ区域から木材を消費します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T054729Z">
+        <seg>次の製材所の建築コストは木材3つですので、近くのネズミ区画から木材を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50562,8 +50594,8 @@ positive part of the score track is difficult!</seg>
       <tuv lang="EN-US">
         <seg>Then place one warrior in each adjacent clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T142135Z" creationid="nakahodo" creationdate="20180630T142135Z">
-        <seg>そこから隣接する各区域に戦士1体ずつ配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T142135Z">
+        <seg>そこから隣接する各区画に戦士1体ずつ配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50603,8 +50635,8 @@ the Upkeep phase.</seg>
       <tuv lang="EN-US">
         <seg>Then the Eyrie battle in the fox clearing and remove the sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102020Z" creationid="nakahodo" creationdate="20180702T102008Z">
-        <seg>その後、鷲はキツネ区域で戦闘して賛同トークン1つを取り除きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T102008Z">
+        <seg>その後、鷲はキツネ区画で戦闘して賛同トークン1つを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50860,8 +50892,8 @@ and place it into their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>Then, place one suit marker near each clearing on the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T171151Z" creationid="nakahodo" creationdate="20180703T171052Z">
-        <seg>その後、マップの各区域近くにスートマーカー1つずつを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T171052Z">
+        <seg>その後、マップの各区画近くにスートマーカー1つずつを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50876,8 +50908,8 @@ and place it into their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>Then, place warriors there equal to the number of sympathetic clearings matching the suit of the revolt clearing, including the revolt clearing itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102853Z" creationid="nakahodo" creationdate="20180702T102853Z">
-        <seg>その後、反乱アクションの対象区域のスートに一致する、賛同区域の数に等しいだけ、戦士をそこに配置します。これには反乱アクションんお対象区域も数に含めます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T102853Z">
+        <seg>その後、反乱アクションの対象区画のスートに一致する、賛同区画の数に等しいだけ、戦士をそこに配置します。これには反乱アクションんお対象区画も数に含めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50988,8 +51020,8 @@ and place it into their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>Then, the Alliance places a sympathy token in a rabbit clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T104307Z" creationid="nakahodo" creationdate="20180702T104307Z">
-        <seg>その後、連語うはウサギ区域に賛同トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T104307Z">
+        <seg>その後、連語うはウサギ区画に賛同トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51094,8 +51126,8 @@ to stop.</seg>
       <tuv lang="EN-US">
         <seg>Then, you may slip once, moving into an adjacent clearing or forest without exhausting any M.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T152318Z" creationid="nakahodo" creationdate="20180702T152318Z">
-        <seg>その後、1回のスリップができます。任意のMを消耗することなく、隣接区域か森に移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T152318Z">
+        <seg>その後、1回のスリップができます。任意のMを消耗することなく、隣接区画か森に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51625,8 +51657,8 @@ Supply.</seg>
       <tuv lang="EN-US">
         <seg>They are not limited by the number of warriors in the clearing of battle, so a single warrior could deal multiple hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T044301Z" creationid="nakahodo" creationdate="20180701T044301Z">
-        <seg>これらは戦闘区域の戦士たちの数に制限されません。なので、戦士1体でも複数のヒットを与えることができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T044301Z">
+        <seg>これらは戦闘区画の戦士たちの数に制限されません。なので、戦士1体でも複数のヒットを与えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51714,16 +51746,16 @@ card until they decide to build it.</seg>
       <tuv lang="EN-US">
         <seg>They do rule this clearing, so they can move here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214835Z" creationid="nakahodo" creationdate="20180630T214835Z">
-        <seg>この区域は支配していますので、ここに移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214835Z">
+        <seg>この区画は支配していますので、ここに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>They don’t rule this clearing either, so they cannot move here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214815Z" creationid="nakahodo" creationdate="20180630T214815Z">
-        <seg>いずれの区域も支配できていないので、ここへの移動はできません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214815Z">
+        <seg>いずれの区画も支配できていないので、ここへの移動はできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51844,8 +51876,8 @@ either the Place or Pass action.</seg>
       <tuv lang="EN-US">
         <seg>They rule a clearing even when tied for presence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T055224Z" creationid="nakahodo" creationdate="20180701T055224Z">
-        <seg>彼らは区域の支配でタイの場合に支配者になります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T055224Z">
+        <seg>彼らは区画の支配でタイの場合に支配者になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52822,8 +52854,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>Though both slots in this clearing are full, tokens can still be placed here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224213Z" creationid="nakahodo" creationdate="20180630T224213Z">
-        <seg>この区域の両スロットは埋まっています。しかし、ここにトークンを配置することはできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T224213Z">
+        <seg>この区画の両スロットは埋まっています。しかし、ここにトークンを配置することはできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53086,8 +53118,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To craft a card, you must activate crafting pieces in the clearings shown in the card’s bottom-left corner.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T224634Z" creationid="nakahodo" creationdate="20180630T224214Z">
-        <seg>カードをクラフトするには、カードの左下角に示される区域にて、クラフトピースを発動させる必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T224214Z">
+        <seg>カードをクラフトするには、カードの左下角に示される区画にて、クラフトピースを発動させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53182,8 +53214,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To move, you must rule the clearing you are moving from or moving to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214226Z" creationid="nakahodo" creationdate="20180630T214226Z">
-        <seg>移動するには、移動元か移動先の区域をあなたが支配する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214226Z">
+        <seg>移動するには、移動元か移動先の区画をあなたが支配する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53230,8 +53262,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To place sympathy, they need to fi rst add cards to their faction board as supporters—if you oppress sympathetic clearings, though, you’ll add to their supporters as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160936Z" creationid="nakahodo" creationdate="20180719T160936Z">
-        <seg>賛同者を配置するには、まず支援者として自身の派閥ボードにカードを追加する必要がある――連合の対戦相手が賛同区域を制圧するなら、その相手もまた支援者を追加することになるだろう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T160936Z">
+        <seg>賛同者を配置するには、まず支援者として自身の派閥ボードにカードを追加する必要がある――連合の対戦相手が賛同区画を制圧するなら、その相手もまた支援者を追加することになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53318,8 +53350,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To take a move, I must rule the clearing I’m moving from or moving to, which I definitely do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T192731Z" creationid="nakahodo" creationdate="20180630T192731Z">
-        <seg>移動を実行するには、私は移動元か移動先の区域を支配する必要があり、できています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T192731Z">
+        <seg>移動を実行するには、私は移動元か移動先の区画を支配する必要があり、できています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53392,8 +53424,8 @@ side to place face-up on the table.</seg>
       <tuv lang="EN-US">
         <seg>Tokens, which can be placed in clearings but do not fill slots.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T172803Z" creationid="nakahodo" creationdate="20180703T172803Z">
-        <seg>トークン。区域に配置されますが、スロットを満たしません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T172803Z">
+        <seg>トークン。区画に配置されますが、スロットを満たしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54764,8 +54796,8 @@ DRAGON</seg>
       <tuv lang="EN-US">
         <seg>Various other actions in Root will require you to rule clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214702Z" creationid="nakahodo" creationdate="20180630T214358Z">
-        <seg>ルートの様々な他アクションも区域を支配する必要があるでしょう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214358Z">
+        <seg>ルートの様々な他アクションも区画を支配する必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55377,8 +55409,8 @@ Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>When a player removes sympathy or moves any warriors into a sympathetic clearing, that player must add a matching card from their hand to your supporters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092745Z" creationid="nakahodo" creationdate="20180720T092745Z">
-        <seg>プレイヤー1人が賛同者か、賛同区域の戦士を取り除いた時、そのプレイヤーはあなたの支援者へと、自身の手札から区域とスートが一致するカード1枚を追加しなければならない。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T092745Z">
+        <seg>プレイヤー1人が賛同者か、賛同区画の戦士を取り除いた時、そのプレイヤーはあなたの支援者へと、自身の手札から区画とスートが一致するカード1枚を追加しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56240,8 +56272,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you battle, choose any clearing where you have any warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230447Z" creationid="nakahodo" creationdate="20180630T230327Z">
-        <seg>あなたが戦闘する時、あなたの戦士たちがいる任意の区域1つを選択します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T230327Z">
+        <seg>あなたが戦闘する時、あなたの戦士たちがいる任意の区画1つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56392,8 +56424,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you move, take any number of your warriors from one clearing and move them to a clearing connected by a path.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214111Z" creationid="nakahodo" creationdate="20180630T214111Z">
-        <seg>あなたが移動する時、区域1つから自身の戦士たちを任意の数取り、道で接続された隣接する区域1つへとそれらを移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214111Z">
+        <seg>あなたが移動する時、区画1つから自身の戦士たちを任意の数取り、道で接続された隣接する区画1つへとそれらを移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56832,8 +56864,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever another player removes a sympathy token or moves any warriors into a clearing with a sympathy token, they must add a card from their hand matching that clearing to your Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101601Z" creationid="nakahodo" creationdate="20180702T101601Z">
-        <seg>他プレイヤーが賛同トークン1つを取り除くか、賛同トークンのある区域にいずれかの戦士を移動させるたびに、そのプレイヤーは対象区域に一致するスートのカードを、そのプレイヤーの手札からあなたの支援者デッキに追加する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T101601Z">
+        <seg>他プレイヤーが賛同トークン1つを取り除くか、賛同トークンのある区画にいずれかの戦士を移動させるたびに、そのプレイヤーは対象区画に一致するスートのカードを、そのプレイヤーの手札からあなたの支援者デッキに追加する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57656,16 +57688,16 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Where the Cult rule clearings, they can build gardens, which will further radicalize the animals that live there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112547Z" creationid="nakahodo" creationdate="20180630T112348Z">
-        <seg>カルトが区域を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T112348Z">
+        <seg>カルトが区画を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Where the Cult rules clearings, they can build gardens, which will further radicalize the animals that live there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175444Z" creationid="nakahodo" creationdate="20180703T175444Z">
-        <seg>カルトが区域を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T175444Z">
+        <seg>カルトが区画を支配すると、庭園を建築し、そこに住む動物たちへの改革をさらに激しいものとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58211,8 +58243,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You are the attacker, and you choose another faction with any pieces there as the defender.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T230544Z" creationid="nakahodo" creationdate="20180630T230328Z">
-        <seg>あなたがアタッカーになり、その区域にいる任意のピースを持つ他派閥を選択します。対象派閥プレイヤーがディフェンダーです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T230328Z">
+        <seg>あなたがアタッカーになり、その区画にいる任意のピースを持つ他派閥を選択します。対象派閥プレイヤーがディフェンダーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58379,8 +58411,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can battle in a clearing where you have warriors or your pawn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184631Z" creationid="nakahodo" creationdate="20180630T184631Z">
-        <seg>戦士たちかポーンを持つ区域1つで戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T184631Z">
+        <seg>戦士たちかポーンを持つ区画1つで戦闘を開始できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58499,8 +58531,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can even play an ambush card if you’re defenseless!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T045932Z" creationid="nakahodo" creationdate="20180701T045932Z">
-        <seg>あなたは戦闘区域に戦士を持たない（無防備）としても、アンブッシュカード1枚をプレイ出来ます！</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T045932Z">
+        <seg>あなたは戦闘区画に戦士を持たない（無防備）としても、アンブッシュカード1枚をプレイ出来ます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -58587,8 +58619,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can move from clearing to clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214025Z" creationid="nakahodo" creationdate="20180630T213953Z">
-        <seg>あなたは区域から区域へと移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T213953Z">
+        <seg>あなたは区画から区画へと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58603,8 +58635,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can move regardless of who rules your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100059Z" creationid="nakahodo" creationdate="20180720T100059Z">
-        <seg>あなたは、区域を誰が支配しているのかに関わらず移動できる。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100059Z">
+        <seg>あなたは、区画を誰が支配しているのかに関わらず移動できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58835,8 +58867,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can spend acolytes to perform conspiracies in clearings matching the Outcast Nation, in any order and combination, as follows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T144214Z" creationid="nakahodo" creationdate="20180630T144214Z">
-        <seg>あなたはアコライトを消費することで、除け者の民に一致する区域で陰謀を実行できます。それは次のものを、任意の順番と組み合わせで行います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T144214Z">
+        <seg>あなたはアコライトを消費することで、除け者の民に一致する区画で陰謀を実行できます。それは次のものを、任意の順番と組み合わせで行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59923,8 +59955,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may move into an adjacent clearing or forest without exhausting any M, even for moving into a Hostile clearing (9.2.9.III.b).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T082932Z" creationid="nakahodo" creationdate="20180630T082932Z">
-        <seg>いずれかのMを消耗させることなく、1つ隣接する区域か森に1回の移動ができます。これは敵対区域にも移動できます（9.2.9.III.b）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T082932Z">
+        <seg>いずれかのMを消耗させることなく、1つ隣接する区画か森に1回の移動ができます。これは敵対区画にも移動できます（9.2.9.III.b）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60267,8 +60299,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may spend any wood on the map connected to this clearing by any number of clearings you rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T053312Z" creationid="nakahodo" creationdate="20180701T052903Z">
-        <seg>あなたはこの区域とそこから道で接続された、任意の数のあなたが支配する区域から、マップ上の任意の木材を消費できます。接続された区域は、対象区域と隣接している必要はありません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180701T052903Z">
+        <seg>あなたはこの区画とそこから道で接続された、任意の数のあなたが支配する区画から、マップ上の任意の木材を消費できます。接続された区画は、対象区画と隣接している必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60539,8 +60571,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You must exhaust an extra M to move into a clearing with any warriors of any number of Hostile factions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072908Z" creationid="nakahodo" creationdate="20180630T072908Z">
-        <seg>あなたは、任意の数の敵対派閥の戦士たちがいる区域へ移動するために、追加でM1つを消耗させる必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T072908Z">
+        <seg>あなたは、任意の数の敵対派閥の戦士たちがいる区画へ移動するために、追加でM1つを消耗させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60851,8 +60883,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You must spend funds of the faction who rules the chosen clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203050Z" creationid="nakahodo" creationdate="20180703T202951Z">
-        <seg>あなたが選択できる区域は、消費する資金の派閥が支配する区域となります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T202951Z">
+        <seg>あなたが選択できる区画は、消費する資金の派閥が支配する区画となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60939,16 +60971,16 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You rule a clearing if you have the most combined warriors and buildings there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T214318Z" creationid="nakahodo" creationdate="20180630T214318Z">
-        <seg>あなたが区域1つで戦士たちと建物を最も合計で持っている場合に、その区域を支配します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T214318Z">
+        <seg>あなたが区画1つで戦士たちと建物を最も合計で持っている場合に、その区画を支配します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You rule any clearings where you are tied in presence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T091533Z" creationid="nakahodo" creationdate="20180720T091417Z">
-        <seg>あなたが支配する区域全てで、タイにて優先される。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T091417Z">
+        <seg>あなたが支配する区画全てで、タイにて優先される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61219,8 +61251,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You win the game if you rule three rabbit clearings at the start of your Birdsong.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T105007Z" creationid="nakahodo" creationdate="20180719T105007Z">
-        <seg>あなたの朝開始時にて、ウサギ区域3つを支配している場合、あなたはゲームに勝利する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T105007Z">
+        <seg>あなたの朝開始時にて、ウサギ区画3つを支配している場合、あなたはゲームに勝利する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62193,9 +62225,9 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>e Keep Only you can place pieces in the clearing with the keep token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T084239Z" creationid="nakahodo" creationdate="20180720T084209Z">
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T084209Z">
         <seg>キープ
-あなたはキープトークンを持つ区域にのみ、ピースを配置できる。</seg>
+あなたはキープトークンを持つ区画にのみ、ピースを配置できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62258,8 +62290,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>e Riverfolk want to Funds establish a trade post in this fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T203428Z" creationid="nakahodo" creationdate="20180703T203428Z">
-        <seg>リバーフォークは資金でこのキツネ区域に交易所を設置したいと考えています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T203428Z">
+        <seg>リバーフォークは資金でこのキツネ区画に交易所を設置したいと考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62314,8 +62346,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>e seat of her power is the Keep of Marquise de Cat, a structure so imposing that no other faction can place pieces in its clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T160049Z" creationid="nakahodo" creationdate="20180719T160049Z">
-        <seg>マルキス・デ・キャットの玉座はキープであり、他派閥がその区域にピースを配置できなようになっている。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T160049Z">
+        <seg>マルキス・デ・キャットの玉座はキープであり、他派閥がその区画にピースを配置できなようになっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62370,8 +62402,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>ey add to rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174116Z" creationid="nakahodo" creationdate="20180703T172712Z">
-        <seg>区域の支配にカウントされます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T172712Z">
+        <seg>区画の支配にカウントされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62386,8 +62418,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>ey do not add to rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T174110Z" creationid="nakahodo" creationdate="20180703T172811Z">
-        <seg>区域の支配にカウントされません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T172811Z">
+        <seg>区画の支配にカウントされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63044,8 +63076,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>turn structure, battle, movement, crateing, card suits, and rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191955Z" creationid="nakahodo" creationdate="20180630T191955Z">
-        <seg>ターン概要、戦闘、移動、区域、クラフト、支配。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T191955Z">
+        <seg>ターン概要、戦闘、移動、区画、クラフト、支配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63236,8 +63268,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>when craing, all hammers match your clearing</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T100650Z" creationid="nakahodo" creationdate="20180720T100650Z">
-        <seg>クラフトする時、全てのハンマーは、あなたのいる区域のスートになる。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T100650Z">
+        <seg>クラフトする時、全てのハンマーは、あなたのいる区画のスートになる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63348,8 +63380,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>ey choose to move the warrior to an adjacent clearing and battle against the Marquise.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T184801Z" creationid="nakahodo" creationdate="20180703T184801Z">
-        <seg>戦士1体を選択して隣接区域に移動し、マルキスに対して戦闘を開始します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T184801Z">
+        <seg>戦士1体を選択して隣接区画に移動し、マルキスに対して戦闘を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63955,8 +63987,8 @@ added to your Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>»» The Vagabond pawn is not a warrior, so you can’t rule and you are not affected by effects that refer to warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T170639Z" creationid="nakahodo" creationdate="20180702T163909Z">
-        <seg>»»	ヴァガボンドポーンは戦士ではありませんので、区域を支配できず、戦士を指定する効果の影響をうけません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T163909Z">
+        <seg>»»	ヴァガボンドポーンは戦士ではありませんので、区画を支配できず、戦士を指定する効果の影響をうけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65766,32 +65798,32 @@ in the same tile.</seg>
       <tuv lang="EN-US">
         <seg>…from a matching clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090203Z" creationid="nakahodo" creationdate="20180720T090203Z">
-        <seg>一致する区域1つから……</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T090203Z">
+        <seg>一致する区画1つから……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>…in a matching clearing with a roost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090210Z" creationid="nakahodo" creationdate="20180720T090153Z">
-        <seg>一致する止まり木がある区域1つにて……</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T090153Z">
+        <seg>一致する止まり木がある区画1つにて……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>…in a matching clearing you rule without a roost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090301Z" creationid="nakahodo" creationdate="20180720T090301Z">
-        <seg>あなたが支配する、止まり木のない一致する区域1つにて……</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T090301Z">
+        <seg>あなたが支配する、止まり木のない一致する区画1つにて……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>…in a matching clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T090218Z" creationid="nakahodo" creationdate="20180720T090218Z">
-        <seg>一致する区域1つにて……</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T090218Z">
+        <seg>一致する区画1つにて……</seg>
       </tuv>
     </tu>
     <tu>
