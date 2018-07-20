@@ -15207,6 +15207,15 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cra using roosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092028Z" creationid="nakahodo" creationdate="20180720T092028Z">
+        <seg>クラフト
+止まり木を使用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000420Z" creationid="aorin" creationdate="20171216T000420Z">
@@ -15885,6 +15894,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depose:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092416Z" creationid="nakahodo" creationdate="20180720T092416Z">
+        <seg>退位：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description from the publisher:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T131522Z" creationid="nakahodo" creationdate="20180524T131522Z">
@@ -16085,6 +16102,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T162925Z" creationid="nakahodo" creationdate="20180604T162925Z">
         <seg>任意の1種類のパワーカード2枚を捨て札にすることで、あなたのスペースか視線が通る任意のスペースに卵1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard Decree, except Viziers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092453Z" creationid="nakahodo" creationdate="20180720T092413Z">
+        <seg>Viziers大臣を除いた法令全て捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20746,6 +20771,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip leader face down and choose a new one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092431Z" creationid="nakahodo" creationdate="20180720T092431Z">
+        <seg>リーダーを裏向きに返し、新たな1枚を選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip two exhausted items face up for each T face up at the start of your Birdsong.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T082732Z" creationid="nakahodo" creationdate="20180630T082709Z">
@@ -24149,6 +24182,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162722Z" creationid="nakahodo" creationdate="20180629T162722Z">
         <seg>屈辱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Humiliate:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092247Z" creationid="nakahodo" creationdate="20180720T092243Z">
+        <seg>屈辱：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28330,6 +28371,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have no roosts, place a roost and 3 warriors in the clearing with the fewest total pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092019Z" creationid="nakahodo" creationdate="20180720T092019Z">
+        <seg>マップに止まり木がない場合、合計ピース数が最も少ない区画1つに、止まり木1つと戦士3体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have no roosts, place one roost and three warriors in the clearing with the fewest warriors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T055704Z" creationid="nakahodo" creationdate="20180701T055704Z">
@@ -31908,6 +31957,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T162817Z" creationid="nakahodo" creationdate="20180629T162817Z">
         <seg>法令にある、（王宮大臣を含んだ）鳥カードごとに、勝利点1つを失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose one victory point per bird card (including Viziers) on Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092335Z" creationid="nakahodo" creationdate="20180720T092244Z">
+        <seg>法令にある、（王宮大臣を含んだ）鳥カードごとに、勝利点1を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38355,6 +38412,14 @@ players.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purge:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092339Z" creationid="nakahodo" creationdate="20180720T092339Z">
+        <seg>粛清：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put  ief card on Character</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T150103Z" creationid="nakahodo" creationdate="20180719T150103Z">
@@ -38803,6 +38868,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T203845Z" creationid="nakahodo" creationdate="20171218T142003Z">
         <seg>クロニクル（あなたが読んでいるこの本です）を読み通してください（または、stonemaiergames.com/games/charterstone/videosのルールを見てください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reassign Viziers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092450Z" creationid="nakahodo" creationdate="20180720T092450Z">
+        <seg>Viziersを再割り当て。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39582,6 +39655,15 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030433Z" creationid="aorin" creationdate="20171212T030433Z">
         <seg>全ての「アップキープ」効果を持つ建物を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolve the Decree from le column to right, taking one action per card in a matching clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092210Z" creationid="nakahodo" creationdate="20180720T092210Z">
+        <seg>法令の解決
+カラムの左から右へ、カードごとに、スートが一致する区域1つにアクション1つを実行する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40823,6 +40905,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185510Z" creationid="nakahodo" creationdate="20180630T185448Z">
         <seg>あなたが建物やトークン1つを取り除くたびに、勝利点1つを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score of rightmost empty space on the Roosts track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T092240Z" creationid="nakahodo" creationdate="20180720T092240Z">
+        <seg>止まり木トラックの最も右にある空スペースだけ得点する。</seg>
       </tuv>
     </tu>
     <tu>
