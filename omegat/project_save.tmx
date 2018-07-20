@@ -13257,8 +13257,8 @@ the ranking of the combination, then on the color of the blend.</seg>
       <tuv lang="EN-US">
         <seg>But he’s Nimble, so he can move regardless of rule.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070216Z" creationid="nakahodo" creationdate="20180720T070216Z">
-        <seg>But he’s Nimble, so he can move regardless of rule.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070318Z" creationid="nakahodo" creationdate="20180720T070216Z">
+        <seg>しかし、彼は機敏であるので、区画を誰が支配しているかに関わらず移動できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29119,6 +29119,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T103647Z" creationid="nakahodo" creationdate="20180719T103647Z">
         <seg>朝時、他プレイヤー1人からランダムにカード1枚を取れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Daylight, reveal an order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T070323Z" creationid="nakahodo" creationdate="20180720T070323Z">
+        <seg>In Daylight, reveal an order.</seg>
       </tuv>
     </tu>
     <tu>
