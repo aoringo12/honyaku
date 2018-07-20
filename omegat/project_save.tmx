@@ -10851,6 +10851,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As they build more gardens of the same suit, their rituals in that suit will score them more points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T072930Z" creationid="nakahodo" creationdate="20180720T072856Z">
+        <seg>同じスートのガーデンを建築していくことにより、そのスートの儀式による得点がより多くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As this turns Bait phase begins, there are three Heroes in town.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220255Z" creationid="aorin" creationdate="20180528T220255Z">
@@ -61200,6 +61208,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ey score points by building holy gardens and then completing rituals to their dragon god.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T072724Z" creationid="nakahodo" creationdate="20180720T072724Z">
+        <seg>彼らは、聖なる庭園を建築し、その後、彼らのドラゴンゴッドのための儀式を行うことで勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for the action Temporary Priority a player uses all their remaining Action Discs.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T104023Z" creationid="aorin" creationdate="20171212T104023Z">
@@ -61422,6 +61438,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T084005Z" creationid="nakahodo" creationdate="20180629T084005Z">
         <seg>1ネズミ、1ウサギ、1キツネ、2鳥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ough they seem gentle at fi rst, the Cult will gradually radicalize its followers into acolytes, who can enact conspiracies against clearings of the Outcast, the suit discarded most throughout the last round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T073550Z" creationid="nakahodo" creationdate="20180720T072857Z">
+        <seg>彼らは穏やかに見えますが、カルトはその信者、アコライトたちを過激派として激化させ、以前のラウンドで最も捨て札にされたスート、つまり除け者となった区画に対して策略を行います。</seg>
       </tuv>
     </tu>
     <tu>
