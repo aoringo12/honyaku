@@ -9954,6 +9954,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All spent and discarded cards go here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143808Z" creationid="nakahodo" creationdate="20180720T143808Z">
+        <seg>消費したり捨て札にされた全てのカードはここに行く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All supplies are limited.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040541Z" creationid="aorin" creationdate="20171213T040541Z">
@@ -25021,6 +25029,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Outcast suit is Hated, all conspiracies cost one less acolyte.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143714Z" creationid="nakahodo" creationdate="20180720T143714Z">
+        <seg>除け者が憎悪側の場合、陰謀のコストはアコライト1体減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Payments box is empty, place two warriors in it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T102306Z" creationid="nakahodo" creationdate="20180720T102306Z">
@@ -25477,6 +25493,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T110805Z" creationid="nakahodo" creationdate="20180430T110805Z">
         <seg>3つ全てのドラゴンジェムがマップにある場合、銀の鱗は効果を持ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If already Outcast, flip to Hated Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143701Z" creationid="nakahodo" creationdate="20180720T143701Z">
+        <seg>すでに除け者であった場合、憎悪した除け者に返す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29598,6 +29622,14 @@ the Supplier without emptying any spaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Birdsong, most common suit of Lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143620Z" creationid="nakahodo" creationdate="20180720T143620Z">
+        <seg>朝にて、最もロストソウル山札にある、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Daylight, reveal an order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T071312Z" creationid="nakahodo" creationdate="20180720T070323Z">
@@ -32848,6 +32880,14 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T141240Z" creationid="nakahodo" creationdate="20180430T141215Z">
         <seg>Meat!
 にくぅ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechancial Marquise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T144537Z" creationid="nakahodo" creationdate="20180720T144537Z">
+        <seg>メカニカルマルキス</seg>
       </tuv>
     </tu>
     <tu>
@@ -43256,6 +43296,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Souls, ignoring birds, becomes Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143636Z" creationid="nakahodo" creationdate="20180720T143636Z">
+        <seg>鳥を除いたスートが除け者になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Space:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T223434Z" creationid="nakahodo" creationdate="20180531T223434Z">
@@ -47098,6 +47146,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T114557Z" creationid="aorin" creationdate="20180410T114557Z">
         <seg>ナイトメアユニコーンはターン順番でドラゴンに置き換えられ、ゴブリンの後、洞窟の前になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Outcast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143535Z" creationid="nakahodo" creationdate="20180720T143535Z">
+        <seg>除け者</seg>
       </tuv>
     </tu>
     <tu>
