@@ -12511,6 +12511,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bases not only increase your card draw, but also let you train offi cers, which give you free actions each turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055322Z" creationid="nakahodo" creationdate="20180721T055322Z">
+        <seg>基地はあなたのカードドロー枚数を増加させるだけではなく、将校をトレーニングし、各ターンでのフリーアクションを提供してくれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Resource Buildings</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T234223Z" creationid="aorin" creationdate="20171231T234223Z">
@@ -14407,6 +14415,14 @@ contribute.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073257Z" creationid="nakahodo" creationdate="20180630T073257Z">
         <seg>キャラクターカード1枚を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a character.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055429Z" creationid="nakahodo" creationdate="20180721T055429Z">
+        <seg>キャラクターを選択する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16999,8 +17015,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Don’t be afraid to set up chokepoints, as you are experts in Guerrilla War:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054725Z" creationid="nakahodo" creationdate="20180721T054725Z">
-        <seg>あなたはゲリラ戦の専門家であるので、敵の移動を阻害する関所のような場所を作ることを恐れてはならない</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054940Z" creationid="nakahodo" creationdate="20180721T054725Z">
+        <seg>あなたはゲリラ戦の専門家であるので、敵の行動を阻害する関所のような場所を作ることを恐れてはならない：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29141,6 +29157,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you lose a base, you’ll lose many supporters and offi cers too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055427Z" creationid="nakahodo" creationdate="20180721T055427Z">
+        <seg>基地が破壊されると、多くの支援者カードと将校が失われることになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you manage that you’ll have truly proven yourself a great Pixie (still small in stature though).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171211T083630Z" creationid="nakahodo" creationdate="20171211T083630Z">
@@ -38141,6 +38165,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your sympathy in clearings where confl ict is likely, and force your opponent to face you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055001Z" creationid="nakahodo" creationdate="20180721T054931Z">
+        <seg>紛争が起きそうな区画に賛同者トークンを配置し、相手があなたと相対しなければならないようにするのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your two Loyal Vizier cards on the matching Decree spaces of your faction board.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T134711Z" creationid="aorin" creationdate="20171215T134711Z">
@@ -39334,6 +39366,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T172248Z" creationid="nakahodo" creationdate="20180720T172248Z">
         <seg>だからこそ、死守せよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protect your bases well!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055332Z" creationid="nakahodo" creationdate="20180721T055332Z">
+        <seg>基地を死守せよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42650,6 +42690,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setup (D)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055434Z" creationid="nakahodo" creationdate="20180721T055428Z">
+        <seg>セットアップ（D）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setup 4, MINIONS;</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151446Z" creationid="nakahodo" creationdate="20171230T151432Z">
@@ -44868,6 +44916,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T100502Z" creationid="nakahodo" creationdate="20180702T095400Z">
         <seg>支援者カードはあなたの手札から消費され、そのスートの支援者カードのみ消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supporters can also be put toward violent revolt, which destroys all of your enemies’ pieces in a clearing and places warriors and a new base there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T055132Z" creationid="nakahodo" creationdate="20180721T054941Z">
+        <seg>支援者たちは激しく反乱することがあり、そうなると区画の敵ピース全てが破壊され、あなたの戦士と新たな基地がそこに配置される。</seg>
       </tuv>
     </tu>
     <tu>
