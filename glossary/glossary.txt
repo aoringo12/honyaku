@@ -838,8 +838,6 @@ crafting piece	クラフトピース
 sympathy	賛同者
 no one but	～以外できない
 Disdain for Trade	貿易軽視
-sympathy token	賛同トークン
-Sympathy Track	賛同トラック
 sympathetic clearing	賛同区域
 Supporters stack	支援者スタック
 Nimble	機敏
@@ -855,3 +853,5 @@ battle’s clearing	戦闘区画
 Allied	友軍
 Outcast clearings	除け者区画
 Decree column	法令カラム
+sympathy token	賛同者トークン
+Sympathy Track	賛同者トラック
