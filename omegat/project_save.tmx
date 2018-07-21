@@ -21135,16 +21135,16 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>First I recruit twice, placing two warriors at my roost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193140Z" creationid="nakahodo" creationdate="20180630T193018Z">
-        <seg>まず、私は雇用を2回行います。自分の止まり木に戦士2体を配置します。①</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093100Z" creationid="nakahodo" creationdate="20180630T193018Z">
+        <seg>まず、私は雇用列にカードが2枚あるので、雇用を2回行います。自分の止まり木に戦士2体を配置します。①</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>First, I add two rabbit cards to the Recruit column of my Decree.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T193023Z" creationid="nakahodo" creationdate="20180630T193005Z">
-        <seg>私は自分の法令のウサギ列にウサギカード2枚を追加します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093020Z" creationid="nakahodo" creationdate="20180630T193005Z">
+        <seg>私は自分の法令にある雇用列にウサギカード2枚を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22078,8 +22078,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>For your first game, pass around this sheet and ask each player to read the actions of their faction while taking their turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T191840Z" creationid="nakahodo" creationdate="20180630T191716Z">
-        <seg>あなたの最初のゲームにて、このシートを周りに渡し、彼らがターンを行っている間に自身の派閥のアクションの内容を読み上げるように求めてください。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T092805Z" creationid="nakahodo" creationdate="20180630T191716Z">
+        <seg>初めてのゲームにて、ルートについて学習するために、プレイ演習カードの通りに手札やマップ状況をセットアップして、このシートを周りに渡し、シート通りにターンを行っていながら自身の派閥のアクションの内容を読み上げるように求めてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25102,18 +25102,26 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have two roosts on the map, so I score one point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093534Z" creationid="nakahodo" creationdate="20180721T093534Z">
+        <seg>私はマップに止まり木を2つ持っているので、1勝利点得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I move my warrior first to the mouse clearing, then move both warriors to the fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T192545Z">
-        <seg>私はネズミの区画に戦士1体を移動させます。②その後、キツネ区画に両方の戦士たちを移動させます。③</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T092902Z" creationid="nakahodo" creationdate="20180630T192545Z">
+        <seg>私はネズミ区画に戦士1体を移動させます。②その後、キツネ区画に両方の戦士たちを移動させます。③</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I place a warrior at my recruiter in the mouse clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T192849Z">
-        <seg>私はネズミ区画に自分の雇用所に戦士1体を配置します。④</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T092943Z" creationid="nakahodo" creationdate="20180630T192849Z">
+        <seg>私はネズミ区画にある自分の雇用所に戦士1体を配置します。④</seg>
       </tuv>
     </tu>
     <tu>
@@ -51608,8 +51616,8 @@ and place it into their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>Then, because I rule the mouse clearing and it doesn’t have a roost, I build a roost there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T195609Z" creationid="nakahodo" creationdate="20180630T195609Z">
-        <seg>その後、</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093227Z" creationid="nakahodo" creationdate="20180630T195609Z">
+        <seg>その後、私はネズミ区画を支配し、止まり木がここにはありませんので、止まり木をここに建築します。③</seg>
       </tuv>
     </tu>
     <tu>
@@ -54298,8 +54306,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To take a move, I must rule the clearing I’m moving from or moving to, which I definitely do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T192731Z">
-        <seg>移動を実行するには、私は移動元か移動先の区画を支配する必要があり、できています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T092928Z" creationid="nakahodo" creationdate="20180630T192731Z">
+        <seg>移動を実行するには、私は移動元か移動先の区画のいずれか支配している必要があり、できているので、移動できます。</seg>
       </tuv>
     </tu>
     <tu>
