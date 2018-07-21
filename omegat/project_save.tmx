@@ -10026,6 +10026,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alliance (3rd player)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093600Z" creationid="nakahodo" creationdate="20180721T093600Z">
+        <seg>連合（プレイヤー3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alliance crafts with sympathy.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T224832Z" creationid="nakahodo" creationdate="20180630T224832Z">
@@ -13023,6 +13031,22 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T082006Z" creationid="aorin" creationdate="20171215T233415Z">
         <seg>朝、昼、夜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Birdsong, Slip.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094408Z" creationid="nakahodo" creationdate="20180721T094408Z">
+        <seg>朝、スリップ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Birdsong, Spread Sympathy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093837Z" creationid="nakahodo" creationdate="20180721T093628Z">
+        <seg>朝、賛同者を広げる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16032,10 +16056,26 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Daylight, Crate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093828Z" creationid="nakahodo" creationdate="20180721T093828Z">
+        <seg>昼、クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daylight, Decree.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T193013Z" creationid="nakahodo" creationdate="20180630T193013Z">
         <seg>昼フェイズ、法令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daylight, Mobilize.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094006Z" creationid="nakahodo" creationdate="20180721T094006Z">
+        <seg>昼、動員。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19911,6 +19951,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T000454Z" creationid="aorin" creationdate="20171216T000454Z">
         <seg>夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evening, so all that’s lete for me to do is draw a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094349Z" creationid="nakahodo" creationdate="20180721T094349Z">
+        <seg>カード1枚をドローするしかやることはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25118,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I add my other two cards to my Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094100Z" creationid="nakahodo" creationdate="20180721T094100Z">
+        <seg>他の手札カード2枚を支援者スタックに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't return what I've taken, but I promise to stop."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
@@ -25110,6 +25166,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I haven’t had a revolt yet, so I don’t have any officers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094236Z" creationid="nakahodo" creationdate="20180721T094236Z">
+        <seg>反乱はまだしていないので、私は将校を所持していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I move my warrior first to the mouse clearing, then move both warriors to the fox clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T092902Z" creationid="nakahodo" creationdate="20180630T192545Z">
@@ -25134,10 +25198,26 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I spend a fox card on my</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093649Z" creationid="nakahodo" creationdate="20180721T093649Z">
+        <seg>私は、自分の支援者スタックのキツネカード1枚を消費することで、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I spend that wood to build a new sawmill, so I score one point.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192255Z" creationid="nakahodo" creationdate="20180630T192219Z">
         <seg>私は木材1つを消費して、新しい製材所を建築します。なので1勝利点を得点します。①</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I want to crate my Crossbow card, so I’ll activate my fox sympathy to score a point and take the crossbow from the item supply on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093948Z" creationid="nakahodo" creationdate="20180721T093948Z">
+        <seg>私は自身のCrossbowカードをクラフトしたいので、自身のキツネ賛同者トークンをアクティブにして、1勝利点を得点し、マップのアイテムサプライからクロスボウを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31943,6 +32023,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll slip into the central fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094426Z" creationid="nakahodo" creationdate="20180721T094426Z">
+        <seg>私は中央キツネ区画にスリップにて移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Javelin</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162423Z" creationid="nakahodo" creationdate="20180430T122852Z">
@@ -34304,6 +34392,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T110040Z" creationid="nakahodo" creationdate="20180108T110040Z">
         <seg>なにも変更しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No officers means no actions in</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094315Z" creationid="nakahodo" creationdate="20180721T094315Z">
+        <seg>将校がいないと、夜にアクションが出来ないことを意味しますので、</seg>
       </tuv>
     </tu>
     <tu>
@@ -45208,6 +45304,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supporters stack to put a sympathy token in the central fox clearing and score a point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093821Z" creationid="nakahodo" creationdate="20180721T093821Z">
+        <seg>中央キツネ区画に賛同者トークン1つを配置し、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supporters, Sympathy, and Outrage</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T095229Z" creationid="nakahodo" creationdate="20180702T095229Z">
@@ -51606,6 +51710,14 @@ and place it into their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, I draw a card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093543Z" creationid="nakahodo" creationdate="20180721T093543Z">
+        <seg>その後、カード1枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, add Dark tiles to the board on the tile’s open edges.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T064721Z" creationid="nakahodo" creationdate="20180601T064721Z">
@@ -55674,6 +55786,14 @@ DRAGON</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T055140Z" creationid="aorin" creationdate="20171216T055140Z">
         <seg>ヴァガボンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vagabond (4th player)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094358Z" creationid="nakahodo" creationdate="20180721T094358Z">
+        <seg>ヴァガボンド（プレイヤー4）</seg>
       </tuv>
     </tu>
     <tu>
