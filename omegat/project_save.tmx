@@ -25318,10 +25318,26 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I roll 3 and 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103740Z" creationid="nakahodo" creationdate="20180721T103740Z">
+        <seg>ダイスロールで3と1が出しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I roll a 1 and 0, and I use the higher roll because I’m the attacker.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T100749Z" creationid="nakahodo" creationdate="20180721T100749Z">
         <seg>私はダイスをロールし、1と0と出ました。私がアタッカーなので、高い出目を私が使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I rule when tied, so I can still build my roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104018Z" creationid="nakahodo" creationdate="20180721T104018Z">
+        <seg>タイの時は私が支配できますので、止まり木を建築できます。③</seg>
       </tuv>
     </tu>
     <tu>
@@ -32183,6 +32199,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m the attacker, so I get the 3, but I only have two warriors, so I only deal two hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103812Z" creationid="nakahodo" creationdate="20180721T103812Z">
+        <seg>私はアタッカーなので、3を取りますが、この区画にいる私の戦士は2体だけなので、2ヒットのみを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m the attacker, so I use the higher roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T102840Z" creationid="nakahodo" creationdate="20180721T102817Z">
@@ -34601,6 +34625,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T134903Z" creationid="aorin" creationdate="20180528T134903Z">
         <seg>非アクティブプレイヤーのスペルと効果は、XP値の高い順に解決されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally, this tie would mean no one would rule here, but the Eyrie are the Lords of the Forest!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103942Z" creationid="nakahodo" creationdate="20180721T103942Z">
+        <seg>通常、これはタイになり、誰もここを支配しない状況になりますが、鷲は森の王者です！</seg>
       </tuv>
     </tu>
     <tu>
@@ -53807,6 +53839,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T162019Z" creationid="nakahodo" creationdate="20180702T162019Z">
         <seg>このアイテムは、アイテムトラックにあり、未破損で表向きの場合にのり、ボーナスドローを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This leaves one warrior each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103845Z" creationid="nakahodo" creationdate="20180721T103845Z">
+        <seg>これにより、互いの戦士が1体ずつ残ります。</seg>
       </tuv>
     </tu>
     <tu>
