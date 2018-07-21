@@ -21069,6 +21069,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, your acolytes always get Revenge on the wicked:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T071003Z" creationid="nakahodo" creationdate="20180721T070902Z">
+        <seg>最後に、あなたのアコライトは常に侵略者への復讐の炎を心に宿している：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Ghost tiles with the help of other players, lock 5 Artifacts onto Ghost tiles, and then escape the Cave by entering the Entrance tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180406T130605Z" creationid="nakahodo" creationdate="20180406T130605Z">
@@ -64426,6 +64434,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T054545Z" creationid="nakahodo" creationdate="20180721T054545Z">
         <seg>他派閥が賛同者トークンを取り除くか、賛同区域に敵戦士たちが移動してくるたびに、そのプレイヤーはあなたの支援者スタックにカードを追加する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whenever one of your warriors is removed while defending, you gain another acolyte.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070932Z" creationid="nakahodo" creationdate="20180721T070932Z">
+        <seg>ディフェンダー時にあなたの戦士の1体が取り除かれるたびに、アコライト1体を得る。</seg>
       </tuv>
     </tu>
     <tu>
