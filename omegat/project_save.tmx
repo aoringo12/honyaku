@@ -21213,6 +21213,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First I recruit twice, placing two warriors at my rabbit roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103341Z" creationid="nakahodo" creationdate="20180721T103232Z">
+        <seg>まず、私は雇用2回を行い、自身のウサギ区画止まり木に戦士2体を配置します。①</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First I recruit twice, placing two warriors at my roost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T093100Z" creationid="nakahodo" creationdate="20180630T193018Z">
@@ -24674,6 +24682,14 @@ Roaster...</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, I only have one warrior, so I can only roll one hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102906Z" creationid="nakahodo" creationdate="20180721T102906Z">
+        <seg>しかし、私は戦士1体のみしか持っていないので、1ヒットしか与えられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, If you reveal the Ghost Possession card, remove it from the game at the end of your turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T021257Z" creationid="aorin" creationdate="20180408T021257Z">
@@ -25150,6 +25166,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I add a bird card to battle on my Decree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103213Z" creationid="nakahodo" creationdate="20180721T103213Z">
+        <seg>私は自身の法令に鳥カード1枚を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I add my other two cards to my Supporters stack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T094100Z" creationid="nakahodo" creationdate="20180721T094100Z">
@@ -25288,8 +25312,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>I roll 2 and 1.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102816Z" creationid="nakahodo" creationdate="20180721T102816Z">
-        <seg>私はダイスロールと2と1出しました。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102831Z" creationid="nakahodo" creationdate="20180721T102816Z">
+        <seg>ダイスロールで2と1出しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32151,6 +32175,22 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll spend a bird card to place my warrior back at the keep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103022Z" creationid="nakahodo" creationdate="20180721T103022Z">
+        <seg>私は取りカード1枚を消費することで、キープに取り除かれる自身の戦士を戻して配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m the attacker, so I use the higher roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102840Z" creationid="nakahodo" creationdate="20180721T102817Z">
+        <seg>私がアタッカーなので、高い出目を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Javelin</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T162423Z" creationid="nakahodo" creationdate="20180430T122852Z">
@@ -34376,6 +34416,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T193024Z">
         <seg>次に、ウサギ区画から戦士3体をネズミ区画に移動します。②</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next I must battle, so I’ll choose to battle the Marquise in that same fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103429Z" creationid="nakahodo" creationdate="20180721T103429Z">
+        <seg>次に、私は法令によって戦闘をする必要がありますので、同じキツネ区画にいるマルキスと戦闘します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51692,6 +51740,22 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then I move two warriors north to the fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103339Z" creationid="nakahodo" creationdate="20180721T103234Z">
+        <seg>その後、キツネ区画に戦士2体を移動します。②</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then I place a warrior at my recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T103045Z" creationid="nakahodo" creationdate="20180721T103045Z">
+        <seg>その後、自身の雇用所に戦士1体を配置します。①</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then advance the progress token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T150204Z" creationid="nakahodo" creationdate="20171230T150204Z">
@@ -56296,6 +56360,14 @@ COMPONENTS</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131934Z" creationid="aorin" creationdate="20171215T131934Z">
         <seg>私たちはプレイテスター/エディターを必要としていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We each remove a warrior, but I’ll use my Field Hospitals special ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102938Z" creationid="nakahodo" creationdate="20180721T102938Z">
+        <seg>私達はそれぞれ戦士1体を取り除きますが、私には野戦病院の特別能力があります。</seg>
       </tuv>
     </tu>
     <tu>
