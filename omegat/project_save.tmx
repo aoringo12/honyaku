@@ -21261,6 +21261,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip your board and place your character card on your Character Card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060929Z" creationid="nakahodo" creationdate="20180721T060852Z">
+        <seg>あなたの派閥ボードを返し、キャラクターカードスロットにキャラクターカードを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip your board and place your chosen leader on your Leader Card slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T180132Z" creationid="nakahodo" creationdate="20180720T180132Z">
@@ -23495,6 +23503,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171229T004314Z" creationid="aorin" creationdate="20171229T004314Z">
         <seg>彼はきつく抱きしめて、その口臭があなたの耳をくすぐります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H, and S ruin items (marked with “R”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060758Z" creationid="nakahodo" creationdate="20180721T060758Z">
+        <seg>　</seg>
       </tuv>
     </tu>
     <tu>
@@ -37033,6 +37049,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a relationship marker for each other faction in play (except another Vagabond) on the Indiff erent space of your Relationships chart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062012Z" creationid="nakahodo" creationdate="20180721T062012Z">
+        <seg>あなたの関係性チャートの無関心スペースに、ゲームプレイに存在する他の各派閥の関係性マーカーを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a roost and six warriors in the corner clearing opposite of the keep token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T155330Z">
@@ -37061,6 +37085,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T115914Z" creationid="nakahodo" creationdate="20180629T115914Z">
         <seg>マップ上の遺跡アイコンがある各スロットへと、遺跡マーカーを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a ruin on each item, and shuffl e them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060826Z" creationid="nakahodo" creationdate="20180721T060826Z">
+        <seg>各アイテムに遺跡を配置し、それらをシャッフルする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40853,6 +40885,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224439Z" creationid="nakahodo" creationdate="20171224T224439Z">
         <seg>自身のプレイヤーピースの全てを集めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return a ruin with an item to each ruin slot on the map (marked with “R”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060858Z" creationid="nakahodo" creationdate="20180721T060850Z">
+        <seg>マップの各遺跡スロットにアイテムと共に移籍を戻す（”R”でマークされている）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45529,6 +45569,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100333Z" creationid="nakahodo" creationdate="20180108T100306Z">
         <seg>発展マットから最も数字の低い、建築されていない建物カード1枚を取り、選択した区画にこれを建築します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the starting items (marked with “S”) listed on your character, place them in your Satchel and on the matching tracks, as appropriate, and return unused starting items to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T061035Z" creationid="nakahodo" creationdate="20180721T061035Z">
+        <seg>キャラクターカードに記述されている開始アイテム（”S”でマークされている）を取り、カバンと一致するアイテムトラックに配置する。未使用開始アイテムはボックスに戻す。</seg>
       </tuv>
     </tu>
     <tu>
