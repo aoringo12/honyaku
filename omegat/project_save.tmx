@@ -729,6 +729,14 @@ b	敵対区画への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If both in play, choose another corner.)   en place 1 warrior in each adjacent clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065822Z" creationid="nakahodo" creationdate="20180721T065822Z">
+        <seg>（両者がプレイしている場合、どちらかの区画の1つを選択する）。その後、そこから隣接する区画に戦士1体ずつ配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If both the Marquise and Eyrie are in play, choose one of the two other corners.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T142116Z" creationid="nakahodo" creationdate="20180630T142116Z">
@@ -13400,6 +13408,14 @@ the ranking of the combination, then on the color of the blend.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building trade posts helps you expand your clientele and sell more services, as a faction can buy more services from you as they expand into more clearings where you have trade posts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065504Z" creationid="nakahodo" creationdate="20180721T065504Z">
+        <seg>交易所を建築していくことで、交易所がある区画へと拡大した他派閥がより多くのサービスを購入できるようになるので、あなたもさらにその影響力を大きくしていくことになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building up infrastructure makes your turns more effi cient and helps you draw more cards, so strike out to secure your right to expansion.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T163937Z" creationid="nakahodo" creationdate="20180720T163937Z">
@@ -13444,6 +13460,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180524T132639Z" creationid="nakahodo" creationdate="20180524T132639Z">
         <seg>戦利品を埋めて隠し、トリッキーな小物やトラップで壁を飾れぇ（あ、あとゴブリンも）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But be careful, when your trade posts are destroyed they cannot be rebuilt!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065525Z" creationid="nakahodo" creationdate="20180721T065525Z">
+        <seg>しかし、一度は破壊された交易所は再建築することは出来ないので、注意が必要だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -18295,6 +18319,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T105942Z" creationid="nakahodo" creationdate="20180108T105942Z">
         <seg>各オートマはなにも得点しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each Birdsong, you score points depending on how many funds you’ve saved up and earned over the last round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064946Z" creationid="nakahodo" creationdate="20180721T064946Z">
+        <seg>朝ごとに、あなたはこれまでに溜まった資金に応じて勝利点を得点できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24792,6 +24824,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T190451Z" creationid="nakahodo" creationdate="20180720T190451Z">
         <seg>しかし、あなたの民たちは貿易を軽視しているので、アイテムをクラフトすることによる勝利点を少ししか得点できないだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you’ll also need to commit and spend your funds to expand and guard your trade network, striking a balance between dividends and growth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065053Z" creationid="nakahodo" creationdate="20180721T065053Z">
+        <seg>しかし、公益網を保護しながら交易するために資金は消費したり委託するので、配当と成長のバランスを保つことに気をつける必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36750,6 +36790,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 4 warriors and a matching garden in the corner clearing opposite the Marquise’s keep or Eyrie’s starting roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065730Z" creationid="nakahodo" creationdate="20180721T065730Z">
+        <seg>マルキスのキープか鷲の開始止まり木から反対角端の区画1つに、スートの一致する庭園と戦士4体を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 4 warriors in the clearing with the keep token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T160643Z" creationid="nakahodo" creationdate="20180720T160643Z">
@@ -42830,6 +42878,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T063332Z" creationid="nakahodo" creationdate="20180721T063332Z">
         <seg>セットアップ（E）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup (F)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065626Z" creationid="nakahodo" creationdate="20180721T065626Z">
+        <seg>セットアップ（F）</seg>
       </tuv>
     </tu>
     <tu>
@@ -58724,6 +58780,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While you may not rule many clearings, you can always move along river paths since you’re a faction of Swimmers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065614Z" creationid="nakahodo" creationdate="20180721T065614Z">
+        <seg>あなたは多くの区画を支配することはできずとも、常に川を道として扱い、泳いで移動することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whinnnny.”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071319Z" creationid="nakahodo" creationdate="20180413T071319Z">
@@ -59697,6 +59761,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T155648Z" creationid="nakahodo" creationdate="20180604T155648Z">
         <seg>あなたの視線はダークタイルを通り抜けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set the prices of your services each turn, so try to predict which services the other factions will need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065252Z" creationid="nakahodo" creationdate="20180721T065252Z">
+        <seg>各ターンあなたはそれらサービスの価格を決めるので、他派閥が必要となるサービスを予測していくことになる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62769,6 +62841,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’ll earn funds as other factions buy your services, whether the use of your riverboats or mercenary warriors, or even one of the cards in your public hand, which is all For Sale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065207Z" creationid="nakahodo" creationdate="20180721T065207Z">
+        <seg>あなたは、他派閥にサービスを販売することでし金を得るだろう。サービスにはあなたの持つリバーブーツ、傭兵、公開手札のカード、その全てが提供される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[INF + 1] Ghoul dice and choose two.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085328Z" creationid="nakahodo" creationdate="20180413T085001Z">
@@ -63276,6 +63356,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e more trade posts in clearings of the same suit, the more points you score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064815Z" creationid="nakahodo" creationdate="20180721T064815Z">
+        <seg>同じスートの区画の交易所が多くなるほど、より多くの勝利点を得点できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e seat of her power is the Keep of Marquise de Cat, a structure so imposing that no other faction can place pieces in its clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T160049Z">
@@ -63618,6 +63706,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T084005Z" creationid="nakahodo" creationdate="20180629T084005Z">
         <seg>1ネズミ、1ウサギ、1キツネ、2鳥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ough the construction of trade posts is a viable way to score points, so too is the raw accumulation of wealth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064857Z" creationid="nakahodo" creationdate="20180721T064857Z">
+        <seg>これら交易所は勝利点を得点するための手段であり、資産の備蓄でもある。</seg>
       </tuv>
     </tu>
     <tu>
