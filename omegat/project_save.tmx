@@ -10042,6 +10042,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alliance(3rd player)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104530Z" creationid="nakahodo" creationdate="20180721T104530Z">
+        <seg>連合（プレイヤー3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alliance​ ​Movement.​ ​The Alliance is uniquely restricted in its ability to move.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T220758Z" creationid="aorin" creationdate="20171215T220758Z">
@@ -13031,6 +13039,14 @@ is turned over.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T082006Z" creationid="aorin" creationdate="20171215T233415Z">
         <seg>朝、昼、夜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Birdsong, Revolt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104535Z" creationid="nakahodo" creationdate="20180721T104535Z">
+        <seg>朝、反乱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25370,6 +25386,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192255Z" creationid="nakahodo" creationdate="20180630T192219Z">
         <seg>私は木材1つを消費して、新しい製材所を建築します。なので1勝利点を得点します。①</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I spend two bird supporters to revolt in the fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104615Z" creationid="nakahodo" creationdate="20180721T104615Z">
+        <seg>鳥支援者カード2枚を消費することで、キツネ区画で反乱を起こします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43949,6 +43973,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T111959Z" creationid="nakahodo" creationdate="20180412T111935Z">
         <seg>シンプルテレポートヴァリアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since I have three roosts on the map now, I score two points, and I get to draw two cards rather than one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104524Z" creationid="nakahodo" creationdate="20180721T104055Z">
+        <seg>今、マップには3つの泊まりがありますので、2勝利点を得点し、1枚ではなくカード2枚をドローできます。</seg>
       </tuv>
     </tu>
     <tu>
