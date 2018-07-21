@@ -189,328 +189,325 @@
 
 トレジャー
 アーマー：感知力＋1を得ます。
-たいまつ：When attacking the Spider in Giant
-Spider or Caster form, you may spend 3 Fire to force her to remove another Spiderling (two total).
-When attacking a Skeleton, you may spend 1 Fire to also reduce their Stability by 2.
-Halo:At the start of your turn, gain a Light Devotion.
-Holy Symbol:At the start of your turn, gain a Fire Devotion.
-Magic Mace:During your turn, you get +1
-Strength. Once per turn, you may place one
-Breach token on your tile without spending Fire.
-Prayer Beads:If you are at a Shrine, you can discard this card to gain 3 Devotion of your choice and draw 3 Sanctity cards, pick one, and place the other two at the bottom of the deck.
-Winged Boots:You get +2 Movement.
-Devotions
-The Paladin has two pools of cubes called Devotions:
-Fire and Light. Each pool can hold up to 5 Devotion cubes.
-When you spend a Devotion cube, return it to your supply.
-FIRE
-At the end of your turn, you gain a Fire cube if you did not attack the Spider or a Poltergeist during your turn.
-Spend Fire to...
-► 1:Place a Breach token on a wall of your tile.
-► X:Increase your Strength for one attack by the amount of Fire spent.
+たいまつ：ジャイアントスパイダーかキャスター形態のスパイダーをアタックする時、あなたは炎3つを消費することで、別の蜘蛛の子も強制的に取り除かせることができます（合計2匹）。
+スケルトンをアタックする時、あなたは炎1つを消費することで、対象の安定性を2もまた、減少させることができます。
+後光：あなたのターン終了時、光信仰1つを得ます。
+聖痕：あなたのターン終了時、炎信仰1つを得ます。
+マジックメイス：あなたのターン時、筋力＋1を得ます。ターンごとに一度、炎を消費せずにあなたの居るタイルにブリーチトークン1つを配置できます。
+数珠：あなたが神殿にいる場合、このカードを捨て札にすることで、あなたの選択した信仰3つを得て、神聖カード3枚をドローし、1枚を選択、残り2枚を神聖カードデッキの下に戻します。
+ウィングブーツ：あなたは移動力＋2を得ます。
+信仰
+パラディンは信仰（プールと呼ばれるキューブを集める場所を2つ持ちます：
+炎と光。それぞれの信仰プールは信仰キューブ5つまでを保持できます。
+あなたが信仰キューブを消費する時、これは自身のサプライに戻されます。
+炎
+あなたのターン終了時、このターン中にスパイダーかポルターガイストをアタックしなかった場合、炎信仰キューブ1つを得ます。
+炎信仰キューブ1つを消費することで……
+•	1：あなたがいるタイルの壁1つにブリーチトークンを配置します。
+•	X：炎信仰キューブを消費した数だけ、1回のアタック内であなたの筋力が一時的に1上昇します。
 
-LIGHT
-You gain a Light cube each time you attack per turn, and each time you lose Grit per turn.
-Spend Light to...
-► 1:Place a Lamp token in your tile or an adjacent visible tile.
-► 1:Remove a Web from your tile or an adjacent visible tile.
-► 5:Also spend 5 Grit to gain 1 Health.
-Lamps
-You can spend 1 Light to place a Lamp token on your tile or an adjacent visible tile. Each tile can hold only one Lamp.
-Design Note:For a quick bump to the Paladin’s power level, allow the player to spend a Light in a space that has a Lamp already. This will reveal (but not explore) all adjacent visible tiles. The Paladin could get grit from this but that would make it a huge step forward for the Paladin.
-The Skeletons must spend +1 Movement to enter a tile with a Lamp. If a Skeleton ends its movement on a tile with a Lamp, the Lamp is returned to your supply.
+光
+あなたはターン中のアタックごと、経験値を失うごと（失う経験値の数に関係なく）に光信仰キューブを1つ得ます。
+光信仰キューブを消費することで……
+•	1：あなたのいるタイルか視線が通っている隣接タイルにランプトークン1つを配置します。
+•	1：あなたのいるタイルか視線が通っている隣接タイルから蜘蛛の巣を取り除きます。
+•	5：と、経験値5も消費することで、ヘルス1を得る。
+ランプ
+光信仰キューブ1つを消費することで、あなたのいるタイルか視線が通っている隣接タイルにランプトークン1つを配置します。各タイルはランプトークン1つのみを保持できます。
+デザインノート：パラディンを素早くパワーアアップさせるには、すでにランプが有るスペースで光信仰キューブを消費します。これは探索すること無く、視線が通る隣接タイル全てを公開できます。パラディンはこれらタイルから経験値を得らることができます。
+スケルトンはランプのあるタイルに入るために、移動力＋1を追加で消費する必要があります。スケルトンがランプのあるタイルで移動を終了した場合、ランプはパラディンのサプライに戻されます。
 
-The Skeletons
+スケルトン
 勝利するには
-Kill the Paladin. If there is no Paladin, kill the Spider.
-If there is no Paladin or Spider, destroy 7 Poltergeists.
-If there is no Paladin, Spider, or Manor, destroy 5 Poltergeists.
+パラディンを殺します。パラディンプレイヤーが居ない場合、スパイダーを殺します。
+パラディンとスパイダープレイヤーがいない場合、ポルターガイスト7体を倒します。
+パラディンとスパイダーと館プレイヤーがいない場合、ポルターガイスト5体を倒します。
 セットアップ
-1.	Take the Skeletons player board.
-2.	Place the green cube on the “0” space of the Stability track.
-3.	Shuffle the 5 Skeleton cards. Draw and place them face up, from left to right, in the March Order spaces on your player board.
-4.	Shuffle the Gear cards, then place them face down in a stack near your player board.
-5.	Place the Skeleton pieces matching the two leftmost
-Skeleton cards in your March Order onto your player board.
-6.	Place the other three Skeleton pieces near your player board.
+1.	スケルトンプレイヤーボードを取ります。
+2.	緑キューブを安定性トラックの「0」スペースに配置します。
+3.	スケルトンカード5枚をシャッフルします。プレイヤーボードの行進順番スペース左から右へと、1枚ずつどろーして表向きでそれらを配置します。
+4.	装備カードをシャッフルし、その後、プレイヤーボード近くに装備カードデッキを裏向きで配置します。
+5.	プレイヤーボード上の行進順番スペース、最も左のカード2枚に、一致するスケルトンピースを配置します。
+　
+6.	残ったスケルトンピースはプレイヤーボード近くに配置します。
 ターンサマリー
 あなたのターン時、次のフェイズの順番で解決します。
-1.	Gain Stability
-2.	Spawn Skeletons
-3.	Activate Skeletons
-1)	Gain Stability
-Gain 2 Stability.
-STABILITY
-Stability is the collective ability of the Skeletons to hold themselves together.
-When your Stability reaches a skull (4,7, and 10), place the next Skeleton in Marching Order, from left to right, onto your player board. You do not lose a Skeleton if your Stability drops below a skull.
+1.	安定性を得る
+2.	スケルトンたちのスポーン
+3.	スケルトンたちをアクティブにする
+1)	安定性を得る
+安定性を2得ます。
+安定性
+安定性はスケルトンが自身を保持するための実体化能力を指します。
+あなたが骨（4、7、10）に到達するたびに、あなたのプレイヤーボードへと、行進順番左から右で次のスケルトンを配置します。安定性が骨を下回ったとしても、スケルトンは失われません。
 
-2)	Spawn Skeletons
-Pick up all Skeletons from your player board, and place each one at a Pit at the edge of the board. A Pit can hold only one Skeleton. (During your first turn, you will place two Skeletons.)
-3)	Activate Skeletons
-Activate the Skeletons on the board in March Order, from left to right. You must finish activating one Skeleton before activating another.
-When you activate a Skeleton, the Skeleton gets 4 Movement. You may spend 1 Stability to give +4 Movement (for a total of 8) to a Skeleton. You may do this once per Skeleton.
-NOOKS AND CRANNIES
-Unlike the other roles, Skeletons can move into open spaces (with no tiles). While in an open space, a Skeleton cannot use its abilities or Gear, cannot be affected by any opposing player effects, and cannot distract other pieces.
-Also, Skeletons can cross walls by spending +1 Movement.
-After you finish moving the Skeleton, it may perform one of the following actions:
-► LOOT!!Remove a Treasure token from your space to gain 2 Stability. You cannot spend Movement after taking this action.
-► COLLECT!!If the Skeleton is on an Armory tile (Lit or Dark), draw a Gear card and place it beneath the matching Skeleton on your player board. You cannot spend Movement after taking this action.
-► ATTACK!!A Skeleton attacks a player piece in its space. You must have at least 1 Stability to attack.
-► TUNNEL!!Place the Skeleton on any Pit tile without an opposing player piece. (Tunnel does not cost Movement.)
-MOVEMENT LIMITATIONS
-► Entering a Lit tile costs +1 Movement
-► Entering a tile with a Lamp costs +1 Movement per Lamp
-► If a Skeleton ends its movement in a space with a Lamp, return that Lamp to the Paladin’s supply.
+2)	スケルトンたちのスポーン
+あなたのプレイヤーボードから全てのスケルトンを取り、ボード縁の横穴1つずつに配置します。横穴1つはスケルトン1体のみを保持できます。（あなたのゲーム最初のターン時、スケルトン2体を配置できるでしょう）
+3)	スケルトンたちをアクティブにする
+行進順番の左から右で、スケルトンたちをアクティブにします。今アクティブにしているスケルトンの処理を完全に終了させてから、次のスケルトンをアクティブにします。
+スケルトンをアクティブにする時、そのスケルトンは移動力4を得ます。安定性1を消費することで、そのスケルトンに移動力＋4（合計8）を追加で獲得します。あなたはこれを、スケルトンごとに1回までできます。
+屋根裏と割れ目
+他のプレイヤーロールと違い、スケルトンは（館タイルの無い）空きスペースへと移動できます。空きスペースに居る間、そのスケルトンは能力やギアを使用できず、いずれかの対戦相手プレイヤーから効果の影響を受けず、邪魔（後述）に参加できません。
+また、スケルトンは移動力＋1を消費することで、壁を通り抜けることができます。
+スケルトンの移動が終了した後、そのスケルトンは次のアクションのうち1つを実行できます。
+•	奪う！あなたのスペースからトレジャートークン1つを取り除き、安定性2を得ます。このアクションを実行した後、これ以上の移動力は消費できません。
+•	集める！スケルトンが武器庫タイル（ライトまたはダーク）に居る場合、装備カード1枚をドローし、あなたのプレイヤーボードの一致するスケルトン下に配置します。このアクションを実行した後、これ以上の移動力は消費できません。
+•	アタック！スケルトンのいるスペースの他プレイヤーピースをアタックします。あなたはアタックするために少なくとも安定性1を持っている必要があります。
+•	トンネル！他プレイヤーピースのいない、任意の横穴タイルにそのスケルトンを配置します。（トンネルアクションに移動力コストはありません）
+移動力制限
+•	ライトタイルに入るためにコスト移動力＋1
+•	ランプのあるタイルに入るために、コスト移動力がランプごとに＋1
+•	スケルトンがランプのあるスペースで移動を終了した場合、パラディンのサプライにそのランプを戻します。
 
 
-Distraction
-Each Skeleton only has 1 Strength, so it cannot attack on its own. Skeletons are distracting, though, and can combine their efforts to attack.
-During your turn, when you attack with a Skeleton, the other Skeletons can distract the target. The attacking Skeleton gains +1 Strength per tile with a Skeleton adjacent to the defender. Distracting Skeletons do not need to be visible to the target or the attacking Skeleton, but cannot be on an open space.
-Multiple distracting Skeletons on a single tile only provide +1 Strength. The attacking Skeleton cannot distract.
-ATTACKING THE PALADIN
-When you attack the Paladin, he loses 1 Health, and the Skeleton scatters.
-If the Paladin’s Health decreases to 0, he dies and you win the game.
+邪魔
+各スケルトンは1筋力のみを持ちます。なので、そのままではアタックできません。Skeletons are distracting, though, and can combine their efforts to attack.
+あなたのターン時、スケルトンがアタックする時、他のスケルトンたちは対象を邪魔できます。アタックするスケルトンは、対象に隣接するスケルトンのいるタイルごとに、筋力＋1を得ます。邪魔するスケルトンは対象やアタックするスケルトンへ視線が通っている必要はありません。しかし、空きスペースに居るスケルトンは邪魔に参加できません。
+複数の邪魔をするスケルトンたちは、タイル1枚のみに各自筋力＋1を提供します。アタックするスケルトンは邪魔に参加できません。
+パラディンへアタックする
+パラディンをアタックする時、対象はヘルス1を失い、そのスケルトンは離散します。
+パラディンのヘルスが0に減少した場合、彼は死んで、あなたはゲームに勝利します。
 スパイダーへアタックする
-You can only attack the Spider if the Paladin isn’t in the game.
-The effect of the attack depends on the Spider’s form, as follows.
-► Spiderling:Remove the Spiderling from the game. Then, each Spiderling on the board gains 2 Movement to spend immediately.
-► Giant Spider or Caster:スパイダープレイヤーは蜘蛛の子1匹を選択し、ゲームから取り除きます。Then, the Spider player may choose to change to Spiderling form.
-If the last Spiderling is removed from play, you have killed the Spider and you win the game.
-ATTACKING A POLTERGEIST
-A Poltergeist’s Strength is always 2. This attack destroys the Poltergeist, returning it to the Manor’s supply.
-In games without a Paladin or Spider player, but with a Manor player, mark each destroyed Poltergeist on your Progress card, and you win if you destroy 7 Poltergeists. In games without a Paladin, Spider, or Manor player, you win if you destroy 5 Poltergeists.
-THE WRAITH
-Skeletons may enter a space with the Wraith freely, but cannot affect it in any way.
+パラディンプレイヤーがゲームに居ない場合、あなたはスパイダーへのみアタックできます。
+スパイダーのフォームによってアタックの効果が変わります。以下を参照してください。
+•	蜘蛛の子：ゲームからその蜘蛛の子を取り除きます。その後、ボード上にいるそれぞれの蜘蛛の子は、直ちに消費しなければならない移動力2を得ます。
+•	ジャイアントスパイダーかキャスタースパイダープレイヤーは蜘蛛の子1匹を選択し、ゲームから取り除きます。その後、スパイダープレイヤーは蜘蛛の子形態に変化するかどうかを選択できます。
+最後の蜘蛛の子がゲームから取り除かれた場合、あなたはスパイダーを殺し、ゲームに勝利します。
+ポルターガイストへアタックする
+ポルターガイストの筋力は常に2です。このアタックでポルターガイストは倒され、これを館プレイヤーのサプライに戻します。
+パラディンとスパイダープレイヤーがゲームに居ないが、館プレイヤーがいる場合、あなたの進展カードに倒したポルターガイストを記録します。ポルターガイスト7体を倒した場合、あなは勝利します。パラディン、スパイダー、屋敷プレイヤーのいないゲームでは、あなたが勝利するためにポルターガイスト5体が必要になります。
+レイス
+スケルトンはレイスの居るスペースに自由に制限なく入れますが、いずれの方法でも影響を与えられません。
 
 
 エンチャンターへアタックする。
-A Skeleton may enter a tile with the Enchanter freely.
-A Skeleton may attack the Enchanter only if the Skeleton’s Strength is greater than the Enchanter’s Defense. This attack scatters the Enchanter, and you gain 2 Stability (because you gain a Treasure and immediately discard it).
-DANCING LIGHTS
-When activated, Casty may place a Dancing Lights token on a visible tile. If all three Dancing Lights are on the board, he may remove one from the board to place again.
-Dancing Lights tokens distract players in adjacent spaces.
-If an opposing player enters a space with a Dancing Lights token, remove it from the board.
-Scatter
-When a Skeleton attacks or gets attacked, it scatters unless noted otherwise. Place it on your player board, and lose 1 Stability.
-Skeletons
-The five Skeletons work together, but each has its own traits and gear. Each Skeleton has a Strength of 1 and an ability that is always in effect or always available to it while on a tile (not an open space or your player board).
-Each Gear card gives its Skeleton another ability, and it may be used immediately once equipped. If an ability or Gear costs Stability, you may only use it during that Skeleton’s activation, unless noted otherwise.
-Dark Sight
-Unlike the other roles, the Skeletons can see through Dark tiles, making more pieces visible to them.
+スケルトンはエンチャンターの居るタイルに自由に制限なく入れます。
+スケルトンの筋力がエンチャンターの防御力より高い場合にのみ、エンチャンターへアタックできます。このアタックでエンチャンターは離散し、あなたは安定性2を得ます（トレジャー1つを得て、それを直ちに破棄することになるので）。
+ダンシングライト
+アクティブにされた時、キャスティは視線が通っているタイルにダンシングライトを配置することができます。ダンシングライト3つ全てがボード上に配置されている場合、ボードから1つを選択して取り、別の場所に配置します。
+ダンシングライトトークンは隣接スペースのプレイヤーたちへの邪魔に参加します。
+対戦相手プレイヤーがダンシングライトトークンのあるスペースに入った場合、トークンはボードから取り除かれます。
+離散
+スケルトンがアタックしたり、された場合、特に記述されていない限り、そのスケルトンは離散します。そのスケルトンピースを取り、あなたのプレイヤーボードに配置し、安定性1を失います。
+スケルトン
+5体のスケルトンたちは一緒に動作しますが、それらが持つ特徴と装備は独自のものになります。各スケルトンは筋力1を持ち、その能力は常に効果を発動しているか、タイルにいる間そこへと常に利用可能となっています（空きスペースやプレイヤーボード以外で）。
+各装備カードはそのスケルトンに別の能力を与えて、装備すると直ちに使用できます。能力や装備のコストが安定性の場合、特に記述がない限り、スケルトンをアクティブにしている時にのみ、その効果を使用できます。
+ダークサイト
+他のプレイヤーロールと違い、スケルトンはダークタイルが間にあるとしても、対象に視線を通すことができます。
 
-CASTY
-Ability:Once per turn, when activated, Casty may spend 1 Stability to place a Dancing Lights token on any adjacent tile. Dancing Lights tokens distract players in adjacent spaces. If an opposing player enters a space with a Dancing Lights token, return it to your supply.
-Ash Staff (Gear):Casty may spend 1 Stability to teleport himself, or another Skeleton in his space or an adjacent space, up to two spaces in any direction.
-This does not cost Movement for either Skeleton, and it ignores everything in the spaces between.
-Runestone (Gear):Casty may move each Dancing
-Lights token on the board by 1 space, ignoring all movement restrictions.
-Fetish (Gear):Casty may attack a visible piece that is exactly 2 spaces away, without scattering.
-SCREAMY
-Ability:When activated, Screamy may spend 1 Stability to give 4 Movement to any visible Skeleton within 2 spaces. You must spend this Movement immediately, and you cannot move this Skeleton into a tile that would make you attack. This ability may target a Skeleton that spawned this turn.
-Horn (Gear):Screamy may spend 1 Stability to give 4 Movement to an extra Skeleton.
-Banner (Gear):Screamy may give Movement to any Skeleton on the board, not just visible Skeletons.
-Pauldrons (Gear):Screamy gets +1 Strength outside your turn.
-SHOOTY
-Ability:Shooty may attack a visible target exactly 2 spaces away, without scattering.
-Bomb Bag (Gear):Shooty may spend 1 Stability to place a Breach token on any visible wall or to place a Pit tile on her space.
-Longbow (Gear):Shooty may attack a visible target that is 2, 3, or 4 spaces away.
-Wolf (Gear):Immediately place the Wolf piece on Shooty’s space.
-Wolf
-The Wolf moves, distracts, and defends like a Skeleton, but cannot attack. It activates before Shooty each turn. If the Wolf scatters, place it on Shooty’s card. It will spawn on Shooty’s space on the next turn or will spawn with Shooty if she spawns. The Wolf spawns with her if either scatters.
-
-
-SLASHY
-Ability:Slashy gets +2 Strength when attacking.
-Great Axe (Gear):Slashy gets +1 Strength when attacking.
-Helmet (Gear):Slashy does not lose Stability when attacked.
-Shield (Gear):Slashy gets +1 Strength when attacked.
-STABBY
-Ability:Sneak Attack. When Stabby attacks a target who is distracted by 2 or more sources, he may make a sneak attack. In addition to the normal result, a sneak attack does the following:
-► Paladin loses 2 Grit.
-► Spider chooses and discards 2 Power cards.
-► Enchanter discards an extra disc.
-Poison (Gear):When Stabby makes a sneak attack, you may remove the Poison Gear card from the game to make the target lose 1 more Health.
-Leather Boots (Gear):Stabby gets +2 Movement when activated.
-Kukri (Gear):Double the effect of the sneak attack.
-This benefit does not stack with Poison.
+キャスティ
+能力：ターンごとに1度、アクティブにされた時、キャスティは安定性1を消費することで、キャスティは任意の隣接タイル1枚にダンシングライトトークン1つを配置できます。ダンシングライトトークンは隣接スペースのプレイヤーたちへの邪魔に参加します。ダンシングライトのあるスペースに対戦相手が入った場合、それはあなたのサプライに戻されます。
+アッシュスタッフ（装備）：キャスティは安定性1を消費することで、任意の方向へと2スペースまで、自身をテレポートさせるか、同じスペースか隣接スペースにいる他のスケルトン1体をテレポートさせることができます。
+いずれのスケルトンにも移動力コストは必要なく、間にあるスペースは無視されます。
+ルーンストーン（装備）：キャスティは
+ボード上のダンシングライトトークンのあるスペース1つへ、全ての移動制限を無視して移動できます。
+呪物（装備）：キャスティは離散すること無く、正確に2スペース離れた視線が通っている対象へアタックできます。
+スクリーミー
+能力：アクティブの時、スクリーミーは安定性1を消費することで、2スペース以内の視線が通っているスケルトン1体に移動力4を与えることができます。この移動力は直ちに消費しなければならず、このスケルトンをアタックするタイルへと移動させることはできません。この能力はこのターンスポーンしたスケルトンを対象にできます。
+ホーン（装備）：スクリーミーは安定性1を消費することで、さらに追加でスケルトン1体に移動力4を与えられます。
+旗（装備）：スクリーミーは視線に関わらず、ボード上の任意のスケルトンに移動力を与えることができます。
+たすき（装備）：スクリーミーはあなたのターン外で＋1筋力を持ちます。
+シューティー
+能力：シューティーは離散することなく、正確に2スペース離れた視線が通る対象へアタックできます。
+ボムバッグ（装備）シューティーは安定性1を消費することで、任意の視線が通る壁か、自身オイルスペースに横穴タイルを配置できます。
+ロングボウ（装備）：シューティーは2、3、4スペース離れた視線が通る対象へとアタックできます。
+ウルフ（装備）：シューティーのいるスペースにウルフピースを配置します。
+ウルフ
+ウルフはスケルトンと同じように移動し、邪魔に参加し、防御しますが、アタックはできません。各ターン、シューティーの前にアクティブになります。ウルフが離散する場合、シューティーのカードにウルフピースを配置します。次のターンにて、シューティーのいるスペースか、シューティーが離散していた場合、シューティーと共にスポーンすることとなります。　
 
 
-The Spider
+スラッシィ
+能力：スラッシィはアタックする時、筋力＋2を得ます。
+グレートアックス（装備）：スラッシィはアタックする時、筋力＋1を得ます。
+ヘルメット（装備）：スラッシィは攻撃した時、安定性は失いません。
+shield（装備）：スラッシィはアタックする時、筋力＋1を得ます。
+スタッビィ
+能力：こっそりアタックします。2体以上から邪魔されている対象にスタッビィがアタックする時、奇襲を行うことができます。通常のアタックを処理するのに加えて、次の効果を適応します。
+•	パラティン経験値2を失います。
+•	スパイダーはパワーカード2枚を選択して捨て札にします。
+•	エンチャンターは追加のディスク1枚を破棄します。
+毒（装備）：スタッビィが奇襲する時、ゲームから毒装備カードを取り除くことで、対象のヘルス＋1をさらに失わせることができます。
+レザーブーツ（装備）：スタッビィはアクティブになる時、移動力＋2を得ます。
+ククリ（装備）：奇襲の効果を2倍にします。
+この効果は毒には累積しません。
+
+
+スパイダー
 勝利するには
-Build up your Terror to 12 or more, then escape the Manor through the Entrance.
+12以上の恐怖を構築し、その後、館のエントランスを通り抜けることで脱出するのが目的です。
 セットアップ
-1.	Take the Spider player board.
-2.	Place the Giant Spider Form card on the matching space on your player board.
-3.	Shuffle the Power cards into a deck, and draw 3 card to form your starting hand.
-4.	Place the Terror cubes, Blood cubes, Web tokens, and Egg tokens in your supply near your player board.
-5.	Place the Giant Spider on the Abyss tile.
-6.	Place the Caster and Spiderling pieces near your player board.
+1.	スパイダープレイヤーボードを取ります。
+2.	あなたのプレイヤーボードの一致するスペースにジャイアントスパイダー形態カードを配置します。
+3.	パワーカードをシャッフルしてデッキを作り、そこからカード3枚をドローして、これをあなたの開始手札とします。
+4.	恐怖キューブ、ブラッドキューブ、蜘蛛の巣トークン、卵トークンをあなたのプレイヤーボード近くに配置して、サプライとします。
+5.	アビスタイルにジャイアントスパイダーピースを配置します。
+6.	キャスターと蜘蛛の子ピースはあなたのプレイヤーボード近くに配置します。
 ターンサマリー
 あなたのターン時、次のフェイズの順番で解決します。
-1.	Reveal Your Form
+1.	形態を公開
 2.	移動とパワーの使用
-3.	Choose Your Form
-4.	Draw Power Cards
-1)	Reveal Your Form
-Reveal the form card on your player board. (During your first turn, this will be the Giant Spider.)
-If you reveal a new form, place the piece of your new form in your space and remove the old piece.
-If you switch to Spiderling form, place all of the Spiderlings in your space.
-If you switch out of Spiderling form, place the piece for your new form in any space with a Spiderling, and return all Spiderlings from the board to your supply.
-If you are in Caster form, gain 1 Blood and add 1 Blood cube to each Egg on the board.
+3.	形態を選択
+4.	パワーカードのドロー
+1)	形態を公開
+あなたのプレイヤーボードの形態カードを公開します。（あなたのゲーム最初のターン時、これはジャイアントスパイダーとなります）
+新しい形態を公開した場合、あなたのいるスペースに新しい形態のピースを配置し、古いピースをボードからあなたのサプライに戻します。
+蜘蛛の子形態に変化した場合、あなたのスペースに全ての蜘蛛の子ピースを配置します。
+蜘蛛の子から別の形態に変化した場合、いずれかの蜘蛛の子ピースがいるスペース1つに変化先形態のピースを配置し、全ての蜘蛛の子ピースをボードからあなたのサプライに戻します。
+キャスター形態に変化した場合、ブラッドキューブ1つを得て、追加でボード上にある卵1つごとにブラッドキューブ1つを得ます。
 
 2)	移動とパワーの使用
-Entering a space with another player piece prompts an attack if their Strength is greater than your Defense.
-Your Defense varies based on your form and your Terror.
-You can play Eyes, Fangs, and Web cards from your hand to take the actions listed on your Form card.
-Your movement and powers will vary widely based on your form.
-Web Weaver
-Unlike the other roles, the Spider does not need to spend more Movement to enter spaces with Webs, and she does not remove Webs when she moves into tiles with them.
-Dark Sight
-Unlike the other roles, the Spider can see through Dark tiles, making more pieces visible to her.
-Agile but Hated
-Unlike the other roles, the Spider has no Strength.
-She can freely enter any tile with another player piece.
-However, entering a tile with another player piece may prompt them to attack her, if their Strength is greater than her Defense.
-Giant Spider
+あなたが対戦相手プレイヤーピースのいるスペースに入る時、相手の筋力があなたの防御力よりも高い場合、そのプレイヤーピースがあなたへとアタックしてきます。
+あなたの防御力はその時の形態と恐怖値を基準にして変化します。
+あなたは目、牙、蜘蛛の巣カードをあなたの手札からプレイすることで、形態カードに記述されたアクションを実行できます。
+あなたの移動力とパワーはその形態によって大きく変化するでしょう。
+糸織
+他プレイヤーロールと違い、スパイダーは蜘蛛の巣のあるスペースに入るのに追加移動力を消費する必要はなく、そこに入る時も蜘蛛の巣を取り除きません。
+ダークサイト
+他プレイヤーロールとは違い、スパイダーはダークタイルが間にあるとしても、対象に視線を通すことができます。
+素早くて嫌われ者
+他プレイヤーロールとは違い、スパイダーは筋力を持ちません。
+スパイダーは他プレイヤーピースのいる任意のタイルに追加移動力なく自由に入ることができます。
+しかし、そこにいる他プレイヤーピースの筋力があなたの防御力よりも高い場合、そのプレイヤーピースはあなたを攻撃してきます。
+ジャイアントスパイダー
 移動
-You have 3 Movement to spend. You can cross only 1 wall per turn.
+移動力3を持ちます。ターンごとに壁1つのみ、通り抜けられます。
 パワー
-You may play Eyes and Web cards as Fangs cards.
-Eyes
-Reveal your tile or an adjacent tile. Reveal 2 more tiles per extra Eyes card played. These extra tiles revealed can be adjacent to tiles you just revealed using Eyes. Gain 1 Blood per Event symbol you reveal.
+あなたは牙カードとして、目と蜘蛛の巣カードをプレイできます。
+目
+あなたが現在いるタイルか隣接タイルを公開します。追加の目カードをプレイするごとに、さらにタイル2枚を公開します。これら追加タイルは、最初に目カードを使用して公開したタイルに隣接したものを公開できます。あなたが公開したイベントシンボルごとに、1ブラッドを得ます。
 
-Fangs
-Attack every player piece in your space and gain 1 Blood per Fangs you play.
-► Paladin:The Paladin loses 1 Grit, and you may move him 1 space. For each extra Fangs you play, you force the Paladin to lose another Grit OR you move him another space.
-► Skeleton:The Skeleton scatters. For each extra
-Fangs you play, the Skeletons lose 1 Stability.
-► Poltergeist:The Poltergeist is destroyed. For each extra Fangs you play, the Manor loses 1 Omen.
-► Enchanter:The Enchanter scatters. For each extra Fangs you play, you can remove a disc from your hand or the Enchanter’s hand.
-Web
-Place a Web token on your space or an adjacent space. Place 2 more Webs per extra Web card you play.
-Other Powers
-► Egg:Discard any 2 cards to place an Egg in your space.
-► Feeding:Spend 3 Blood to gain 1 Terror.
-► Legs:Discard any card. You gain 1 Movement and can cross an extra wall.
-► Loot:Discard any 1 card to Loot a Treasure in your space.
-► Tend:Once per turn, spend 1 Blood to place a Blood cube on all Eggs within 2 spaces of you.
-Caster
-At the start of your turn, gain 1 Blood and add 1 Blood cube to each Egg on the board.
+牙
+あなたのスペースにいる他プレイヤーピースをアタックし、プレイした牙カードごとに1ブラッドを得ます。
+•	パラディン：パラディンは経験値1を失い、あなたは彼を1スペース移動させることができます。追加で牙カードをプレイするごとに、あなたはパラディンへと、さらに経験値を失わせるか、別のスペースに移動させることができます。
+•	スケルトン：スケルトンは離散します。追加で牙カードをプレイするごとに、
+スケルトンは安定性を1、失います。
+•	ポルターガイスト：ポルターガイストは倒されます。追加で牙カードをプレイするごとに、館は前兆トークン1つを失います。
+•	エンチャンター：エンチャンターは離散します。追加で牙カードをプレイするごとに、あなたは自身の手札かエンチャンターの手札から、ディスク1枚を取り除けます。
+蜘蛛の巣
+あなたが現在いるスペースか隣接スペースに蜘蛛の巣トークン1つを配置します。あなたが追加の蜘蛛のスカードをプレイするごとに、さらに蜘蛛の巣トークン2つを配置します。
+他のパワー
+•	卵：任意のカード2枚を捨て札にすることで、あなたのいるスペースに卵1つを配置します。
+•	餌：ブラッド3つを消費することで、恐怖1つを得ます。
+•	足：任意のカード1枚を捨て札にします。移動力1を得て、追加の壁1枚を通り抜けます。
+•	略奪：任意のカード1枚を捨て札にすることで、あなたのスペースにあるトレジャー1つを取ります。
+•	管理：ターンごとに1度、ブラッド1を消費することで、あなたから2スペース以内の全ての卵にブラッドキューブ1ずつ配置します。
+キャスター
+あなたのターン開始時、ブラッドキューブ1と、ボード上にある卵1つごとに追加のブラッドキューブ1つを得ます。
 移動
-You have 2 Movement to spend.
+移動力2を持ちます。
 パワー
-You can use as many powers as you want. You may play Fangs and Web cards as Eyes cards.
-Eyes
-Reveal any tile on the board. Gain 2 Blood per Event symbol you reveal.
+望むだけのパワーを使用できます。目カードとして、牙と蜘蛛の巣カードをプレイできます。
+目
+ボード上の任意のタイル1枚を公開できます。公開されるイベントシンボルごとに、ブラッド2得ます。
 
-Fangs
-Attack a visible player piece. You can see through Dark tiles. Then also, gain 1 Blood.
-► Paladin:Lose 1 Grit and move him 1 space.
-► Skeleton:Scatter the Skeleton.
-► Poltergeist:Remove it.
-► Enchanter:Remove an Enchanter disc from your board or the Enchanter’s board.
-Web
-Place a Web token under a visible piece or on a visible space.
-Other Powers
-► Dread:Once per turn, discard any card to gain 1 Terror. You must have 6 Webs on the board to use this power.
-► Egg:Discard 2 cards of any suits to place an Egg in your space or any visible space.
-► Legs:Discard any card to move an extra space.
-If you discard 2 matching cards, you can instead teleport 2 spaces.
-► Loot:Spend any card to Loot a Treasure in your space.
-► Tend:Spend 1 Blood to place a Blood token on a visible Egg.
-Spiderlings
+牙
+視線が通っているプレイヤーピースへとアタックします。あなたの視線はダークタイルを通り抜けます。ブラッド1を得ます。
+•	パラディン：経験値1を失い、パラディンを1スペース移動させます。
+•	スケルトン：スケルトン離散します。
+•	ポルターガイスト：これを取り除きます。
+•	エンチャンター：あなたかエンチャンターのプレイヤーボードから、エンチャンターディスク1つを取り除きます。
+蜘蛛の巣
+視線が通っているピースの下か、視線が通っているスペースに蜘蛛の巣トークンを配置します。
+他のパワー
+•	不穏：ターンごとに1度、任意のカード1枚を捨て札にすることで、恐怖1を得ます。あなたはこのパワーを使用するために、ボード上に蜘蛛の巣6つを持つ必要があります。
+•	卵：任意の1種類のパワーカード2枚を捨て札にすることで、あなたのスペースか視線が通る任意のスペースに卵1つを配置します。
+•	足：任意のカード1枚を捨て札にすることで、追加で1スペース移動します。
+同じ種類のカード2枚を捨て札にする場合、2スペーステレポートします。
+•	略奪：任意のカード1枚を捨て札にすることで、あなたのスペースにあるトレジャー1つを取ります。
+•	管理：ブラッド1つを消費することで、視線が通る卵にブラッドトークン1つを配置します。
+•	蜘蛛の子：
 移動
-Each Spiderling on the board gets 4 Movement and can cross walls. You must finish moving a Spiderling before activating another Spiderling. You can play Power cards during a Spiderling’s activation.
-The Spiderlings ignore other player pieces while moving, and other players may ignore them.
+ボード上にいる蜘蛛の子はそれぞれ移動力4を得て、壁を抜けて移動できます。蜘蛛の子1体の移動を完全に終了させてから、別の蜘蛛の子をアクティブにします。蜘蛛の子1体がアクティブになっている時、その蜘蛛の子のためにパワーカードをプレイできます。
+移動している間、蜘蛛の子たちは他プレイヤーピースを無視し、他プレイヤーたちも蜘蛛の子たちを無視できます。
 パワー
-You may play Eyes and Fangs cards as Web cards.
-Eyes
-Reveal all tiles with Spiderlings, and gain 1 Blood per Event symbol you reveal.
-Fangs
-Attack all pieces in spaces with Spiderlings. You may move each piece you attack by 1 space. Gain 1 Blood per player piece you attack.
-Web
-Place a Web on each space with Spiderlings. 
+あなたは蜘蛛の巣カードとして、目と牙カードをプレイできます。
+目
+蜘蛛の子たちのいるタイル全てを公開し、公開したイベントシンボル1つごとにブラッド1得ます。
+牙
+蜘蛛の巣たちのいる全てのスペースにいる他ピースたちへとアタックします。あなたがアタックする各対象ピースを1スペース強制移動させることができます。あなたがアタックするプレイヤーピースごとに、ブラッド1を得ます。
+蜘蛛の巣
+蜘蛛の子がいる各スペースに蜘蛛の巣を1つずつ配置します。 
 
-Other Powers
-► Dread:Once per turn, discard any card to gain 1 Terror. You must have 8 or more Webs on the board to use this power.
-► Legs:Discard any card to move the activated Spiderling and all remaining Spiderlings to be activated an extra space.
-► Feeding:Spend 3 Blood to gain 1 Terror.
-3)	Draw Power Cards
-Draw up to your hand size, which equals your Spirit.
-If you are in Caster form, you may draw 3 extra cards and then discard down to your hand size.
-4)	Choose Form
-Choose a Form card and place it face down on your sheet.
-Other Rules
-Eggs
-When an Egg has a total of 5 Blood tokens and Web tokens on it, remove the Egg and its Blood tokens from the board and gain 2 Terror. When an Egg hatches, it does not remove Webs on its tile.
-Eggs do not block the movement of the other players.
-Eggs may be attacked. An Egg has a Defense of 1 plus the number of Blood tokens on them.
-Webs
-Each tile can hold up to 3 Webs.
-When an opposing player piece enters a tile with any Webs, remove all of the Webs there.
-Changing Form
-Whenever you are attacked while in Giant Spider or Caster form, you may change into Spiderling form. If you do, place a Spiderling in an adjacent space. Then place all of your remaining Spiderlings adjacent to other Spiderlings. Next, place the Spiderling Form card face up on your player board. You will remain in Spiderling form throughout your next turn.
+他のパワー
+•	不穏：ターンごとに1度、任意のカード1枚を捨て札にすることで、恐怖1を得ます。あなたはこのパワーを使用するために、ボード上に蜘蛛の巣8つを持つ必要があります。
+•	足：任意のカード1枚を捨て札にすることで、今アクティブにした蜘蛛の子と今からアクティブにする全ての蜘蛛の子たちに、追加のスペース1つを移動させます。
+•	餌：ブラッド3つを消費することで、恐怖1つを得ます。
+3)	パワーカードのドロー
+魂ステータスと同数の手札上限数まで、カードをドローします。
+あなたがキャスター形態の場合、さらに3枚のパワーカードをドローし、その後手札上限までカードを捨て札にします。
+4)	形態の選択
+形態カード1枚を選択し、あなたのプレイヤーボードに裏向きで配置します。
+他のルール
+•	卵：
+卵がブラッドトークンを5つ、蜘蛛の巣トークン1つをそこに持っている時、ボードからその卵とブラッドトークンが取り除かれ、恐怖2つを得ます。卵が孵化する時、そのタイルの蜘蛛の巣は取り除かれません。
+卵は他プレイヤーの移動を阻害しません。
+卵はアタックされる可能性があります。卵の防御力は1で、そこに配置されているブラッドトークンの数だけさらに追加されます（例：ブラッドトークン2つを持つ卵の防御力は3）。
+蜘蛛の巣
+各タイルは蜘蛛の巣を3つまで保持できます。
+対戦相手のプレイヤーピースが蜘蛛の巣のあるタイルに入った時、そこにある蜘蛛の巣は全て取り除かれます。
+形態変化
+あなたがジャイアントスパイダーかキャスター形態の時にアタックされるたび、あなたは蜘蛛の子形態に変化できます。そうした場合、そこに隣接したスペースに蜘蛛の子1体を配置します。その後、残っている蜘蛛の子たち全てを、他の蜘蛛の子に隣接するように配置します。次に、あなたのプレイヤーボード上に蜘蛛の子形態カードを表向きで配置します。あなたは次のターンを通して、蜘蛛の子形態を維持することになります。
 
-The Manor
+館
 勝利するには
-Gain 15 Mold.
+モールド15個を得ます。
 セットアップ
-1.	Place your player board in front of you.
-2.	Collect 12 Omen cubes in a supply.
-3.	Take 4 Omens and put them in the Omens box.
-4.	Place 9 Poltergeist pieces near you.
-5.	Place a cube on the “0” space of the Mold track.
-6.	Shuffle the Event cards into a deck, place it next to your board, and draw 3 cards.
-At the start of your first turn, place the Wraith on any unoccupied Dark tile. If no such tile exists, place a Dark tile and then place the Wraith on it.
+1.	あなたのプレイヤーボードを取ります。
+2.	サプライとして前兆キューブ12個を集めます。
+3.	前兆キューブ4つを取り、前兆ボックスにそれらを入れます。
+4.	ポルターガイストピースをあなたのプレイヤーボード近くに配置します。
+5.	モールドトラックの「0」スペースにキューブ1つを配置します。
+6.	イベントカードをシャッフルしてデッキを作り、あなたのプレイヤーボード近くにこれを配置し、カード3枚をドローします。
+あなたの最初のターンの開始時に、任意の未占領のダークタイルにレイスピースを配置します。そのようなタイルが無い場合、ダークタイル1枚を配置し、その後、そこにレイスピースを配置します。
 ターンサマリー
 あなたのターン時、次のフェイズの順番で解決します。
-1.	Spend Omens and Resolve
-2.	Walk and Fly
-3.	Draw Events and Place Treasures
-4.	Restore Omens
-1)	Spend Omens and Resolve
-Take the Omens from your Omens box, assign them to the Omens spaces on your player board, and then resolve their effects from top to bottom. You must fill Omens spaces in a row from left to right.
-SWAP
-Choose 2 tiles on the board within the listed number of spaces from each other. When moving the tile, ignore all walls, player pieces, tokens, and open spaces.
-Swap them and orient them in any way. If either or both tiles are occupied, you can only move them half the number of spaces. Any player pieces or tokens on the tile move with it.
+1.	前兆トークンの消費と解決
+2.	歩きと浮遊
+3.	イベントカードのドローとトレジャーの配置
+4.	前兆のリセット
+1)	前兆トークンの消費と解決
+前兆ボックスから前兆キューブを取り、プレイヤーボードにある前兆スペースにそれらを割り当て、その後、上から下に割り当てたものの効果を解決します。あんたは前兆スペースは左から右に埋めなければなりません。
+スワップ
+ボード上にある、指示された範囲内のタイル2つを選択して入れ替えます。タイルを移動する時、全ての壁、プレイヤーピース、トークン、空きスペースは無視されます。
+これらを交換し、それぞれ任意の方向へと回転させます。それらタイルのいずれか、または両方がなんらかのトークンやピースで占領されていた場合、指示されるスペース数の半分のみ移動できます。タイル上にある任意のトークンやプレイヤーピースはタイルと共に移動します。
 
 
-SHIFT
-Choose any tile on the board and move it to an open space. You can move it as many spaces based on the number of assigned Omens, as listed on the player board. You move half the distance if the tile is occupied.
-When moving the tile, ignore all walls, player pieces, tokens, and open spaces between its origin and destination.
-The tile must be placed in an unoccupied open space, and you can reorient the tile. Any player pieces or tokens on the tile move with it.
-If all spaces on the board contain tiles, you can use this power to swap the spaces of two tiles instead of shifting one tile.
-REVEAL
-Choose and reveal a number of Dark tiles based on the number of assigned Omens, as listed on your player board. You may choose any Dark tiles on the board, and may reveal them in any order.
-WALL
-Place a Force Wall on the shared edge without a wall of any two adjacent tiles (Lit, Dark, or both).
-Force Walls are treated as walls for all purposes.
-If either tile is rotated or moved, or a Dark tile is revealed and oriented with a normal wall on the same edge, return the Force Wall token to your supply.
-2)	Walk and Fly
-You can play Event cards from your hand to Walk or Fly, in any order and number of times.
-Immaterial
-The avatar of the Mansion on the physical plane is the Wrath. Unlike the other roles, the Wraith does not have Strength and has very different rules for moving and attacking, as described below.
-WALK
-Play an Event card to gain 2 Movement. (The Wraith does not have to follow the path listed on the card.)
-Walking is used to clear space for Flight. When the Wraith enters a space with a Lamp, Dancing Lights, or Web token, remove the token without effect. When the Wraith enters a space with a player piece, do the following:
+シフト
+ボード上の任意のタイル1枚を選択し、空きスペースへと移動させます。移動できるスペースの数は、プレイヤーボードに示されるように、割り当てられた前兆トークンの数により変わります。移動するタイルが占領されていた場合、移動距離が半分になります。
+タイルを移動する時、移動元から移動先までの間にある、全ての壁、プレイヤーピース、トークン、空きスペースは無視されます。
+タイルは未占領空きスペースに配置する必要があり、あなたはタイルの方向を自由に決めることができます。タイル上にある任意のトークンやプレイヤーピースはタイルと共に移動します。
+ボードのスペース全てにタイルが配置されている場合、このパワーを使用することで、タイル1枚をシフトする代わりに、タイル2枚の位置をスワップできます。
+公開
+ダークタイルを選択して公開します。公開する数は、プレイヤーボードに示されるように、割り当てられた前兆トークンの数によって変わります。あなたはボードの任意のダークタイルを選択し、任意の順番でそれらを公開できます。
+壁
+任意の隣接するタイル2枚（ライトかダークかは問わない）が共有する、壁のない側面にフォースウォールを1つ配置します。
+フォースウォールは壁として扱います。
+いずれかのタイルが回転、または移動したり、ダークタイルが公開され同じ側面に通常の壁ができた場合、フォースウォールトークンはあなたのサプライに戻されます。
+2)	歩きと浮遊
+あなたは自身の手札からイベントカードをプレイすることで、任意の順序、任意の回数で歩く、または浮遊アクションができます。
+非物質
+レイスは物体である館の化身です。他のプレイヤーロールと違い、レイスは筋力を持たず、下記に示すように、非常に異なったルールを持ちます。
+歩く
+イベントカード1枚をプレイすることで、移動力2を得ます。（レイスはカードに記述された道に従う必要があります）
+歩きは、浮遊のためのスペースを開けるために使用されます。レイスがランプ、ダンシングライト、蜘蛛の巣トークンのあるスペースに入った時、効果無くトークンを取り除けます。レイスが他プレイヤーピースのいるスペースに入る時、次の効果を適用します。
 
 
-► Paladin:You move the Paladin to an adjacent space. If he cannot move, he loses 3 Grit.
-► Skeleton:The Skeleton scatters.
-► Spider:The Spider must move to an adjacent space.
-► Egg:Move it to an adjacent space that is unoccupied except for other Spider pieces.
-► Poltergeist:Remove it from the board.
-► Enchanter:The Enchanter scatters.
-► Treasure:Move it to an adjacent space.
+•	パラディン：あなたは隣接スペースにパラディンを強制移動させます。パラディンが移動できない場合、3経験値失わせます。
+•	スケルトン：スケルトンは離散します。
+•	スパイダー：スパイダーは隣接スペースに移動しなければなりません。
+•	卵：他のスパイダーピースを除いて、未占領の隣接スペースに卵を移動させます。
+•	ポルターガイスト：ボードからそれを取り除きます。
+•	エンチャンター：エンチャンターは離散します。
+•	トレジャー隣接スペースにトレジャーを移動します。
 Fly
-Play an Event card to fly the Wraith in the path shown on the card. You can start the path from either end shown on the card. The Wraith can only fly into unoccupied Lit tiles, and it cannot cross walls.
-If you fly the complete pattern shown on the card, increase your Mold as listed on the card. Place the Wraith piece and a Poltergeist in the final space shown on the path.
-You win if you have 15 Mold.
-You may Fly multiple times in a turn as long, as you can obey all the restrictions listed.
-3)	Draw Events & Place Treasures
-Draw 1 Event card per Omen assigned to Events. Your hand size is unlimited.
-Then, place Treasure tokens on unoccupied Dark tiles, based on your assigned Omens (as indicated on your player board).
-If your deck runs out of Event cards, shuffle the Event discard pile and continue drawing. (If your discard pile is also empty, you cannot draw Event cards.)
-4)	Gain Omens
-Set the number of Omens you gain next turn based on the number of Poltergeists on the board (as indicated on your player board)
+イベントカード1枚をプレイすることで、カードに示される道に従い浮遊します。カードに示される道の、いずれかの端から浮遊を開始できます。レイスは未占領のライトタイルにのみ浮遊でき、壁を通り抜けられません。
+カードに示される浮遊のパターンを完了できた場合、カードに示されるだけのモールドが上昇します。レイスピースとポルターガイス1体を、道に示された最後のスペースに配置します。
+あなたはモールド15を持っている場合に勝利します。
+記述された全ての条件に従う限り、ターン内で複数回、浮遊できます。
+3)	イベントカードのドローとトレジャーの配置
+イベントに割りてられた前兆トークンごとに、イベントカード1枚をドローします。手札上限はありません。
+その後、このターンで割り当てた前兆トークンの数に従い、（プレイヤーボードに記述されるように）未占領のダークタイルにトレジャートークンを配置していきます。
+イベントデッキを使い果たした場合、イベントカードの捨て札山をシャッフルし、カードのドローを続けます。（あなたの捨て札山が空であった場合、それ以上のイベントカードのドローはできません）
+4)	前兆トークンを得る
+ボード上のポルターガイスト数に従い、次のターン得られる前兆トークンの数をセットします。（プレイヤーボードに記述されています）
 
