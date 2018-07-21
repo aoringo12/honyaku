@@ -10931,6 +10931,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Woodland Alliance, you work to gain the sympathy of the oppressed forest creatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054018Z" creationid="nakahodo" creationdate="20180721T054018Z">
+        <seg>ウッドランド連合は、ウッドランドの抑制されてきた生き物たちの賛同を得るために活動している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the attacker, they take the higher result.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T045210Z" creationid="nakahodo" creationdate="20180701T045158Z">
@@ -16989,6 +16997,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t be afraid to set up chokepoints, as you are experts in Guerrilla War:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054725Z" creationid="nakahodo" creationdate="20180721T054725Z">
+        <seg>あなたはゲリラ戦の専門家であるので、敵の移動を阻害する関所のような場所を作ることを恐れてはならない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t be dismayed if play is interrupted to explain the finer points of battling or crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T211535Z" creationid="nakahodo" creationdate="20180630T211535Z">
@@ -19259,6 +19275,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time you place a sympathy token on the map, you score points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054032Z" creationid="nakahodo" creationdate="20180721T054032Z">
+        <seg>あなたがマップに賛同トークンを配置するたびに、勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time you take a hit, you must remove one of your warriors from the affected clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T150943Z" creationid="aorin" creationdate="20171215T150943Z">
@@ -20797,6 +20821,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill your Sympathy track with your sympathy tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T053926Z" creationid="nakahodo" creationdate="20180721T053926Z">
+        <seg>賛同トークンで賛同トラックを満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final scoring is performed in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032745Z" creationid="aorin" creationdate="20171213T032745Z">
@@ -21193,6 +21225,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T152222Z" creationid="nakahodo" creationdate="20180702T152222Z">
         <seg>朝フェイズ開始時、アイテムトラックの表向きTごとに未破損アイテムを表替えします。その後、さらに3つの未破損アイテムを表替えします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip your board and draw 3 cards and add them to your supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T053847Z" creationid="nakahodo" creationdate="20180721T053847Z">
+        <seg>あなたのボードを返し、共通デッキからカード3枚をドローし、支援者にそれらを追加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38021,6 +38061,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your bases on their matching spaces in the Bases box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T053913Z" creationid="nakahodo" creationdate="20180721T053913Z">
+        <seg>基地ボックスの一致するスペースに基地を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your character pawn in any forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073418Z" creationid="nakahodo" creationdate="20180630T073411Z">
@@ -38819,6 +38867,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T074539Z" creationid="nakahodo" creationdate="20180311T074505Z">
         <seg>プログラムカードをプレイする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Playing the Alliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T053932Z" creationid="nakahodo" creationdate="20180721T053932Z">
+        <seg>連合のプレイング</seg>
       </tuv>
     </tu>
     <tu>
@@ -53688,6 +53744,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To gain sympathy, though, you will need supporters—cards placed on your faction board—matching the clearings where you want sympathy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054236Z" creationid="nakahodo" creationdate="20180721T054236Z">
+        <seg>賛同者を得るには、それを望む区域に一致するスート支援者（あなたの派閥ボードに配置されたカード）が必要になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To keep the village growing at a steady pace, follow these steps once per each inactive charter with at least 1 open plot (any order):</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T054357Z" creationid="nakahodo" creationdate="20171224T234631Z">
@@ -58412,6 +58476,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While you can add your own cards to your supporters, you can goad your enemies into doing the same by provoking Outrage:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054422Z" creationid="nakahodo" creationdate="20180721T054422Z">
+        <seg>あなたは自身のカードを支援者として追加でき、激怒を引き起こすことにより同じことを敵に強要することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whinnnny.”</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T071319Z" creationid="nakahodo" creationdate="20180413T071319Z">
@@ -62924,6 +62996,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>e more sympathy tokens on the map, the more points you score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054059Z" creationid="nakahodo" creationdate="20180721T054059Z">
+        <seg>マップ上に賛同トークンが多くなると、さらに多くの勝利点を得点できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e more trade posts in clearings of the same suit, the more points they score.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T075647Z" creationid="nakahodo" creationdate="20180720T075647Z">
@@ -63878,10 +63958,26 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>when defending in battle, you use the higher die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054744Z" creationid="nakahodo" creationdate="20180721T054744Z">
+        <seg>戦闘でディフェンダーになる時、あなたはダイスの高い出目を使用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>when you use the Junkyard, discard all face-up cards on the advancement mat, then gain 1 of those newly revealed cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T053202Z" creationid="aorin" creationdate="20171228T235116Z">
         <seg>あなたがジャンクヤードを使用するとき、発展マットの表向きのカードを全て捨て札にして、その後、新しくカードらを公開してそこから1枚得ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whenever another faction removes sympathy or moves warriors into a sympathetic clearing, they must add one of their own cards to your supporters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T054545Z" creationid="nakahodo" creationdate="20180721T054545Z">
+        <seg>他派閥が賛同者トークンを取り除くか、賛同区域に敵戦士たちが移動してくるたびに、そのプレイヤーはあなたの支援者スタックにカードを追加する必要がある。</seg>
       </tuv>
     </tu>
     <tu>
