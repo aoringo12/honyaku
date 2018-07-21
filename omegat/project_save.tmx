@@ -38125,6 +38125,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your pawn in any forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060550Z" creationid="nakahodo" creationdate="20180721T060550Z">
+        <seg>任意の森にあなたのポーンを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your persona card, constructed building card, 2 workers, and 12 influence tokens in front of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180101T204730Z" creationid="nakahodo" creationdate="20171218T145840Z">
@@ -40945,6 +40953,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return the rest to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060515Z" creationid="nakahodo" creationdate="20180721T060515Z">
+        <seg>残りをボックスに戻す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reveal 1 completed objective card</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T093850Z" creationid="nakahodo" creationdate="20180209T093850Z">
@@ -43032,6 +43048,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065629Z" creationid="nakahodo" creationdate="20180601T065629Z">
         <seg>神殿：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuffl e your quest deck, draw 3 quests, and place them face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060643Z" creationid="nakahodo" creationdate="20180721T060551Z">
+        <seg>あなたのクエストデッキをシャッフルし、3枚ドローし、表向きでそれらを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45345,6 +45369,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195620Z" creationid="nakahodo" creationdate="20180629T195535Z">
         <seg>移動1回を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the 4 ruins from the map, and take the B, M,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T060756Z" creationid="nakahodo" creationdate="20180721T060756Z">
+        <seg>マップから遺跡4つ取り、遺跡アイテムであるBMHSを取る（”R”でマークされている）。</seg>
       </tuv>
     </tu>
     <tu>
