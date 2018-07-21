@@ -25166,6 +25166,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I deal one hit, so this removes one Eyrie warrior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T101020Z" creationid="nakahodo" creationdate="20180721T101020Z">
+        <seg>私は1ヒット与えたので、鷲戦士1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I didn't know you'd be so nice, though!</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222542Z" creationid="aorin" creationdate="20171231T222542Z">
@@ -25266,6 +25274,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T100749Z" creationid="nakahodo" creationdate="20180721T100749Z">
         <seg>私はダイスをロールし、1と0と出ました。私がアタッカーなので、高い出目を私が使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I score a point because they’re Hostile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T101046Z" creationid="nakahodo" creationdate="20180721T101046Z">
+        <seg>彼との関係は敵対なので、私は1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54906,6 +54922,14 @@ Chris Blend first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T191904Z" creationid="nakahodo" creationdate="20180630T191904Z">
         <seg>ターン1では、次のコンセプトについて説明します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn 2 introduces these concepts:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102623Z" creationid="nakahodo" creationdate="20180721T102623Z">
+        <seg>ターン2では、次のコンセプトについて説明します：</seg>
       </tuv>
     </tu>
     <tu>
