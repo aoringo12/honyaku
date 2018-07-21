@@ -16144,6 +16144,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Daylight, Quest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105903Z" creationid="nakahodo" creationdate="20180721T105903Z">
+        <seg>昼、クエスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daylight, Strike.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T095231Z" creationid="nakahodo" creationdate="20180721T095231Z">
@@ -24852,6 +24860,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, now I’ve got six cards in my hand, so I need to discard one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T110035Z" creationid="nakahodo" creationdate="20180721T110035Z">
+        <seg>しかし今、私は手札にカード6枚ありますので、1枚を捨て札にしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the Cave and the Ghost cannot collect or carry Artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180407T233814Z" creationid="aorin" creationdate="20180407T233814Z">
@@ -25278,6 +25294,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I exhaust my boot and tea to claim a quest, the fox Errand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105929Z" creationid="nakahodo" creationdate="20180721T105929Z">
+        <seg>私はブーツとティーを消耗させることで、fox Errandクエストを宣言します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I exhaust my crossbow to remove an Eyrie warrior, which moves our relationship to Hostile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T095807Z" creationid="nakahodo" creationdate="20180721T095715Z">
@@ -25290,6 +25314,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T100705Z" creationid="nakahodo" creationdate="20180721T100705Z">
         <seg>自分の剣1つを消耗して、鷲と戦闘します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I exhaust my torch and take the item from the ruin and score a point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105822Z" creationid="nakahodo" creationdate="20180721T105822Z">
+        <seg>私は自身のトーチを消耗し、遺跡からアイテムを鳥、1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25378,6 +25410,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192317Z" creationid="nakahodo" creationdate="20180630T192016Z">
         <seg>私は自分の製材所に木材を1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I remove the ruin from the slot, opening it up for a later building.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105857Z" creationid="nakahodo" creationdate="20180721T105857Z">
+        <seg>スロットから遺跡を取り除き、そこを空きにして建物が建てられるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31613,6 +31653,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of scoring the quest, I’ll draw two cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T110002Z" creationid="nakahodo" creationdate="20180721T110002Z">
+        <seg>クエストを得点する代わりに、私はカード2枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of spending attack points, your Attack remains constant throughout your turn, except for temporary bonuses that you add by spending Boost dice and using the effects of the Hunt Terror card.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T090201Z" creationid="aorin" creationdate="20180410T090201Z">
@@ -34408,6 +34456,14 @@ Corporate HQ and Tiebreakers.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T075944Z" creationid="nakahodo" creationdate="20180413T075944Z">
         <seg>こっちへ――そっちじゃない”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My exhausted tea moves to my Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105946Z" creationid="nakahodo" creationdate="20180721T105946Z">
+        <seg>自身のカバンに消耗させたティーを移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51868,6 +51924,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then I draw a new quest to put out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T110017Z" creationid="nakahodo" creationdate="20180721T110017Z">
+        <seg>その後、新しいクエストカード1枚をドローし、そこに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then I draw two cards instead of one because I have a base now.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T105700Z" creationid="nakahodo" creationdate="20180721T105700Z">
@@ -59172,8 +59236,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Which to choose…</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T102043Z" creationid="nakahodo" creationdate="20180719T102043Z">
-        <seg>Which to choose…</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T110053Z" creationid="nakahodo" creationdate="20180719T102043Z">
+        <seg>選択して捨て札にします……。</seg>
       </tuv>
     </tu>
     <tu>
