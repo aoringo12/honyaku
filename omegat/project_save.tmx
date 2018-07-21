@@ -8220,6 +8220,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A revolt removes all enemy pieces in the clearing, so the Marquise warrior says goodbye.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104911Z" creationid="nakahodo" creationdate="20180721T104813Z">
+        <seg>反乱は区画の敵ピース全てを取り除くので、マルキスの戦士たちとさよならします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A river runs through some clearings.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T213818Z">
@@ -13043,6 +13051,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Birdsong, Refresh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105706Z" creationid="nakahodo" creationdate="20180721T105706Z">
+        <seg>朝、リフレッシュ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Birdsong, Revolt.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T104535Z" creationid="nakahodo" creationdate="20180721T104535Z">
@@ -16100,6 +16116,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T193013Z" creationid="nakahodo" creationdate="20180630T193013Z">
         <seg>昼フェイズ、法令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daylight, Explore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105801Z" creationid="nakahodo" creationdate="20180721T105801Z">
+        <seg>昼、探索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25190,6 +25214,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I add both of my cards to my Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105602Z" creationid="nakahodo" creationdate="20180721T105555Z">
+        <seg>支援者スタックに私の手札カード両方を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I add my other two cards to my Supporters stack.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T094100Z" creationid="nakahodo" creationdate="20180721T094100Z">
@@ -25274,6 +25306,30 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T212417Z" creationid="aorin" creationdate="20171231T212417Z">
         <seg>私は失敗した。もう王を殺せない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I flip all my items face up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105741Z" creationid="nakahodo" creationdate="20180721T105741Z">
+        <seg>自身のアイテム全てを表向きに返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have one officer, so I’ll recruit, placing a warrior at my base.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105635Z" creationid="nakahodo" creationdate="20180721T105635Z">
+        <seg>私は将校1体を持ちますので、雇用を行い、自身の基地に戦士1体を配置します。③</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have tea, so I get to refresh five items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105725Z" creationid="nakahodo" creationdate="20180721T105725Z">
+        <seg>私はティーを持ちますので、アイテム5つをリフレッシュできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25392,8 +25448,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>I spend two bird supporters to revolt in the fox clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104615Z" creationid="nakahodo" creationdate="20180721T104615Z">
-        <seg>鳥支援者カード2枚を消費することで、キツネ区画で反乱を起こします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T104951Z" creationid="nakahodo" creationdate="20180721T104615Z">
+        <seg>鳥支援者カード2枚を消費することで、キツネ区画で反乱を起こします。①</seg>
       </tuv>
     </tu>
     <tu>
@@ -32211,6 +32267,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T094426Z" creationid="nakahodo" creationdate="20180721T094426Z">
         <seg>私は中央キツネ区画にスリップにて移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll slip into the fox clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105755Z" creationid="nakahodo" creationdate="20180721T105755Z">
+        <seg>私はキツネ区画にスリップにて移動します。①</seg>
       </tuv>
     </tu>
     <tu>
@@ -51804,6 +51868,14 @@ positive part of the score track is difficult!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then I draw two cards instead of one because I have a base now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105700Z" creationid="nakahodo" creationdate="20180721T105700Z">
+        <seg>その後、私は基地1つを持っていますので、1枚ではなくカード2枚をドローします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then I move two warriors north to the fox clearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T103339Z" creationid="nakahodo" creationdate="20180721T103234Z">
@@ -51816,6 +51888,14 @@ positive part of the score track is difficult!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T103045Z" creationid="nakahodo" creationdate="20180721T103045Z">
         <seg>その後、自身の雇用所に戦士1体を配置します。①</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then I spend a mouse supporter to put a sympathy in the mouse clearing and score one point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105533Z" creationid="nakahodo" creationdate="20180721T105533Z">
+        <seg>その後、私はネズミ支援者カード1枚を消費することで、ネズミ区画に賛同者トークン1つを配置し、1勝利点を得点します。②</seg>
       </tuv>
     </tu>
     <tu>
@@ -54452,6 +54532,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T143641Z" creationid="nakahodo" creationdate="20171218T143602Z">
         <seg>プレイヤーを不参加にするには、ルール2を参照します（ゲーム2の後に開放されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To finish the revolt, I place one warrior and my fox base in the clearing and then add a warrior to my Officers box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T105255Z" creationid="nakahodo" creationdate="20180721T104813Z">
+        <seg>反乱を完了するするには、この区画にキツネ基地と戦士1体を配置し、その後、私の将校ボックスに戦士1体を追加します。</seg>
       </tuv>
     </tu>
     <tu>
