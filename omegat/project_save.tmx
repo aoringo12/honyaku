@@ -16056,6 +16056,14 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Daylight, Aid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094440Z" creationid="nakahodo" creationdate="20180721T094435Z">
+        <seg>昼、援助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daylight, Crate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T093828Z" creationid="nakahodo" creationdate="20180721T093828Z">
@@ -16076,6 +16084,14 @@ Place the board in the middle of the table.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T094006Z" creationid="nakahodo" creationdate="20180721T094006Z">
         <seg>昼、動員。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daylight, Strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T095231Z" creationid="nakahodo" creationdate="20180721T095231Z">
+        <seg>昼、ストライク。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25146,6 +25162,22 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T210225Z" creationid="aorin" creationdate="20171231T210225Z">
         <seg>私はトンネルを通り逃げ出したんだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I exhaust my crossbow to remove an Eyrie warrior, which moves our relationship to Hostile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T095715Z" creationid="nakahodo" creationdate="20180721T095715Z">
+        <seg>私はクロスボウを消耗させることで、鷲派閥の戦士1体を取り除き、私達の関係性を敵対に移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I exhaust my torch to give a fox card to the Alliance and take their crossbow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094542Z" creationid="nakahodo" creationdate="20180721T094437Z">
+        <seg>私は自身のトーチを消耗することで、連合派閥にキツネカードを与え、彼のクロスボウを貰います。①</seg>
       </tuv>
     </tu>
     <tu>
@@ -35986,6 +36018,14 @@ afford are taken into consideration.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our relationship improves, so I score a point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T095211Z" creationid="nakahodo" creationdate="20180721T095211Z">
+        <seg>私達の関係性は改善されるため、私は1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outrage</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T092547Z" creationid="nakahodo" creationdate="20180720T092547Z">
@@ -45306,8 +45346,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Supporters stack to put a sympathy token in the central fox clearing and score a point.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180721T093821Z" creationid="nakahodo" creationdate="20180721T093821Z">
-        <seg>中央キツネ区画に賛同者トークン1つを配置し、1勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T094613Z" creationid="nakahodo" creationdate="20180721T093821Z">
+        <seg>中央キツネ区画に賛同者トークン1つを配置し、1勝利点を得点します。②</seg>
       </tuv>
     </tu>
     <tu>
