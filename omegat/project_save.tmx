@@ -10923,6 +10923,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Lizard Cult, you cater to those creatures who have been discarded by the other factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070057Z" creationid="nakahodo" creationdate="20180721T070001Z">
+        <seg>リザード・カルトとして、あなたは他派閥たちによって捨て札にされたカードたちへと手を差し伸べる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the Marquise de Cat, you want to turn the Woodland into an industrial and military powerhouse.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T163039Z" creationid="nakahodo" creationdate="20180720T163039Z">
@@ -13564,6 +13572,14 @@ the ranking of the combination, then on the color of the blend.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T230834Z" creationid="aorin" creationdate="20180528T230803Z">
         <seg>通常、カードを捨て札にすることをプレイヤーに強制する効果は、どれを捨て札にするか対象プレイヤーが選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By doing so, you can perform conspiracies in clearings of the Outcast, the suit discarded the most over the prior round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070634Z" creationid="nakahodo" creationdate="20180721T070634Z">
+        <seg>そうするために、あなたは前ラウンドで最も捨て札にされた除け者スートの区画へと策略を実行することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20885,6 +20901,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill your Gardens tracks with matching gardens, except the le  most space of the garden you placed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065955Z" creationid="nakahodo" creationdate="20180721T065955Z">
+        <seg>庭園トラックへと、あなたが配置した庭園の最も左スペースを除いて、一致するように庭園を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill your Roosts track with roosts except for the le  most space.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T180321Z" creationid="nakahodo" creationdate="20180720T180321Z">
@@ -21337,6 +21361,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T180132Z" creationid="nakahodo" creationdate="20180720T180132Z">
         <seg>このボードを返し、リーダーカードスロットに選択肢たリーダーを配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip your board and place your outcast marker, with the Outcast side showing, on any space in the Outcast box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T065921Z" creationid="nakahodo" creationdate="20180721T065921Z">
+        <seg>あなたのボードを返し、除け者ボックスの任意のスペースへと、除け者側を上にして除け者マーカーを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39059,6 +39091,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T180328Z" creationid="nakahodo" creationdate="20180720T180328Z">
         <seg>鷲のプレイング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Playing the Lizard Cult</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070004Z" creationid="nakahodo" creationdate="20180721T070000Z">
+        <seg>リザード・カルトのプレイング</seg>
       </tuv>
     </tu>
     <tu>
@@ -61957,6 +61997,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You score victory points by performing the proper rituals, revealing cards from your hand matching clearings where you have gardens, and discarding cards to complete the rite.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070233Z" creationid="nakahodo" creationdate="20180721T070233Z">
+        <seg>あなたは適切な儀式の実行、庭園を持つ区画に一致するスートのカードを手札から公開する、儀式を完了させるためにカードを捨て札にすることによって、勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should hide your IP tokens behind your screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035139Z" creationid="aorin" creationdate="20180116T035139Z">
@@ -62472,6 +62520,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Hatred of Birds means your bird cards are not wild in your rituals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070705Z" creationid="nakahodo" creationdate="20180721T070705Z">
+        <seg>鳥の憎悪は、儀式に対して鳥カードはワイルドでないことを示す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Influence equals the number of different objects that you can move per turn, and it also equals the total number of spaces that you can move each such object per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180406T180157Z" creationid="aorin" creationdate="20180406T175233Z">
@@ -62700,6 +62756,22 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T073123Z" creationid="aorin" creationdate="20171216T073123Z">
         <seg>あなたの派閥ボードには、黒い矢印で結ばれた多くの協力ボックスで構成される協力チャートがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your gardens spread the news of your dragon lord, drawing throngs of Pilgrims, so you rule a clearing if you have even a single garden there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070840Z" creationid="nakahodo" creationdate="20180721T070840Z">
+        <seg>庭園アハドラゴンロードの啓示を広め、巡礼者が集まりますので、庭園が1つでもあれば、その区画はあなたが支配することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your gentler approach means you cannot battle your foes at fi rst;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070350Z" creationid="nakahodo" creationdate="20180721T070350Z">
+        <seg>穏便であるため、あなたから戦闘をしかけることはできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63312,6 +63384,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T160550Z" creationid="nakahodo" creationdate="20180719T160550Z">
         <seg>ウッドランド連合はマップに賛同者を配置することで得点し、彼らを多くすることでさらに得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e more gardens you have in clearings matching the revealed card, the more points you score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070353Z" creationid="nakahodo" creationdate="20180721T070309Z">
+        <seg>公開いたカードスートに一致する庭園を持つ区画が多いほど、より多くの勝利点を特典できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64098,6 +64178,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T175253Z" creationid="nakahodo" creationdate="20180719T175253Z">
         <seg>鷲は区画の支配でタイの場合に支配者になれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to do so, you must radicalize your followers into acolytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T070456Z" creationid="nakahodo" creationdate="20180721T070456Z">
+        <seg>そうするためには、アコライトへと民衆を改革しなければならない。</seg>
       </tuv>
     </tu>
     <tu>
