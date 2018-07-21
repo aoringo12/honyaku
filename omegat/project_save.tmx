@@ -10931,6 +10931,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Vagabond, you will play all sides of the confl ict, making friends and foes as it suits you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062647Z" creationid="nakahodo" creationdate="20180721T062018Z">
+        <seg>ヴァガボンドとして、あなたは紛争のそれぞれの立場全てにとっての友であり、敵としての役割を演じてプレイすることになるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the Woodland Alliance, you work to gain the sympathy of the oppressed forest creatures.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T054018Z" creationid="nakahodo" creationdate="20180721T054018Z">
@@ -38967,6 +38975,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playing the Vagabond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062018Z" creationid="nakahodo" creationdate="20180721T062018Z">
+        <seg>ヴァガボンドのプレイング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plot Twist lets you place a Ghost tile (of your choice), Dark side up, in a surrounding space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T044750Z" creationid="aorin" creationdate="20180408T044750Z">
@@ -53912,6 +53928,14 @@ the ● side.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move and act eff ectively, you’ll need to manage your satchel of items, expanding your selection by exploring ancient ruins and providing aid to other factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062530Z" creationid="nakahodo" creationdate="20180721T062530Z">
+        <seg>To move and act eff ectively, you’ll need to manage your satchel of items, expanding your selection by exploring ancient ruins and providing aid to other factions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move and act effectively as the Vagabond, you must manage your items, expanding your selection by exploring the Woodland’s ruins and providing aid to other factions.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T151451Z" creationid="nakahodo" creationdate="20180702T151451Z">
@@ -61765,6 +61789,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You score points through your relationships, as you aid friendly factions by giving them cards, and as you grow your infamy with hostile factions by removing their pieces in battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062825Z" creationid="nakahodo" creationdate="20180721T062644Z">
+        <seg>あなたは、他派閥との関係性を通して勝利点を得点する。友好派閥へとカードを与えることで援助して、敵対派閥との戦闘にて彼らのピースを取り除くことによって悪名を轟かせて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should hide your IP tokens behind your screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T035139Z" creationid="aorin" creationdate="20180116T035139Z">
@@ -62637,6 +62669,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T131954Z" creationid="nakahodo" creationdate="20171230T131954Z">
         <seg>あなたの村と人生における最後の戦いのグループの運命は、キャンペーンを通してあなたの選択に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll also score points as you go on quests to spread your good name amongst the creatures of the Woodland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062529Z" creationid="nakahodo" creationdate="20180721T062529Z">
+        <seg>You’ll also score points as you go on quests to spread your good name amongst the creatures of the Woodland.</seg>
       </tuv>
     </tu>
     <tu>
