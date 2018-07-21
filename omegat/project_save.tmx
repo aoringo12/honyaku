@@ -25158,6 +25158,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I battle the Eyrie in the mouse clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102804Z" creationid="nakahodo" creationdate="20180721T102804Z">
+        <seg>私はネズミ区域にいる鷲に戦闘をしかけます。②</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't return what I've taken, but I promise to stop."</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T222605Z" creationid="aorin" creationdate="20171231T222605Z">
@@ -25262,10 +25270,26 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I place a wood at each of my two sawmills.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102702Z" creationid="nakahodo" creationdate="20180721T102702Z">
+        <seg>私は自身の持つ2つの製材所それぞれに、木材1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I place a wood at my sawmill.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T192317Z" creationid="nakahodo" creationdate="20180630T192016Z">
         <seg>私は自分の製材所に木材を1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I roll 2 and 1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102816Z" creationid="nakahodo" creationdate="20180721T102816Z">
+        <seg>私はダイスロールと2と1出しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25290,6 +25314,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T093649Z" creationid="nakahodo" creationdate="20180721T093649Z">
         <seg>私は、自分の支援者スタックのキツネカード1枚を消費することで、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I spend a wood to build a workshop and score two points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102739Z" creationid="nakahodo" creationdate="20180721T102739Z">
+        <seg>作業場1つを建築するために、木材1つを消費して、2勝利点を得点します。①</seg>
       </tuv>
     </tu>
     <tu>
@@ -63784,6 +63816,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T072724Z" creationid="nakahodo" creationdate="20180720T072724Z">
         <seg>彼らは、聖なる庭園を建築し、その後、彼らのドラゴンゴッドのための儀式を行うことで勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>faction special abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T102637Z" creationid="nakahodo" creationdate="20180721T102637Z">
+        <seg>派閥特別アクション。</seg>
       </tuv>
     </tu>
     <tu>
