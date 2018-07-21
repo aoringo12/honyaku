@@ -12875,6 +12875,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Being a Lone Wanderer, you cannot rule a clearing or stop another faction from ruling one, but you are Nimble, so you can move regardless of who rules your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T063326Z" creationid="nakahodo" creationdate="20180721T062906Z">
+        <seg>孤独な放浪者であるあなたは、区画を支配することはできず、他派閥が支配するのを止めることはできない。しかし、あなたは機敏であるので、誰が区画を支配するかに関わらずに移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Believed to be lost forever when Jodbar threw it twelve miles on a dare.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T123630Z" creationid="nakahodo" creationdate="20180430T123530Z">
@@ -42770,6 +42778,22 @@ Place the board in the middle of the table.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setup (E)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T063332Z" creationid="nakahodo" creationdate="20180721T063332Z">
+        <seg>セットアップ（E）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup (G)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T063344Z" creationid="nakahodo" creationdate="20180721T063344Z">
+        <seg>セットアップ（G）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setup 4, MINIONS;</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151446Z" creationid="nakahodo" creationdate="20171230T151432Z">
@@ -53930,8 +53954,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To move and act eff ectively, you’ll need to manage your satchel of items, expanding your selection by exploring ancient ruins and providing aid to other factions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062530Z" creationid="nakahodo" creationdate="20180721T062530Z">
-        <seg>To move and act eff ectively, you’ll need to manage your satchel of items, expanding your selection by exploring ancient ruins and providing aid to other factions.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T063012Z" creationid="nakahodo" creationdate="20180721T062530Z">
+        <seg>効果的に移動と行動を行うために、あなたはカバンのアイテムを管理し、古代遺跡を探索したり他派閥を援助することによってその選択肢を広げていくことになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62675,8 +62699,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You’ll also score points as you go on quests to spread your good name amongst the creatures of the Woodland.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062529Z" creationid="nakahodo" creationdate="20180721T062529Z">
-        <seg>You’ll also score points as you go on quests to spread your good name amongst the creatures of the Woodland.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T062905Z" creationid="nakahodo" creationdate="20180721T062529Z">
+        <seg>あなたはまた、ウッドランドの生き物たちから請け負うクエストを達成することでも勝利点を得点する。</seg>
       </tuv>
     </tu>
     <tu>
