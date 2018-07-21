@@ -25262,6 +25262,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I roll a 1 and 0, and I use the higher roll because I’m the attacker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T100749Z" creationid="nakahodo" creationdate="20180721T100749Z">
+        <seg>私はダイスをロールし、1と0と出ました。私がアタッカーなので、高い出目を私が使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I spend a fox card on my</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T093649Z" creationid="nakahodo" creationdate="20180721T093649Z">
