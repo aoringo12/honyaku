@@ -10923,6 +10923,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Riverfolk Company, you ply the rivers winding through the great Woodland, off ering your services to any faction who can pay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064727Z" creationid="nakahodo" creationdate="20180721T064657Z">
+        <seg>リバーフォークカンパニーとして、あなたは偉大なるウッドランドに流れる川にて、他派閥へ様々なサービスを提供しながら資金を稼いでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the Vagabond improves his relationships with other factions, or removes pieces of factions hostile toward him, he scores victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T151019Z" creationid="nakahodo" creationdate="20180702T151019Z">
@@ -21273,6 +21281,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T162948Z" creationid="nakahodo" creationdate="20180720T162948Z">
         <seg>このボードを裏返し、製材所、作業場、雇用所の建物トラックを、それぞれ最も左スペースを除いて満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip your board and place 3 warriors in your Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064536Z" creationid="nakahodo" creationdate="20180721T064043Z">
+        <seg>あなたのボードを返し、支払いボックスに戦士3体を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36726,6 +36742,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 4 warriors among any clearings along the river.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064518Z" creationid="nakahodo" creationdate="20180721T063756Z">
+        <seg>川に沿う任意の区画らに、戦士を合計で4体配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 4 warriors in the clearing with the keep token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T160643Z" creationid="nakahodo" creationdate="20180720T160643Z">
@@ -38221,10 +38245,26 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your service markers on your Services tracks, setting your starting price for each service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064559Z" creationid="nakahodo" creationdate="20180721T064559Z">
+        <seg>サービストラックにサービスマーカーを配置し、各サービスの開始価格にセットする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your sympathy in clearings where confl ict is likely, and force your opponent to face you!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T055001Z" creationid="nakahodo" creationdate="20180721T054931Z">
         <seg>紛争が起きそうな区画に賛同者トークンを配置し、相手があなたと相対しなければならないようにするのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your trade posts on your matching Trade Posts tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064616Z" creationid="nakahodo" creationdate="20180721T064616Z">
+        <seg>交易所トラックに一致するように交易所を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38979,6 +39019,14 @@ Roasters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T162953Z" creationid="nakahodo" creationdate="20180720T162953Z">
         <seg>マルキスでのプレイング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Playing the Riverfolk Company</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064622Z" creationid="nakahodo" creationdate="20180721T064622Z">
+        <seg>リバーフォークカンパニーのプレイング</seg>
       </tuv>
     </tu>
     <tu>
@@ -45456,6 +45504,14 @@ Slates.</seg>
         <seg>Take the 4 ruins from the map, and take the B, M,</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T060756Z" creationid="nakahodo" creationdate="20180721T060756Z">
+        <seg>マップから遺跡4つ取り、遺跡アイテムであるBMHSを取る（”R”でマークされている）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the 4 ruins from the map, and take the B, M, H, and S ruin items (marked with “R”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064050Z" creationid="nakahodo" creationdate="20180721T064050Z">
         <seg>マップから遺跡4つ取り、遺跡アイテムであるBMHSを取る（”R”でマークされている）。</seg>
       </tuv>
     </tu>
@@ -61817,6 +61873,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T062825Z" creationid="nakahodo" creationdate="20180721T062644Z">
         <seg>あなたは、他派閥との関係性を通して勝利点を得点する。友好派閥へとカードを与えることで援助して、敵対派閥との戦闘にて彼らのピースを取り除くことによって悪名を轟かせて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You score victory points by establishing trade posts throughout the clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180721T064804Z" creationid="nakahodo" creationdate="20180721T064658Z">
+        <seg>あなたは区画へと交易所を確立することで勝利点を得点する。</seg>
       </tuv>
     </tu>
     <tu>
