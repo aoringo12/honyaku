@@ -3877,6 +3877,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 M, 2 B, 1 C, 1 H, 2 S, 2 T, 2 X.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112836Z" creationid="nakahodo" creationdate="20180723T112836Z">
+        <seg>2 M, 2 B, 1 C, 1 H, 2 S, 2 T, 2 X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Mage treasures</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T220322Z" creationid="aorin" creationdate="20180528T220322Z">
@@ -6501,6 +6509,14 @@ look something like the diagram above.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T120029Z" creationid="nakahodo" creationdate="20180629T120029Z">
         <seg>5.1.6	ステップ6：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.1.7 Step 7:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112907Z" creationid="nakahodo" creationdate="20180723T112907Z">
+        <seg>5.1.7	ステップ7：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19464,8 +19480,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player places their score marker on “0” on the score track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103528Z" creationid="nakahodo" creationdate="20180629T120016Z">
-        <seg>各プレイヤは勝利点トラックの「0」に自身の勝利点トラックを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112625Z" creationid="nakahodo" creationdate="20180629T120016Z">
+        <seg>各プレイヤは勝利点トラックの「0」に自身の勝利点マーカーを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19602,6 +19618,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T115754Z" creationid="nakahodo" creationdate="20180629T115754Z">
         <seg>各プレイヤーは自身の派閥ボードと、派閥色のピース全てを受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each player takes their chosen faction board and all pieces, as listed on the back of the faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112613Z" creationid="nakahodo" creationdate="20180723T112613Z">
+        <seg>各プレイヤーは、自身が選択した派閥ボードと、派閥ボード裏に記述されたピース全てを受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22572,6 +22596,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form Item Supply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112748Z" creationid="nakahodo" creationdate="20180723T112748Z">
+        <seg>アイテムサプライを作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form a supply of 10 warriors near you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T185125Z" creationid="nakahodo" creationdate="20180629T185125Z">
@@ -24141,8 +24173,8 @@ and a Research Lab.</seg>
       <tuv lang="EN-US">
         <seg>Hand out the 16 faction overview cards as desired, and place the two custom dice near the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213457Z" creationid="nakahodo" creationdate="20180630T213457Z">
-        <seg>必要に応じて派閥概要カード派閥概要カード16枚を配り、マップ近くにカスタムダイス2つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112853Z" creationid="nakahodo" creationdate="20180630T213457Z">
+        <seg>必要に応じて派閥概要カード16枚を配り、マップ近くにカスタムダイス2つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25278,8 +25310,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>However, to fuel ongoing construction, the Marquise must maintain and protect a strong, interconnected economy of wood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180701T050551Z" creationid="nakahodo" creationdate="20180701T050551Z">
-        <seg>しかし、燃料を供給し続けるために、木材の供給の強固に守り、維持し続ける必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113017Z" creationid="nakahodo" creationdate="20180701T050551Z">
+        <seg>しかし、燃料を供給し続けるために、木材の流通を強固に守り、維持し続ける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29133,6 +29165,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are playing with two players, remove all four dominance cards from the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112651Z" creationid="nakahodo" creationdate="20180723T112651Z">
+        <seg>あなたがプレイヤー2人でゲームをプレイする場合、共通デッキからドミナンスカード4枚全てを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to gain or use components of the possessed player (such as drawing cards), take them from the appropriate deck or supply, not from the player.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T082349Z" creationid="aorin" creationdate="20180409T082342Z">
@@ -31601,6 +31641,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20170924T093421Z" creationid="nakahodo" creationdate="20170924T093421Z">
         <seg>ワールドマップの地域上部にブレンドスレートがゲーム中やセットアップ時に配置されている時、各ブレンドスレートの特別なシンボルはその地域の特定の国に実行しなければならないアクションを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In setup order (A, B, C, etc.), each player follows their faction’s setup instructions, listed in their rules section and on the back of their faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112946Z" creationid="nakahodo" creationdate="20180723T112946Z">
+        <seg>セットアップ順番で（A,B,C）、各プレイヤーは、ルールセクションと自身の派閥ボード裏の記述にある、派閥セットアップ説明に従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37851,8 +37899,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place Score Markers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103517Z" creationid="nakahodo" creationdate="20180629T115931Z">
-        <seg>勝利点トラックを配置する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112619Z" creationid="nakahodo" creationdate="20180629T115931Z">
+        <seg>勝利点マーカーを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38069,6 +38117,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T162331Z">
         <seg>カードスートに一致する森の民がいる、あなたが支配者で、かつ止まり木を持たない任意の区画1つへと、止まり木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a ruin in each slot on the map marked with an “R” (four in total).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112736Z" creationid="nakahodo" creationdate="20180723T112736Z">
+        <seg>マップに”R”が記された各スロットに遺跡1つずつ配置します（合計で4つ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38937,6 +38993,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T071053Z" creationid="nakahodo" creationdate="20180719T071053Z">
         <seg>これら5枚のカードをカードスタンドに並べて、プレイヤーたちが裏側だけ見れるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place these items on the matching spaces of the item supply near the top of the map:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112835Z" creationid="nakahodo" creationdate="20180723T112835Z">
+        <seg>マップ上部近くのアイテムサプライの一致するスペースに、これらアイテムを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48750,6 +48814,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T225855Z" creationid="nakahodo" creationdate="20180630T225855Z">
         <seg>マルキスは作業場を発動することでクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Marquise crafts during Daylight by activating workshops.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113035Z" creationid="nakahodo" creationdate="20180723T113035Z">
+        <seg>マルキスは作業場を発動することにより、昼フェイズ時にクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
