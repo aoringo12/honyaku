@@ -1306,6 +1306,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Tokens and pawns do not contribute to rule.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110259Z" creationid="nakahodo" creationdate="20180723T110259Z">
+        <seg>（トークンは支配に関係しません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Tokens do not contribute to rule.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T095138Z" creationid="nakahodo" creationdate="20180629T095130Z">
@@ -4136,10 +4144,26 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.7 Enemy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110027Z" creationid="nakahodo" creationdate="20180723T110027Z">
+        <seg>2.7	敵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.7 Ruler</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T094903Z" creationid="nakahodo" creationdate="20180629T094903Z">
         <seg>2.7 支配者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.8 Ruler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110226Z" creationid="nakahodo" creationdate="20180723T110226Z">
+        <seg>2.8	支配者</seg>
       </tuv>
     </tu>
     <tu>
@@ -10426,6 +10450,14 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T091324Z" creationid="nakahodo" creationdate="20180411T091324Z">
         <seg>攻撃はクリスタイルタイルのマーキングやトレジャーの収集の前に解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An enemy is any other faction not in a coalition with you (9.2.8).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110221Z" creationid="nakahodo" creationdate="20180723T110221Z">
+        <seg>敵はあなたと同盟ではない他派閥です（9.2.8）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51675,6 +51707,14 @@ plus the desired Location’s cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="aorin" creationdate="20171215T153903Z">
         <seg>区画の支配者は、その区画の建物と戦士の合計を最も所持するプレイヤーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ruler of a clearing is the player with the most total warriors and buildings in that clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110253Z" creationid="nakahodo" creationdate="20180723T110253Z">
+        <seg>区画の支配者は、その区画の戦士と建物の合計で最も多く所持するプレイヤーです。</seg>
       </tuv>
     </tu>
     <tu>
