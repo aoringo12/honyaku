@@ -9294,6 +9294,14 @@ player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advance that faction’s relationship marker one space right on the track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T155735Z" creationid="nakahodo" creationdate="20180723T155735Z">
+        <seg>その派閥の関係性マーカーをトラックの右スペースに1つ進めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advance the progress token 1 space along the progress track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T100920Z" creationid="nakahodo" creationdate="20180108T100920Z">
@@ -26665,8 +26673,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>If a faction’s relationship marker reaches the final space on the Allied track, you are now trusted by the warriors of that faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212837Z" creationid="nakahodo" creationdate="20180629T212837Z">
-        <seg>派閥の関係性マーカーが友好トラックの最終スペースに到達した場合、あなたはその派閥の戦士たちの信頼を得られるようになります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164301Z" creationid="nakahodo" creationdate="20180629T212837Z">
+        <seg>派閥の関係性マーカーが友軍トラックの最終スペースに到達した場合、あなたはその派閥の戦士たちの信頼を得られるようになります。</seg>
       </tuv>
     </tu>
     <tu>
