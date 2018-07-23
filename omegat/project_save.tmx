@@ -5093,6 +5093,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.1 How to Win</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110346Z" creationid="nakahodo" creationdate="20180723T110346Z">
+        <seg>3.1	勝利するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.1.1 Cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T095507Z" creationid="nakahodo" creationdate="20180629T095507Z">
@@ -5129,6 +5137,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T100402Z" creationid="nakahodo" creationdate="20180629T100402Z">
         <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.2 Scoring Victory Points</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110357Z" creationid="nakahodo" creationdate="20180723T110357Z">
+        <seg>3.2	勝利点の得点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18483,6 +18499,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EVL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110341Z" creationid="nakahodo" creationdate="20180723T110341Z">
+        <seg>EVL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXPERT</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T062410Z" creationid="nakahodo" creationdate="20180413T062410Z">
@@ -18858,6 +18882,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T112524Z" creationid="nakahodo" creationdate="20180629T103534Z">
         <seg>各派閥は勝利点を得点するために独自の手段を持ちます。しかし、全ての派閥は次のような結果によって勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction has a unique way to score victory points, but any faction can score victory points as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110430Z" creationid="nakahodo" creationdate="20180723T110430Z">
+        <seg>各派閥は勝利点を得点するために独自の手段を持ちます。しかし、全ての派閥は次によっても勝利点を得点できます。</seg>
       </tuv>
     </tu>
     <tu>
