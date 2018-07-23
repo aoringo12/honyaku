@@ -5117,6 +5117,14 @@ Amulet of Time</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 quest cards, and place them face up near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182217Z" creationid="nakahodo" creationdate="20180723T182217Z">
+        <seg>クエストカード3枚をドローして、あなたの近くに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T133844Z" creationid="nakahodo" creationdate="20180603T133844Z">
@@ -45162,6 +45170,14 @@ the World Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuffle your quest deck, draw</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182215Z" creationid="nakahodo" creationdate="20180723T182206Z">
+        <seg>あなたのクエストカードデッキをシャッフルし、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shuffle your quest deck, draw three quest cards, and place them face up near the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073522Z" creationid="nakahodo" creationdate="20180630T073446Z">
@@ -47259,6 +47275,14 @@ Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T060756Z" creationid="nakahodo" creationdate="20180721T060756Z">
         <seg>マップから遺跡4つ取り、遺跡アイテムであるBMHSを取る（”R”でマークされている）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the 4 ruins from the map, and take the B, M, H, and S items marked with an “R.” Place one beneath each ruin and then shuffle each ruin stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182438Z" creationid="nakahodo" creationdate="20180723T182438Z">
+        <seg>マップから遺跡4つを取り、マップに”R”とマークされているBMHSアイテムを取ります。各遺跡の下にアイテムをそれぞれ1つずつ配置し、その後、それらをシャッフルします。</seg>
       </tuv>
     </tu>
     <tu>
