@@ -48089,8 +48089,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Eyrie rule a clearing when tied for most combined warriors and buildings there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T153440Z">
-        <seg>鷲は、戦士と建物による合計数でトップタイであった時に、その区画の支配者となります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140339Z" creationid="nakahodo" creationdate="20180629T153440Z">
+        <seg>鷲は、区画の支配をする際に、戦士と建物による合計数でタイであった時、その区画の支配者となります。</seg>
       </tuv>
     </tu>
     <tu>
