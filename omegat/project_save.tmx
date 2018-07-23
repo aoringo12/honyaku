@@ -2689,6 +2689,14 @@ board.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 roost and 6 warriors in the corner clearing diagonally opposite from the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140505Z" creationid="nakahodo" creationdate="20180723T140505Z">
+        <seg>キープトークンが配置された区画から対角端の区画に止まり木1つと戦士6体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 workshop, and 1 recruiter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T113417Z" creationid="nakahodo" creationdate="20180723T113417Z">
@@ -6871,6 +6879,14 @@ KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153913Z" creationid="nakahodo" creationdate="20180629T153913Z">
         <seg>7.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.3 Faction Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140415Z" creationid="nakahodo" creationdate="20180723T140415Z">
+        <seg>7.3	派閥のセットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14859,6 +14875,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose 1 of the 4 Eyrie leader cards and place it in your Leader Card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140551Z" creationid="nakahodo" creationdate="20180723T140551Z">
+        <seg>リーダーカード4枚のうち1枚を選択し、リーダーカードスロットに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose 2 tiles on the board within the listed number of spaces from each other.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T183739Z" creationid="nakahodo" creationdate="20180604T183608Z">
@@ -22742,8 +22766,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>Form a supply of 20 warriors near you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153940Z" creationid="nakahodo" creationdate="20180629T153940Z">
-        <seg>あなたの近くに20戦士のサプライを作ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140426Z" creationid="nakahodo" creationdate="20180629T153940Z">
+        <seg>あなたの近くに戦士20体のサプライを作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27916,6 +27940,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T172705Z" creationid="nakahodo" creationdate="20180720T172705Z">
         <seg>マルキスがゲームに居ない場合、マップの角1つをあなたが選択してピースと止まり木を配置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Marquise is not playing, place those pieces in the corner clearing of your choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140515Z" creationid="nakahodo" creationdate="20180723T140515Z">
+        <seg>マルキスがゲームに居ない場合、マップの角区画1つをあなたが選択してピースと止まり木を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45949,6 +45981,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stack the remaining leaders face up near you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140618Z" creationid="nakahodo" creationdate="20180723T140618Z">
+        <seg>残ったリーダーカードはあなたの近くに表向きでまとめておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stalk the woods as the Vagabond, seize the initiative with the Eyrie birds of prey, rule over your subjects as the Marquise de Cat, or command the Woodland Alliance to create a new order.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T131559Z" creationid="aorin" creationdate="20171215T131321Z">
@@ -55920,8 +55960,8 @@ Chris Blend first.</seg>
       <tuv lang="EN-US">
         <seg>Tuck Viziers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T155754Z" creationid="nakahodo" creationdate="20180629T155714Z">
-        <seg>大臣を差し込む。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140706Z" creationid="nakahodo" creationdate="20180629T155714Z">
+        <seg>Viziersを差し込む。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59204,8 +59244,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever the Eyrie craft an item, they ignore the listed victory points and instead score only one victory point.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T153808Z" creationid="nakahodo" creationdate="20180629T153808Z">
-        <seg>鷲がアイテム1つをクラフトするたびに、そこに記述された勝利点を無視し、1勝利点のみを得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140411Z" creationid="nakahodo" creationdate="20180629T153808Z">
+        <seg>鷲がアイテム1つをクラフトするたびに、カードに記述された勝利点を無視し、1勝利点のみを得点します。</seg>
       </tuv>
     </tu>
     <tu>
