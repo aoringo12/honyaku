@@ -358,6 +358,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A given Aid action counts toward only one improvement in relationship.) b Effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T155701Z" creationid="nakahodo" creationdate="20180723T155701Z">
+        <seg>（1回の援助アクションは、関係性を1つ改善するためにのみカウントされます）
+b	効果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(All Dark tiles are provided by the Cave player, if present.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T201523Z" creationid="nakahodo" creationdate="20180411T201440Z">
@@ -10135,8 +10144,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>Aid a non-Hostile faction the number of times listed between their current Allied space and their next Allied space during the same turn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T212415Z" creationid="nakahodo" creationdate="20180629T212415Z">
-        <seg>対象派閥への援助は、対象派閥が現在いる友好スペースと次の友好スペース間に記述された数だけ、1つのターン間で行います。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T155529Z" creationid="nakahodo" creationdate="20180629T212415Z">
+        <seg>現在の友軍スペースと次の友軍スペースの間に記述された回数、敵対ではない派閥を同じターン間で援助します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32873,8 +32882,8 @@ returned to the general supply (see page 18).</seg>
       <tuv lang="EN-US">
         <seg>It holds a relationship marker from each non-Vagabond faction in play.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154622Z" creationid="nakahodo" creationdate="20180723T154622Z">
-        <seg>このチャートはゲームをプレイしているヴァガボンド以外の派閥の関係性マーカー1つずつを保持します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154716Z" creationid="nakahodo" creationdate="20180723T154622Z">
+        <seg>ここにはプレイに参加している、ヴァガボンドではない派閥から、関係性マーカー1つずつを保持しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61471,8 +61480,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can improve a relationship with a non-Hostile faction by taking the Aid action.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T211656Z" creationid="nakahodo" creationdate="20180629T211656Z">
-        <seg>援助アクションを実行することで、敵対していない派閥との関係性を1段階改善できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154942Z" creationid="nakahodo" creationdate="20180629T211656Z">
+        <seg>援助アクションを実行することで、敵対していない派閥との関係性を改善できます。</seg>
       </tuv>
     </tu>
     <tu>
