@@ -41917,6 +41917,14 @@ the game box.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove all enemy pieces in the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150205Z" creationid="nakahodo" creationdate="20180723T150205Z">
+        <seg>選択した区画の敵ピース全てを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove all enemy pieces there and place the matching base.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T102420Z" creationid="nakahodo" creationdate="20180702T102420Z">
@@ -46024,6 +46032,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T192351Z">
         <seg>選択した区画にいる森の民に一致する支援者カード2枚を消費します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two supporters matching the suit of the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150143Z" creationid="nakahodo" creationdate="20180723T150143Z">
+        <seg>選択した区画のスートに一致する、支援者カード2枚を消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53346,6 +53362,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T193212Z" creationid="nakahodo" creationdate="20180629T193049Z">
         <seg>その後、その区画に一致する基地を配置し、マップ上にある賛同区画同じ民の数と等しいだけおこに戦士を配置します。例えば、対象区画の民がネズミで、マップ上にネズミの民の賛同区画を3つを合計で持っている場合、対象区画には戦士3体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, place the base matching the clearing there, and place warriors there equal to the number of sympathetic clearings matching the base’s suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150306Z" creationid="nakahodo" creationdate="20180723T150306Z">
+        <seg>その後、その区画に一致するスートの基地を配置し、マップ上にある同じスートの賛同区画の数と等しいだけ、戦士ををこに配置します。例えば、対象区画のスートがネズミで、マップ上にネズミの民の賛同区画を3つを合計で持っている場合、対象区画には戦士3体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
