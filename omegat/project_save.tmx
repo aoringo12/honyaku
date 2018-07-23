@@ -29870,6 +29870,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cause Outrage (8.2.6) by moving or battling with Allied warriors, you give the matching card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165835Z" creationid="nakahodo" creationdate="20180723T165835Z">
+        <seg>あなたが友軍戦士たちと共に移動したり戦闘することによって奮起した場合（8.2.6）、その友軍に一致するスートのカードを渡します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you choose to include the Automa system, we recommend using 2 Automas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T085836Z" creationid="nakahodo" creationdate="20180108T085836Z">
@@ -30170,6 +30178,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072211Z" creationid="nakahodo" creationdate="20180630T072211Z">
         <seg>あなたが敵対していない派閥の戦士を取り除いた場合、その派閥の関係性マーカーを直ちに敵対ボックスに移動し、その派閥と敵対状態となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you ever remove a warrior of a non-Hostile faction, their relationship marker immediately moves to the Hostile box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165907Z" creationid="nakahodo" creationdate="20180723T165907Z">
+        <seg>あなたが敵対していない派閥の戦士1体を取り除いた場合、対象派閥の関係性マーカーを直ちに敵対ボックスに移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55438,8 +55454,8 @@ here.</seg>
       <tuv lang="EN-US">
         <seg>This rule overrides the condition for becoming Hostile in 9.2.9.III.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165542Z" creationid="nakahodo" creationdate="20180723T165542Z">
-        <seg>This rule overrides the condition for becoming Hostile in 9.2.9.III.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165622Z" creationid="nakahodo" creationdate="20180723T165542Z">
+        <seg>このルールは9.2.9.IIIの敵対状態になる条件を上書きします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65393,6 +65409,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T203540Z" creationid="nakahodo" creationdate="20180703T203540Z">
         <seg>マルキスが支配していますので、リバーフォークはマルキス資金2つを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e Outrage with Ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165649Z" creationid="nakahodo" creationdate="20180723T165649Z">
+        <seg>e	友軍と共に奮起する。</seg>
       </tuv>
     </tu>
     <tu>
