@@ -47423,6 +47423,14 @@ Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the items marked with “S” listed on your character card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182539Z" creationid="nakahodo" creationdate="20180723T182539Z">
+        <seg>あなたのキャラクターカードに記述された、”S”でマークされたアイテムを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the leftmost Special Offering Tile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T143002Z" creationid="nakahodo" creationdate="20171213T143002Z">
@@ -53684,6 +53692,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002051Z" creationid="aorin" creationdate="20171216T002051Z">
         <seg>その後、法令を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, return each stack to an empty ruin slot on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182458Z" creationid="nakahodo" creationdate="20180723T182458Z">
+        <seg>マップの空き遺跡スロットに各遺跡セットを戻します。</seg>
       </tuv>
     </tu>
     <tu>
