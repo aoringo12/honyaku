@@ -6778,6 +6778,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.5.5 Overwork.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114329Z" creationid="nakahodo" creationdate="20180723T114329Z">
+        <seg>6.5.5	残業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.6 Evening</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T150622Z" creationid="nakahodo" creationdate="20180629T150622Z">
@@ -6823,6 +6831,14 @@ KEYWORDS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153257Z" creationid="nakahodo" creationdate="20180629T153257Z">
         <seg>7.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.2 Faction Rules and Abilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114533Z" creationid="nakahodo" creationdate="20180723T114533Z">
+        <seg>7.2	派閥ルールと能力</seg>
       </tuv>
     </tu>
     <tu>
@@ -18509,8 +18525,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During their Evening, the Eyrie score victory points based on the number of roosts on the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T152742Z" creationid="nakahodo" creationdate="20180629T151527Z">
-        <seg>自身の夜時、鷲はマップ上にある止まり木の数に基づいて勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114509Z" creationid="nakahodo" creationdate="20180629T151527Z">
+        <seg>自身の夜フェイズ時、鷲はマップ上にある止まり木の数に基づいて勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21166,8 +21182,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Eyrie Dynasties</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150849Z" creationid="nakahodo" creationdate="20180629T150849Z">
-        <seg>遥か頂きの王族</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114446Z" creationid="nakahodo" creationdate="20180629T150849Z">
+        <seg>鷲の王族</seg>
       </tuv>
     </tu>
     <tu>
@@ -25340,6 +25356,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Eyrie are bound by their Decree, an ever- increasing set of mandated actions promised by their leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114519Z" creationid="nakahodo" creationdate="20180723T114519Z">
+        <seg>しかし、鷲は法令に縛り付けられており、彼らのリーダーによって強制されるアクションのセットは増え続けていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the Eyrie are bound by their Decree, an ever-increasing set of mandated actions promised by their leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T153111Z" creationid="nakahodo" creationdate="20180629T153111Z">
@@ -26144,8 +26168,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>III Place Building and Score.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150159Z" creationid="nakahodo" creationdate="20180629T145549Z">
-        <seg>III	建物と得点の配置。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114230Z" creationid="nakahodo" creationdate="20180629T145549Z">
+        <seg>III	建物の配置と得点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38885,8 +38909,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the chosen building on the chosen clearing, and score the victory points revealed on the space under the building removed from your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T150356Z">
-        <seg>最後に、選択した区画に建物を配置し、自身の派閥ボードから取り除いた建物があったスペースに記述された勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114319Z" creationid="nakahodo" creationdate="20180629T150356Z">
+        <seg>最後に、選択した区画に建物を配置し、自身の派閥ボードの、取り除いた建物があったスペースに記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45510,8 +45534,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend a card matching the clearing of a sawmill, and place a wood token there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T150614Z">
-        <seg>製材所の区画1つに一致するカード1枚を消費して、そこに木材トークン1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114420Z" creationid="nakahodo" creationdate="20180629T150614Z">
+        <seg>区画のスートに一致するカード1枚を消費して、そこにある製材所1つに木材トークン1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47983,6 +48007,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Eyrie Dynasties wish to restore their oncedignified kind to their former glory in the Woodland by retaking control of the forest clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114503Z" creationid="nakahodo" creationdate="20180723T114503Z">
+        <seg>鷲の王族は、森の支配権を取り戻すことにより、ウッドランドでかつて栄光を極めた威厳ある一族としての復権を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Eyrie are the Lords of the Forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T055121Z" creationid="nakahodo" creationdate="20180701T055121Z">
@@ -48003,6 +48035,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T050424Z" creationid="nakahodo" creationdate="20180701T050424Z">
         <seg>鷲はアンブッシュに対処できませんでした。なので、戦士2体を取り除く必要があり、彼のサプライに戻されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Eyrie craft before resolving the Decree during Daylight by activating roosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114609Z" creationid="nakahodo" creationdate="20180723T114609Z">
+        <seg>鷲は昼フェイズ時に法令を解決する前に、止まり木を発動することによりクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
