@@ -5149,6 +5149,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.2.1 Removing Buildings and Tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110526Z" creationid="nakahodo" creationdate="20180723T110526Z">
+        <seg>3.2.1	建物やトークンを取り除く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.2.1 You Must Rule.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T100530Z" creationid="nakahodo" creationdate="20180629T100530Z">
@@ -5165,10 +5173,34 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.2.2 Crafting Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110721Z" creationid="nakahodo" creationdate="20180723T110721Z">
+        <seg>3.2.2	アイテムをクラフトする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.3</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T101013Z" creationid="nakahodo" creationdate="20180629T101013Z">
         <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.3 Dominance Cards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110736Z" creationid="nakahodo" creationdate="20180723T110736Z">
+        <seg>3.3	ドミナンスカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.3.1 Activating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110833Z" creationid="nakahodo" creationdate="20180723T110811Z">
+        <seg>3.3.1	発動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5181,6 +5213,14 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.3.2 Activated Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110936Z" creationid="nakahodo" creationdate="20180723T110936Z">
+        <seg>3.3.2	発動したカード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.3.2 Step 2:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T101749Z" creationid="nakahodo" creationdate="20180629T101749Z">
@@ -5189,10 +5229,26 @@ Collect all Possession cards except the card (if any) on your Mental Block space
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.3.3 Spending for Suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110953Z" creationid="nakahodo" creationdate="20180723T110953Z">
+        <seg>3.3.3	スートとして消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.3.3 Step 3:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073444Z" creationid="nakahodo" creationdate="20180629T103230Z">
         <seg>3.3.3	ステップ3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.3.4 Taking Available Cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111013Z" creationid="nakahodo" creationdate="20180723T111013Z">
+        <seg>3.3.4	利用可能なカード。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,10 +6021,50 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.1 Craft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111032Z" creationid="nakahodo" creationdate="20180723T111032Z">
+        <seg>4.1	クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.1 How to Win</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103508Z" creationid="nakahodo" creationdate="20180629T103508Z">
         <seg>4.1	勝利するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.1.1 Cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111131Z" creationid="nakahodo" creationdate="20180723T111125Z">
+        <seg>4.1.1	コスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.1.2 Immediate Effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111307Z" creationid="nakahodo" creationdate="20180723T111307Z">
+        <seg>4.1.2	即時効果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.1.3 Persistent Effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111432Z" creationid="nakahodo" creationdate="20180723T111427Z">
+        <seg>4.1.3	永続効果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.1.4 No Duplicates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111514Z" creationid="nakahodo" creationdate="20180723T111514Z">
+        <seg>4.1.4	重複しない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,8 +8026,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A dominance card can be spent for its suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113704Z" creationid="nakahodo" creationdate="20180629T113704Z">
-        <seg>ドミナンスカードはそのスートとして消費できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110959Z" creationid="nakahodo" creationdate="20180629T113704Z">
+        <seg>ドミナンスカードはそのスートのカードとして消費できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8392,6 +8488,14 @@ player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T095836Z" creationid="nakahodo" creationdate="20180629T095836Z">
         <seg>3色のクエスチョンマークは任意の派閥のクラフティングピースを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A three-color question mark denotes a crafting piece of any suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111258Z" creationid="nakahodo" creationdate="20180723T111258Z">
+        <seg>3色のクエスチョンマークは任意のスートのクラフトピースを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10448,8 +10552,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An activated dominance card does not count against your hand limit, and it cannot be removed from play.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113625Z" creationid="nakahodo" creationdate="20180629T113549Z">
-        <seg>発動したドミナンスカードは、手札としてカウントされず、ゲームプレイから取り除くことはできません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110944Z" creationid="nakahodo" creationdate="20180629T113549Z">
+        <seg>発動したドミナンスカードは、手札としてカウントされず、ゲームプレイから取り除くこともできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18331,6 +18435,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During your Daylight, if you have at least 10 victory points, you may activate a dominance card by placing it in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110829Z" creationid="nakahodo" creationdate="20180723T110829Z">
+        <seg>あなたの昼フェイズ持、少なくとも10勝利点を持つ場合、自身のプレイエリアにドミナンスカード1枚をプレイすることによって、これを発動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During your Daylight, if you have at least 10 victory points, you may play a dominance card into your play area to activate it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T113848Z" creationid="nakahodo" creationdate="20180629T112832Z">
@@ -18341,8 +18453,8 @@ Mint Supply.</seg>
       <tuv lang="EN-US">
         <seg>During your Daylight, you can take an available dominance card into your hand by spending a card of matching suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T113948Z" creationid="nakahodo" creationdate="20180629T113948Z">
-        <seg>あなたの昼時、利用可能ドミナンスカードに一致するスートのカードを、あなたの手札から1枚消費することで、そのドミナンスカードを獲得できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111026Z" creationid="nakahodo" creationdate="20180629T113948Z">
+        <seg>あなたの昼フェイズ時、利用可能ドミナンスカードに一致するスートのカードを、あなたの手札から1枚消費することで、そのドミナンスカードを獲得できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18495,6 +18607,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T043203Z" creationid="aorin" creationdate="20171228T171135Z">
         <seg>キャンペーン終了価値：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EV</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111420Z" creationid="nakahodo" creationdate="20180723T111420Z">
+        <seg>EV</seg>
       </tuv>
     </tu>
     <tu>
@@ -18818,6 +18938,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T211813Z" creationid="aorin" creationdate="20171215T211704Z">
         <seg>各クラフト建物はターン毎に一度のみ、消耗できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each crafting piece may be activated only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111243Z" creationid="nakahodo" creationdate="20180723T111243Z">
+        <seg>各クラフトピースはターンごとに1度のみ発動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26928,6 +27056,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it shows an item, take the matching item from the supply and place it in the Crafted Items box on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111404Z" creationid="nakahodo" creationdate="20180723T111404Z">
+        <seg>そこにアイテムが示されている場合、共通サプライから指定されたアイテムを取り、自身の派閥ボードにある、クラフトされたアイテムボックスにそれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it survives your entire dungeon, place it face-up in your scorekeeping area.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T131621Z" creationid="nakahodo" creationdate="20180525T131621Z">
@@ -27828,6 +27964,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T093254Z" creationid="nakahodo" creationdate="20180108T093254Z">
         <seg>右に示されるようなカードの場合、ワーカーはカードの特定のキャンペーン終了価値を使用して選択された、チャーターの建物に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the card lists an item not in the supply, the card cannot be crafted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111420Z" creationid="nakahodo" creationdate="20180723T111420Z">
+        <seg>共通サプライに指定されたアイテムがない場合、そのカードはクラフトできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41407,8 +41551,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove your score marker from the score track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103528Z" creationid="aorin" creationdate="20171215T232147Z">
-        <seg>勝利点トラックから自身の勝利点トラックを取り除きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110844Z" creationid="aorin" creationdate="20171215T232147Z">
+        <seg>勝利点トラックから自身の勝利点マーカーを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50183,8 +50327,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The deck holds four dominance cards, which can be played to win the game without reaching 30 victory points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T112659Z" creationid="nakahodo" creationdate="20180629T112659Z">
-        <seg>デッキに4枚あるドミナンスカードは、30勝利点に到達することなくゲームに勝利するためにプレイできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110804Z" creationid="nakahodo" creationdate="20180629T112659Z">
+        <seg>デッキに4枚あるドミナンスカードは、30勝利点に到達することから勝利条件を変更するためにプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51876,6 +52020,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T165445Z" creationid="nakahodo" creationdate="20180703T165211Z">
         <seg>鷲とマルキス間の闘争は、ゲームの典型的な特徴決定づけるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suit of a crafting piece matches its clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111224Z" creationid="nakahodo" creationdate="20180723T111224Z">
+        <seg>クラフトピースのスートは、それが配置されている区画のスートになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54780,6 +54932,14 @@ the ● side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T224214Z">
         <seg>カードをクラフトするには、カードの左下角に示される区画にて、クラフトピースを発動させる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To craft a card, you must activate crafting pieces of the suits listed in the card’s bottom-left corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111149Z" creationid="nakahodo" creationdate="20180723T111149Z">
+        <seg>カードをクラフトするには、カードの左下角に示されるスートの区画にて、クラフトピースを発動させる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58034,6 +58194,22 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you craft a persistent effect, place it in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111446Z" creationid="nakahodo" creationdate="20180723T111446Z">
+        <seg>永続効果をクラフトする時、それを自身のプレイエリアに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you craft an immediate effect, resolve its effect and then discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111322Z" creationid="nakahodo" creationdate="20180723T111322Z">
+        <seg>あなたが即時効果をクラフトする時、その効果を解決し、その後、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you craft an improvement, place it in your play area.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100142Z">
@@ -58834,6 +59010,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you craft an item (4.1), you score the victory points listed on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110733Z" creationid="nakahodo" creationdate="20180723T110733Z">
+        <seg>あなたがアイテム1つをクラフトするたびに、そのカードに記述された勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you craft an item, you score the victory points listed on the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T112545Z" creationid="nakahodo" creationdate="20180629T112437Z">
@@ -59174,6 +59358,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T112442Z" creationid="nakahodo" creationdate="20180629T112326Z">
         <seg>敵の建物やトークン1つを取り除くたびに、1勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you remove an enemy’s building or token, or cause your enemy to remove one, you score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110717Z" creationid="nakahodo" creationdate="20180723T110717Z">
+        <seg>あなたが敵の建物かトークン1つを取り除くか、取り除かせるたびに、あなたは1勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60253,6 +60445,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can craft most cards from your hand to gain an immediate or persistent effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111129Z" creationid="nakahodo" creationdate="20180723T111124Z">
+        <seg>ほとんどのカードは、自身の手札からカードをクラフトすることで、即時、または永続的効果を得ることが出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can cross only 1 wall per turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T152252Z" creationid="nakahodo" creationdate="20180604T152252Z">
@@ -60849,6 +61049,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205042Z" creationid="aorin" creationdate="20171215T205042Z">
         <seg>空いたスロットのない空き地には建築できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot craft a persistent effect if you have an identical persistent effect in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111559Z" creationid="nakahodo" creationdate="20180723T111559Z">
+        <seg>あなたのプレイエリアに同じ永続効果を持つ場合、その永続効果をクラフトできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62253,6 +62461,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may use the effect as described on the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111509Z" creationid="nakahodo" creationdate="20180723T111509Z">
+        <seg>カードが説明するように、効果を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may use the effect of this improvement as described on the card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T201059Z" creationid="nakahodo" creationdate="20180629T100158Z">
@@ -63093,10 +63309,18 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You win the game immediately if you rule three clearings of the suit matching the activated dominance card at the start of your Birdsong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110920Z" creationid="nakahodo" creationdate="20180723T110920Z">
+        <seg>あなたの朝フェイズ開始時、ドミナンスカードのスートに一致する区画3つをあなたが支配している場合、あなたは直ちにゲームに勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You win the game immediately if you rule two clearings in opposite corners at the start of your Birdsong.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T113534Z">
-        <seg>あなたの朝開始時、マップの角端にある区画1つと、そこから対角端の区画1つ、合計2つをあなたが支配している場合、あなたは直ちにゲームに勝利します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T110933Z" creationid="nakahodo" creationdate="20180629T113534Z">
+        <seg>あなたの朝フェイズ開始時、マップの角端にある区画1つと、そこから対角端の区画1つ、合計2つをあなたが支配している場合、あなたは直ちにゲームに勝利します。</seg>
       </tuv>
     </tu>
     <tu>
