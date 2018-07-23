@@ -6939,6 +6939,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.4 Birdsong</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141011Z" creationid="nakahodo" creationdate="20180723T141011Z">
+        <seg>11.4	朝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.4.1 Emergency Orders.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T160703Z" creationid="nakahodo" creationdate="20180629T160703Z">
@@ -22346,8 +22354,8 @@ please see page 13.</seg>
       <tuv lang="EN-US">
         <seg>For each card, you must take the action listed for its column, as follows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T161621Z" creationid="nakahodo" creationdate="20180629T161621Z">
-        <seg>各カードにより、次のように、その列に記述されたアクションを実行する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141303Z" creationid="nakahodo" creationdate="20180629T161621Z">
+        <seg>各カードにて、次のように、その列に記述されたアクションを実行する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29557,6 +29565,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot fully take an action, you immediately fall into turmoil (7.7).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141322Z" creationid="nakahodo" creationdate="20180723T141322Z">
+        <seg>アクションを完全に実行できない場合、あなたは直ちに混乱に陥ります（7.7）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cannot initiate a battle, you fall into turmoil.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002343Z" creationid="aorin" creationdate="20171216T002343Z">
@@ -32137,6 +32153,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="aorin" creationdate="20171216T002334Z">
         <seg>カードスートに一致する森の民がいる任意の区画1つで戦闘を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initiate a battle in any clearing whose suit matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141437Z" creationid="nakahodo" creationdate="20180723T141437Z">
+        <seg>カードスートに一致する任意の区画1つで戦闘を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34790,6 +34814,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T161904Z">
         <seg>カードスートに一致する森の民がいる任意の区画1つから、少なくとも戦士1体を移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move at least one warrior from any clearing whose suit matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141416Z" creationid="nakahodo" creationdate="20180723T141416Z">
+        <seg>カードスートに一致する任意の区画1つから、少なくとも戦士1体を移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38289,6 +38321,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a roost in any clearing you rule whose suit matches the card suit and which has no roost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141916Z" creationid="nakahodo" creationdate="20180723T141916Z">
+        <seg>カードスートに一致し、あなたが支配者で、かつ止まり木を持たない任意の区画1つへと、止まり木1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a ruin in each slot on the map marked with an “R” (four in total).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T112736Z" creationid="nakahodo" creationdate="20180723T112736Z">
@@ -38389,6 +38429,14 @@ Blend Slates.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T161804Z">
         <seg>カードスートに一致する森の民と止まり木を持つ任意の区画1つへと、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place a warrior in any clearing with a roost whose suit matches the card suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141347Z" creationid="nakahodo" creationdate="20180723T141347Z">
+        <seg>カードスートに一致し、かつ止まり木を持つ任意の区画1つへと、戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39289,6 +39337,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T152034Z" creationid="nakahodo" creationdate="20180719T152034Z">
         <seg>自身の派閥ボードのトラックにベース3つと賛同者10個を配置し、満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your 6 remaining roosts on your Roosts track, filling all its spaces except the leftmost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141007Z" creationid="nakahodo" creationdate="20180723T141007Z">
+        <seg>止まり木トラックに残った止まり木6つを、一番左の子ピースを除いて全て満たすように配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55974,6 +56030,14 @@ Chris Blend first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tuck your 2 Loyal Vizier cards, showing their suit, into the Decree columns above your faction board as listed on your leader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T140921Z" creationid="nakahodo" creationdate="20180723T140921Z">
+        <seg>リーダーカードに記述されるように、あなたの派閥カード上部の法令列に、そのスートが見えるようにLoyal Vizierカード2枚を差し込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuck your 2 Loyal Viziers under the Decree columns listed on your leader.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T180213Z" creationid="nakahodo" creationdate="20180720T180213Z">
@@ -61965,6 +62029,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may activate roosts to craft cards from your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141211Z" creationid="nakahodo" creationdate="20180723T141211Z">
+        <seg>まず、作業場を発動して、あなたの手札からカードをクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also play one in battle to deal hits (3.3.1).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T084609Z" creationid="nakahodo" creationdate="20180629T084609Z">
@@ -62953,6 +63025,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T055511Z" creationid="nakahodo" creationdate="20180701T055511Z">
         <seg>あなたはに似の法令列へとカード1枚か2枚を追加する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must add one or two cards to the Decree, but only one card added may be a bird card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T141128Z" creationid="nakahodo" creationdate="20180723T141100Z">
+        <seg>あなたは法令にカードを1枚か2枚を追加する必要があります。この時、鳥カードは1枚のみ追加できます。</seg>
       </tuv>
     </tu>
     <tu>
