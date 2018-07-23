@@ -31585,6 +31585,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle, the Vagabond is defenseless (4.3.2.III) if he has no undamaged S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153103Z" creationid="nakahodo" creationdate="20180723T153103Z">
+        <seg>戦闘にて、ヴァガボンドは未破損Sを持たない場合、無防備です（4.3.2.III）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the Vagabond’s maximum rolled hits (3.2.2.I) equals his undamaged S, face up or face down, in his Satchel.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204652Z" creationid="nakahodo" creationdate="20180629T204508Z">
@@ -50374,6 +50382,14 @@ consecutively pass, ending the phase.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203223Z" creationid="nakahodo" creationdate="20180629T203223Z">
         <seg>ヴァガボンドは移動元と移動先区画を誰が支配しているかに関係なく移動できます（3.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vagabond can move regardless of who rules his origin or destination clearing (4.2.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153036Z" creationid="nakahodo" creationdate="20180723T153036Z">
+        <seg>ヴァガボンドは移動元と移動先区画を誰が支配しているかに関係なく移動できます（4.2.1）。</seg>
       </tuv>
     </tu>
     <tu>
