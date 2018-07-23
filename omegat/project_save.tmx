@@ -7204,6 +7204,14 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145212Z" creationid="nakahodo" creationdate="20180723T145212Z">
+        <seg>8.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8.3 Faction Setup</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T184951Z" creationid="nakahodo" creationdate="20180629T184819Z">
@@ -7248,6 +7256,14 @@ PASS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192104Z" creationid="nakahodo" creationdate="20180629T192104Z">
         <seg>8.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.4 Birdsong</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145334Z" creationid="nakahodo" creationdate="20180723T145334Z">
+        <seg>8.4	朝</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,16 +8710,16 @@ player.</seg>
       <tuv lang="EN-US">
         <seg>A sympathetic clearing is one with a sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T142828Z" creationid="nakahodo" creationdate="20180629T184213Z">
-        <seg>賛同区画は賛同者トークンを持つ場所です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145003Z" creationid="nakahodo" creationdate="20180629T184213Z">
+        <seg>賛同区画は賛同者トークンを持つ区画です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A sympathetic clearing matching an unbuilt base.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T192317Z">
-        <seg>基地が建築されておらず、賛同区画。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150031Z" creationid="nakahodo" creationdate="20180629T192317Z">
+        <seg>基地が建築されていない、賛同区画。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10848,8 +10864,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An unsympathetic clearing is one without a sympathy token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T142828Z" creationid="nakahodo" creationdate="20180629T184231Z">
-        <seg>非賛同区画は賛同者トークンを持たない場所です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145008Z" creationid="nakahodo" creationdate="20180629T184231Z">
+        <seg>非賛同区画は賛同者トークンを持たない区画です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17797,6 +17813,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw 3 cards and place them face down on your Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145330Z" creationid="nakahodo" creationdate="20180723T145330Z">
+        <seg>共通デッキからカード3枚をドローし、これらを裏向きで支援者スタックに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw Bucket tokens at random equal to the number of players and place them on the corresponding areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180209T064330Z" creationid="nakahodo" creationdate="20180209T064330Z">
@@ -21527,8 +21551,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Fill Sympathy Track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T191914Z">
-        <seg>賛同トラックを満たす。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145254Z" creationid="nakahodo" creationdate="20180629T191914Z">
+        <seg>賛同者トラックを満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22790,8 +22814,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>Form a supply of 10 warriors near you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T185125Z" creationid="nakahodo" creationdate="20180629T185125Z">
-        <seg>あなたの近くに10戦士のサプライを作ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145226Z" creationid="nakahodo" creationdate="20180629T185125Z">
+        <seg>あなたの近くに戦士10体のサプライを作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29141,8 +29165,8 @@ stack is first in turn order.</seg>
       <tuv lang="EN-US">
         <seg>If they have no matching cards (including no birds), they must show their hand to the Alliance, and then the Alliance draws a card from the deck and adds it to the Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T143619Z" creationid="nakahodo" creationdate="20180629T184704Z">
-        <seg>そのプレイヤーが一致するカード（鳥は含まない）を持たない場合、そのプレイヤーは連合に手札の内容を見せ、その後、連合はデッキからカードを1枚ドローして支援者スタックにそれを追加します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145211Z" creationid="nakahodo" creationdate="20180629T184704Z">
+        <seg>そのプレイヤーが一致するスートのカード（鳥は含まない）を持たない場合、そのプレイヤーは連合に手札の内容を見せ、その後、連合は共通デッキからカード1枚をドローして支援者スタックにそれを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39453,6 +39477,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your 10 sympathy tokens on your Sympathy track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145311Z" creationid="nakahodo" creationdate="20180723T145311Z">
+        <seg>賛同者トラックに賛同者トークン10個を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your 2 worker meeples and 12 influence tokens in front of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T145918Z" creationid="nakahodo" creationdate="20171230T145918Z">
@@ -39465,6 +39497,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T152034Z" creationid="nakahodo" creationdate="20180719T152034Z">
         <seg>自身の派閥ボードのトラックにベース3つと賛同者10個を配置し、満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your 3 bases on the matching spaces in your Bases box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145247Z" creationid="nakahodo" creationdate="20180723T145247Z">
+        <seg>派閥ボードの基地ボックスに一致するスペースに、基地を配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41919,8 +41959,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove enemy pieces and place a base and warriors, as follows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192157Z" creationid="nakahodo" creationdate="20180629T192157Z">
-        <seg>次のようにして、敵のピースを取り除き、基地1つと戦士たちを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145411Z" creationid="nakahodo" creationdate="20180629T192157Z">
+        <seg>次のようにして、対象区画の敵のピースを取り除き、基地1つと戦士たちを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59426,6 +59466,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever another player removes a sympathy token or moves any warriors into a sympathetic clearing, they must add one card matching the affected clearing from their hand to the Supporters stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145135Z" creationid="nakahodo" creationdate="20180723T145135Z">
+        <seg>他プレイヤーが賛同者トークンを取り除いたり、賛同区画に戦士たちを移動させた時、そのプレイヤーは自身の手札から支援者スタックへと、対象区画のスートに一致するカード1枚を追加しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever he reveals a Dark tile, you must connect an open edge to the tile from which he entered.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T142655Z" creationid="nakahodo" creationdate="20180412T142655Z">
@@ -62929,6 +62977,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T142828Z" creationid="nakahodo" creationdate="20180702T102308Z">
         <seg>あなたは任意の回数反乱を行い、その後、任意の数だけ賛同者トークンを消費できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may revolt any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T145420Z" creationid="nakahodo" creationdate="20180723T145420Z">
+        <seg>あなたは、何度でも反乱を起こすことができます。</seg>
       </tuv>
     </tu>
     <tu>
