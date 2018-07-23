@@ -10579,6 +10579,14 @@ in their Neighborhood.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allied warriors follow the normal movement rules of their faction and do not gain the benefit of your Nimble special ability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164904Z" creationid="nakahodo" creationdate="20180723T164904Z">
+        <seg>友軍戦士たちはその派閥の通常移動ルールに従い、あなたの機敏特別能力の恩恵は受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ally Benefits and Penalties</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T074313Z" creationid="aorin" creationdate="20171216T074313Z">
@@ -25509,6 +25517,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if you take more hits by removing Allied warriors than by damaging items during the same battle, that Allied faction becomes Hostile (9.2.9.III).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165540Z" creationid="nakahodo" creationdate="20180723T165540Z">
+        <seg>しかし、1回の戦闘の中で、アイテムに受けるダメージ数よりも、同盟戦士たちを取り除くことによってダメージをあなたが受けた場合、その同名派閥とは敵対状態になります（9.2.9.III）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it is possible to add or drop players after Game 1.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T142904Z" creationid="nakahodo" creationdate="20171218T142904Z">
@@ -31398,6 +31414,14 @@ World Map and collect beans.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T141347Z" creationid="aorin" creationdate="20180528T141347Z">
         <seg>XP順に、「あなたがこれを建築する時」効果を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a battle where you treat Allied warriors as your own, you can take hits by removing Allied warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165332Z" creationid="nakahodo" creationdate="20180723T165332Z">
+        <seg>あなたが友軍戦士を自身のものとして扱う戦闘にて、あなたは友軍戦士たちを取り除くことによりヒットを受けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51817,6 +51841,14 @@ d	同盟の犠牲。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum hits you can roll equals the number of that Ally’s warriors there plus your total undamaged S. You cannot treat Allied warriors as your own if that Ally is the defender.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165223Z" creationid="nakahodo" creationdate="20180723T165223Z">
+        <seg>あなたのダイスロールによって与える最大ヒット数は、未破損Sの合計に加えて、共に戦う友軍戦士たちの数に等しい数になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum number of hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T224610Z" creationid="aorin" creationdate="20171215T224610Z">
@@ -60139,10 +60171,18 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you initiate a battle, you may treat Allied warriors of one faction in the clearing of battle as your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164956Z" creationid="nakahodo" creationdate="20180723T164956Z">
+        <seg>あなたが戦闘を開始するたびに、戦闘区画にいる、友軍派閥1つの戦士たちをあなtなお所有するものとして扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you move during Daylight, you may move warriors from one Allied faction with you from your origin clearing to your destination clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164451Z" creationid="nakahodo" creationdate="20180723T164451Z">
-        <seg>Whenever you move during Daylight, you may move warriors from one Allied faction with you from your origin clearing to your destination clearing.</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164828Z" creationid="nakahodo" creationdate="20180723T164451Z">
+        <seg>昼フェイズ時にあなたが移動するたびに、移動元区画から、あなたと共に友軍派閥1つの戦士たちを、移動先区画へと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65198,8 +65238,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>c Attacking with Ally.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214128Z" creationid="nakahodo" creationdate="20180629T214053Z">
-        <seg>c	同盟と共に攻撃する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164908Z" creationid="nakahodo" creationdate="20180629T214053Z">
+        <seg>c	友軍と共に攻撃する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65248,6 +65288,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
         <seg>アクションフェイズとは逆に、報酬フェイズ時、アクションスペースはピクシーでのみ占領でき、アクションディスクは提供フェイズ（Ⅲ）の開始時に取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d Taking Hits with Ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165233Z" creationid="nakahodo" creationdate="20180723T165233Z">
+        <seg>d	友軍と共にヒットを受ける。</seg>
       </tuv>
     </tu>
     <tu>
