@@ -1027,8 +1027,8 @@ b	敵対区画への移動。</seg>
       <tuv lang="EN-US">
         <seg>(Pieces may be moved into this clearing.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T140939Z">
-        <seg>（ピースはこの区画に移動できます）</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113135Z" creationid="nakahodo" creationdate="20180629T140939Z">
+        <seg>（他派閥のピースはこの区画に移動できます）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2685,6 +2685,14 @@ board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T072922Z" creationid="nakahodo" creationdate="20180719T072922Z">
         <seg>各スート1つずつ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 workshop, and 1 recruiter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113417Z" creationid="nakahodo" creationdate="20180723T113417Z">
+        <seg>作業場1つ、雇用所1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6441,6 +6449,14 @@ look something like the diagram above.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 sawmills, 5 workshops, and 5 recruiters on your matching Buildings tracks, filling every space except the leftmost space of each track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113634Z" creationid="nakahodo" creationdate="20180723T113634Z">
+        <seg>作業場5つ、作業場5つ、雇用所5つを、派閥ボードで一致する建物トラックへと、各トラック一番左スペースを除いて配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5, CARDS:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171218T153111Z" creationid="nakahodo" creationdate="20171218T153111Z">
@@ -6610,6 +6626,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.3.2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113247Z" creationid="nakahodo" creationdate="20180723T113247Z">
+        <seg>6.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.3.2 Step 2:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T141638Z" creationid="nakahodo" creationdate="20180629T141638Z">
@@ -6634,6 +6658,14 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.3.4 Step 4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113351Z" creationid="nakahodo" creationdate="20180723T113351Z">
+        <seg>6.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.3.5 Step 5:</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T144223Z" creationid="nakahodo" creationdate="20180629T144223Z">
@@ -6650,10 +6682,34 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.4 Birdsong</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113640Z" creationid="nakahodo" creationdate="20180723T113640Z">
+        <seg>6.4	朝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T144711Z" creationid="nakahodo" creationdate="20180629T144711Z">
         <seg>6.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5 Daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113656Z" creationid="nakahodo" creationdate="20180723T113656Z">
+        <seg>6.5	昼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.1 Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113823Z" creationid="nakahodo" creationdate="20180723T113823Z">
+        <seg>6.5.1	戦闘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6674,10 +6730,34 @@ KEYWORDS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.5.2 March.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113832Z" creationid="nakahodo" creationdate="20180723T113832Z">
+        <seg>6.5.2	行進。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.5.3 Build.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T145204Z" creationid="nakahodo" creationdate="20180629T145204Z">
         <seg>6.5.3	建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.3 Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113844Z" creationid="nakahodo" creationdate="20180723T113844Z">
+        <seg>6.5.3	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.5.4 Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113921Z" creationid="nakahodo" creationdate="20180723T113921Z">
+        <seg>6.5.4	建築。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9673,6 +9753,14 @@ next player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T051641Z" creationid="nakahodo" creationdate="20180701T051550Z">
         <seg>3つのアクションを実行した後、あなたが鳥カードを消費する枚数だけ、追加のアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After taking three actions, you may take extra actions by spending one bird card per extra action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113816Z" creationid="nakahodo" creationdate="20180723T113816Z">
+        <seg>3つのアクションを実行した後、あなたが鳥カード1枚を消費するたびに、追加のアクション1つを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21765,6 +21853,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you may activate workshops to craft cards from your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113728Z" creationid="nakahodo" creationdate="20180723T113728Z">
+        <seg>まず、作業場を発動して、あなたの手札からカードをクラフトできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you may craft any number of cards, using roosts.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180701T055752Z" creationid="nakahodo" creationdate="20180701T055752Z">
@@ -22646,8 +22742,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>Form supplies of 25 warriors and 8 wood tokens near you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T141633Z" creationid="nakahodo" creationdate="20180629T141633Z">
-        <seg>あなたの近くに25戦士と8木材トークンにてサプライを作ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113246Z" creationid="nakahodo" creationdate="20180629T141633Z">
+        <seg>あなたの近くに戦士25体と木材トークン8つにてサプライを作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28212,6 +28308,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T141255Z" creationid="nakahodo" creationdate="20180629T141012Z">
         <seg>キープトークンが取り除かれる場合、このトークンをマップに再度配置することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the keep token is removed, return it to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113152Z" creationid="nakahodo" creationdate="20180723T113104Z">
+        <seg>キープトークンが取り除かれた場合、それはゲームボックスに戻されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36355,8 +36459,8 @@ afford are taken into consideration.</seg>
       <tuv lang="EN-US">
         <seg>Only the Marquise can place pieces in the clearing with the keep token.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T140901Z">
-        <seg>マルキスはキープトークンを持つ区画にピースを配置する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113115Z" creationid="nakahodo" creationdate="20180629T140901Z">
+        <seg>マルキスのみがキープトークンを持つ区画にピースを配置することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37662,6 +37766,14 @@ the marker clockwise.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 1 sawmill,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113407Z" creationid="nakahodo" creationdate="20180723T113407Z">
+        <seg>製材所1つ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 1 sawmill, workshop, and recruiter among the clearing with the keep token and any adjacent ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T162808Z" creationid="nakahodo" creationdate="20180720T162808Z">
@@ -38225,6 +38337,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place a warrior in each clearing except the clearing in the diagonally opposite corner from the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113344Z" creationid="nakahodo" creationdate="20180723T113344Z">
+        <seg>キープトークンのある区画から見て反対角端の区画を除いた、各区画全てに戦士1体ずつを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place a warrior in each clearing except the clearing in the opposite corner from the keep token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T142019Z">
@@ -38437,8 +38557,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place one warrior at each recruiter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T150423Z" creationid="nakahodo" creationdate="20180629T150423Z">
-        <seg>各雇用所に戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113911Z" creationid="nakahodo" creationdate="20180629T150423Z">
+        <seg>マップ上の各雇用所に戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38853,8 +38973,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place the keep token in the corner clearing of your choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T141728Z">
-        <seg>あなたがマップ上の角端の区画へと、キープトークンを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113309Z" creationid="nakahodo" creationdate="20180629T141728Z">
+        <seg>あなたが選択するマップ上の角端区画へと、キープトークンを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39233,6 +39353,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T182526Z" creationid="nakahodo" creationdate="20180604T182526Z">
         <seg>あなたのプレイヤーボードを取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your remaining</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113532Z" creationid="nakahodo" creationdate="20180723T113532Z">
+        <seg>あなたの残った</seg>
       </tuv>
     </tu>
     <tu>
@@ -41689,6 +41817,14 @@ the game box.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T235744Z" creationid="aorin" creationdate="20171215T235744Z">
         <seg>選択した空き地に隣接する自身が支配する空き地[または]選択した空き地から繋がった自身が支配する任意の数の別の空き地から、建物のコストと同数の木を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove wood tokens equal in number to the building’s cost from the chosen clearing, any adjacent clearings you rule, or any clearings connected to the chosen clearing through any number of clearings you rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T114220Z" creationid="nakahodo" creationdate="20180723T114220Z">
+        <seg>選択した区画か、そこに接続された、連続したあなたの支配する区画ら（あなたの支配する区画が続いていれば、隣接しているかどうかは関係ない）から、建物のコストに等しいだけの木材トークンを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46775,8 +46911,8 @@ Slates.</seg>
       <tuv lang="EN-US">
         <seg>Take two moves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T085502Z" creationid="aorin" creationdate="20171215T235201Z">
-        <seg>移動アクション2回を行う。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113838Z" creationid="aorin" creationdate="20171215T235201Z">
+        <seg>移動アクション2回を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53120,6 +53256,14 @@ to stop.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, you may take up to three actions in any order or combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113747Z" creationid="nakahodo" creationdate="20180723T113747Z">
+        <seg>その後、任意の順番と組み合わせで、3つのアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, you may take up to three actions, plus one action per bird card spent, in any order and combination, as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T145115Z" creationid="nakahodo" creationdate="20180629T145115Z">
@@ -58802,6 +58946,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever a Marquise warrior is removed, the Marquise may spend a card matching that warrior’s clearing to place the warrior in the clearing with the keep token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113216Z" creationid="nakahodo" creationdate="20180723T113216Z">
+        <seg>マルキスの戦士が取り除かれるたびに、あなたは、その戦士がいた区画に一致するスートのカード1枚を消費することで、キープトークンのある区画に戦士を移動させることが出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever a Marquise warrior is removed, the Marquise may spend any card to immediately place that warrior in the clearing with the keep token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T141502Z">
@@ -62337,6 +62489,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180102T031714Z" creationid="nakahodo" creationdate="20171224T145020Z">
         <seg>あなたはツェッペリンにワーカー1つを配置し、個人サプライから建物カード1枚を使用して自身のチャーターの空いた区画1つへと建物を建築することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may place them among the clearing with the keep token and any adjacent clearings, in any combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T113526Z" creationid="nakahodo" creationdate="20180723T113526Z">
+        <seg>あなたは、キープトークンのある区画と、そこに隣接した区画内で、任意の組み合わせで配置できます。</seg>
       </tuv>
     </tu>
     <tu>
