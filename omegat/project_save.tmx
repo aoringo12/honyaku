@@ -25638,6 +25638,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Capacity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T143741Z" creationid="nakahodo" creationdate="20180723T143741Z">
+        <seg>I	キャパシティ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Choose Building.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T145223Z" creationid="nakahodo" creationdate="20180629T145223Z">
@@ -27010,6 +27018,14 @@ blend or doesn’t add a Marker to a Blend created this round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any bases are on the map, the Supporters stack can hold unlimited cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T144107Z" creationid="nakahodo" creationdate="20180723T144107Z">
+        <seg>マップ上に基地が1つでもある場合、支援者スタックのカード保持枚数に上限はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any card (even a dominance card) would be placed in the discard pile, it is instead placed in the Lost Souls pile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T114414Z" creationid="nakahodo" creationdate="20180630T114414Z">
@@ -27892,6 +27908,30 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031522Z" creationid="aorin" creationdate="20171212T031522Z">
         <seg>AIがどのロケーションも使用できない場合、パスアクションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Alliance has no bases on the map, the Supporters stack can only hold up to five cards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T143947Z" creationid="nakahodo" creationdate="20180723T143744Z">
+        <seg>連合はマップ上に基地を持たない場合、支援者スタックはカード5枚までしか保持できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Alliance has no more bases on the map and has more than five cards in their Supporters stack, they must discard down to five.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T144907Z" creationid="nakahodo" creationdate="20180723T144628Z">
+        <seg>マップに基地がもうなく、自身の支援者スタックにカードが5枚を超えてある場合、5枚まで捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Alliance would gain a supporter but the stack cannot hold it, that card is discarded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T144034Z" creationid="nakahodo" creationdate="20180723T143745Z">
+        <seg>連合が支援者カードを得るが、スタックがそれを保持できない場合、そのカードは捨て札にされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46464,6 +46504,14 @@ closest to 42 wins!</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supporters are face down, but the Alliance may inspect them at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T143736Z" creationid="nakahodo" creationdate="20180723T143736Z">
+        <seg>支援者カードは裏向きになっていますが、連合は内容をいつでも確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supporters are often spent to place sympathy tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T142828Z" creationid="nakahodo" creationdate="20180702T100448Z">
@@ -59246,6 +59294,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T183908Z" creationid="nakahodo" creationdate="20180629T183908Z">
         <seg>基地が取り除かれた時、連合は一致する森の民の支援者（鳥を含む）全てを捨て札にし、将校半分（切り上げ）を取り除く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a base is removed, the Alliance must discard all supporters of matching suit (including birds), and remove half of their officers, rounded up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T144632Z" creationid="nakahodo" creationdate="20180723T144149Z">
+        <seg>基地が取り除かれた時、連合はその区画スートに一致する支援者カード（鳥を含む）全てを捨て札にし、将校を半分（切り上げ）取り除く必要があります。</seg>
       </tuv>
     </tu>
     <tu>
