@@ -1443,6 +1443,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You can always take a bird card.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184316Z" creationid="nakahodo" creationdate="20180723T184316Z">
+        <seg>（あなたは常に鳥カードを取れる）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You cannot gain multiple Scale cards from one use of a power.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T110248Z" creationid="nakahodo" creationdate="20180430T110002Z">
@@ -7766,6 +7774,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.9 Special Action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183913Z" creationid="nakahodo" creationdate="20180723T183913Z">
+        <seg>9.5.9	特別アクション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9.6</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T092551Z" creationid="nakahodo" creationdate="20180630T092551Z">
@@ -7802,6 +7818,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110211Z" creationid="nakahodo" creationdate="20180630T110211Z">
         <seg>9.6.4	アイテム容量の確認。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.7 Character Reference</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184159Z" creationid="nakahodo" creationdate="20180723T184159Z">
+        <seg>9.7	キャラクターリファレンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,8 +10485,8 @@ in their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>All of your H match the suit of your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180702T161331Z">
-        <seg>Hのスートは全て、あなたのいる区画のスートtお同じになります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183724Z" creationid="nakahodo" creationdate="20180702T161331Z">
+        <seg>Hのスートは全て、あなたが現在いる区画のスートと同じになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26010,8 +26034,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>I Special Action:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110535Z" creationid="nakahodo" creationdate="20180630T110535Z">
-        <seg>I	スペシャルアクション：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184222Z" creationid="nakahodo" creationdate="20180630T110535Z">
+        <seg>I	特別アクション：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26780,6 +26804,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T085326Z">
         <seg>クラフトに民が複数必要必要な場合、あなたはHを記述された数だけ消耗する必要があります。Hは全て、あなたが現在いる区画の民と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a card requires multiple of one suit to craft, you must exhaust the listed number of H. If you craft an item, you may place it face up in your Satchel or on the matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183904Z" creationid="nakahodo" creationdate="20180723T183712Z">
+        <seg>カードがクラフトするために1つのスート複数を必要とする場合、あなたは記述された数だけHを消耗させる必要があります。あなたがアイテムをクラフトする場合、カバンか一致するトラックにそれを表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30383,6 +30415,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have The Riverfolk Expansion, you can play a game with two Vagabonds by following these rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184426Z" creationid="nakahodo" creationdate="20180723T184426Z">
+        <seg>あながリバーフォーク拡張を持つ場合、これらルールに従いヴァガボンド2派閥を含めてゲームをプレイできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have a spy card in your play area, you may reveal one order card during your Daylight.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T073435Z" creationid="nakahodo" creationdate="20180719T073435Z">
@@ -30427,6 +30467,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T083002Z" creationid="aorin" creationdate="20171216T083002Z">
         <seg>そのプレイヤーのローカル戦士数を越えて、より多くの利用可能な&lt;ソード&gt;を持っている場合、そのプレイヤーからランダムにカード1枚を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have more items total in your Satchel and Damaged box than your item limit—six plus two per B face up on the matching track—remove items from your Satchel and Damaged box until you have items equal to your item limit, and return them to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184152Z" creationid="nakahodo" creationdate="20180723T184152Z">
+        <seg>あなたがカバンと破損ボックスに持つアイテムの合計が、アイテム上限を超えている場合（6に、一致するトラックにあるBごとに2を加えた数）、アイテム上限に等しい数になるまで、カバンか破損ボックスからアイテムを取り除き、ゲームボックスにそれらを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42497,8 +42545,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Repair three items, then immediately end Daylight.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T110937Z" creationid="nakahodo" creationdate="20180630T110937Z">
-        <seg>3つのアイテムを修理し、その後直ちに昼フェイズに移行します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184346Z" creationid="nakahodo" creationdate="20180630T110937Z">
+        <seg>3つのアイテムを修理し、その後、直ちに昼フェイズを終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46641,6 +46689,30 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start with M, F, B, and H.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184240Z" creationid="nakahodo" creationdate="20180723T184240Z">
+        <seg>MFBHを持ちゲームを介しします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start with M, F, C, and S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184323Z" creationid="nakahodo" creationdate="20180723T184323Z">
+        <seg>MFCSを持ちゲームを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start with M, F, T, and S.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184216Z" creationid="nakahodo" creationdate="20180723T184216Z">
+        <seg>MFTSを持ちゲームを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start with the leftmost column and move right.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002109Z" creationid="aorin" creationdate="20171216T002109Z">
@@ -47278,6 +47350,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T110839Z" creationid="nakahodo" creationdate="20180630T110839Z">
         <seg>あなたのいる地域の民に一致する捨て札山から、カード1枚を取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a card from the discard pile whose suit matches your clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T184305Z" creationid="nakahodo" creationdate="20180723T184305Z">
+        <seg>捨て札山から、あなたの区画スートに一致するカード1枚を取る。</seg>
       </tuv>
     </tu>
     <tu>
