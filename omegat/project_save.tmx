@@ -55055,6 +55055,14 @@ with the following exception:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This faction is now Hostile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165921Z" creationid="nakahodo" creationdate="20180723T165921Z">
+        <seg>この派閥とは敵対状態になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This glossary defines important terminology relevant to all five roles.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T222850Z" creationid="nakahodo" creationdate="20180531T222850Z">
