@@ -4074,8 +4074,8 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>2.5.1 Warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093519Z" creationid="nakahodo" creationdate="20180629T093346Z">
-        <seg>2.5.1	兵士。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104857Z" creationid="nakahodo" creationdate="20180629T093346Z">
+        <seg>2.5.1	戦士。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7898,8 +7898,8 @@ order to be targeted by the Temp Agency.</seg>
       <tuv lang="EN-US">
         <seg>A forest is adjacent to all clearings that touch it without crossing a path, and it is adjacent to all forests that are separated by only one path.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="aorin" creationdate="20171215T204843Z">
-        <seg>森は道が交差していない触れている区画全てと隣接しており、1つの道で分割されている森の全てと隣接しています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104811Z" creationid="aorin" creationdate="20171215T204843Z">
+        <seg>森は道が交差していない、触れている区画全てと隣接しており、1つの道で分割されている森の全てと隣接しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10717,6 +10717,14 @@ Mint Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T231826Z" creationid="aorin" creationdate="20180528T231826Z">
         <seg>あなたは究極なボスモンスターになれるほど、十分にワルでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Areas on the map enclosed by paths and clearings are called forests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104742Z" creationid="nakahodo" creationdate="20180723T104742Z">
+        <seg>マップ上の区画と道で囲まれたエリアを森と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18786,6 +18794,14 @@ colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T224749Z" creationid="nakahodo" creationdate="20180630T224725Z">
         <seg>各派閥は次のように、異なるクラフトピースを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each faction has a set of pieces listed on the back of its faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104832Z" creationid="nakahodo" creationdate="20180723T104832Z">
+        <seg>各派閥はその派閥ボード裏に記述されるピースのセットを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27098,8 +27114,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If one of your warriors is removed, return it to your supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093530Z" creationid="nakahodo" creationdate="20180629T093408Z">
-        <seg>兵士を取り除く場合、自身のサプライにこれを返します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104902Z" creationid="nakahodo" creationdate="20180629T093408Z">
+        <seg>戦士を取り除く場合、自身のサプライにこれを返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28823,8 +28839,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you are prompted to place a building, take the leftmost building from its track on your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T150152Z" creationid="aorin" creationdate="20171215T150152Z">
-        <seg>建物1つ配置するように指示された場合、自身の派閥ボードの指定されたトラックにある、一番左の建物を取ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105754Z" creationid="aorin" creationdate="20171215T150152Z">
+        <seg>建物1つを配置するように指示された場合、自身の派閥ボードの指定されたトラックにある、一番左の建物を取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28847,8 +28863,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you are prompted to place a warrior, take it from your supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093524Z" creationid="aorin" creationdate="20171215T145927Z">
-        <seg>兵士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104900Z" creationid="aorin" creationdate="20171215T145927Z">
+        <seg>戦士1体を配置するよう指示された場合、自身のサプライからそれを取ります。</seg>
       </tuv>
     </tu>
     <tu>
