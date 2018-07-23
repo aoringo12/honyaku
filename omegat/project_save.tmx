@@ -369,8 +369,8 @@ b	効果。</seg>
       <tuv lang="EN-US">
         <seg>(Add this to points scored for enemy buildings and tokens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T173447Z" creationid="nakahodo" creationdate="20180723T170413Z">
-        <seg>(この追加no</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T173851Z" creationid="nakahodo" creationdate="20180723T170413Z">
+        <seg>（敵建物とトークンを取り除くことによる勝利点の得点という通常の方法にこれを加えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15076,6 +15076,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a character card and place it in your Character Card slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T174120Z" creationid="nakahodo" creationdate="20180723T174120Z">
+        <seg>あなたのキャラクターカードスロットにキャラクターカード1枚を選択してそれを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a character card.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T073257Z" creationid="nakahodo" creationdate="20180630T073257Z">
@@ -17696,9 +17704,9 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Do not score a point for removing the warrior that made the faction Hostile.) b Moving into Hostile Clearings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T170416Z" creationid="nakahodo" creationdate="20180723T170416Z">
-        <seg>（派閥と敵対するために戦士1体を取り除いた時は勝利点を得点しません）
-b	敵対区画への移動。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T173926Z" creationid="nakahodo" creationdate="20180723T173926Z">
+        <seg>敵対派閥になるために取り除かれた最初の戦士は勝利点を得点しません）
+b	敵対区画に移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39775,6 +39783,14 @@ turn order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place your Vagabond pawn in any forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182131Z" creationid="nakahodo" creationdate="20180723T182131Z">
+        <seg>任意の森1つにあなたのキャラクターポーンを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place your bases on their matching spaces in the Bases box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180721T053913Z" creationid="nakahodo" creationdate="20180721T053913Z">
@@ -61561,8 +61577,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can form a coalition (9.2.8) with a Hostile faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T072959Z" creationid="nakahodo" creationdate="20180630T072959Z">
-        <seg>あなたは敵対派閥と連立（9.2.8）を組むことができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T174051Z" creationid="nakahodo" creationdate="20180630T072959Z">
+        <seg>あなたは敵対派閥と同盟（9.2.8）を組むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62131,6 +62147,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072256Z" creationid="nakahodo" creationdate="20180630T072256Z">
         <seg>その派閥へ援助を行うことによって、敵対派閥との関係性を好転させることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot move a relationship marker out of the Hostile box by using Aid, but you can still Aid a Hostile faction to take crafted items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T174036Z" creationid="nakahodo" creationdate="20180723T174036Z">
+        <seg>あなたは援助を使用することによって、敵対ボックス外へと関係性マーカーを移動できませんが、敵対派閥のクラフトされたアイテムを取るために援助アクションを実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65301,6 +65325,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>c Aiding Hostile Factions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T173952Z" creationid="nakahodo" creationdate="20180723T173952Z">
+        <seg>c	敵対派閥への援助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c Attacking with Ally.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T164908Z" creationid="nakahodo" creationdate="20180629T214053Z">
@@ -65353,6 +65385,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T153842Z" creationid="aorin" creationdate="20171212T153842Z">
         <seg>アクションフェイズとは逆に、報酬フェイズ時、アクションスペースはピクシーでのみ占領でき、アクションディスクは提供フェイズ（Ⅲ）の開始時に取り除かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d Coalition with Hostile Faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T174045Z" creationid="nakahodo" creationdate="20180723T174045Z">
+        <seg>d	敵対派閥との同盟。</seg>
       </tuv>
     </tu>
     <tu>
