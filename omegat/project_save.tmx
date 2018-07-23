@@ -1177,6 +1177,14 @@ b	敵対区画への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Vagabond no longer scores victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154112Z" creationid="nakahodo" creationdate="20180723T154112Z">
+        <seg>（ヴァガボンドはもはや勝利点を得点しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The Wraith does not have to follow the path listed on the card.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T190432Z" creationid="nakahodo" creationdate="20180604T190432Z">
@@ -7471,8 +7479,8 @@ SCORING</seg>
       <tuv lang="EN-US">
         <seg>9.2.6 Maximum Rolled Hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204510Z" creationid="nakahodo" creationdate="20180629T204507Z">
-        <seg>9.2.6	ダイスロールのヒットによる最大。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153311Z" creationid="nakahodo" creationdate="20180629T204507Z">
+        <seg>9.2.6	ダイスロールによる最大ヒット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7489,6 +7497,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204844Z" creationid="nakahodo" creationdate="20180629T204844Z">
         <seg>9.2.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.2.8 Dominance Cards and Coalitions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153536Z" creationid="nakahodo" creationdate="20180723T153536Z">
+        <seg>9.2.8	ドミナンスカードと同盟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24579,6 +24595,14 @@ and a Research Lab.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He cannot form a coalition with a player who has already activated a dominance card.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154253Z" creationid="nakahodo" creationdate="20180723T154253Z">
+        <seg>また、すでにドミナンスカードを発動させたプレイヤーとは同盟を結成できません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He closes his eyes, reaches into his
 Roaster...</seg>
       </tuv>
@@ -26318,6 +26342,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>III Moving Items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153206Z" creationid="nakahodo" creationdate="20180723T153206Z">
+        <seg>III	アイテムを移動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>III Place Building and Score.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T114230Z" creationid="nakahodo" creationdate="20180629T145549Z">
@@ -27674,8 +27706,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If no undamaged items remain to damage, the Vagabond ignores any remaining hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204843Z" creationid="aorin" creationdate="20171215T231804Z">
-        <seg>壊れていないアイテムが残っていない場合、ヴァガボンドは残りのヒットを無視します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153526Z" creationid="aorin" creationdate="20171215T231804Z">
+        <seg>未破損アイテムが残っていない場合、ヴァガボンドは残りのヒットを無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28408,6 +28440,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the chosen player wins the game, the Vagabond also wins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154023Z" creationid="nakahodo" creationdate="20180723T154023Z">
+        <seg>同盟プレイヤーがゲームに勝利した場合、ヴァガボンドもまた勝利します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the coalition player wins the game, the Vagabond also wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T205502Z" creationid="nakahodo" creationdate="20180629T205223Z">
@@ -28943,6 +28983,14 @@ players cannot use this ability.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T031811Z" creationid="aorin" creationdate="20171212T031811Z">
         <seg>コストがタイの場合、プランの種類をチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a tie for fewest, he chooses one tied player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153750Z" creationid="nakahodo" creationdate="20180723T153750Z">
+        <seg>勝利点の少ないプレイヤーが複数いる場合、彼が1人を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31601,6 +31649,14 @@ World Map and collect beans.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In battle, the Vagabond’s maximum rolled hits (4.2.2.I) equals his undamaged S, face up or face down, in his Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153454Z" creationid="nakahodo" creationdate="20180723T153454Z">
+        <seg>戦闘にて、ヴァガボンドは、カバンにある表か裏向きの未破損Sの数に等しい最大ヒット数になります（4.2.2.I）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In battle, the affected clearing is the clearing of battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T151232Z" creationid="aorin" creationdate="20171215T151232Z">
@@ -31783,6 +31839,14 @@ cannot be chosen, unless a special action would allow it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T100447Z" creationid="nakahodo" creationdate="20180601T100339Z">
         <seg>屋敷プレイヤーのいるゲームでは、あなたが勝利するためにポルターガイスト7体必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In games with four or more players, the Vagabond can activate a dominance card to form a coalition with the player with the fewest victory points other than himself, placing his score marker on the chosen player’s faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153716Z" creationid="nakahodo" creationdate="20180723T153716Z">
+        <seg>4人以上プレイヤーによるゲームにて、ヴァガボンドはドミナンスカードを発動することで、自身以外の最も勝利点が少ないプレイヤーへと、自身の勝利点マーカーをそのプレイヤーの派閥ボードに配置することで同盟を結成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50378,6 +50442,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond can freely move face-up, undamaged T, X, and B between their tracks and the Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153258Z" creationid="nakahodo" creationdate="20180723T153258Z">
+        <seg>ヴァガボンドは未破損で表向きのTXBを、カバンとトラック間を自由に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond can move regardless of who rules his origin or destination clearing (3.2.1).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T203223Z" creationid="nakahodo" creationdate="20180629T203223Z">
@@ -50412,8 +50484,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Vagabond exhausts items, flipping them face down, to take many actions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T204013Z" creationid="nakahodo" creationdate="20180629T204013Z">
-        <seg>ヴァガボンドがアイテムを消耗すると、裏向きにに返されて多くのアクションを実行できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153145Z" creationid="nakahodo" creationdate="20180629T204013Z">
+        <seg>ヴァガボンドがアイテムを消耗すると、裏向きに返されて多くのアクションを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58342,6 +58414,14 @@ generic Blend into the market to maintain a healthy - if not terribly flavorful 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When gained, M, S, C, F, and H are placed face up in the Vagabond’s Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153200Z" creationid="nakahodo" creationdate="20180723T153200Z">
+        <seg>M、S、C、F、Hを得る時、ヴァガボンドのカバンに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When gained, T, X, and B are placed face up on their matching tracks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204155Z" creationid="nakahodo" creationdate="20180629T204155Z">
@@ -59670,6 +59750,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T204822Z" creationid="nakahodo" creationdate="20180629T204822Z">
         <seg>ヴァガボンドが1ヒットを受けるたびに（3.3.3）、破損していないアイテム1つがダメージを受け、それを破損ボックスへと移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the Vagabond takes a hit (4.3.3), he must damage one undamaged item, moving it to his Damaged box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T153513Z" creationid="nakahodo" creationdate="20180723T153513Z">
+        <seg>ヴァガボンドが1ヒットを受けるたびに（4.3.3）、未破損アイテム1つがダメージを受け、それを破損ボックスへと移動させます。</seg>
       </tuv>
     </tu>
     <tu>
