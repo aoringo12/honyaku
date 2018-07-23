@@ -55436,6 +55436,14 @@ here.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This rule overrides the condition for becoming Hostile in 9.2.9.III.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T165542Z" creationid="nakahodo" creationdate="20180723T165542Z">
+        <seg>This rule overrides the condition for becoming Hostile in 9.2.9.III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This special ability trumps even the Eyrie’s Lords of the Forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T180047Z" creationid="nakahodo" creationdate="20180703T180047Z">
