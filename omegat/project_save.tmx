@@ -7646,6 +7646,14 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.2 Battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183131Z" creationid="nakahodo" creationdate="20180723T183048Z">
+        <seg>9.5.2	戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9.5.2 Repair.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T084604Z" creationid="nakahodo" creationdate="20180630T084604Z">
@@ -7662,10 +7670,34 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.3 Explore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183128Z" creationid="nakahodo" creationdate="20180723T183128Z">
+        <seg>9.5.3	探索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.4 Aid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183208Z" creationid="nakahodo" creationdate="20180723T183208Z">
+        <seg>9.5.4	援助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9.5.4 Battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T085453Z" creationid="nakahodo" creationdate="20180630T085444Z">
         <seg>9.5.4	戦闘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.5 Quest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183246Z" creationid="nakahodo" creationdate="20180723T183246Z">
+        <seg>9.5.5	クエスト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7718,22 @@ SCORING</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.5.6 Strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183534Z" creationid="nakahodo" creationdate="20180723T183528Z">
+        <seg>9.5.6	ストライク。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.7 Repair.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183553Z" creationid="nakahodo" creationdate="20180723T183553Z">
+        <seg>9.5.7	修理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9.5.7 Special Action.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T090540Z" creationid="nakahodo" creationdate="20180630T090540Z">
@@ -7698,6 +7746,14 @@ SCORING</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T090616Z" creationid="nakahodo" creationdate="20180630T090616Z">
         <seg>9.5.8	援助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.5.8 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183616Z" creationid="nakahodo" creationdate="20180723T183616Z">
+        <seg>9.5.8	クラフト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15148,6 +15204,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a quest whose suit matches your clearing, and exhaust the two items listed on the quest to complete it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183301Z" creationid="nakahodo" creationdate="20180723T183301Z">
+        <seg>あなたの区画スートに一致するクエスト1つを選択し、クエストに記述されたアイテム2つを消耗して、これを達成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a space and roll the Dragon die.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T092357Z" creationid="nakahodo" creationdate="20180413T092357Z">
@@ -21015,16 +21079,24 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust any one item, and give one of your cards matching your clearing to any player there (even Hostile).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T090743Z">
-        <seg>任意のアイテム1つを消耗して、あなたの区画にいる任意のプレイヤー1人に、区画の民と一致するカード1枚を、あなたの手札から渡します（敵対していても）。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183233Z" creationid="nakahodo" creationdate="20180630T090743Z">
+        <seg>任意のアイテム1つを消耗して、あなたの区画にいる任意のプレイヤー1人に、区画スートに一致するカード1枚を、あなたの手札から渡します（敵対していても）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Exhaust one C to remove a warrior from your clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T085701Z">
-        <seg>C1つを消耗して、あなたの区画から戦士1体を取り除きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183544Z" creationid="nakahodo" creationdate="20180630T085701Z">
+        <seg>C1つを消耗して、あなたのいる区画から戦士1体を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exhaust one F to take one item under a ruin in your clearing, reveal it, and place it face up in your Satchel or on its matching track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183149Z" creationid="nakahodo" creationdate="20180723T183149Z">
+        <seg>F1つを消耗して、あなたのいる区画の遺跡マーカー下にあるアイテム1つを取り、これを公開し、カバンかアイテムトラックに表向行きでそれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,8 +21127,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Exhaust one M to move, plus one M if the destination clearing has any Hostile warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T083143Z">
-        <seg>M1つを消耗させることで移動します。移動先区画に敵対戦士が少なくとも1体いる場合、さらに追加でM1つ必要です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182946Z" creationid="nakahodo" creationdate="20180630T083143Z">
+        <seg>M1つを消耗させることで移動します。移動先区画に敵対戦士が少なくとも1体いる場合、さらに追加でM1つ消耗する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27408,8 +27480,8 @@ enough to place onto the list, it is removed from play.</seg>
       <tuv lang="EN-US">
         <seg>If in a forest, you may only move into an adjacent clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T084554Z">
-        <seg>森に移動する場合、隣接区画1つにのみ移動できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183050Z" creationid="nakahodo" creationdate="20180630T084554Z">
+        <seg>あなたが森にいる場合、隣接区画にのみ移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30239,6 +30311,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you exhaust a X, T, or B on a track, move it to the Satchel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182926Z" creationid="nakahodo" creationdate="20180723T182926Z">
+        <seg>トラックのXTBを消耗させた場合、カバンにそれを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you fall into turmoil, discard all of the cards in the Decree except any Loyal Viziers.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T002915Z" creationid="aorin" creationdate="20171216T002915Z">
@@ -30739,6 +30819,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T090525Z" creationid="nakahodo" creationdate="20180630T090525Z">
         <seg>遺跡から最後のアイテムを取り除いた場合、遺跡マーカーを取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you remove the last item from a ruin, remove the ruin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183204Z" creationid="nakahodo" creationdate="20180723T183204Z">
+        <seg>遺跡から最後のアイテムを取った場合、遺跡マーカーを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38923,6 +39011,14 @@ Blend Slates.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place any listed T, X, and B items face up on the matching tracks of your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182723Z" creationid="nakahodo" creationdate="20180723T182723Z">
+        <seg>TXBはあなたの派閥ボードの一致するトラックに表向きで配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place extras in the Archive.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171229T180009Z" creationid="nakahodo" creationdate="20171229T180009Z">
@@ -40128,6 +40224,14 @@ Plan Supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T084950Z" creationid="nakahodo" creationdate="20180630T084950Z">
         <seg>手札からカード1枚をプレイし、記述された民のHを消耗して、それをクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play a card from your hand, and exhaust the H of listed suit to craft it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183709Z" creationid="nakahodo" creationdate="20180723T183709Z">
+        <seg>あなたの手札からカード1枚をプレイして、それに一致するスートのHを消耗させることで、それをクラフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42679,6 +42783,14 @@ the start of each Research Track.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T151552Z" creationid="nakahodo" creationdate="20180601T151552Z">
         <seg>できるだけ、未配置のヒーローキューブを戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return any remaining “S” items to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182738Z" creationid="nakahodo" creationdate="20180723T182738Z">
+        <seg>ゲームボックスに残った”S”アイテムを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47182,6 +47294,14 @@ closest to 42 wins!</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180719T144445Z">
         <seg>あなたの区画にいるプレイヤー1人から、ランダムなカード1枚を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a relationship marker for each non-Vagabond faction and place them all on the Indifferent space of your Relationships chart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182827Z" creationid="nakahodo" creationdate="20180723T182827Z">
+        <seg>ヴァガボンド以外の派閥ごとに、関係性マーカーを取り、あなたの関係性チャートの無関心スペースにそれら全てを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62225,8 +62345,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You cannot move into a forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T083226Z" creationid="nakahodo" creationdate="20180630T083226Z">
-        <seg>森には移動できません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183036Z" creationid="nakahodo" creationdate="20180630T083226Z">
+        <seg>このアクションにより森に移動することは出来ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62727,6 +62847,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may battle with Allied warriors (9.2.9.IIc).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183109Z" creationid="nakahodo" creationdate="20180723T183109Z">
+        <seg>あなたは友軍戦士たちと共に戦闘できます（9.2.9.IIc）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may build a maximum of five visible Rooms in your dungeon.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180528T210518Z" creationid="aorin" creationdate="20180528T210518Z">
@@ -63063,6 +63191,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may move into an adjacent clearing or forest without exhausting any M, even for moving into a Hostile clearing (9.2.9.IIIb).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T182903Z" creationid="nakahodo" creationdate="20180723T182903Z">
+        <seg>いずれかのMを消耗させることなく、1つ隣接する区画か森に移動1回ができます。これは敵対区画にも移動できます（9.2.9.III.b）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may move through Pits, spending movement points normally.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T011758Z" creationid="aorin" creationdate="20180410T011711Z">
@@ -63091,6 +63227,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T083207Z" creationid="nakahodo" creationdate="20180630T083207Z">
         <seg>あなたは同盟戦士たちと共に移動できます（9.2.9）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move with Allied warriors (9.2.9.IIb).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183006Z" creationid="nakahodo" creationdate="20180723T183006Z">
+        <seg>あなたは友軍戦士たちと共に移動できます（9.2.9.IIb）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63379,6 +63523,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T145420Z" creationid="nakahodo" creationdate="20180723T145420Z">
         <seg>あなたは、何度でも反乱を起こすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may score one victory point per quest of matching suit you have completed, including this one, or draw two cards from the deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T183530Z" creationid="nakahodo" creationdate="20180723T183527Z">
+        <seg>あなたは、今回のものを加えて、完了したクエストのスートに一致する完了済みクエストの数だけ、勝利点を得点するか、共通デッキからカード2枚をドローするかを選択します。</seg>
       </tuv>
     </tu>
     <tu>
