@@ -367,6 +367,14 @@ b	効果。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Add this to points scored for enemy buildings and tokens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T173447Z" creationid="nakahodo" creationdate="20180723T170413Z">
+        <seg>(この追加no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(All Dark tiles are provided by the Cave player, if present.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T201523Z" creationid="nakahodo" creationdate="20180411T201440Z">
@@ -17682,6 +17690,15 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180525T121615Z" creationid="nakahodo" creationdate="20180525T121615Z">
         <seg>全ての通常ヒーローカードが公開されるまで、エピックヒーローは公開されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not score a point for removing the warrior that made the faction Hostile.) b Moving into Hostile Clearings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T170416Z" creationid="nakahodo" creationdate="20180723T170416Z">
+        <seg>（派閥と敵対するために戦士1体を取り除いた時は勝利点を得点しません）
+b	敵対区画への移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60331,6 +60348,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you remove a piece of a Hostile faction in battle, score one victory point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T170411Z" creationid="nakahodo" creationdate="20180723T170411Z">
+        <seg>あなたが戦闘で敵対派閥の戦士1体を取り除くたびに、2勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you remove a warrior of a Hostile faction in battle, score two victory points.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T072453Z" creationid="nakahodo" creationdate="20180630T072453Z">
@@ -65062,6 +65087,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T211705Z" creationid="nakahodo" creationdate="20180629T211705Z">
         <seg>a	コスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a Infamy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T170403Z" creationid="nakahodo" creationdate="20180723T170403Z">
+        <seg>a	汚名。</seg>
       </tuv>
     </tu>
     <tu>
