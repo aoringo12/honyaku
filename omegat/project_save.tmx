@@ -1210,6 +1210,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The defender still discards their ambush card.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111952Z" creationid="nakahodo" creationdate="20180723T111952Z">
+        <seg>（この場合もディフェンダーはプレイしたアンブッシュカードを捨て札にします）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The players must agree to the goal number during setup.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T102210Z" creationid="aorin" creationdate="20180410T102210Z">
@@ -1222,6 +1230,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T133138Z" creationid="aorin" creationdate="20171215T133138Z">
         <seg>（遺跡トークンには次のアイテムが含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The use of “will” here reflects that hits are not dealt until step 3.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112212Z" creationid="nakahodo" creationdate="20180723T112113Z">
+        <seg>（ここで”ことになるでしょう”としているのは、ステップ3までヒットを実際に適応しないからです）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1454,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T145440Z" creationid="nakahodo" creationdate="20180430T145440Z">
         <seg>（補助するためにはクリスタルタイルに居る必要がある）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(You score one victory point per enemy building or token you cause to be removed by dealing a hit.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112448Z" creationid="nakahodo" creationdate="20180723T112448Z">
+        <seg>（あなたがヒットを与えることによって、敵の建物かトークンが1つ取り除かれるごとに、1勝利点を特典します）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6069,6 +6093,14 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.2 Move</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111608Z" creationid="nakahodo" creationdate="20180723T111608Z">
+        <seg>4.2	移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.2 Scoring Victory Points</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T103532Z" creationid="nakahodo" creationdate="20180629T103532Z">
@@ -6085,10 +6117,34 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.2.1 You Must Rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111643Z" creationid="nakahodo" creationdate="20180723T111643Z">
+        <seg>4.2.1	支配しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.2.2 Crafting Items.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T112418Z" creationid="nakahodo" creationdate="20180629T112418Z">
         <seg>4.2.2	アイテムをクラフトする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.2.2 No Movement Limits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111707Z" creationid="nakahodo" creationdate="20180723T111707Z">
+        <seg>4.2.2	移動上限はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111725Z" creationid="nakahodo" creationdate="20180723T111725Z">
+        <seg>4.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -6109,6 +6165,14 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.3.1 Step 1:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111756Z" creationid="nakahodo" creationdate="20180723T111756Z">
+        <seg>4.3.1	ステップ1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.3.2 Activated Cards.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113556Z" creationid="nakahodo" creationdate="20180629T113544Z">
@@ -6117,10 +6181,26 @@ SET UP</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.3.2 Step 2:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111957Z" creationid="nakahodo" creationdate="20180723T111957Z">
+        <seg>4.3.2	ステップ2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.3.3 Spending for Suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T113654Z" creationid="nakahodo" creationdate="20180629T113654Z">
         <seg>4.3.3	スートとして消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.3.3 Step 3:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112316Z" creationid="nakahodo" creationdate="20180723T112316Z">
+        <seg>4.3.3	ステップ3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9599,8 +9679,8 @@ next player.</seg>
       <tuv lang="EN-US">
         <seg>After the defender plays an ambush card, the attacker may cancel its effect by also playing an ambush card matching the clearing of the battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T101643Z">
-        <seg>ディフェンダーがアンブッシュカードをプレイした後、アタッカーは戦場になる区画に一致するアンブッシュカードをプレイすることで、その効果をキャンセルできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111933Z" creationid="nakahodo" creationdate="20180629T101643Z">
+        <seg>ディフェンダーがアンブッシュカードをプレイした後、アタッカーもまた戦場になる区画のスートに一致するアンブッシュカードをプレイすることで、その効果をキャンセルできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14797,8 +14877,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose another player in the clearing of battle to be the defender.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T101151Z">
-        <seg>戦闘になる区画のプレイヤー1人を選択し、ディフェンダーとします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111751Z" creationid="nakahodo" creationdate="20180629T101151Z">
+        <seg>戦闘になる区画にピースを持つプレイヤー1人を選択し、ディフェンダーとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16490,8 +16570,8 @@ Place the board in the middle of the table.</seg>
       <tuv lang="EN-US">
         <seg>Defender May Ambush.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T184642Z" creationid="nakahodo" creationdate="20180630T184642Z">
-        <seg>ディフェンダーはアンブッシュを使用できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111803Z" creationid="nakahodo" creationdate="20180630T184642Z">
+        <seg>ディフェンダーはアンブッシュカードを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25384,8 +25464,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>I Foil Ambush.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101512Z" creationid="nakahodo" creationdate="20180629T101512Z">
-        <seg>I	アンブッシュの対処。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111859Z" creationid="nakahodo" creationdate="20180629T101512Z">
+        <seg>I	アンブッシュへの対処。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25424,8 +25504,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>I Maximum Rolled Hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T102125Z" creationid="nakahodo" creationdate="20180629T102101Z">
-        <seg>I	ロールによるヒットの最大。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112219Z" creationid="nakahodo" creationdate="20180629T102101Z">
+        <seg>I	ダイスロールによるヒットの最大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27896,6 +27976,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the ambush is not foiled, the defender deals two hits immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111910Z" creationid="nakahodo" creationdate="20180723T111839Z">
+        <seg>アンブッシュへの対処がされない場合、ディフェンダーは直ちに2ヒット相手に与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the attack did not involve another player (for example, if you smash a Crystal in a game with no Cave player, or if you are attacked by the non-player Shadow Unicorn), then you must place your piece on any unoccupied Dark tile whose symbol matches the top tile of the Cave tile stack.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T010046Z" creationid="aorin" creationdate="20180410T010046Z">
@@ -28050,8 +28138,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If the defender has no warriors in the clearing of battle, the attacker will deal an extra hit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T103220Z" creationid="nakahodo" creationdate="20180629T103220Z">
-        <seg>ディフェンダーが戦場で戦士を持たない場合、アタッカーは相手に1ヒットを追加で与えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112311Z" creationid="nakahodo" creationdate="20180629T103220Z">
+        <seg>ディフェンダーが戦場で戦士を持たない場合、アタッカーは相手に追加の1ヒットを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29167,8 +29255,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you are prompted to take multiple moves, you may move the same or separate groups of warriors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101010Z" creationid="nakahodo" creationdate="20180629T101010Z">
-        <seg>複数の移動を行うよう指示された場合、1つの戦士のグループを移動させても良いですし、複数のグループに回数を分けて移動させることもできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111724Z" creationid="nakahodo" creationdate="20180629T101010Z">
+        <seg>複数の移動を行うよう指示された場合、1つの戦士のグループを複数回移動させても良いですし、複数のグループに回数を分けて移動させることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42449,8 +42537,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Roll both dice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101845Z" creationid="aorin" creationdate="20171215T223914Z">
-        <seg>両方のダイスロールをします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112014Z" creationid="aorin" creationdate="20171215T223914Z">
+        <seg>アタッカーが両方のダイスロールをします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50095,8 +50183,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The attacker will deal hits equal to the higher roll, and the defender will deal hits equal to the lower roll.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T101912Z" creationid="aorin" creationdate="20171215T224054Z">
-        <seg>アタッカーは高い出目に等しいヒットを相手に与え、ディフェンダーは低い出目に等しいヒットを相手に与えます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112118Z" creationid="aorin" creationdate="20171215T224054Z">
+        <seg>アタッカーは高い出目に等しい数のヒットを相手に与え、ディフェンダーは低い出目に等しい数のヒットを相手に与えることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50343,8 +50431,8 @@ explore by placing their Field Researcher pawns.</seg>
       <tuv lang="EN-US">
         <seg>The defender may play an ambush card matching the clearing of battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T101244Z">
-        <seg>ディフェンダーは戦場となる区画に一致するアンブッシュカード1枚をプレイできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111816Z" creationid="nakahodo" creationdate="20180629T101244Z">
+        <seg>ディフェンダーは戦場となる区画スートに一致するアンブッシュカード1枚をプレイできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50969,8 +51057,8 @@ their track in the same order.</seg>
       <tuv lang="EN-US">
         <seg>The maximum hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T102849Z" creationid="nakahodo" creationdate="20180629T102109Z">
-        <seg>ロールによって与えられるヒットの最大数は、アタッカーかディフェンダーかに関わらず、戦場にいる自身の戦士数に等しいです。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112236Z" creationid="nakahodo" creationdate="20180629T102109Z">
+        <seg>ダイスロールによって与えられるヒットの最大数は、アタッカーかディフェンダーかに関わらず、戦場区画にいる自身の戦士数に等しいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52195,6 +52283,14 @@ from Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The viable factions at each player count are listed in the learning-to-play guide (page 22).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T112540Z" creationid="nakahodo" creationdate="20180723T112540Z">
+        <seg>プレイヤーの人数によって可能な派閥は、プレイ学習ガイドに記述されています（ページ22）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The village is divided into 6 charters, each with 6 hexagonal plots.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T130818Z" creationid="nakahodo" creationdate="20171224T130818Z">
@@ -52858,6 +52954,14 @@ and place it into their Neighborhood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180412T144053Z" creationid="nakahodo" creationdate="20180412T144053Z">
         <seg>その後、ユニコーンは対象を攻撃します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, the defender discards the ambush card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111848Z" creationid="nakahodo" creationdate="20180723T111848Z">
+        <seg>その後、ディフェンダーはアンブッシュカードを捨て札にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55210,8 +55314,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To take a move, you must rule the origin clearing, destination clearing, or both.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T100746Z">
-        <seg>移動するには、移動元の区画か移動先の区画、またはその両方を支配する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111659Z" creationid="nakahodo" creationdate="20180629T100746Z">
+        <seg>移動するには、移動元の区画、または、移動先の区画、またはその両方を支配する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58332,8 +58436,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you move, you may take any number of your warriors or your pawn from one clearing and move them to one adjacent clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T192546Z" creationid="nakahodo" creationdate="20180629T100514Z">
-        <seg>あなたが移動する時、区画1つから任意の数の戦士を取り、隣接する区画1つへと彼らを全員移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T111634Z" creationid="nakahodo" creationdate="20180629T100514Z">
+        <seg>あなたが移動する時、区画1つから任意の数の戦士を取り、隣接する区画1つへと全て移動させます。</seg>
       </tuv>
     </tu>
     <tu>
