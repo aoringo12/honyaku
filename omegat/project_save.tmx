@@ -360,8 +360,8 @@
       <tuv lang="EN-US">
         <seg>(A given Aid action counts toward only one improvement in relationship.) b Effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T155701Z" creationid="nakahodo" creationdate="20180723T155701Z">
-        <seg>（1回の援助アクションは、関係性を1つ改善するためにのみカウントされます）
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164415Z" creationid="nakahodo" creationdate="20180723T155701Z">
+        <seg>（1回の援助アクションは、関係性を1つ改善するためにのみカウントされます。関係性マーカーが進むと、援助アクションの回数はリセットされます）
 b	効果。</seg>
       </tuv>
     </tu>
@@ -20070,8 +20070,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Each time you Aid an Allied faction, score two victory points.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213128Z" creationid="nakahodo" creationdate="20180629T213128Z">
-        <seg>同盟派閥を援助するたびに、2勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164446Z" creationid="nakahodo" creationdate="20180629T213128Z">
+        <seg>友軍派閥を援助するたびに、2勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26209,8 +26209,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>II Allied Status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T215411Z" creationid="nakahodo" creationdate="20180629T212717Z">
-        <seg>II	同盟状態。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164331Z" creationid="nakahodo" creationdate="20180629T212717Z">
+        <seg>II	友軍状態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55001,8 +55001,8 @@ with the following exception:</seg>
       <tuv lang="EN-US">
         <seg>This faction is now Allied.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T213038Z" creationid="nakahodo" creationdate="20180629T213012Z">
-        <seg>この派閥は今や同盟です。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164438Z" creationid="nakahodo" creationdate="20180629T213012Z">
+        <seg>この派閥とは今や友軍なりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60139,6 +60139,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you move during Daylight, you may move warriors from one Allied faction with you from your origin clearing to your destination clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164451Z" creationid="nakahodo" creationdate="20180723T164451Z">
+        <seg>Whenever you move during Daylight, you may move warriors from one Allied faction with you from your origin clearing to your destination clearing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you move the progress token onto an income icon (O), gain 3 VP.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T203447Z" creationid="aorin" creationdate="20171231T203447Z">
@@ -65116,8 +65124,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>b Moving with Ally.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T214123Z" creationid="nakahodo" creationdate="20180629T213140Z">
-        <seg>b	同盟と共に移動。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T164450Z" creationid="nakahodo" creationdate="20180629T213140Z">
+        <seg>b	友軍と共に移動。</seg>
       </tuv>
     </tu>
     <tu>
