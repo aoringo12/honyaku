@@ -7278,8 +7278,8 @@ PASS</seg>
       <tuv lang="EN-US">
         <seg>8.4.2 Spread Sympathy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T193229Z">
-        <seg>8.4.2	賛同の消費。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150557Z" creationid="nakahodo" creationdate="20180629T193229Z">
+        <seg>8.4.2	賛同を広める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10856,8 +10856,8 @@ be higher-ranked than a Regular Blend of black beans.</seg>
       <tuv lang="EN-US">
         <seg>An unsympathetic clearing adjacent to a sympathetic clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T193500Z" creationid="nakahodo" creationdate="20180629T192645Z">
-        <seg>賛同区画に隣接する非賛同区画1つが選択できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150722Z" creationid="nakahodo" creationdate="20180629T192645Z">
+        <seg>賛同区画に隣接する、非賛同区画1つが選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21681,6 +21681,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180411T200044Z" creationid="nakahodo" creationdate="20180411T200044Z">
         <seg>最後に、あなたのターン時にのみ、ユニコーンキューブのないクリスタルタイルにいた場合、そこにユニコーンキューブを配置して輝き1を得ることができます。そこにトレジャートークンがある場合、これを収集して輝き1を得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, place one warrior in the Officers box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150437Z" creationid="nakahodo" creationdate="20180723T150437Z">
+        <seg>最後に、将校ボックスに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43774,8 +43782,8 @@ the start of each Research Track.</seg>
       <tuv lang="EN-US">
         <seg>Score the victory points listed on the space revealed on your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T194515Z">
-        <seg>あなたの派閥ボード上の賛同トラックにある、公開されたスペースに記述された勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151329Z" creationid="nakahodo" creationdate="20180629T194515Z">
+        <seg>あなたの派閥ボード上の賛同者トラックにある、公開されたスペースに記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45928,6 +45936,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T193600Z" creationid="nakahodo" creationdate="20180629T193600Z">
         <seg>選択した区画にいる森の民に一致する。支援者カードを指示された枚数、消費します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend supporters matching the suit of the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151020Z" creationid="nakahodo" creationdate="20180723T150946Z">
+        <seg>選択した区画のスートに一致する、支援者カードを消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53368,8 +53384,8 @@ and place it into their Neighborhood.</seg>
       <tuv lang="EN-US">
         <seg>Then, place the base matching the clearing there, and place warriors there equal to the number of sympathetic clearings matching the base’s suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150306Z" creationid="nakahodo" creationdate="20180723T150306Z">
-        <seg>その後、その区画に一致するスートの基地を配置し、マップ上にある同じスートの賛同区画の数と等しいだけ、戦士ををこに配置します。例えば、対象区画のスートがネズミで、マップ上にネズミの民の賛同区画を3つを合計で持っている場合、対象区画には戦士3体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150424Z" creationid="nakahodo" creationdate="20180723T150306Z">
+        <seg>その後、その区画に一致するスートの基地を配置し、今回配置したものに加えて、マップ上にある賛同区画の数と等しいだけ、戦士ををこに配置します。例えば、対象区画のスートがネズミで、マップ上にネズミの賛同区画を3つ合計で持っている場合、対象区画には戦士3体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63061,6 +63077,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may spread sympathy any number of times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T150608Z" creationid="nakahodo" creationdate="20180723T150526Z">
+        <seg>あなたは任意の回数、賛同を広めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may still activate this Tribe as normal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T080035Z" creationid="nakahodo" creationdate="20180413T080022Z">
@@ -63647,8 +63671,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You must spend another matching supporter if the target clearing has at least three warriors belonging to another player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T194351Z" creationid="nakahodo" creationdate="20180629T194341Z">
-        <seg>対象区画が他プレイヤーに属する戦士を少なくとも3体を持つ場合、あなたは支援者を追加で1枚、消費する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151252Z" creationid="nakahodo" creationdate="20180629T194341Z">
+        <seg>対象区画が他プレイヤーに属する戦士を少なくとも3体持つ場合、あなたは支援者カードを追加で1枚、消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
