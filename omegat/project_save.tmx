@@ -4104,6 +4104,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.5.4 The Vagabond Pawn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105857Z" creationid="nakahodo" creationdate="20180723T105857Z">
+        <seg>2.5.4	ヴァガボンドポーン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.5.5 Items.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T094517Z" creationid="nakahodo" creationdate="20180629T094517Z">
@@ -4116,6 +4124,14 @@ LOCATIONS IN DETAIL</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T094827Z" creationid="nakahodo" creationdate="20180629T094827Z">
         <seg>2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.6 Play Area</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105958Z" creationid="nakahodo" creationdate="20180723T105958Z">
+        <seg>2.6	プレイエリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -27098,8 +27114,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If one of your buildings is removed, return it to the rightmost empty space of its track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093457Z" creationid="nakahodo" creationdate="20180629T093457Z">
-        <seg>建物を取り除く場合、一番右の空いたスペースにこれを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105809Z" creationid="nakahodo" creationdate="20180629T093457Z">
+        <seg>建物を取り除く場合、トラックの一番右空きスペースにこれを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28855,8 +28871,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you are prompted to place a token, take the leftmost token from its track, if any, or take it from your supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T093713Z" creationid="nakahodo" creationdate="20180629T093514Z">
-        <seg>トークンの配置を指示された場合、そのトラックの一番左からトークンを取るか、自身のサプライから取ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105836Z" creationid="nakahodo" creationdate="20180629T093514Z">
+        <seg>トークンの配置を指示された場合、そのトラックの一番左から、または、自身のサプライからトークンを取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28893,6 +28909,14 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are prompted to remove an item, return it to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105950Z" creationid="nakahodo" creationdate="20180723T105950Z">
+        <seg>ああんたがアイテムを取り除くよう指示されば場合、それをゲームボックスに戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are prompted to remove an item, return it to the shared supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T094825Z" creationid="nakahodo" creationdate="20180629T094825Z">
@@ -28921,6 +28945,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T094624Z" creationid="nakahodo" creationdate="20180629T094624Z">
         <seg>アイテムを取るよう指示された場合、共有サプライからこれを取り、自身の派閥ボードにあるクラフトされたアイテムボックスへと配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are prompted to take an item, take it from the shared supply on the map and place it in the Crafted Items box on your faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105924Z" creationid="nakahodo" creationdate="20180723T105924Z">
+        <seg>アイテムを取るよう指示された場合、共通サプライからこれを取り、自身の派閥ボードにあるクラフトされたアイテムボックスへと配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33415,6 +33447,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T093410Z" creationid="nakahodo" creationdate="20180629T093410Z">
         <seg>ML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T105849Z" creationid="nakahodo" creationdate="20180723T105849Z">
+        <seg>MO</seg>
       </tuv>
     </tu>
     <tu>
