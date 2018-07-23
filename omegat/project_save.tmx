@@ -7292,10 +7292,26 @@ PASS</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.5.1 Craft.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151416Z" creationid="nakahodo" creationdate="20180723T151416Z">
+        <seg>8.5.1	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8.5.1 Support.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T194601Z" creationid="nakahodo" creationdate="20180629T194601Z">
         <seg>8.5.1	支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.5.2 Mobilize.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151506Z" creationid="nakahodo" creationdate="20180723T151506Z">
+        <seg>8.5.2	動員：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7312,6 +7328,22 @@ PASS</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T194840Z" creationid="nakahodo" creationdate="20180629T194840Z">
         <seg>8.5.3	クラフト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.5.3 Train.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151527Z" creationid="nakahodo" creationdate="20180723T151527Z">
+        <seg>8.5.3	訓練。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151611Z" creationid="nakahodo" creationdate="20180723T151611Z">
+        <seg>8.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -21599,8 +21631,8 @@ Map.</seg>
       <tuv lang="EN-US">
         <seg>Fill your Sympathy track with your sympathy tokens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T142828Z" creationid="nakahodo" creationdate="20180721T053926Z">
-        <seg>賛同者トークンで賛同トラックを満たす。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151347Z" creationid="nakahodo" creationdate="20180721T053926Z">
+        <seg>賛同者トークンで賛同者トラックを満たす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42023,8 +42055,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove one of your warriors from an unsympathetic clearing, place a sympathy token there, and score the victory points listed on the space revealed on your faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180723T142828Z" creationid="nakahodo" creationdate="20180629T195921Z">
-        <seg>非賛同区画1つからあなたの戦士1体を取り除き、そこに賛同者トークン1つを配置し、自身の派閥ボードの賛同トラックにある、公開されたスペースに記述されている勝利点を得点します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151347Z" creationid="nakahodo" creationdate="20180629T195921Z">
+        <seg>非賛同区画1つからあなたの戦士1体を取り除き、そこに賛同者トークン1つを配置し、自身の派閥ボードの賛同者トラックにある、公開されたスペースに記述されている勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45894,8 +45926,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend number of supporters listed on Sympathy track to place a sympathy, adjacent to sympathetic clearing if possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180720T093244Z">
-        <seg>賛同トラックに記述された数の支援者を消費することで、可能であれば、賛同区画に隣接する区画1つに、賛同者1つを配置する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151347Z" creationid="nakahodo" creationdate="20180720T093244Z">
+        <seg>賛同者トラックに記述された数の支援者を消費することで、可能であれば、賛同区画に隣接する区画1つに、賛同者1つを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55165,8 +55197,8 @@ here.</seg>
       <tuv lang="EN-US">
         <seg>This phase has two steps in the following order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195333Z" creationid="nakahodo" creationdate="20180629T195333Z">
-        <seg>あなたの夜は、次の順番に従う2つのステップを持ちます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151618Z" creationid="nakahodo" creationdate="20180629T195333Z">
+        <seg>あなたの夜フェイズは、次の順番に従う2つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62309,6 +62341,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may activate sympathy tokens to craft a card from your hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151437Z" creationid="nakahodo" creationdate="20180723T151437Z">
+        <seg>賛同者トークンを発動することで、あなたの手札からカード1枚をクラフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also play one in battle to deal hits (3.3.1).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T084609Z" creationid="nakahodo" creationdate="20180629T084609Z">
@@ -63687,8 +63727,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You must spend supporters as shown by the cost on your Sympathy track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T103617Z" creationid="nakahodo" creationdate="20180702T103617Z">
-        <seg>賛同トラックのコストに示されるように、支援者カードを消費する必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151347Z" creationid="nakahodo" creationdate="20180702T103617Z">
+        <seg>賛同者トラックのコストに示されるように、支援者カードを消費する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
