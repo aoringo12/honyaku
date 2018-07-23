@@ -10312,6 +10312,14 @@ new Blend is inserted to the right of any Blend it outranks.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of his H match the suit of his current clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T152646Z" creationid="nakahodo" creationdate="20180723T152646Z">
+        <seg>Hは全て、現在いる区画のスートと一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the Mint Tokens, Plans and Buildings
 they own and have control over are considered to be
 in their Neighborhood.</seg>
@@ -38611,8 +38619,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place a warrior in any clearing with a base.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T195614Z" creationid="nakahodo" creationdate="20180629T195614Z">
-        <seg>基地を持任意の区画1つに戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T151938Z" creationid="nakahodo" creationdate="20180629T195614Z">
+        <seg>基地を持つ任意の区画1つに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50458,6 +50466,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond plays all sides of the conflict while going on quests to increase his renown throughout the wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T152258Z" creationid="nakahodo" creationdate="20180723T152258Z">
+        <seg>ヴァガボンドは紛争の当事者たちを渡り歩き、クエストによってウッドランドでの名声を高めるために活動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond plays all sides of the conflict, making friends and enemies as suit his ends, while going on quests to increase his renown throughout the wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T150823Z" creationid="nakahodo" creationdate="20180702T150823Z">
@@ -55762,8 +55778,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To move and act effectively the Vagabond must manage his pack of items, expanding his selection by exploring the forest ruins and providing aid to other factions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T201847Z" creationid="nakahodo" creationdate="20180629T201847Z">
-        <seg>効果的に移動とアクションを行うために、ヴァガボンドは森の遺跡を探索し他の派閥を援助することにより、探索自身のパックのアイテムを管理し、選択肢を増やす必要があります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T152557Z" creationid="nakahodo" creationdate="20180629T201847Z">
+        <seg>効果的に移動と行動を行うために、ヴァガボンドはカバンのアイテムを管理し、遺跡を探索したり他派閥を援助してその選択肢を広げる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
