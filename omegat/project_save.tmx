@@ -2707,8 +2707,8 @@ board.</seg>
       <tuv lang="EN-US">
         <seg>1.1.2 Use of “Cannot.” Any rule that uses the term “cannot” is absolute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T064628Z" creationid="nakahodo" creationdate="20180629T064628Z">
-        <seg>1.1.2	「不可」の使用。任意のルールが使用する「不可」は絶対的なものになります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103007Z" creationid="nakahodo" creationdate="20180629T064628Z">
+        <seg>1.1.2	「出来ない」の使用。任意のルールが使用する「出来ない」は絶対的なものになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,16 +3962,16 @@ LOCATIONS IN DETAIL</seg>
       <tuv lang="EN-US">
         <seg>2.1.2 Draw from Shared Deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083347Z" creationid="nakahodo" creationdate="20180629T083347Z">
-        <seg>2.1.2	共有デッキからのドロー。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103504Z" creationid="nakahodo" creationdate="20180629T083347Z">
+        <seg>2.1.2	共通デッキからのドロー。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2.1.3 Spend and Discard to Shared Pile.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083800Z" creationid="nakahodo" creationdate="20180629T083431Z">
-        <seg>2.1.3	共有捨て札山へと消費や捨て札にする。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103601Z" creationid="nakahodo" creationdate="20180629T083431Z">
+        <seg>2.1.3	共通捨て札山へと消費や捨て札にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16975,8 +16975,8 @@ Track will go first.</seg>
       <tuv lang="EN-US">
         <seg>Do not confuse this shared deck with the types of cards used by specific factions, as listed on the backs of their faction boards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T213029Z" creationid="nakahodo" creationdate="20180630T213029Z">
-        <seg>派閥ボードの裏に記述されるように、特定の派閥が使用する種類のカードを共有デッキに混ぜないようにしてください。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103505Z" creationid="nakahodo" creationdate="20180630T213029Z">
+        <seg>派閥ボードの裏に記述されるように、特定の派閥が使用する種類のカードを共通デッキに混ぜないようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18654,6 +18654,14 @@ colors.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each card has a suit:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103221Z" creationid="nakahodo" creationdate="20180723T103221Z">
+        <seg>各カードは1つのスートを持ちます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each card has three uses:</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205335Z" creationid="aorin" creationdate="20171215T205335Z">
@@ -19144,8 +19152,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each player places their score marker on “0” on the score track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T120016Z" creationid="nakahodo" creationdate="20180629T120016Z">
-        <seg>各プレイヤはスコアトラックの「0」に自身のスコアマーカーを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103528Z" creationid="nakahodo" creationdate="20180629T120016Z">
+        <seg>各プレイヤは勝利点トラックの「0」に自身の勝利点トラックを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20863,6 +20871,14 @@ Map.</seg>
         <seg>Faction icons mark rules that are modified by the Faction Rules and Abilities section of the Marquise (M), Eyrie (E), Alliance (A), Vagabond (V), Cult (L), or Riverfolk (O)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T063747Z" creationid="nakahodo" creationdate="20180629T063638Z">
+        <seg>マルキス（M）、鷲（E）、同盟（A）、ヴァガボンド（V）、カルト（L）、リバーフォーク（O）で表される派閥アイコンは、派閥ルールと能力セクションによって変更されるルールとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faction icons mark rules that are modified by the Faction Rules and Abilities section of the Marquise (M), Eyrie (E), Alliance (A), Vagabond (V), Cult (L), or Riverfolk (O).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T102901Z" creationid="nakahodo" creationdate="20180723T102901Z">
         <seg>マルキス（M）、鷲（E）、同盟（A）、ヴァガボンド（V）、カルト（L）、リバーフォーク（O）で表される派閥アイコンは、派閥ルールと能力セクションによって変更されるルールとなります。</seg>
       </tuv>
     </tu>
@@ -27266,8 +27282,16 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If text in the learn-to-play guide conflicts with text in the rules reference, the rules reference takes precedence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063937Z" creationid="nakahodo" creationdate="20180629T063937Z">
-        <seg>このルールリファレンスのテキストと、学習プレイガイドのテキストが矛盾した場合、このルールリファレンスが優先されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T102949Z" creationid="nakahodo" creationdate="20180629T063937Z">
+        <seg>ルールリファレンスのテキストと、学習プレイガイドのテキストが矛盾した場合、ルールリファレンスが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If text on a card conflicts with text in the rules reference, the card takes precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T102937Z" creationid="nakahodo" creationdate="20180723T102937Z">
+        <seg>ルールリファレンス（本書）のテキストとカードのテキストで矛盾が生じた場合、カードが優先されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27738,8 +27762,8 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       <tuv lang="EN-US">
         <seg>If the deck is empty, shuffle the discard pile to form a new deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083451Z" creationid="nakahodo" creationdate="20180629T083429Z">
-        <seg>デッキが空の場合、捨て札山をシャッフルして新しいデッキを作ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103605Z" creationid="nakahodo" creationdate="20180629T083429Z">
+        <seg>デッキが空の場合、捨て札山をシャッフルして新しい共通デッキを作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28459,8 +28483,8 @@ stack is first in turn order.</seg>
       <tuv lang="EN-US">
         <seg>If they couldn’t pay, the Alliance would have drawn a card from the deck to add to their Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T102127Z" creationid="nakahodo" creationdate="20180702T102127Z">
-        <seg>支払えない場合、連合は自身の支援者デッキに共有デッキからドローしたカード1枚を追加するでしょう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103505Z" creationid="nakahodo" creationdate="20180702T102127Z">
+        <seg>支払えない場合、連合は自身の支援者デッキに共通デッキからドローしたカード1枚を追加するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28485,8 +28509,8 @@ stack is first in turn order.</seg>
       <tuv lang="EN-US">
         <seg>If they don’t have a matching card, they show you their hand, and then you draw a card from the deck and add it to your Supporters stack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180702T101730Z" creationid="nakahodo" creationdate="20180702T101730Z">
-        <seg>そのプレイヤーが一致するカードを持たない場合、そのプレイヤーは手札をあなたに見せて、その後、あなたは共有デッキからカード1枚をドローしてそれを支援者デッキに追加します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103505Z" creationid="nakahodo" creationdate="20180702T101730Z">
+        <seg>そのプレイヤーが一致するカードを持たない場合、そのプレイヤーは手札をあなたに見せて、その後、あなたは共通デッキからカード1枚をドローしてそれを支援者デッキに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28855,8 +28879,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you are prompted to spend, discard, take, or give a bird card, you cannot substitute a card of another suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083309Z" creationid="nakahodo" creationdate="20180629T083309Z">
-        <seg>あなたが鳥カードを捨て札、取る、消費を指示された場合、あなたは他スートのカードを代わりに出来ません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103429Z" creationid="nakahodo" creationdate="20180629T083309Z">
+        <seg>あなたが鳥カードを捨て札、取る、消費の指示をされた場合、あなたは他スートのカードを代わりに使用出来ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29439,8 +29463,8 @@ Buildings and Plans) wins.</seg>
       <tuv lang="EN-US">
         <seg>If you have at least 10 points, play during Daylight and remove your score marker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180719T104910Z" creationid="nakahodo" creationdate="20180719T104910Z">
-        <seg>あなたが少なくとも10勝利点を持つ場合、昼時にプレイでき、そうした場合、あなたのスコアマーカーを取り除く。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103517Z" creationid="nakahodo" creationdate="20180719T104910Z">
+        <seg>あなたが少なくとも10勝利点を持つ場合、昼時にプレイでき、そうした場合、あなたの勝利点トラックを取り除く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31951,6 +31975,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It cannot be overridden by another rule unless explicitly instructed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103041Z" creationid="nakahodo" creationdate="20180723T103041Z">
+        <seg>明示的に指示がない限り、他ルールによって上書きされることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot be overridden by another rule, unless explicitly instructed.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T064703Z" creationid="nakahodo" creationdate="20180629T064703Z">
@@ -33987,6 +34019,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T213757Z">
         <seg>ルートのほとんどのアクションは、道で接続された12の区画からなる、ウッドランドのマップで展開されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most cards also have an effect you can craft (4.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103303Z" creationid="nakahodo" creationdate="20180723T103303Z">
+        <seg>ほとんどのカードはクラフトできる効果を持ちます（4.1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37443,8 +37483,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place Score Markers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T115931Z" creationid="nakahodo" creationdate="20180629T115931Z">
-        <seg>スコアマーカーを配置する。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103517Z" creationid="nakahodo" creationdate="20180629T115931Z">
+        <seg>勝利点トラックを配置する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38061,8 +38101,8 @@ of his color onto the Slate.</seg>
       <tuv lang="EN-US">
         <seg>Place score markers on the “0” space.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185641Z" creationid="nakahodo" creationdate="20180630T185641Z">
-        <seg>スコアトラックの「0」スペースへとスコアマーカーを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103528Z" creationid="nakahodo" creationdate="20180630T185641Z">
+        <seg>勝利点トラックの「0」スペースへと勝利点トラックを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39066,6 +39106,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play continues until one player has won the game (3.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103209Z" creationid="nakahodo" creationdate="20180723T103209Z">
+        <seg>プレイヤー1人のゲーム勝利条件が達成されるまで、ゲームは続けられます（3.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play continues until one player has won the game (4.1).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T082135Z" creationid="nakahodo" creationdate="20180629T082135Z">
@@ -39337,8 +39385,8 @@ deals are binding, and a player can never show the contents of their Roaster unl
       <tuv lang="EN-US">
         <seg>Players may only give cards to each other if explicitly instructed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T081310Z" creationid="nakahodo" creationdate="20180629T080541Z">
-        <seg>プレイヤーたちは明確に指示されている場合、互いにカード渡すことができます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103153Z" creationid="nakahodo" creationdate="20180629T080541Z">
+        <seg>プレイヤーたちは明確に指示されている場合のみ、互いにカードを渡すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41223,8 +41271,8 @@ the game box.</seg>
       <tuv lang="EN-US">
         <seg>Remove your score marker from the score track.</seg>
       </tuv>
-      <tuv lang="JA" changeid="aorin" changedate="20171215T232147Z" creationid="aorin" creationdate="20171215T232147Z">
-        <seg>スコアトラックから自身のスコアマーカーを取り除きます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103528Z" creationid="aorin" creationdate="20171215T232147Z">
+        <seg>勝利点トラックから自身の勝利点トラックを取り除きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44018,8 +44066,8 @@ the World Map.</seg>
       <tuv lang="EN-US">
         <seg>Shuffle the shared deck of 54 cards, and deal three cards to each player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T212801Z" creationid="nakahodo" creationdate="20180630T212801Z">
-        <seg>カード54枚の共有デッキをシャッフルし、各プレイヤーにカード3枚を配ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103505Z" creationid="nakahodo" creationdate="20180630T212801Z">
+        <seg>カード54枚の共通デッキをシャッフルし、各プレイヤーにカード3枚を配ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46497,8 +46545,8 @@ do not show what’s in it.</seg>
       <tuv lang="EN-US">
         <seg>Text in small capitals defines key terms.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T063343Z" creationid="nakahodo" creationdate="20180629T063343Z">
-        <seg>小さな全大文字テキストは主要な用語を定義します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T102830Z" creationid="nakahodo" creationdate="20180629T063343Z">
+        <seg>太字テキストは主要な用語を定義します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52650,8 +52698,8 @@ to stop.</seg>
       <tuv lang="EN-US">
         <seg>There are five ambush cards:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083828Z" creationid="nakahodo" creationdate="20180629T083828Z">
-        <seg>5つのアンブッシュカードがあります：</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103640Z" creationid="nakahodo" creationdate="20180629T083828Z">
+        <seg>5枚のアンブッシュカードがあります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54354,8 +54402,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>Throughout play, you will draw cards from Root’s shared deck into your hand, and many actions will require you to spend cards from your hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T223334Z" creationid="nakahodo" creationdate="20180630T223334Z">
-        <seg>プレイを通して、共有デッキからあなたの手札にカードをドローし、多くのアクションアクションで手札からカードを消費する必要が出てくるでしょう。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103505Z" creationid="nakahodo" creationdate="20180630T223334Z">
+        <seg>プレイを通して、共通デッキからあなたの手札にカードをドローし、多くのアクションアクションで手札からカードを消費する必要が出てくるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57724,8 +57772,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you are prompted to discard or give away fox, rabbit, or mouse cards, you must treat your bird cards as the prompted suit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083115Z" creationid="nakahodo" creationdate="20180629T083115Z">
-        <seg>あなたがキツネ、ウサギ、ネズミカードを捨て札にしたり取ることを指示された時、指示されたスートとして鳥カードを扱わなければなりません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103401Z" creationid="nakahodo" creationdate="20180629T083115Z">
+        <seg>あなたがキツネ、ウサギ、ネズミカードを捨て札や取るなどの指示をされた時、指示されたスートとして鳥カードを扱わなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58554,6 +58602,14 @@ be added to the Blend Slate from the Fields.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever you are prompted to discard or spend a card, place it in the shared discard pile unless it is a dominance card (3.3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103631Z" creationid="nakahodo" creationdate="20180723T103620Z">
+        <seg>あなたがカードの消費や捨て札にする指示をされるたび、それを共通捨て札山に配置します（3.3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever you are prompted to discard or spend a card, place it in the shared discard pile, unless it is a dominance card (4.3).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T083747Z" creationid="nakahodo" creationdate="20180629T083747Z">
@@ -58564,8 +58620,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever you are prompted to draw a card, take it from the shared deck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T083429Z" creationid="nakahodo" creationdate="20180629T083429Z">
-        <seg>カードのドローを指示された時、共有デッキからカードをドローします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103505Z" creationid="nakahodo" creationdate="20180629T083429Z">
+        <seg>カードのドローを指示された時、共通デッキからカードをドローします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61141,6 +61197,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may also play one in battle to deal hits (4.3.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103756Z" creationid="nakahodo" creationdate="20180723T103756Z">
+        <seg>また、戦闘で相手にヒットを与えるためにプレイできます（4.3.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also play one to permanently change your victory condition (4.3).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T085315Z" creationid="nakahodo" creationdate="20180629T084934Z">
@@ -61849,6 +61913,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T085214Z" creationid="nakahodo" creationdate="20180629T084928Z">
         <seg>そのスートとしてドミナンスカードを消費できますが、クラフトはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may spend an ambush card for its suit, but it does not have a crafted effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103728Z" creationid="nakahodo" creationdate="20180723T103728Z">
+        <seg>あなたはそのスートとしてアンブッシュカードを消費できますが、このカードにクラフトの効果はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63708,6 +63780,14 @@ with the learn-to-play guide.</seg>
         <seg>bird, fox, rabbit, and mouse.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T205405Z" creationid="aorin" creationdate="20171215T205405Z">
+        <seg>鳥、キツネ、ウサギ、ネズミ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bird, fox, rabbit, or mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103225Z" creationid="nakahodo" creationdate="20180723T103225Z">
         <seg>鳥、キツネ、ウサギ、ネズミ。</seg>
       </tuv>
     </tu>
