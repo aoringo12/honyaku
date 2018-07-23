@@ -4016,6 +4016,14 @@ LOCATIONS IN DETAIL</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.2.2 Suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103908Z" creationid="nakahodo" creationdate="20180723T103908Z">
+        <seg>2.2.2	スート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.2.3 Slots.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T085638Z" creationid="nakahodo" creationdate="20180629T085638Z">
@@ -20127,6 +20135,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T213837Z" creationid="aorin" creationdate="20180114T213837Z">
         <seg>あなたが制御する村は1ワーカーを雇用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every clearing has a suit of mouse, rabbit, or fox.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103925Z" creationid="nakahodo" creationdate="20180723T103925Z">
+        <seg>全ての区画はネズミ、ウサギ、キツネのいずれか1つのスートを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42360,6 +42376,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ruins can only be removed by the Vagabond’s Explore action (9.5.3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104009Z" creationid="nakahodo" creationdate="20180723T104009Z">
+        <seg>遺跡はヴァガボンドの探索アクションでのみ取り除けます（9.5.3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ruins, which fill slots in clearings.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T173750Z">
@@ -44318,6 +44342,14 @@ the World Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T215242Z" creationid="nakahodo" creationdate="20180630T215242Z">
         <seg>スロットが移籍で満たされている場合、ヴァガボンドがそこを探索するまで、建物を建築することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slots marked with a small “R” begin the game filled with ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T104002Z" creationid="nakahodo" creationdate="20180723T104002Z">
+        <seg>ゲーム開始時、小さな”R”が記述されたスロットは遺跡で埋まっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52731,8 +52763,8 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
       <tuv lang="EN-US">
         <seg>There are four dominance cards matching the four suits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085150Z" creationid="nakahodo" creationdate="20180629T084928Z">
-        <seg>4つのスートに一致するドミナンスカードが4枚あります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103815Z" creationid="nakahodo" creationdate="20180629T084928Z">
+        <seg>4つのスートに一致するドミナンスカード4枚があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61205,6 +61237,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may also play one to permanently change your victory condition (3.3).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103847Z" creationid="nakahodo" creationdate="20180723T103847Z">
+        <seg>これらはあなたの勝利条件を永久的に変更できます（3.3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may also play one to permanently change your victory condition (4.3).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T085315Z" creationid="nakahodo" creationdate="20180629T084934Z">
@@ -61911,8 +61951,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You may spend a dominance card for its suit, but it cannot be crafted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T085214Z" creationid="nakahodo" creationdate="20180629T084928Z">
-        <seg>そのスートとしてドミナンスカードを消費できますが、クラフトはできません。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T103832Z" creationid="nakahodo" creationdate="20180629T084928Z">
+        <seg>そのスートとしてドミナンスカードを消費できますが、このカードにクラフトの効果はありません。</seg>
       </tuv>
     </tu>
     <tu>
