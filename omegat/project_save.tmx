@@ -32871,6 +32871,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It holds a relationship marker from each non-Vagabond faction in play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154622Z" creationid="nakahodo" creationdate="20180723T154622Z">
+        <seg>このチャートはゲームをプレイしているヴァガボンド以外の派閥の関係性マーカー1つずつを保持します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is Ada’s turn, and she does not have any reinforcement orders to give.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180115T072437Z" creationid="aorin" creationdate="20180115T072437Z">
@@ -64724,6 +64732,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T211318Z" creationid="nakahodo" creationdate="20180629T211318Z">
         <seg>ヴァガボンドの派閥ボードには、敵対ボックス1つと友好トラックのスペースの関係性チャートが表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your faction board shows a Relationships chart, which has four spaces on the Allied track and one Hostile box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180723T154617Z" creationid="nakahodo" creationdate="20180723T154617Z">
+        <seg>あなたの派閥ボードには、敵対ボックス1つと友軍トラックのスペース4つを持つ、関係性チャートがあります。</seg>
       </tuv>
     </tu>
     <tu>
