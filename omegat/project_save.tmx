@@ -12765,10 +12765,26 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacker may cancel defender’s ambush card by also playing ambush card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123406Z" creationid="nakahodo" creationdate="20180729T123406Z">
+        <seg>アタッカーもまたアンブッシュカードをプレイすることで、ディフェンダーのアンブッシュカードをキャンセルできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attacker will deal hits equal to higher roll, and defender will deal hits equal to lower roll.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T184720Z" creationid="nakahodo" creationdate="20180630T184720Z">
         <seg>アタッカーは高い出目に等しいヒットを相手に与え、ディフェンダーは低い出目に等しいヒットを相手に与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attacker will deal hits equal to the higher roll, and defender will deal hits equal to the lower roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123414Z" creationid="nakahodo" creationdate="20180729T123414Z">
+        <seg>アタッカーは高い出目に等しい数のヒットを相手に与え、ディフェンダーは低い出目に等しい数のヒットを相手に与えることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13305,6 +13321,14 @@ also receive 2 Honey pots</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on a concept by Patrick Leder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122753Z" creationid="nakahodo" creationdate="20180729T122753Z">
+        <seg>Based on a concept by Patrick Leder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on your capacity, keep some components and discard the rest to the general supply.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T224033Z" creationid="nakahodo" creationdate="20171224T224033Z">
@@ -13366,6 +13390,14 @@ also receive 2 Honey pots</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T184407Z" creationid="nakahodo" creationdate="20180630T184407Z">
         <seg>戦闘（3.3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Battle (4.3)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123322Z" creationid="nakahodo" creationdate="20180729T123322Z">
+        <seg>戦闘（4.3）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16411,6 +16443,14 @@ including, but not limited to:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft (4.1)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122813Z" creationid="nakahodo" creationdate="20180729T122813Z">
+        <seg>クラフト(4.1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft a card from your hand, using sympathy tokens.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180702T094210Z" creationid="nakahodo" creationdate="20180629T195043Z">
@@ -17329,6 +17369,14 @@ Track will go first.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T115707Z" creationid="nakahodo" creationdate="20180629T115648Z">
         <seg>スタートプレイヤーを決定し、席に付きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development by Leder Games’ St. Paul staff—</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122753Z" creationid="nakahodo" creationdate="20180729T122753Z">
+        <seg>Development by Leder Games’ St. Paul staff—</seg>
       </tuv>
     </tu>
     <tu>
@@ -19715,8 +19763,8 @@ colors.</seg>
       <tuv lang="EN-US">
         <seg>Each hit removes one piece—warriors first, then buildings and tokens as chosen by the player taking the hits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T185450Z" creationid="nakahodo" creationdate="20180630T185447Z">
-        <seg>各ヒットはピース1つを取り除きます。まず戦士を、その後建物とトークンとなります。ヒットを受けたプレイヤーがこれらは選択します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123603Z" creationid="nakahodo" creationdate="20180630T185447Z">
+        <seg>各ヒットはピース1つを取り除きます。まず戦士を、その後建物とトークンとなります。ヒットを受けたプレイヤーがこれらを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20586,6 +20634,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T024622Z" creationid="aorin" creationdate="20180408T024622Z">
         <seg>イージー：憑依デッキを通常どおり形成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing by Joshua Yearsley.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122753Z" creationid="nakahodo" creationdate="20180729T122753Z">
+        <seg>Editing by Joshua Yearsley.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23255,6 +23311,14 @@ and effects, see Appendix A on page 16.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form item supply near the top of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123702Z" creationid="nakahodo" creationdate="20180729T123702Z">
+        <seg>マップの上部近くにアイテムサプライを作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form supplies of 25 warriors and 8 wood tokens near you.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T113246Z" creationid="nakahodo" creationdate="20180629T141633Z">
@@ -23998,6 +24062,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game design by Cole Wehrle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122752Z" creationid="nakahodo" creationdate="20180729T122752Z">
+        <seg>Game design by Cole Wehrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game end</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T032312Z" creationid="aorin" creationdate="20171213T032312Z">
@@ -24099,6 +24171,14 @@ place them on the table as shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T151420Z" creationid="nakahodo" creationdate="20171230T151420Z">
         <seg>全てのプレイヤーピースを集め、自身のチャーターチェストへと入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gather overview cards and the two dice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123714Z" creationid="nakahodo" creationdate="20180729T123714Z">
+        <seg>概要カードとダイス2つを集めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24394,6 +24474,14 @@ place them on the table as shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give board and pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123618Z" creationid="nakahodo" creationdate="20180729T123618Z">
+        <seg>ボードとピースを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give each player Penalty Points as depicted on the Silver and Gold track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T171450Z" creationid="aorin" creationdate="20171212T171450Z">
@@ -24641,6 +24729,14 @@ and a Research Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180311T070815Z" creationid="nakahodo" creationdate="20180311T070815Z">
         <seg>宝石6つを取り（各色2つずつ）、各ガーデンセクターに宝石をランダムに1つずつ配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphic design and layout by Cole Wehrle, Kyle Ferrin, Nick Brachmann, and Jaime Willems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122754Z" creationid="nakahodo" creationdate="20180729T122754Z">
+        <seg>Graphic design and layout by Cole Wehrle, Kyle Ferrin, Nick Brachmann, and Jaime Willems.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28947,6 +29043,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the defender has no warriors in the clearing of battle, the attacker deals an extra hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123547Z" creationid="nakahodo" creationdate="20180729T123540Z">
+        <seg>ディフェンダーが戦場で戦士を持たない場合、アタッカーはディフェンダーに追加ヒット1つを与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the defender has no warriors in the clearing of battle, the attacker will deal an extra hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T112311Z" creationid="nakahodo" creationdate="20180629T103220Z">
@@ -28983,6 +29087,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T101910Z" creationid="nakahodo" creationdate="20180108T101910Z">
         <seg>ゲームがキャンペーンの一部である場合、オートマも人間プレイヤーのように通常のゲーム終了ステップに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the item supply on the map does not have the listed item to take, you cannot craft the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123147Z" creationid="nakahodo" creationdate="20180729T123147Z">
+        <seg>マップのアイテムサプライから記述されたアイテムを取れない場合、そのカードはクラフトできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30328,6 +30440,22 @@ Buildings and Plans) wins.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you craft a persistent effect, place the card in your play area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123213Z" creationid="nakahodo" creationdate="20180729T123213Z">
+        <seg>あなたが永続効果をクラフトする場合、カードをあなたのプレイエリアに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you craft an immediate effect, resolve it and discard the card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123054Z" creationid="nakahodo" creationdate="20180729T123054Z">
+        <seg>あなたが即時効果をクラフトした場合、それを解決し、カードを捨て札にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you craft an improvement, place the card in your play area.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T184141Z" creationid="nakahodo" creationdate="20180630T184141Z">
@@ -31654,6 +31782,14 @@ the Supplier without emptying any spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180719T144325Z" creationid="nakahodo" creationdate="20180719T144252Z">
         <seg>あなたがクラフトする時、あなたの貿易軽視を無視する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illustrations by Kyle Ferrin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122752Z" creationid="nakahodo" creationdate="20180729T122752Z">
+        <seg>Illustrations by Kyle Ferrin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33987,6 +34123,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key References</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122802Z" creationid="nakahodo" creationdate="20180729T122802Z">
+        <seg>主要リファレンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key References Craft (3.1)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T173733Z" creationid="nakahodo" creationdate="20180630T173733Z">
@@ -35490,6 +35634,14 @@ returned to the general supply (see page 18).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move (4.2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123241Z" creationid="nakahodo" creationdate="20180729T123241Z">
+        <seg>移動（4.2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move 1 of your Pixies up 1 row.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171213T040623Z" creationid="aorin" creationdate="20171213T040623Z">
@@ -36606,6 +36758,14 @@ they may use Leadership Council to retain it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171213T131357Z" creationid="nakahodo" creationdate="20171213T131357Z">
         <seg>提供フェイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often these effects will let you take an item from the supply on the map and score victory points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123124Z" creationid="nakahodo" creationdate="20180729T123124Z">
+        <seg>多くの効果は、あなたにマップのサプライからアイテムと勝利点の得点を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38001,6 +38161,14 @@ afford are taken into consideration.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T213928Z" creationid="nakahodo" creationdate="20180531T213928Z">
         <seg>パラディン、スケルトン、スパイダー、館、エンチャンター。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patrick Leder, Cole Wehrle, Jake Tonding, Clayton Capra, and Nick Brachmann—and by the intrepid Joshua Yearsley.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122753Z" creationid="nakahodo" creationdate="20180729T122753Z">
+        <seg>Patrick Leder, Cole Wehrle, Jake Tonding, Clayton Capra, and Nick Brachmann—and by the intrepid Joshua Yearsley.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39550,6 +39718,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place ruins in the four slots marked with “R.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123641Z" creationid="nakahodo" creationdate="20180729T123641Z">
+        <seg>”R”マークのあるスロット4つに遺跡を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place ruins on each slot with a ruin icon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185607Z" creationid="nakahodo" creationdate="20180630T185607Z">
@@ -40589,6 +40765,14 @@ Plan Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play a card and activate the crafting pieces of the suits listed in its bottom-left corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123034Z" creationid="nakahodo" creationdate="20180729T122846Z">
+        <seg>カード1枚をプレイし、その左下角に記述されるスートのクラフピースを指定数、発動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play a card face down to an empty Hideout card slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T053815Z" creationid="aorin" creationdate="20171216T053815Z">
@@ -41186,6 +41370,14 @@ Roasters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playtesting by Grayson Page &amp; his amazing group (including Martin, Jared, Richard, Tony, Harvey, etc.), Chas Threlkeld, Drew Wehrle, Blake Wehrle, Corey Porter, Kyle Kirk, Matthew Root, Mark von Minden, Davey Janik-Jones, the stalwart players of the First Minnesota, Jim Bolland, Melissa Lewis-Gentry and Modern Myths, Jennifer Gutterman and Hampshire College, Matthew Snow, Justin Dowd and the Brass Cat, the whole Owl &amp; Raven crew, Josh Houser, Brian Peterson, Ethan Zimmerman, Brandi Leder, Heather Brian, and the many others who have played Root across its development.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122756Z" creationid="nakahodo" creationdate="20180729T122756Z">
+        <seg>Playtesting by Grayson Page &amp; his amazing group (including Martin, Jared, Richard, Tony, Harvey, etc.), Chas Threlkeld, Drew Wehrle, Blake Wehrle, Corey Porter, Kyle Kirk, Matthew Root, Mark von Minden, Davey Janik-Jones, the stalwart players of the First Minnesota, Jim Bolland, Melissa Lewis-Gentry and Modern Myths, Jennifer Gutterman and Hampshire College, Matthew Snow, Justin Dowd and the Brass Cat, the whole Owl &amp; Raven crew, Josh Houser, Brian Peterson, Ethan Zimmerman, Brandi Leder, Heather Brian, and the many others who have played Root across its development.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plot Twist lets you place a Ghost tile (of your choice), Dark side up, in a surrounding space.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180408T044750Z" creationid="aorin" creationdate="20180408T044750Z">
@@ -41609,6 +41801,14 @@ Producer, Wholesaler, Builder, Supplier, Leadership</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180108T150942Z" creationid="nakahodo" creationdate="20180108T150840Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proofreading by Kate Unrau.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122754Z" creationid="nakahodo" creationdate="20180729T122754Z">
+        <seg>Proofreading by Kate Unrau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44418,6 +44618,14 @@ the start of each Research Track.</seg>
         <seg>Score a victory point each time you remove a building or token.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T185510Z" creationid="nakahodo" creationdate="20180630T185448Z">
+        <seg>あなたが建物やトークン1つを取り除くたびに、勝利点1つを得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Score a victory point each time you remove an enemy building or token.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123608Z" creationid="nakahodo" creationdate="20180729T123608Z">
         <seg>あなたが建物やトークン1つを取り除くたびに、勝利点1つを得点します。</seg>
       </tuv>
     </tu>
@@ -47250,6 +47458,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 7:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123715Z" creationid="nakahodo" creationdate="20180729T123715Z">
+        <seg>ステップ7：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Still tied?</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171212T030704Z" creationid="aorin" creationdate="20171212T025227Z">
@@ -47781,8 +47997,8 @@ closest to 42 wins!</seg>
       <tuv lang="EN-US">
         <seg>Take any number of your warriors or your pawn from one clearing and move them to one adjacent clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T184331Z">
-        <seg>区画1つから、あなたのポーンか、任意の数の戦士たちを取り、1つ隣接した区画にそれらを移動させます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123309Z" creationid="nakahodo" creationdate="20180630T184331Z">
+        <seg>区画1つから、あなたのポーンか、任意の数の戦士たちを取り、1つ隣接した区画1つにそれらを移動させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52514,6 +52730,14 @@ their track in the same order.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum hits you can deal by rolling equals your number of warriors in the clearing of battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123506Z" creationid="nakahodo" creationdate="20180729T123506Z">
+        <seg>あなたの最大ヒット数は、戦闘区画にいるあなたの戦士数に等しい数となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum hits you can deal from rolling equals the number of your warriors in the clearing of battle, whether you are the attacker or defender.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T112236Z" creationid="nakahodo" creationdate="20180629T102109Z">
@@ -53575,6 +53799,14 @@ is intended to be a concise, authoritative, and complete reference.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T165445Z" creationid="nakahodo" creationdate="20180703T165211Z">
         <seg>鷲とマルキス間の闘争は、ゲームの典型的な特徴決定づけるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suit of a crafting piece matches its clearing, and you can activate each crafting piece only once per turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123027Z" creationid="nakahodo" creationdate="20180729T123027Z">
+        <seg>クラフトピースのスートはそれがある区画と同じになり、各クラフトピースはターンごとに1度のみ発動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62130,8 +62362,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>You can battle in a clearing where you have warriors or your pawn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T184631Z">
-        <seg>戦士たちかポーンを持つ区画1つで戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123357Z" creationid="nakahodo" creationdate="20180630T184631Z">
+        <seg>自身の戦士たちかポーンを持つ区画1つで戦闘を開始できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62828,6 +63060,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T111559Z" creationid="nakahodo" creationdate="20180723T111559Z">
         <seg>あなたのプレイエリアに同じ永続効果を持つ場合、その永続効果をクラフトできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot craft a persistent effect if you have one of the same name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T123237Z" creationid="nakahodo" creationdate="20180729T123237Z">
+        <seg>あなたが同じ名前の永続効果を持つ場合、そのカードのクラフトはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63756,6 +63996,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T164234Z" creationid="nakahodo" creationdate="20180604T164052Z">
         <seg>あなたがアタックする各対象ピースを1スペース強制移動させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may move each service marker to any space on its track, setting it to a new cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122744Z" creationid="nakahodo" creationdate="20180729T122744Z">
+        <seg>各サービスマーカーをサービストラックの任意のスペースに移動し、サービスの新しい価格を設定します。</seg>
       </tuv>
     </tu>
     <tu>
