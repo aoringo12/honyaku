@@ -496,6 +496,14 @@ b	敵対区画への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Dominance cards become available to take.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074633Z" creationid="nakahodo" creationdate="20180729T074633Z">
+        <seg>（ドミナンスカードは利用可能になります）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Draw these cards in addition to your draw on the Marquise’s turn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T052943Z" creationid="aorin" creationdate="20171216T052943Z">
