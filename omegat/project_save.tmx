@@ -3381,6 +3381,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.5.5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122102Z" creationid="nakahodo" creationdate="20180729T122102Z">
+        <seg>11.5.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11.5.5 Recruit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T172618Z" creationid="nakahodo" creationdate="20180630T172613Z">
@@ -3397,6 +3405,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.5.6 Establish Trade Post with Garrison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122150Z" creationid="nakahodo" creationdate="20180729T122150Z">
+        <seg>11.5.6	駐屯地を持つ交易所を設置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11.6 Evening</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T173258Z" creationid="nakahodo" creationdate="20180630T173258Z">
@@ -3409,6 +3425,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T173451Z" creationid="nakahodo" creationdate="20180630T173451Z">
         <seg>9.6.3	カードを捨て札にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.6.2 Set Costs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122733Z" creationid="nakahodo" creationdate="20180729T122733Z">
+        <seg>11.6.2	コストの設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15399,8 +15423,8 @@ contribute.</seg>
       <tuv lang="EN-US">
         <seg>Choose any clearing without a trade post that is ruled by any player.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T173120Z">
-        <seg>任意のプレイヤーに支配され、交易所がない任意の区画を選択します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122233Z" creationid="nakahodo" creationdate="20180630T173120Z">
+        <seg>任意のプレイヤーに支配され、交易所がない任意の区画1つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15942,8 +15966,8 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Commit funds to craft a card from your hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165614Z" creationid="nakahodo" creationdate="20180630T165614Z">
-        <seg>1資金を委託することで、あなたの手札からカード1枚をクラフトできます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121910Z" creationid="nakahodo" creationdate="20180630T165614Z">
+        <seg>資金を指定数、委託することで、あなたの手札からカード1枚をクラフトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26705,6 +26729,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>III Place Trade Post, Warrior, and Score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122312Z" creationid="nakahodo" creationdate="20180729T122312Z">
+        <seg>III	交易所、戦士を配置し、得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>III Recruit.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T195547Z" creationid="nakahodo" creationdate="20180629T195547Z">
@@ -32972,6 +33004,14 @@ indicates an action that must be performed for a specific Country in that region
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T165719Z" creationid="nakahodo" creationdate="20180630T165719Z">
         <seg>委託ボックスに戦士を移動する代わりに、クラフトコストに記述された民に一致する交易所トラックの空きスペースにそれらを配置する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of moving these warriors to the Committed box, you must place them on empty spaces of the Trade Posts tracks matching the suits listed on the crafting cost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121957Z" creationid="nakahodo" creationdate="20180729T121901Z">
+        <seg>委託ボックスに戦士を移動する代わりに、クラフトコストに記述されたスートに一致する交易所トラックの空気スペースへと、それらを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39862,6 +39902,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the matching trade post and one warrior in the chosen clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122355Z" creationid="nakahodo" creationdate="20180729T122355Z">
+        <seg>選択した区画に、スートの一致する交易所と、戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the other three Skeleton pieces near your player board.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T203357Z" creationid="nakahodo" creationdate="20180601T203357Z">
@@ -46585,8 +46633,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend one fund to place a warrior in any clearing with a river.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T172614Z">
-        <seg>1資金を消費することで、任意の川を持つ区画1つに戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122120Z" creationid="nakahodo" creationdate="20180630T172614Z">
+        <seg>1資金を消費することで、川が通る任意の区画1つに戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46721,8 +46769,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two funds of the player who rules the chosen clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T173242Z">
-        <seg>選択した区画を支配しているプレイヤーと一致する、2資金を消費します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122258Z" creationid="nakahodo" creationdate="20180630T173242Z">
+        <seg>選択した区画を支配しているプレイヤーと一致する、資金2つを消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46737,8 +46785,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two funds to place a trade post and a warrior.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T173017Z" creationid="nakahodo" creationdate="20180630T173017Z">
-        <seg>2資金を商して、交易所1つと戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122212Z" creationid="nakahodo" creationdate="20180630T173017Z">
+        <seg>2資金を消費して、交易所1つと戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63656,6 +63704,14 @@ with the learn-to-play guide.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may ignore the listed benefit of crafting a card, disarding it, to place one of your warriors in the Payments box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122054Z" creationid="nakahodo" creationdate="20180729T122054Z">
+        <seg>クラフトするカードの記述された恩恵を無視して、これを捨て札にすることで、支払いボックスに自身の戦士1体を配置することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may immediately collect this token as part of the same Encounter, or you may collect it later as part of another Encounter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180601T065441Z" creationid="nakahodo" creationdate="20180601T065203Z">
@@ -65365,8 +65421,8 @@ with the learn-to-play guide.</seg>
       <tuv lang="EN-US">
         <seg>Your Evening has two steps in the following order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180629T162353Z" creationid="nakahodo" creationdate="20180629T162353Z">
-        <seg>あなたの夜は、次の順番に従う2つのステップを持ちます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T122711Z" creationid="nakahodo" creationdate="20180629T162353Z">
+        <seg>あなたの夜フェイズは、次の順番に従う2つのステップを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
