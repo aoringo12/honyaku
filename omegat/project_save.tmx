@@ -2893,8 +2893,8 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>10.2.2 Hatred of Birds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113625Z" creationid="nakahodo" creationdate="20180630T113625Z">
-        <seg>10.2.2	取りの憎悪。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073257Z" creationid="nakahodo" creationdate="20180630T113625Z">
+        <seg>10.2.2	鳥の憎悪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2911,6 +2911,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T113849Z" creationid="nakahodo" creationdate="20180630T113726Z">
         <seg>10.2.4	注意をそらす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.2.4 Pilgrims.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073348Z" creationid="nakahodo" creationdate="20180729T073348Z">
+        <seg>10.2.4	巡礼者</seg>
       </tuv>
     </tu>
     <tu>
@@ -13612,6 +13620,14 @@ is turned over.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bird cards are not wild for Cult rituals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073303Z" creationid="nakahodo" creationdate="20180729T073252Z">
+        <seg>鳥カードはあなたの儀式アクションに対してワイルドではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bird cards are not wild for the Cult.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T113639Z" creationid="nakahodo" creationdate="20180630T113639Z">
@@ -14805,8 +14821,8 @@ in players’ Neighborhoods.</seg>
       <tuv lang="EN-US">
         <seg>Catering to those creatures who have been discarded by the other factions, the Lizard Cult seeks to overwhelm its foes through sheer force of will.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T111929Z" creationid="nakahodo" creationdate="20180630T111929Z">
-        <seg>リザード・カルトは他の派閥によって爪弾きにされたモノたちに手を差し伸べ、意思の力により敵を倒す力を蓄えています。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072512Z" creationid="nakahodo" creationdate="20180630T111929Z">
+        <seg>リザード・カルトは他の派閥によって爪弾きにされたモノたちに手を差し伸べ、意思の力により敵を倒すため力を蓄えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25754,6 +25770,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T113040Z" creationid="nakahodo" creationdate="20180630T113040Z">
         <seg>しかしながら、この緩やかなアプローチは、移動と戦闘を難しいものとします。なので、これらアクションはカルトの過激派メンバーによって実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, this gentler approach makes movement and combat operations difficult, so these actions can only be undertaken by the most radicalized members of the Cult.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072617Z" creationid="nakahodo" creationdate="20180729T072617Z">
+        <seg>しかしながら、この緩やかなアプローチは、移動と戦闘を難しいものとします。そのため、これらアクションはカルトの過激派メンバーによって実行されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48568,10 +48592,18 @@ the Turn Order Track in proper order for the Round.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cult crafts during Evening by activating gardens matching the Outcast suit (10.4.1).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073241Z" creationid="nakahodo" creationdate="20180729T073241Z">
+        <seg>カルトは夜フェイズ時、除け者スートに一致する庭園を発動することでクラフトします（10.4.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cult relies on word of mouth and beak to spread its gospel, and new enclaves can spring up anywhere on the map.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T112346Z" creationid="nakahodo" creationdate="20180630T112346Z">
-        <seg>カルトは言葉とくちばしにより教義を広め、ウッドランドのどこにでも新たな仲間を増やします。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072526Z" creationid="nakahodo" creationdate="20180630T112346Z">
+        <seg>カルトは言葉と大きな口により教義を広め、ウッドランドのどこにでも新たな仲間を増やします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57238,8 +57270,8 @@ the most.</seg>
       <tuv lang="EN-US">
         <seg>Unless used for scoring, these cards are not spent and are returned to the Cult’s hand during Evening.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T175515Z" creationid="nakahodo" creationdate="20180703T175515Z">
-        <seg>得点として使用されない限り、これらカードは消費されず、夜フェイズ時にカルトの手札へと返されます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072600Z" creationid="nakahodo" creationdate="20180703T175515Z">
+        <seg>得点として使用されない限り、これら公開されたカードは消費されず、夜フェイズ時にカルトの手札へと返されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59862,8 +59894,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>Whenever a Cult warrior is removed while defending in battle, it is placed in the Acolytes box instead of the Cult’s supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T113820Z" creationid="nakahodo" creationdate="20180630T113724Z">
-        <seg>カルトの戦士1体が戦闘でのディフェンダー時に取り除かれるたびに、カルトのサプライではなく、アコライトボックスに配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073335Z" creationid="nakahodo" creationdate="20180630T113724Z">
+        <seg>カルトの戦士1体が、戦闘でのディフェンダー時に取り除かれるたび、カルトのサプライではなく、アコライトボックスに配置します。</seg>
       </tuv>
     </tu>
     <tu>
