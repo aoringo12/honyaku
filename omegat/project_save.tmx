@@ -3069,8 +3069,8 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>10.5.2 Recruit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114452Z" creationid="nakahodo" creationdate="20180729T114452Z">
-        <seg>10.5.3	雇用。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114513Z" creationid="nakahodo" creationdate="20180729T114452Z">
+        <seg>10.5.2	雇用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3079,6 +3079,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T145347Z" creationid="nakahodo" creationdate="20180630T145311Z">
         <seg>10.5.3	雇用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.3 Score.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114510Z" creationid="nakahodo" creationdate="20180729T114454Z">
+        <seg>10.5.3	得点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31757,8 +31765,8 @@ World Map and collect beans.</seg>
       <tuv lang="EN-US">
         <seg>In a clearing matching the revealed card, place a warrior.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T145335Z">
-        <seg>公開したカードと一致する区画に、戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114505Z" creationid="nakahodo" creationdate="20180630T145335Z">
+        <seg>公開したカードスートと一致する区画に、戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46442,6 +46450,14 @@ in with a specific color.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T150045Z" creationid="nakahodo" creationdate="20180630T150045Z">
         <seg>任意の未公開カードを消費（ロストソウルに配置）して、消費したカードに一致する庭園トラックの最も左の空きスペースの上に記述された勝利点を得点します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend any unrevealed card (placing in Lost Souls) to score the victory points listed above the rightmost empty Gardens space of the suit matching the revealed card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114706Z" creationid="nakahodo" creationdate="20180729T114706Z">
+        <seg>任意の未公開カードを消費（ロストソウル山札に配置）して、消費したカードスートに一致する庭園トラックの、最も左空きスペースの上に記述された勝利点を得点します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63731,6 +63747,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180410T115138Z" creationid="aorin" creationdate="20180410T115138Z">
         <seg>あなたはターン毎に、ペースの数までアクションを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may perform this only once per turn per suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114727Z" creationid="nakahodo" creationdate="20180729T114727Z">
+        <seg>あなたはこれを、ターンごと、スートごと一度のみ実行できます。</seg>
       </tuv>
     </tu>
     <tu>
