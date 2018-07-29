@@ -2995,6 +2995,14 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.4.1 Adjust Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074137Z" creationid="nakahodo" creationdate="20180729T074137Z">
+        <seg>除け者の調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10.4.2 Discard Lost Souls.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T143758Z" creationid="nakahodo" creationdate="20180630T143758Z">
@@ -15164,6 +15172,14 @@ contribute.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073945Z" creationid="nakahodo" creationdate="20180729T073945Z">
+        <seg>除け者の選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Your Form</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180604T143003Z" creationid="nakahodo" creationdate="20180604T143003Z">
@@ -23088,8 +23104,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>Form a supply of 25 warriors near you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T114517Z" creationid="nakahodo" creationdate="20180630T114517Z">
-        <seg>あなたの近くに25戦士のサプライを作ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073752Z" creationid="nakahodo" creationdate="20180630T114517Z">
+        <seg>あなたの近くに戦士25体のサプライを作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27826,6 +27842,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no one suit had the most cards, the marker stays on its current space and side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074608Z" creationid="nakahodo" creationdate="20180729T074341Z">
+        <seg>最も多いスートが複数あった場合、除け者マーカーは現在のスートの位置と側で留まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no one suit had the most cards, the outcast marker stays on its current nation and side.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T143749Z" creationid="nakahodo" creationdate="20180630T143749Z">
@@ -28206,6 +28230,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180409T202217Z" creationid="aorin" creationdate="20180409T135901Z">
         <seg>そのスペースが保持する任意のプレイヤーピースをあなたが攻撃できない場合、そのほかのプレイヤーピースを直ちに攻撃するとしても、あなたは追加で+1移動力ポイントを消費する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If that suit was already the Outcast, flip the marker to Hated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074357Z" creationid="nakahodo" creationdate="20180729T074340Z">
+        <seg>そのスートがすでに除け者であった場合、憎悪側にマーカーを返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32359,6 +32391,14 @@ indicates an action that must be performed for a specific Country in that region
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the corner clearing opposite from the Marquise’s keep or Eyrie’s starting roost, place 4 warriors and 1 garden matching the clearing;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073838Z" creationid="nakahodo" creationdate="20180729T073838Z">
+        <seg>マルキスのキープか鷲の開始止まり木から反対角端の区画に、スートの一致する庭園と戦士4体を配置します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the distance, the horizon is a/it with dozens of zeppelins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171230T085225Z" creationid="nakahodo" creationdate="20171230T085225Z">
@@ -34280,6 +34320,14 @@ returned to the general supply (see page 18).</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T182436Z" creationid="nakahodo" creationdate="20180703T182436Z">
         <seg>ロストソウル山札の鳥カード以外のカードを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look at the cards in the Lost Souls pile, ignoring birds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074147Z" creationid="nakahodo" creationdate="20180729T074147Z">
+        <seg>鳥を除いた、ロストソウル山札のカードを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39653,6 +39701,14 @@ of his color onto the Slate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the outcast marker on any suit space in the Outcast box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074012Z" creationid="nakahodo" creationdate="20180729T074012Z">
+        <seg>除け者マーカーを、除け者ボックスの任意のスートスペースへと配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the player score markers next to the score track.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180114T193831Z" creationid="aorin" creationdate="20180114T193831Z">
@@ -39875,6 +39931,14 @@ turn order.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T145311Z" creationid="nakahodo" creationdate="20180723T145311Z">
         <seg>賛同者トラックに賛同者トークン10個を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place your 14 remaining gardens on the matching spaces of your Gardens tracks from right to left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074131Z" creationid="nakahodo" creationdate="20180729T074126Z">
+        <seg>残った庭園14個を、庭園トラックの一致するスペースに右から左へと配置していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53210,10 +53274,26 @@ is intended to be a concise, authoritative, and complete reference.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The suit of this space is called the Outcast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074023Z" creationid="nakahodo" creationdate="20180729T074023Z">
+        <seg>このスペースのスートを除け者スートと呼びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The suit with the most cards becomes the new Outcast Nation— move the outcast marker, with its Outcast side showing, to that nation.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T143552Z" creationid="nakahodo" creationdate="20180630T143552Z">
         <seg>最も多いスートが新しい除け者の民となります。除け者マーカーをその民になるようにスライドさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suit with the most cards becomes the new Outcast—move the outcast marker, showing its Outcast side, to that suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074332Z" creationid="nakahodo" creationdate="20180729T074332Z">
+        <seg>最も多いカードスートが新たな除け者スートとなります。そのスートへと除け者マーカーを除け者側にして配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55689,6 +55769,14 @@ here.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T114001Z" creationid="nakahodo" creationdate="20180630T114001Z">
         <seg>これは鷲の森の領主ルールを上書きします（7.2.2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This overrides the Eyrie’s Lords of the Forest (7.2.2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073604Z" creationid="nakahodo" creationdate="20180729T073604Z">
+        <seg>これは鷲の”森の領主”ルールを上書きします（7.2.2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60072,6 +60160,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T145135Z" creationid="nakahodo" creationdate="20180723T145135Z">
         <seg>他プレイヤーが賛同者トークンを取り除いたり、賛同区画に戦士たちを移動させた時、そのプレイヤーは自身の手札から支援者スタックへと、対象区画のスートに一致するカード1枚を追加しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever any card is spent or discarded (even a dominance card), place it in the Lost Souls pile instead of the discard pile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073735Z" creationid="nakahodo" creationdate="20180729T073735Z">
+        <seg>任意の派閥によって任意のカードが捨て札にされるたびに（ドミナンスカードだとしても）、捨て札山ではなく、カルトのロストソウル山札に配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66108,6 +66204,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180116T040523Z" creationid="aorin" creationdate="20180116T040523Z">
         <seg>しかし、他のプレイヤー全てが何れかを購入するチャンスを得るまで、あなたは別のディスカバリーか将軍を購入するのを待たなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if both the Marquise and Eyrie are in play, choose one of the two other corners.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T073859Z" creationid="nakahodo" creationdate="20180729T073859Z">
+        <seg>マルキスト鷲の両方がゲームに参加している場合、2つの角区画から2つを選択します。</seg>
       </tuv>
     </tu>
     <tu>
