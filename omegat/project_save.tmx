@@ -26448,6 +26448,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Convert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074812Z" creationid="nakahodo" creationdate="20180729T074812Z">
+        <seg>II	転換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Extra Hits.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T102900Z" creationid="nakahodo" creationdate="20180629T102900Z">
@@ -26588,6 +26596,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T192653Z" creationid="nakahodo" creationdate="20180629T192536Z">
         <seg>III	効果の解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Sanctify.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074830Z" creationid="nakahodo" creationdate="20180729T074830Z">
+        <seg>III	聖別。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28406,6 +28422,14 @@ Plan Supply, the game ends and Scoring takes place.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T182921Z" creationid="nakahodo" creationdate="20180703T182921Z">
         <seg>除け者が憎悪側の場合、陰謀のコストはアコライト1体減少します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Outcast is Hated, the conspiracy costs one fewer acolyte.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074743Z" creationid="nakahodo" creationdate="20180729T074743Z">
+        <seg>除け者マーカーが憎悪側だった場合、陰謀コストがアコライト1つ減少します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30883,6 +30907,14 @@ Buildings and Plans) wins.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171231T223154Z" creationid="aorin" creationdate="20171231T223154Z">
         <seg>あなたが支払った場合、あなたのオリジナルのワーカーミープルを取り戻し、幽霊ワーカーをアーカイブに入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you perform Convert or Sanctify, you must complete the conspiracy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074923Z" creationid="nakahodo" creationdate="20180729T074923Z">
+        <seg>あなたが転換か聖別アクションを実行する場合、あなたは陰謀を終了する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46486,6 +46518,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend two acolytes to initiate a battle in an Outcast clearing or to move from an Outcast clearing and then, if you wish, initiate a battle in the destination clearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074756Z" creationid="nakahodo" creationdate="20180729T074756Z">
+        <seg>アコライト2体を消費することで、除け者区画で戦闘を開始する。または、除け者区画から移動1回を行い、その後、望むなら移動先区画で戦闘を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend two acolytes to remove an enemy warrior from a clearing of the Outcast Nation, and then place one warrior there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T144619Z">
@@ -46497,6 +46537,14 @@ in with a specific color.</seg>
         <seg>Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place a warrior there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T183718Z">
+        <seg>アコライト2体を消費することで、除け者区画1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place one warrior there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074812Z" creationid="nakahodo" creationdate="20180729T074812Z">
         <seg>アコライト2体を消費することで、除け者区画1つから敵戦士1体を取り除き、その後、そこにあなたの戦士1体を配置します。</seg>
       </tuv>
     </tu>
@@ -62283,6 +62331,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T144214Z">
         <seg>あなたはアコライトを消費することで、除け者の民に一致する区画で陰謀を実行できます。それは次のものを、任意の順番と組み合わせで行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can spend acolytes to perform conspiracies in clearings matching the Outcast, in any order and combination, as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075702Z" creationid="nakahodo" creationdate="20180729T074723Z">
+        <seg>あなたはアコライトを消費することで、除け者スートに一致する区画（除け者区画）で陰謀を実行できます。それは次のものを、任意の順番と組み合わせで行います。</seg>
       </tuv>
     </tu>
     <tu>
