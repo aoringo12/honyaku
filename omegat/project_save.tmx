@@ -1235,6 +1235,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The buyer may buy this service multiple times as long as they have access to enough trade posts.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120610Z" creationid="nakahodo" creationdate="20180729T120610Z">
+        <seg>（購入者は十分な数の交易所があれば、複数回このサービスを利用できます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The defender still discards the played ambush card.)</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T101737Z" creationid="nakahodo" creationdate="20180629T101737Z">
@@ -12460,6 +12468,14 @@ Mint Supply.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the start of another player’s Birdsong, that player may buy Riverfolk services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120318Z" creationid="nakahodo" creationdate="20180729T120036Z">
+        <seg>他プレイヤーは、そのプレイヤーの朝フェイズ開始時に、リバーフォークのサービスを購入できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the start of the Cult’s turn, the most common suit of Lost Souls sets the Outcast, the suit of clearings where the Cult can perform conspiracies with their acolytes for that turn.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T182213Z">
@@ -18328,6 +18344,14 @@ b	敵対区画に移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During Daylight and Evening of this turn, the buyer treats Riverfolk warriors as their own only for rule and for battle against factions other than the Riverfolk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120757Z" creationid="nakahodo" creationdate="20180729T120757Z">
+        <seg>このターンの昼と夜フェイズ時、購入者はリバーフォーク以外の派閥に対しての支配や戦闘のみにおいて、リバーフォーク派閥の戦士たちを自身のものとして扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During Daylight, the acting player can take an available special victory card into their hand by spending a card of matching suit.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171215T232519Z" creationid="aorin" creationdate="20171215T232519Z">
@@ -20385,6 +20409,14 @@ Map.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20180526T102902Z" creationid="aorin" creationdate="20180526T102902Z">
         <seg>各ターン、あなたはモンスタールームまたはトラップルームを建築することにより、ダンジョンを拡大できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each turn, a player may buy one service plus one per clearing with a trade post where that player has any pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120441Z" creationid="nakahodo" creationdate="20180729T120321Z">
+        <seg>各ターン、プレイヤーはサービス1つの購入できます。さらに、そのプレイヤーが所有する、任意のピースがある交易所を持つ区画ごとに、サービス1つを購入できます（支配している必要はありません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26528,6 +26560,14 @@ the highest turn order is placed higher on the List.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>II Number of Services.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120330Z" creationid="nakahodo" creationdate="20180729T120255Z">
+        <seg>II	サービスの数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II Reverse Substitution.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180629T083319Z" creationid="nakahodo" creationdate="20180629T083131Z">
@@ -26538,8 +26578,8 @@ the highest turn order is placed higher on the List.</seg>
       <tuv lang="EN-US">
         <seg>II Riverboats.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T162256Z" creationid="nakahodo" creationdate="20180630T162256Z">
-        <seg>II	リバーボート。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120630Z" creationid="nakahodo" creationdate="20180630T162256Z">
+        <seg>II	川船。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26660,6 +26700,14 @@ the highest turn order is placed higher on the List.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T173252Z" creationid="nakahodo" creationdate="20180630T173252Z">
         <seg>III	勝利点を得点する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>III Vagabond Funds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120450Z" creationid="nakahodo" creationdate="20180729T120450Z">
+        <seg>III	ヴァガボンドの資産。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50478,8 +50526,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Riverfolk place their hand face up above their faction board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T154108Z" creationid="nakahodo" creationdate="20180630T154108Z">
-        <seg>リバーフォークは自身の派閥ボード上部に表向きで、自身の手札を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T115838Z" creationid="nakahodo" creationdate="20180630T154108Z">
+        <seg>リバーフォークは自身の手札を自身の派閥ボード上部に表向きで配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51126,8 +51174,8 @@ consecutively pass, ending the phase.</seg>
       <tuv lang="EN-US">
         <seg>The Vagabond pays for services by exhausting items—for each item he exhausts to do so, the Riverfolk place one of their own warriors in the Payments box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T161836Z" creationid="nakahodo" creationdate="20180630T161836Z">
-        <seg>ヴァガボンドアイテムを消耗させることでサービスの支払いをします。そうしてアイテム1つを消耗させるごとに、リバーフォークは支払いボックスに自身の戦士1体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120503Z" creationid="nakahodo" creationdate="20180630T161836Z">
+        <seg>ヴァガボンドはアイテムを消耗させることでサービスの支払いをします。そうしてアイテム1つを消耗させるごとに、リバーフォークは支払いボックスに自身の戦士1体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51559,6 +51607,14 @@ explore by placing their Field Researcher pawns.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The buyer must place warriors from their supply into the Riverfolk’s Payments box equal in number to the cost of that service listed on the Riverfolk’s Services track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120254Z" creationid="nakahodo" creationdate="20180729T120254Z">
+        <seg>購入者は、リバーフォークのサービストラックに記述されている、そのサービスコスト数に等しい数だけ、リバーフォークの支払いボックスに自身のサプライから戦士たちを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The buyer pays for services by taking warriors from their own supply and placing them in the Riverfolk’s Payments box.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T200042Z" creationid="nakahodo" creationdate="20180703T200042Z">
@@ -51579,6 +51635,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T162103Z" creationid="nakahodo" creationdate="20180630T162103Z">
         <seg>購入者はリバーフォーク手札から任意のカードを取り、自身の手札としてそれを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buyer takes any card from the Riverfolk’s hand and adds it to their hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120528Z" creationid="nakahodo" creationdate="20180729T120528Z">
+        <seg>購入者はリバーフォークの手札から任意のカード1枚を鳥、自身の手札に加えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56700,8 +56764,8 @@ the ● side.</seg>
       <tuv lang="EN-US">
         <seg>To take many actions, the Riverfolk commit and spend funds:</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T155311Z" creationid="nakahodo" creationdate="20180630T155311Z">
-        <seg>多くのアクションを実行するために、リバーフォークは資金を消費して委託します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T115901Z" creationid="nakahodo" creationdate="20180630T155311Z">
+        <seg>多くのアクションを実行するために、リバーフォークは資金を消費したり委託したりします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60272,6 +60336,14 @@ be added to the Blend Slate from the Fields.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T155528Z" creationid="nakahodo" creationdate="20180630T155528Z">
         <seg>交易所1つが取り除かれるたびに、リバーフォークは自身の手札半分（切り上げ）を取り除きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a trade post is removed, the Riverfolk remove half of their funds, rounded up, and return the trade post to the box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120017Z" creationid="nakahodo" creationdate="20180729T120017Z">
+        <seg>交易所が取り除かれる時、リバーフォークは自身の資金半分を切り上げで取り除き、ゲームボックスにその交易所を戻します。</seg>
       </tuv>
     </tu>
     <tu>
