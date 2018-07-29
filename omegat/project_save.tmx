@@ -1226,6 +1226,15 @@ b	敵対区画への移動。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The buyer cannot move them, count them toward dominance, or remove them except by taking hits.) a Taking Hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120907Z" creationid="nakahodo" creationdate="20180729T120849Z">
+        <seg>（購入者それらの移動、ドミナンスカードへのカウント、受けるヒットを超えて取り除くことはできません）
+.a	ヒットを受ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The buyer cannot use Riverfolk warriors in battle against Riverfolk pieces.) a Vagabond-Hired Mercenaries.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T163410Z" creationid="nakahodo" creationdate="20180630T162934Z">
@@ -1479,6 +1488,14 @@ a	ヴァガボンドが雇用する傭兵。</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T110248Z" creationid="nakahodo" creationdate="20180430T110002Z">
         <seg>（ドラゴンは1回のパワー使用で複数枚の鱗カードを得ることはできません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(You do not score points for warriors in the Payments or Committed boxes.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121349Z" creationid="nakahodo" creationdate="20180729T121349Z">
+        <seg>（支払いボックスや委託ボックスの戦士たちは得点しません）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,8 +3263,8 @@ SOLITAIRE MODE</seg>
       <tuv lang="EN-US">
         <seg>11.3 Faction Setup</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163451Z" creationid="nakahodo" creationdate="20180630T163451Z">
-        <seg>6.3	派閥のセットアップ</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121108Z" creationid="nakahodo" creationdate="20180630T163451Z">
+        <seg>11.3	派閥のセットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3280,6 +3297,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T164139Z" creationid="nakahodo" creationdate="20180630T164139Z">
         <seg>11.3.4	ステップ4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11.3.5 Step 5:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121258Z" creationid="nakahodo" creationdate="20180729T121258Z">
+        <seg>11.3.5	ステップ5：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15941,16 +15966,16 @@ and have decided to Blend.</seg>
       <tuv lang="EN-US">
         <seg>Commit one fund to initiate a battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165545Z" creationid="nakahodo" creationdate="20180630T165545Z">
-        <seg>1資金を委託することで、戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121500Z" creationid="nakahodo" creationdate="20180630T165545Z">
+        <seg>1資金を委託することで、戦闘1回を開始します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Commit one fund to take a move.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T165530Z" creationid="nakahodo" creationdate="20180630T165530Z">
-        <seg>1資金を委託することで、1回移動アクションを実行できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121449Z" creationid="nakahodo" creationdate="20180630T165530Z">
+        <seg>1資金を委託することで、移動1回を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21895,6 +21920,14 @@ Map.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill Trade Posts Tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121226Z" creationid="nakahodo" creationdate="20180729T121226Z">
+        <seg>交易所トラックを満たす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill all new open edges with Dark tiles, drawn from the tile stack, if any.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T234450Z" creationid="nakahodo" creationdate="20180531T234450Z">
@@ -23168,8 +23201,8 @@ and effects, see Appendix A on page 16.</seg>
       <tuv lang="EN-US">
         <seg>Form a supply of 15 warriors near you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180630T163506Z" creationid="nakahodo" creationdate="20180630T163506Z">
-        <seg>あなたの近くに15戦士のサプライを作ります。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121117Z" creationid="nakahodo" creationdate="20180630T163506Z">
+        <seg>あなたの近くに戦士15体のサプライを作ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39309,8 +39342,8 @@ Blend Slates.</seg>
       <tuv lang="EN-US">
         <seg>Place four warriors on any clearing or clearings connected to the river.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T163732Z">
-        <seg>任意の区画か、川に接続された区画1つ以上に戦士4体を配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121219Z" creationid="nakahodo" creationdate="20180630T163732Z">
+        <seg>川に接続された任意の区画1つ以上に戦士4体を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39529,6 +39562,14 @@ of his color onto the Slate.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20171224T141640Z" creationid="nakahodo" creationdate="20171224T141640Z">
         <seg>発展マットにアシスタントカード8枚を配置し、目標マットに目標カード5枚を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the 9 trade posts on the matching spaces of your Trade Posts tracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121253Z" creationid="nakahodo" creationdate="20180729T121253Z">
+        <seg>交易所トラックの一致するスペースに交易所9つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51092,6 +51133,14 @@ consecutively pass, ending the phase.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vagabond cannot buy Riverfolk mercenaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121009Z" creationid="nakahodo" creationdate="20180729T121009Z">
+        <seg>ヴァガボンドはリバーフォークの傭兵を購入できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vagabond deals one hit and moves the Marquise’s relationship marker to Hostile.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180703T083355Z" creationid="nakahodo" creationdate="20180703T083355Z">
@@ -51611,6 +51660,14 @@ explore by placing their Field Researcher pawns.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180729T120254Z" creationid="nakahodo" creationdate="20180729T120254Z">
         <seg>購入者は、リバーフォークのサービストラックに記述されている、そのサービスコスト数に等しい数だけ、リバーフォークの支払いボックスに自身のサプライから戦士たちを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buyer must split hits taken evenly between their pieces and Riverfolk warriors, with the buyer taking odd hits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120942Z" creationid="nakahodo" creationdate="20180729T120851Z">
+        <seg>購入者は戦闘でのヒットをリバーフォークのピースと購入者のピースで均等に分割して受けます。奇数のヒットは購入者が受けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60038,8 +60095,8 @@ be added to the Blend Slate from the Fields.</seg>
       <tuv lang="EN-US">
         <seg>When you spend a fund, return the warrior to its owner’s supply.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180703T202056Z" creationid="nakahodo" creationdate="20180703T202056Z">
-        <seg>あなたが資金を消費する時、所有者のサプライに戦士たちを戻します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T121425Z" creationid="nakahodo" creationdate="20180703T202056Z">
+        <seg>あなたが資金を消費する時、所有者のサプライに消費した戦士たちを戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65935,6 +65992,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T164450Z" creationid="nakahodo" creationdate="20180629T213140Z">
         <seg>b	友軍と共に移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b Vagabond Mercenaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T120955Z" creationid="nakahodo" creationdate="20180729T120955Z">
+        <seg>b	ヴァガボンドの傭兵。</seg>
       </tuv>
     </tu>
     <tu>
