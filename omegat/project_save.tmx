@@ -17590,6 +17590,14 @@ Track will go first.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not add extra quest cards during setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072355Z" creationid="nakahodo" creationdate="20180729T072355Z">
+        <seg>セットアップ時に追加のクエストの用意をしたりしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not add or remove Ghoul discs from the Ghoul player.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180413T085353Z" creationid="nakahodo" creationdate="20180413T085353Z">
@@ -54539,6 +54547,14 @@ will be filled by randomly pulling beans from each player’s Roaster.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These final two sections refer to factions available in The Riverfolk Expansion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072441Z" creationid="nakahodo" creationdate="20180729T072441Z">
+        <seg>これら最後の2セクションはリバーフォーク拡張の利用可能な派閥を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These penalties stack, so moving into a clearing with two Nemesis factions will cost a total of three &lt;boot&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="aorin" changedate="20171216T075500Z" creationid="aorin" creationdate="20171216T075500Z">
@@ -58435,6 +58451,14 @@ of the Plan Deck.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180603T145421Z" creationid="nakahodo" creationdate="20180603T145421Z">
         <seg>スケルトンがアタックしたり、された場合、特に記述されていない限り、そのスケルトンは離散します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a Vagabond explores a ruin with two items, he may look at them and take one of his choice so long as it does not match another “R” item on his faction board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T072317Z" creationid="nakahodo" creationdate="20180729T072041Z">
+        <seg>ヴァガボンド1人がアイテム2つある遺跡で探索アクションをした時、そのプレイヤーは中身を見て、自身の派閥ボードにある、すでにある”R”がマークされたアイテムとは別のアイテム1つを選択して取ります。</seg>
       </tuv>
     </tu>
     <tu>
