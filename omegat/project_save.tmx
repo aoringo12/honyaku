@@ -3035,6 +3035,22 @@ SOLITAIRE MODE</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10.5 Daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075747Z" creationid="nakahodo" creationdate="20180729T075747Z">
+        <seg>10.5	昼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.1 Build.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075839Z" creationid="nakahodo" creationdate="20180729T075839Z">
+        <seg>10.5.1	建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10.5.1 Sacrifice.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T145143Z" creationid="nakahodo" creationdate="20180630T145143Z">
@@ -3047,6 +3063,14 @@ SOLITAIRE MODE</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180630T145229Z" creationid="nakahodo" creationdate="20180630T145229Z">
         <seg>10.5.2	建築。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.5.2 Recruit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T114452Z" creationid="nakahodo" creationdate="20180729T114452Z">
+        <seg>10.5.3	雇用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31741,8 +31765,8 @@ World Map and collect beans.</seg>
       <tuv lang="EN-US">
         <seg>In a clearing you rule matching the revealed card, place a matching garden.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180630T145305Z">
-        <seg>公開したカードに一致する、あなたが支配する区画に、民と一致する庭園1つを配置します。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075856Z" creationid="nakahodo" creationdate="20180630T145305Z">
+        <seg>公開したカードスートに一致する、あなたが支配する区画1つに、一致するスートの庭園1つを配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43271,6 +43295,14 @@ the start of each Research Track.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revealed cards cannot be used for any other purposes during Daylight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075833Z" creationid="nakahodo" creationdate="20180729T075808Z">
+        <seg>公開されたカードは昼フェイズ間、他の目的のために使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revealing Dark Tiles</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180531T233032Z" creationid="nakahodo" creationdate="20180531T233032Z">
@@ -46478,6 +46510,14 @@ in with a specific color.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spend three acolytes to remove an enemy building from an Outcast clearing and then place a garden of matching suit there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075741Z" creationid="nakahodo" creationdate="20180729T075741Z">
+        <seg>アコライト3体を消費することで、除け者区画1つから敵建物1つを取り除き、その後、そこに庭園1つを配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spend three acolytes to remove an enemy building from an Outcast clearing and then place a garden there.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180720T143433Z" creationid="nakahodo" creationdate="20180703T184005Z">
@@ -46520,8 +46560,8 @@ in with a specific color.</seg>
       <tuv lang="EN-US">
         <seg>Spend two acolytes to initiate a battle in an Outcast clearing or to move from an Outcast clearing and then, if you wish, initiate a battle in the destination clearing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nakahodo" changedate="20180729T074756Z" creationid="nakahodo" creationdate="20180729T074756Z">
-        <seg>アコライト2体を消費することで、除け者区画で戦闘を開始する。または、除け者区画から移動1回を行い、その後、望むなら移動先区画で戦闘を開始できます。</seg>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075725Z" creationid="nakahodo" creationdate="20180729T074756Z">
+        <seg>アコライト2体を消費することで、除け者区画で戦闘を開始する。または、除け者区画から移動1回を行うことができ、その後、望むなら移動先区画で戦闘を開始できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63787,6 +63827,14 @@ with the learn-to-play guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180430T142101Z" creationid="nakahodo" creationdate="20180430T142101Z">
         <seg>あなたは別のトレジャートークンやドラゴンジェムを略奪することにより、部族に筋力ディスクを戻せる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may reveal any number of cards from your hand, placing them face up in front of you, and perform one ritual per card revealed, in any order and combination as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180729T075814Z" creationid="nakahodo" creationdate="20180729T075808Z">
+        <seg>あなたの手札から任意の枚数のカードを公開し、それらをあなたの前に表向きで配置し、公開したカードごとに儀式アクション1つを実行することができます。儀式アクションには次のようなものがあり、任意の順番と組み合わせで実行できます。</seg>
       </tuv>
     </tu>
     <tu>
