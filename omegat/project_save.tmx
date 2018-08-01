@@ -10143,6 +10143,14 @@ next player.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the beginning of the game, you may only draw new Spell cards when a card specifically tells you to do so.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nakahodo" changedate="20180801T135907Z" creationid="nakahodo" creationdate="20180801T135907Z">
+        <seg>ゲームの開始後、カードにそう記述されているときのみ、新しいスペルカードをドローできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the defender plays an ambush card, the attacker may cancel its effect by also playing an ambush card matching the clearing of the battle.</seg>
       </tuv>
       <tuv lang="JA" changeid="nakahodo" changedate="20180723T111933Z" creationid="nakahodo" creationdate="20180629T101643Z">
